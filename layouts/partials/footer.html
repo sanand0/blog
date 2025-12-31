@@ -1,0 +1,61 @@
+{{- if not (.Param "hideFooter") }}
+<footer class="footer">
+    {{- $main_sections := site.Params.mainSections | default (slice "posts") -}}
+    {{- $base_path := (urls.Parse site.BaseURL).Path | strings.TrimSuffix "/" -}}
+    {{- $posts := where site.RegularPages "Type" "in" $main_sections -}}
+    {{- $pages := where site.RegularPages "Type" "not in" $main_sections -}}
+    {{- $pages := where $pages "Params.hide" "ne" true -}}
+    <div class="footer-columns">
+        <details class="footer-section">
+            <summary>Categories</summary>
+            <ul>
+                {{- range site.Taxonomies.categories.ByCount }}
+                <li><a href="{{ partial "rel_link.html" (dict "from" $ "to" .Page.RelPermalink) }}">{{ .Page.LinkTitle }}</a> ({{ .Count }})</li>
+                {{- end }}
+            </ul>
+        </details>
+        <details class="footer-section">
+            <summary>Archives</summary>
+            <ul>
+                {{- range $posts.GroupByDate "2006" }}
+                <li><a href="{{ partial "rel_link.html" (dict "from" $ "to" (printf "%s/%s/" $base_path .Key)) }}">{{ .Key }}</a> ({{ len .Pages }})</li>
+                {{- end }}
+            </ul>
+        </details>
+        <details class="footer-section">
+            <summary>Pages</summary>
+            <ul>
+                {{- range sort $pages "Title" }}
+                <li><a href="{{ partial "rel_link.html" (dict "from" $ "to" .RelPermalink) }}">{{ .LinkTitle }}</a></li>
+                {{- end }}
+            </ul>
+        </details>
+    </div>
+</footer>
+<footer class="footer-meta">
+    <a href="https://github.com/sanand0/blog/" rel="noopener" target="_blank">GitHub</a>
+    <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0</a>
+</footer>
+{{- end }}
+
+{{- if (not site.Params.disableScrollToTop) }}
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+{{- end }}
+
+{{- partial "extend_footer.html" . }}
+
+{{- $enable_code_copy := and (eq .Kind "page") (ne .Layout "archives") (ne .Layout "search") (.Param "ShowCodeCopyButtons") -}}
+{{- $script_src := partial "rel_link.html" (dict "from" . "to" "js/site.js") -}}
+<script
+    src="{{ $script_src }}"
+    data-site-script="true"
+    data-enable-scroll-top="{{ if not site.Params.disableScrollToTop }}true{{ else }}false{{ end }}"
+    data-enable-theme-toggle="{{ if not site.Params.disableThemeToggle }}true{{ else }}false{{ end }}"
+    data-enable-code-copy="{{ if $enable_code_copy }}true{{ else }}false{{ end }}"
+    data-code-copy="{{ i18n "code_copy" | default "copy" }}"
+    data-code-copied="{{ i18n "code_copied" | default "copied!" }}"
+    defer></script>

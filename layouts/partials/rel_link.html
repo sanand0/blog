@@ -1,0 +1,24 @@
+{{- $to := .to -}}
+{{- $out := "" -}}
+
+{{- if not $to -}}
+  {{- $out = "" -}}
+{{- else if strings.HasPrefix $to "#" -}}
+  {{- $out = $to -}}
+{{- else if findRE "^[a-z]+:" $to -}}
+  {{- $out = $to -}}
+{{- else -}}
+  {{- $base_path := (urls.Parse site.BaseURL).Path | strings.TrimSuffix "/" -}}
+  {{- $clean := strings.TrimPrefix "./" $to -}}
+  {{- if strings.HasPrefix $clean "/" -}}
+    {{- $out = $clean -}}
+  {{- else -}}
+    {{- if $base_path -}}
+      {{- $out = printf "%s/%s" $base_path $clean -}}
+    {{- else -}}
+      {{- $out = printf "/%s" $clean -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $out -}}

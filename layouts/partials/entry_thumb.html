@@ -1,0 +1,21 @@
+{{- $page := . -}}
+{{- $hidden := ($page.Param "cover.hiddenInList") | default ($page.Param "cover.hidden") | default false -}}
+{{- if not $hidden -}}
+  {{- $src := "" -}}
+  {{- with $page.Params.cover.image -}}
+    {{- $src = . -}}
+  {{- else -}}
+    {{- $matches := findRE "<img[^>]+src=\"[^\"]+\"" $page.Content 1 -}}
+    {{- if gt (len $matches) 0 -}}
+      {{- $src = replaceRE "^.*src=\"([^\"]+)\".*$" "$1" (index $matches 0) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $src -}}
+    {{- if not (findRE "^[a-z]+:" $src) -}}
+      {{- $src = partial "rel_link.html" (dict "from" $page "to" $src) -}}
+    {{- end -}}
+    <figure class="entry-thumb">
+      <img src="{{ $src }}" alt="" loading="lazy">
+    </figure>
+  {{- end -}}
+{{- end -}}

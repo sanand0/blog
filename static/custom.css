@@ -1,0 +1,140 @@
+.footer {
+  flex-direction: column;
+  align-items: stretch;
+  gap: 1.5rem;
+  text-align: left;
+  padding: 3rem 1.5rem;
+  border-top: 1px solid var(--border);
+  background:
+    linear-gradient(180deg, rgba(10, 10, 10, 0.04), transparent),
+    var(--theme);
+}
+
+html[data-theme="dark"] .footer {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.06), transparent),
+    var(--theme);
+}
+
+.footer-columns {
+  display: grid;
+  gap: 1.5rem;
+  width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.footer-section summary {
+  font-size: 0.85rem;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 0 0 0.5rem 0;
+  cursor: pointer;
+}
+
+.footer-section ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-section li {
+  margin: 0.25rem 0;
+}
+
+footer.footer-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 1rem var(--gap);
+  font-size: 0.9rem;
+  opacity: 0.85;
+  border-top: 1px solid var(--border);
+  background: var(--theme);
+}
+
+.nav {
+  max-width: 100%;
+  width: 100%;
+  padding: 0 var(--gap);
+}
+
+.logo {
+  flex: 1 1 100%;
+  width: 100%;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 0;
+}
+
+#menu {
+  flex-basis: 100%;
+  justify-content: flex-start;
+  margin: 0 var(--gap);
+}
+
+.entry-thumb {
+  margin-bottom: var(--gap);
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: var(--entry);
+}
+
+.entry-thumb img {
+  width: 100%;
+  height: clamp(140px, 24vw, 220px);
+  object-fit: cover;
+  display: block;
+}
+
+.post-content img.aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post-content img.alignleft {
+  float: left;
+  margin: 0.3rem 1.2rem 0.6rem 0;
+}
+
+.post-content img.alignright {
+  float: right;
+  margin: 0.3rem 0 0.6rem 1.2rem;
+}
+
+.post-content img.size-large,
+.post-content img.size-full {
+  max-width: 100%;
+  height: auto;
+}
+
+.video-embed {
+  position: relative;
+  padding-top: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border-radius: var(--radius);
+  background: var(--entry);
+  border: 1px solid var(--border);
+}
+
+.video-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.post-content iframe {
+  border: 0;
+  max-width: 100%;
+}
+
+#comments {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}

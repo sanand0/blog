@@ -1,0 +1,76 @@
+baseURL = "https://s-anand.net/blog/"
+title = "S Anand"
+languageCode = "en-us"
+enableRobotsTXT = true
+disableAliases = true
+relativeURLs = false
+canonifyURLs = false
+theme = "PaperMod"
+publishDir = "public/blog"
+rssLimit = 20
+cleanDestinationDir = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[permalinks]
+  posts = "/:slug/"
+  categories = "/category/:slug/"
+  tags = "/tag/:slug/"
+
+[markup]
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.goldmark.parser.attribute]
+    block = true
+    title = true
+  [markup.highlight]
+    noClasses = false
+    style = "github"
+
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "assets"
+    target = "static/assets"
+
+[params]
+  description = "Technology, education and fun"
+  defaultTheme = "light"
+  disableThemeToggle = false
+  ShowBreadCrumbs = false
+  ShowPostNavLinks = true
+  ShowReadingTime = false
+  ShowWordCount = false
+  ShowShareButtons = false
+  ShowCodeCopyButtons = false
+  DateFormat = "2006-01-02"
+  mainSections = ["posts"]
+
+[params.assets]
+  favicon = "assets/favicon.svg"
+  favicon16x16 = "assets/favicon.svg"
+  favicon32x32 = "assets/favicon.svg"
+  apple_touch_icon = "assets/favicon.svg"
+  safari_pinned_tab = "assets/favicon.svg"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+[pagination]
+  pagerSize = 20
+  path = "page"
+  disableAliases = true

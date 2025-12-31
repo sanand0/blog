@@ -1,0 +1,57 @@
+{{- $page := .page | default . -}}
+{{- $from := .from | default $page -}}
+{{- $segments := slice -}}
+
+{{- if not $page.Date.IsZero -}}
+{{- $date := $page.Date -}}
+{{- $year := $date | time.Format "2006" -}}
+{{- $month := $date | time.Format "01" -}}
+{{- $day := $date | time.Format "02" -}}
+{{- $day_text := $date | time.Format "2" -}}
+{{- $weekday := $date | time.Format "Mon" -}}
+{{- $month_text := $date | time.Format "Jan" -}}
+{{- $day_link := partial "rel_link.html" (dict "from" $from "to" (printf "%s/%s/%s/" $year $month $day)) -}}
+{{- $month_link := partial "rel_link.html" (dict "from" $from "to" (printf "%s/%s/" $year $month)) -}}
+{{- $year_link := partial "rel_link.html" (dict "from" $from "to" (printf "%s/" $year)) -}}
+{{- $date_html := printf "<span class=\"post-meta-date\"><time datetime=\"%s\">%s, <a href=\"%s\">%s</a> <a href=\"%s\">%s</a> <a href=\"%s\">%s</a></time></span>" ($date.Format "2006-01-02T15:04:05Z07:00") $weekday $day_link $day_text $month_link $month_text $year_link $year -}}
+{{- $segments = $segments | append $date_html -}}
+{{- end -}}
+
+{{- if and (not $page.Lastmod.IsZero) (not $page.Date.IsZero) -}}
+{{- $last := $page.Lastmod -}}
+{{- if ne ($last.Format "2006-01-02") ($page.Date.Format "2006-01-02") -}}
+{{- $last_year := $last | time.Format "2006" -}}
+{{- $last_month := $last | time.Format "01" -}}
+{{- $last_day := $last | time.Format "02" -}}
+{{- $last_day_text := $last | time.Format "2" -}}
+{{- $last_weekday := $last | time.Format "Mon" -}}
+{{- $last_month_text := $last | time.Format "Jan" -}}
+{{- $last_day_link := partial "rel_link.html" (dict "from" $from "to" (printf "%s/%s/%s/" $last_year $last_month $last_day)) -}}
+{{- $last_month_link := partial "rel_link.html" (dict "from" $from "to" (printf "%s/%s/" $last_year $last_month)) -}}
+{{- $last_year_link := partial "rel_link.html" (dict "from" $from "to" (printf "%s/" $last_year)) -}}
+{{- $last_html := printf "<span class=\"post-meta-updated\">updated <time datetime=\"%s\">%s, <a href=\"%s\">%s</a> <a href=\"%s\">%s</a> <a href=\"%s\">%s</a></time></span>" ($last.Format "2006-01-02T15:04:05Z07:00") $last_weekday $last_day_link $last_day_text $last_month_link $last_month_text $last_year_link $last_year -}}
+{{- $segments = $segments | append $last_html -}}
+{{- end -}}
+{{- end -}}
+
+{{- $cats := $page.GetTerms "categories" -}}
+{{- if $cats -}}
+{{- $cat_links := slice -}}
+{{- range $cats -}}
+{{- $cat_links = $cat_links | append (printf "<a href=\"%s\">%s</a>" (partial "rel_link.html" (dict "from" $from "to" .RelPermalink)) .LinkTitle) -}}
+{{- end -}}
+{{- $segments = $segments | append (printf "<span class=\"post-meta-cats\">%s</span>" (delimit $cat_links ", ")) -}}
+{{- end -}}
+
+{{- $tags := $page.GetTerms "tags" -}}
+{{- if $tags -}}
+{{- $tag_links := slice -}}
+{{- range $tags -}}
+{{- $tag_links = $tag_links | append (printf "<a href=\"%s\">%s</a>" (partial "rel_link.html" (dict "from" $from "to" .RelPermalink)) .LinkTitle) -}}
+{{- end -}}
+{{- $segments = $segments | append (printf "<span class=\"post-meta-tags\">%s</span>" (delimit $tag_links ", ")) -}}
+{{- end -}}
+
+{{- with $segments -}}
+{{- delimit . "&nbsp;•&nbsp;" | safeHTML -}}
+{{- end -}}

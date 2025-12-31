@@ -1,0 +1,36 @@
+{{- $base_path := (urls.Parse site.BaseURL).Path | strings.TrimSuffix "/" -}}
+{{- if .Params.cover.image -}}
+<meta name="twitter:card" content="summary_large_image">
+{{- $cover := .Params.cover.image -}}
+{{- if (eq $.Params.cover.relative true) }}
+{{- $cover = path.Join .RelPermalink $cover -}}
+{{- end }}
+{{- if and $cover (not (strings.HasPrefix $cover "http")) (not (strings.HasPrefix $cover "/")) -}}
+{{- $cover = printf "%s/%s" $base_path $cover -}}
+{{- end }}
+<meta name="twitter:image" content="{{ partial "rel_link.html" (dict "from" . "to" $cover) }}">
+{{- else }}
+{{- $images := partial "templates/_funcs/get-page-images" . -}}
+{{- with index $images 0 -}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ partial "rel_link.html" (dict "from" $ "to" .RelPermalink) }}">
+{{- else -}}
+<meta name="twitter:card" content="summary">
+{{- end -}}
+{{- end }}
+<meta name="twitter:title" content="{{ .Title }}">
+{{- $desc := partial "clean_description.html" (dict "page" . "limit" 160) -}}
+<meta name="twitter:description" content="{{ if $desc }}{{ $desc }}{{ else }}{{ site.Params.description }}{{ end }}">
+
+{{- $twitterSite := "" }}
+{{- with site.Params.social }}
+  {{- if reflect.IsMap . }}
+    {{- with .twitter }}
+      {{- $content := . }}
+      {{- if not (strings.HasPrefix . "@") }}
+        {{- $content = printf "@%v" . }}
+      {{- end }}
+      <meta name="twitter:site" content="{{ $content }}">
+    {{- end }}
+  {{- end }}
+{{- end }}

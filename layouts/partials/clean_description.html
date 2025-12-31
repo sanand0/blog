@@ -1,0 +1,17 @@
+{{- $page := .page | default . -}}
+{{- $limit := .limit | default 160 -}}
+{{- $raw := $page.Description | default "" -}}
+
+{{- if not $raw -}}
+  {{- $content := $page.Content -}}
+  {{- $content = replaceRE `(?is)<!-- wp-comments-start -->.*?<!-- wp-comments-end -->` "" $content -}}
+  {{- $content = replaceRE `(?is)<h2[^>]*>\s*Comments(\s*\(Archive\))?\s*</h2>` "" $content -}}
+  {{- $content = replaceRE `(?is)<hr[^>]*>` "" $content -}}
+  {{- $raw = $content -}}
+{{- end -}}
+
+{{- $text := $raw | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
+{{- if and $limit $text -}}
+  {{- $text = $text | truncate $limit -}}
+{{- end -}}
+{{- $text -}}

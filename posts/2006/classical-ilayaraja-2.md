@@ -1,0 +1,59 @@
+---
+title: Classical Ilayaraja 2
+date: "2006-12-19T12:00:00Z"
+categories:
+  - classical-ilayaraja
+wp_id: 159
+---
+
+> This is the second of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\
+> I've added links to the songs, so you can listen as you read.\
+> You could also try my [**Tamil song search**](/tamil).
+
+There are very few instances in which the identity of a rare raaga in a cinema song is so well handled and shown (to the extent that) we could even use these songs as good a reference as keerthanas for those respective raagas. To quote a few, K.V.Mahadevan's [paattum naanE](http://www.musicindiaonline.com/p/x/5rIgYbZfV9.As1NMvHdW/) ([Thiruvilayaadal](http://www.musicindiaonline.com/music/tamil/s/movie_name.5448/)) in the raagam Gowrimanohari, M.K.Thiagaraja Bhagavathar's [soppana vaazhvil magizhndhu](http://www.musicindiaonline.com/p/x/trQgF0D4Xd.As1NMvHdW/) in the raagam Vijayanaagari. These are uncommonly sung raagas. It is true that there are excellant keerthanais like [gurulekha](http://www.musicindiaonline.com/p/x/3422mdiRBt.As1NMvHdW/) (Gowrimanohari) in these raagas. But to a common rasika, it could be gone ahead and suggested [paattum naanE](http://www.musicindiaonline.com/p/x/5rIgYbZfV9.As1NMvHdW/) to understand Gowrimanohari, because KVM has handled it in splendid form. The way T.M.S starts the song in thara sthayi rishabham with his perfect voice and renders it, it is like eating a 'nila pournami' feast in the banks of kaveri. That song has become an absolute reference for Gowrimanohari. The question is: Has Ilayaraja any such 'reference' songs to his credit? Yes. Many!
+
+Bhaavani is the 41st melakartha raaga. It is the 2nd raaga to the right from Jalavarali! It has the following arohanam and avarohanam: [Sa Ri1 Ga1 Ma2 Pa Da2 Ni3 Sa, and Sa Ni3 Da2 Pa Ma2 Ga1 Ri1 Sa](/blog/assets/bhaavani.midi). I have never heard any keerthanai in this raaga. How did Ilayaraja get the sudden idea of scoring a tune in this complex vivaadi raaga? Would it be a hit with all its vivaadi swaras? Did he or Kamalhaasan have any apprehension? If they had had, maybe we would't have got this wonderful song [paarththa vizhi paarththa padi](http://www.musicindiaonline.com/p/x/W4KgzKQCm9.As1NMvHdW/) in [Guna](http://www.musicindiaonline.com/music/tamil/s/movie_name.4441/). It is a perfect song suiting the situation in which Kamal (a nut case) sees the heroine in a temple and falls in instant love with her. That heroine, Roshni (or something) was a delight to see in that movie. The song starts like this Sa Pa Pa Pa Ma Ga Ri Sa Da Sa Ri Ga... Before the song there is a virutham like piece sung by the chorus. He has handled the beauty of the vivaadhi swaras in that raaga very very nicely. When you hear the words 'charanam charanam' set in the swaras, Sa Sa Ga Ri Sa it sends a thrill in your perceptual apparatus. Since the uttaranga swaras of this raaga consist of chatusruthi daivatham and kaakali nishadam, it has a quality like that of Kalyani (with a pradhi madhyamam). In the interlude of this song the chorus traverse in the melodious regions of the raaga (Pa Da Ni Sa). Unfortunately I don't remember the words. Maybe the lyrics is good too. Yesudoss has done a fantastic job. Even though the recording scale of this song is only around 'oru kattai', how is that it sounds as though he is reaching big heights when he sings the same pallavi in the thara sthayi? It sounds so pleasant to hear! This song is a very good good referance for Bhaavani raagam.
+
+[Guna](http://www.musicindiaonline.com/music/tamil/s/movie_name.4441/) has another fantastic 'light' song [kaNmaNi anbOdu](http://www.musicindiaonline.com/p/x/k4KgVCgZJ9.As1NMvHdW/). Maybe, neo-rasikas will go ahead and call this song as Sankarabaranam!
+
+Are there any cinema songs in raagam Hemavathi? It was a good surprise recently when I came to know that Ilayaraja has ventured into this raagam also for first time (maybe, in thamizh film song history). That song is in the movie [Pudhupatti Ponnuthayee](http://music.cooltoad.com/music/search.php?TITLE=puthu+patti) starring Radhika. [manam pOla maangalyam](http://music.cooltoad.com/music/song.php?id=100090) is a good example of Hemavathi. S.Janaki (the best vocal support he ever got) has sung this song. This movie is like some modern Thillana Mohanaambaal. Some big shot has given accompaniment in nadhaswaram in this song. He has started the pallavi in thara sthayi gandaaram. Ga Ri Sa Sa Ni Sa NI Sa Ni Da... That is how the song goes. It is really good and pure!
+
+Considering the sudha madhyamam of Hemavathi, the raaga giant 'Karaharapriya', Ilayaraja has few pure numbers in it. Of course nothing can beat M.S.Viswanathan's [maadhavi pon mayilaal](http://www.raaga.com/playerV31/index.asp?pick=26960&mode=3&rand=0&bhcp=1). Probably Ilayaraja first tried Karaharapriya in pure form in [poo malarndhida](http://www.musicindiaonline.com/p/x/vrKghvDnNt.As1NMvHdW/) in the movie [Tik Tik Tik](http://www.musicindiaonline.com/music/tamil/s/movie_name.5507/). The interlude violin pieces and K.J.Yesudoss's swara alapana in that song are fantastic. For such a good tune, the lyrics was very bad. I distinctly remember how the triple x filled words in the charanam like 'padukayil...' got more famous than the tune in our school! Ilayaraja should have paid more attention to the lyrics at least when his tunes were purely carnatic. Mmmmm.... Who cared? It was all money for him! His other pure karnatic Karaharapriya are [aanandham pongida pongida](http://music.cooltoad.com/music/song.php?id=201448) ([Sirai Paravai](http://www.google.com/search?q=Sirai+Paravai)), [thaanaa vandha sandhanamE](http://music.cooltoad.com/music/song.php?id=174322) ([Ooru Vittu Ooru Vandhu](http://www.raaja.com/ric/film/FL000506.html)). In [aanandham pongida pongida](http://music.cooltoad.com/music/song.php?id=201448), the upper sancharas are excellant, like Ga Ga Ri Sa Ri Ga Ma Ga... Again,the song has been sung by Yesudoss. His voice is superb for this kind of songs. [thaanaa vandha sandhanamE](http://music.cooltoad.com/music/song.php?id=174322) came as a pleasant surprise in his brother Gangai Amaran directed movie. This song was not a big hit. Probably all the attention went to [sorgamE enRaalum](http://music.cooltoad.com/music/song.php?id=245998) in the same movie in raagam Hamsanadam (but for few slips). In 'thaana' (SPB), he has handled some wonderful nuances of Karaharapriya, like Ga Ri Ni Da Ni... There are few more of his semi-classical tries in Karaharapriya, like [maappillaikku](http://www.musicindiaonline.com/p/x/QJvgH6.iS9.As1NMvHdW/) ([Netrikann](http://www.musicindiaonline.com/music/tamil/s/movie_name.4936/)) etc. Even his first song, [machchana parthingala](http://www.raaga.com/playerV31/index.asp?pick=13521&mode=3&rand=0&bhcp=1) is in the Karaharapriya scale. He liked this scale a lot. Maybe, neo-rasikas would call all of them as pure Karaharapriya.
+
+Probably the purest of his Karaharapriya came in [Unnaal Mudiyum Thambi](http://www.musicindiaonline.com/music/tamil/s/movie_name.5549/). The situation is Kamal and Gemini fight over something. The quarrel gets very intense. At this point Gemini's dumb son (Kamal's brother), takes his nadhaswaram and starts playing loudly, to stop his kin from quarreling further. You know what raaga Ilayaraja selected for this situation? Karaharapriya! That scene was a musical feast in that movie. The raaga was appropriately used. K.J.Yesudoss gave a charming vocal support to Ilayaraja (singing for both Kamal and Gemini). It was like a duet between Yesudoss and the the nadhaswaram! K.Balachander used this situation to show how music was a common enjoyment in Gemini's house and how it could abate the heat of the quarell between the son and the father.
+
+Talking about the panchama varjaya raagam of Karahapriya, that is, Sriranjani, probably Ilayaraja was the best music director to use this wonderful raaga. His first Sriranjani came as a tail bit in [veLLi chalangaigaL](http://www.musicindiaonline.com/p/x/-JxgNkvIJt.As1NMvHdW/) ([Kaadhal Oviyam](http://www.musicindiaonline.com/music/tamil/s/movie_name.4579/)). It was a very fast bit sang by the chorus 'thannanthanimaiyil iru vizhi'. Even though [veLLi chalangaigaL](http://www.musicindiaonline.com/p/x/-JxgNkvIJt.As1NMvHdW/) was tuned in Chandrakounse raagam, I don't know what made him give the tail bit to Sriranjani (a very strange guy, you know!) The second Sriranjani attempt came in [naadhavinOdhangal](http://www.musicindiaonline.com/p/x/SrXgMG9-89.As1NMvHdW/) in [Salangai Oli](http://www.musicindiaonline.com/music/tamil/s/movie_name.5340/). Even in this song he tuned the pallavi alone in Sriranjani, with charanam in Hamsaanandi. This is what I dislike in cinema music directors. Why can't they adhere to a single raaga? Why do they have to change from pallavi to charanam? Ilayaraja was the one who did best justice to carnatic music among modern music directors. But even he fell a prey to such deviations (from purist point of view) like changing the raaga for each line in few songs. His best Sriranjani came in [naadham ezhundhadhadi](http://music.cooltoad.com/music/song.php?id=86946) in [Gopura Vaasalile](http://www.musicindiaonline.com/music/tamil/s/movie_name.4439/). Again, Yesudoss! It was really fantastic. Karthik had given a comic act in that song. Probably that song toppled M.S.V's best Sriranjani [naadham enum kOvililE](http://www.raaga.com/playerV31/index.asp?pick=13730&mode=3&rand=0&bhcp=1). Dit it? I would say yes.
+
+> Lakshminarayanan Srirangam Ramakrishnan,\
+> Internal Medicine Department,\
+> Brackenridge Hospital,\
+> Austin, Tx 78701.
+
+---
+
+## Comments
+
+<!-- wp-comments-start -->
+
+- **sujatha** _28 Feb 2007 8:55 am_:
+  is there any hidden meaning in the song panivizhum malarvanam
+- **Anil Goud** _19 Dec 2006 12:00 pm_:
+  Pls send me some old Illayarajs songs to my mail id. i like very much of Illayaraja songs i am requesting u that pls send old songs of Illayaraja songs. form Anil GOud
+- **Ramkumar** _12 Nov 2008 1:29 am_:
+  Can i get the raaga based songs of Raja sir? i am bajan singer and would like to get the some of the rare raagas composed by raja sir
+- **Jimmy** _15 Mar 2009 8:15 am_:
+  Poo Malaradhita to me so special and love that song. Best of Raja in Karaharapriya. There was an MSV song in Karaharpriya - "I will sing for you" - its the same arrangement as Poo Malardhita in the same raga- Does anyone know where I can get a copy of this song. Given that I almost listen to Poo Maladhita at least once a week - I want the potential source of inspiration for this song. thanks in advance.
+- **Jimmy** _15 Mar 2009 8:16 am_:
+  I will sing for you ... was from a movie called Manidhanum deivamahalam - Sivaji in guest role - probably one of the worst movies of all times - with the dopey AVM Rajan in it.
+- **[Nagarajan Anantharaman](http://karaharapriya)** _30 Jan 2010 6:10 pm_:
+  I guess "Ponmagal Vanthal" in "Sorgam" is Karaharapriya
+- **Bala** _11 Nov 2011 11:36 am_:
+  "i will sing for you" is a song from 'Manidharil Manickam' and not 'Manidahnu Deivamagalam'
+- **nish** _14 Mar 2012 1:11 pm_:
+  on wat raga s d song nee partha paarvai ? s it nata bhairavi?
+- **Keshav** _24 Apr 2012 9:47 pm_:
+  Isnt 'Pavani' the name of the raga. I am not disputing that some people say names of ragas little different. However, when names determine the Melakarta identity per Katapayadi sankhya system, 'Bhaavani' would mean the ragam is Melakarta (34/44 based on whether you pronounce that as Ba or Bha). Just curious. Or is that insignificant?
+- **Sakthi** _11 Dec 2015 7:13 pm_:
+  Sorry, Mr.Lakshmi Narayanan, naadham enum kOvililE still stands best
+
+<!-- wp-comments-end -->

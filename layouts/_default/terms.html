@@ -1,0 +1,22 @@
+{{- define "main" }}
+
+{{- if .Title }}
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+</header>
+{{- end }}
+
+<ul class="terms-tags">
+    {{- range .Data.Terms.Alphabetical }}
+    <li>
+        <a href="{{ partial "rel_link.html" (dict "from" $ "to" .Page.RelPermalink) }}">{{ .Page.LinkTitle }} <sup><strong><sup>{{ .Count }}</sup></strong></sup></a>
+    </li>
+    {{- end }}
+</ul>
+
+{{- end }}

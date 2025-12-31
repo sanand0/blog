@@ -1,0 +1,162 @@
+site:
+  title: S Anand
+  link: https://www.s-anand.net/blog
+  description: Technology, education and fun
+  language: en-US
+  pub_date: Sun, 28 Dec 2025 01:25:40 +0000
+  base_site_url: https://www.s-anand.net/blog
+  base_blog_url: https://www.s-anand.net/blog
+  wxr_version: '1.2'
+authors:
+- id: '2'
+  login: sanand
+  email: root.node@gmail.com
+  display_name: S Anand
+  first_name: Anand
+  last_name: S
+categories:
+- id: '40'
+  slug: bangalore
+  name: Bangalore
+  parent: ''
+- id: '13'
+  slug: business-realities
+  name: Business realities
+  parent: ''
+- id: '16'
+  slug: chat-transcripts
+  name: Chat transcripts
+  parent: ''
+- id: '21'
+  slug: classical-ilayaraja
+  name: Classical Ilayaraja
+  parent: ''
+- id: '30'
+  slug: coding
+  name: Coding
+  parent: ''
+- id: '37'
+  slug: data
+  name: Data
+  parent: ''
+- id: '38'
+  slug: diary
+  name: Diary
+  parent: ''
+- id: '39'
+  slug: education
+  name: Education
+  parent: ''
+- id: '14'
+  slug: excel-tips
+  name: Excel tips
+  parent: ''
+- id: '46'
+  slug: experiments
+  name: Experiments
+  parent: ''
+- id: '25'
+  slug: funny
+  name: Funny
+  parent: ''
+- id: '42'
+  slug: games
+  name: Games
+  parent: ''
+- id: '15'
+  slug: how-i-do-things
+  name: How I do things
+  parent: ''
+- id: '22'
+  slug: interesting-experiences
+  name: Interesting experiences
+  parent: ''
+- id: '19'
+  slug: interviews
+  name: Interviews
+  parent: ''
+- id: '31'
+  slug: links
+  name: Links
+  parent: ''
+- id: '51'
+  slug: llms
+  name: LLMs
+  parent: ''
+- id: '26'
+  slug: london-2000
+  name: London 2000
+  parent: ''
+- id: '27'
+  slug: london-2005
+  name: London 2005
+  parent: ''
+- id: '28'
+  slug: mumbai
+  name: Mumbai
+  parent: ''
+- id: '32'
+  slug: my-best-links
+  name: My best links
+  parent: ''
+- id: '35'
+  slug: open-source
+  name: Open source
+  parent: ''
+- id: '17'
+  slug: quizzes
+  name: Quizzes
+  parent: ''
+- id: '24'
+  slug: short-stories
+  name: Short stories
+  parent: ''
+- id: '12'
+  slug: simple-explanations
+  name: Simple explanations
+  parent: ''
+- id: '45'
+  slug: talks
+  name: Talks
+  parent: ''
+- id: '34'
+  slug: tools
+  name: Tools
+  parent: ''
+- id: '18'
+  slug: top-10-lists
+  name: Top 10 lists
+  parent: ''
+- id: '1'
+  slug: uncategorized
+  name: Uncategorized
+  parent: ''
+- id: '20'
+  slug: visualisation
+  name: Visualisation
+  parent: ''
+tags:
+- id: '41'
+  slug: book
+  name: book
+terms:
+- id: '49'
+  taxonomy: monsterinsights_note_category
+  slug: blog-post
+  name: Blog Post
+  parent: ''
+- id: '50'
+  taxonomy: monsterinsights_note_category
+  slug: promotion
+  name: Promotion
+  parent: ''
+- id: '48'
+  taxonomy: monsterinsights_note_category
+  slug: website-updates
+  name: Website Updates
+  parent: ''
+- id: '43'
+  taxonomy: nav_menu
+  slug: years
+  name: Years
+  parent: ''

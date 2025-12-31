@@ -1,0 +1,3 @@
+{{- $base_path := (urls.Parse site.BaseURL).Path | strings.TrimSuffix "/" -}}
+{{- $custom_css := printf "%s/custom.css" $base_path -}}
+<link rel="stylesheet" href="{{ partial "rel_link.html" (dict "from" . "to" $custom_css) }}">
