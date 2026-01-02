@@ -8,10 +8,10 @@ categories:
 wp_id: 245
 ---
 
-<p>I've built a simple <a href="/Tamil_transliterator.html">Tamil transliterator</a>. You can type in words in English and it will spell them out in Tamil. You can copy-paste the Tamil above into Microsoft Word, etc.</p>
+<p>I've built a simple <a href="/blog/tamil-transliterator/">Tamil transliterator</a>. You can type in words in English and it will spell them out in Tamil. You can copy-paste the Tamil above into Microsoft Word, etc.</p>
 <p>You may need to <a href="http://ta.wikipedia.org/wiki/Wikipedia:Font_help#Windows_2000.2F_XP.2F_2003_Family">turn on tamil scripts</a> to see the Tamil fonts above. If you have Windows 98, it may not work well. If you've visited this page recently, you will need to refresh this page as well (press F5).</p>
 <p>Browse through my <a href="http://transliterate.googlecode.com/">Javascript</a> to see how it works. Feel free to reuse.</p>
-<p>I've also made a Google Gadget that <a href="/Google_search_in_Tamil.html">searches Google in Tamil</a> using this tool.</p>
+<p>I've also made a Google Gadget that <a href="/blog/google-search-in-tamil/">searches Google in Tamil</a> using this tool.</p>
 <p>Here's what to type:</p>
 <style>table#tamil_transliterator td { border-top: 1px solid #dbdbff; padding-right: 10px; } </style>
 <table class="numbers lines">
@@ -50,7 +50,7 @@ wp_id: 245
 <tr><td>&#3000;</td><td>S       </td></tr>
 <tr><td>&#3001;</td><td>h       </td></tr>
 </table>
-<p>I also have a <a href="/Google_search_in_Tamil.html">gadget that lets you search in Tamil</a>.</p>
+<p>I also have a <a href="/blog/google-search-in-tamil/">gadget that lets you search in Tamil</a>.</p>
 
 ---
 

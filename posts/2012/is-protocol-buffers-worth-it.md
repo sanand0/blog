@@ -13,7 +13,7 @@ XML is slow and large. There’s no doubting that. JSON’s my default alternati
 
 I was trying to see if Protocol Buffers would be smaller and faster, at least when using Python. I took JSON as the base, and checked the write speed, read speed and file sizes. Here’s the comparison:
 
-[![image](/blog/assets/image.webp "image")](/blog/assets/image-png.webp)
+[![image](/blog/assets/image-png.webp "image")](/blog/assets/image-png.webp)
 
 Protocol Buffers are 17 times slower to write and almost 6 times slower to read than JSON files. File sizes are smaller, but then, all it takes is a simple gzip operation to compress the JSON files even smaller. Reading json.gz files is just 2% slower than JSON files, and writing them is only 4 times slower.
 

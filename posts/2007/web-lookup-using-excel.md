@@ -10,7 +10,7 @@ Take a look at the Excel screenshot below.
 
 [![Amazon Web Prices](/blog/assets/flickr-amazon-web-prices_481952444_o-png.webp)](/blog/assets/flickr-amazon-web-prices_481952444_o-png.webp)
 
-Yes, that's right. I have a [user-defined function](/User-defined_functions_in_Excel.html) called AMAZONPRICE. And it returns these cameras' **prices directly from Amazon.com**. (Given the category and some keywords, it returns the price of the bestselling item on Amazon.com.)
+Yes, that's right. I have a [user-defined function](/blog/user-defined-functions-in-excel/) called AMAZONPRICE. And it returns these cameras' **prices directly from Amazon.com**. (Given the category and some keywords, it returns the price of the bestselling item on Amazon.com.)
 
 Here's the code behind the function.
 
@@ -39,9 +39,9 @@ Flickr has a [camera finder](http://www.flickr.com/cameras/) that shows the most
 
 [![flickr Camera Finder](/blog/assets/flickr-flickr-camera-finder_481952446_o-png.webp)](/blog/assets/flickr-flickr-camera-finder_481952446_o-png.webp)
 
-I [love comparing gadgets](/How_I_buy_gadgets.html), I'd been doing some research around these cameras, and the [Fuji series](http://www.flickr.com/cameras/fujifilm/) (because I own a [Fuji Finepix S5600](/My_Fuji_Finepix_S5600.html)). I'd normally make a spreadsheet that compares these cameras on various parameters, including price.
+I [love comparing gadgets](/blog/how-i-buy-gadgets/), I'd been doing some research around these cameras, and the [Fuji series](http://www.flickr.com/cameras/fujifilm/) (because I own a [Fuji Finepix S5600](/blog/my-fuji-finepix-s5600/)). I'd normally make a spreadsheet that compares these cameras on various parameters, including price.
 
-Since I believe in [never typing in data](/Excel_-_Never_type_in_data.html), wondered if there was a way to get the prices in automatically...
+Since I believe in [never typing in data](/blog/excel-never-type-in-data/), wondered if there was a way to get the prices in automatically...
 
 Two things made this possible.
 
@@ -66,7 +66,7 @@ http://ecs.amazonaws.com/onca/xml?
 
 If you [retrieved this URL](http://ecs.amazonaws.com/onca/xml?Service=AWSECommerceService&Version=2005-03-23&Operation=ItemSearch&SubscriptionId=0525E2PQ81DD7ZTWTK82&SearchIndex=Electronics&Keywords=Canon%20EOS%20Digital%20Rebel%20XT&Sort=salesrank&ResponseGroup=Offers,Small), you have an XML file containing the details of all Canon EOS Digital Rebel XTs, sorted by sales rank.
 
-To load this in Excel, you need to create a [UDF](/User-defined_functions_in_Excel.html) in Visual Basic. First, go to **Tools - References and enable Microsoft XML, v3.0 or v4.0**. Now, to load an XML document, do this:
+To load this in Excel, you need to create a [UDF](/blog/user-defined-functions-in-excel/) in Visual Basic. First, go to **Tools - References and enable Microsoft XML, v3.0 or v4.0**. Now, to load an XML document, do this:
 
 ```vb
 Dim xDoc As MSXML2.DOMDocument30

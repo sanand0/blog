@@ -6,7 +6,7 @@ categories:
 wp_id: 201
 ---
 
-You can [play a video backwards](/Music_video_filmed_backwards.html) and still recognise the scenes quite well. Can you do that with sound?
+You can [play a video backwards](/blog/music-video-filmed-backwards/) and still recognise the scenes quite well. Can you do that with sound?
 
 I tried it on this Bryan Adams clip of [Summer of '69 (mp3)](/Bryan_Adams.Summer_of_69.mp3). [When played backwards (mp3)](/Bryan_Adams.Summer_of_69.rev.mp3), it almost sounds like Arabic!
 

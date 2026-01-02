@@ -35,7 +35,7 @@ But ideally, I'd like a 1-line formula like
 =LENGTH(UNIQUE(GREP("^A", range)))
 ```
 
-Excel doesn't provide these functions by default, but you can add them as [user defined functions](/User-defined_functions_in_Excel.html). Doing this **lets you condense several cells into one**. Instead of having to copy all your data into a set of unique values, and then adding a column for the first cell, the entire operation can be condensed into one formula.
+Excel doesn't provide these functions by default, but you can add them as [user defined functions](/blog/user-defined-functions-in-excel/). Doing this **lets you condense several cells into one**. Instead of having to copy all your data into a set of unique values, and then adding a column for the first cell, the entire operation can be condensed into one formula.
 
 I consider the following functions the a basic set for list processing.
 

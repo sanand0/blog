@@ -24,7 +24,7 @@ Anything you declare as a "Function" in Excel's Visual Basic automatically becom
 There are 3 places where I suggest using UDFs.
 
 1. You need to repeat a formula or use an additional cell to get the job done (e.g. replace Excel errors with empty strings)
-2. You [can't get the information](/User-defined_functions_to_get_cell_formatting.html) from a formula (e.g. a cell's background colour)
+2. You [can't get the information](/blog/user-defined-functions-to-get-cell-formatting/) from a formula (e.g. a cell's background colour)
 3. It's very cumbersome to get the information using formulas (e.g. regular expressions)
 
 Let's take the first one: **replace Excel errors with empty strings**. Normally, you'd store the results in a cell (say A2), and have another cell with the formula =IF(ISERROR(A2),"",A2). Instead, create this function NOERROR:

@@ -8,11 +8,11 @@ categories:
 wp_id: 190
 ---
 
-<p>When I wrote my <a href="/Tamil_song_lyrics_quiz_2000s.html">Tamil song lyrics quizzes</a>, I had two problems:</p><ol>
+<p>When I wrote my <a href="/blog/tamil-song-lyrics-quiz-2000s/">Tamil song lyrics quizzes</a>, I had two problems:</p><ol>
 <li>I can't write in Tamil (not on paper, nor on a computer)</li>
 <li><b>I can't spell right in Tamil</b> (&#2984; vs &#2985;, &#2992; vs &#2993;)</li>
 </ol>
-<p>I overcame the first using a <a href="/Tamil_transliterator.html">Tamil transliterator</a>. I write in English, and you see it in Tamil.</p>
+<p>I overcame the first using a <a href="/blog/tamil-transliterator/">Tamil transliterator</a>. I write in English, and you see it in Tamil.</p>
 <p>The problem of &#2984; vs &#2985; was simple. &#2984; occurs as the first letter of a word, and just before &#2980;. Nowhere else. (Is this always true?)</p>
 <p>But &#2992; vs &#2993; can't be solved except through experience, and I'm short of that. So, rather than bother my family with every quiz, I used the wisdom of crowds. I googled both spellings of the word. <b>The correct spelling has more Google hits than the incorrect one</b>.</p>
 <p>I did this so often, I made a Google gadget out of it.</p>

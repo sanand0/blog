@@ -26,7 +26,7 @@ I tried my protests. They'll feed me on the plane. I'm already carrying some foo
 
 It was a KLM flight that would halt at Amsterdam. We were to land early morning in Amsterdam, take a connecting flight to Boston, and then over to Charlotte. We'd reach Charlotte by night, in time for the class next day.
 
-The flight itself was uneventful, except for [my first non-vegetarian bite](/I_am_a_vegetarian.html).
+The flight itself was uneventful, except for [my first non-vegetarian bite](/blog/i-am-a-vegetarian/).
 
 And then the fun began.
 

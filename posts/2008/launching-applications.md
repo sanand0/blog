@@ -10,7 +10,7 @@ Opening programs from the Start - All Programs menu is painful. For many years, 
 
 [![QuickLaunch](/blog/assets/flickr-quicklaunch_2724573143_o-png.webp)](/blog/assets/flickr-quicklaunch_2724573143_o-png.webp "QuickLaunch")
 
-But it's space constrained. There are only so many applications you can place there. I want space enough for frequently used documents as well. Recently, I decided that I need all the space on the screen. So my task bar is on auto hide, and that makes the quick launch bar a little tougher to use as well. And finally, I can't use the quick launch bar with the keyboard. [That's important](/Excel_-_Never_use_the_mouse.html).
+But it's space constrained. There are only so many applications you can place there. I want space enough for frequently used documents as well. Recently, I decided that I need all the space on the screen. So my task bar is on auto hide, and that makes the quick launch bar a little tougher to use as well. And finally, I can't use the quick launch bar with the keyboard. [That's important](/blog/excel-never-use-the-mouse/).
 
 So I switched to the pinned menus on the Start Menu.
 

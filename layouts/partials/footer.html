@@ -3,8 +3,8 @@
     {{- $main_sections := site.Params.mainSections | default (slice "posts") -}}
     {{- $base_path := (urls.Parse site.BaseURL).Path | strings.TrimSuffix "/" -}}
     {{- $posts := where site.RegularPages "Type" "in" $main_sections -}}
-    {{- $pages := where site.RegularPages "Type" "not in" $main_sections -}}
-    {{- $pages := where $pages "Params.hide" "ne" true -}}
+    {{- $pages := where site.Pages "Kind" "in" (slice "page" "section") -}}
+    {{- $pages := where $pages "Type" "not in" $main_sections -}}
     <div class="footer-columns">
         <details class="footer-section">
             <summary>Categories</summary>
@@ -26,7 +26,16 @@
             <summary>Pages</summary>
             <ul>
                 {{- range sort $pages "Title" }}
+                {{- $path := "" -}}
+                {{- with .File -}}
+                {{- $path = .Path -}}
+                {{- end -}}
+                {{- $path = strings.TrimPrefix "content/" $path -}}
+                {{- $is_top := and (eq .Kind "page") (not (strings.Contains $path "/")) -}}
+                {{- $is_section := and (eq .Kind "section") (strings.HasSuffix $path "/_index.md") -}}
+                {{- if and $path (fileExists (printf "pages/%s" $path)) (or $is_top $is_section) (ne .Params.hide true) -}}
                 <li><a href="{{ partial "rel_link.html" (dict "from" $ "to" .RelPermalink) }}">{{ .LinkTitle }}</a></li>
+                {{- end -}}
                 {{- end }}
             </ul>
         </details>

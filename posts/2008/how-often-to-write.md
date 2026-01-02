@@ -20,7 +20,7 @@ So I've been taking micro-sabbaticals. Just 3 posts between July - November 2007
 
 It's very relaxing. I don't feel the obligation to keep up the readership. In fact, I don't keep track of the readership, so that helps.
 
-But in fact, while the number of posts has dropped, the average volume of writing hasn't changed all that much. If you look at the size of writing (I write about 25KB worth a month), except for a blip near end-2007, it hasn't changed that much. Those blips in the middle were me copying and pasting articles on [Classical Ilayaraja](/classical_ilayaraja.html), so they don't really count.
+But in fact, while the number of posts has dropped, the average volume of writing hasn't changed all that much. If you look at the size of writing (I write about 25KB worth a month), except for a blip near end-2007, it hasn't changed that much. Those blips in the middle were me copying and pasting articles on [Classical Ilayaraja](/blog/classical-ilayaraja/), so they don't really count.
 
 [![Size of entries per month has not changed much](/blog/assets/flickr-blog-size-by-month_2732528518_o-png.webp)](/blog/assets/flickr-blog-size-by-month_2732528518_o-png.webp "Size of entries by month at www.s-anand.net")
 

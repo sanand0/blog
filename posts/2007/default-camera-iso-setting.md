@@ -8,7 +8,7 @@ wp_id: 77
 
 In those early days, when all I had was an analog SLR, I had to make choices up-front. Do I buy an ISO 100 film for daytime shooting? (It's cheaper, besides.) Do I go in for the expensive ISO 1600 film for my fancy night shots? Do I lug around the tripod? Do I use the flash? Do I even bother taking indoor shots? etc.
 
-With [my new digital camera](/My_Fuji_Finepix_S5600.html), at least the ISO choice vanishes. The ISO range varies from 64 to 1600. And so, I don't need flash or a tripod most of the time.
+With [my new digital camera](/blog/my-fuji-finepix-s5600/), at least the ISO choice vanishes. The ISO range varies from 64 to 1600. And so, I don't need flash or a tripod most of the time.
 
 But once in a while, I get into a tricky situation.
 
@@ -16,7 +16,7 @@ Having a digital camera lets me take pictures a lot faster. Suppose I spot a boa
 
 I love being able to do this kind of a thing.
 
-Except, it's still a bit tricky managing the ISO. It takes me about 10 seconds to change the ISO settings. No, not because the menus are complex... that accounts for only about 3 seconds or so. The bulk of it is because I have to think about what ISO setting to use -- especially given that I like to [overexpose digital camera images](/Slightly_overexpose_digital_camera_shots.html) a bit.
+Except, it's still a bit tricky managing the ISO. It takes me about 10 seconds to change the ISO settings. No, not because the menus are complex... that accounts for only about 3 seconds or so. The bulk of it is because I have to think about what ISO setting to use -- especially given that I like to [overexpose digital camera images](/blog/slightly-overexpose-digital-camera-shots/) a bit.
 
 So, when I'm going indoors, I have to remember to set the ISO to something like 400 or 800, and back again when I get out. It may sound like I'm going a too far, but the thing is, since I don't keep my tripod always attached, and don't ever turn on the flash, **I've spoiled a fair number of impulsive indoor and night shots because I've had the wrong ISO setting at the wrong time**.
 

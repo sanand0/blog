@@ -6,9 +6,9 @@ categories:
 wp_id: 85
 ---
 
-The technique of [Web lookups in Excel](/Web_lookup_using_Excel.html) I described yesterday is very versatile. I will be running through some of the practical uses it can be put to over the next few days
+The technique of [Web lookups in Excel](/blog/web-lookup-using-excel/) I described yesterday is very versatile. I will be running through some of the practical uses it can be put to over the next few days
 
-TO generalise things beyond just [getting the Amazon price](/Web_lookup_using_Excel.html), I created a [user-defined function](/User-defined_functions_in_Excel.html) called XPATH. It takes two parameters:
+TO generalise things beyond just [getting the Amazon price](/blog/web-lookup-using-excel/), I created a [user-defined function](/blog/user-defined-functions-in-excel/) called XPATH. It takes two parameters:
 
 > **URL** of the XML feed to read\
 > **Search** XPath list string (separated by spaces)
@@ -19,7 +19,7 @@ This function can be used to extract information out of any XML file on the Web 
 
 The formula becomes `XPath2( "http://www.mininova.org/rss/"&A2&"/4", "//item title link")`. The result is a 2-dimensional array returning individual items in rows, and the columns are title and link. Pulling it all together, you can get the sheet above.
 
-All of this could be done using a command-line program. Excel has one huge advantage though. It's one of the most powerful user-interfaces. Increasingly, I'm beginning to rely on just two user interfaces for almost any task. One is the browser, and the other is Excel. With Excel, I could have a sheet that has my [movie wishlist](/movie_wishlist.html) (which changes often), and add check to see if the torrent exists. Every time I add a bunch of movies to the wishlist, it's just a matter of copying the formula down. No need to visit a torrent search engine and typing each movie in, one by one.
+All of this could be done using a command-line program. Excel has one huge advantage though. It's one of the most powerful user-interfaces. Increasingly, I'm beginning to rely on just two user interfaces for almost any task. One is the browser, and the other is Excel. With Excel, I could have a sheet that has my [movie wishlist](/blog/wishlist-for-movies/) (which changes often), and add check to see if the torrent exists. Every time I add a bunch of movies to the wishlist, it's just a matter of copying the formula down. No need to visit a torrent search engine and typing each movie in, one by one.
 
 Another example. Someone suggests 10 movies to watch. I'd rather watch the ones with a higher IMDb rating. Again, enter the Web lookup. Type in the movie names. Use a function like this to look up the rating on IMDb, and sort by the rating.
 

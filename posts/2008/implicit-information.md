@@ -20,7 +20,7 @@ But it's more than just a confidence builder. The guarantee that a solution (and
 
 Marking answers randomly, or marking (A) for every question would still get you 25% in an exam with 4 choices. (Marking (C) would prove just as good, [unless you had a kind professor like this](http://www.rayfowler.org/2007/06/14/the-answer-is-not-always-c/).) That's better than any real-world scenario I've seen. (Real-world strategies aren't much better, though.)
 
-Using guarantee 2, you [can eliminate choices](/Solving_multiple_choice_questions.html) easily. If (A) and (B) do not satisfy some property of the solution, they CANNOT be the answer. There's only one solution, and these are not it.
+Using guarantee 2, you [can eliminate choices](/blog/solving-multiple-choice-questions/) easily. If (A) and (B) do not satisfy some property of the solution, they CANNOT be the answer. There's only one solution, and these are not it.
 
 Using guarantee 3, you can pick the last remaining choice wihout having to check it. The solution is definitely among the choices listed. So **you don't need to solve an objective type question**. You just need to pick the right answer -- which is completely different.
 
@@ -44,7 +44,7 @@ There's another kind of implicit information usually available: the amount of in
 
 > Which city has a higher population: San Antonio or San Diego?
 
-Children in the US apparantly had difficulty answering it. Children in Germany had less trouble. The reason? The German kids had heard of San Diego, but not San Antonio. They figured the one they'd heard of was more likely bigger. [Knowing less may be better](/Knowing_less_is_better.html).
+Children in the US apparantly had difficulty answering it. Children in Germany had less trouble. The reason? The German kids had heard of San Diego, but not San Antonio. They figured the one they'd heard of was more likely bigger. [Knowing less may be better](/blog/knowing-less-is-better/).
 
 It's the same principle you use to check spellings. Run a Google search on two spellings. The one that returns a higher number of results is the correct spelling. (Of course, Google has a spelling correction mechanism that works well, but I use it for Tamil words. I can never tell if I should use ர or ற.)
 

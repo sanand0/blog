@@ -6,7 +6,7 @@ categories:
 wp_id: 27
 ---
 
-It's been three weeks since I [initiated the effort to type in the Dilbert strips](/Dilbert_search_engine.html) and the results are encouraging. About 2 years worth of strips [have been typed out](http://dilbert-search.appspot.com/). So this [Dilbert viewer](/dilbert.html) now has a reasonably sized index for searching.
+It's been three weeks since I [initiated the effort to type in the Dilbert strips](/blog/dilbert-search-engine/) and the results are encouraging. About 2 years worth of strips [have been typed out](http://dilbert-search.appspot.com/). So this [Dilbert viewer](/dilbert.html) now has a reasonably sized index for searching.
 
 Many thanks are in order here. The first is due to [geek.nl](http://www.geek.nl/), whose [images](http://www.geek.nl/pics/dilbert-arch/) I have taken the liberty of hotlinking. Thanks also to those who've taken the time out to type strips:
 

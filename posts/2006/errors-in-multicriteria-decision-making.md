@@ -6,7 +6,7 @@ categories:
 wp_id: 186
 ---
 
-I talked about my [approach for multicriteria decision-making](/Multicriteria_decision_making.html), and mentioned that it was fundamentally flawed. Here's why.
+I talked about my [approach for multicriteria decision-making](/blog/multicriteria-decision-making/), and mentioned that it was fundamentally flawed. Here's why.
 
 [![Spidergraph for Industry 1](/blog/assets/flickr-spidergraph-for-industry-1_220831919_o-png.webp)](/blog/assets/flickr-spidergraph-for-industry-1_220831919_o-png.webp) [![Spidergraph for Industry 2](/blog/assets/flickr-spidergraph-for-industry-2_220831920_o-png.webp)](/blog/assets/flickr-spidergraph-for-industry-2_220831920_o-png.webp)
 

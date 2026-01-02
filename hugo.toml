@@ -53,7 +53,7 @@ cleanDestinationDir = true
   ShowReadingTime = false
   ShowWordCount = false
   ShowShareButtons = false
-  ShowCodeCopyButtons = false
+  ShowCodeCopyButtons = true
   DateFormat = "2006-01-02"
   mainSections = ["posts"]
 

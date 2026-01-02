@@ -6,7 +6,7 @@ categories:
 wp_id: 38
 ---
 
-<p>When I <a href="/Attack_of_the_bots.html">analysed my HTTP log last week</a>, I had another motive: are there enough people accessing my site on a mobile device? Or is it too small at this stage for me to care about?</p>
+<p>When I <a href="/blog/attack-of-the-bots/">analysed my HTTP log last week</a>, I had another motive: are there enough people accessing my site on a mobile device? Or is it too small at this stage for me to care about?</p>
 <p>Well, have a look at the numbers.</p>
 <table><tbody>
 <tr><td>Windows</td><td>98.4%</td></tr>

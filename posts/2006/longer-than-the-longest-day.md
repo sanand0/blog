@@ -6,7 +6,7 @@ categories:
 wp_id: 395
 ---
 
-I had declared 30th May 2005 as my [longest day](/Longest_day.html). Air India proved me wrong. My longest day was 18 Feb 2006.
+I had declared 30th May 2005 as my [longest day](/blog/longest-day/). Air India proved me wrong. My longest day was 18 Feb 2006.
 
 I didn't plan to fly Air India to Chennai in the first place. British Airways had more convenient timings and a similar fare. But I clicked on the wrong button, and didn't realise until a few days before the flight that I was on the Air India, and that the flight left at 8:45am.
 

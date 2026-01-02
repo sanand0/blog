@@ -20,7 +20,7 @@ But first, let me share the books with you.
 
 **Harry Potter and the Deathly Hallows**
 
-I wasn't planning to buy it. I figured I'd just wait for the soft copy. On 21st July at 8am, I went shopping to the local Sainsbury's to get groceries for my pre-movie cooking. I didn't know that was the release date. And there it was. In a huge stack. [50% discount](http://observer.guardian.co.uk/business/story/0,,2115523,00.html). Should I? Shouldn't I? After finishing the rest of my shopping, and having deeply [analysed the cost-benefit and ROI](/How_I_buy_gadgets.html), I figured: **if I didn't buy it now, someone else might tell me the answers!**
+I wasn't planning to buy it. I figured I'd just wait for the soft copy. On 21st July at 8am, I went shopping to the local Sainsbury's to get groceries for my pre-movie cooking. I didn't know that was the release date. And there it was. In a huge stack. [50% discount](http://observer.guardian.co.uk/business/story/0,,2115523,00.html). Should I? Shouldn't I? After finishing the rest of my shopping, and having deeply [analysed the cost-benefit and ROI](/blog/how-i-buy-gadgets/), I figured: **if I didn't buy it now, someone else might tell me the answers!**
 
 ****Was Snape evil?**** I couldn't believe that. Not after Dumbledore's implicit trust. Besides, I re-read [Harry Potter and the Half-Blood Prince](http://www.amazon.com/Harry-Potter-Half-Blood-Prince-Book/dp/0439784549/?tag=sanand-20), and if Dumbledore was dismissing Harry's explicit warnings about Snape, he had to know something more. Anyway, what **was** the significance of Dumbledore's last words? "**Severus... please...**" Please what? Dumbledore begging for death seemed more likely than Dumbledore begging for life. I had to know.
 

@@ -54,7 +54,7 @@ So, how do you pick what to do? You'd probably want to pick something that you l
 But it's tricky to predict what you like.
 
 - **We don't know what we want.** Sometimes, it's as simple as that -- we just don't know what we'd like to do.
-- **Too much of anything...** I love watching movies, but I've never managed to watch more than 4 a day. I've tried breaking that record many times. Just doesn't work. At the [end of the 4th movie](/A_busy_break_from_blogging.html), I'm sick and my bum is sore. Do I prefer movies to cleaning up? Usually. But by the end of the 4th, I'd rather clean up.
+- **Too much of anything...** I love watching movies, but I've never managed to watch more than 4 a day. I've tried breaking that record many times. Just doesn't work. At the [end of the 4th movie](/blog/a-busy-break-from-blogging/), I'm sick and my bum is sore. Do I prefer movies to cleaning up? Usually. But by the end of the 4th, I'd rather clean up.
 - **Preferences are not consistent.** I prefer a 7 megapixel camera to a 2 megapixel one. I prefer a cheaper camera to a more expensive one. So between a $100 2MP camera and a $200 7MP camera, I'm just making a wild guess.
 - **Preferences are not static.** If I'm tired, I'd rather watch a movie I've seen before. If not, I'll experiment with an art film. There's no telling beforehand what my mood is going to be at any point.
 
@@ -88,7 +88,7 @@ Optimise that mood. Do what you're in a mood for. And when your mood changes, go
 
 **Work less**
 
-I've talked about this in [Less is more](/Less_is_more.html). At the end of the day, 90% of the stuff you do is useless. So why do it? Just focus on the 10%.
+I've talked about this in [Less is more](/blog/less-is-more/). At the end of the day, 90% of the stuff you do is useless. So why do it? Just focus on the 10%.
 
 **Procrastinate**
 

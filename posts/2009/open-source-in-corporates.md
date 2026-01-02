@@ -7,7 +7,6 @@ categories:
 wp_id: 2399
 ---
 
-
 Last month, my first application went live.
 
 I’ve been writing code for 20 years. Not one line of my code has been officially deployed in a corporate. (Loser...)
@@ -78,7 +77,6 @@ But in the process, I’d learned my third lesson.
 
 **October 2009**
 
-
 Another application popped up that looked like a prime candidate for introducing open source. They were using an Excel application to fraud screen orders, and wanted to make a web app out of it.
 
 I followed the same route as before. Demo it. Show it to business first, then IT. Built it myself. I skipped Architecture, since they’d already approved the technology stack, and took it straight to Infrastructure.
@@ -100,7 +98,6 @@ So back to the drawing board on the technology stack. I needed something in Java
 By this time, I’d also learn my my fourth and most important lesson.
 
 > 4. Don’t try to promote open source. Just deliver the application
-
 
 I said, “This is a custom-built application that runs on Java. Could we get a Windows server to host it?”
 

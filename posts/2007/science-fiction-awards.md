@@ -6,7 +6,7 @@ categories:
 wp_id: 22
 ---
 
-Now that I'm well on my way to [watching the Top 250 movies](/movie_wishlist.html) on [IMDb](http://www,imdb.com/), I'm slowly turned my attention to fiction. My interest is mainly in the Fantasy & Science Fiction area. Unfortunately, I don't know of any list like the IMDb Top 250, but there are a few awards that could take the place of the Oscars for books. That's probably a good place to start.
+Now that I'm well on my way to [watching the Top 250 movies](/blog/wishlist-for-movies/) on [IMDb](http://www,imdb.com/), I'm slowly turned my attention to fiction. My interest is mainly in the Fantasy & Science Fiction area. Unfortunately, I don't know of any list like the IMDb Top 250, but there are a few awards that could take the place of the Oscars for books. That's probably a good place to start.
 
 The most popular awards in Science Fiction are the [Hugo award](http://en.wikipedia.org/wiki/Hugo_Award) and [Nebula award](http://en.wikipedia.org/wiki/Nebula_Award), followed by the [Philip K Dick award](http://en.wikipedia.org/wiki/Philip_k_dick_award), [John W. Campbell award](http://en.wikipedia.org/wiki/Campbell_award_%28best_novel%29), [Arthur C Clarke award](http://en.wikipedia.org/wiki/Arthur_C_Clarke_Award) and [other awards](http://www.locusmag.com/SFAwards/AlphaList.html). I collated a list of all the awards (from [LocusMag](http://www.locusmag.com/SFAwards/)) into the [spreadsheet](http://spreadsheets.google.com/pub?key=poz40xh4E1uc4URTNARjmWw) below
 

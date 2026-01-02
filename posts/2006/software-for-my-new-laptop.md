@@ -29,10 +29,10 @@ My weekend was like a kid in a candy store. Here's what I did.
 - **Taskbar and Start Menu**: I switch to the Classic Start Menu, and turn off everything. Here's what mine looks like now.[![Start Menu settings](/blog/assets/flickr-start-menu-settings_252330205_o-png.webp)](/blog/assets/flickr-start-menu-settings_252330205_o-png.webp)
 - **Toolbars**: I like my toolbars to fit on one line. So I do some heavy customisation with the [Internet Explorer toolbar](/blog/assets/flickr-ie-toolbar-settings_252330204_o-png.webp) to shrink it to a line. Similarly on the [desktop toolbars](/blog/assets/flickr-desktop-toolbar-settings_252330208_o-png.webp).
 
-**Installed software**. This is the fun part. I've made a number of changes to [my software inventory](/Software_inventory.html).
+**Installed software**. This is the fun part. I've made a number of changes to [my software inventory](/blog/software-inventory/).
 
 - [ActivePerl](http://www.activestate.com/activeperl/): Perl is the only language I still know.
-- [ActivePython](http://www.activestate.com/activepython/): I'm learning Python. I'm not impressed, but the [Python Image Library](http://www.pythonware.com/products/pil/) makes [jigsaw quizzes](/Movie_jigsaw_quiz_1.html) easier than in Perl.
+- [ActivePython](http://www.activestate.com/activepython/): I'm learning Python. I'm not impressed, but the [Python Image Library](http://www.pythonware.com/products/pil/) makes [jigsaw quizzes](/blog/movie-jigsaw-quiz-1/) easier than in Perl.
 - [Apache HTTP server](http://httpd.apache.org/): To test this web page locally.
 - [Audacity](http://audacity.sourceforge.net/): To record and convert sounds. I've ditched [Goldwave](http://www.goldwave.com/).
 - [Camstudio](http://www.google.com/search?q=camstudio): To capture screen sessions.

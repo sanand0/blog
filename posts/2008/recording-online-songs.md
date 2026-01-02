@@ -8,7 +8,7 @@ wp_id: 28
 
 In the 1980s, we rarely used to buy audio cassettes. It was a lot cheaper to record songs from the radio. It's amazing that in the 2000s, this technique seems to be less used than before.
 
-If you wanted to record a song that was streamed online, you could go through the complex procedures I'd mentioned earlier to [download online songs](/Downloading_online_songs.html), or you could use the 1980s technologies. Get a tape recorder, connect the headphones of your PC to the tape recorder's microphone using a stereo cable, and record to your heart's content.
+If you wanted to record a song that was streamed online, you could go through the complex procedures I'd mentioned earlier to [download online songs](/blog/downloading-online-songs/), or you could use the 1980s technologies. Get a tape recorder, connect the headphones of your PC to the tape recorder's microphone using a stereo cable, and record to your heart's content.
 
 Except, of course, that tape recorders are rather outdated. And with the right software, your PC can act like a tape recorder. Here's how you can go about it.
 
@@ -67,7 +67,7 @@ The first is to **adjust the volume level**. Go to the Effect menu and select Am
 
 The next is to **trim the audio**. Unless you're really fast with the keyboard, you probably have some unwanted sound recorded at the beginning or the end. You can select these pieces by dragging the mouse over the wiggly blue lines, and go to the Edit menu and pick Delete.
 
-Lastly, you'll want to **set the sound quality**. Go to Edit - Preferences and under the File Formats tab, set the bit rate under the MP3 Export Setup section. (If you don't know what rate to put in there, 128 is a safe number. If you want better quality, increase it. If you're short of disk space or want to mail it to someone, decrease it. Based on my [experiments](/MP3_bitrates_and_sound_quality.html), even a good ear can't tell the difference at 128. I use 64 or 96. My ear is pretty bad.)
+Lastly, you'll want to **set the sound quality**. Go to Edit - Preferences and under the File Formats tab, set the bit rate under the MP3 Export Setup section. (If you don't know what rate to put in there, 128 is a safe number. If you want better quality, increase it. If you're short of disk space or want to mail it to someone, decrease it. Based on my [experiments](/blog/mp3-bitrates-and-sound-quality/), even a good ear can't tell the difference at 128. I use 64 or 96. My ear is pretty bad.)
 
 All of the above was optional. If you just wanted to save the file, go to the File menu and select "Export as MP3". The first time you do that, you'll be asked to mention the folder where you saved lame\_enc.dll (which is where you unzipped Lame.) Show Audacity the folder, and that's it.
 

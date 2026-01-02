@@ -70,7 +70,7 @@ The list in column C is dynamic. If you change a cell in column A, column C is u
 
 [![1.4](/blog/assets/flickr-14_2825546554_o-png.webp)](/blog/assets/flickr-14_2825546554_o-png.webp)
 
-**Note**: I'm staying away from [user defined functions](/User-defined_functions_in_Excel.html). You could, of course, create a UNIQUE function in Excel using Visual Basic. In fact, you should!
+**Note**: I'm staying away from [user defined functions](/blog/user-defined-functions-in-excel/). You could, of course, create a UNIQUE function in Excel using Visual Basic. In fact, you should!
 
 ---
 

@@ -6,7 +6,7 @@ categories:
 wp_id: 66
 ---
 
-I'd written earlier about [Web lookup in Excel](/Web_lookup_using_Excel.html). I showed [an example](/RSS_feeds_in_Excel.html) how you could create a movie wishlist that showed the links to the torrents from [Mininova](http://www.mininova.org/).
+I'd written earlier about [Web lookup in Excel](/blog/web-lookup-using-excel/). I showed [an example](/blog/rss-feeds-in-excel/) how you could create a movie wishlist that showed the links to the torrents from [Mininova](http://www.mininova.org/).
 
 You can do that even easier on [Google Spreadsheets](http://spreadsheets.google.com/). It has 4 functions that let you [import external data](http://documents.google.com/support/spreadsheets/bin/answer.py?hl=en&answer=75507):
 
@@ -30,7 +30,7 @@ The other powerful thing about Google Spreadsheets is the [CONTINUE function](ht
 
 [![Google Spreadsheets CONTINUE](/blog/assets/flickr-google-spreadsheets-continue_2151240703_o-png.webp)](/blog/assets/flickr-google-spreadsheets-continue_2151240703_o-png.webp "Google Spreadsheets CONTINUE")
 
-The most versatile of the import functions is the `importXML` function. It lets you import any URL (including an RSS feed), filtering only the [XPath](http://www.w3.org/TR/1999/REC-xpath-19991116) you need. As I mentioned earlier, you can [scrape any site using XPath](/Scraping_RSS_feeds_using_XPath.html).
+The most versatile of the import functions is the `importXML` function. It lets you import any URL (including an RSS feed), filtering only the [XPath](http://www.w3.org/TR/1999/REC-xpath-19991116) you need. As I mentioned earlier, you can [scrape any site using XPath](/blog/scraping-rss-feeds-using-xpath/).
 
 For example, `=importXML("http://www.imdb.com/chart/top", "//table//table//table//a")` imports the top 250 movies from the [IMDb Top 250](http://www.imdb.com/chart/top). the second parameter says, get all links (a) inside a table inside a table inside a table. This populates a list with the entire Top 250.
 

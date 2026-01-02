@@ -8,9 +8,9 @@ wp_id: 70
 
 > If something goes wrong with my site, I like to know of it. My top three problems are:
 >
-> 1. [The site is down](/Monitoring_site_downtime.html)
+> 1. [The site is down](/blog/monitoring-site-downtime/)
 > 2. [A page is missing](#start2)
-> 3. [Javascript isn't working](/Javascript_error_logging.html)
+> 3. [Javascript isn't working](/blog/javascript-error-logging/)
 >
 > This article covers the second topic.
 

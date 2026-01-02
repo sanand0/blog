@@ -9,8 +9,8 @@ wp_id: 71
 > If something goes wrong with my site, I like to know of it. My top three problems are:
 >
 > 1. [The site is down](#start1)
-> 2. [A page is missing](/Handling_missing_pages.html)
-> 3. [Javascript isn't working](/Javascript_error_logging.html)
+> 2. [A page is missing](/blog/handling-missing-pages/)
+> 3. [Javascript isn't working](/blog/javascript-error-logging/)
 >
 > I'll talk about how I manage these over 3 articles.
 
@@ -24,13 +24,13 @@ So I started using [Site24x7](http://site24x7.com) to track if my website was do
 
 [![Site24x7](/blog/assets/flickr-site24x7_2133283449_o-png.webp)](/blog/assets/flickr-site24x7_2133283449_o-png.webp "Site24x7 by S Anand, on Flickr")
 
-Over time, I stopped making mistakes. But my site still kept going down, thanks to my hosting service ([100WebSpace](http://www.100webspace.com)). When I goof up, it's just an annoyance, and I can fix it. But when my hosting service goes down, it's more than that. My site is where I [listen to music](/hindi), [read comics](/dilbert.html#today), [read RSS feeds](/bookmarks.html), [use custom search engines](/searchengines.html), watch movies, browse for books, etc. Not being able to do these things -- nor fix the site -- is suffocating.
+Over time, I stopped making mistakes. But my site still kept going down, thanks to my hosting service ([100WebSpace](http://www.100webspace.com)). When I goof up, it's just an annoyance, and I can fix it. But when my hosting service goes down, it's more than that. My site is where I [listen to music](/hindi), [read comics](/dilbert.html#today), [read RSS feeds](/blog/bookmarks/), [use custom search engines](/searchengines.html), watch movies, browse for books, etc. Not being able to do these things -- nor fix the site -- is suffocating.
 
 Worse, I couldn't sleep. I use my mobile as my alarm. It's annoying to hear an SMS from under your pillow at 3am every day -- especially if it says your site is down.
 
 So I switched to [HostGator](http://www.hostgator.com) a few months ago. Nowadays, the site is down a lot less. (In times of trouble, it becomes sluggish, but doesn't actually go down.)
 
-That came at a cost, though. I was paying 100 WebSpace about $25 per annum. I'm paying Hostgator about $75 per annum. Being the kind that [analyses purchases to death](/How_I_buy_gadgets.html), the big question for me was, is this worth it. There is where my other problem with the site being down kicks in. I get a bit of [ad revenue](http://www.google.com/adsense/) from my site, and I lose that when the site's down. (Not that it's much. Still...)
+That came at a cost, though. I was paying 100 WebSpace about $25 per annum. I'm paying Hostgator about $75 per annum. Being the kind that [analyses purchases to death](/blog/how-i-buy-gadgets/), the big question for me was, is this worth it. There is where my other problem with the site being down kicks in. I get a bit of [ad revenue](http://www.google.com/adsense/) from my site, and I lose that when the site's down. (Not that it's much. Still...)
 
 According to Site24x7, my site was up ~98% of the time. So I'm losing about 2% of my potential ad revenue. For the extra $50 to be worth it, my ad revenue needs to be more than $50 / 2% = $2,500 per annum. I'm nowhere near it. So the switch isn't actually a good idea economically, but it does make life convenient (which is pretty important) and I sleep better (much more so).
 
@@ -38,7 +38,7 @@ The important thing, I've realised, is not just to track this stuff. That's usef
 
 There are many kinds of alerting.
 
-There's a report you can view whenever you remember to view it. (It could be an RSS feed, so at least [you won't have to remember the site](/Advanced_Google_Reader.html). But you still need to read your feeds.)
+There's a report you can view whenever you remember to view it. (It could be an RSS feed, so at least [you won't have to remember the site](/blog/advanced-google-reader/). But you still need to read your feeds.)
 
 Then there's the more pushy alerting: sending you an e-mail. That may catch you instantly for the half of the day that you're online. Or, if you're like me, it may completely escape your attention. (I don't read e-mail.)
 

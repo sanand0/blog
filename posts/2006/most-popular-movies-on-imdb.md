@@ -7,7 +7,7 @@ wp_id: 171
 ---
 
 <p>Here are the top 1000 most popular movies on the Internet Movie database, along with their ratings and number of votes. I've also marked whether I've seen them or not, as of today.</p>
-<p>This list, incidentally, is part of my source for the post on <a href="/Popular_lousy_movies.html">popular lousy movies</a>.</p>
+<p>This list, incidentally, is part of my source for the post on <a href="/blog/popular-lousy-movies/">popular lousy movies</a>.</p>
 <iframe width='500' height='800' frameborder='0' src='http://spreadsheets.google.com/pub?key=poz40xh4E1ufRC7YturhxJQ&output=html&gid=0&single=true&widget=true'></iframe>
 <p>Here is the <a href="http://spreadsheets.google.com/pub?key=poz40xh4E1ufRC7YturhxJQ&output=xls">Excel list of Top 1000 movies on IMDb</a>.</p>
 

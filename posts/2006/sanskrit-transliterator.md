@@ -6,7 +6,7 @@ categories:
 wp_id: 244
 ---
 
-I've built a simple [Sanskrit transliterator](/Sanskrit_transliterator.html). You can type in words in English and it will spell them out in Sanskrit. You can copy-paste the Tamil above into Microsoft Word, etc.
+I've built a simple [Sanskrit transliterator](/blog/sanskrit-transliterator/). You can type in words in English and it will spell them out in Sanskrit. You can copy-paste the Tamil above into Microsoft Word, etc.
 
 Browse through my [Javascript](http://transliterate.googlecode.com/) to see how it works. Feel free to reuse.
 

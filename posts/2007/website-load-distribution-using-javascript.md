@@ -7,7 +7,7 @@ categories:
 wp_id: 75
 ---
 
-My [music search engine](/hindi) shows a list of songs as you type -- sort of like Google's [autosuggest](http://www.google.nl/webhp?complete=1&hl=en) feature. I load my entire list of songs upfront for this to work. Though it's [compressed to load fast](/Hindi_songs_online.html), each time you load the page, it downloads about 500KB worth of song titles.
+My [music search engine](/hindi) shows a list of songs as you type -- sort of like Google's [autosuggest](http://www.google.nl/webhp?complete=1&hl=en) feature. I load my entire list of songs upfront for this to work. Though it's [compressed to load fast](/blog/hindi-songs-online/), each time you load the page, it downloads about 500KB worth of song titles.
 
 My allotted bandwidth on [my hosting service](http://www.100webspace.com) is 3GB per month. To ensure I don't exceed it, I uploaded the songs list to an alternate free server: [Freehostia](http://www.freehostia.com/). This keeps my load down. If I exceed Freehostia's limit, my main site won't be affected -- just the songs. I also uploaded half of them to [Google Pages](http://pages.google.com/), to be safe.
 

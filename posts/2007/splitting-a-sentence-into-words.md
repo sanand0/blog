@@ -6,7 +6,7 @@ categories:
 wp_id: 89
 ---
 
-I often need to extract words out of sentences. It's one of the things I used to build the [Statistically Improbable Phrases for Calvin and Hobbes](/Statistically_improbable_phrases_2.html). But splitting a sentence into words isn't as easy as you think.
+I often need to extract words out of sentences. It's one of the things I used to build the [Statistically Improbable Phrases for Calvin and Hobbes](/blog/statistically-improbable-phrases-2/). But splitting a sentence into words isn't as easy as you think.
 
 Think about it. **What is a word**?
 

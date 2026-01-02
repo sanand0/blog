@@ -26,14 +26,14 @@ It also solves my cross-posting problem. I maintain a [twitter.com/sanand0](http
 
 As for the desktop, I have the best solution of all. I use the browser address bar to twitter. I've created a keyword search with the keyword "twitter" with is keyed to a URL like `http://www.s-anand.net/twitter/%s`. So if I say "twitter Some message" on the address bar and press enter, it contacts the server, which updates Identi.ca and Twitter using the API.
 
-Of course, you don't really need to do that to update Twitter. Just create a keyword search with a keyword "twitter" and a URL `http://twitter.com/home?status=%s`, and you're done. Remember: you can create keyword searches in Internet Explorer as well ([read how](/Keyword_searches_as_a_Web_command_line.html)). With this, you can update twitter from the address bar by just typing "twitter your message goes here".
+Of course, you don't really need to do that to update Twitter. Just create a keyword search with a keyword "twitter" and a URL `http://twitter.com/home?status=%s`, and you're done. Remember: you can create keyword searches in Internet Explorer as well ([read how](/blog/keyword-searches-as-a-web-command-line/)). With this, you can update twitter from the address bar by just typing "twitter your message goes here".
 
 ---
 
 Anyway, that was a long-winded way of saying just two things.
 
 1. Mail handlers are cool.
-2. [Keyword searches](/Keyword_searches_as_a_Web_command_line.html) let you update Twitter from the address bar using the URL `http://twitter.com/home?status=%s`
+2. [Keyword searches](/blog/keyword-searches-as-a-web-command-line/) let you update Twitter from the address bar using the URL `http://twitter.com/home?status=%s`
 
 ---
 

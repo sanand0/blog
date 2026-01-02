@@ -6,44 +6,58 @@ categories:
 wp_id: 133
 ---
 
-<blockquote><p>Answer: use the CUMPRINC function in Excel</p></blockquote>
-<p>Say you take a 10-year lease for 100,000 at an interest rate (IRR) of 10%, paid annually. The installment for this lease is 16,275. You can calculate this using the PMT function in Excel:</p>
-<blockquote><p>PMT(10%, 10, 100000) = -16275</p></blockquote>
-<p>You've made 5 payments over 5 years. At this point, if you decide you want to repay the full lease, how much do you have to repay? In other words, <b>what's the principal outstanding</b> after 5 years?</p>
-<p>This is not trivial calculation. The answer is not 50,000. In fact, it is 61,693. Here's how it works.</p>
-<table class="numbers">
-<tr><th>Year</th><th>Balance</th><th>Principal</th><th>Interest</th><th>EMI</th></tr>
-<tr><td>1</td><td>100000</td><td>6275</td><td>10000</td><td>16275</td></tr>
-<tr><td>2</td><td>93725</td><td>6902</td><td>9373</td><td>16275</td></tr>
-<tr><td>3</td><td>86823</td><td>7592</td><td>8682</td><td>16275</td></tr>
-<tr><td>4</td><td>79231</td><td>8351</td><td>7923</td><td>16275</td></tr>
-<tr><td>5</td><td>70880</td><td>9187</td><td>7088</td><td>16275</td></tr>
-<tr><td>6</td><td style="color:red">61693</td><td>10105</td><td>6169</td><td>16275</td></tr>
-<tr><td>7</td><td>51588</td><td>11116</td><td>5159</td><td>16275</td></tr>
-<tr><td>8</td><td>40472</td><td>12227</td><td>4047</td><td>16275</td></tr>
-<tr><td>9</td><td>28245</td><td>13450</td><td>2825</td><td>16275</td></tr>
-<tr><td>10</td><td>14795</td><td>14795</td><td>1480</td><td>16275</td></tr>
-</table>
-<p>The <b>EMI contains an interest component as well as a principal component</b>. The interest component is always 10% of the balance -- because the interest rate is 10%. The remaining amount is the principal repayment.</p>
-<p>In the first year, you pay an interest of 10% x 100,000 = 10,000, and the remaining 6,275 (from your 16,275 EMI) is the principal repayment. This brings the balance down to 93,725.</p>
-<p>The next year, you pay an interest of 10% x 93,725 = 9,373, and the remaining 6,902 (from your 16,275 EMI) is the principal repayment. This brings the balance down to 86,823. And so on..</p>
-<p>So after 5 years, you just have to repay 61,693, the balance after 5 payments.</p>
-<p><b>Excel has two functions: PPMT and IPMT that calculate the principal and interest components</b>. For example:</p>
+> Answer: use the CUMPRINC function in Excel
 
-```excel
-PPMT(10%, 1, 10, -100000) = 6275 (principal payment in year 1)
-IPMT(10%, 1, 10, -100000) = 10000 (interest payment in year 1)
-```
+Say you take a 10-year lease for 100,000 at an interest rate (IRR) of 10%, paid annually. The installment for this lease is 16,275. You can calculate this using the PMT function in Excel:
 
-<p>Excel also has the cumulative versions of these functions: <b>CUMIPMT and CUMPRINC</b>. You can calculate the balance outstanding using the CUMPRINC function. For example:</p>
-<blockquote><p>CUMPRINC(10%, 10, 100000, 1, 5, 0) = -38307 (principal paid in first 5 years)</p></blockquote>
-<p>The balance outstanding is 100,000 - 38,307 = 61,693</p>
-<hr />
-<p>As you saw, the balance you have to repay midway is usually more than half the amount you borrowed. This is because you spend most of the first half paying off the interest. The typical shape of the balance outstanding over time is below.</p>
-<p><a href="/blog/assets/flickr-balance-outstanding-in-a-lease-over-time_353702984_o-gif.webp"><img src="/blog/assets/flickr-balance-outstanding-in-a-lease-over-time_353702984_o-gif.webp" width="450" height="320" alt="Balance outstanding in a lease, over time"></a></p>
-<p>The typical shape of the principal and interest component of the EMI over time is shown below.</p>
-<p><a href="/blog/assets/flickr-principal-and-interest-components-of-an-emi-over-time_353702986_o-gif.webp"><img src="/blog/assets/flickr-principal-and-interest-components-of-an-emi-over-time_353702986_o-gif.webp" width="450" height="320" alt="Principal and interest components of an EMI, over time"></a></p>
-<p>While this may take customers by surprise, this has confused banks as well, and has an <a href="/Calculating_IRR.html">interesting side-effect, thanks to Basel 2</a>. Most banks use the book value of the lease for risk calculations. This is typically based on a straight-line depreciation. So after 5 years, the lease is worth 50,000 in the books, and they would have to provide capital for that 50,000. But Basel 2 now says they need to provide for the principal outstanding, which is 61,693 -- meaning banks have to provide <i>more</i> capital than they have been so far. (I wouldn't be surprised if many banks <i>don't</i> know this.)</p>
+> PMT(10%, 10, 100000) = -16275
+
+You've made 5 payments over 5 years. At this point, if you decide you want to repay the full lease, how much do you have to repay? In other words, **what's the principal outstanding** after 5 years?
+
+This is not trivial calculation. The answer is not 50,000. In fact, it is 61,693. Here's how it works.
+
+| Year | Balance | Principal | Interest | EMI   |
+| ---- | ------- | --------- | -------- | ----- |
+| 1    | 100000  | 6275      | 10000    | 16275 |
+| 2    | 93725   | 6902      | 9373     | 16275 |
+| 3    | 86823   | 7592      | 8682     | 16275 |
+| 4    | 79231   | 8351      | 7923     | 16275 |
+| 5    | 70880   | 9187      | 7088     | 16275 |
+| 6    | 61693   | 10105     | 6169     | 16275 |
+| 7    | 51588   | 11116     | 5159     | 16275 |
+| 8    | 40472   | 12227     | 4047     | 16275 |
+| 9    | 28245   | 13450     | 2825     | 16275 |
+| 10   | 14795   | 14795     | 1480     | 16275 |
+
+The **EMI contains an interest component as well as a principal component**. The interest component is always 10% of the balance -- because the interest rate is 10%. The remaining amount is the principal repayment.
+
+In the first year, you pay an interest of 10% x 100,000 = 10,000, and the remaining 6,275 (from your 16,275 EMI) is the principal repayment. This brings the balance down to 93,725.
+
+The next year, you pay an interest of 10% x 93,725 = 9,373, and the remaining 6,902 (from your 16,275 EMI) is the principal repayment. This brings the balance down to 86,823. And so on..
+
+So after 5 years, you just have to repay 61,693, the balance after 5 payments.
+
+**Excel has two functions: PPMT and IPMT that calculate the principal and interest components**. For example:
+
+\`\`\`excel PPMT(10%, 1, 10, -100000) = 6275 (principal payment in year 1) IPMT(10%, 1, 10, -100000) = 10000 (interest payment in year 1) \`\`\`
+
+Excel also has the cumulative versions of these functions: **CUMIPMT and CUMPRINC**. You can calculate the balance outstanding using the CUMPRINC function. For example:
+
+> CUMPRINC(10%, 10, 100000, 1, 5, 0) = -38307 (principal paid in first 5 years)
+
+The balance outstanding is 100,000 - 38,307 = 61,693
+
+---
+
+As you saw, the balance you have to repay midway is usually more than half the amount you borrowed. This is because you spend most of the first half paying off the interest. The typical shape of the balance outstanding over time is below.
+
+[![Balance outstanding in a lease, over time](/blog/assets/flickr-balance-outstanding-in-a-lease-over-time_353702984_o-gif.webp)](/blog/assets/flickr-balance-outstanding-in-a-lease-over-time_353702984_o-gif.webp)
+
+The typical shape of the principal and interest component of the EMI over time is shown below.
+
+[![Principal and interest components of an EMI, over time](/blog/assets/flickr-principal-and-interest-components-of-an-emi-over-time_353702986_o-gif.webp)](/blog/assets/flickr-principal-and-interest-components-of-an-emi-over-time_353702986_o-gif.webp)
+
+While this may take customers by surprise, this has confused banks as well, and has an [interesting side-effect, thanks to Basel 2](/blog/calculating-irr/). Most banks use the book value of the lease for risk calculations. This is typically based on a straight-line depreciation. So after 5 years, the lease is worth 50,000 in the books, and they would have to provide capital for that 50,000. But Basel 2 now says they need to provide for the principal outstanding, which is 61,693 -- meaning banks have to provide _more_ capital than they have been so far. (I wouldn't be surprised if many banks _don't_ know this.)
 
 ---
 

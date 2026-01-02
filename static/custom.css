@@ -134,6 +134,10 @@ footer.footer-meta {
   max-width: 100%;
 }
 
+.wrap-code pre code {
+  white-space: pre-wrap;
+}
+
 #comments {
   margin-top: 3rem;
   margin-bottom: 1rem;

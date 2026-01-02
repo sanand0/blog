@@ -28,7 +28,7 @@ I chose the "Movie.Song.mp3" format because the movie name and the song name wer
 
 So, having very rationally organised my music collection, I was happy.
 
-Soon the problem shifted to song discovery. I'd heard the familiar songs in my collection many times. Of the unfamiliar songs, but I didn't know which to pick. I knew I liked some music directors more than others, and had a hunch I liked older songs. (My subsequent [analysis of song preferences](/Top_Tamil_songs.html) confirmed this.) But I didn't know the year or music director for any of my songs.
+Soon the problem shifted to song discovery. I'd heard the familiar songs in my collection many times. Of the unfamiliar songs, but I didn't know which to pick. I knew I liked some music directors more than others, and had a hunch I liked older songs. (My subsequent [analysis of song preferences](/blog/top-tamil-songs/) confirmed this.) But I didn't know the year or music director for any of my songs.
 
 Since [Raaga](http://wwww.raaga.com/) had a decent collection of songs, along with the year and music director, I decided to download this information and tag my files with this information. There were two problems. Firstly, the **data in Raaga needs to be parsed**. I need to hunt through each file to find the year and music director. The second was worse: **my song names were spelt differently from Raaga's**.
 
@@ -66,7 +66,7 @@ for my $file (keys %movie) {
 
 Incidentally, I'm showing you a simplifed version. I actually wrote the script in a way that I could resume where I left off. The **ability to resume was probably the single most useful time-saver** in the entire process.
 
-**Step 2: match the song names with those on my list**. This is tricky. I hate doing it manually. So I developed a set of rules that could compare two spellings of a movie and decide if they were the same or not (see my earlier post on [matching misspelt movie names](/Matching_misspelt_Tamil_movie_names.html)). For Hindi songs and movies, here are my rules (in JavaScript):
+**Step 2: match the song names with those on my list**. This is tricky. I hate doing it manually. So I developed a set of rules that could compare two spellings of a movie and decide if they were the same or not (see my earlier post on [matching misspelt movie names](/blog/matching-misspelt-tamil-movie-names/)). For Hindi songs and movies, here are my rules (in JavaScript):
 
 ```javascript
 w = w.toUpperCase(); // Convert to upper case
@@ -83,16 +83,16 @@ w = w.replace(/[AEIOU]/g, ""); // Ignore vowels
 w = w.replace(/ /g, ""); // Ignore spaces
 ```
 
-These are the rules, incidentally, that I use in my [Hindi](/Hindi_songs_1995s.html) [quizzes](/Hindi_songs_2000s.html). Even if you type in a different spelling, the rules above will match the correct answer.
+These are the rules, incidentally, that I use in my [Hindi](/blog/hindi-songs-1995s/) [quizzes](/blog/hindi-songs-2000s/). Even if you type in a different spelling, the rules above will match the correct answer.
 
 I extended these programs over 2006 to cover [MusicIndiaOnline](http://www.musicindiaonline.com/), [Musicplug.in](http://musicplug.in) and [Smashits](http://ww.smashits.com). (I've hit a point of diminishing returns, I think, so I'm not too keen on expanding this list.)
 
-Now, with a database of song information, I needed a good media player to view this in. I've used several media players over time: [WinAmp](http://www.winamp.com/), [Windows Media Player](http://www.microsoft.com/windows/windowsmedia/), [RealPlayer](http://www.real.com/player), [iTunes](http://www.apple.com/itunes/), and [MediaMonkey](http://www.mediamonkey.com/). I'm a big WinAmp fan, but I've been forced to Media Monkey now. WinAmp has a 10 second delay before playing any song on my [new laptop](/Software_for_my_new_laptop.html). MediaMonkey's not bad, though. The lack of advanced filters is countered by the heavy programmability (I can use Javascript to update MP3 ID3 tags on MediaMonkey). Plus, I get all the WinAmp plugins. As for the other media players, I think they're junk.
+Now, with a database of song information, I needed a good media player to view this in. I've used several media players over time: [WinAmp](http://www.winamp.com/), [Windows Media Player](http://www.microsoft.com/windows/windowsmedia/), [RealPlayer](http://www.real.com/player), [iTunes](http://www.apple.com/itunes/), and [MediaMonkey](http://www.mediamonkey.com/). I'm a big WinAmp fan, but I've been forced to Media Monkey now. WinAmp has a 10 second delay before playing any song on my [new laptop](/blog/software-for-my-new-laptop/). MediaMonkey's not bad, though. The lack of advanced filters is countered by the heavy programmability (I can use Javascript to update MP3 ID3 tags on MediaMonkey). Plus, I get all the WinAmp plugins. As for the other media players, I think they're junk.
 
 There are five things I want in a perfect media player:
 
 1. **Find as I type**. I shouldn't have to type the entire song, or press a "Go" button. I'll just type. It should show all matches instantly. WinAmp does this, and that's why I loved it. (Today, most media players can do this.)
-2. **Advanced filters**. Instead of manually creating playlists, I'd rather create filters, like "Highly rated songs in the 2000s I haven't heard recently". (See [How I listen to music](/How_I_listen_to_music.html).)
+2. **Advanced filters**. Instead of manually creating playlists, I'd rather create filters, like "Highly rated songs in the 2000s I haven't heard recently". (See [How I listen to music](/blog/how-i-listen-to-music/).)
 3. **Enqueable playlists**. When I click on a song, I don't want my current song to be interrupted. Just play it next.
 4. **Global hotkeys**. I want to pause the song when someone says something -- without having to go to the application, search for the pause button, etc. WinAmp does this brilliantly with its global hotkeys.
 5. **Online and offline integration**. I want to be able to search online collections, like Raaga. Unfortunately none of the media players can do this. They have their own collections (radio stations, really), but even these aren't really searchable.
@@ -101,7 +101,7 @@ Since my favourite media players (WinAmp and MediaMonkey) lack only one of these
 
 But no such luck. It was almost easier to build my own media player. So I started to build my two weeks ago. My hope was to cover as many of my favourite requirements, beginning with **find as you type**.
 
-The key to find-as-you-type is speed. You can't afford many calls back and forth between the browser and the server. Even if people have a fast connection, my server is not fast enough. (A good part of the reason [why I use Google applications](/Why_Google_Reader.html) is **speed**. Google's server is blazingly fast, and the design of their applications complements that.) To make find-as-you-type fast, ideally the entire database should be loaded. Then, as you type, I just need to check with the database in memory. But downloading an entire database takes ages! (My full music database is 7MB right now.)
+The key to find-as-you-type is speed. You can't afford many calls back and forth between the browser and the server. Even if people have a fast connection, my server is not fast enough. (A good part of the reason [why I use Google applications](/blog/why-google-reader/) is **speed**. Google's server is blazingly fast, and the design of their applications complements that.) To make find-as-you-type fast, ideally the entire database should be loaded. Then, as you type, I just need to check with the database in memory. But downloading an entire database takes ages! (My full music database is 7MB right now.)
 
 **Step 3: compress the database**. Rathern than load the full 4MB, I managed to get the page to start after loading 100KB of data. First, I cut down less important fields. Most searches are for a song or movie, rarely for a year or music director. So I took **only the movie and song names**. That brought the data down to ~2MB.
 

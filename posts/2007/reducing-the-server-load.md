@@ -25,7 +25,7 @@ If you read the [O'Reilly Radar Database War Stories](http://www.google.co.uk/se
 
 So **I moved to flat files instead**. Instead of looking up from a database, I just look up a test file using [grep](http://en.wikipedia.org/wiki/Grep). (I don't use Perl's regular expression matching because [regular expression matching in UNIX is faster than in Perl](http://swtch.com/~rsc/regexp/regexp1.html).) I have a 1.6MB text file that contains all my blog entries.
 
-But looking up a 1.6MB text file takes a while. So I split the file based on the first letter of the title. So this post ([Reducing the server load](/Reducing_the_server_load.html)) would go under a file `x.r.txt` (for 'R') while my last post ([Calvin and Hobbes animated](/Calvin_and_Hobbes_animated.html)) would go under a file `x.c.txt` (for 'C'). This speeds up the grep by a factor of 5-10.
+But looking up a 1.6MB text file takes a while. So I split the file based on the first letter of the title. So this post ([Reducing the server load](/blog/reducing-the-server-load/)) would go under a file `x.r.txt` (for 'R') while my last post ([Calvin and Hobbes animated](/blog/calvin-and-hobbes-animated/)) would go under a file `x.c.txt` (for 'C'). This speeds up the grep by a factor of 5-10.
 
 On average, using MySQL query used to take 0.9 seconds per query. Now, using grep, it's down to about 0.5 seconds per query. **Flat files reduced the CPU load by about half**. (And as a bonus, my site has no SQL code. I never did like SQL that much.)
 

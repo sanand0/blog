@@ -18,7 +18,7 @@ Firstly, I'll **restrict my search to [Amazon.co.uk](http://www.amazon.co.uk/)**
 
 [![MIDI keyboard on Amazon](/blog/assets/flickr-midi-keyboard-on-amazon_2166283290_o-png.webp)](/blog/assets/flickr-midi-keyboard-on-amazon_2166283290_o-png.webp "MIDI keyboard on Amazon")
 
-While that matches my criteria, I'm in no hurry and can wait for more offers to come up. But I don't want to keep checking this page every day. So, [**RSS to the rescue**](/Advanced_Google_Reader.html). You probably think I can't get enough of RSS feeds. And you'd be right. The thing is, as an attention mechanism, it is incredibly powerful, and I never cease to be amazed that the things it lets me do.
+While that matches my criteria, I'm in no hurry and can wait for more offers to come up. But I don't want to keep checking this page every day. So, [**RSS to the rescue**](/blog/advanced-google-reader/). You probably think I can't get enough of RSS feeds. And you'd be right. The thing is, as an attention mechanism, it is incredibly powerful, and I never cease to be amazed that the things it lets me do.
 
 Using my [XPath checker](https://addons.mozilla.org/en-US/firefox/addon/1095) and a bit of trial and error, I figured all product links link to "amazon.co.uk/dp/..." with a `<span>` inside. So this XPath gets all the links:
 
@@ -26,7 +26,7 @@ Using my [XPath checker](https://addons.mozilla.org/en-US/firefox/addon/1095) an
 //a[contains(@href,'/dp/')][span]
 ```
 
-And I made an RSS feed out of that using my [XPath server](/Scraping_RSS_feeds_using_XPath.html) and [subscribed to it on Google Reader](http://www.google.com/reader/shared/user/16836184467750910501/label/blog:%20keyboard%20rss%20feed).
+And I made an RSS feed out of that using my [XPath server](/blog/scraping-rss-feeds-using-xpath/) and [subscribed to it on Google Reader](http://www.google.com/reader/shared/user/16836184467750910501/label/blog:%20keyboard%20rss%20feed).
 
 Combining a bunch of such searches, I have a shopping folder on Google Reader has all the items I'm searching for. Now **that's** lazy bargain hunting.
 

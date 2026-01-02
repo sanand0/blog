@@ -8,7 +8,7 @@ wp_id: 173
 
 My digital camera conked off. The cover that holds the battery fell off, and I can't use it any more.
 
-I went back to my [buying principles](/How_I_buy_gadgets.html), and prepared an Excel sheet to choose my next camera. Here's what I was looking for:
+I went back to my [buying principles](/blog/how-i-buy-gadgets/), and prepared an Excel sheet to choose my next camera. Here's what I was looking for:
 
 - **Low-light photography**. Flashes are lousy. This effectively means I need ISO control.
 - **Shutter speed control**. I sometimes take really long exposure (3-10s) snaps, and sometimes can't afford the blur (1/250s).

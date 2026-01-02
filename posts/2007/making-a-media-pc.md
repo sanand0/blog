@@ -24,7 +24,7 @@ At the centre of the setup is my **[42" Plasma TV](http://www.digitaldirect.co.u
 
 I finally picked the Plasma TV, but it was a borderline decision.
 
-The TV is hooked to a **[Cyberhome DVD player](http://www.amazon.co.uk/exec/obidos/ASIN/B000EFB3WK/203-8228875-3976759/?tag=sanand-20) with DivX** and a **[Freeview receiver](http://www.amazon.co.uk/exec/obidos/ASIN/B000BISKUS/203-8228875-3976759/?tag=sanand-20)**. The DVD player lets me watch DivX movies I download as [torrents](/Indian_Torrents.html). The Freeview player gives me [over 40 free channels](http://www.freeview.co.uk/channels/) for casual viewing. (I don't watch enough TV to need [Sky TV](http://www.sky.com/).)
+The TV is hooked to a **[Cyberhome DVD player](http://www.amazon.co.uk/exec/obidos/ASIN/B000EFB3WK/203-8228875-3976759/?tag=sanand-20) with DivX** and a **[Freeview receiver](http://www.amazon.co.uk/exec/obidos/ASIN/B000BISKUS/203-8228875-3976759/?tag=sanand-20)**. The DVD player lets me watch DivX movies I download as [torrents](/blog/indian-torrents/). The Freeview player gives me [over 40 free channels](http://www.freeview.co.uk/channels/) for casual viewing. (I don't watch enough TV to need [Sky TV](http://www.sky.com/).)
 
 I bought an **[Intel Pentium III Tower](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=200084798618)** that I bought on eBay. This is my "media PC". I hooked this up to my TV (which has a PC input), a pair of **[Bose Mediamate speakers](http://en.wikipedia.org/wiki/Bose_computer_speakers#Bose_MediaMate_Computer_Speakers)** (a gift from my brother-in-law) with excellent sound response, and a **[Labtec webcam](http://www.labtec.com/index.cfm/gear/details/EUR/EN,crid=30,contentid=623)**.
 

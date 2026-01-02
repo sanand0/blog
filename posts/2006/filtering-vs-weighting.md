@@ -8,13 +8,13 @@ wp_id: 175
 
 I am selecting a CRM package for a bank. I asked my colleagues how they'd gone about it, and got 8 responses. **Every single one of them had the same weighting approach**: Take a huge list of criteria, assign weights, score each package, calculate a weighted-average score, pick the highest one.
 
-As I mentioned earlier, I think **weighting is a lousy method**. (See [Errors in multicriteria decision making](/Errors_in_multicriteria_decision_making.html).) You can't say "I picked this package because it has X, Y and Z features, which the others don't." You can only say, "Oh, overall, it has the highest score..."
+As I mentioned earlier, I think **weighting is a lousy method**. (See [Errors in multicriteria decision making](/blog/errors-in-multicriteria-decision-making/).) You can't say "I picked this package because it has X, Y and Z features, which the others don't." You can only say, "Oh, overall, it has the highest score..."
 
 **The scores **and** the weights are subjective**. You spend ages arguing between a 3 and a 4. You can manipulate them very easily. And you end up having to revise the scores many times to get to the answer you want.
 
 Since I now had an opinion, I put my foot down, and said, "Here's what we'll do. Let's make a list of essential criteria. They will all be YES / NO questions. **Any package that doesn't meet any criteria is knocked off**. That's it."
 
-This may appear simplistic, but it isn't. You see, at the end of the day, [only a few criteria really matter](/Excel_-_Make_your_model_visually_obvious.html). Ideally, you just pick these, and compare packages against these. Since you don't know **which** these are, you make a bigger list, evaluate them all, and then realise the truth.
+This may appear simplistic, but it isn't. You see, at the end of the day, [only a few criteria really matter](/blog/excel-make-your-model-visually-obvious/). Ideally, you just pick these, and compare packages against these. Since you don't know **which** these are, you make a bigger list, evaluate them all, and then realise the truth.
 
 Sometimes, you have too many criteria. Then none of the packages make it, and you have to sacrifice some of your criteria.
 

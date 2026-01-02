@@ -33,7 +33,7 @@ In all the above cases, **the same process was used for decision making**.
 3. Assign weights to criteria (equal weights implicitly assigned above)
 4. Compare options
 
-Having applied this methodology it several times, I am convinced this process is **fundamentally flawed**. See how in this post: [Errors in multicriteria decision making](/Errors_in_multicriteria_decision_making.html).
+Having applied this methodology it several times, I am convinced this process is **fundamentally flawed**. See how in this post: [Errors in multicriteria decision making](/blog/errors-in-multicriteria-decision-making/).
 
 ---
 

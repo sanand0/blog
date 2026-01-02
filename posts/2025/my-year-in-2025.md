@@ -48,7 +48,7 @@ Here's what didn't work.
 These apart, I also:
 
 - **[Lost 25 kg](/blog/i-lost-22-kg-in-22-weeks/)** from Jan - Jun just by skipping lunch / dinner. No exercise or diet change. This works for me, but YMMV. Being flexible (type of food, which meal to skip, etc.) helps me sustain habits.
-- Published **[Things I learnt](https://til.s-anand.net/)** weekly.
+- Published **[Things I learnt](https://til.s-anand.net/)** weekly and wrote [150+ blog posts](https://www.s-anand.net/blog/).
 - **AI-podcasted** [my code](https://github.com/sanand0/sanand0?tab=readme-ov-file#recent-activity) and a [Gen AI WhatsApp Group](https://github.com/sanand0/generative-ai-group?tab=readme-ov-file#gen-ai-whatsapp-podcast-automator).
 
 ---

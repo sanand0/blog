@@ -33,7 +33,7 @@ sissy sitter sled slimy slug slushball sniff snow snowball snowman soak spaceman
 
 **Summary**: "Statistically improbable phrases" are a powerful tool for text analysis. You can apply it on any content and figure out what topics it talks about.
 
-**Update**: Technically, these are "Statistically improbable WORDS", not phrases. So I [re-did this analysis using phrases instead of words](/Statistically_improbable_phrases_2.html).
+**Update**: Technically, these are "Statistically improbable WORDS", not phrases. So I [re-did this analysis using phrases instead of words](/blog/statistically-improbable-phrases-2/).
 
 ---
 

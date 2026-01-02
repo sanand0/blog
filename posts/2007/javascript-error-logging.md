@@ -9,8 +9,8 @@ wp_id: 69
 
 > If something goes wrong with my site, I like to know of it. My top three problems are:
 >
-> 1. [The site is down](/Monitoring_site_downtime.html)
-> 2. [A page is missing](/Handling_missing_pages.html)
+> 1. [The site is down](/blog/monitoring-site-downtime/)
+> 2. [A page is missing](/blog/handling-missing-pages/)
 > 3. [Javascript isn't working](#start3)
 >
 > This is the last of 3 articles on these topics.
@@ -21,7 +21,7 @@ Since no one pays me for what little code I write, no one shouts at me for getti
 **But no one tells me so**
 At work, that's usually OK. On the few occasions where I've written Perl scripts or VB Macros that don't work, people call me back within a few hours, very worried that THEY'd done something wrong. (Sometimes, I don't contradict them.) It can be quite a stressful experience but good thing you can [**learn more here**](https://www.exhalewell.com/cbd-flower/) on how to cope up with it.
 On my site, I don't always get that kind of feedback. People just click the back button and go elsewhere.
-Recently, I've been doing more Javascript work on my site than writing stuff. Usually, the code works for me. (I write it for myself in the first place.) But I end up optimising for Firefox rather than IE, and for the plugins I have, etc. When I try the same app a few months later on [my media PC](/Making_a_Media_PC.html), it doesn't work, and shockingly enough, no one's bothered telling me about it all these months. They'd just click, nothing happens, they'd vanish.
+Recently, I've been doing more Javascript work on my site than writing stuff. Usually, the code works for me. (I write it for myself in the first place.) But I end up optimising for Firefox rather than IE, and for the plugins I have, etc. When I try the same app a few months later on [my media PC](/blog/making-a-media-pc/), it doesn't work, and shockingly enough, no one's bothered telling me about it all these months. They'd just click, nothing happens, they'd vanish.
 **But their browsers can tell me**
 The good part about writing code in Javascript is that I can catch exceptions. Any Javascript error can be trapped. So since the end of last year, I've started wrapping almost every Javascript function I write in a `try {} catch() {}` block. In the `catch` block, I send a log message reporting the error.
 The code looks something like this:

@@ -10,7 +10,7 @@ I am a vegetarian. More out of habit than religion. (I'm not very religious.) Wh
 
 But it has happened unknowningly. Many times.
 
-Until I was 22, I had not been out of India on my own, and things were fine. In 1998, I went to Charlotte, NC, for training. (On a KLM flight that placed me [illegally in Germany](/Illegally_in_Germany.html), but that's another story.) I was pretty groggy after an 8-hour night flight. So when I was woken up by the sound of breakfast, I bit into the big yellow thing on the tray in front. Sleepy as I was, I did feel a little suspicious. Didn't quite taste sweet, like I was expecting it to. I saved it for the last, when Ram, my manager, walked past.
+Until I was 22, I had not been out of India on my own, and things were fine. In 1998, I went to Charlotte, NC, for training. (On a KLM flight that placed me [illegally in Germany](/blog/illegally-in-germany/), but that's another story.) I was pretty groggy after an 8-hour night flight. So when I was woken up by the sound of breakfast, I bit into the big yellow thing on the tray in front. Sleepy as I was, I did feel a little suspicious. Didn't quite taste sweet, like I was expecting it to. I saved it for the last, when Ram, my manager, walked past.
 
 "Are you eating that?" (pointing to the nibbled food in front)
 
