@@ -7,13 +7,11 @@ categories:
 wp_id: 351
 ---
 
-<p>These are quotes from books. How many titles can you guess? (Case insensitive. Ignore punctuation. So "Hitchhiker's" is "Hitchhikers" without the apostrophe. Don't forget the leading "A" and "The". Harry Potter books begin with "Harry Potter and the...".)</p>
+These are quotes from books. How many titles can you guess? (Case insensitive. Ignore punctuation. So "Hitchhiker's" is "Hitchhikers" without the apostrophe. Don't forget the leading "A" and "The". Harry Potter books begin with "Harry Potter and the...".)
 
-<p>Anything over 10 / 25 is impressive.</p>
+Anything over 10 / 25 is impressive.
 
 <iframe src="https://sanand0.github.io/quizzes/dialogues/book-quotes/?embed=1" style="width:100%; height: 100vh"></iframe>
-
-<p></p>
 
 ---
 

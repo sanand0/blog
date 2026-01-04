@@ -268,3 +268,10 @@ Rather than read individual books, why not read clusters on related topics? Usin
   - The Richest Man in Babylon (George S. Clason, 1926)
   - The Science of Getting Rich (Wallace D. Wattles, 1910)
   - As a Man Thinketh (James Allen, 1903)
+
+TODO
+
+- The Panda's Thumb (Stephen Jay Gould, 1980)
+- Pluto's Republic (Peter Medawar, 1983)
+- The Science of the Artificial (Herbert A. Simon, 1969)
+- Weapons and Hope (Freeman Dyson, 1984)

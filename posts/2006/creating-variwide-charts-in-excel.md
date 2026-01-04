@@ -8,8 +8,9 @@ categories:
 wp_id: 206
 ---
 
-<p>I <a href="/blog/visualisation-centralising-improves-productivity/">mentioned</a> that it's possible to create variwides using X-Y scatter plots. The video below shows how.</p>
-<p><iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/YBbw6kXTGJ4" frameborder="0" allowfullscreen></iframe></p>
+I [mentioned](/blog/visualisation-centralising-improves-productivity/) that it's possible to create variwides using X-Y scatter plots. The video below shows how.
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/YBbw6kXTGJ4" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
