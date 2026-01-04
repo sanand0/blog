@@ -7,7 +7,7 @@ from __future__ import annotations
 
 import calendar
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import date, datetime
 from pathlib import Path
 import shutil
 from typing import Any, Iterable
@@ -222,7 +222,11 @@ def build(
         doc = split_front_matter(path.read_text(encoding="utf-8"))
         write_markdown(content_dir / "posts" / rel_path, doc, slug)
         date_value = doc.front_matter.get("date") or ""
-        if isinstance(date_value, str):
+        if isinstance(date_value, datetime):
+            post_dates.append(date_value)
+        elif isinstance(date_value, date):
+            post_dates.append(datetime.combine(date_value, datetime.min.time()))
+        elif isinstance(date_value, str):
             dt = parse_date(date_value)
             if dt:
                 post_dates.append(dt)

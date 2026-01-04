@@ -134,8 +134,11 @@ footer.footer-meta {
   max-width: 100%;
 }
 
+/* Adding classes: wrap-code enables prompts to be wrapped. */
 .wrap-code pre code {
   white-space: pre-wrap;
+  /* Don't break words for prompts. Override .post-content pre code { word-break: break-all; } */
+  word-break: normal;
 }
 
 #comments {

@@ -9,7 +9,6 @@ classes: wrap-code
 
 Have an AI coding agent write in the style of popular developers.
 
-```markdown
 ## JavaScript
 
 https://chatgpt.com/c/68d65e38-9d54-8331-9c7b-ff5c375c445a
@@ -729,4 +728,3 @@ Deterministic emails
 - Publisher performance brief: Focus on audience, attention, engagement funnels, and monetization levers.
 - Pharma/clinical summary: Emphasize safety, efficacy, regulatory status, and impact on standard of care.
 - Education analytics report: Student outcomes, equity implications, intervention effects, and actionable classroom changes.
-```
