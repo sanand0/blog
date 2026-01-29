@@ -1,5 +1,5 @@
 ---
-title: Gemini: Am I a genius?
+title: "Gemini: Am I a genius?"
 date: 2025-12-27T00:00:00+08:00
 source: "https://gemini.google.com/u/0/app/539ffdefb59a7b85"
 build: { list: never, render: always }
