@@ -19,3 +19,7 @@ It still has some way to go, though. I asked it to convert a portion of [this pa
 [![](https://files.s-anand.net/images/2026-01-29-openai-prism-output.webp)](https://prism.openai.com/?u=a0df2c6f-a17a-4c7d-b353-d3f38dd6b363&pg=1&m=main.tex&d=7)
 
 The number of errors it made are too many to list. So, it's still some way from being picture-perfect. But for those experimenting, not publishing, it's a useful accelerator.
+
+---
+
+**UPDATE**: I assumed that (because the chemical formulas looked so different) it had misread the image. But experts tell me that it actually got it right! So, Prism (and the underlying GPT models) may not be perfect but are certainly better than I thought.

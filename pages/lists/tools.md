@@ -5,6 +5,19 @@ date: 2025-04-15T00:00:00Z
 
 Results of my software tool evaluations. 🟢 is my current choice and 🟡 is worth evaluating.
 
+## MP3 Tag Extraction
+
+[ExifTool and Alternatives Evaluation](https://gemini.google.com/app/56e50a70b0dd7791)
+
+While [puddletag](https://docs.puddletag.net/) / [mp3tag](https://www.mp3tag.de/en/) are great UIs to edit MP3 tags, for [CLI extraction of tags], consider:
+
+- [FFmpeg 56,783 ⭐ Jan 2026](https://github.com/FFmpeg/FFmpeg): Complete, cross-platform solution to record, convert and stream audio and video. **Summary:** While primarily a transcoder, the included `ffprobe` tool is the most robust option for extracting deep technical metadata from video streams; updated nightly; steep learning curve but scriptable via JSON output.
+- [ImageMagick 15,593 ⭐ Jan 2026](https://github.com/ImageMagick/ImageMagick): FOSS software suite for displaying, converting, and editing raster image files. **Summary:** Uses the `identify` CLI tool for metadata; excellent availability (pre-installed on most servers); heavier resource usage than specialized tools; best if you already use ImageMagick for processing and want to avoid adding dependencies.
+- 🟢 [exiftool 4,384 ⭐ Jan 2026](https://github.com/exiftool/exiftool): (Mirror). The official Perl source for Phil Harvey’s ExifTool. **Summary:** The absolute gold standard for breadth; reads/writes thousands of formats; extensive CLI options; maintained religiously (release **Jan 27, 2026**); slower startup than C++ alternatives but unmatched in reliability.
+- [MediaInfo 1,796 ⭐ Jan 2026](https://github.com/MediaArea/MediaInfo): Unified display of relevant technical and tag data for video/audio. **Summary:** The specialist for A/V containers; provides "view-only" deep technical specs (codecs, bitrates, languages); excellent "Text" and "JSON" output modes; widely admired in the archival community; lighter than FFmpeg for pure analysis.
+- [exiv2 1,095 ⭐ Jan 2026](https://github.com/Exiv2/exiv2): Image metadata library and tools (C++). **Summary:** The high-speed alternative to ExifTool; strictly focused on standard image formats (JPEG, TIFF, PNG, RAW); significantly faster startup time makes it superior for shell loops/scripts; active development (latest release **Oct 2025**).
+- [jhead 250 ⭐ May 2025](https://github.com/Matthias-Wandel/jhead): Simple command line tool for displaying and manipulating EXIF header data. **Summary:** A legacy tool (mostly C); useful for very specific, simple JPEG header manipulations (like rotation) where you want a tiny, static binary without the overhead of Perl or C++ libraries; low momentum compared to Exiv2.
+
 ## Code execution sandboxes, 26 Jan 2026
 
 - [Fly.io Sprites](https://sprites.dev/): ~$3/day (on demand). Persistent, fast-startup, checkpoint-able, public HTTPS URLs, SSH, port-forwarding, auto-sleep after 30s.
