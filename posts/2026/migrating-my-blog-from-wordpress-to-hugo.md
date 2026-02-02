@@ -370,23 +370,23 @@ But the session was auto-compacting quite well. So rather than lose context, I h
 
 Here're the lessons I distilled from this migration, tagged by whether it's new to me.
 
-|   # | Lesson                                                | New? |
-| --: | ----------------------------------------------------- | ---- |
-|   1 | Create a `PLAN.md` before complex tasks               |      |
-|   2 | Analyze data while planning                           | New  |
-|   3 | Edit `PLAN.md` using the agent, not manually          | New  |
-|   4 | Implement small steps, run and commit as you go       |      |
-|   5 | Run post-mortems mid-way                              | New  |
-|   6 | Ask for actionable exception reports                  | New  |
-|   7 | Delegate verification to the agent                    |      |
-|   8 | Accept that you _will_ make mistakes                  |      |
-|   9 | Verification reports speed up reviews                 | New  |
-|  10 | Generate easy-to-review to review content             |      |
-|  11 | Give it all your tools                                |      |
-|  12 | Prefer UI reviews over code reviews for ease          |      |
-|  13 | You can resume if it hangs. Don't worry about context | New  |
-|  14 | Allow it design flexibility                           | New  |
-|  15 | Generate documentation                                |      |
-|  16 | Ask for effort estimates                              | New  |
-|  17 | Probe for confidence                                  | New  |
-|  18 | Continue the session for the long tail                |      |
+|  # | Lesson                                                | New? |
+| -: | ----------------------------------------------------- | ---- |
+|  1 | Create a `PLAN.md` before complex tasks               |      |
+|  2 | Analyze data while planning                           | New  |
+|  3 | Edit `PLAN.md` using the agent, not manually          | New  |
+|  4 | Implement small steps, run and commit as you go       |      |
+|  5 | Run post-mortems mid-way                              | New  |
+|  6 | Ask for actionable exception reports                  | New  |
+|  7 | Delegate verification to the agent                    |      |
+|  8 | Accept that you _will_ make mistakes                  |      |
+|  9 | Verification reports speed up reviews                 | New  |
+| 10 | Generate easy-to-review to review content             |      |
+| 11 | Give it all your tools                                |      |
+| 12 | Prefer UI reviews over code reviews for ease          |      |
+| 13 | You can resume if it hangs. Don't worry about context | New  |
+| 14 | Allow it design flexibility                           | New  |
+| 15 | Generate documentation                                |      |
+| 16 | Ask for effort estimates                              | New  |
+| 17 | Probe for confidence                                  | New  |
+| 18 | Continue the session for the long tail                |      |

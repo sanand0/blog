@@ -47,3 +47,6 @@ So, in [my course](https://tds.s-anand.net/), this term, students will _also_ be
 Since AI can solve so many problems, let's learn to break some rules and ask impossible questions to our AI overlords?
 
 ![](https://files.s-anand.net/images/2026-02-01-genie-head-explodes.avif)
+
+<!-- https://claude.ai/chat/80efa941-aac1-4cf2-9b37-56b25fb53af8 -->
+<!-- https://gemini.google.com/app/1a5080455a4146c8 -->

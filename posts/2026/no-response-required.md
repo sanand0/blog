@@ -13,9 +13,9 @@ I asked Gemini 3 Pro to:
 Suggest short words that mean innovation, exploration, research, etc.
 ```
 
-* **Spark:** A small but significant beginning.
-* **Lab:** Short for laboratory; implies experimentation.
-* ... (long and pretty good list)
+- **Spark:** A small but significant beginning.
+- **Lab:** Short for laboratory; implies experimentation.
+- ... (long and pretty good list)
 
 ```markdown
 I went with "Labs". Thanks. No response required.

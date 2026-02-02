@@ -42,7 +42,6 @@ The "rules" are literally written on the board. When these three blocks "FLAG", 
 
 If I push the the "WALL" block to replace the "FLAG" block, touching the wall wins. So, the trick is to re-arrange the rules to win. I love doing that!
 
-
 In [Everything Bad Is Good For You](https://www.goodreads.com/book/show/36085.Everything_Bad_is_Good_for_You), Steven Johnson argues that pop culture (video games, manga, soap operas, game shows, etc.) are becoming more and more complex and provide a dopamine kick from problem-solving. Pop culture does have bad side effects (screen-time, addiction, mis-information), and we're not sure whether strategy games help with memory and planning or it's the other way around, but I do believe that well-designed games can help us build useful skills.
 
 So, more Baba Is You for me!
