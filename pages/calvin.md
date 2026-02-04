@@ -1,6 +1,7 @@
----
+ ---
 title: Calvin & Hobbes Quote Search
 build: { list: never, render: always }
+robotsNoIndex: true
 ---
 
 <style>
@@ -33,20 +34,6 @@ build: { list: never, render: always }
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     align-items: end;
     margin-bottom: 2rem;
-  }
-
-  .calvin-brand h1 {
-    font-family: "Fraunces", "Times New Roman", serif;
-    font-size: clamp(2.2rem, 4vw, 3.4rem);
-    margin: 0 0 0.35rem;
-    letter-spacing: 0.5px;
-  }
-
-  .calvin-brand p {
-    margin: 0;
-    max-width: 34ch;
-    font-size: 1rem;
-    color: rgba(28, 29, 27, 0.7);
   }
 
   .calvin-controls {
@@ -159,6 +146,13 @@ build: { list: never, render: always }
     margin: 0 auto;
     border-radius: 12px;
     box-shadow: 0 18px 36px -30px rgba(0, 0, 0, 0.6);
+    transition: transform 0.3s ease;
+  }
+
+  @media (min-width: 960px) {
+    .calvin-image:hover {
+      transform: scale(1.5);
+    }
   }
 
   .calvin-caption {
@@ -196,10 +190,6 @@ build: { list: never, render: always }
 
 <div class="calvin-viewer">
   <div class="calvin-header">
-    <div class="calvin-brand">
-      <h1>Calvin &amp; Hobbes</h1>
-      <p>Browse daily strips, jump through time, and search the archive by quote.</p>
-    </div>
     <div class="calvin-controls">
       <div class="calvin-search">
         <label for="calvin-search">Search quotes</label>

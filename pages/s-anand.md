@@ -22,11 +22,11 @@ wp_id: 2992
 
 **WORKING WITH ME**
 
-TO INVITE ME TO **SPEAK**, please see my [talks page](/blog/talks/).
+To invite me to **speak**, please see my [talks page](/blog/talks/).
 
-TO ASK ME **ADVICE**, please write down your exact question. Then call me.
+For **advice**, please check my [time management](/blog/time/) or [career advice](/blog/career-advice.md). Else mail me.
 
-TO **WORK WITH ME** on open-source projects, [send a pull request](https://github.com/sanand0/).
+To work with me on **projects**, please [send a pull request](https://github.com/sanand0/).
 
 **GET UPDATES**
 

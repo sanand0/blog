@@ -44,7 +44,8 @@ You may use any pictures of me and here are some:
 
 - **Presentation**: I don't have presentations to share. Often, I present interactive demos.
 - **Laptop**: I use my laptop (Lenovo, Ubuntu, HDMI + USB3) to present. No audio. I need my laptop near the podium to type.
-- **Internet**: My demos need Internet. I can use mobile data but if the venue network is bad, please arrange WiFi.
+- **Aspect ratio**: I can work with 16:9, 16:10, or 4:3 screens. Please check if circles look like perfect circles, not ovals.
+- **Internet**: My demos need Internet. I can use mobile data but if the venue network is bad, please help with WiFi.
 - **Security**: I don't carry ID. If security requires one, I'd appreciate an escort to take me through with my phone and laptop.
 - **Attire**: I wear round-neck T-shirts, jeans, and open sandals. Please allow this.
 - **Recording**: I encourage you to record my talk. Please share the recording with me.
