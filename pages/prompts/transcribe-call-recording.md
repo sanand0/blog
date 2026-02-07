@@ -14,8 +14,7 @@ Drop verbal tics and fillers (um, uh, etc).
 Correct spelling and grammar but otherwise don't modify the original words.
 Add English translations to any non-English parts.
 Mark inaudible or unclear segments as "[inaudible]". Mark uncertain words with like "[word?]" or ambiguous possibilities like "[word1? word2?]".
-Break it into logical paragraphs. No timestamps.
-Begin each paragraph with a **Speaker**: ...., e.g. **Anand**: ...
+Break it into LOGICAL paragraphs, each paragraph with a **Speaker**: [Timestamp] content ...., e.g. **Anand**: [00:13] When did ...
 Guess speaker names. If unsure, use **Unsure**: ...
 **Make key points / takeaways / memorable statements bold**.
 **I repeat: Transcribe EVERY part of the conversation. Don't miss any turns.**
