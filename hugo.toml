@@ -2,7 +2,8 @@ baseURL = "https://www.s-anand.net/blog/"
 title = "S Anand"
 languageCode = "en-us"
 enableRobotsTXT = true
-disableAliases = true
+# Enable aliases for redirects
+disableAliases = false
 relativeURLs = false
 canonifyURLs = false
 theme = "PaperMod"

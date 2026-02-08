@@ -13,8 +13,8 @@ If you _already started_, you might notice some questions have changed.
 
 **Why is GA1 changing?** Because some questions don't work. For example:
 
-- [We replaced Claude Artifacts with a Vercel question](https://github.com/sanand0/tools-in-data-science-public/discussions/56#discussioncomment-15724312) because Claude won't allow a proxy any more.
-- A question had [unintionally wrong instructions](https://github.com/sanand0/tools-in-data-science-public/discussions/268#discussioncomment-15730275).\
+- [We replaced Claude Artifacts with a Vercel question](https://github.com/sanand0/tools-in-data-science-public/discussions/56#discussioncomment-15724312) because Claude won't allow a proxy anymore.
+- A question had [unintentionally wrong instructions](https://github.com/sanand0/tools-in-data-science-public/discussions/268#discussioncomment-15730275).\
   (Some questions have _intentionally_ wrong instructions, but those are, ...um... intentional).
 - [Someone changed an API key](https://github.com/sanand0/tools-in-data-science-public/discussions/259#discussioncomment-15723545).
 - ... etc.
@@ -23,7 +23,7 @@ If you _already started_, you might notice some questions have changed.
 
 **Should I wait?** Maybe not, since only some questions may change, and [submitting early increases scores](https://www.s-anand.net/blog/halving-a-deadline-costs-1-4-of-marks-each-time/).
 
-**Will other exams change similarly?** Probably. We'll post updates [IITM](https://groups.google.com/a/study.iitm.ac.in/g/26t1_se2002-announce) and [Public](https://groups.google.com/g/tds-iitm) announcement groups.
+**Will other exams change similarly?** Probably. We'll email the [IITM](https://groups.google.com/a/study.iitm.ac.in/g/26t1_se2002-announce) and [Public](https://groups.google.com/g/tds-iitm) announcement groups.
 
 **But this is unfair!** Exactly what I tell clients when they change scope mid-way. They never listen.
 

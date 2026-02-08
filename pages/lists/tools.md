@@ -5,6 +5,15 @@ date: 2025-04-15T00:00:00Z
 
 Results of my software tool evaluations. 🟢 is my current choice and 🟡 is worth evaluating.
 
+## URL shorteners
+
+[Free URL Tracking Services](https://chatgpt.com/c/69833677-fb48-83a3-8369-a8c93d1fedae) | [Lightweight URL Click Tracking Services](https://gemini.google.com/app/dfba2b9d7e65c8ae)
+
+- [is.gd](https://is.gd) / [v.gd](https://v.gd): Unlimited tracking, no sign-up, not open-source. Simple API to create short links.
+- [Dub.co](https://dub.co/): Open-source + hosted. 1K free clicks tracked per month.
+- [Kutt.it](https://kutt.it/): Open-source + hosted. 10K free clicks tracked per month.
+- Build your own
+
 ## MP3 Tag Extraction
 
 [ExifTool and Alternatives Evaluation](https://gemini.google.com/app/56e50a70b0dd7791)
