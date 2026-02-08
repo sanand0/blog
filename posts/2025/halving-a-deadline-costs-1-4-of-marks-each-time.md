@@ -8,13 +8,9 @@ categories:
 wp_id: 3929
 ---
 
-![Halving a deadline costs 1.4% of marks each time](/blog/assets/impact-of-late-submissions-1.webp)
-
 Does it make a difference if you submit early vs submit late? Here's some empirical data.
 
 About ~1,000 students at IIT Madras took 3 online quizzes ([GA1](https://exam.sanand.workers.dev/tds-2025-01-ga1), [GA2](https://exam.sanand.workers.dev/tds-2025-01-ga2), [GA3](https://exam.sanand.workers.dev/tds-2025-01-ga3)) in the last few weeks. The deadlines were all at midnight (India) on different days. Here's when they submitted their final answers:
-
-![](/blog/assets/late-submissions.webp)
 
 - **There was a spurt of submissions at the last minute**.\
   ~1 out of 8 students submit with < 10 minutes remaining.
@@ -25,7 +21,7 @@ About ~1,000 students at IIT Madras took 3 online quizzes ([GA1](https://exam.sa
 
 But does submitting late help, since you get more time? Apparently not.
 
-![](/blog/assets/impact-of-late-submissions-1-600x288.webp)
+![](https://files.s-anand.net/images/2025-02-08-impact-of-late-submissions.webp)
 
 On average, every time the deadline is halved, the score drops by 1.4%.
 

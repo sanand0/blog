@@ -18,7 +18,7 @@ A common task for data engineers is to analyze SQL queries - to optimize and sta
 
 [Here's the analysis.](https://pavankumart18.github.io/sql-analysis/)
 
-As a next step, he build a "Middle Layer" - intermediate tables that standardize and optimize queries. Instead of 50 fragile tables, the user can query just 3 robust tables that cover 98% of the SQL queries.
+As a next step, he built a "Middle Layer" - intermediate tables that standardize and optimize queries. Instead of 50 fragile tables, the user can query just 3 robust tables that cover 98% of the SQL queries.
 
 For example:
 
@@ -27,11 +27,11 @@ For example:
 
 NOTE: Season ticket buyers often bought merchandise as guests (for convenience). Marketing saw these as new customers and spammed them - annoying VIP customers. This standardization created an identity graph - so they can offer discounts instead.
 
-The process, which Antigravity figured out mostly by itself, was to parse the SQL into an abstract syntax tree (AST), etract a set of features, map them into clusters (archetypes), and analyze them to create the middle layer tables.
+The process, which Antigravity figured out mostly by itself, was to parse the SQL into an abstract syntax tree (AST), extract a set of features, map them into clusters (archetypes), and analyze them to create the middle layer tables.
 
 [![](https://files.s-anand.net/images/2026-02-04-sql-analysis-feature-table.webp)](https://pavankumart18.github.io/sql-analysis/)
 
-It's impressive SQL queries can reveal organizational culture and misalignment. But:
+SQL queries can reveal organizational culture and misalignment - which is cool! But also:
 
 - This took a few hours.
 - Pavan has no data engineering experience.

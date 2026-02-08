@@ -1,7 +1,7 @@
 ---
 title: Learnings from building Babbage Insight
 date: 2026-01-19T18:50:19+05:30
-tags:
+categories:
   - links
 ---
 

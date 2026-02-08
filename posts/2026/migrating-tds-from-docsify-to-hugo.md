@@ -1,7 +1,7 @@
 ---
 title: Migrating TDS from Docsify to Hugo
 date: 2026-02-07T12:01:10+08:00
-tags:
+categories:
   - llms
   - coding
   - education
