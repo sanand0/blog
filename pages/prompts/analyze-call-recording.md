@@ -55,5 +55,5 @@ Write as a Markdown list of lists with no headings:
 After that, I often use this on interesting meetings:
 
 ```markdown
-List every learning / interesting fact from the transcript.
+List every learning / interesting fact from the transcript in sequence.
 ```

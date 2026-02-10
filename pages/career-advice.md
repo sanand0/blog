@@ -3,7 +3,7 @@ title: Career Advice
 date: 2026-02-03T13:08:26+08:00
 ---
 
-My answers to questions people have asked me.
+My answers to career advice people have asked me.
 
 ## Should I go deep or broad in my career?
 
