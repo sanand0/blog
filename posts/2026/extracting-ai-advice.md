@@ -21,7 +21,7 @@ Claude's suggestion was the best:
 2. Each batch → extract advice themes
 3. Aggregate batch results with Claude Sonnet for final synthesis
 
-But I ignored it because it was too much work. (See my [AI advice](/blog/ai-advice/): *"Ask for easier output"*)
+But I ignored it because it was too much work. (See my [AI advice](/blog/ai-advice/): _"Ask for easier output"_)
 
 Instead, I listed all my transcripts and used [Simon Willison's `llm` CLI tool](https://llm.datasette.io/) to run:
 
@@ -54,9 +54,9 @@ The result was a good list along the lines of:
 
 You frequently tell individuals that they cannot learn AI through theory. To build intuition, they must force themselves to use it for everything.
 
-* **The Advice:** Aim for a volume target of **50 interactions per day**.
-* **Why:** High-frequency usage forces you to find "micro-use cases" you would otherwise ignore. It moves you past the "novelty" phase into the "utility" phase where you instinctively know which tasks the AI can handle.
-* **Application:** Don't save AI for big projects. Use it to fix grammar in a text, explain a joke, plan a menu, or debug a single line of code.
+- **The Advice:** Aim for a volume target of **50 interactions per day**.
+- **Why:** High-frequency usage forces you to find "micro-use cases" you would otherwise ignore. It moves you past the "novelty" phase into the "utility" phase where you instinctively know which tasks the AI can handle.
+- **Application:** Don't save AI for big projects. Use it to fix grammar in a text, explain a joke, plan a menu, or debug a single line of code.
 ```
 
 ... which I condensed into:

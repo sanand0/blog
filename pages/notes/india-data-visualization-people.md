@@ -112,3 +112,4 @@
 ## Sources
 
 - [Amit Kapoor's list](https://app.simplenote.com/publish/PhskQ7)
+- [Gemini](https://gemini.google.com/share/b471567398e5) <!-- https://gemini.google.com/app/16e4b52516c5e36a -->
