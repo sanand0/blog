@@ -25,6 +25,7 @@ Here's AI advice I generally give people.
 Here are specific ideas you can try:
 
 - **Mine your digital exhaust**. Export your WhatsApp chats, journal entries, email logs, fitness data, bank statements, etc. and feed them to an LLM. Ask it to find patterns in your behavior, identify your blind spots, or summarize your year.
+- **Repurpose content and data**. <!-- TODO -->
 - **Read papers, books, and attachments**. Have it rewrite in the style of your favorite author (e.g. Malcolm Gladwell) to make dry content more engaging. Add "ELI15" (Explain Like I'm 15) for simplicity.
 - **Use it when stuck**. When you hit a mental wall, use it as a thinking partner. Have it give a first draft, ask it to interview you, ask what an expert or a person you admire would do, or just ramble your thoughts to it.
 - **Hire an expert**. It has been trained on the entire Internet and all books. You can hire it as a personal financial advisor, career coach, relationship counselor, or fitness trainer, and more. For example, hire as a:
