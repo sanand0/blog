@@ -5,7 +5,7 @@ date: 2026-02-08T23:04:11+08:00
 
 Here's AI advice I generally give people.
 
-## Personal Use
+## How do I use AI better personally?
 
 <!-- 8 Feb 2026: https://gemini.google.com/app/0af513e27b022fa7 -->
 
@@ -35,7 +35,7 @@ Here are specific ideas you can try:
   - **Relationship Architect**. Ask it whom to reach out to, find their interests, what gifts to buy, etc.
   - **Teacher**. Ask AI to teach, then quiz you. "I want to learn about [Topic]. Explain the basics, then ask me 3 questions to test if I understood it."
 
-## AI Coding
+## How do I use AI for coding?
 
 <!-- 9 Feb 2026: https://gemini.google.com/app/c4c7af5f52fb9c3b -->
 
@@ -56,7 +56,7 @@ Thoughts on technical use of AI (e.g. in when coding with AI)
 - **Run post-mortems**. When it fails, or after any session, ask it to analyze what went well, what didn't, and how to improve next time.
 - **Specify developer styles**. Ask it to write in the style of a famous developer (e.g. Luke Edwards) or repo (e.g. SciPy) or team (e.g. Astral) that's apt for the task.
 
-## AI Adoption
+## How to increase AI adoption?
 
 <!-- 9 Feb 2026: https://gemini.google.com/app/a1775b6149f6410f -->
 
@@ -75,7 +75,7 @@ Thoughts on the governance of AI (e.g. organization deployment, challenges, etc.
 - **Prototype rapidly**. Ask for prototypes in days, not weeks. This builds a culture of "rapid experimentation" and lets you cheaply figure out if it's worth it.
 - **Audits make reviews simpler**. Ask AI agents to cite sources, provide reasoning, and generate logs. That lets humans to verify how a conclusion was reached.
 
-## AI Learning
+## What should I learn?
 
 <!-- https://gemini.google.com/app/0fc3ca79c2138048 -->
 
@@ -107,3 +107,35 @@ Less important skills:
 - **Originating ideas**. AI can brainstorm ideas. Focus on evaluating and selecting ideas based on unique context.
 - **Drafting from Scratch**. The ability to write a first draft (code or text) is less valuable than the ability to edit and refine an AI-generated baseline.
 - **Junior-Level Execution**. Routine "grunt work," basic summaries, and entry-level analysis are being fully automated by LLMs.
+
+## How to develop taste?
+
+See [How to develop taste](/blog/how-to-develop-taste/).
+
+## Won't AI erode skills?
+
+<!-- https://gemini.google.com/app/6ef791596112da80 -->
+
+AI, like [most automation, erodes skills](https://link.springer.com/article/10.1007/s00146-025-02422-7). We've seen this before.
+
+- **Autopilots** eroded flying skills - which is dangerous. So we **enforce** flight simulators. Same for surgical knots (robotic surgery), celestial navigation (navy), manual dosing (nurses).
+- **Spreadsheets** eroded calculation skills. We **leveled-up** from sums to strategy. Same for CAD, electronic trading, spell-check.
+- **Photography** eroded painting skills. We **switched** value to impressionism, cubism, etc. Same for vinyl records, luxury watches, craft coffee.
+- **GPS** eroded navigation skills. We **accepted** this and don't care much. Same for phone numbers, spelling, mental maths.
+
+Think about how the skill we lose will evolve. Then enforce, level-up, switch, or accept accordingly.
+
+## What happens to people when AI takes their jobs?
+
+<!--
+https://gemini.google.com/app/fbe0628c3f188892
+https://chatgpt.com/c/69932b4d-34ec-83a5-b112-fd5ef0bb0199
+-->
+
+Here are some paths post-automation. It depends on the industry _and_ individual:
+
+1. **Exit**: Don't adapt. There's no nearby "new task". You're unemployed. E.g. bowling pinsetters -> automatic pinsetters; elevator operators; telephone switchboard operators.
+2. **Downgrade**: Serve the machine. Worse job/pay. E.g. textile workers -> power-loom tenders; print compositors -> machine operators; shoemakers -> factory line operatives.
+3. **Pivot**: Focus where automation fails (exceptions, trust, coordination). E.g. bank tellers -> relationship managers; travel agents -> corporate travel desks.
+4. **Niche**: Treat inefficiency as a feature (soul, authenticity). Small market, high margins. E.g. weaving -> artisan textiles; coffee -> baristas.
+5. **Up-Skill**: Master the machine. Become AI-native. Much better job/pay. E.g. human computers -> programmers; draftsmen -> CAD designers; accountants -> advisors.

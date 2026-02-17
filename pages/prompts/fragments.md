@@ -117,6 +117,14 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 Draw this as a visually rich, intricately detailed, colorful, and funny, sketchnote.
 ```
 
+```
+Draw this as a visually rich, intricately detailed, colorful, and funny, visual metaphor diagram.
+```
+
+```
+Draw this as a visually rich, intricately detailed, colorful, and funny, infographic poster.
+```
+
 ## Slide deck
 
 ```markdown
