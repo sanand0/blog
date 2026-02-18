@@ -17,6 +17,7 @@ Here's AI advice I generally give people.
 - **Use it for validation**. LLMs can make mistakes, but using it to fact-check books, articles, emails, your work, etc. is safe and effective.
 - **Have AI cross-check AI**. Ask it to find all the mistakes it made and give you citations. Have another AI find all the errors. They're pretty good at that.
 - **Ask for easier output**. You spend a lot of time validating or implementing AI output. Have AI structure so it's easy for you to review or do. Your time is the bottleneck. Easy beats best.
+- **Ask for multiple, diverse, outputs**. You don't know what you want, or what it can do. Ask for 5–10 variations. Drop the weak ones quickly.
 - **Use voice mode on mobile** to talk to the AI while walking or thinking. "Ramble" at the AI - it can structure your thoughts. This capitalizes on dead time (e.g. commuting) and also lets you dump context and thoughts faster than you type.
 - **Vibe code your own software**. As a non-technical person, build apps to solve your own problems. Don't learn to code. Just tell AI tools what you want and have them build it.
 - **Have it write code to process numbers**. LLMs are bad at math but good at writing code. Tell it to write code to analyze numbers instead of answering directly.
@@ -24,7 +25,7 @@ Here's AI advice I generally give people.
 
 Here are specific ideas you can try:
 
-- **Mine your digital exhaust**. Export your WhatsApp chats, journal entries, email logs, fitness data, bank statements, etc. and feed them to an LLM. Ask it to find patterns in your behavior, identify your blind spots, or summarize your year.
+- **Mine your digital exhaust**. Don't delete your "junk" data. Export WhatsApp chats, journal entries, email logs, fitness data, bank statements, etc. and feed them to an LLM. Ask it to find patterns in your behavior, identify your blind spots, or summarize your year.
 - **Repurpose content and data**. <!-- TODO -->
 - **Read papers, books, and attachments**. Have it rewrite in the style of your favorite author (e.g. Malcolm Gladwell) to make dry content more engaging. Add "ELI15" (Explain Like I'm 15) for simplicity.
 - **Use it when stuck**. When you hit a mental wall, use it as a thinking partner. Have it give a first draft, ask it to interview you, ask what an expert or a person you admire would do, or just ramble your thoughts to it.
@@ -56,22 +57,28 @@ Thoughts on technical use of AI (e.g. in when coding with AI)
 - **Run post-mortems**. When it fails, or after any session, ask it to analyze what went well, what didn't, and how to improve next time.
 - **Specify developer styles**. Ask it to write in the style of a famous developer (e.g. Luke Edwards) or repo (e.g. SciPy) or team (e.g. Astral) that's apt for the task.
 
-## How to increase AI adoption?
+## How to drive AI adoption?
 
 <!-- 9 Feb 2026: https://gemini.google.com/app/a1775b6149f6410f -->
 
 Thoughts on the governance of AI (e.g. organization deployment, challenges, etc.)
 
+- **Show leaders using AI**. When teams see leaders _using_ (not talking about) AI, it gives them permission _and_ confidence.
 - **Security & privacy**. Every company has its own white-listed enterprise models (e.g. within Azure, AWS, or Google tenants). Use this. It provides legal cover and data won't be used for training.
 - **Keep humans-in-the-loop**. Treat AI like an intern that handles 80-90% of the effort, with a human expert for the "last mile" validation.
 - **Keep updating models**. Monitor the ever-shifting "cost-quality frontier" and keep switching to cheaper, better models as they become available. Cost reduces while quality improves.
+- **Compare accuracy with _multiple_ experts**. AI may not match an SME 100%, but one SME may not match another SME either. Check with multiple human experts and see if AI is within the human range of disagreement.
 - **Use consensus to improve accuracy**. Double, triple, or even quintuple-check outputs. If all models agree, accept. Else manual review. This dramatically improves quality while introducing a little human verification overhead.
 - **Generate code for reliability**. Instruct LLMs to write and execute deterministic code (or build models) instead of reasoning in plain text.
 - **Find AI enthusiasts**. Top-down AI mandates build frustration. Prefer "organic adoption". Find and empower the few enthusiastic "builders" or "power users".
 - **Standardize evaluation**. You'll move MUCH faster with evaluation frameworks (like "LLM-as-a-judge") to score model performance and catch regressions.
 - **Lay a good data foundation**. Convert unstructured documents into (multiple) structured formats. AI output quality depends on input data quality.
 - **Let anyone build tools**. Non-technical "citizen developers" to building their own tools using English, de-bottlenecks IT and dramatically increases prodictivity.
+- **Let the owner drive it**. Alice building Bob an AI solution rarely works. Bob building it himself (with Alice's help) works better.
 - **Buy, don't build**. Don't train models. They're soon obsolete. Build orchestration layers and proprietary data workflows instead.
+- **Adding is easier than changing**. Using AI to improve existing work has a high standard, inertia, and risk. Creating a new workflow or output has less competition.
+- **Wait for models to improve**. Models (and AI products) improve so fast that things that are not possible today will become possible in a few months. Don't waste time doing what you'll get for free.
+- **Wait for the crisis**. Real adoption happens when urgency/FOMO temporarily relaxes process. Anticipate that and jump in with demos, clear risk framing, and low-change integration.
 - **Prototype rapidly**. Ask for prototypes in days, not weeks. This builds a culture of "rapid experimentation" and lets you cheaply figure out if it's worth it.
 - **Audits make reviews simpler**. Ask AI agents to cite sources, provide reasoning, and generate logs. That lets humans to verify how a conclusion was reached.
 
@@ -91,7 +98,7 @@ More important skills:
 - **Problem Breakdown**. Learn to breaking problems down into small, logical tasks that people/AI can execute reliably.
 - **Prototyping**. Learn to build (and iterate on) the smallest working solution (using AI agents) ultra-rapidly.
 - **Context Engineering**. Learn what data/context to feed AI and what you can/should skip for the best results.
-- **SQL and Data Organization**. Learn to structure data and write queries (or prompt AI to write them) to make data analyzable.
+- **Data Organization**. Learn to structure data to make data more analyzable.
 
 Less important skills:
 

@@ -5,9 +5,7 @@ categories:
   - llms
 ---
 
-Developing taste & judgement are an essential skill in the AI era.
-[#](https://www.nber.org/system/files/working_papers/w24626/w24626.pdf)
-[#](https://arxiv.org/abs/2309.12338)
+Developing taste & judgement are an essential skill in the AI era. [#](https://www.nber.org/system/files/working_papers/w24626/w24626.pdf) [#](https://arxiv.org/abs/2309.12338)
 
 ![](https://files.s-anand.net/images/2026-02-15-how-to-develop-taste.avif)
 
