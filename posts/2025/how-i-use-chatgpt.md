@@ -4,6 +4,7 @@ categories:
   - how-i-do-things
   - visualisation
   - linkedin
+  - llms
 ---
 
 Here's how I use ChatGPT, based on the ~6,000 conversations I've had in 2 years.

@@ -2,6 +2,8 @@
 date: "2025-08-15T00:00:00Z"
 categories:
   - linkedin
+  - llms
+  - open-source
 ---
 
 Alibaba released an open-source coding model (qwen-coder) and tool (qwen-code).

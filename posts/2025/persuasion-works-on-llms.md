@@ -2,6 +2,7 @@
 date: "2025-08-05T00:00:00Z"
 categories:
   - linkedin
+  - llms
 ---
 
 A delightful study on how well Cialdini's principles of persuasion work on LLMs.

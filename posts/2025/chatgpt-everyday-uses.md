@@ -2,6 +2,7 @@
 date: "2025-06-22T04:40:00Z"
 categories:
   - linkedin
+  - llms
 ---
 
 ChatGPT's pretty useful in daily life. Here are my chats from the few hours.

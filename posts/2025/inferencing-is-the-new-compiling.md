@@ -2,6 +2,7 @@
 date: "2025-05-21T10:46:00Z"
 categories:
   - linkedin
+  - llms
 ---
 
 "Inferencing" is the new "Compiling!"

@@ -3,6 +3,7 @@ title: Is all AI content slop?
 date: "2025-11-05T00:00:00Z"
 categories:
   - linkedin
+  - llms
 ---
 
 Is all AI content slop?

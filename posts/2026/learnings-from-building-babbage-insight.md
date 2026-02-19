@@ -3,6 +3,7 @@ title: Learnings from building Babbage Insight
 date: 2026-01-19T18:50:19+05:30
 categories:
   - links
+  - business-realities
 ---
 
 Here's a [great post](https://www.linkedin.com/pulse/learnings-from-building-babbage-insight-karthik-shashidhar-6k3xc/) by [Karthik Shashidhar](https://www.linkedin.com/in/karthikshashidhar/) on why they shut down Babbage Insight, and the learnings from the experience.

@@ -2,6 +2,7 @@
 date: "2025-04-18T13:10:15Z"
 categories:
   - linkedin
+  - llms
 ---
 
 With the Gemini 2.5 Flash release, Google envelopes the entire cost-quality frontier of LLMs. In other words, at any cost or quality level, today, the best model to use according to the LM Arena score is a Gemini model.

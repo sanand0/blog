@@ -2,6 +2,7 @@
 date: "2025-05-24T07:58:38Z"
 categories:
   - linkedin
+  - llms
 ---
 
 How much does an LLM charge per hour for its services?

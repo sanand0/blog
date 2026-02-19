@@ -2,6 +2,7 @@
 date: "2025-03-10T03:35:42Z"
 categories:
   - linkedin
+  - llms
 ---
 
 I'm at an open Hyderabad meet-up, Thu 20 Mar 4 pm. "Analyzing data with AI agents"."

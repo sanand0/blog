@@ -3,6 +3,7 @@ title: My Year in 2025
 date: 2025-12-31T07:51:58Z
 categories:
   - how-i-do-things
+  - interesting-experiences
 ---
 
 ![My Year in 2025](https://files.s-anand.net/images/2025-12-31-2025-goals.webp)

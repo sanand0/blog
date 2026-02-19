@@ -3,6 +3,7 @@ date: "2025-08-15T00:00:00Z"
 categories:
   - visualisation
   - linkedin
+  - llms
 ---
 
 _Indian Celebrities and Directors_ was my top searched category on Google while _OpenAI_ & _AI Research_ was the top growing category.

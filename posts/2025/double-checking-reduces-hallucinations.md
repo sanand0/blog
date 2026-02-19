@@ -2,6 +2,7 @@
 date: "2025-05-10T09:35:14Z"
 categories:
   - linkedin
+  - llms
 ---
 
 How can we rely on unreliable LLMs?" people ask me.

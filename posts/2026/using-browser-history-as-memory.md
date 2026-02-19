@@ -3,6 +3,7 @@ title: Using browser history as memory
 date: 2026-02-18T10:02:56+08:00
 categories:
   - how-i-do-things
+  - llms
 ---
 
 I have a bad memory. (I need to write about that. I keep forgetting to.)

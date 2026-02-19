@@ -2,6 +2,7 @@
 date: "2025-09-12T00:00:00Z"
 categories:
   - linkedin
+  - llms
 ---
 
 My _Tools in Data Science_ course uses LLMs for assessments. We use LLMs to

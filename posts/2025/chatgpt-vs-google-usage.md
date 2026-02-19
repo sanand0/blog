@@ -4,6 +4,7 @@ categories:
   - how-i-do-things
   - visualisation
   - linkedin
+  - llms
 ---
 
 My ChatGPT engagement is now far higher than with Google.

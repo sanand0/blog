@@ -2,6 +2,7 @@
 date: "2025-07-01T06:46:10Z"
 categories:
   - linkedin
+  - llms
 ---
 
 LLMs are smarter than us in many areas. How do we control them?

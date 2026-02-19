@@ -2,6 +2,7 @@
 date: "2025-09-16T00:00:00Z"
 categories:
   - linkedin
+  - llms
 ---
 
 GPT-5 (Codex) follows instructions exactly as given. Usually a good thing, but sometimes, it this is what happens.

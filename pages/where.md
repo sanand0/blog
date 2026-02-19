@@ -8,6 +8,8 @@ Here's my travel schedule.
 <!-- Updated via scripts/where.py -->
 <!-- TRAVELSTART -->
 
+- Mon 23 Mar 2026: Singapore
+- Tue 17 Mar 2026: Chennai
 - Fri 13 Mar 2026: Hyderabad
 - Mon 26 Jan 2026: Singapore
 - Fri 23 Jan 2026: Chennai

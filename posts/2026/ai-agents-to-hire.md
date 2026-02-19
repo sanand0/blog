@@ -3,6 +3,7 @@ title: AI agents to hire
 date: 2026-01-06T17:26:39+08:00
 categories:
   - how-i-do-things
+  - llms
 source: https://claude.ai/chat/b09c0847-9325-46d1-bf1d-b40ab6824643
 ---
 

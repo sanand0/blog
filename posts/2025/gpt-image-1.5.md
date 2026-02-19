@@ -2,6 +2,7 @@
 date: "2025-06-05T05:36:05Z"
 categories:
   - linkedin
+  - llms
 ---
 
 I tried out GPT Image 1.5. It adds more contrast, ink, texture, detail, and polish. See https://sanand0.github.io/llmartstyle/?category=pop

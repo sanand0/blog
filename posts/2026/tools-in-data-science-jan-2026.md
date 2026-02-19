@@ -3,6 +3,7 @@ title: Tools in Data Science - Jan 2026
 date: 2026-01-29T07:33:22+08:00
 categories:
   - education
+  - data
   - llms
 ---
 

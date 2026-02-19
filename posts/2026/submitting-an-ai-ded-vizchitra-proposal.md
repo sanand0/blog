@@ -3,7 +3,7 @@ title: Submitting an AI-ded VizChitra Proposal
 date: 2026-02-15T10:49:04+08:00
 categories:
   - how-i-do-things
-  - visualization
+  - visualisation
   - llms
 ---
 

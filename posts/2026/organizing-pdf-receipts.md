@@ -1,9 +1,10 @@
 ---
 title: Organizing PDF receipts
 date: 2026-02-12T17:21:14+08:00
-tags:
-  - llms
+categories:
+  - how-i-do-things
   - coding
+  - llms
 classes: wrap-code
 ---
 

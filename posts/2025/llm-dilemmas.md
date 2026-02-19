@@ -2,6 +2,7 @@
 date: "2025-05-19T06:33:42Z"
 categories:
   - linkedin
+  - llms
 ---
 
 Oh, the dilemmas we subject LLMs to!

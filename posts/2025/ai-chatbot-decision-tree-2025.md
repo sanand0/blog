@@ -2,6 +2,7 @@
 date: "2025-04-27T09:36:39Z"
 categories:
   - linkedin
+  - llms
 ---
 
 This is my decision tree for which model to use on #ChatGPT right now.

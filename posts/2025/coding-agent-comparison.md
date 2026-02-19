@@ -2,6 +2,7 @@
 date: "2025-10-25T00:00:00Z"
 categories:
   - linkedin
+  - coding
 ---
 
 I asked multiple coding agents and models to build the same app:

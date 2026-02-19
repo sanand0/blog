@@ -61,7 +61,7 @@ Thoughts on technical use of AI (e.g. in when coding with AI)
 
 <!-- 9 Feb 2026: https://gemini.google.com/app/a1775b6149f6410f -->
 
-Thoughts on the governance of AI (e.g. organization deployment, challenges, etc.)
+Thoughts on the governance & adoption of AI (e.g. organization deployment, challenges, etc.)
 
 - **Show leaders using AI**. When teams see leaders _using_ (not talking about) AI, it gives them permission _and_ confidence.
 - **Security & privacy**. Every company has its own white-listed enterprise models (e.g. within Azure, AWS, or Google tenants). Use this. It provides legal cover and data won't be used for training.
@@ -75,6 +75,7 @@ Thoughts on the governance of AI (e.g. organization deployment, challenges, etc.
 - **Lay a good data foundation**. Convert unstructured documents into (multiple) structured formats. AI output quality depends on input data quality.
 - **Let anyone build tools**. Non-technical "citizen developers" to building their own tools using English, de-bottlenecks IT and dramatically increases prodictivity.
 - **Let the owner drive it**. Alice building Bob an AI solution rarely works. Bob building it himself (with Alice's help) works better.
+- **Build, don't plan**. When execution is fast and cheap, don't agonize over the right solution. Build them all. Throw away what doesn't work.
 - **Buy, don't build**. Don't train models. They're soon obsolete. Build orchestration layers and proprietary data workflows instead.
 - **Adding is easier than changing**. Using AI to improve existing work has a high standard, inertia, and risk. Creating a new workflow or output has less competition.
 - **Wait for models to improve**. Models (and AI products) improve so fast that things that are not possible today will become possible in a few months. Don't waste time doing what you'll get for free.

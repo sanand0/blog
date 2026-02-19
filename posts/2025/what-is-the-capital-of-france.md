@@ -2,6 +2,7 @@
 date: "2025-05-03T16:54:04Z"
 categories:
   - linkedin
+  - llms
 ---
 
 Me: What is the capital of France?

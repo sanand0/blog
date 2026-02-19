@@ -2,6 +2,7 @@
 date: "2025-08-05T00:00:00Z"
 categories:
   - linkedin
+  - llms
 ---
 
 At the DoMS, IIT Madras 2025 commencement, I shared how MBA students might adapt to an AI world.

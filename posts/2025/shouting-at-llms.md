@@ -2,6 +2,7 @@
 date: "2025-06-11T02:27:07Z"
 categories:
   - linkedin
+  - llms
 ---
 
 Does **SHOUTING** at LLMs help? (Yes, a little.)

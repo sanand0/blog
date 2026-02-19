@@ -3,6 +3,7 @@ title: The Periodic Table by Primo Levi and Randall Munroe
 date: 2026-01-12T15:32:26+08:00
 categories:
   - how-i-do-things
+  - llms
 ---
 
 I read [The Periodic Table](https://www.goodreads.com/book/show/427282.The_Periodic_Table) by Primo Levi, written in Randall Munroe's style.

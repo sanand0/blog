@@ -2,6 +2,7 @@
 date: "2025-06-22T10:49:05Z"
 categories:
   - linkedin
+  - llms
 ---
 
 I'm planning four 30-min 1-on-1 slots to discuss LLM use-cases. Ask me anything on LLMs. I'll share what I know.

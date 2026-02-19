@@ -5,6 +5,7 @@ lastmod: "2025-09-27T13:17:52Z"
 categories:
   - coding
   - how-i-do-things
+  - tools
 wp_id: 4217
 ---
 

@@ -2,6 +2,7 @@
 date: "2025-08-30T00:00:00Z"
 categories:
   - linkedin
+  - llms
 ---
 
 Here's my current answer when asked, "How do I use LLMs better?"

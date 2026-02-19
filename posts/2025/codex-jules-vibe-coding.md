@@ -2,6 +2,7 @@
 date: "2025-06-22T09:52:29Z"
 categories:
   - linkedin
+  - llms
 ---
 
 I use Codex and Jules to code while I walk. I've merged several PRs without careful review. This added technical debt.

@@ -2,6 +2,7 @@
 date: "2025-10-02T00:00:00Z"
 categories:
   - linkedin
+  - llms
 ---
 
 Tools in Data Science Sep 2025 edition is live: https://tds.s-anand.net/. Major update: a new AI-Coding section and fresh projects.

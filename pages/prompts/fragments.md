@@ -111,6 +111,26 @@ Research best practices from modern research and ancient wisdom.
 Max 3,000 characters (ideally less than 2,000). The first 200 characters should engage the reader honestly. (The aim is not to get clicks, but to entertain and educate - so it's perfectly fine to give the full answer upfront.)
 ```
 
+## Browsing history
+
+```markdown
+Based on my browsing history below, summarize what I did, grouping into logical groups like:
+
+10:00 - 12:30: What I did in 1-2 sentences
+12:30 - 13:00: Next activity
+...
+
+Ask me questions for whatever's unclear.
+```
+
+## Comic
+
+```markdown
+Draw this as a simple black and white line drawing comic strip with minimal shading.
+Single panel.
+Use clear speech bubbles with capitalized text.
+```
+
 ## Sketchnote
 
 ```markdown

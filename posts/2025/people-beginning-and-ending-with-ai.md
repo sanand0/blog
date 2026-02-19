@@ -2,6 +2,7 @@
 date: "2025-11-15T00:00:00Z"
 categories:
   - linkedin
+  - llms
 ---
 
 When I realized **Ai**shwarya R**ai** begins and ends with AI, I _had_ to find out if there were more like her.

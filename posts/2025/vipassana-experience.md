@@ -2,6 +2,7 @@
 date: "2025-07-14T00:00:00Z"
 categories:
   - linkedin
+  - interesting-experiences
 ---
 
 For those curious about my Vipassana meditation experience, here's the summary.

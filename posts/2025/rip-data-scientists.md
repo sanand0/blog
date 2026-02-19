@@ -2,6 +2,7 @@
 date: "2025-09-12T00:00:00Z"
 categories:
   - linkedin
+  - llms
 ---
 
 Slides for my DataHack Summit talk (controversially) titled **RIP Data Scientists** are at https://sanand0.github.io/talks/2025-08-21-rip-data-scientists/

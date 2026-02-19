@@ -3,6 +3,7 @@ title: New ways of reading books
 date: 2026-01-06T11:03:07+08:00
 categories:
   - how-i-do-things
+  - llms
 tags:
   - book
 ---

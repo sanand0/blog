@@ -2,6 +2,7 @@
 date: "2025-06-16T08:12:09Z"
 categories:
   - linkedin
+  - llms
 ---
 
 Out of curiosity, I ran Deep Research to compare _all_ horoscope predictions for Sagittarius (my sign) on 16 Jun 2025. Here are highlights:

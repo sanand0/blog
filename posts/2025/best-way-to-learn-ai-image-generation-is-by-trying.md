@@ -4,6 +4,7 @@ date: "2025-04-01T04:06:09Z"
 lastmod: "2025-04-01T04:06:23Z"
 categories:
   - llms
+  - education
 wp_id: 4007
 ---
 

@@ -2,6 +2,8 @@
 date: "2025-06-19T09:30:15Z"
 categories:
   - linkedin
+  - llms
+  - business-realities
 ---
 
 Software companies build "SaaS"-like apps today. Agents _will_ replace apps. Instead of UI, workflows, and app logic, they'll engineer prompts, APIs, and evals. "
