@@ -18,10 +18,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: astral-sh/setup-uv@v3
-      - uses: jdx/mise-action@v2
+        with:
+          # Fetch only the triggering commit
+          fetch-depth: 1
+          # Don't write auth creds into local git config since this job never pushes.
+          persist-credentials: false
+      - uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+          # Cache invalidates when these key build/dependency inputs change.
+          cache-dependency-glob: |
+            setup.sh
+            scripts/**/*.py
+            metadata.yml
+      - uses: jdx/mise-action@v3
         with:
           install: true
+          install_args: "hugo@0.156.0"
+          cache: true
       - name: Build site
         run: bash setup.sh
       - uses: actions/upload-pages-artifact@v3

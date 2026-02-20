@@ -46,6 +46,9 @@ cleanDestinationDir = true
     target = "static/assets"
 
 [params]
+  [params.author]
+    name = "S Anand"
+    email = ""
   logoURL = "/"
   description = "Technology, education and fun"
   defaultTheme = "light"
