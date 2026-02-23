@@ -3,6 +3,7 @@ title: Dynamic board games with LLMs
 date: 2026-01-13T11:38:01+05:30
 categories:
   - llms
+  - games
 build: { list: never, render: always }
 robotsNoIndex: true
 ---

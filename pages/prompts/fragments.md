@@ -137,6 +137,11 @@ Use clear speech bubbles with capitalized text.
 Draw this as a visually rich, intricately detailed, colorful, and funny, sketchnote.
 ```
 
+```markdown
+Summarize this as a visually rich, intricately detailed, colorful, and funny, sketchnote.
+Think about the most important points, structure it logically so that the sketchnote is easy to follow, then draw it.
+```
+
 ```
 Draw this as a visually rich, intricately detailed, colorful, and funny, visual metaphor diagram.
 ```

@@ -2,7 +2,7 @@
 title: AI game
 date: "2001-05-31T12:00:00Z"
 categories:
-  - links
+  - games
 wp_id: 1817
 ---
 

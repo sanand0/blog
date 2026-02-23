@@ -3,6 +3,7 @@ title: Resolving the Prisoners Dilemma
 date: "2008-08-17T12:00:00Z"
 categories:
   - business-realities
+  - games
 wp_id: 42
 ---
 

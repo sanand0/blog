@@ -4,6 +4,7 @@ date: 2026-01-19T14:50:40+05:30
 categories:
   - how-i-do-things
   - llms
+  - games
 ---
 
 I have this feeling that the skills we need for the AI era might be found in video games.

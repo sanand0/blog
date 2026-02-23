@@ -2,7 +2,7 @@
 title: McDonalds Video Game
 date: "2006-06-28T12:00:00Z"
 categories:
-  - links
+  - games
 wp_id: 284
 ---
 

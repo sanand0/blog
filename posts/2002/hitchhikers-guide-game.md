@@ -2,7 +2,7 @@
 title: Hitchhikers Guide game
 date: "2002-04-25T12:00:00Z"
 categories:
-  - links
+  - games
 wp_id: 1355
 ---
 

@@ -2,7 +2,7 @@
 title: Text-based games
 date: "2002-07-16T12:00:00Z"
 categories:
-  - links
+  - games
 wp_id: 1278
 ---
 

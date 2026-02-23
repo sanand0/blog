@@ -2,7 +2,7 @@
 title: Patterns for Short Code
 date: 2025-11-26T00:00:00+05:30
 categories:
-  - code
+  - coding
 ---
 
 I had [Claude Code](https://claude.ai/code/session_01V4vK6jAMmXqKzwz9dys8zw) create a [PR](https://github.com/sanand0/tools/pull/91) to update my [Unicoder tool](https://tools.s-anand.net/unicoder/). As part of that, I prompted it to repeatedly:

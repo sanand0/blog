@@ -2,7 +2,7 @@
 title: Moria
 date: "2000-10-17T12:00:00Z"
 categories:
-  - links
+  - games
 wp_id: 2061
 ---
 

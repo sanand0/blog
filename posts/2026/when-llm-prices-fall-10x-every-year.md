@@ -20,7 +20,7 @@ In Dec 2024, DeepSeek v3 reached that quality at 1% of the price.
 
 [See the interactive version](https://sanand0.github.io/llmpricing/)
 
-If the price continues to fall 10x every 6 months or so (and [it](https://claude.ai/share/dd426a79-1bfe-4a5c-94d1-ffc407de6040) [has](https://gemini.google.com/share/6c55131f1dcd) [been](https://chatgpt.com/share/6997ba52-ff64-8003-aa43-7e8d12818c66)), then in a year, a Claude 4.6 Opus like model will cost 1/10th of the $5/MTok today, and in 2 years, 1/100th of that.
+If the price continues to fall 10x every 11-12 months or so (and [it](https://claude.ai/share/dd426a79-1bfe-4a5c-94d1-ffc407de6040) [has](https://gemini.google.com/share/6c55131f1dcd) [been](https://chatgpt.com/share/6997ba52-ff64-8003-aa43-7e8d12818c66)), then in a year, a Claude 4.6 Opus like model will cost 1/10th of the $5/MTok today, and in 2 years, 1/100th of that.
 
 (We'll be using better models, of course.)
 

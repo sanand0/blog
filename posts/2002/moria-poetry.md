@@ -2,7 +2,7 @@
 title: Moria poetry
 date: "2002-08-08T12:00:00Z"
 categories:
-  - links
+  - games
 wp_id: 1247
 ---
 

@@ -2,7 +2,7 @@
 title: Ant City
 date: "2001-08-28T12:00:00Z"
 categories:
-  - links
+  - games
 wp_id: 1694
 ---
 

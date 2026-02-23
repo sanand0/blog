@@ -2,7 +2,7 @@
 title: Mapscii Rendering
 date: 2025-11-26T00:00:00+05:30
 categories:
-  - code
+  - coding
 ---
 
 I [asked Claude Sonnet 4.5 on GitHub Copilot](https://github.com/copilot/c/83dfdc9c-dbb5-4d8a-b16a-af25464bbec4):

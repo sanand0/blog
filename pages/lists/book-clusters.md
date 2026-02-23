@@ -331,3 +331,4 @@ TODO
 - Weapons and Hope (Freeman Dyson, 1984)
 - Faraday, Maxwell, and the Electromagnetic Field: How Two Men Revolutionized Physics (Nancy Forbes & Basil Mahon, 2017)
 - Art in the age of mechanical reproduction
+- Turtles, Termites, and Traffic Jams: Explorations in Massively Parallel Microworlds (Mitchel Resnick, 1994)

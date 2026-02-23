@@ -2,7 +2,7 @@
 title: Real life multiplayer games
 date: "2004-04-08T12:00:00Z"
 categories:
-  - links
+  - games
 wp_id: 863
 ---
 

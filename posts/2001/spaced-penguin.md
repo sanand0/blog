@@ -2,7 +2,7 @@
 title: Spaced penguin
 date: "2001-09-24T12:00:00Z"
 categories:
-  - links
+  - games
 wp_id: 1643
 ---
 

@@ -2,7 +2,7 @@
 title: Nomic
 date: "2001-06-08T12:00:00Z"
 categories:
-  - links
+  - games
 wp_id: 1803
 ---
 

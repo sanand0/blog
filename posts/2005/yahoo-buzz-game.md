@@ -2,7 +2,7 @@
 title: Yahoo Buzz Game
 date: "2005-04-18T12:00:00Z"
 categories:
-  - links
+  - games
 wp_id: 659
 ---
 

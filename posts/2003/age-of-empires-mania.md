@@ -2,7 +2,7 @@
 title: Age of Empires mania
 date: "2003-04-10T12:00:00Z"
 categories:
-  - links
+  - games
 wp_id: 939
 ---
 
