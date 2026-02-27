@@ -22,6 +22,16 @@ For example, before delivering a talk to journalists _"Review my Feb 2026 LLM po
 
 I can do this for _any field_.
 
+The approach is simple. I copy recent blog posts related to LLMs via:
+
+```bash
+rg -l "^[[:space:]]*- llms" -g "*.md" | xargs rg "^date:" | sort -k2 -r | head -n 30 | cut -d: -f1 | uniq | xargs uvx files-to-prompt --cxml | xclip -selection clipboard
+```
+
+... and ask the LLM:
+
+> Pick articles with the best application to [FIELD]. For each, write a single-sentence, ELI15 use case DIRECTLY following from the article. Focus on high-impact, common scenarios solving a specific problem (a persona trying to do X but blocked by Y). Skip articles without a clear, practical application. Be ruthlessly concise: ~40 words per use case. Format each line as: `Article Title: Use case description`.
+
 ![](https://files.s-anand.net/images/2026-02-22-repurposing-blog-posts-for-talks.avif)
 
 Here are a few examples (and they're _good_ ones):

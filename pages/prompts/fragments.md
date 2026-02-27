@@ -7,6 +7,17 @@ classes: wrap-code
 
 Prompt fragments useful to add to other prompts
 
+## Core concepts
+
+```markdown
+What are the core concepts, i.e. top NON-INTUITIVE well-established lessons/principles, of ______, knowing which, most of the rest of the field is derivable?
+
+- Source comprehensively from authoritative sources.
+- Pick the 10 that are mentioned repeatedly, have the highest applicability and usefulness, while being non-obvious.
+- Fact-check each concept. Include references to authoritative sources.
+- Write as a bulleted point. Explain each concept in a few simple sentences (ELI15) that are easy to understand intuitively.
+```
+
 ## Pre-mortems
 
 ```markdown
@@ -86,6 +97,12 @@ Summarize the transcript, along with action items, to share with the attendees.
 Write in the light style of Matt Levine reporting on this meeting.
 ```
 
+## List all facts from meeting transcripts
+
+```markdown
+List every learning / interesting fact from the transcript in sequence.
+```
+
 ## Best practices and ancient wisdom
 
 For advice on self-help, psychology, or anything timeless.
@@ -97,8 +114,8 @@ Research best practices from modern research and ancient wisdom.
 ## Expert Lens
 
 - What would an expert in this field check that beginners would miss?
-- In this context, what questions would an expert ask that a beginner would not know to?
 - What patterns would an expert in this field recognize that beginners would miss?
+- In this context, what questions would an expert ask that a beginner would not know to?
 - If this goes wrong, what are the most likely reasons?
 - How would an expert analyze this? At each step, explain what they are looking for and why.
 - Argue against this like a sceptic.
@@ -153,7 +170,8 @@ Draw this as a visually rich, intricately detailed, colorful, and funny, infogra
 ## Slide deck
 
 ```markdown
-Convert this into a beautiful slide deck, McKinsey style.
+Convert this into a beautiful slide deck, McKinsey style with action titles. Just reading the titles should give the audience the entire message of the deck.
+Follow the pyramid principle. The contents of the slide should prove the title.
 Make the slides content rich, i.e. clear and self-explanatory with enough detail to help the audience understand without a narrator.
 Use iconography, typography, stock images, etc. as appropriate.
 Write as a single page HTML application.

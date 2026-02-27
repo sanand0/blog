@@ -133,6 +133,9 @@ AI, like [most automation, erodes skills](https://link.springer.com/article/10.1
 
 Think about how the skill we lose will evolve. Then enforce, level-up, switch, or accept accordingly.
 
+For skills growing in value, practice manually, then use AI for critique & coaching.
+For skills shrinking in value, habituate delegating _blindly_ to AI. Use saved time to learn new skills.
+
 ## What happens to people when AI takes their jobs?
 
 <!--
@@ -147,3 +150,16 @@ Here are some paths post-automation. It depends on the industry _and_ individual
 3. **Pivot**: Focus where automation fails (exceptions, trust, coordination). E.g. bank tellers -> relationship managers; travel agents -> corporate travel desks.
 4. **Niche**: Treat inefficiency as a feature (soul, authenticity). Small market, high margins. E.g. weaving -> artisan textiles; coffee -> baristas.
 5. **Up-Skill**: Master the machine. Become AI-native. Much better job/pay. E.g. human computers -> programmers; draftsmen -> CAD designers; accountants -> advisors.
+
+## How can we trust AI when it hallucinates?
+
+<!-- https://gemini.google.com/app/01c3e07f085b44ba -- answer based on the responses I have shared related to AI. -->
+
+How do you trust people who can make mistakes? Treat AI like capable, fallible interns.
+
+- **[Quintuple-check](https://sanand0.github.io/llmevals/double-checking/)**. Ask multiple AIs. If they all agree, it's probably right. If they disagree, review manually.
+- **Ask for code** to generate the answer - instead of the answer. Code is more likely right, and easier to verify.
+- **Make reviews easy**. Ask for citations, short & simple summaries, structured output, runnable code, etc.
+- **Prompt for accuracy**. "Never make up an answer." "If you don't know, say so." "Ask me when needed." "Double-check your work." "Cite sources." And so on.
+
+Hallucinations can be a great feature - for creativity, humor, and insight. Don't always eliminate them. Use as appropriate.

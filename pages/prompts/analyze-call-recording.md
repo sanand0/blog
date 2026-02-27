@@ -52,7 +52,7 @@ Write as a Markdown list of lists with no headings:
 ## Transcript
 ```
 
-After that, I often use this on interesting meetings:
+After that, I often use this on interesting meetings with ChatGPT (which is the most rigorous at this):
 
 ```markdown
 List every learning / interesting fact from the transcript in sequence.
