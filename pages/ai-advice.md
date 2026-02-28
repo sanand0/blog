@@ -16,9 +16,11 @@ Here's AI advice I generally give people.
 - **You've hired an intern**. Don't treat it like a search engine. It's as smart as a post-graduate intern - smarter than the average professional in many domains. Give it bigger tasks. Verify its work and correct it ("You missed this part, try again.")
 - **Use it for validation**. LLMs can make mistakes, but using it to fact-check books, articles, emails, your work, etc. is safe and effective.
 - **Have AI cross-check AI**. Ask it to find all the mistakes it made and give you citations. Have another AI find all the errors. They're pretty good at that.
+- **Critique your work**. Ask AI to roleplay as a skeptical customer, boss, or critic. Have it quiz you with hard questions to stress test your work.
 - **Ask for easier output**. You spend a lot of time validating or implementing AI output. Have AI structure so it's easy for you to review or do. Your time is the bottleneck. Easy beats best.
-- **Ask for multiple, diverse, outputs**. You don't know what you want, or what it can do. Ask for 5–10 variations. Drop the weak ones quickly.
+- **Ask for multiple, diverse, outputs**. You don't know what you want, or what it can do. Ask for 5–10 variations. Ask _multiple_ models. Ask in _parallel_. Drop the weak ones quickly.
 - **Use voice mode on mobile** to talk to the AI while walking or thinking. "Ramble" at the AI - it can structure your thoughts. This capitalizes on dead time (e.g. commuting) and also lets you dump context and thoughts faster than you type.
+- **Improve your tools** by asking it to optimize your laptop / software, improve settings or configurations, and checking if the results are better.
 - **Vibe code your own software**. As a non-technical person, build apps to solve your own problems. Don't learn to code. Just tell AI tools what you want and have them build it.
 - **Have it write code to process numbers**. LLMs are bad at math but good at writing code. Tell it to write code to analyze numbers instead of answering directly.
 - **Have it rewrite your prompts (meta-prompting)**. If you aren't getting the results you want, have it tell you what's missing and rewrite your prompt for you.
@@ -49,6 +51,7 @@ Thoughts on technical use of AI (e.g. in when coding with AI)
 - **Code is disposable**. Code is an AI compilation artifact. Don't get attached to it. Scrap and re-tsart.
 - **The "Two-Strike" Rule**. If it fails to fix a bug after two attempts, abandon the thread and restart. It is often faster with a fresh context than to debug a confused model.
 - **Analyze using code**. Ask agents to write code to analyze data. This is more reliable than asking LLMs to analyze directly.
+- **Use realistic fake data** for prototyping. Don't wait for real data. It's faster, has no compliance/privacy concerns, and can be as clean/messy as you want.
 - **Which coding model to use**. Claude / Gemini for good UI. GPT for rigorous testing.
 - **Plan unclear tasks**. If your idea is vague or might be too complex, ask AI to write an easy-to-review plan. Scan & correct it. THEN implement.
 - **Maintain reference files**. Maintain an up-to-date `AGENTS.md` (or even `README.md`) that explains your intent, code, architecture, to the AI. Saves repeated explanations.
@@ -163,3 +166,11 @@ How do you trust people who can make mistakes? Treat AI like capable, fallible i
 - **Prompt for accuracy**. "Never make up an answer." "If you don't know, say so." "Ask me when needed." "Double-check your work." "Cite sources." And so on.
 
 Hallucinations can be a great feature - for creativity, humor, and insight. Don't always eliminate them. Use as appropriate.
+
+## How can I safely share data with AI?
+
+<!-- https://gemini.google.com/app/01c3e07f085b44ba -- second chat -->
+
+- **Pick who you trust**. If already trust a provider, e.g. Google, Microsoft, etc., use them. If not, run AI locally or use the techniques below.
+- **Send schema, run code locally.** Send the column names, have AI write code, and analyze it locally. This is safer, and more reliable.
+- **Anonymize data:** Strip or hash PII before sending it to untrusted AI.
