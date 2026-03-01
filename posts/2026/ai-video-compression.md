@@ -79,7 +79,7 @@ ffmpeg -hide_banner -stats -v warning -i "$input"
 
 I realized that for the resolution I'll likely see this at, very low frame rates (5 fps) and poor compressions (CRF 55) are good enough.
 
-My original video was 912KB. The smallest video that looks good enough for me is 23 KB. That's almost a **40x compression**!
+My original video was 912KB. The smallest video that looks good enough for me is 23 KB. That's almost a **40x compression** - small enough to [publish in my data story](https://sanand0.github.io/datastories/sql-migration/).
 
 ---
 
