@@ -1,8 +1,23 @@
-name: Deploy Hugo site
+name: Deploy Hugo site (cost-optimized)
 
 on:
   push:
     branches: [main, dev]
+    # Do not deploy non-site changes
+    paths:
+      - "hugo.toml"
+      - "setup.sh"
+      - "metadata.yml"
+      - "posts/**"
+      - "pages/**"
+      - "content/**"
+      - "layouts/**"
+      - "static/**"
+      - "assets/**"
+      - "scripts/**"
+      - "themes/**"
+      - ".github/workflows/deploy.yml"
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -14,8 +29,14 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  build:
+  deploy:
+    # Keep [skip ci] support for explicit no-deploy commits.
+    if: ${{ github.event_name == 'workflow_dispatch' || !contains(github.event.head_commit.message, '[skip ci]') }}
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - uses: actions/checkout@v4
         with:
@@ -23,31 +44,27 @@ jobs:
           fetch-depth: 1
           # Don't write auth creds into local git config since this job never pushes.
           persist-credentials: false
+
       - uses: astral-sh/setup-uv@v7
-        with:
-          enable-cache: true
-          # Cache invalidates when these key build/dependency inputs change.
-          cache-dependency-glob: |
-            setup.sh
-            scripts/**/*.py
-            metadata.yml
+        # For minimum storage cost, keep caches off.
+        # If you care more about speed than storage, set these to true.
+        # with:
+        #   enable-cache: false
+
       - uses: jdx/mise-action@v3
         with:
           install: true
           install_args: "hugo@0.156.0"
-          cache: true
+          # cache: true
+
       - name: Build site
         run: bash setup.sh
+
+      - uses: actions/configure-pages@v5
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
       - id: deployment
         uses: actions/deploy-pages@v4

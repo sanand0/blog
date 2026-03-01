@@ -113,14 +113,16 @@ Research best practices from modern research and ancient wisdom.
 
 ## Expert Lens
 
-- What would an expert in this field check that beginners would miss?
-- What patterns would an expert in this field recognize that beginners would miss?
-- In this context, what questions would an expert ask that a beginner would not know to?
-- If this goes wrong, what are the most likely reasons?
+```markdown
+Think like an expert. In this context:
+- What patterns would an expert in this field check / recognize that beginners would miss?
+- What questions would an expert ask that a beginner would not know to?
+- What problems / failures would an expert anticipate that beginners may not be aware of?
 - How would an expert analyze this? At each step, explain what they are looking for and why.
 - Argue against this like a sceptic.
 - What would change your mind?
 - Ask me questions, Socratically, to discover the real need.
+```
 
 ## LinkedIn Post
 
@@ -154,14 +156,20 @@ Use clear speech bubbles with capitalized text.
 Draw this as a visually rich, intricately detailed, colorful, and funny, sketchnote.
 ```
 
+## Sketchnote (thinking)
+
 ```markdown
 Summarize this as a visually rich, intricately detailed, colorful, and funny, sketchnote.
 Think about the most important points, structure it logically so that the sketchnote is easy to follow, then draw it.
 ```
 
-```
+## Visual metaphor diagram
+
+```markdown
 Draw this as a visually rich, intricately detailed, colorful, and funny, visual metaphor diagram.
 ```
+
+## Infographic poster
 
 ```
 Draw this as a visually rich, intricately detailed, colorful, and funny, infographic poster.
@@ -213,4 +221,12 @@ For Gemini, to generate Google Slides, remove the last (HTML) line.
 - Avoid narrating routine tool calls (“reading file…”, “running tests…”).
 - Each update must include at least one concrete outcome (“Found X”, “Confirmed Y”, “Updated Z”).
 - Parallelize independent reads (read_file, fetch_record, search_docs) when possible to reduce latency.
+```
+
+## Image coloring / upscaling
+
+Nano-banana 2 finds it hard to follow instructions. "Pay extra attention to the faces and get the EXACTLY as in the original" worsens the result. So I just say:
+
+```markdown
+Upscale this image into a modern digital color photograph retaining EVERYTHING in the original perfectly.
 ```

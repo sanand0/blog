@@ -5,3 +5,4 @@ content/
 # For scripts/htmlemail.py GMail auth
 credentials.json
 token*.json
+__pycache__/

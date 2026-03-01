@@ -95,6 +95,68 @@ def replace_youtube_embeds(html: str) -> str:
     return re.sub(youtube_pattern, replace_iframe, html, flags=re.IGNORECASE | re.DOTALL)
 
 
+def get_html_attr(tag: str, attr: str) -> str | None:
+    """Extract an HTML attribute value from a tag fragment."""
+    # Support quoted and unquoted attribute values because markdown HTML snippets vary.
+    match = re.search(
+        rf"\b{re.escape(attr)}\s*=\s*(?:\"([^\"]*)\"|'([^']*)'|([^\s>]+))",
+        tag,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        return match.group(1) or match.group(2) or match.group(3)
+    return None
+
+
+def replace_media_embeds(html: str) -> str:
+    """Replace video/audio tags with email-friendly fallback links."""
+
+    def first_source(open_tag: str, inner_html: str) -> str | None:
+        # Keep author-declared source order: first playable source should be first in markup.
+        if src := get_html_attr(open_tag, "src"):
+            return src
+        for source_tag in re.findall(r"<source\b[^>]*>", inner_html, flags=re.IGNORECASE):
+            if src := get_html_attr(source_tag, "src"):
+                return src
+        return None
+
+    def replace_match(match: re.Match[str]) -> str:
+        media_kind = match.group(1).lower()
+        open_tag = match.group(2)
+        inner_html = match.group(3)
+
+        source = first_source(open_tag, inner_html)
+        title = media_kind.capitalize()
+        action = "Watch video" if media_kind == "video" else "Listen to audio"
+        parts = (
+            [f'<p><strong>{title}:</strong> <a href="{source}">{action}</a></p>']
+            if source
+            else [f"<p><strong>{title}:</strong> Media unavailable in email</p>"]
+        )
+
+        caption_links: list[str] = []
+        for track_tag in re.findall(r"<track\b[^>]*>", inner_html, flags=re.IGNORECASE):
+            # Only include user-facing timed text tracks; skip metadata/chapter tracks.
+            kind = (get_html_attr(track_tag, "kind") or "").lower()
+            if kind and kind not in {"captions", "subtitles"}:
+                continue
+            if track_src := get_html_attr(track_tag, "src"):
+                # Use neutral link text for email client consistency.
+                caption_links.append(f'<a href="{track_src}">Open captions</a>')
+
+        if caption_links:
+            parts.append(f"<p><strong>Captions:</strong> {', '.join(caption_links)}</p>")
+        return "".join(parts)
+
+    # DOTALL lets us match media tags spanning multiple lines in markdown-authored HTML.
+    return re.sub(
+        r"<(video|audio)\b([^>]*)>(.*?)</\1>",
+        replace_match,
+        html,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+
+
 def markdown_to_email_html(markdown_file: Path) -> tuple[str, str]:
     """Convert a markdown file to email-friendly HTML.
 
@@ -134,6 +196,8 @@ def markdown_to_email_html(markdown_file: Path) -> tuple[str, str]:
 
     # Replace YouTube embeds with image links
     html_content = replace_youtube_embeds(html_content)
+    # Replace video/audio embeds with email-friendly fallback links
+    html_content = replace_media_embeds(html_content)
 
     # Extract slug from markdown file path
     # Expected path: posts/YYYY/slug.md
@@ -330,6 +394,36 @@ def run_tests() -> None:
 
     _subject, html = render('<iframe src="https://www.youtube.com/embed/abc123"></iframe>')
     assert "youtu.be/abc123" in html and "i.ytimg.com" in html
+
+    _subject, html = render(
+        """
+<video controls poster="../poster.webp" title="Demo walkthrough">
+  <source src="../clip.webm" type="video/webm">
+  <source src="../clip.mp4" type="video/mp4">
+  <track kind="captions" src="../clip.en.vtt" srclang="en" label="English">
+</video>
+"""
+    )
+    assert "<video" not in html
+    assert "<strong>Video:</strong>" in html and "Watch video" in html
+    assert "https://www.s-anand.net/blog/clip.webm" in html
+    assert "<strong>Captions:</strong>" in html
+    assert "https://www.s-anand.net/blog/clip.en.vtt" in html
+
+    _subject, html = render(
+        """
+<audio controls aria-label="Interview recording">
+  <source src="../episode.ogg" type="audio/ogg">
+  <source src="../episode.mp3" type="audio/mpeg">
+  <track kind="subtitles" src="../episode.en.vtt" srclang="en">
+</audio>
+"""
+    )
+    assert "<audio" not in html
+    assert "<strong>Audio:</strong>" in html and "Listen to audio" in html
+    assert "https://www.s-anand.net/blog/episode.ogg" in html
+    assert "<strong>Captions:</strong>" in html
+    assert "https://www.s-anand.net/blog/episode.en.vtt" in html
 
     _subject, html = render("[rel](../x)\n\n![img](../i.png)\n")
     assert "https://www.s-anand.net/blog/x/" in html or "https://www.s-anand.net/blog/x" in html
