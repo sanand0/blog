@@ -5,7 +5,12 @@ lastmod: "2025-02-02T16:15:23Z"
 wp_id: 2
 ---
 
-You may know me as **S Anand**. You may also know me as **Prof or Stud** at the [Indian Institute of Management, Bangalore](https://www.iimb.ernet.in), as **Anand Subramanian** at [IBM India](https://www.ibm.com/in), **Bhalla** at [Alakananda hostel](https://ccw.iitm.ac.in/viewHostel?hid=1), [IIT Madras](https://www.iitm.ac.in/), and **Bal** at [Vidya Mandir](https://www.vidya-mandir.edu.in/)
+You may know me as **S Anand**. You may also know me as **Prof or Stud** at the [Indian Institute of Management, Bangalore](https://www.iimb.ernet.in), as **Anand Subramanian** at [IBM India](https://www.ibm.com/in), **Bhalla** at [Alakananda hostel](https://ccw.iitm.ac.in/viewHostel?hid=1), [IIT Madras](https://www.iitm.ac.in/), and **Bal** at [Vidya Mandir](https://www.vidya-mandir.edu.in/).
+
+- [LinkedIn](https://www.linkedin.com/in/sanand0/)
+- [CV (2024)](https://files.s-anand.net/cv/S_Anand_2024.pdf)
+
+### History
 
 **1974-1978 at home**
 
@@ -59,7 +64,7 @@ I graduated in March 2001 with a couple of gold medals, and joined the [Boston C
 
 **2005-2011 at Infosys Consulting London**
 
-I was missing technology too much, and we decided to live abroad for a while as well. Since I loved London so much, it was the first choice. I’m now with [Infosys Consulting](https://www.infosysconsulting.com/) at London, enjoying 40-hour weeks. On Feb 27, 2005, my daughter Dhyeya was born at St Isabel’s Hospital, Chennai. Dhyeya means “one you worship”. She weighed 3.7 kgs at birth.
+I was missing technology too much, and we decided to live abroad for a while as well. Since I loved London so much, it was the first choice. I’m now with [Infosys Consulting](https://www.infosysconsulting.com/) at London, enjoying 40-hour weeks. On Feb 27, 2006, my daughter Dhyeya was born at St Isabel’s Hospital, Chennai. Dhyeya means “one you worship”. She weighed 3.7 kgs at birth.
 **2012-2023 at Gramener**
 
 The startup bug bit me. So along with a few good friends, we started [Gramener](https://gramener.com/), a data visualisation & analytics company. This combines three interests of mine: statistics, programming and design. I was in Bangalore for most of this time and [moved to Singapore](/blog/moving-to-singapore/) in Aug 2023.
