@@ -13,6 +13,8 @@ categories:
 
 ... six times, followed by "Suggest a name for this".
 
+<!-- https://claude.ai/chat/0a750b6a-a788-4dfb-8b01-ea4600a16ef8 -->
+
 **STEP 2**: I asked [Claude to analyze these](https://claude.ai/share/2cc9fcad-5e7d-4fba-ac16-b620fb21c82e) like an expert at paradoxical images.
 
 Below is what Gemini generated, along with Claude's rating and reviews.

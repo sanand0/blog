@@ -60,6 +60,13 @@ Single panel.
 Use clear speech bubbles with capitalized text.
 ```
 
+## Draw Comic using Suggestion
+
+```markdown
+Give me ideas for a single panel comic that communicates the spirit of what happened in this blog post using an analogy and without needing any text.
+Pick a SINGLE point to convey. Use simple ideas or analogies that are highly relatable and easily drawable. Funny is good.
+```
+
 ## Draw Infographic poster
 
 ```

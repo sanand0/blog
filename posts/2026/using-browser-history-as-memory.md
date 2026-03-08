@@ -6,7 +6,7 @@ categories:
   - llms
 ---
 
-I have a bad memory. (I need to write about that. I keep forgetting to.)
+I have a bad memory. (I need to write about that. I k eep forgetting to.)
 
 It's worsening. Yesterday, I misplaced my debit card for the first time. Or maybe the second...? Which reminds me, I just forgot a call I have now! (Panic.)
 
