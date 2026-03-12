@@ -7,6 +7,12 @@ classes: wrap-code
 
 Prompt fragments useful to add to other prompts
 
+## Analysis notes
+
+```markdown
+As you analyze, note any interesting findings (patterns, anomalies, alternate perspectives, future explorations) in notes-v1.md.
+```
+
 ## Best practices and ancient wisdom
 
 ```markdown
@@ -39,6 +45,12 @@ Based on my browsing history below, summarize what I did, grouping into logical 
 ...
 
 Ask me questions for whatever's unclear.
+```
+
+## Claude Code Chunk / Fragment data story
+
+```markdown
+IMPORTANT: Because Claude will almost certainly stall when generating such a large file at one shot, you MUST break this into parts, generating a first layer of the .html and saving it, checking it, then updating it with the next layer, and so on.
 ```
 
 ## Core concepts
@@ -145,7 +157,8 @@ Use tooltips, popups, interactions, and animations as informative and engaging a
 
 **Popups** are for:
 
-- Files. Link liberally to files.
+- Citations. Search for and include references. Cite the key point from the reference and link to it.
+- Files. Link liberally to files as supporting evidence.
   - Clicking on file links should open the files in a popup, with a link to open the original in a new tab.
   - Syntax-highlighted if code
   - Show sortable for tabular data, gradient-coloring important numeric / categorical columns if that will help understand the context

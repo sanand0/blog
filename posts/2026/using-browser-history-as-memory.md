@@ -68,3 +68,7 @@ This is a _fantastic_ way to jog my memory about what I did - and is obviously s
 ---
 
 So there it is. Export your browser history and as an LLM to summarize your day. Great way to jog your memory - and waste an hour.
+
+---
+
+**11 Mar 2026**. This continues to be a useful memory hack. In the last 4 weeks, I've used this at least 4 times to find out what I was doing the previous day or previous few days.

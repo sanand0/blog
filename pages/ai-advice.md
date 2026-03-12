@@ -38,6 +38,20 @@ Here are specific ideas you can try:
   - **Relationship Architect**. Ask it whom to reach out to, find their interests, what gifts to buy, etc.
   - **Teacher**. Ask AI to teach, then quiz you. "I want to learn about [Topic]. Explain the basics, then ask me 3 questions to test if I understood it."
 
+## How do YOU use agents?
+
+Here are some of my behaviors in the agent era:
+
+- **Prototype the prototype**. Sometimes, I'm not even sure what to prototype. I have the agent build something based on very quick, crude early thoughts, then iterate on it. This is as opposed to asking the agent for ideas, filtering them, THEN asking it to build the right prototype. In other words, the reviews are easier when I have a draft rather than an idea. [#](https://www.s-anand.net/blog/prototyping-the-prototypes/)
+- **Galleries for ideas**. I collect [prompts](https://www.s-anand.net/blog/prompts/) like recipes. It helps to preview their output, so I also build [galleries](https://sanand0.github.io/llmartstyle/). I incrementally add based on usage, but big leaps come when I ask agents to create / extend galleries.
+- **Audio to analysis**. I record calls, transcribe it, and pass it to a coding agent to give the other person what they need -- WITHOUT interpreting it. I've already put in some hard work into drafting skills, but that may become redundant later. I am mostly getting out of the way of the speed and capability of the agent in solving the problem directly.
+- **Itch to experiment**. When I have a thought, I just have an agent prototype it and run the experiment. With more tools and environments, the space of what it can experiment grows.
+- **Directional feedback**. In areas where I'm not the expert, I tell agents how I feel, how I _should_ feel, how I'll know if it's right, and trust the agent's judgement. [#](https://www.s-anand.net/blog/directional-feedback-for-ai/)
+- **Organize context**. I record and organize far more data than before (call transcripts, bank statements, phone bills, etc.) to pass to agents. Incidentally, managed [digital exhaust](/blog/digital-exhaust/) is an asset.
+- **Ask the agent**. When I have a question, I ask the agent (not search engine) first. I delegate the research to it, and ask for the answer directly. "Just tell me what to do. Maybe I'll ask why."
+  - Not just a question. When I have almost _any_ feeling (discomfort, curiosity, etc.) I'm now trained to ask an agent.
+  - Many email replies are just copy to Gemini and copy back. It already has the context of my past conversations.
+
 ## How do I use AI for coding?
 
 <!-- 9 Feb 2026: https://gemini.google.com/app/c4c7af5f52fb9c3b -->

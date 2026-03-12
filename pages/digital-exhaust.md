@@ -1,0 +1,141 @@
+---
+title: Digital Exhaust
+date: 2026-03-11T11:51:23+08:00
+---
+
+Exhaust I "emit":
+
+- Bank statements
+- Blog posts
+- Browser history
+- ChatGPT / Claude / Gemini history
+- Cloud usage (billing, usage, storage, activity)
+- Codex / Copilot / Claude Code logs
+- Command line history
+- Google Workspace (Email, Calendar, Tasks, Drive, Keep, etc.)
+- GitHub commits
+- Google Fit data
+- Google Location data
+- Google Meet/Teams/Zoom/Phone/WhatsApp/F2F call recordings + transcripts
+- Search history (Google, Maps, YouTube, Amazon, Netflix, etc.)
+- LinkedIn contacts
+- List of files accessed on Linux
+- Mobile OS location data
+- Notes (things I learned, LLMs, about people, etc.)
+- Phone/WhatsApp call logs
+- Photos, music and videos
+- RSS feeds
+- SMS/text message history
+- Tasks lists
+- Transport usage (Uber, Ola, flights, bus/train)
+- Utility usage/bills
+- WhatsApp chats
+- YouTube history
+
+## Sources to Consider
+
+- **Collected from billions of users:**
+  - Cell tower connection logs (carrier-level)
+  - Social media activity (Facebook, Instagram, TikTok, X, LinkedIn)
+  - Wi-Fi connection history
+  - App install/uninstall history
+  - Screen time and app usage duration
+  - Contact lists synced to cloud
+  - Credit/debit card transactions
+  - Device identifiers and fingerprints
+  - IP address logs (virtually every service)
+  - Keyboard/typing patterns (Gboard, SwiftKey)
+  - Clipboard history
+  - Push notification interactions
+  - Biometric authentication logs (Face ID, fingerprint)
+- **Hundreds of millions:**
+  - Streaming watch/listen history (Netflix, Spotify, Prime Video)
+  - E-commerce browsing and purchase history
+  - Food delivery orders (Swiggy, Zomato, DoorDash)
+  - Ride-sharing trip history (Uber, Ola, Lyft)
+  - Smart speaker voice recordings
+  - Fitness wearable data (steps, heart rate, sleep, SpO2)
+  - Gaming activity and achievement logs
+  - Password manager access logs
+  - Smart TV viewing data (including ACR - automatic content recognition)
+- **Tens of millions:**
+  - Smart home device logs (thermostats, cameras, locks)
+  - Toll road/FASTag usage
+  - Public transit card taps
+  - Parking app data
+  - Loyalty program transactions
+  - Medical/patient portal records
+  - Education platform activity (Google Classroom, Canvas)
+  - Dating app swipes and messages
+  - Job application tracking
+  - Nutrition/meal logging
+- **Smaller but significant:**
+  - DNA/genetic testing data
+  - Vehicle telematics (connected cars)
+  - Court and legal filings
+  - Property transaction records
+  - Insurance claims history
+- Also:
+  - **Device identifiers & telemetry** (device model, OS version, language/locale, time zone, IPs, carrier, crash logs, performance stats, app analytics)
+  - **App install list + app usage** (what’s installed, first/last opened, time spent, notifications received/opened, background activity)
+  - **Contacts/address book** (names, numbers/emails, relationship hints via interaction frequency)
+  - **Location traces (multi-source)**: GPS + Wi-Fi SSIDs + Bluetooth beacons + cell towers + IP-based location
+  - **Wi-Fi + network metadata** (known networks, connection times, sometimes MAC addresses; plus home router logs)
+  - **Advertising identifiers & ad events** (mobile ad ID, attribution links, ad impressions/clicks, conversion events)
+  - **Keyboard + input signals (telemetry-level)** (typing speed, autocorrect usage, language switching; usually not raw text, but still behavioral)
+  - **Camera roll / gallery metadata** (timestamps, geotags, device, faces/objects inferred, albums/shared items)
+  - **Cloud photo backups & “memories” features** (what got backed up, searched, shared, edited)
+  - **Browser history + web tracking** (URLs, downloads, cookies, trackers/pixels, referrers, autofill usage, saved passwords)
+  - **Search history** (Google/Bing/DuckDuckGo; plus in-app search inside Amazon/YouTube/Maps/etc.)
+  - **Maps navigation & mobility** (routes, commute patterns, saved places, reviews, “visited” inferences)
+  - **Email metadata + content** (senders, subjects, threads, attachments, newsletter subscriptions, receipts)
+  - **Calendar** (meetings, locations, attendees, recurring routines)
+  - **Notes & documents** (personal notes, highlights, OCR’d text from images, document edits/version history)
+  - **Messaging apps** (WhatsApp/Telegram/iMessage/Signal): chats, groups, media, reactions; plus **call logs** inside the app
+  - **Social graph signals** (who you follow, who you interact with, DMs, blocks/mutes, relationship strength via engagement)
+  - **Music/podcast history** (listening time, skips, playlists, favorites)
+  - **E-commerce activity** (browsing, carts, wishlists, purchases, returns, delivery addresses)
+  - **Payment & wallet metadata** (Apple Pay/Google Pay tokens, transaction notifications, loyalty cards, transit cards)
+  - **Bank statements (aggregated view)** (merchant categories, recurring bills, salary cadence, travel patterns)
+  - **Utility & telecom bills/usage** (electricity/water trends; mobile data usage; roaming events)
+  - **Fitness & health telemetry** (steps, HR, sleep, workouts, weight logs, menstrual tracking where applicable)
+  - **Bluetooth proximity ecosystem** (smartwatch pairing logs, car Bluetooth, earbuds; sometimes “nearby device” history)
+  - **Smart home device logs** (speakers, lights, thermostats, cameras, doorbells: motion events, voice commands, schedules)
+  - **Smart TV / streaming logs** (what was watched, when, on which profile/device)
+  - **Ride-hailing & delivery** (pickup/dropoff points, order history, tipping)
+  - **Travel systems** (boarding passes, airline apps, hotel bookings, immigration e-gates in some places)
+  - **Work identity + access logs** (SSO logins, badge access, VPN, device posture checks, MDM telemetry)
+  - **Collaboration tools** (Slack/Teams: messages, reactions, meeting attendance, search queries)
+  - **File access trails on devices** (recent files, Spotlight/Windows Search indexing, thumbnail caches)
+  - **Clipboard history** (on-device managers; cross-device paste features)
+  - **Command line / dev telemetry** (shell history, editor telemetry, package installs, build logs)
+  - **Source control** (Git commits, PRs, issue comments, CI logs)
+  - **Cloud usage** (AWS/GCP/Azure: API calls, billing, resource graphs) — very “work-specific”
+  - **RSS/news reading** (feeds opened, dwell time, saves, shares)
+
+Other sources (might be duplicated):
+
+- **I. Ubiquitous Passive Telemetry (Collected from nearly everyone with a smartphone)**
+  - **Advertising ID (IDFA / AAID):** A unique, resettable alphanumeric string assigned to your device (iOS or Android) specifically to track your behavior across different apps and build a profile of your interests.
+  - **Device "Fingerprint" Data:** Technical details used to identify your specific device even without cookies (e.g., screen resolution, battery level, installed fonts, OS version, time zone, and browser user-agent).
+  - **Battery & Charging Habits:** Logs of when you charge your phone and how quickly your battery drains, often used to optimize OS performance but also accessible to apps to infer usage patterns.
+  - **Nearby Wi-Fi & Bluetooth Beacons:** A constantly updating list of all Wi-Fi networks (SSIDs) and Bluetooth devices near you. This is used to pinpoint your physical location within inches, even when GPS is turned off (often called "Wi-Fi scanning").
+  - **Accelerometer & Gyroscope Logs:** Continuous raw data measuring how your device moves in 3D space. This can identify if you are walking, driving, or lying down, and can even be used to identify you by your unique "gait" (walk style).
+  - **App Usage Stats (Screen Time):** Precise logs of exactly which app is open, for how long, and at what time of day (e.g., "User opened Instagram at 11:42 PM and stayed for 14 minutes").
+  - **Cell Tower Triangulation:** Logs maintained by your carrier (Verizon, T-Mobile, etc.) showing which cell towers your phone connected to, creating a rough location history independent of Google/Apple maps.
+- **II. Behavioral Biometrics (The "How" you interact)**
+  - **Keystroke Dynamics:** Not just _what_ you type, but _how_ you type it—your typing speed, the rhythm between key presses, and how many mistakes you backspace. This is often used for fraud detection as it is unique to you.
+  - **Touch Pressure & Area:** The exact surface area of your fingertip touching the screen and the pressure applied during taps or swipes.
+  - **Scroll & Swipe Patterns:** The velocity and angle at which you scroll through feeds (e.g., TikTok or Twitter).
+  - **Mouse Movement (Desktop):** The path your cursor takes to click a button (curved vs. straight lines, hesitation before clicking), used to distinguish humans from bots.
+- **III. Network & Communication Metadata**
+  - **DNS Queries:** A log of every website domain your device has tried to contact (e.g., `api.tinder.com`, `netflix.com`), visible to your ISP (Internet Service Provider) even if the website content is encrypted (HTTPS).
+  - **Email Metadata:** Even if the body is encrypted, the "envelope" data is logged: Sender, Recipient, Time, Subject Line, and IP address of the sender.
+  - **Push Notification Logs:** Records of every alert sent to your device, including the time it was received and whether you tapped on it or dismissed it.
+- **IV. Smart Home & IoT Exhaust**
+  - **Smart TV "ACR" (Automatic Content Recognition):** Pixels on your screen are sampled to identify exactly what show, movie, or ad you are watching, regardless of the source (Cable, Xbox, Streaming App).
+  - **Voice Assistant "False Positives":** Short audio snippets recorded when a device _thought_ you said "Hey Siri" or "Alexa" but you didn't. These are often stored for quality assurance.
+  - **Smart Plug/Bulb Usage:** Patterns of when lights turn on/off, which can be used to map your "patterns of life" (when you wake up, when you leave for work, when you go to sleep).
+- **V. Financial & Transactional Exhaust**
+  - **Credit Header Data:** Updates to your name, address, or phone number reported by banks to credit bureaus, often sold to skip-tracing and marketing firms.
+  - **Digital Wallet Tokens:** Anonymized transaction identifiers used by Apple Pay/Google Pay that link a purchase to a device without revealing the actual card number to the merchant.
