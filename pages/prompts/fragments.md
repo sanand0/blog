@@ -50,7 +50,7 @@ Ask me questions for whatever's unclear.
 ## Claude Code Chunk / Fragment data story
 
 ```markdown
-IMPORTANT: Because Claude will almost certainly stall when generating such a large file at one shot, you MUST break this into parts, generating a first layer of the .html and saving it, checking it, then updating it with the next layer, and so on.
+IMPORTANT: Because Claude will almost certainly stall when generating such a large file at one shot, you MUST break this into parts, generating the .html in chunks or layered edits (keeping each chunk small, max 100KB of edits) and saving it, checking it, then updating it with the next iteration, and so on.
 ```
 
 ## Core concepts
