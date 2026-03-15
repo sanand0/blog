@@ -38,8 +38,14 @@ My next question was:
 It said: the bottleneck shift to trust, taste, and attention.
 
 - 🟢 **Taste is a skill**. **Few** people will deepen craft engagement (reading, cooking, music, ...) but most won't, creating a gap.
+  - Fuzzier areas (e.g. art, philosophy, unnamed ones) have more value than verifiable ones (e.g. code, science) since they're harded to automate.
 - 🟢 **Context is an asset**. People & companies will record decisions, reasoning, relationship histories, .. to create (marketplace-tradeable) assets.
-- 🟡 **Trust is an asset**. People who stand behind AI output will create value in law, medicine, education, etc. Consulting will restructure around this.
+- 🟡 **Trust is an asset**. People who stand behind AI output will create value in law, medicine, education, etc. Consulting will restructure around this. This will [require investments](https://arxiv.org/abs/2602.20946) [#](https://jack-clark.net/2026/03/02/import-ai-447-the-agi-economy-testing-ais-with-generated-games-and-agent-ecologies/) in:
+  - Observability
+  - Human augmentation - gracefully degrading without harm when humans inevitably falter
+  - Synthetic practice
+  - Cryptographic provenance
+  - liability regimes that internalize tail risk
 - 🟢 **AI-less is exercise**. **Few** people will deliberately train without AI, and will be valuable in niches (sports, emergencies, status-symbols). Exams / filters will partially screen for this.
 - 🟡 **AI-less feels broken**. AI-speed will be _expected_ in services and interactions. **Relationships are assets** that become valuable and premium.
 - 🔴 **Orgs re-form**. Org sizes fall. But size has advantages (trust, brand, connects) so new orgs will form with teams evaluated on outcome (portfolio, ROI) and trust (network, ratings).

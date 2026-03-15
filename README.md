@@ -23,6 +23,8 @@ Configuration & Code:
 - `static/`: Static files (CSS overrides, favicon assets).
 - `themes/PaperMod/`: Hugo theme sources (vendored).
 - `scripts/`: Conversion and utility scripts.
+- `justfile`: Justfile for local pre-processing (e.g. analysis).
+- `analysis/`: Data analysis scripts and results (e.g. embedding analysis).
 
 Auto-generated (DO NOT edit!):
 
@@ -41,6 +43,21 @@ This runs:
 2. `hugo` - builds static site to `public/blog/`
 3. Post-processing scripts for comments and feed normalization
 4. Copies special pages to `public/` root
+
+## Embeddings
+
+`content/embeddings.parquet` contains [Gemini Embedding 2](https://ai.google.dev/gemini-api/docs/embeddings) vectors for every page and post.
+
+```bash
+scripts/embeddings.py                    # embed all new/changed files
+scripts/embeddings.py --since 2025-01   # only files modified after a date
+scripts/embeddings.py --limit 10        # test run: at most 10 files
+scripts/embeddings.py --force           # re-embed all, ignoring hashes
+```
+
+- Model: `gemini-embedding-2-preview`, 768 dimensions, `RETRIEVAL_DOCUMENT` task
+- Each file's title (from frontmatter) is prepended to the body before embedding
+- State is persisted in `content/embeddings.duckdb` so interrupted runs resume automatically — only files whose content hash changed are re-embedded
 
 ## Frontmatter
 

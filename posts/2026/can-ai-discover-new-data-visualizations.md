@@ -33,7 +33,7 @@ Actually, my role is an admirer and critic - since they can't critique themselve
 Well, I'm the person who paid for their tokens and will therefore take credit on stage. So there.
 
 <video controls="" width="1173" height="815" style="max-width: 100%; height: auto;" autoplay="" loop="">
-  <source src="screenshot.webm" type="video/webm"><a href="screenshot.webm">Video</a>
+  <source src="https://sanand0.github.io/datastories/anthropic-work/screenshot.webm" type="video/webm"><a href="https://sanand0.github.io/datastories/anthropic-work/screenshot.webm">Video</a>
 </video>
 
 **Links**:

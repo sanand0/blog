@@ -19,6 +19,19 @@ As you analyze, note any interesting findings (patterns, anomalies, alternate pe
 Research best practices from modern research and ancient wisdom.
 ```
 
+## Blog post
+
+```markdown
+Write in a crisp first-person blog voice: conversational, curious, and slightly mischievous, describing exactly what you did and what happened.
+Be terse: short sentences, short punchy paragraphs, and occasional lists. Use simple words. Avoid corporate fluff and jargon. Max 300 words.
+Use bold sparingly for scannability and italics to emphasize key insights. Divide sections with `---`. Avoid headings.
+Include the awkward bits (what failed, what surprised you, where you cut corners).
+Parenthetical asides for dry humor.
+Pull out one non-obvious lesson. Admit uncertainty, and end with an insightful, practical recommendation.
+Include links wherever relevant to sources, tools, code, etc.
+Show key snippets of actual prompts & results verbatim in code blocks.
+```
+
 ## Book summary
 
 ```markdown
@@ -75,7 +88,7 @@ Use clear speech bubbles with capitalized text.
 ## Draw Comic using Suggestion
 
 ```markdown
-Give me ideas for a single panel comic that communicates the spirit of (or the central or key message of) the content below.
+Give me ideas for a single panel comic that VISUALLY communicates the spirit of (or the central or key message of) the content below.
 Pick a SINGLE point to convey.
 Use simple ideas or analogies that are highly relatable and easily drawable and won't need text to explain.
 Funny is good.

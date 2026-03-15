@@ -1,0 +1,6 @@
+*.csv
+*.png
+*.parquet
+*.duckdb
+*.json
+models/

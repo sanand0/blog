@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog UMAP</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;overflow:hidden}
+body{font-family:system-ui,-apple-system,sans-serif;font-size:13px;background:#0f172a;color:#e2e8f0}
+#app{display:flex;flex-direction:column;height:100dvh;min-height:0}
+
+/* ── Controls ── */
+#controls{
+  display:flex;align-items:center;gap:10px;
+  padding:6px 12px;background:#1e293b;
+  border-bottom:1px solid #334155;flex-shrink:0;flex-wrap:wrap;
+  min-height:40px
+}
+.ctrl-label{color:#64748b;font-size:11px;text-transform:uppercase;letter-spacing:.05em;white-space:nowrap}
+.btn-group{display:flex;border-radius:6px;overflow:hidden;border:1px solid #334155}
+.btn-group button{
+  padding:3px 10px;background:#0f172a;color:#94a3b8;border:none;
+  cursor:pointer;font-size:12px;transition:background .12s,color .12s
+}
+.btn-group button.active{background:#3b82f6;color:#fff}
+.btn-group button:hover:not(.active){background:#1e293b;color:#e2e8f0}
+select{
+  background:#0f172a;color:#e2e8f0;border:1px solid #334155;
+  border-radius:4px;padding:3px 8px;font-size:12px;cursor:pointer;max-width:140px
+}
+select:hover{border-color:#3b82f6}
+.ctrl-sep{width:1px;height:20px;background:#334155;flex-shrink:0}
+#legend{
+  display:flex;align-items:center;gap:5px;flex-wrap:wrap;
+  margin-left:auto;padding-left:8px;max-width:400px
+}
+.leg-item{display:flex;align-items:center;gap:3px;font-size:10px;color:#94a3b8;white-space:nowrap}
+.leg-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.leg-grad{height:8px;border-radius:3px;min-width:80px}
+
+/* ── Plot ── */
+#plot-wrap{flex:1;position:relative;overflow:hidden;min-height:0}
+#plot{position:absolute;top:0;left:0;width:100%;height:100%}
+#overlay{position:absolute;top:0;left:0;width:100%;height:100%;cursor:crosshair}
+.selection{fill:rgba(59,130,246,.15);stroke:#3b82f6;stroke-width:1.5}
+.handle{fill:none;stroke:none}
+
+/* ── Bottom controls ── */
+#bottom{
+  padding:8px 16px 10px;background:#1e293b;
+  border-top:1px solid #334155;flex-shrink:0
+}
+.date-row{display:flex;align-items:center;gap:10px;margin-bottom:4px}
+.date-lbl{font-size:12px;color:#94a3b8;white-space:nowrap;min-width:72px}
+.date-lbl.right{text-align:right}
+
+/* Dual-thumb range slider */
+.range-wrap{flex:1;position:relative;height:20px;display:flex;align-items:center}
+.range-track{position:absolute;left:0;right:0;top:50%;transform:translateY(-50%);height:4px;background:#334155;border-radius:2px;pointer-events:none}
+.range-fill{position:absolute;top:50%;transform:translateY(-50%);height:2px;background:#3b82f6;border-radius:1px;cursor:grab;
+  padding-block:9px;box-sizing:content-box;background-clip:content-box}
+.range-wrap input[type=range]{
+  position:absolute;top:50%;transform:translateY(-50%);width:100%;height:4px;
+  -webkit-appearance:none;appearance:none;
+  background:transparent;pointer-events:none;outline:none;margin:0
+}
+.range-wrap input[type=range]::-webkit-slider-thumb{
+  -webkit-appearance:none;appearance:none;pointer-events:all;
+  width:16px;height:16px;border-radius:50%;
+  background:#3b82f6;border:2px solid #0f172a;cursor:pointer;
+  box-shadow:0 1px 4px rgba(0,0,0,.5);transition:background .12s
+}
+.range-wrap input[type=range]::-webkit-slider-thumb:hover{background:#60a5fa}
+.range-wrap input[type=range]::-moz-range-thumb{
+  pointer-events:all;width:16px;height:16px;border-radius:50%;
+  background:#3b82f6;border:2px solid #0f172a;cursor:pointer
+}
+.range-wrap input[type=range]::-moz-range-track{background:transparent}
+#play-btn{
+  padding:4px 14px;background:#3b82f6;color:#fff;border:none;
+  border-radius:6px;cursor:pointer;font-size:13px;white-space:nowrap;flex-shrink:0
+}
+#play-btn:hover{background:#2563eb}
+#play-btn.playing{background:#ef4444}
+#play-btn.playing:hover{background:#dc2626}
+#year-ticks{
+  display:flex;justify-content:space-between;
+  padding:0 1px;font-size:10px;color:#cdcdcd
+}
+
+/* ── Range duration label ── */
+#range-dur{
+  position:absolute;top:-18px;left:50%;transform:translateX(-50%);
+  font-size:11px;color:#cdcdcd;pointer-events:none;white-space:nowrap;
+  background:rgba(15,23,42,.8);padding:1px 7px;border-radius:10px
+}
+
+/* ── Bar chart race ── */
+#barchart{
+  position:absolute;top:10px;left:10px;z-index:10;pointer-events:none;
+  background:rgba(15,23,42,.88);border:1px solid #1e293b;border-radius:8px;
+  padding:8px 10px;max-width:310px;max-height:380px;overflow:hidden
+}
+.bc-head{font-size:10px;color:#475569;text-transform:uppercase;
+  letter-spacing:.06em;margin-bottom:5px;font-weight:600}
+.bc-row{display:flex;align-items:center;gap:5px;height:15px;margin-bottom:2px}
+.bc-lbl{width:86px;text-align:right;font-size:10px;color:#94a3b8;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex-shrink:0}
+.bc-bwrap{width:150px;height:7px;border-radius:2px;overflow:hidden;flex-shrink:0;
+  background:rgba(255,255,255,.04)}
+.bc-bar{height:100%;border-radius:2px}
+.bc-cnt{font-size:9px;color:#475569;min-width:26px;text-align:right;flex-shrink:0}
+
+/* ── Popup ── */
+#popup{
+  position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);
+  background:#1e293b;border:1px solid #334155;border-radius:10px;
+  box-shadow:0 20px 60px rgba(0,0,0,.8);
+  width:min(92vw,680px);max-height:70vh;
+  display:flex;flex-direction:column;z-index:200;overflow:hidden
+}
+#popup.hidden{display:none}
+.pop-head{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:10px 14px;border-bottom:1px solid #334155;flex-shrink:0
+}
+.pop-title{font-size:14px;font-weight:600;color:#e2e8f0}
+.pop-close{
+  background:none;border:none;color:#94a3b8;
+  cursor:pointer;font-size:18px;line-height:1;padding:2px
+}
+.pop-close:hover{color:#e2e8f0}
+.pop-scroll{overflow-y:auto;flex:1}
+#pop-table{width:100%;border-collapse:collapse;font-size:12px}
+#pop-table thead th{
+  position:sticky;top:0;background:#0f172a;
+  padding:7px 10px;text-align:left;color:#64748b;font-weight:500;
+  cursor:pointer;white-space:nowrap;border-bottom:1px solid #334155
+}
+#pop-table thead th:hover{color:#e2e8f0}
+#pop-table thead th.sorted{color:#3b82f6}
+#pop-table tbody tr:hover{background:#0f172a}
+#pop-table td{padding:5px 10px;border-bottom:1px solid #1e293b;vertical-align:middle;color:#cbd5e1}
+#pop-table a{color:#60a5fa;text-decoration:none}
+#pop-table a:hover{text-decoration:underline}
+.cat-dot{display:inline-block;width:10px;height:10px;border-radius:50%;flex-shrink:0;vertical-align:middle}
+.clust-sq{display:inline-block;width:10px;height:10px;border-radius:2px;flex-shrink:0;vertical-align:middle}
+
+/* Tooltip */
+#tip{
+  position:fixed;pointer-events:none;z-index:100;
+  background:#0f172a;border:1px solid #334155;border-radius:6px;
+  padding:6px 10px;font-size:12px;color:#e2e8f0;max-width:240px;
+  box-shadow:0 4px 12px rgba(0,0,0,.5);display:none
+}
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="controls">
+    <span class="ctrl-label">Color</span>
+    <div class="btn-group" id="col-grp">
+      <button class="btn active" data-col="category">Category</button>
+      <button class="btn" data-col="cluster">Cluster</button>
+      <button class="btn" data-col="year">Year</button>
+    </div>
+    <div class="ctrl-sep"></div>
+    <span class="ctrl-label">Filter</span>
+    <select id="f-year"><option value="">All years</option></select>
+    <select id="f-cat"><option value="">All categories</option></select>
+    <select id="f-clust"><option value="">All clusters</option></select>
+    <div id="legend"></div>
+  </div>
+
+  <div id="loading" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:#64748b;font-size:14px;z-index:99">Loading…</div>
+  <div id="plot-wrap">
+    <canvas id="plot"></canvas>
+    <svg id="overlay"></svg>
+    <div id="barchart"></div>
+  </div>
+
+  <div id="bottom">
+    <div class="date-row">
+      <span class="date-lbl" id="lbl-start">— — —</span>
+      <div class="range-wrap" id="rwrap">
+        <div id="range-dur"></div>
+        <div class="range-track"></div>
+        <div class="range-fill" id="rfill"></div>
+        <input type="range" id="sl-start" min="0" max="10000" value="0" step="1">
+        <input type="range" id="sl-end"   min="0" max="10000" value="10000" step="1">
+      </div>
+      <span class="date-lbl right" id="lbl-end">— — —</span>
+      <button id="play-btn">▶ Play</button>
+    </div>
+    <div id="year-ticks"></div>
+  </div>
+</div>
+
+<div id="popup" class="hidden">
+  <div class="pop-head">
+    <span class="pop-title" id="pop-title">Selected posts</span>
+    <button class="pop-close" id="pop-close">✕</button>
+  </div>
+  <div class="pop-scroll">
+    <table id="pop-table">
+      <thead><tr>
+        <th data-sort="selected" style="text-align:center">✓</th>
+        <th data-sort="date" style="text-align:right">Date</th>
+        <th data-sort="category">Category</th>
+        <th data-sort="cluster">Cluster</th>
+        <th data-sort="title">Title</th>
+      </tr></thead>
+      <tbody id="pop-body"></tbody>
+    </table>
+  </div>
+</div>
+<div id="tip"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script>
+// ═══════════════════════════════════════════════════
+// DATA
+// ═══════════════════════════════════════════════════
+
+// ═══════════════════════════════════════════════════
+// CONFIG
+// ═══════════════════════════════════════════════════
+let X_DOM, Y_DOM;
+const M = {t:16, r:16, b:16, l:16};
+const R = 3;                  // dot radius
+const BASE = 'https://www.s-anand.net/blog/';
+
+// ═══════════════════════════════════════════════════
+// COLOR SCALES
+// ═══════════════════════════════════════════════════
+let MIN_YR, MAX_YR, yearColor;
+
+let CATS;
+
+const CAT_PAL = [
+  '#4e79a7','#f28e2b','#e15759','#76b7b2','#59a14f',
+  '#edc948','#b07aa1','#ff9da7','#9c755f','#8dd3c7',
+  '#17becf','#aec7e8','#ffbb78','#98df8a','#ff9896',
+  '#c5b0d5','#c49c94','#f7b6d2','#dbdb8d','#bcbd22',
+  '#637939','#9edae5','#5254a3','#e7cb94','#ce6dbd',
+  '#6b6ecf','#b5cf6b','#843c39','#7b4173','#d6616b'];
+
+let catColor;
+
+const CLUST_PAL = [
+  '#e41a1c','#377eb8','#4daf4a','#984ea3','#ff7f00',
+  '#a65628','#f781bf','#e6ab02','#66c2a5','#fc8d62',
+  '#8da0cb'];
+const CLUSTER_NAMES = [
+  'Old-web links',        // 0 – napster, riaa, early internet
+  'Curiosities & fun',    // 1 – cartoons, music video, sculptures
+  'AI & LinkedIn',        // 2 – vibe coding, anthropic, linkedin
+  'Tutorials & how-tos',  // 3 – multimedia, tutorials, intro
+  'India / blogosphere',  // 4 – bloggers meet, khan, rediff
+  'Essays & ideas',       // 5 – paul graham, quantum mechanics
+  'Google & search',      // 6 – picasa, google.com
+  'Productivity & tools', // 7 – formulas, blackberry, excel
+  'Notes & learning',     // 8 – goodreads, books, workflows
+  'India & London life',  // 9 – amitabh, mumbai, london
+  'Music & culture',      // 10 – raagam, raagas, kalyani
+];
+let clusterColor;
+
+function getColor(d) {
+  if (st.colorBy === 'year')     return yearColor(d.y);
+  if (st.colorBy === 'category') return catColor(d.c);
+  return clusterColor(d.k);
+}
+
+// ═══════════════════════════════════════════════════
+// STATE
+// ═══════════════════════════════════════════════════
+let DATA, minMs, maxMs, st;
+
+// ═══════════════════════════════════════════════════
+// CANVAS
+// ═══════════════════════════════════════════════════
+const canvas  = document.getElementById('plot');
+const ctx     = canvas.getContext('2d');
+const wrap    = document.getElementById('plot-wrap');
+let W=0, H=0, xs, ys, dpr=1;
+
+function resize() {
+  dpr = devicePixelRatio || 1;
+  const r = wrap.getBoundingClientRect();
+  W = r.width; H = r.height;
+  canvas.width  = W * dpr;
+  canvas.height = H * dpr;
+  canvas.style.width  = W + 'px';
+  canvas.style.height = H + 'px';
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  xs = d3.scaleLinear().domain(X_DOM).range([M.l, W-M.r]);
+  ys = d3.scaleLinear().domain(Y_DOM).range([H-M.b, M.t]); // inverted
+  d3.select('#overlay').attr('width', W).attr('height', H);
+  buildQT();
+  render();
+}
+new ResizeObserver(resize).observe(wrap);
+
+// ═══════════════════════════════════════════════════
+// RENDER
+// ═══════════════════════════════════════════════════
+function isFiltered(d) {
+  if (st.filterYear  && d.y !== +st.filterYear) return true;
+  if (st.filterCat   && d.c !== st.filterCat)   return true;
+  if (st.filterClust && d.k !== +st.filterClust) return true;
+  return false;
+}
+
+function render() {
+  if (!W || !H) return;
+  ctx.clearRect(0, 0, W, H);
+  const hasBrush = st.brushed !== null;
+  const bSet = hasBrush ? new Set(st.brushed.map(d=>d._i)) : null;
+
+  // Two-pass: faded first so bright dots are on top
+  for (let pass = 0; pass < 2; pass++) {
+    for (const d of DATA) {
+      if (isFiltered(d)) continue;
+      const inRange  = d._ms >= st.t0 && d._ms <= st.t1;
+      const inBrush  = !hasBrush || bSet.has(d._i);
+      let alpha;
+      if      (!inRange && (!hasBrush||!inBrush)) alpha = 0.05;
+      else if (!inRange)                           alpha = 0.1;
+      else if (hasBrush && !inBrush)               alpha = 0.08;
+      else                                         alpha = 0.82;
+      const bright = alpha > 0.5;
+      if (pass === 0 && bright) continue;
+      if (pass === 1 && !bright) continue;
+
+      ctx.globalAlpha = alpha;
+      ctx.fillStyle   = getColor(d);
+      ctx.beginPath();
+      ctx.arc(xs(d.u1), ys(d.u2), R, 0, Math.PI*2);
+      ctx.fill();
+    }
+  }
+  ctx.globalAlpha = 1;
+  updateBarChart();
+}
+
+// ═══════════════════════════════════════════════════
+// BAR CHART RACE
+// ═══════════════════════════════════════════════════
+const bcEl = document.getElementById('barchart');
+let bcThrottle = 0;
+const BAR_MAX_PX = 150; // px for the largest bar at its peak value
+
+// barMaxValue: max count any group reaches across all date windows of the
+// current size (recomputed when filters/colorBy/range-size change, not during play)
+let barMaxValue = 1;
+
+function computeBarMax() {
+  const rangeSize = st.t1 - st.t0;
+  if (rangeSize <= 0) { barMaxValue = 1; return; }
+  const STEPS = 60;
+  let globalMax = 1;
+  for (let i = 0; i <= STEPS; i++) {
+    const w0 = minMs + (i / STEPS) * Math.max(0, maxMs - minMs - rangeSize);
+    const w1 = w0 + rangeSize;
+    const counts = new Map();
+    for (const d of DATA) {
+      if (isFiltered(d)) continue;
+      if (d._ms < w0 || d._ms > w1) continue;
+      const key = st.colorBy === 'year' ? d.y
+                : st.colorBy === 'category' ? d.c : d.k;
+      counts.set(key, (counts.get(key) || 0) + 1);
+    }
+    for (const v of counts.values()) if (v > globalMax) globalMax = v;
+  }
+  barMaxValue = globalMax;
+}
+
+function updateBarChart() {
+  const now = performance.now();
+  if (now - bcThrottle < 80) return; // ~12fps max
+  bcThrottle = now;
+
+  const counts = new Map();
+  for (const d of DATA) {
+    if (isFiltered(d)) continue;
+    if (d._ms < st.t0 || d._ms > st.t1) continue;
+    const key = st.colorBy === 'year' ? d.y
+              : st.colorBy === 'category' ? d.c : d.k;
+    counts.set(key, (counts.get(key) || 0) + 1);
+  }
+
+  const entries = [...counts.entries()].sort((a,b)=>b[1]-a[1]);
+  if (!entries.length) { bcEl.innerHTML=''; return; }
+
+  const headLabel = st.colorBy === 'year' ? 'Year'
+                  : st.colorBy === 'category' ? 'Category' : 'Cluster';
+
+  const rows = entries.slice(0, 22).map(([key, n])=>{
+    const barPx = Math.max(2, Math.round(n / barMaxValue * BAR_MAX_PX));
+    const col = st.colorBy === 'year'     ? yearColor(+key)
+              : st.colorBy === 'category' ? catColor(key)
+              : clusterColor(+key);
+    const lbl = st.colorBy === 'cluster'  ? (CLUSTER_NAMES[+key] ?? 'Cluster '+key)
+              : String(key);
+    return `<div class="bc-row">
+      <span class="bc-lbl" title="${lbl}">${lbl}</span>
+      <div class="bc-bwrap"><div class="bc-bar" style="width:${barPx}px;background:${col}"></div></div>
+      <span class="bc-cnt">${n}</span>
+    </div>`;
+  }).join('');
+
+  bcEl.innerHTML = `<div class="bc-head">by ${headLabel}</div>${rows}`;
+}
+function buildLegend() {
+  const el = document.getElementById('legend');
+  el.innerHTML = '';
+  if (st.colorBy === 'year') {
+    const stops = d3.range(0,1.01,.04).map(t=>d3.interpolateTurbo(0.12+t*0.76)).join(',');
+    const tickYears = [1999,2005,2010,2015,2020,2026];
+    const ticks = tickYears.map(y=>{
+      const pct = ((y-MIN_YR)/(MAX_YR-MIN_YR)*100).toFixed(1);
+      return `<span style="position:absolute;left:${pct}%;transform:translateX(-50%);color:#64748b">${y}</span>`;
+    }).join('');
+    el.innerHTML = `<div style="display:flex;flex-direction:column;gap:2px;margin:0 4px">
+      <div style="height:10px;width:160px;border-radius:3px;background:linear-gradient(to right,${stops})"></div>
+      <div style="position:relative;height:12px;width:160px;font-size:9px">${ticks}</div>
+    </div>`;
+  } else if (st.colorBy === 'category') {
+    CATS.slice(0,12).forEach(c=>{
+      const item = document.createElement('span');
+      item.className = 'leg-item';
+      item.innerHTML = `<span class="leg-dot" style="background:${catColor(c)}"></span>${c}`;
+      el.appendChild(item);
+    });
+  } else {
+    d3.range(11).forEach(k=>{
+      const item = document.createElement('span');
+      item.className = 'leg-item';
+      item.innerHTML = `<span class="leg-dot" style="background:${clusterColor(k)}"></span>${CLUSTER_NAMES[k]}`;
+      el.appendChild(item);
+    });
+  }
+}
+
+// ═══════════════════════════════════════════════════
+// CONTROLS: color-by
+// ═══════════════════════════════════════════════════
+document.getElementById('col-grp').addEventListener('click', e=>{
+  const btn = e.target.closest('[data-col]');
+  if (!btn) return;
+  st.colorBy = btn.dataset.col;
+  document.querySelectorAll('#col-grp .btn').forEach(b=>b.classList.toggle('active', b===btn));
+  computeBarMax(); buildLegend(); render();
+});
+
+// ═══════════════════════════════════════════════════
+// CONTROLS: filters
+// ═══════════════════════════════════════════════════
+function populateFilters() {
+  const years = [...new Set(DATA.map(d=>d.y))].filter(Boolean).sort((a,b)=>a-b);
+  const fy = document.getElementById('f-year');
+  years.forEach(y=>fy.add(new Option(y,y)));
+
+  const cats = [...new Set(DATA.map(d=>d.c))].sort();
+  const fc = document.getElementById('f-cat');
+  cats.forEach(c=>fc.add(new Option(c,c)));
+
+  const kk = [...new Set(DATA.map(d=>d.k))].sort((a,b)=>a-b);
+  const fk = document.getElementById('f-clust');
+  kk.forEach(k=>fk.add(new Option(k + ' · ' + (CLUSTER_NAMES[k] ?? 'Cluster '+k), k)));
+}
+
+document.getElementById('f-year').addEventListener('change', e=>{st.filterYear=e.target.value; refilterAndRebuild();});
+document.getElementById('f-cat').addEventListener('change', e=>{st.filterCat=e.target.value; refilterAndRebuild();});
+document.getElementById('f-clust').addEventListener('change', e=>{st.filterClust=e.target.value; refilterAndRebuild();});
+
+// ═══════════════════════════════════════════════════
+// DATE RANGE SLIDER
+// ═══════════════════════════════════════════════════
+const SMAX = 10000;
+const slS = document.getElementById('sl-start');
+const slE = document.getElementById('sl-end');
+const rfill = document.getElementById('rfill');
+const lblS = document.getElementById('lbl-start');
+const lblE = document.getElementById('lbl-end');
+const fmtDate = d3.timeFormat('%b %Y');
+
+function msToSlider(ms){ return Math.round((ms-minMs)/(maxMs-minMs)*SMAX); }
+function sliderToMs(v) { return minMs + (v/SMAX)*(maxMs-minMs); }
+
+// Snap to Jan 1 of nearest year when within ±60 days
+const SNAP_MS = 60 * 24 * 3600 * 1000;
+function snapToYear(ms) {
+  const yr = new Date(ms).getFullYear();
+  for (const y of [yr, yr+1, yr-1]) {
+    const jan1 = +new Date(y, 0, 1);
+    if (Math.abs(ms - jan1) <= SNAP_MS && jan1 >= minMs && jan1 <= maxMs) return jan1;
+  }
+  return ms;
+}
+
+function formatDuration(ms0, ms1) {
+  const days = (ms1 - ms0) / (24*3600*1000);
+  const months = Math.round(days / 30.44);
+  const y = Math.floor(months / 12), m = months % 12;
+  if (y === 0) return m + 'm';
+  if (m === 0) return y + 'y';
+  return y + 'y ' + m + 'm';
+}
+
+const durEl = document.getElementById('range-dur');
+
+function syncSliderUI() {
+  const s = msToSlider(st.t0), e = msToSlider(st.t1);
+  slS.value = s; slE.value = e;
+  rfill.style.left  = (s/SMAX*100)+'%';
+  rfill.style.width = ((e-s)/SMAX*100)+'%';
+  lblS.textContent = fmtDate(new Date(st.t0));
+  lblE.textContent = fmtDate(new Date(st.t1));
+  durEl.textContent = formatDuration(st.t0, st.t1);
+  durEl.style.left = ((s+e)/2/SMAX*100)+'%';
+}
+
+slS.addEventListener('input', ()=>{
+  let v = Math.min(+slS.value, +slE.value - 100);
+  slS.value = v;
+  const raw = sliderToMs(v);
+  st.t0 = snapToYear(raw);
+  computeBarMax(); syncSliderUI(); render();
+});
+slE.addEventListener('input', ()=>{
+  let v = Math.max(+slE.value, +slS.value + 100);
+  slE.value = v;
+  const raw = sliderToMs(v);
+  st.t1 = snapToYear(raw);
+  computeBarMax(); syncSliderUI(); render();
+});
+
+// Drag the fill bar to pan both thumbs together
+rfill.addEventListener('mousedown', e=>{
+  if (st.playing) return;
+  e.preventDefault();
+  const trackRect = document.getElementById('rwrap').getBoundingClientRect();
+  const dragX = e.clientX;
+  const dragT0 = st.t0, dragT1 = st.t1;
+  rfill.style.cursor = 'grabbing';
+  function onMove(ev) {
+    const dx = ev.clientX - dragX;
+    const deltaMs = (dx / trackRect.width) * (maxMs - minMs);
+    let t0 = dragT0 + deltaMs, t1 = dragT1 + deltaMs;
+    if (t0 < minMs) { t0 = minMs; t1 = minMs + (dragT1 - dragT0); }
+    if (t1 > maxMs) { t1 = maxMs; t0 = maxMs - (dragT1 - dragT0); }
+    st.t0 = t0; st.t1 = t1;
+    syncSliderUI(); render();
+  }
+  function onUp() {
+    rfill.style.cursor = 'grab';
+    // snap both ends to nearest year boundary on release
+    st.t0 = snapToYear(st.t0);
+    st.t1 = snapToYear(st.t1);
+    syncSliderUI(); render();
+    document.removeEventListener('mousemove', onMove);
+    document.removeEventListener('mouseup', onUp);
+  }
+  document.addEventListener('mousemove', onMove);
+  document.addEventListener('mouseup', onUp);
+});
+
+function buildYearTicks() {
+  const ticks = [1999,2002,2005,2008,2011,2014,2017,2020,2023,2026];
+  document.getElementById('year-ticks').innerHTML =
+    ticks.map(y=>`<span>${y}</span>`).join('');
+}
+
+// ═══════════════════════════════════════════════════
+// PLAY / PAUSE
+// ═══════════════════════════════════════════════════
+const YR_MS = 365.25*24*3600*1000;
+let playRaf, playPrev;
+
+function playStep(ts) {
+  if (!st.playing) return;
+  if (playPrev == null) playPrev = ts;
+  const dt = ts - playPrev; playPrev = ts;
+  const range = st.t1 - st.t0;            // keep window size fixed
+  st.t1 = Math.min(maxMs, st.t1 + dt * YR_MS / 1000);
+  st.t0 = Math.max(minMs, st.t1 - range);
+  syncSliderUI(); render();
+  if (st.t1 >= maxMs) { pausePlay(); return; }
+  playRaf = requestAnimationFrame(playStep);
+}
+
+function startPlay() {
+  if (st.t1 >= maxMs) {          // at end — reset window to the start
+    const range = st.t1 - st.t0;
+    st.t0 = minMs;
+    st.t1 = Math.min(maxMs, minMs + range);
+  }
+  st.playing = true; playPrev = null;
+  const btn = document.getElementById('play-btn');
+  btn.textContent='⏸ Pause'; btn.classList.add('playing');
+  playRaf = requestAnimationFrame(playStep);
+}
+
+function pausePlay() {
+  st.playing = false; cancelAnimationFrame(playRaf);
+  const btn = document.getElementById('play-btn');
+  btn.textContent='▶ Play'; btn.classList.remove('playing');
+}
+
+document.getElementById('play-btn').addEventListener('click', ()=>{
+  st.playing ? pausePlay() : startPlay();
+});
+
+// ═══════════════════════════════════════════════════
+// BRUSH
+// ═══════════════════════════════════════════════════
+const svg = d3.select('#overlay');
+const brush = d3.brush().on('end', onBrushEnd);
+svg.append('g').attr('class','brush').call(brush);
+
+function onBrushEnd(ev) {
+  if (!ev.selection) {
+    st.brushed = null;
+    document.getElementById('popup').classList.add('hidden');
+    render(); return;
+  }
+  const [[x0,y0],[x1,y1]] = ev.selection;
+  const pts = DATA.filter(d=>{
+    if (isFiltered(d)) return false;
+    const sx=xs(d.u1), sy=ys(d.u2);
+    return sx>=x0&&sx<=x1&&sy>=y0&&sy<=y1;
+  });
+  st.brushed = pts; render(); showPopup(pts);
+}
+
+// ═══════════════════════════════════════════════════
+// TOOLTIP (hover)
+// ═══════════════════════════════════════════════════
+const tip = document.getElementById('tip');
+// Simple quadtree for fast nearest-point lookup
+let qt;
+function buildQT() {
+  qt = d3.quadtree()
+    .x(d=>xs(d.u1)).y(d=>ys(d.u2))
+    .addAll(DATA.filter(d=>!isFiltered(d)));
+}
+
+// Tooltip on overlay (SVG is on top of canvas, intercepts all mouse events)
+document.getElementById('overlay').addEventListener('mousemove', e=>{
+  if (!qt || st.playing) { tip.style.display='none'; return;
+  }
+  if (e.buttons > 0) { tip.style.display='none'; return; } // hide during brush drag
+  const rect = canvas.getBoundingClientRect();
+  const mx=e.clientX-rect.left, my=e.clientY-rect.top;
+  const found = qt.find(mx, my, 12);
+  if (found) {
+    tip.style.display='block';
+    tip.style.left = (e.clientX+14)+'px';
+    tip.style.top  = (e.clientY-10)+'px';
+    tip.innerHTML = `<strong>${found.t}</strong><br><span style="color:#94a3b8">${found.d} · ${found.c} · #${found.k}</span>`;
+  } else {
+    tip.style.display='none';
+  }
+});
+document.getElementById('overlay').addEventListener('mouseleave', ()=>{ tip.style.display='none'; });
+
+// Rebuild QT when filters change — also serves as the filter change handler
+function refilterAndRebuild() { if(xs) buildQT(); computeBarMax(); render(); }
+// (filter change listeners consolidated above)
+
+// ═══════════════════════════════════════════════════
+// POPUP
+// ═══════════════════════════════════════════════════
+let pSortBy='selected', pSortAsc=true;
+
+function showPopup(pts) {
+  if (!pts||!pts.length) { document.getElementById('popup').classList.add('hidden'); return; }
+  document.getElementById('pop-title').textContent = `${pts.length} post${pts.length!==1?'s':''} selected`;
+  document.getElementById('popup').classList.remove('hidden');
+  renderPopup(pts);
+}
+
+function renderPopup(pts) {
+  const sorted = [...pts].sort((a,b)=>{
+    if (pSortBy === 'selected') {
+      const sa = a._ms >= st.t0 && a._ms <= st.t1;
+      const sb = b._ms >= st.t0 && b._ms <= st.t1;
+      if (sa !== sb) return (pSortAsc ? (sa?-1:1) : (sa?1:-1));
+      return b._ms - a._ms; // secondary: date descending
+    }
+    let va,vb;
+    if (pSortBy==='date')     { va=a._ms;  vb=b._ms; }
+    else if (pSortBy==='category') { va=a.c; vb=b.c; }
+    else if (pSortBy==='cluster')  { va=a.k; vb=b.k; }
+    else                      { va=a.t;   vb=b.t; }
+    if (va<vb) return pSortAsc?-1:1;
+    if (va>vb) return pSortAsc?1:-1;
+    return 0;
+  });
+
+  const DOW = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+  const MON = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+  document.getElementById('pop-body').innerHTML = sorted.map(d=>{
+    const dt=d._dt;
+    const dateStr=`${DOW[dt.getDay()]} ${dt.getDate()} ${MON[dt.getMonth()]} <strong>${dt.getFullYear()}</strong>`;
+    const cc=catColor(d.c);
+    const kc=clusterColor(d.k);
+    const kn=CLUSTER_NAMES[d.k] ?? `Cluster ${d.k}`;
+    const inRange = d._ms >= st.t0 && d._ms <= st.t1;
+    return `<tr style="opacity:${inRange?1:.45}">
+      <td style="text-align:center;font-size:14px;color:${inRange?'#3b82f6':'#475569'}">${inRange?'●':'○'}</td>
+      <td style="text-align:right;white-space:nowrap"><a href="${BASE}${dt.getFullYear()}/" target="_blank">${dateStr}</a></td>
+      <td style="white-space:nowrap"><a href="${BASE}category/${d.c}/" target="_blank"><span class="cat-dot" style="background:${cc}"></span> ${d.c}</a></td>
+      <td style="white-space:nowrap"><span class="clust-sq" style="background:${kc}"></span> <span style="color:#94a3b8">${kn}</span></td>
+      <td><a href="${BASE}${d.s}/" target="_blank">${d.t}</a></td>
+    </tr>`;
+  }).join('');
+
+  // Update sort headers
+  document.querySelectorAll('#pop-table thead th').forEach(th=>{
+    const col=th.dataset.sort;
+    const labels={selected:'✓',date:'Date',category:'Category',cluster:'Cluster',title:'Title'};
+    const arrow = col===pSortBy ? (pSortAsc?' ▲':' ▼') : '';
+    th.textContent = labels[col] + arrow;
+    if (col==='date') th.style.textAlign='right';
+    if (col==='selected') th.style.textAlign='center';
+    th.classList.toggle('sorted', col===pSortBy);
+  });
+}
+
+document.querySelector('#pop-table thead').addEventListener('click', e=>{
+  const th=e.target.closest('th[data-sort]');
+  if(!th) return;
+  const col=th.dataset.sort;
+  if(col===pSortBy) pSortAsc=!pSortAsc; else { pSortBy=col; pSortAsc=true; }
+  if(st.brushed) renderPopup(st.brushed);
+});
+
+document.getElementById('pop-close').addEventListener('click', ()=>{
+  document.getElementById('popup').classList.add('hidden');
+  st.brushed=null;
+  svg.select('.brush').call(brush.move,null);
+  render();
+});
+document.addEventListener('keydown', e=>{
+  if(e.key==='Escape'){
+    document.getElementById('popup').classList.add('hidden');
+    st.brushed=null;
+    svg.select('.brush').call(brush.move,null);
+    render();
+  }
+});
+
+// ═══════════════════════════════════════════════════
+// INIT — load data then wire everything up
+// ═══════════════════════════════════════════════════
+(async () => {
+  const loadEl = document.getElementById('loading');
+  try {
+    const json = await fetch('blogmap.json').then(r => { if(!r.ok) throw new Error(r.status); return r.json(); });
+
+    DATA = json.data;
+    CATS = json.cats;
+    MIN_YR = json.minYear;
+    MAX_YR = json.maxYear;
+    X_DOM  = json.xDom;
+    Y_DOM  = json.yDom;
+
+    DATA.forEach((d,i)=>{
+      d._i = i;
+      d._ms = +new Date(d.d);
+      d._dt = new Date(d.d);
+    });
+
+    minMs = d3.min(DATA, d => d._ms);
+    maxMs = d3.max(DATA, d => d._ms);
+
+    st = { colorBy:'category', filterYear:'', filterCat:'', filterClust:'',
+           t0:minMs, t1:maxMs, brushed:null, playing:false, sortBy:'date', sortAsc:true };
+
+    yearColor  = d3.scaleSequential(t => d3.interpolateTurbo(0.12 + t * 0.76)).domain([MIN_YR, MAX_YR]);
+    catColor   = d3.scaleOrdinal().domain(CATS).range(CAT_PAL).unknown('#6b7280');
+    clusterColor = d3.scaleOrdinal().domain(d3.range(CLUST_PAL.length)).range(CLUST_PAL).unknown('#6b7280');
+
+    if (loadEl) loadEl.remove();
+    populateFilters();
+    buildLegend();
+    buildYearTicks();
+    syncSliderUI();
+    computeBarMax(); // must run before resize() which triggers the first render
+    resize(); // calls buildQT() after xs/ys are set
+  } catch(err) {
+    if (loadEl) loadEl.textContent = '⚠ Failed to load blogmap.json — ' + err.message;
+    console.error(err);
+  }
+})();
+</script>
+</body>
+</html>

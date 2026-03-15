@@ -16,7 +16,8 @@ Here's AI advice I generally give people.
 - **You've hired an intern**. Don't treat it like a search engine. It's as smart as a post-graduate intern - smarter than the average professional in many domains. Give it bigger tasks. Verify its work and correct it ("You missed this part, try again.")
 - **Use it for validation**. LLMs can make mistakes, but using it to fact-check books, articles, emails, your work, etc. is safe and effective.
 - **Have AI cross-check AI**. Ask it to find all the mistakes it made and give you citations. Have another AI find all the errors. They're pretty good at that.
-- **Critique your work**. Ask AI to roleplay as a skeptical customer, boss, or critic. Have it quiz you with hard questions to stress test your work.
+- **Critique/steelman your work**. Ask for counterarguments. Have it roleplay a skeptical customer, boss, or critic; quiz you with hard questions to stress test your work.
+- **Use emotions as prompts**. Unresolved emotions are a group starting point for AI. "I feel anxious...", "I'm annoyed by ...", "I wish I had...", etc. are great starting points to
 - **Ask for easier output**. You spend a lot of time validating or implementing AI output. Have AI structure so it's easy for you to review or do. Your time is the bottleneck. Easy beats best.
 - **Ask for multiple, diverse, outputs**. You don't know what you want, or what it can do. Ask for 5–10 variations. Ask _multiple_ models. Ask in _parallel_. Drop the weak ones quickly.
 - **Use voice mode on mobile** to talk to the AI while walking or thinking. "Ramble" at the AI - it can structure your thoughts. This capitalizes on dead time (e.g. commuting) and also lets you dump context and thoughts faster than you type.
@@ -31,7 +32,7 @@ Here are specific ideas you can try:
 - **Repurpose content and data**. <!-- TODO -->
 - **Read papers, books, and attachments**. Have it rewrite in the style of your favorite author (e.g. Malcolm Gladwell) to make dry content more engaging. Add "ELI15" (Explain Like I'm 15) for simplicity.
 - **Use it when stuck**. When you hit a mental wall, use it as a thinking partner. Have it give a first draft, ask it to interview you, ask what an expert or a person you admire would do, or just ramble your thoughts to it.
-- **Hire an expert**. It has been trained on the entire Internet and all books. You can hire it as a personal financial advisor, career coach, relationship counselor, or fitness trainer, and more. For example, hire as a:
+- **Hire an expert**. "Hire" it as a personal financial advisor, career coach, relationship counselor, or fitness trainer, and more. For example, hire as a:
   - **Doctor**. Have it summarize your health history, identify gaps, and suggest questions to ask your doctor.
   - **Detective**. Ask it to find out what happened to a long-lost friend or what a client has been up to.
   - **Financial advisor**. Ask it to interview your about your finances, goals, and risk tolerance, then research a personalized investment plan.
@@ -102,36 +103,45 @@ Thoughts on the governance & adoption of AI (e.g. organization deployment, chall
 
 ## What should I learn?
 
+- Learn what AI _won't_ do well even in the future. Practice manually, then use AI for critique & coaching.
+- Delegate _blindly_ what AI does well. Use saved time to learn new skills.
+
 <!-- https://gemini.google.com/app/0fc3ca79c2138048 -->
 
-More important skills:
+Critical skills:
 
-- **Curiosity**. Our assumptions are obsolete. Practice asking AI: "I thought that's impossible/hard, but is is possible/easy now? How?"
-- **How to learn**. Learn how to learn faster. You'll need to learn many subjects quickly (especially to judge AI output).
-- **Management**. Shift from doing the work yourself to managing "teams" of AI interns and agents to handle execution.
+- **Asking questions**. Learn to ask _lots_ of _good_ questions that nudge AI & humans to better results, new horizons. Curiosity helps.
+- **Thinking of useful things**. Learn to quickly discover _lots_ of useful things for yourself and others. AI can execute them fast.
+- **Validation**. AI works fast. Learn shortcuts to compare versions, find mistakes, give feedback - in unfamiliar areas. (Consultants learn this skill well.)
 - **People skills**. Prioritize empathy, negotiation, judgment, and communication are less easy to delegate to AI agents.
+
+Growing skills:
+
+- **Context engineering**. Learn what data/context to feed AI and what you can/should skip for the best results.
+- **Tooling**. Learn how to connect things - especially to agentic systems - to give them more execution power.
+- **Learning fast**. Learn how to learn faster. You'll need to learn many subjects quickly (especially to judge AI output).
+- **Management**. Shift from doing the work yourself to managing "teams" of AI interns and agents to handle execution.
 - **Style & art**. Learn to guide AI to write, draw, code, etc. in different styles, formats, and approaches for different audiences.
 - **Storytelling**. Learn how to guide AI to deliver compelling narratives that move people.
-- **Validation**. Learn to review sceptically, verify, and critique AI outputs even when you don't know the domain. (Consultants learn this skill well.)
-- **Problem Breakdown**. Learn to breaking problems down into small, logical tasks that people/AI can execute reliably.
+- **Problem breakdown**. Learn to breaking problems down into small, logical tasks that people/AI can execute reliably.
 - **Prototyping**. Learn to build (and iterate on) the smallest working solution (using AI agents) ultra-rapidly.
-- **Context Engineering**. Learn what data/context to feed AI and what you can/should skip for the best results.
-- **Data Organization**. Learn to structure data to make data more analyzable.
+- **Data organization**. Learn to structure data to make data more analyzable.
+- **Hard to define skills**. Skills that are easy to define are easy to train AI models on. It's what we can't even name that's valuable.
 
-Less important skills:
+Declining skills:
 
 - **Coding syntax**. AI can write it.
 - **Factual knowledge**. AI can look it up or derive it.
 - **Domain depth**. Unless you are (or can become) a top expert, AI can fill in gaps. Focus on _multi-disciplinary_ knowledge instead.
 - **Following rules**. AI can implement a process better.
 - **Hard work**. Returns are disproportiate. Finding the _right_ problems matters more than solving the lesser problems.
-- **Building Models**. AI companies will take care of it.
+- **Building models**. AI companies will take care of it.
 - **Data wrangling**. AI can handle data engineering, modeling, analysis, and visualization.
 - **Tool expertise**. AI can use tools for you.
 - **Intermediation**. AI can translate between groups - e.g. business analysts.
 - **Originating ideas**. AI can brainstorm ideas. Focus on evaluating and selecting ideas based on unique context.
-- **Drafting from Scratch**. The ability to write a first draft (code or text) is less valuable than the ability to edit and refine an AI-generated baseline.
-- **Junior-Level Execution**. Routine "grunt work," basic summaries, and entry-level analysis are being fully automated by LLMs.
+- **Drafting from scratch**. The ability to write a first draft (code or text) is less valuable than the ability to edit and refine an AI-generated baseline.
+- **Junior-Level execution**. Routine "grunt work," basic summaries, and entry-level analysis are being fully automated by LLMs.
 
 ## How to develop taste?
 
@@ -149,9 +159,6 @@ AI, like [most automation, erodes skills](https://link.springer.com/article/10.1
 - **GPS** eroded navigation skills. We **accepted** this and don't care much. Same for phone numbers, spelling, mental maths.
 
 Think about how the skill we lose will evolve. Then enforce, level-up, switch, or accept accordingly.
-
-For skills growing in value, practice manually, then use AI for critique & coaching.
-For skills shrinking in value, habituate delegating _blindly_ to AI. Use saved time to learn new skills.
 
 ## What happens to people when AI takes their jobs?
 
