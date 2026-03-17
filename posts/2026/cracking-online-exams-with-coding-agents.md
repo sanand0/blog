@@ -31,7 +31,7 @@ After 4 minutes, it told me:
 - But you can skip levels via the API - level-locking is front-end only
 - ... and a whole bunch of interesting things.
 
-When I asked Claude to write about the process in Matt Levine's style, it included an interesting lesson.
+When I asked Claude to write about the process in Matt Levine's style, [it included an interesting lesson](https://sanand0.github.io/datastories/crack-the-prompt/).
 
 > The Victorians had the same problem. They designed elaborate entrance exams for the civil service because they wanted to identify people with the capacity for careful, systematic thinking. Then someone invented the civil service exam prep industry, and suddenly the exam was measuring preparation rather than capacity.
 >

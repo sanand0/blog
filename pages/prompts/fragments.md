@@ -91,7 +91,9 @@ Use clear speech bubbles with capitalized text.
 Give me ideas for a single panel comic that VISUALLY communicates the spirit of (or the central or key message of) the content below.
 Pick a SINGLE point to convey.
 Use simple ideas or analogies that are highly relatable and easily drawable and won't need text to explain.
+It doesn't have to involve AI, robots, tech, etc. Simple, relatable analogies emphasizing the central concept are perfect.
 Funny is good.
+DO NOT DRAW. Just give me simple, funny ideas.
 ```
 
 ## Draw Infographic poster

@@ -6,6 +6,7 @@ classes: wrap-code
 ---
 
 Transcribe call recordings guessing speaker names using the latest Gemini Pro model on [Google AI Studio](https://aistudio.google.com/prompts/new_chat).
+Append all speakers, and who spoke when, for context.
 
 ```markdown
 Transcribe this call recording with Anand (LLM expert, Straive/Gramener).
@@ -18,6 +19,4 @@ Break it into LOGICAL paragraphs, each paragraph with a **Speaker**: [Timestamp]
 Guess speaker names. If unsure, use **Unsure**: ...
 **Make key points / takeaways / memorable statements bold**.
 **I repeat: Transcribe EVERY part of the conversation. Don't miss any turns.**
-
-<!-- #TODO List all speakers, and who spoke when, for context -->
 ```
