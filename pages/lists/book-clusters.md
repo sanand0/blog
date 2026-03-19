@@ -17,7 +17,7 @@ Rather than read individual books, why not read clusters on related topics? Usin
   - [A Mind for Numbers (Barbara Oakley, 2014)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
   - [Ultralearning (Scott Young, 2019)](https://www.goodreads.com/book/show/44770129-ultralearning)
   - [How to Take Smart Notes (Sönke Ahrens, 2017)](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes)
-- [x] Motivation, grit, and “how people get good” (2016–2019). [#](https://claude.ai/chat/ee0c099e-ed4c-46d1-9dcd-111010334375) [Gemini](/blog/notes/gemini-book-summary-grit-peak-range/)
+- [x] Motivation, grit, and “how people get good” (2016–2019). [#](https://claude.ai/chat/ee0c099e-ed4c-46d1-9dcd-111010334375) [Gemini](https://www.s-anand.net/blog/notes/gemini-book-summary-grit-peak-range/)
   - [Grit (Angela Duckworth, 2016)](https://www.goodreads.com/book/show/27213329-grit)
   - [Peak (Anders Ericsson & Robert Pool, 2016)](https://www.goodreads.com/book/show/26312997-peak)
   - [Range (David Epstein, 2019)](https://www.goodreads.com/book/show/41795733-range)

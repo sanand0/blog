@@ -62,6 +62,7 @@ Thoughts on technical use of AI (e.g. in when coding with AI)
 - **Vibe code first**. Ask for what you want. Let AI build it. If it works, AND is what you want, AND needs to be maintainable, THEN look at code.
 - **Non-coders can code**. Domain experts (e.g. HR, Finance, etc.) can build their own tools using this way, bypassing traditional IT bottlenecks.
 - **Use meta-prompting**. If you need help, ask AI to write and refine your prompt before you use it for the actual coding task.
+- **Vibe code end-to-end**. Send AI the recording of your client call and ask it to spec, design, build, test, deploy, and monitor. Stay out of the way; review at the end.
 - **Paste the errors**. When code fails, paste the exact error log or a screenshot into the chat. The model is often its own best debugger.
 - **Code is disposable**. Code is an AI compilation artifact. Don't get attached to it. Scrap and re-tsart.
 - **The "Two-Strike" Rule**. If it fails to fix a bug after two attempts, abandon the thread and restart. It is often faster with a fresh context than to debug a confused model.
@@ -72,7 +73,7 @@ Thoughts on technical use of AI (e.g. in when coding with AI)
 - **Maintain reference files**. Maintain an up-to-date `AGENTS.md` (or even `README.md`) that explains your intent, code, architecture, to the AI. Saves repeated explanations.
 - **Generate tests first**. For maintainable software, have it define tests _first_. That makes working code easier. Often, tests can be 2x the code size.
 - **Use Playwright to verify**. Have Playwright take screenshots and inspect DOM elements (e.g. using CDP) to verify frontend work. Saves manual review time.
-- **Run post-mortems**. When it fails, or after any session, ask it to analyze what went well, what didn't, and how to improve next time.
+- **Run post-mortems**. When it fails, or after any session, ask it to analyze what went well, what didn't, and how to improve next time. Save these in a SKILL.md.
 - **Specify developer styles**. Ask it to write in the style of a famous developer (e.g. Luke Edwards) or repo (e.g. SciPy) or team (e.g. Astral) that's apt for the task.
 
 ## How to drive AI adoption?
@@ -92,6 +93,7 @@ Thoughts on the governance & adoption of AI (e.g. organization deployment, chall
 - **Standardize evaluation**. You'll move MUCH faster with evaluation frameworks (like "LLM-as-a-judge") to score model performance and catch regressions.
 - **Lay a good data foundation**. Convert unstructured documents into (multiple) structured formats. AI output quality depends on input data quality.
 - **Let anyone build tools**. Non-technical "citizen developers" to building their own tools using English, de-bottlenecks IT and dramatically increases prodictivity.
+- **Prefer less experienced people**. Experienced people's preconceptions hinder AI. Interns and outsiders bring out the best in AI.
 - **Let the owner drive it**. Alice building Bob an AI solution rarely works. Bob building it himself (with Alice's help) works better.
 - **Build, don't plan**. When execution is fast and cheap, don't agonize over the right solution. Build them all. Throw away what doesn't work.
 - **Buy, don't build**. Don't train models. They're soon obsolete. Build orchestration layers and proprietary data workflows instead.

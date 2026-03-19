@@ -85,6 +85,16 @@ Single panel.
 Use clear speech bubbles with capitalized text.
 ```
 
+## Demo explanation
+
+Copy-paste content from an application to demo as Markdown. Then add this.
+
+```markdown
+Given this content from an application, how should I demo it and what should I point out as specific examples. Use concise bullets.
+```
+
+<!-- Example: https://gemini.google.com/app/cb939e416e331490 -->
+
 ## Draw Comic using Suggestion
 
 ```markdown
