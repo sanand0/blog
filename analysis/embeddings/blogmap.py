@@ -213,6 +213,16 @@ def main(refit: bool = False) -> None:
         emb = pd.read_parquet(EMBEDDINGS_PARQUET, columns=["path", "embedding"])
         emb = emb[emb["path"].isin(new_paths)].copy()
 
+        if emb.empty:
+            # New markdown files exist but embeddings haven't been generated yet.
+            # Fall through with the existing cache and skip projection.
+            print("  No embeddings found for new posts — re-run embeddings.py first")
+            cache = pd.read_parquet(coords_file)
+            bounds = json.loads(bounds_file.read_text()) if bounds_file.exists() else None
+            frame = meta.merge(cache[["path", "umap_1", "umap_2", "cluster"]], on="path")
+            _write_json(frame, bounds)
+            return
+
         import joblib
         from sklearn.preprocessing import normalize
 

@@ -157,4 +157,8 @@ Profile analysis/embeddings/blogmap.py to see what takes so much time even when 
 
 When analysis/embeddings/blogmap/index.html loads, all the bars have equal width. Make sure their width is proportional to the values.
 
+---
+
+When I run `uv run analysis/embeddings/blogmap.py` I get this error "ValueError: need at least one array to concatenate" at line 228: `new_vecs = normalize(np.vstack(emb["embedding"].tolist()).astype(np.float32))`
+
 <!-- copilot --resume=1e368e87-f655-4a84-b1bc-562501efd48d -->

@@ -1,6 +1,7 @@
 ---
 title: Rofi vs Kanata
 date: 2026-03-01T15:25:48+08:00
+lastmod: 2026-03-19T20:01:24+05:30
 categories:
   - tools
 ---
@@ -56,3 +57,7 @@ This is a killer feature. I often use it to:
 ---
 
 I'm still keen to find a use for Kanata, but for now, my use of Rofi will continue to grow.
+
+---
+
+**19 Mar 2026**: The [Compose key](https://crescentro.se/posts/compose-key/) is meant to combine two keystrokes to create a new character - which Kanata offers as a feature with _any_ key.

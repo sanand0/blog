@@ -1,7 +1,7 @@
 ---
 title: Newspapers in Tamil movies
 date: "2022-10-06T08:43:13Z"
-lastmod: "2023-05-13T06:56:30Z"
+lastmod: 2026-03-19T22:29:31+05:30
 categories:
   - funny
 wp_id: 3367
@@ -56,3 +56,7 @@ On the other hand, the Telugu movie [Liger (2022)](https://www.imdb.com/title/tt
 [The Warrior (2022)](https://en.wikipedia.org/wiki/The_Warriorr) has a fax message with an order of suspension from the "Comissioner of Police" for the "Superintend of police" where "under ur regime as the superintend of police at kurnool havemisused your power ..."
 
 ![](/blog/assets/order.webp)
+
+In [Sarkaru Vaari Paata](https://youtu.be/zURhyj3nM8g?t=7175), "there are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use..." -- which GitHub Copilot auto-completed without my having to prompt it!
+
+![](https://files.s-anand.net/images/newspaper-sarkaru-vaari-paata.avif)

@@ -22,7 +22,7 @@ I was at a panel on [AI in SDLC](https://2026.pyconfhyd.org/) at PyConf. Here's 
 **Learning**
 
 - Prefer interns / outsiders over experts. They don't slow the process with preconceptions and leverage AI better.
-- _Stop_ learning what I does well. Learn what AI fails at - using AI. Keep re-assessing these.
+- _Stop_ learning what AI does well. Learn what AI fails at - using AI. Keep re-assessing these.
 
 **Adoption**
 
