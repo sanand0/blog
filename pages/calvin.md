@@ -61,6 +61,7 @@ robotsNoIndex: true
     border-radius: 12px;
     border: 1px solid rgba(28, 29, 27, 0.15);
     background: #fffaf3;
+    color: var(--calvin-ink);
     font-size: 1rem;
   }
 
