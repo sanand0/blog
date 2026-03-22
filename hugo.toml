@@ -69,8 +69,15 @@ cleanDestinationDir = true
   apple_touch_icon = "assets/favicon.svg"
   safari_pinned_tab = "assets/favicon.svg"
 
+[outputFormats]
+  [outputFormats.navjson]
+    mediaType = "application/json"
+    baseName = "nav"
+    isPlainText = true
+    notAlternative = true
+
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "navjson"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]

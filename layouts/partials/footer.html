@@ -1,43 +1,17 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
-    {{- $main_sections := site.Params.mainSections | default (slice "posts") -}}
-    {{- $base_path := (urls.Parse site.BaseURL).Path | strings.TrimSuffix "/" -}}
-    {{- $posts := where site.RegularPages "Type" "in" $main_sections -}}
-    {{- $pages := where site.Pages "Kind" "in" (slice "page" "section") -}}
-    {{- $pages := where $pages "Type" "not in" $main_sections -}}
     <div class="footer-columns">
-        <details class="footer-section">
+        <details class="footer-section" id="footer-categories">
             <summary>Categories</summary>
-            <ul>
-                {{- range site.Taxonomies.categories.ByCount }}
-                <li><a href="{{ partial "rel_link.html" (dict "from" $ "to" .Page.RelPermalink) }}">{{ .Page.LinkTitle }}</a> ({{ .Count }})</li>
-                {{- end }}
-            </ul>
+            <ul></ul>
         </details>
-        <details class="footer-section">
+        <details class="footer-section" id="footer-archives">
             <summary>Archives</summary>
-            <ul>
-                {{- range $posts.GroupByDate "2006" }}
-                <li><a href="{{ partial "rel_link.html" (dict "from" $ "to" (printf "%s/%s/" $base_path .Key)) }}">{{ .Key }}</a> ({{ len .Pages }})</li>
-                {{- end }}
-            </ul>
+            <ul></ul>
         </details>
-        <details class="footer-section">
+        <details class="footer-section" id="footer-pages">
             <summary>Pages</summary>
-            <ul>{{/* Show only top-level pages */}}
-                {{- range sort $pages "Title" }}
-                {{- $path := "" -}}
-                {{- with .File -}}
-                {{- $path = .Path -}}
-                {{- end -}}
-                {{- $path = strings.TrimPrefix "content/" $path -}}
-                {{- $is_top := and (eq .Kind "page") (not (strings.Contains $path "/")) -}}
-                {{- $is_section := and (eq .Kind "section") (strings.HasSuffix $path "/_index.md") -}}
-                {{- if and $path (fileExists (printf "pages/%s" $path)) (or $is_top $is_section) -}}
-                <li><a href="{{ partial "rel_link.html" (dict "from" $ "to" .RelPermalink) }}">{{ .LinkTitle }}</a></li>
-                {{- end -}}
-                {{- end }}
-            </ul>
+            <ul></ul>
         </details>
     </div>
 </footer>
@@ -59,9 +33,11 @@
 
 {{- $enable_code_copy := and (eq .Kind "page") (ne .Layout "archives") (ne .Layout "search") (.Param "ShowCodeCopyButtons") -}}
 {{- $script_src := partial "rel_link.html" (dict "from" . "to" "js/site.js") -}}
+{{- $nav_json_src := partial "rel_link.html" (dict "from" . "to" "nav.json") -}}
 <script
     src="{{ $script_src }}"
     data-site-script="true"
+    data-nav-json="{{ $nav_json_src }}"
     data-enable-scroll-top="{{ if not site.Params.disableScrollToTop }}true{{ else }}false{{ end }}"
     data-enable-theme-toggle="{{ if not site.Params.disableThemeToggle }}true{{ else }}false{{ end }}"
     data-enable-code-copy="{{ if $enable_code_copy }}true{{ else }}false{{ end }}"

@@ -2,6 +2,32 @@
   const script = document.currentScript
     || document.querySelector("script[data-site-script=\"true\"]");
   const data = script ? script.dataset : {};
+  const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+
+  if (data.navJson) {
+    fetch(data.navJson)
+      .then((r) => r.json())
+      .then((nav) => {
+        const catUl = document.querySelector("#footer-categories ul");
+        if (catUl) {
+          catUl.innerHTML = nav.categories.map((c) =>
+            `<li><a href="${esc(c.url)}">${esc(c.name)}</a> (${c.count})</li>`
+          ).join("");
+        }
+        const arcUl = document.querySelector("#footer-archives ul");
+        if (arcUl) {
+          arcUl.innerHTML = nav.archives.map((a) =>
+            `<li><a href="${esc(a.url)}">${esc(a.label)}</a> (${a.count})</li>`
+          ).join("");
+        }
+        const pageUl = document.querySelector("#footer-pages ul");
+        if (pageUl) {
+          pageUl.innerHTML = nav.pages.map((p) =>
+            `<li><a href="${esc(p.url)}">${esc(p.name)}</a></li>`
+          ).join("");
+        }
+      });
+  }
   const enableScrollTop = data.enableScrollTop === "true";
   const enableThemeToggle = data.enableThemeToggle === "true";
   const enableCodeCopy = data.enableCodeCopy === "true";
