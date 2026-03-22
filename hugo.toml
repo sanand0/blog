@@ -49,7 +49,7 @@ cleanDestinationDir = true
   [params.author]
     name = "S Anand"
     email = ""
-  logoURL = "/"
+  logoURL = "https://www.s-anand.net/"
   description = "Technology, education and fun"
   defaultTheme = "light"
   disableThemeToggle = false
