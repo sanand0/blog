@@ -2,7 +2,7 @@
 title: AI for film dialogues
 date: 2026-03-01T19:13:05+08:00
 categories:
-  - llm
+  - llms
 ---
 
 ![](https://files.s-anand.net/images/2026-03-01-ai-for-film-dialogues.avif)

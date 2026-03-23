@@ -1,4 +1,5 @@
 .footer {
+  --footer-accent: #b85c00;
   flex-direction: column;
   align-items: stretch;
   gap: 1.5rem;
@@ -11,6 +12,7 @@
 }
 
 html[data-theme="dark"] .footer {
+  --footer-accent: #f5a623;
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.06), transparent),
     var(--theme);
@@ -23,13 +25,54 @@ html[data-theme="dark"] .footer {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
 
+/* Footer section headers — always-visible heading on desktop, toggle on mobile */
 .footer-section summary {
-  font-size: 0.85rem;
-  font-weight: bold;
-  letter-spacing: 0.08em;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
-  margin: 0 0 0.5rem 0;
+  color: var(--secondary);
+  padding-bottom: 0.6rem;
+  margin-bottom: 0.25rem;
+  border-bottom: 1px solid var(--border);
   cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: color 0.15s;
+}
+
+.footer-section summary::-webkit-details-marker { display: none; }
+
+/* Chevron — rotates when open */
+.footer-section summary::after {
+  content: '›';
+  margin-left: auto;
+  font-size: 1rem;
+  line-height: 1;
+  opacity: 0.4;
+  transition: transform 0.2s, opacity 0.2s;
+  transform: rotate(90deg);
+}
+
+.footer-section:not([open]) summary::after {
+  transform: rotate(0deg);
+}
+
+.footer-section summary:hover {
+  color: var(--primary);
+}
+
+/* On desktop: summary is decorative, no toggle needed */
+@media (min-width: 640px) {
+  .footer-section summary {
+    cursor: default;
+    pointer-events: none;
+  }
+  .footer-section summary::after {
+    display: none;
+  }
 }
 
 .footer-section ul {
@@ -39,7 +82,67 @@ html[data-theme="dark"] .footer {
 }
 
 .footer-section li {
-  margin: 0.25rem 0;
+  margin: 0;
+}
+
+/* Full-width links with name + count layout */
+.footer-section a {
+  display: flex;
+  align-items: baseline;
+  width: 100%;
+  padding: 0.28rem 0;
+  gap: 0.5rem;
+  color: var(--secondary);
+  text-decoration: none;
+  position: relative;
+  transition: color 0.15s;
+  border-bottom: none;
+}
+
+.footer-section a:hover,
+.footer-section a:focus {
+  color: var(--primary);
+  border-bottom: none;
+}
+
+/* Proportional data bar: 1px line below counted links (width via --bar-width; 0% = invisible) */
+.footer-section a::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 1px;
+  width: var(--bar-width, 0%);
+  background: var(--footer-accent);
+  opacity: 0.3;
+  transition: opacity 0.2s;
+}
+
+.footer-section a:hover::after {
+  opacity: 0.75;
+}
+
+/* Link label — takes remaining space, clips if too long */
+.nav-name {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Post count — tabular, monospace, muted, right-aligned */
+.nav-count {
+  flex-shrink: 0;
+  font-size: 0.7rem;
+  font-family: ui-monospace, 'Cascadia Mono', 'Fira Code', monospace;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.5;
+  letter-spacing: 0;
+}
+
+.footer-section a:hover .nav-count {
+  opacity: 0.8;
 }
 
 footer.footer-meta {

@@ -46,11 +46,11 @@ cleanDestinationDir = true
     target = "static/assets"
 
 [params]
+  logoURL = "https://www.s-anand.net/"
+  description = "Technology, education and fun"
   [params.author]
     name = "S Anand"
     email = ""
-  logoURL = "/"
-  description = "Technology, education and fun"
   defaultTheme = "light"
   disableThemeToggle = false
   ShowBreadCrumbs = false
@@ -69,8 +69,15 @@ cleanDestinationDir = true
   apple_touch_icon = "assets/favicon.svg"
   safari_pinned_tab = "assets/favicon.svg"
 
+[outputFormats]
+  [outputFormats.navjson]
+    mediaType = "application/json"
+    baseName = "nav"
+    isPlainText = true
+    notAlternative = true
+
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "navjson"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]

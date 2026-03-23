@@ -2,7 +2,7 @@
 title: Discounts in Bangalore
 date: "2001-01-07T12:00:00Z"
 categories:
-  - links
+  - bangalore
 wp_id: 1982
 ---
 

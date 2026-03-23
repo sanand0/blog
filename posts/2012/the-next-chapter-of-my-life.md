@@ -5,6 +5,7 @@ lastmod: "2012-03-07T12:32:48Z"
 categories:
   - how-i-do-things
   - interesting-experiences
+  - bangalore
 wp_id: 2705
 ---
 

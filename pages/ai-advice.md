@@ -23,7 +23,7 @@ Here's AI advice I generally give people.
 - **Use voice mode on mobile** to talk to the AI while walking or thinking. "Ramble" at the AI - it can structure your thoughts. This capitalizes on dead time (e.g. commuting) and also lets you dump context and thoughts faster than you type.
 - **Improve your tools** by asking it to optimize your laptop / software, improve settings or configurations, and checking if the results are better.
 - **Vibe code your own software**. As a non-technical person, build apps to solve your own problems. Don't learn to code. Just tell AI tools what you want and have them build it.
-- **Have it write code to process numbers**. LLMs are bad at math but good at writing code. Tell it to write code to analyze numbers instead of answering directly.
+- **Have it write code to process numbers**. LLMs ~~are~~ were bad at math but good at writing code. Tell it to write code to analyze numbers instead of answering directly.
 - **Have it rewrite your prompts (meta-prompting)**. If you aren't getting the results you want, have it tell you what's missing and rewrite your prompt for you.
 
 Here are specific ideas you can try:
@@ -44,7 +44,7 @@ Here are specific ideas you can try:
 Here are some of my behaviors in the agent era:
 
 - **Prototype the prototype**. Sometimes, I'm not even sure what to prototype. I have the agent build something based on very quick, crude early thoughts, then iterate on it. This is as opposed to asking the agent for ideas, filtering them, THEN asking it to build the right prototype. In other words, the reviews are easier when I have a draft rather than an idea. [#](https://www.s-anand.net/blog/prototyping-the-prototypes/)
-- **Galleries for ideas**. I collect [prompts](https://www.s-anand.net/blog/prompts/) like recipes. It helps to preview their output, so I also build [galleries](https://sanand0.github.io/llmartstyle/). I incrementally add based on usage, but big leaps come when I ask agents to create / extend galleries.
+- **Galleries for ideas**. I collect [prompts](https://www.s-anand.net/blog/prompts/) and preview output as [galleries](https://sanand0.github.io/llmartstyle/). I extend based on usage, but big leaps come when I ask agents to create / extend galleries.
 - **Audio to analysis**. I record calls, transcribe it, and pass it to a coding agent to give the other person what they need -- WITHOUT interpreting it. I've already put in some hard work into drafting skills, but that may become redundant later. I am mostly getting out of the way of the speed and capability of the agent in solving the problem directly.
 - **Itch to experiment**. When I have a thought, I just have an agent prototype it and run the experiment. With more tools and environments, the space of what it can experiment grows.
 - **Directional feedback**. In areas where I'm not the expert, I tell agents how I feel, how I _should_ feel, how I'll know if it's right, and trust the agent's judgement. [#](https://www.s-anand.net/blog/directional-feedback-for-ai/)
@@ -65,12 +65,13 @@ Thoughts on technical use of AI (e.g. in when coding with AI)
 - **Vibe code end-to-end**. Send AI the recording of your client call and ask it to spec, design, build, test, deploy, and monitor. Stay out of the way; review at the end.
 - **Paste the errors**. When code fails, paste the exact error log or a screenshot into the chat. The model is often its own best debugger.
 - **Code is disposable**. Code is an AI compilation artifact. Don't get attached to it. Scrap and re-tsart.
-- **The "Two-Strike" Rule**. If it fails to fix a bug after two attempts, abandon the thread and restart. It is often faster with a fresh context than to debug a confused model.
+- **The "Two-Strike" Rule**. If it fails to fix a bug after two attempts, abandon the thread and restart. It is often faster with a fresh context than to debug a confused model. #TODO May not be true in 2026
 - **Analyze using code**. Ask agents to write code to analyze data. This is more reliable than asking LLMs to analyze directly.
 - **Use realistic fake data** for prototyping. Don't wait for real data. It's faster, has no compliance/privacy concerns, and can be as clean/messy as you want.
-- **Which coding model to use**. Claude / Gemini for good UI. GPT for rigorous testing.
+- **Which coding model to use**. As of Q1 2026, Claude / Gemini are still good at UI. GPT for rigorous testing.
 - **Plan unclear tasks**. If your idea is vague or might be too complex, ask AI to write an easy-to-review plan. Scan & correct it. THEN implement.
 - **Maintain reference files**. Maintain an up-to-date `AGENTS.md` (or even `README.md`) that explains your intent, code, architecture, to the AI. Saves repeated explanations.
+- **Plan for better models**. Models keep improving. In `AGENTS.md`, skip prompts that work around current model limitations. Focus on what's true for future models too.
 - **Generate tests first**. For maintainable software, have it define tests _first_. That makes working code easier. Often, tests can be 2x the code size.
 - **Use Playwright to verify**. Have Playwright take screenshots and inspect DOM elements (e.g. using CDP) to verify frontend work. Saves manual review time.
 - **Run post-mortems**. When it fails, or after any session, ask it to analyze what went well, what didn't, and how to improve next time. Save these in a SKILL.md.
@@ -82,6 +83,7 @@ Thoughts on technical use of AI (e.g. in when coding with AI)
 
 Thoughts on the governance & adoption of AI (e.g. organization deployment, challenges, etc.)
 
+- **Make using AI easy**. Reduce friction. No permission or extra steps required and aligned to current ways of working.
 - **Show leaders using AI**. When teams see leaders _using_ (not talking about) AI, it gives them permission _and_ confidence.
 - **Security & privacy**. Every company has its own white-listed enterprise models (e.g. within Azure, AWS, or Google tenants). Use this. It provides legal cover and data won't be used for training.
 - **Keep humans-in-the-loop**. Treat AI like an intern that handles 80-90% of the effort, with a human expert for the "last mile" validation.
@@ -103,14 +105,25 @@ Thoughts on the governance & adoption of AI (e.g. organization deployment, chall
 - **Prototype rapidly**. Ask for prototypes in days, not weeks. This builds a culture of "rapid experimentation" and lets you cheaply figure out if it's worth it.
 - **Audits make reviews simpler**. Ask AI agents to cite sources, provide reasoning, and generate logs. That lets humans to verify how a conclusion was reached.
 
-## What should I learn?
+## What skills should I learn?
+
+[AI _will_ erode skills](https://link.springer.com/article/10.1007/s00146-025-02422-7) - but that s OK for some skills.
 
 - Learn what AI _won't_ do well even in the future. Practice manually, then use AI for critique & coaching.
 - Delegate _blindly_ what AI does well. Use saved time to learn new skills.
 
+<!-- https://gemini.google.com/app/6ef791596112da80 -->
+
+Here's how some industries have dealt with skill erosion:
+
+- **Autopilots** eroded flying skills - which is dangerous. So we **enforce** flight simulators. Same for surgical knots (robotic surgery), celestial navigation (navy), manual dosing (nurses).
+- **Spreadsheets** eroded calculation skills. We **leveled-up** from sums to strategy. Same for CAD, electronic trading, spell-check.
+- **Photography** eroded painting skills. We **switched** value to impressionism, cubism, etc. Same for vinyl records, luxury watches, craft coffee.
+- **GPS** eroded navigation skills. We **accepted** this and don't care much. Same for phone numbers, spelling, mental maths.
+
 <!-- https://gemini.google.com/app/0fc3ca79c2138048 -->
 
-Critical skills:
+Critical skills in the AI era:
 
 - **Asking questions**. Learn to ask _lots_ of _good_ questions that nudge AI & humans to better results, new horizons. Curiosity helps.
 - **Thinking of useful things**. Learn to quickly discover _lots_ of useful things for yourself and others. AI can execute them fast.
@@ -119,10 +132,10 @@ Critical skills:
 
 Growing skills:
 
+- **Management**. Shift from doing the work yourself to managing "teams" of AI interns and agents to handle execution.
 - **Context engineering**. Learn what data/context to feed AI and what you can/should skip for the best results.
 - **Tooling**. Learn how to connect things - especially to agentic systems - to give them more execution power.
 - **Learning fast**. Learn how to learn faster. You'll need to learn many subjects quickly (especially to judge AI output).
-- **Management**. Shift from doing the work yourself to managing "teams" of AI interns and agents to handle execution.
 - **Style & art**. Learn to guide AI to write, draw, code, etc. in different styles, formats, and approaches for different audiences.
 - **Storytelling**. Learn how to guide AI to deliver compelling narratives that move people.
 - **Problem breakdown**. Learn to breaking problems down into small, logical tasks that people/AI can execute reliably.
@@ -149,19 +162,6 @@ Declining skills:
 
 See [How to develop taste](/blog/how-to-develop-taste/).
 
-## Won't AI erode skills?
-
-<!-- https://gemini.google.com/app/6ef791596112da80 -->
-
-AI, like [most automation, erodes skills](https://link.springer.com/article/10.1007/s00146-025-02422-7). We've seen this before.
-
-- **Autopilots** eroded flying skills - which is dangerous. So we **enforce** flight simulators. Same for surgical knots (robotic surgery), celestial navigation (navy), manual dosing (nurses).
-- **Spreadsheets** eroded calculation skills. We **leveled-up** from sums to strategy. Same for CAD, electronic trading, spell-check.
-- **Photography** eroded painting skills. We **switched** value to impressionism, cubism, etc. Same for vinyl records, luxury watches, craft coffee.
-- **GPS** eroded navigation skills. We **accepted** this and don't care much. Same for phone numbers, spelling, mental maths.
-
-Think about how the skill we lose will evolve. Then enforce, level-up, switch, or accept accordingly.
-
 ## What happens to people when AI takes their jobs?
 
 <!--
@@ -183,6 +183,7 @@ Here are some paths post-automation. It depends on the industry _and_ individual
 
 How do you trust people who can make mistakes? Treat AI like capable, fallible interns.
 
+- **Ask for evidence**. Reasons, citations, source links, tests, logs, verifiable checklists, ...
 - **[Quintuple-check](https://sanand0.github.io/llmevals/double-checking/)**. Ask multiple AIs. If they all agree, it's probably right. If they disagree, review manually.
 - **Ask for code** to generate the answer - instead of the answer. Code is more likely right, and easier to verify.
 - **Make reviews easy**. Ask for citations, short & simple summaries, structured output, runnable code, etc.
@@ -197,3 +198,11 @@ Hallucinations can be a great feature - for creativity, humor, and insight. Don'
 - **Pick who you trust**. If already trust a provider, e.g. Google, Microsoft, etc., use them. If not, run AI locally or use the techniques below.
 - **Send schema, run code locally.** Send the column names, have AI write code, and analyze it locally. This is safer, and more reliable.
 - **Anonymize data:** Strip or hash PII before sending it to untrusted AI.
+
+<!--
+
+UPDATES:
+
+- 15 Mar 2026: https://claude.ai/chat/01653f4d-39fe-4913-8b19-e94d3684163c + https://chatgpt.com/c/69b6121b-5548-839a-8a4f-73066cae406b
+
+-->

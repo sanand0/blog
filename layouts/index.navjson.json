@@ -1,0 +1,47 @@
+{{- $main_sections := site.Params.mainSections | default (slice "posts") -}}
+{{- $base_path := (urls.Parse site.BaseURL).Path | strings.TrimSuffix "/" -}}
+{{- $posts := where site.RegularPages "Type" "in" $main_sections -}}
+
+{{- /* Categories sorted by count */ -}}
+{{- $categories := slice -}}
+{{- range site.Taxonomies.categories.ByCount -}}
+  {{- $categories = $categories | append (dict "name" .Page.LinkTitle "url" .Page.RelPermalink "count" .Count) -}}
+{{- end -}}
+
+{{- /* Archives: monthly links for latest year, yearly links for past years */ -}}
+{{- $archives := slice -}}
+{{- $byYear := $posts.GroupByDate "2006" -}}
+{{- $latestYear := "" -}}
+{{- if $byYear -}}{{- $latestYear = (index $byYear 0).Key -}}{{- end -}}
+{{- range $posts.GroupByDate "2006-01" -}}
+  {{- $parts := split .Key "-" -}}
+  {{- $year := index $parts 0 -}}
+  {{- if eq $year $latestYear -}}
+    {{- $t := time.AsTime (printf "%s-01T00:00:00Z" .Key) -}}
+    {{- $label := $t.Format "Jan 2006" -}}
+    {{- $url := printf "%s/%s/%s/" $base_path $year (index $parts 1) -}}
+    {{- $archives = $archives | append (dict "label" $label "url" $url "count" (len .Pages)) -}}
+  {{- end -}}
+{{- end -}}
+{{- range $byYear -}}
+  {{- if ne .Key $latestYear -}}
+    {{- $url := printf "%s/%s/" $base_path .Key -}}
+    {{- $archives = $archives | append (dict "label" .Key "url" $url "count" (len .Pages)) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Top-level pages and section indices */ -}}
+{{- $sitePages := where site.Pages "Kind" "in" (slice "page" "section") -}}
+{{- $sitePages = where $sitePages "Type" "not in" $main_sections -}}
+{{- $pages := slice -}}
+{{- range sort $sitePages "Title" -}}
+  {{- $path := "" -}}
+  {{- with .File -}}{{- $path = .Path -}}{{- end -}}
+  {{- $path = strings.TrimPrefix "content/" $path -}}
+  {{- $is_top := and (eq .Kind "page") (not (strings.Contains $path "/")) -}}
+  {{- $is_section := and (eq .Kind "section") (strings.HasSuffix $path "/_index.md") -}}
+  {{- if and $path (fileExists (printf "pages/%s" $path)) (or $is_top $is_section) -}}
+    {{- $pages = $pages | append (dict "name" .LinkTitle "url" .RelPermalink) -}}
+  {{- end -}}
+{{- end -}}
+{{ dict "categories" $categories "archives" $archives "pages" $pages | jsonify (dict "indent" "  ") }}

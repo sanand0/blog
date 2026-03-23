@@ -2,7 +2,7 @@
 title: Bangalore Bloggers Meet
 date: "2002-11-25T12:00:00Z"
 categories:
-  - links
+  - bangalore
 wp_id: 1020
 ---
 

@@ -2,6 +2,31 @@
   const script = document.currentScript
     || document.querySelector("script[data-site-script=\"true\"]");
   const data = script ? script.dataset : {};
+  const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+
+  // Render nav items into a footer <ul>. countKey items get proportional bar widths.
+  // Uses 3rd largest count as 100% to avoid outliers dominating the scale.
+  const fillNav = (selector, items, labelKey, countKey) => {
+    const ul = document.querySelector(selector);
+    if (!ul) return;
+    const counts = countKey ? items.map((i) => i[countKey]).sort((a, b) => b - a) : [];
+    const threshold = counts[2] ?? counts[0] ?? 1;
+    ul.innerHTML = items.map((item) => {
+      const bar = countKey ? ` style="--bar-width:${Math.min(100, item[countKey] / threshold * 100).toFixed(1)}%"` : "";
+      const count = countKey ? `<span class="nav-count">${item[countKey]}</span>` : "";
+      return `<li><a href="${esc(item.url)}"${bar}><span class="nav-name">${esc(item[labelKey])}</span>${count}</a></li>`;
+    }).join("");
+  };
+
+  if (data.navJson) {
+    fetch(data.navJson)
+      .then((r) => r.json())
+      .then((nav) => {
+        fillNav("#footer-categories ul", nav.categories, "name", "count");
+        fillNav("#footer-archives ul", nav.archives, "label", "count");
+        fillNav("#footer-pages ul", nav.pages, "name", null);
+      });
+  }
   const enableScrollTop = data.enableScrollTop === "true";
   const enableThemeToggle = data.enableThemeToggle === "true";
   const enableCodeCopy = data.enableCodeCopy === "true";

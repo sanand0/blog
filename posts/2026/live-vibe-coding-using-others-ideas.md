@@ -34,7 +34,7 @@ You can read about the talk in the link about. This post is about my preparation
 
 In fact, these ideas ended up being _so_ good that the bulk of my talk was just about ideas derived from their work. (I'm obviously a big fan of plagiarism!)
 
-This worked quite well because people value speed and spontaneity. I was _obviously_ demonstrating these and that felt cool.
+Despite being one of my shortest talks (~10 min), this worked quite well because people value speed and spontaneity. I was _obviously_ demonstrating these and that felt cool.
 
 For many years, I've been live-coding on stage. But that requires a _lot_ of preparation.
 

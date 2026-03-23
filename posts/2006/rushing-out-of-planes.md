@@ -2,7 +2,7 @@
 title: Rushing out of planes
 date: "2006-04-01T12:00:00Z"
 categories:
-  - links
+  - bangalore
 wp_id: 379
 ---
 
