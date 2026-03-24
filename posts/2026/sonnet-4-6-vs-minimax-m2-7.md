@@ -1,0 +1,58 @@
+---
+title: Sonnet 4.6 vs MiniMax M2.7
+date: 2026-03-24T17:06:02+08:00
+categories:
+  - llms
+  - coding
+---
+
+Based on several (i.e. two) recommendations, I subscribed to [MiniMax](https://platform.minimax.io/). At $10/month, you get 1,500 requests every 5 hours and 15,000 every week. That's a LOT!
+
+Using the [same prompt](https://sanand0.github.io/talks/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/prompts.md) I had [Claude Code](https://platform.minimax.io/docs/token-plan/claude-code) generate two data stories:
+
+<a href="https://sanand0.github.io/talks/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/index.html">
+  <figure>
+    <img src="https://files.s-anand.net/images/2026-03-24-rob-data-story-claude.avif" alt="In July 2025, in the heavy morning warmth of Thiruvananthapuram, the opening talk at the TeX User Group annual conference began with a crayon drawing. Not a polished diagram. Not a carefully curated slide. A hand-drawn family tree on crumpled paper, made by a six-year-old girl named Emily, who had a problem to solve. She had told her teacher she had seven grandmothers. The teacher declared it impossible. Emily went home and built a proof." />
+    <figcaption>The first paragraph, by Claude Sonnet 4.6</figcaption>
+  </figure>
+</a>
+
+<a href="https://sanand0.github.io/talks/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/minimax.html">
+  <figure>
+    <img src="https://files.s-anand.net/images/2026-03-24-rob-data-story-minimax.avif" alt="There is a drawing by a six-year-old girl in Amsterdam that contains more wisdom about data quality than three decades of enterprise content architecture. In it, seven figures stand in a family tree — each grandmother numbered with a circle, each grandfather conspicuously absent. The girl is Rob Schrauwen's granddaughter. She was asked to prove she had seven grandmothers; she drew them all, labeled them carefully, and in doing so invented continuous data quality, unique identifiers, and a knowledge graph — all before she learned to spell &quot;Hetty.&quot;" />
+    <figcaption>The first paragraph, by MiniMax M2.7</figcaption>
+  </figure>
+</a>
+
+Here's my comparison of the two. It's partly based on [Claude Opus 4.6's comparison](https://sanand0.github.io/talks/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/comparison.md) but I felt the same way.
+
+| Dimension               | Sonnet 4.6                                  | MiniMax M2.7                |
+| ----------------------- | ------------------------------------------- | --------------------------- |
+| **Narrative quality**   | Immersive                                   |                             |
+| **Content coverage**    | Comprehensive                               |                             |
+| **Visual design**       | More varied, ambitious bands, no errors     |                             |
+| **CSS**                 |                                             | Better use of CSS variables |
+| **Tooltips**            | Richer, comprehensive, `data-tip`           |                             |
+| **Modals/popups**       | Richer, more types, more details            |                             |
+| **Animated SVGs**       | Richer, visually distinctive, sophisticated |                             |
+| **Slides**              | Larger readable grid                        |                             |
+| **Code samples**        | XML vs JSON-LD side-by-side                 |                             |
+| **External references** | Far more authoritative links                |                             |
+| **Accessibility**       | ARIA, keyboard, alt text                    |                             |
+| **Generation quality**  | Clean, no Chinese character artifacts       |                             |
+
+In other words, Sonnet 4.6 is a _clear_ winner on nearly every dimension.
+
+But the cost factor is _too_ big a difference to ignore. It feels like a 10x difference. So the question probably is: what can I do with a _reasonably_ good model that can generate 10X the quantity at the same price?
+
+(To be fair, [GPT 5.4 Mini at 75c/MTok](https://openrouter.ai/openai/gpt-5.4-mini) and [Gemini 3 Flash at 50c/MTok](https://openrouter.ai/google/gemini-3-flash-preview) are not far from [MiniMax M2.7 at 30c/MTok](https://openrouter.ai/minimax/minimax-m2.7) - but their [code quality](https://arena.ai/leaderboard/code) seems lower. I generated a [Codex - GPT 5.4 Mini version](https://sanand0.github.io/talks/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/gpt-5.4-mini-xhigh.html) and while it has fewer errors it has even less visual style and narrative quality.)
+
+**Computer use** feels like a candidate. I used [Rodney](https://github.com/simonw/rodney) to research what drives my LinkedIn reach & engagement, and update my [SKILL.md](https://github.com/sanand0/scripts/blob/f08ffd11e221c5a9ef58d5da814aaad9985bd422/agents/linkedin-cdp/SKILL.md).
+
+I could try experimenting with sub-agents, doing bulk analysis (e.g. of code, transcripts, images), data discovery, etc. The crux of these is parallelization - something I have not explored much.
+
+It looks like twe're entering an era where there are two kinds of use cases: high-quality for the best models, large-scale for the cheap models. The question is: how do I make the most of both?
+
+---
+
+[Source Code](https://github.com/sanand0/talks/tree/52ad2aa775cd4e0f1e0ad8e6199ce7754a2663ac/2025-07-18-tug-true-but-irrelevant-rob-schrauwen)

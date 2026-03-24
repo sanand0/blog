@@ -31,7 +31,7 @@ This happens because:
 - **You're buying insurance**. "The consultant said so." "The auditor signed off."
 - **You're buying status**. "I can afford a butler."
 
-Also, we're biased. Costly feels better than cheap (e.g. watches). Action feels better than inaction (e.g. mutual funds). Those we hire create (or lobby) work for themselves. It takes disruption (e.g. tech, regulation) to change this.
+Also, we're biased. Costly feels better than cheap (e.g. watches). Action feels better than inaction (e.g. active investing). Those we hire create (or lobby) work for themselves. It takes disruption (e.g. tech, regulation) to change this.
 
 If you want to sell these, your scale depends on what people buy: [Procedure, Brains, or Grey Hair](https://www.latecheckout.agency/blog/the-future-of-service-firms-in-the-age-of-ai-why-relationships-strategy-and-brains-will-be-the-moat)
 

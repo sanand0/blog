@@ -128,20 +128,24 @@ Critical skills in the AI era:
 - **Asking questions**. Learn to ask _lots_ of _good_ questions that nudge AI & humans to better results, new horizons. Curiosity helps.
 - **Thinking of useful things**. Learn to quickly discover _lots_ of useful things for yourself and others. AI can execute them fast.
 - **Validation**. AI works fast. Learn shortcuts to compare versions, find mistakes, give feedback - in unfamiliar areas. (Consultants learn this skill well.)
+- **Accountability**. Giving a commitment, standing behind it, knowing how to manage the risk this involves.
 - **People skills**. Prioritize empathy, negotiation, judgment, and communication are less easy to delegate to AI agents.
+- **Management**. Shift from doing the work yourself to managing "teams" of AI interns and agents to handle execution.
 
 Growing skills:
 
-- **Management**. Shift from doing the work yourself to managing "teams" of AI interns and agents to handle execution.
+- **Storytelling**. Learn how to guide AI to deliver compelling narratives that move people.
 - **Context engineering**. Learn what data/context to feed AI and what you can/should skip for the best results.
 - **Tooling**. Learn how to connect things - especially to agentic systems - to give them more execution power.
-- **Learning fast**. Learn how to learn faster. You'll need to learn many subjects quickly (especially to judge AI output).
-- **Style & art**. Learn to guide AI to write, draw, code, etc. in different styles, formats, and approaches for different audiences.
-- **Storytelling**. Learn how to guide AI to deliver compelling narratives that move people.
 - **Problem breakdown**. Learn to breaking problems down into small, logical tasks that people/AI can execute reliably.
 - **Prototyping**. Learn to build (and iterate on) the smallest working solution (using AI agents) ultra-rapidly.
 - **Data organization**. Learn to structure data to make data more analyzable.
 - **Hard to define skills**. Skills that are easy to define are easy to train AI models on. It's what we can't even name that's valuable.
+
+Growing (for a while) skills:
+
+- **Learning fast**. Learn how to learn faster. You'll need to learn many subjects quickly (especially to judge AI output). But AI can learn faster.
+- **Style & art**. Learn to guide AI to write, draw, code, etc. in different styles, formats, and approaches for different audiences. But AI can learn these.
 
 Declining skills:
 
@@ -151,16 +155,17 @@ Declining skills:
 - **Following rules**. AI can implement a process better.
 - **Hard work**. Returns are disproportiate. Finding the _right_ problems matters more than solving the lesser problems.
 - **Building models**. AI companies will take care of it.
+- **Business intelligence**. AI can build dashboards, data stories, and more.
 - **Data wrangling**. AI can handle data engineering, modeling, analysis, and visualization.
 - **Tool expertise**. AI can use tools for you.
 - **Intermediation**. AI can translate between groups - e.g. business analysts.
 - **Originating ideas**. AI can brainstorm ideas. Focus on evaluating and selecting ideas based on unique context.
 - **Drafting from scratch**. The ability to write a first draft (code or text) is less valuable than the ability to edit and refine an AI-generated baseline.
-- **Junior-Level execution**. Routine "grunt work," basic summaries, and entry-level analysis are being fully automated by LLMs.
+- **Junior-level execution**. Routine "grunt work," basic summaries, and entry-level analysis are being fully automated by LLMs.
 
 ## How to develop taste?
 
-See [How to develop taste](/blog/how-to-develop-taste/).
+See [How to develop taste](/blog/how-to-develop-taste/). (But AI can develop taste, too.)
 
 ## What happens to people when AI takes their jobs?
 

@@ -58,3 +58,7 @@ https://gemini.google.com/app/6ef791596112da80
 -->
 
 Source: I used [Claude Deep Research](https://claude.ai/public/artifacts/1ab0169b-566f-4f2c-b94c-a5fa95838dfc) and asked [Gemini to interpret it](https://gemini.google.com/share/ad78f0536411).
+
+---
+
+**23 Mar 2026**. [Taste may not matter as much as I thought](https://mtrajan.substack.com/p/leverage-in-the-ai-age-is-not-what). I see AI learning & acquiring good taste in code (e.g. architecture) and art (e.g. writing, visual design). Accountability may be more important.

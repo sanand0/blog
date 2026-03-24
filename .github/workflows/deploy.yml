@@ -2,7 +2,7 @@ name: Deploy Hugo site (cost-optimized)
 
 on:
   push:
-    branches: [main, dev]
+    branches: [main]
     # Do not deploy non-site changes
     paths:
       - "hugo.toml"

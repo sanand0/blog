@@ -44,6 +44,10 @@ This runs:
 3. Post-processing scripts for comments and feed normalization
 4. Copies special pages to `public/` root
 
+[GitHub](.github/workflows/deploy.yml) automatically runs `setup.sh` on push to `main` and deploys `public/` to GitHub Pages.
+
+WIP commits are pushed to the `live` branch. The `prod` branch holds permanent changes - in case of rollbacks to main.
+
 ## Embeddings
 
 `content/embeddings.parquet` contains [Gemini Embedding 2](https://ai.google.dev/gemini-api/docs/embeddings) vectors for every page and post.
