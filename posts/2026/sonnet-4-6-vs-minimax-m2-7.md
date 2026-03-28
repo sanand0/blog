@@ -56,3 +56,12 @@ It looks like twe're entering an era where there are two kinds of use cases: hig
 ---
 
 [Source Code](https://github.com/sanand0/talks/tree/52ad2aa775cd4e0f1e0ad8e6199ce7754a2663ac/2025-07-18-tug-true-but-irrelevant-rob-schrauwen)
+
+---
+
+**UPDATE**: Cheap models (or at least MiniMax M2.7) may be far less useful than I thought. I used MiniMax M2.7 with Claude Code for:
+
+- 24 Mar 2026: Email analysis. I had it review my 15-year Gramener email archive for key events for a book. But it fetched too few results, so I switched to Codex (GPT 5.4 xhigh). <!-- claude --resume 1c3edc84-5781-4684-bd0d-565fafc5b2b9 -->
+- 25 Mar 2026: [Capture The Flag](https://play.picoctf.org/practice). But it couldn't solve problems, so I switched to Codex (GPT 5.4 xhigh). <!-- claude --resume 525d2631-cf8b-4665-bfdc-e55b70cb7340 -->
+- 25 Mar 2026: Songs download. I had it find popular Tamil songs and download them from YouTube. But the metadata was poor, so I switched to my own song collection. <!-- claude --resume f4d3a74b-0bc8-4431-8084-f56be44a4a53 -->
+- 26 Mar 2026: LEAN proofs. It started making too many basic mistakes (spelling errors in code!) I switched to Copilot (GPT 5.4 xhigh). <!-- claude --resume a0836a15-6b82-45ef-8174-bcd10272a62e -->

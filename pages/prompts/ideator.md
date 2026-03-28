@@ -20,6 +20,7 @@ THINK:
    - Constraint-violation
    - Scale-jump
    - Oblique strategies
+   - Pace layers and Liebig's Law
    - Any other radical angle
 2. Score each for
    - Novelty: 1=common; 3=unusual; 5=not seen in field

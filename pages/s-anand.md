@@ -24,7 +24,7 @@ wp_id: 2992
 
 To invite me to **speak**, please see my [talks page](/blog/talks/).
 
-For **advice**, see [time management](/blog/time/), [career](/blog/career-advice/) or [AI](/blog/ai-advice/) advice. Else mail me.
+For **advice**, see [time management](/blog/time/), [career](/blog/career-advice/) or [AI advice](/blog/ai-advice/). Else mail me.
 
 To work with me on **projects**, please [send a pull request](https://github.com/sanand0/).
 
@@ -38,3 +38,5 @@ To work with me on **projects**, please [send a pull request](https://github.com
 {{< post-calendar >}}
 
 {{< recent-posts count="10" >}}
+
+[Read Full Blog &raquo;](/blog/)

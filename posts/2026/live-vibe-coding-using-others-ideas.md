@@ -30,6 +30,7 @@ You can read about the talk in the link about. This post is about my preparation
   - Rather than reduce the size of shampoo sachets (which customers and business both hate), include 2 shampoos in one sachet, tearable in the middle.
   - Price saches at 95p with a 5p deposit for the sachet - which rag-pickers can collect and return to the retailer.
 - 4:20 pm. [Ask Claude for more ideas like Narendra's](https://claude.ai/share/74c27359-7710-463e-8488-60fef2df6bfc). The results are _just as fantastic_!
+  ![](https://sanand0.github.io/talks/2026-03-21-design-in-the-age-of-infinite-generativity/expired-medication-color.avif)
 - 4:30 pm. I now have images for his ideas too. Now, I start deleting my more boring links.
 
 In fact, these ideas ended up being _so_ good that the bulk of my talk was just about ideas derived from their work. (I'm obviously a big fan of plagiarism!)
@@ -41,3 +42,7 @@ For many years, I've been live-coding on stage. But that requires a _lot_ of pre
 Vibe-coding makes live-coding a _lot_ faster. I can do it _during_ a client demo. I can do it _during_ a talk.
 
 So, I'm going to listen more to what others are saying (in meetings, conferences, etc.) and live-vibe-code from what they _just_ said. Great way to show-off while learning from others!
+
+---
+
+**26 Mar 2026**: On a related note, [AI has better product development ideas than humans](https://x.com/emollick/status/2036104905568452967). Read [Serendipity by Design: Evaluating the Impact of Cross-domain Mappings on Human and LLM Creativity](https://arxiv.org/abs/2603.19087)
