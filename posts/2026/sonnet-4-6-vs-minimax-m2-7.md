@@ -65,3 +65,11 @@ It looks like twe're entering an era where there are two kinds of use cases: hig
 - 25 Mar 2026: [Capture The Flag](https://play.picoctf.org/practice). But it couldn't solve problems, so I switched to Codex (GPT 5.4 xhigh). <!-- claude --resume 525d2631-cf8b-4665-bfdc-e55b70cb7340 -->
 - 25 Mar 2026: Songs download. I had it find popular Tamil songs and download them from YouTube. But the metadata was poor, so I switched to my own song collection. <!-- claude --resume f4d3a74b-0bc8-4431-8084-f56be44a4a53 -->
 - 26 Mar 2026: LEAN proofs. It started making too many basic mistakes (spelling errors in code!) I switched to Copilot (GPT 5.4 xhigh). <!-- claude --resume a0836a15-6b82-45ef-8174-bcd10272a62e -->
+- 29 Mar 2026: Calvin & Hobbes image analysis. It couldn't even read the images and confidently saw "Hobbes stuck to a baseball bat with Mom & Dad" in a strip that only featured Calvin & Susie. <!-- claude --resume 9dd15966-0c65-49bf-af3b-506f4bab5d39 -->
+
+The main problems are:
+
+- **It errs confidently**. It doesn't do ROT13 well. It can't see images. It mis-understands error messages. It assigned my earlier company's incorporation date (NGIMAGE) as Gramener's. It made Vijay Sethupathi a lyricist. When a process failed with just 12% coverage, it just continued. It just _reported what's done, not what's missing_.
+- **It's a slow learner**. For [picoCTF](https://picoctf.org/), it had the pieces but couldn't assemble them. Claude Code resets the cwd, but it never switched to absolute paths. It mixed `uv run` with `python3`. It rewrites, resets or waits instead of diagnosing.
+
+It's best for simple, single-step tasks. Not where knowledge, accuracy, research matters. When using it, keep tasks small and verify correctness, completeness.
