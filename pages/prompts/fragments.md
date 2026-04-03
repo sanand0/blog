@@ -46,13 +46,46 @@ Comprehensively and engagingly summarize and fact-check, writing in Malcolm Glad
 Comprehensively and engagingly summarize, compare and fact-check, writing in Malcolm Gladwell's style (ELI15), the books:
 ```
 
-## Brainstorming
+## Brainstorming creative ideas
 
 ```markdown
-Generate 5+ diverse candidate ideas. Score each on impact, ease, novelty. Recommend the best 1-2.
-For brainstorming, ideation, evaluation, etc.
-Other styles: SCAMPER, TRIZ, lateral thinking, etc.
+- IDEATE prioritizing novelty over feasibility. Do not filter.
+  - Choose 3–5 distinct people who'd see this differently. For each, generate 3 short candidate ideas.
+  - Choose 2 UNRELATED domains and for each, extract 3 atomic structural rules, and use them to create 4 more candidate ideas.
+  - List the 5 most obvious / conventional ideas across all candidates. Ban them, along with near-duplicates.
+  - Merge all remaining ideas removing overlaps. Keep the set maximally diverse across mechanisms, users, and time horizons.
+- CONVERGE:
+  - Critique each surviving idea: what assumption must hold, why it is non-obvious, and why it may fail.
+  - Score each idea on impact, novelty, and speed.
+  - Recommend the best practical idea(s) and the best wildcard idea(s), explaining the non-obvious insight each is built on.
 ```
+
+Older version:
+
+```markdown
+Choose 3–5 distinct ordinary personas who would see this problem differently.
+For each persona, generate 3 short candidate ideas.
+List the 5 most obvious / conventional ideas across all candidates. Ban them, along with near-duplicates.
+Choose 2 unrelated domains. For each domain, extract 3 atomic structural rules. Use those rules to create 4 more ideas for this task.
+Merge all ideas removing overlaps. Keep the set maximally diverse across mechanisms, users, and time horizons.
+Critique each surviving idea: what assumption must hold, why it is non-obvious, why it may fail, and what makes it genuinely useful.
+Score each idea on impact, novelty, ease, and speed.
+Recommend 2 ideas: the best practical idea and the best wildcard idea, explaining why it beat the more obvious alternatives.
+```
+
+For brainstorming, ideation, evaluation, etc. [This uses](https://gemini.google.com/share/deaaeb543991):
+
+1. Denial Prompting (Constraint-based generation): avoid the obvious ideas
+2. Universe of Thoughts (Granular Decomposition): decompose unrelated domain rules and apply
+3. Iterative Refinement (Adversarial Roles): critique each idea, then refine
+
+<!--
+https://gemini.google.com/app/16d01a74d131ee13
+https://chatgpt.com/c/69cb9c74-8fe8-839b-968f-cfb93b29872c
+https://claude.ai/chat/a9b0a7e6-add6-4a1e-ad5e-d6a4018edc5c
+-->
+
+Other styles: SCAMPER, TRIZ, lateral thinking, etc.
 
 ## Browsing history
 
@@ -75,7 +108,7 @@ IMPORTANT: Because Claude will almost certainly stall when generating such a lar
 ## Core concepts
 
 ```markdown
-What are the core concepts, i.e. top NON-INTUITIVE well-established lessons/principles, of ______, knowing which, most of the rest of the field is derivable?
+What are the core concepts, i.e. top NON-INTUITIVE well-established lessons/principles, of **\_\_**, knowing which, most of the rest of the field is derivable?
 
 - Source comprehensively from authoritative sources.
 - Pick the 10 that are mentioned repeatedly, have the highest applicability and usefulness, while being non-obvious.
@@ -117,6 +150,7 @@ DO NOT DRAW. Just give me simple, funny ideas.
 ```
 Draw this as a visually rich, intricately detailed, colorful, and funny, infographic poster.
 ```
+
 ## Draw Sketchnote
 
 ```markdown
@@ -149,6 +183,7 @@ In fact, I'd love for you to think about who some of the best authors are who ac
 
 ```markdown
 Plan like an expert. In this context, first think about:
+
 - What patterns would an expert in this field check / recognize that beginners would miss?
 - What questions would an expert ask that a beginner would not know to?
 - What problems / failures would an expert anticipate that beginners may not be aware of?

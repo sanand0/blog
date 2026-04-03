@@ -1,5 +1,11 @@
 # Prompts
 
+## Markdown link, 31 Mar 2026 (Copilot - gpt-5.4-mini xhigh)
+
+Add a <link rel="alternate" type="text/markdown" href="..."> header to all posts/pages that links to the GitHub raw markdown file for that page.
+
+Run bash setup.sh and verify that the header is present in the generated HTML files.
+
 ## Header link and JSON navigation, 21 Mar 2026 (Claude Code - Sonnet 4.6)
 
 <!-- https://claude.ai/code/session_012J8cWHH5wUncaFXr5HBmHN -->

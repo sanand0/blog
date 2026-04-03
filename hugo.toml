@@ -69,6 +69,9 @@ cleanDestinationDir = true
   apple_touch_icon = "assets/favicon.svg"
   safari_pinned_tab = "assets/favicon.svg"
 
+[params.github]
+  rawMarkdownBase = "https://raw.githubusercontent.com/sanand0/blog/main"
+
 [outputFormats]
   [outputFormats.navjson]
     mediaType = "application/json"

@@ -84,11 +84,15 @@ def parse_date(value: str) -> datetime | None:
     return None
 
 
-def write_markdown(path: Path, doc: MarkdownDoc, slug: str) -> None:
-    """Write Markdown with updated slug front matter."""
+def write_markdown(
+    path: Path, doc: MarkdownDoc, slug: str, source_path: str | None = None
+) -> None:
+    """Write Markdown with updated slug and source path front matter."""
     front_matter = dict(doc.front_matter)
     front_matter.pop("slug", None)
     front_matter["slug"] = slug
+    if source_path:
+        front_matter["sourcePath"] = source_path
     body = doc.body.lstrip("\n")
     output = render_front_matter(front_matter)
     if body:
@@ -220,7 +224,8 @@ def build(
         rel_path = path.relative_to(posts_dir)
         slug = derive_slug(rel_path)
         doc = split_front_matter(path.read_text(encoding="utf-8"))
-        write_markdown(content_dir / "posts" / rel_path, doc, slug)
+        source_path = (Path("posts") / rel_path).as_posix()
+        write_markdown(content_dir / "posts" / rel_path, doc, slug, source_path)
         date_value = doc.front_matter.get("date") or ""
         if isinstance(date_value, datetime):
             post_dates.append(date_value)
@@ -236,7 +241,8 @@ def build(
         rel_path = path.relative_to(pages_dir)
         slug = derive_slug(rel_path)
         doc = split_front_matter(path.read_text(encoding="utf-8"))
-        write_markdown(content_dir / rel_path, doc, slug)
+        source_path = (Path("pages") / rel_path).as_posix()
+        write_markdown(content_dir / rel_path, doc, slug, source_path)
 
     write_archives(content_dir, post_dates)
 

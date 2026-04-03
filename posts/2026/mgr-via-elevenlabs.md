@@ -46,3 +46,13 @@ Here's the same dialogue in the cloned voice:
 <audio controls src="https://files.s-anand.net/images/2026-03-29-mgr-generated.opus"></audio>
 
 Personally, I think the ElevenLabs version is _slightly_ better. Of course, given the pace of AI improvement, this might just be the impact of a new model release.
+
+---
+
+**2 Apr 2026**: Here's the non-cloned generation from [Sarvam's text to speech](https://dashboard.sarvam.ai/text-to-speech) with Bulbul v3 standard quality. It feels pretty weak.
+
+<audio controls src="https://files.s-anand.net/images/2026-03-29-mgr-sarvam.opus"></audio>
+
+[Gemini 2.5 Pro Preview TTS](https://aistudio.google.com/u/2/generate-speech?model=gemini-2.5-pro-preview-tts) gave me this, which feels _much_ better.
+
+<audio controls src="https://files.s-anand.net/images/2026-03-29-mgr-gemini.opus"></audio>

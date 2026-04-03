@@ -24,6 +24,11 @@
 <meta name="description" content="{{ if $desc }}{{ $desc }}{{ else }}{{ site.Params.description }}{{ end }}">
 <meta name="author" content="{{ (partial "author.html" . ) }}">
 <link rel="canonical" href="{{ partial "rel_link.html" (dict "from" . "to" .RelPermalink) }}">
+{{- $rawMarkdownBase := site.Params.github.rawMarkdownBase | default "" -}}
+{{- $sourcePath := .Params.sourcePath | default "" -}}
+{{- if and $rawMarkdownBase $sourcePath }}
+<link rel="alternate" type="text/markdown" href="{{ printf "%s/%s" (strings.TrimSuffix "/" $rawMarkdownBase) $sourcePath }}">
+{{- end }}
 {{- if site.Params.analytics.google.SiteVerificationTag }}
 <meta name="google-site-verification" content="{{ site.Params.analytics.google.SiteVerificationTag }}">
 {{- end }}
