@@ -139,13 +139,13 @@ Growing skills:
 - **Tooling**. Learn how to connect things - especially to agentic systems - to give them more execution power.
 - **Problem breakdown**. Learn to breaking problems down into small, logical tasks that people/AI can execute reliably.
 - **Prototyping**. Learn to build (and iterate on) the smallest working solution (using AI agents) ultra-rapidly.
-- **Data organization**. Learn to structure data to make data more analyzable.
 - **Hard to define skills**. Skills that are easy to define are easy to train AI models on. It's what we can't even name that's valuable.
 
 Growing (for a while) skills:
 
 - **Learning fast**. Learn how to learn faster. You'll need to learn many subjects quickly (especially to judge AI output). But AI can learn faster.
 - **Style & art**. Learn to guide AI to write, draw, code, etc. in different styles, formats, and approaches for different audiences. But AI can learn these.
+- **Data organization**. Learn to structure data to make data more analyzable.
 
 Declining skills:
 
