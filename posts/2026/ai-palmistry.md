@@ -30,3 +30,7 @@ Clearly, AI's analysis of my chats is **much** better than of my palm.
 ---
 
 You can [read the full readings here](https://claude.ai/share/8e77d46b-0d48-4a20-827e-9cba16056ac5).
+
+<!--
+https://chatgpt.com/c/69b66d2c-ee38-839c-ac30-4c103245bf85
+-->
