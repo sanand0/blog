@@ -12,8 +12,8 @@ The question people ask me most often is, "How do you manage your time?".
 Everyone has the same 24 hours in a day. Time management is about feeling we’ve achieved more with that time. There are 3 parts to this:
 
 1. **Accepting limits**. I'm grateful I'm not bored, learn from the struggle, and calm myself with acceptance.
-2. **Creating capacity**. I've tried with sleep, exercise, meditation, focus time, and family support. I plan to try eating well and delegation
-3. **Executing effectively**. I've tried idea-lists, mood management, calendaring, commitments, intentionality, journaling. I plan to try prioritization metrics.
+2. **Creating capacity**. I've tried with sleep, exercise, eating well, meditation, focus time, and family support. I plan to try delegation
+3. **Executing effectively**. I've tried idea-lists, mood management, calendaring, commitments, intentionality, journaling.
 
 ## Accepting limits
 
@@ -29,7 +29,7 @@ Everyone has the same 24 hours in a day. Time management is about feeling we’v
 
 **Exercise**. Since 2017, I walk ~10,000 steps (7.5 km) over 90 minutes a day. Earlier, I'd be tired by 6 PM and couldn't work. After I started walking, I was fresh till 9 PM. In the first month, it was hard to see the benefit. But when I stopped for a few days, I could see how lethargic I felt. Since 2024, I switched to cycling to save my ankles.
 
-**Eat well**. Hunger and thirst are a distraction. So I keep water and healthy snacks around me (or eat larger meals -- but over-eating makes me sleepy). Maybe being a vegetarian and teetotaler. I need to experiment more with food.
+**Eat well**. Hunger and thirst are a distraction. I drink (hot) water regularly - makes me less hungry / distracted when dieting. I used to keep healthy snacks around me (or eat larger meals -- but over-eating made me sleepy).
 
 **Meditate**. Since 2020, I meditate for 30 min in the morning. It reduced my irritability. Even at 9 PM, if my daughter asks me to play, I'd readily agree. Bad moods distract us and reduce capacity. Mediation controls them well. When I paused in December 2021 and could feel my increase in bad moods. I resumed in 2025 after Vipassana.
 
@@ -37,7 +37,11 @@ Everyone has the same 24 hours in a day. Time management is about feeling we’v
 
 **Delegation**. I dislike delegating things I like doing (e.g. researching the cheapest tickets or correcting grammatical mistakes). Also, I believe I can do it better, and need perfect clarity before delegating. I plan to practice delegation intentionally. Since 2024, I've been delegating to LLMs quite well.
 
+**Use AI**. Delegating to AI agents is a huge time-saver. They can automate most routine tasks. (It can be addictive and suck your time, too.)
+
 **Focus**. Distractions break my chain of thought. That reduces capacity. I wake up early, so I block mornings for myself. My phone is on silent. My notifications are off. I use a new virtual desktop. All interruptions are batched into the afternoon.
+
+**Prioritize**. You will _anyway_ drop stuff. Might as well drop some _intentionally_. Habits help (e.g. I don't read news or socialize). Awareness / preferences help (e.g. I only work on AI since 2024). So do TODO lists.
 
 Overall, I spend 14 hours a day creating capacity and spend 4 hours of focus time, leaving me 6 hours for other things.
 
@@ -57,7 +61,7 @@ Overall, I spend 14 hours a day creating capacity and spend 4 hours of focus tim
 
 **[Journaling](/blog/zeigarnik-effect-vs-my-procrastination/)**. I pick 1 "must-do" task a day. As I go through the day, I write a log on whether I'm working on it or not, and why. (e.g. "10:30am. Skipped. Distracted by LinkedIn post." The very act of writing why I'm not working on it gets me thinking. Often, I get back to the task.
 
-**Prioritization metrics**. My idea-list is ordered by time (latest on top). I plan to order them by priority (most important on top) and work on them in order. But I don't know how to measure priority. I tried [the number of people I impact as a measure](/blog/increasing-calendar-effectiveness-by-2x/). It's not perfect. I plan to evaluate better metrics.
+**Prioritization metrics**. My idea-list is ordered by time (latest on top). I plan to order them by priority (most important on top) and work on them in order. But I don't know how to measure priority. I tried [the number of people I impact as a measure](/blog/increasing-calendar-effectiveness-by-2x/). It's not perfect.
 
 **Pomodoro**. I try to set a 25-minute timer to focus and take a 5-minute break. The focus usually works, but I tend to miss the break.
 

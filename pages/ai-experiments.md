@@ -1,0 +1,135 @@
+---
+title: AI Experiments
+date: 2026-04-11T13:32:19+08:00
+---
+
+A collection of little AI experiments that unlock ideas.
+
+- **VOICE** Speak to [ChatGPT](https://chatgpt.com/) in a language other than English
+- **VISION**
+  - Upload your palm's photo and ask for a palmistry reading
+  - Upload a screenshot of a contacts list and ask for a Google Contacts CSV import
+- **MUSIC** On Gemini select "Create music" (Lyria). Then prompt:
+  - "Create a vote of thanks for the following people. [People]"
+  - "Create a 30s loopable introduction jingle for [Speaker] who's speaking about [Topic]"
+- **IMAGE** On Gemini select "Create image" (Nano Banana Pro) and prompt:
+  - "Draw this as a visually rich, intricately detailed, colorful, and funny, sketchnote. [Content]"
+- **TOOLS** On Google Workspace Studio, prompt: "Add an URGENT label to emails that need immediate action by me."
+- **ANALYSIS** On ChatGPT, prompt: "Research and compare the AI policies across universities as a table."
+- **RESEARCH** On Claude Code / Codex, prompt: "Write a data story analyzing movie lengths over time." It will search, download, write code, analyze, and visualize.
+
+<!--
+
+Here are blog posts from 01 Jan 2026 to 11 Apr 2026. They are a good source of experiments.
+
+- creating-a-favicon-from-svg.md
+- using-svg-favicons-with-unicode.md
+- 🔴 first-4-words-of-2026.md
+- can-ai-replace-human-paper-reviewers.md
+- mapping-the-red-headed-league.md
+- linkedin-is-hostile-to-content.md
+- get-this-blog-via-email-on-google-groups.md
+- gemini-scraper.md
+- finding-open-source-bugs-with-ty.md
+- self-discover-llm-capabilities.md
+- scrabble-image-generation.md
+- 🔴 open-sandals.md
+- nptel-applied-vibe-coding-workshop.md
+- yearly-goal-tracking-faq.md
+- the-jamnagar-chokepoint-data-story.md
+- gemini-copies-images-almost-perfectly.md
+- creating-data-stories-in-different-styles.md
+- chrome-enterprise-premium-access.md
+- breaking-rules-in-the-age-of-ai.md
+- aws-partyrock.md
+- hot-cookies.md
+- google-ai-tools-list.md
+- gemini-3-flash-ocrs-dilbert-accurately.md
+- migrating-my-blog-from-wordpress-to-hugo.md
+- humans-have-taught-llms-well.md
+- rise-of-the-indian-tv-series.md
+- rip-data-engineers.md
+- openai-prism-for-latex.md
+- no-response-required.md
+- migrating-tds-from-docsify-to-hugo.md
+- using-gemini-to-create-slides.md
+- the-meaning-of-life.md
+- when-to-use-which-gemini-mode.md
+- verifying-textbook-facts.md
+- tds-jan-2026-ga1-released.md
+- tds-comic-generation.md
+- finding-old-friends-with-gemini.md
+- extracting-ai-advice.md
+- using-browser-tabs-as-slides.md
+- using-ai-for-work-news.md
+- time-bound-recurring-meetings.md
+- writing-articles-from-my-blog-posts.md
+- gemini-enterprise-business.md
+- ai-agents-to-hire.md
+- tools-in-data-science-jan-2026.md
+- the-periodic-table-by-primo-levi-and-randall-munroe.md
+- submitting-an-ai-ded-vizchitra-proposal.md
+- scepticism-and-humility.md
+- organizing-pdf-receipts.md
+- new-ways-of-reading-books.md
+- learnings-from-building-babbage-insight.md
+- memorable-explanations.md
+- dynamic-board-games-with-llms.md
+- baba-is-you.md
+- when-llm-prices-fall-10x-every-year.md
+- transcript-ai-ded-interviews.md
+- ai-expert-lens.md
+- analaizing-cloud-costs.md
+- ai-video-compression.md
+- using-codex-to-improve-codex.md
+- repurposing-blog-posts-for-talks.md
+- ilaiyaraaja-mridangam-songs.md
+- birthday-sandwich-cake.md
+- white-pebble-black-pebble.md
+- can-ai-discover-new-data-visualizations.md
+- blog-embeddings-map.md
+- hardening-my-dev-container-setup.md
+- gemini-cli-harness-is-not-good-enough.md
+- directional-feedback-for-ai.md
+- the-future-of-work-with-ai.md
+- recording-screencasts.md
+- prototyping-the-prototypes.md
+- llm-comic-styles.md
+- leaked-key-sociology.md
+- using-game-playing-agents-to-teach.md
+- using-browser-history-as-memory.md
+- the-nano-banana-paradox.md
+- which-llms-get-you-better-grades.md
+- ai-in-sdlc-at-pyconf.md
+- ai-for-film-dialogues.md
+- kick-starting-a-pyconf-panelist-interview.md
+- interactive-explainers.md
+- iim-bangalore-pgp-interview-panel.md
+- how-i-use-ai-to-teach.md
+- cracking-online-exams-with-coding-agents.md
+- calvin-umap.md
+- local-context-repositories-for-ai.md
+- software-naming-has-power.md
+- searxng-and-vane.md
+- rofi-vs-kanata.md
+- human-as-an-interface.md
+- how-to-develop-taste.md
+- coding-agents-are-the-new-software.md
+- the-nov-2025-vibe-coding-ghost-revolution.md
+- testing-polya-heuristics-on-ai-math.md
+- read-tamil-on-tv-with-gemini.md
+- live-vibe-coding-using-others-ideas.md
+- hack-of-the-day-on-times-of-india.md
+- sonnet-4-6-vs-minimax-m2-7.md
+- tds-project-1-was-an-experiment.md
+- mgr-via-elevenlabs.md
+- ai-policies-across-universities.md
+- 🔴 sstds-jan-2026-roe.md
+- how-to-use-ai-for-research.md
+- 🟢 speaking-unprepared.md
+- 🟢 singing-a-vote-of-thanks.md
+- 🔴 flight-mode-emotions.md
+- 🟢 ai-palmistry.md
+- 🔴 workshops-help-ai-adoption.md
+
+-->

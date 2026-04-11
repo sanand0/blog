@@ -1,7 +1,7 @@
 ---
 title: I count AI summarized books as "Read"
-date: "2025-12-27T02:54:41Z"
-lastmod: "2025-12-31T13:35:44Z"
+date: 2025-12-27T02:54:41Z
+lastmod: 2026-04-11T13:52:35+08:00
 categories:
   - how-i-do-things
 tags:
@@ -81,7 +81,11 @@ Maybe that's cheating. But maybe the rules of our game have changed, and I haven
 
 ---
 
-Update: 31 Dec 2025. Here are the books I read this year via AI summaries, along with links to the Claude summaries.
+[LinkedIn](https://www.linkedin.com/posts/sanand0_%F0%9D%97%9C-%F0%9D%97%B0%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%81-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%98%80%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%87%F0%9D%97%B2%F0%9D%97%B1-%F0%9D%97%AF%F0%9D%97%BC%F0%9D%97%BC%F0%9D%97%B8%F0%9D%98%80-activity-7410515008419332096-iBZ9/)
+
+---
+
+**Update: 31 Dec 2025**. Here are the books I read this year via AI summaries, along with links to the Claude summaries.
 
 1. [Sex at Dawn](https://www.goodreads.com/book/show/7640261-sex-at-dawn) by Christopher Ryan, Cacilda Jethá
    [Claude](https://claude.ai/share/417070cf-db71-4f5b-8415-21083428b7df) <!-- https://claude.ai/chat/04513600-c674-45c9-a063-332d5b4aed72 -->
@@ -171,4 +175,36 @@ Update: 31 Dec 2025. Here are the books I read this year via AI summaries, along
 
 ---
 
-[LinkedIn](https://www.linkedin.com/posts/sanand0_%F0%9D%97%9C-%F0%9D%97%B0%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%81-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%98%80%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%87%F0%9D%97%B2%F0%9D%97%B1-%F0%9D%97%AF%F0%9D%97%BC%F0%9D%97%BC%F0%9D%97%B8%F0%9D%98%80-activity-7410515008419332096-iBZ9/)
+**Update: 11 Apr 2026**. I started adding this follow-up prompt:
+
+> Based on what you know of me, what are the things I should learn from these books? What might I do differently? Why? How?
+
+Based on past conversations, AI _knows_ me. For example, here were Claude's thoughts:
+
+> Anand wants personalized life lessons from these books, filtered through what I know about him. Let me think about what I know:
+>
+> - Chief Innovation Officer at Straive, AI strategy, enterprise consulting
+> - Faculty at IIT Madras, teaching Tools in Data Science to large cohort
+> - Based in Singapore, Indian origins
+> - Blogs daily at s-anand.net about AI experiments
+> - Interests: data visualization, behavioral science, cross-domain pattern recognition, design
+> - IIM Bangalore alumnus
+> - Regular speaker at conferences
+> - Core intellectual commitments: judgment and taste as scarce resource; verifiable/auditable AI outputs; Jevons Paradox applied to knowledge work; production costs collapsing shifts bottleneck to curation
+> - Thinks in systems, economic, and forecasting frameworks with superforecaster-style probabilistic reasoning
+> - Identifies as "LLM Psychologist"
+> - Teaching an AI workshop for senior IAS officers at LBSNAA
+
+That leads to _high quality ideas_. For example, it told me:
+
+> ... you're surrounded by people optimizing for the marathon — the visible, bounded deliverable. But Pheidippides' actual run — the slow, unglamorous, unsexy one that actually won the war — was the one nobody watched.
+>
+> **What's the Spartathlon version of your work?** Probably: the long, patient work of changing how a client organization _thinks_, not just what tools it uses.
+>
+> ... make sure you're spending _some_ deliberate effort on it, even when there's no one watching and no milestone presentation scheduled.
+
+That led me to review transcripts for AI adoption impact. Answer: [workshops help AI adoption most](/blog/posts/workshops-help-ai-adoption/). I'm keeping an [AI experiments list](/blog/ai-experiments/) handy for impromptu workshops.
+
+That's _real_ impact. In less time than I'd have taken to read a book.
+
+Sure, I didn't get what the books had to offer. I didn't struggle. But I _did_ get personalized value.
