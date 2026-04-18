@@ -129,7 +129,8 @@ Critical skills in the AI era:
 - **Thinking of useful things**. Learn to quickly discover _lots_ of useful things for yourself and others. AI can execute them fast.
 - **Validation**. AI works fast. Learn shortcuts to compare versions, find mistakes, give feedback - in unfamiliar areas. (Consultants learn this skill well.)
 - **Accountability**. Giving a commitment, standing behind it, knowing how to manage the risk this involves.
-- **People skills**. Prioritize empathy, negotiation, judgment, and communication are less easy to delegate to AI agents.
+- **People skills**. Collaboration. Prioritize empathy, negotiation, judgment, and communication are less easy to delegate to AI agents.
+- **Communication**. Thinking clearly and expressing it clearly.
 - **Management**. Shift from doing the work yourself to managing "teams" of AI interns and agents to handle execution.
 
 Growing skills:
@@ -139,6 +140,7 @@ Growing skills:
 - **Tooling**. Learn how to connect things - especially to agentic systems - to give them more execution power.
 - **Problem breakdown**. Learn to breaking problems down into small, logical tasks that people/AI can execute reliably.
 - **Prototyping**. Learn to build (and iterate on) the smallest working solution (using AI agents) ultra-rapidly.
+- **Ethics**. Values. Governance. What _should_ we do? How do we decide? How do we make it happen and know it's working?
 - **Hard to define skills**. Skills that are easy to define are easy to train AI models on. It's what we can't even name that's valuable.
 
 Growing (for a while) skills:

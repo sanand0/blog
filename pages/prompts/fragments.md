@@ -349,6 +349,15 @@ Write as a single page HTML application.
 
 For Gemini, to generate Google Slides, remove the last (HTML) line.
 
+## Song narrative
+
+```markdown
+Create a narrative summarizing this article.
+Narrate it rather than sing it.
+Use a voice like Bobby McFerrin's, as if he were narrating rather than singing.
+Keep the music MINIMAL, NO intro/outro music, and focus ENTIRELY on the voice.
+```
+
 ## Style detection
 
 ```markdown

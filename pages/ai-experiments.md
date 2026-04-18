@@ -14,7 +14,9 @@ A collection of little AI experiments that unlock ideas.
   - "Create a 30s loopable introduction jingle for [Speaker] who's speaking about [Topic]"
 - **IMAGE** On Gemini select "Create image" (Nano Banana Pro) and prompt:
   - "Draw this as a visually rich, intricately detailed, colorful, and funny, sketchnote. [Content]"
-- **TOOLS** On Google Workspace Studio, prompt: "Add an URGENT label to emails that need immediate action by me."
+- **AUTOMATIION**
+  - On Google Workspace Studio, prompt: "Add an URGENT label to emails that need immediate action by me."
+  - On Claude Code Desktop, prompt: "Send a test email to myself."
 - **ANALYSIS** On ChatGPT, prompt: "Research and compare the AI policies across universities as a table."
 - **RESEARCH** On Claude Code / Codex, prompt: "Write a data story analyzing movie lengths over time." It will search, download, write code, analyze, and visualize.
 

@@ -1,5 +1,6 @@
 ---
 date: "2025-07-01T08:53:45Z"
+updated: 2026-04-16T10:27:04-07:00
 categories:
   - llms
   - linkedin
@@ -20,12 +21,18 @@ But:
 
 - LLMs are still not great at slides. https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7311066572113002497/
 - LLMs still can't follow a data visualization style guide.
-- LLMs can't yet create good sketch notes.
+- ~~LLMs can't yet create good sketch notes.~~ **Apr 2026**: With Nano Banana, they can, and Nano Banana Pro doesn't even make spelling mistakes.
 - LLMs still draw bounding boxes as well as specialized models.
-- Agents (LLMs running tools in a loop) can think only for ~6 min.
+- ~~Agents (LLMs running tools in a loop) can think only for ~6 min.~~ **Apr 2026**: With Opus 4.6 and GPT 5.4, agents run for _several hours_ independently.
 
 What's on your list of things LLMs still can't do?
 
 ![](https://files.s-anand.net/images/2025-07-01-llm-impossibility-list-linkedin.jpg)
 
 [LinkedIn](https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7345736358277103616)
+
+---
+
+**UPDATES**:
+
+- 16 Apr 2026: LLMs don't speak niche foreign language dialects perfectly. Gemini speaks Dutch, Tamil, etc. well but not specific accents. ElevenLabs cannot clone [MGR's voice](/blog/mgr-via-elevenlabs/) perfectly yet.

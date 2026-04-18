@@ -16,7 +16,7 @@ Even people who have Google Maps on their phone ask me for directions. I pull ou
 
 Effectively, I'm the **Human-as-an-Interface** (HAAI everyone!)
 
-<!-- https://gemini.google.com/app/9e8a7fa29e09f837 -->
+<!-- https://gemini.google.com/app/9e8a 7fa29e09f837 -->
 But [I learnt today](https://gemini.google.com/share/5d075169135f) that this has historical precedent. Doormen, lift operators, doormen, the waiter who recites the menu, the secretary we used to dictate to, ...
 
 These can be high-paying jobs, too.
@@ -35,9 +35,9 @@ Also, we're biased. Costly feels better than cheap (e.g. watches). Action feels 
 
 If you want to sell these, your scale depends on what people buy: [Procedure, Brains, or Grey Hair](https://www.latecheckout.agency/blog/the-future-of-service-firms-in-the-age-of-ai-why-relationships-strategy-and-brains-will-be-the-moat)
 
-- **Companies sell procedure**. Consultants, auditors, IT/BPO firms, .... have partners who sell, associates who work, and churn doesn't matter.
-- **Studios sell brains**. Agencies have star-led small talented teams where churn matters. Scale hurts their agility.
-- **Professionals sell relationship**. Coaches, therapists, advisors, ... have a person they trust. Scale is limited by their calendar.
+- **Companies sell procedure**. Consultants, auditors, IT/BPO firms, .... have partners who sell, associates who work, and churn doesn't matter. (McKinsey, BCG, Accenture, Deloitte, Infosys)
+- **Studios sell brains**. Agencies have star-led small talented teams where churn matters. Scale hurts their agility. (IDEO, Thoughtworks, Pentagram, Frog Design)
+- **Professionals sell relationship**. Coaches, therapists, advisors, ... have a person they trust. Scale is limited by their calendar. (Oprah Winfrey, Simon Sinek, Marshall Goldsmith)
 
 Technology (SaaS, AI), by-products (books / speaking engagements) etc. can't scale these much. Changing _what_ they sell (products > procedure > brains) scales.
 

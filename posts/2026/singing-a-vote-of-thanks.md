@@ -15,7 +15,8 @@ Yesterday I ran an [AI Workshop for IAS officers](https://sanand0.github.io/talk
 
 The song began...
 
-<audio controls="" src="https://github.com/sanand0/talks/releases/download/talks/2026-04-08-ai-workshop-lbsnaa-vote-of-thanks-song.opus">
+<audio controls preload="metadata">
+  <source src="https://github.com/sanand0/talks/releases/download/talks/2026-04-08-ai-workshop-lbsnaa-vote-of-thanks-song.opus" type="audio/ogg; codecs=opus">
   <a href="https://github.com/sanand0/talks/releases/download/talks/2026-04-08-ai-workshop-lbsnaa-vote-of-thanks-song.opus">(Listen to the song)</a>
 </audio>
 
@@ -77,3 +78,36 @@ At "Jai Hind", I had goosebumps. And the audience broke into an applause.
 We should all do this sort of thing more often. 🙂
 
 ![](https://files.s-anand.net/images/2026-04-09-singing-a-vote-of-thanks.avif)
+
+---
+
+**UPDATE: 14 Apr 2026**. Here are [several ideas on where else we might use songs](https://claude.ai/share/58e1ab38-f309-4599-9600-89a1219f1d5f): <!-- https://claude.ai/chat/2a5c2090-330e-45a3-a569-59352c08c65d -->
+
+- **Celebrations**. Personalized birthday songs. Or anniversary. Or a celebration - like graduation, promotion, closing a deal, delivering a project, thanking team members, etc.
+- **Tough situations**. Before a difficult conversation / meeting, an apology, firing someone, a couple's argument, a protest anthem, etc.
+- **Updates**. As an earnings call, status update, project update, contract summary, etc.
+
+I used it to narrate a [data journalism process](https://sanand0.github.io/journalists/statnostics/process.html) using [Gemini](https://gemini.google.com/share/bafc656f7c02) <!-- https://gemini.google.com/app/67277d752fcaaabc --> with this prompt:
+
+> Narrate a summary of this process for creating Statoistics for the Times of India in a light, engaging way, as if you were explaining it to a friend.\
+> Think about the most important points, structure it logically so that the narrative is easy to follow, then generate the song.
+
+... followed by:
+
+> Narrate, don't sing.\
+> Less music, more focus on the voice.\
+> Far simpler narrative - EXPLAIN to someone who doesn't understand ANYTHING of the context.
+
+The result is pretty good!
+
+<audio controls preload="metadata">
+  <source src="https://files.s-anand.net/images/2026-04-14-the-plumbing-behind-the-prose.opus" type="audio/ogg; codecs=opus">
+</audio>
+
+---
+
+**UPDATE: 16 Apr 2026**. This is proving more useful than I thought.
+
+- A colleague shared a song thanking his team for their contributions.
+- Another colleague converted classroom videos into rap songs summarizing the session - making this more memorable.
+- I created a narrative songs sharing (rhythmic) feedback for teachers based on their transcripts - making this a less scary process.
