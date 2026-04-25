@@ -166,16 +166,12 @@ DO NOT DRAW. Just give me simple, funny ideas.
 Draw this as a visually rich, intricately detailed, colorful, and funny, infographic poster.
 ```
 
-## Draw Sketchnote
-
-```markdown
-Draw this as a visually rich, intricately detailed, colorful, and funny, sketchnote.
-```
-
 ## Draw Sketchnote (thinking)
 
 ```markdown
 Draw this as a visually rich, intricately detailed, colorful, and funny, sketchnote.
+Use comic-style font in caps.
+Keep the text to under 300 words. Prefer evocative imagery over text.
 Think about the most important points, structure it logically so that the sketchnote is easy to follow, then draw it.
 ```
 
