@@ -5,6 +5,8 @@ lastmod: "2022-02-20T07:12:08Z"
 categories:
   - talks
 wp_id: 3149
+description: "This talk transcript shows how reshaping and joining mismatched maps unlocks political, administrative, and business insights that would otherwise stay hidden in disconnected geographic layers."
+keywords: ["maps", "spatial joins", "gerrymandering", "geospatial", "delimitation", "Python"]
 ---
 
 ![Maps, Delimitation, and Gerrymandering](/blog/assets/image-56.webp)

@@ -5,6 +5,8 @@ lastmod: "2024-11-02T00:32:28Z"
 categories:
   - llms
 wp_id: 3682
+description: "Vision-capable LLMs can describe scenes but still struggle to place accurate pixel-level bounding boxes, though simple aids like labeled gridlines improve them somewhat."
+keywords: [bounding boxes, vision models, computer vision, LLMs, object detection, evaluation]
 ---
 
 <p>I sent an image to over a dozen LLMs that support vision, asking them:</p>

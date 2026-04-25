@@ -4,6 +4,8 @@ date: 2026-04-03T16:05:24+08:00
 categories:
   - education
   - llms
+description: The project was not just an assignment but a live experiment in how students perform on analytics versus design tasks in an AI era, revealing both strengths and gaps.
+keywords: [AI in education, project-based learning, design skills, analytics, student evaluation, experimentation]
 ---
 
 [TDS Project 1](https://sanand0.github.io/datastories/tds-2026-01-p1/) wasn't just a student project. It was a research and social experiment, too.

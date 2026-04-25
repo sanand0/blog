@@ -6,6 +6,8 @@ categories:
   - how-i-do-things
   - llms
 wp_id: 4191
+description: "Recording and transcribing unscripted sessions lets LLMs generate useful post-hoc slide decks and derived assets like quizzes, errata, and feedback."
+keywords: ["AfterSlides", "talk transcription", "slide generation", "derived content", "LLMs", "presentations"]
 ---
 
 ![AfterSlides: Write Slides After Talks](/blog/assets/image-10.webp)

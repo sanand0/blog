@@ -6,6 +6,8 @@ categories:
   - education
   - llms
 wp_id: 3764
+description: "LLM-based evaluation becomes more defensible when framed as a game of convincing the grader, broken into granular binary checks, and hardened with re-evaluation against prompt hacking."
+keywords: [LLM evaluation, education, ChatGPT grading, prompt hacking, binary checks, teaching]
 ---
 
 ![Hacking LLMs: A Teacher's Guide to Evaluating with ChatGPT](/blog/assets/DALL·E-2024-12-19-12.57.34-A-black-and-white-single-panel-comic-strip-in-the-style-of-classic-Calvin-Hobbes.-Calvin-a-young-boy-with-wild-hair-confidently-presents-a-messy-.webp)

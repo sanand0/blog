@@ -5,6 +5,8 @@ lastmod: "2025-01-25T02:40:05Z"
 categories:
   - quizzes
 wp_id: 3084
+description: "This music quiz asks fans to identify Tamil films from Harris Jayaraj's first interludes, focusing on melody recognition rather than lyrics."
+keywords: ["Harris Jayaraj", "Tamil songs", "quiz", "interludes", "music", "interactive"]
 ---
 
 ![Harris Jayaraj First Interludes](/blog/assets/Harris-Jayaraj.webp)

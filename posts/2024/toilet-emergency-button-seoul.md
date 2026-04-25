@@ -2,6 +2,8 @@
 date: "2024-10-01T12:24:58Z"
 categories:
   - linkedin
+description: "A short anecdote about using ChatGPT’s voice mode to explain an accidentally triggered bathroom emergency button in Korean."
+keywords: [ChatGPT voice, translation, Korean, travel mishap, hotel, Seoul]
 ---
 
 I accidentally pressed the emergency button in the toilet.

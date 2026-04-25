@@ -2,6 +2,8 @@
 date: "2024-10-20T10:37:57Z"
 categories:
   - linkedin
+description: "Non-programmers build AI coding skill less through tutorials than through repeated attempts, fast abandonment of dead ends, and revisiting failed ideas as model capabilities improve."
+keywords: [non-programmers, AI coding, app building, learning strategy, experimentation, Claude]
 ---
 
 How can non-programmers build apps?

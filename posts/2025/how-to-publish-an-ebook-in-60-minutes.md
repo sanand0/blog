@@ -8,6 +8,8 @@ categories:
 tags:
   - book
 wp_id: 4000
+description: "If the content already exists, modern tooling plus LLM assistance makes ebook publishing a mostly operational task that can be completed in about an hour."
+keywords: [ebook publishing, KDP, pandoc, Markdown, LLMs, self-publishing]
 ---
 
 ![How to publish an eBook in 60 minutes](https://files.s-anand.net/images/2025-03-31-an-lbs-exchange-program-ebook-cover.webp)

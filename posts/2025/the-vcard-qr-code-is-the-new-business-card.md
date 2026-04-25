@@ -5,6 +5,8 @@ lastmod: "2025-03-30T10:59:06Z"
 categories:
   - links
 wp_id: 3997
+description: "A vCard QR code is a simple, already-available replacement for physical business cards because it is faster, cleaner, and instantly updateable."
+keywords: [vCard, QR code, business cards, contact sharing, networking, mobile workflow]
 ---
 
 ![The vCard QR Code is The New Business Card](/blog/assets/Anand.Contact.QR-Code.webp)

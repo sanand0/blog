@@ -1,10 +1,12 @@
 ---
 title: Tools in Data Science - Jan 2026
-date: 2026-01-29T07:33:22+08:00
+date: '2026-01-29T07:33:22+08:00'
 categories:
-  - education
-  - data
-  - llms
+- education
+- data
+- llms
+description: A modern AI course should drop static content, foreground AI failure modes, and teach orchestration, debugging, and evaluation instead.
+keywords: [AI education, pedagogy, Tools in Data Science, prompts, evaluation, curriculum]
 ---
 
 My [Tools in Data Science course](https://tds.s-anand.net/) is available publicly, with a few changes from last year.

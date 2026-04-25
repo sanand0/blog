@@ -1,9 +1,11 @@
 ---
 title: Recording screencasts
-date: 2026-03-11T10:48:01+08:00
+date: '2026-03-11T10:48:01+08:00'
 categories:
-  - coding
-  - how-i-do-things
+- coding
+- how-i-do-things
+description: A lightweight recording and compression workflow can produce high-quality screencasts cheaply enough to make video a practical medium for demos, teaching, and documentation.
+keywords: [screencasts, video recording, compression, WEBM, ffmpeg, developer tools]
 ---
 
 <!-- https://gemini.google.com/u/2/app/6cf35e0e4b2a90da -->

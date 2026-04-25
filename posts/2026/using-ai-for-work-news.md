@@ -1,9 +1,11 @@
 ---
 title: Using AI for work news
-date: 2026-02-14T14:32:16+08:00
+date: '2026-02-14T14:32:16+08:00'
 categories:
-  - business-realities
-  - llms
+- business-realities
+- llms
+description: Workflow automation can turn scattered organizational signals into useful recurring newsletters that keep distributed teams aware of internal innovation.
+keywords: [work newsletters, organizational knowledge, Google Workspace Studio, automation, internal communication, AI]
 ---
 
 This week, [Namit](https://www.linkedin.com/in/namit-sureka-43ab89) and I met a Straive team that operates from a client office. One team member asked:

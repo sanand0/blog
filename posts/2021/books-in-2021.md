@@ -8,6 +8,8 @@ categories:
 tags:
   - book
 wp_id: 3233
+description: "This 2021 reading retrospective organizes fifty-two books by impact, recommending titles that most changed the author's thinking about wealth, habits, mortality, storytelling, and fantasy."
+keywords: ["books", "reading list", "2021", "non-fiction", "fantasy", "recommendations"]
 ---
 
 ![Books in 2021](/blog/assets/image-71.webp)

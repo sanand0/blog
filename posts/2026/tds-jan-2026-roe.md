@@ -4,6 +4,8 @@ date: 2026-04-05T19:04:37+08:00
 categories:
   - llms
   - education
+description: In an AI-rich exam environment, question difficulty depends less on traditional rigor and more on whether tasks are designed to resist trivial delegation to models.
+keywords: [AI in education, exams, assessment design, Tools in Data Science, academic integrity, promptability]
 ---
 
 [Tools in Data Science](https://tds.s-anand.net/) has a remote online exam (ROE). It has a tough reputation. We conducted one today.

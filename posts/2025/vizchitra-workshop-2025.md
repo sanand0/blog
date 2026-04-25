@@ -2,6 +2,8 @@
 date: "2025-06-29T10:25:14Z"
 categories:
   - linkedin
+description: "Participants can go from dataset to published visualization in a single session using only LLM tools, with no manual coding or traditional analysis required."
+keywords: ["VizChitra", "LLM workshop", "data visualization", "prompt to plot", "education", "publishing"]
 ---
 
 We created data visualizations _just_ using LLMs at my VizChitra workshop yesterday.

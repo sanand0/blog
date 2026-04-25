@@ -2,6 +2,8 @@
 date: "2022-06-06T16:19:37Z"
 categories:
   - linkedin
+description: "A quick observation on the age profile of the author's music library turns into a two-week celebration of songs inherited from his parents' era."
+keywords: ["music library", "1960s songs", "nostalgia", "parents", "listening habits", "LinkedIn"]
 ---
 
 I was surprised to see a big chunk of my #music library is from the 1960s -- thanks to the songs my parents grew up with, and passed on to me.

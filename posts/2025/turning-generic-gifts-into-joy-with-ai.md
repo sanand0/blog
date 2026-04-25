@@ -5,6 +5,8 @@ lastmod: "2025-09-18T13:18:36Z"
 categories:
   - llms
 wp_id: 4188
+description: "AI can personalize gifts at scale in a way that transforms generic corporate swag into something genuinely memorable and emotionally resonant."
+keywords: ["personalization", "AI gifts", "employee experience", "image generation", "HR", "delight"]
 ---
 
 ![Turning Generic Gifts Into Joy with AI](/blog/assets/Anand-AI-Influencer-Straive-desk-plaque.webp)

@@ -4,6 +4,8 @@ categories:
   - linkedin
   - education
   - llms
+description: "The September 2025 edition of Tools in Data Science adds an AI-coding section, and student feedback suggests that rigor and challenge increase perceived value rather than just frustration."
+keywords: ["AI education", "Tools in Data Science", "course design", "student feedback", "desirable difficulty", "assessment"]
 ---
 
 Tools in Data Science Sep 2025 edition is live: https://tds.s-anand.net/. Major update: a new AI-Coding section and fresh projects.

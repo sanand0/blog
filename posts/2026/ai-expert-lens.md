@@ -1,8 +1,10 @@
 ---
 title: AI Expert Lens
-date: 2026-03-01T12:53:47+08:00
+date: '2026-03-01T12:53:47+08:00'
 categories:
-  - llms
+- llms
+description: Prompting an AI to reason like an expert often improves the usefulness of its response by forcing attention onto patterns, questions, and failure modes that novices miss.
+keywords: [prompt engineering, expert lens, AI reasoning, prompt fragments, analysis, thinking tools]
 ---
 
 My current favorite prompt fragment is the [expert lens](https://github.com/sanand0/blog/blob/b08c6b7dc98c47f4c075df7f14e476209672c0ed/pages/prompts/fragments.md#expert-lens):

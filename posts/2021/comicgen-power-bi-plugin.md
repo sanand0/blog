@@ -2,6 +2,8 @@
 date: "2021-03-19T10:42:30Z"
 categories:
   - linkedin
+description: "Comicgen unexpectedly became a flagship Gramener property again when its Power BI plugin earned an Editor's Pick, extending comics into mainstream BI workflows."
+keywords: ["Comicgen", "Power BI", "plugin", "open source", "data comics", "LinkedIn"]
 ---
 
 When we started Comicgen -- a JavaScript library to generate comics - https://gramener.com/comicgen/ -- I didn't expect it to become the #1 page on the Gramener website.

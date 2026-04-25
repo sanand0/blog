@@ -3,6 +3,8 @@ date: "2025-04-27T09:36:39Z"
 categories:
   - linkedin
   - llms
+description: "Choosing the right ChatGPT model can be simplified into a small decision tree based on whether the task needs default intelligence, coding strength, or quick/image output."
+keywords: [model selection, ChatGPT, O3, O4 mini high, GPT-4o, decision tree]
 ---
 
 This is my decision tree for which model to use on #ChatGPT right now.

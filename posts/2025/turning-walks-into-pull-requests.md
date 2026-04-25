@@ -6,6 +6,8 @@ categories:
   - coding
   - llms
 wp_id: 4135
+description: "Mobile coding agents like Jules can turn commute time into shipped documentation, tests, and code when paired with strong tests and review discipline."
+keywords: ["Jules", "coding agents", "mobile workflow", "pull requests", "testing", "developer productivity"]
 ---
 
 ![Turning Walks into Pull Requests](/blog/assets/jules.webp)

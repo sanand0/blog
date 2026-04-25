@@ -3,6 +3,8 @@ title: Singing a Vote of Thanks
 date: 2026-04-09T07:56:28+05:30
 categories:
   - llms
+description: Music-generation tools can personalize ceremonial communication in surprisingly effective ways, turning routine acknowledgments into memorable experiences.
+keywords: [Lyria, Gemini, AI music, ceremonies, personalization, creative AI]
 ---
 
 Lyria (Gemini's new "Create Song" feature) is helping me in new ways. Earlier this week, it [created a jingle for my talk](/blog/speaking-unprepared/).

@@ -6,6 +6,8 @@ categories:
   - coding
   - llms
 wp_id: 3508
+description: "The newer OpenAI embedding models produce much lower cosine similarities than ada-002, so practical similarity thresholds need recalibration from around 85% to roughly 45%."
+keywords: ["embeddings", "similarity threshold", "cosine similarity", "text-embedding-3-small", "OpenAI", "calibration"]
 ---
 
 ![Embeddings similarity threshold](/blog/assets/image-81.webp)

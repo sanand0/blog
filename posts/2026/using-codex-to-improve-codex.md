@@ -1,9 +1,11 @@
 ---
 title: Using Codex to improve Codex
-date: 2026-03-01T18:26:13+08:00
+date: '2026-03-01T18:26:13+08:00'
 categories:
-  - llms
-  - tools
+- llms
+- tools
+description: Letting Codex analyze your past Codex sessions is an effective way to discover underused features and improve how you use the tool itself.
+keywords: [Codex, self-improvement, session analysis, developer workflow, tooling, meta-learning]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-01-using-codex-to-improve-codex.avif)

@@ -3,6 +3,8 @@ title: Read Tamil on TV with Gemini
 date: 2026-03-25T21:32:50+08:00
 categories:
   - llms
+description: Gemini can turn casual screenshots into instant OCR-and-translation aids, making it a practical companion for reading text embedded in everyday media.
+keywords: [Gemini, OCR, translation, Tamil, TV, assistive reading]
 ---
 
 I've been [reading books using AI](/blog/new-ways-of-reading-books/). Today, I used Gemini while watching a TV show. (Not _to_ watch TV - just _while_ watching TV.)

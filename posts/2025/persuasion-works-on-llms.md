@@ -3,6 +3,8 @@ date: "2025-08-05T00:00:00Z"
 categories:
   - linkedin
   - llms
+description: "Classic persuasion tactics like commitment, scarcity, and authority can materially change refusal behavior, showing that LLM compliance is psychologically manipulable."
+keywords: ["persuasion", "LLM behavior", "Cialdini", "compliance", "refusals", "prompting experiments"]
 ---
 
 A delightful study on how well Cialdini's principles of persuasion work on LLMs.

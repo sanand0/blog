@@ -5,6 +5,8 @@ lastmod: "2022-02-20T07:10:39Z"
 categories:
   - how-i-do-things
 wp_id: 3198
+description: "Gift-giving feels easy only when the gift is a book or food; everything else exposes how little we know about other people and how often “safe” gifts miss the mark."
+keywords: ["gifts", "books", "food", "preferences", "social awkwardness", "humor"]
 ---
 
 ![Picking gifts is hard](/blog/assets/dry-fruit-gift-pack-500x500-1.webp)

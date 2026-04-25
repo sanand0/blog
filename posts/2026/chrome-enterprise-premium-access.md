@@ -1,8 +1,10 @@
 ---
 title: Chrome Enterprise Premium access
-date: 2026-01-24T15:26:27+05:30
+date: '2026-01-24T15:26:27+05:30'
 categories:
-  - business-realities
+- business-realities
+description: Heavy enterprise browser controls can unintentionally change work habits in ways that may reduce distraction as much as they reduce freedom.
+keywords: [Chrome Enterprise, browser security, enterprise controls, productivity, workplace surveillance, tradeoffs]
 ---
 
 Straive turned on [Chrome Enterprise Premium](https://chromeenterprise.google/products/chrome-enterprise-premium/) on my browser. This means:

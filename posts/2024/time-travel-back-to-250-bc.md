@@ -2,6 +2,8 @@
 date: "2024-05-05T02:03:05Z"
 categories:
   - linkedin
+description: "The author would time-travel to 250 BC to overlap with both Ashoka and Archimedes, inspired by a visualization that makes historical simultaneity feel vivid."
+keywords: ["time travel", "250 BC", "Ashoka", "Archimedes", "history visualization", "Parallel Lives"]
 ---
 
 250 BC is when I'd pick to time-travel to. Ashoka was turning into one of the most famous emperors of India and Archimedes was growing into one of the greatest mathematicians of all time.

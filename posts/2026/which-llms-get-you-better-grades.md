@@ -1,9 +1,11 @@
 ---
 title: Which LLMs get you better grades?
-date: 2026-03-06T19:26:47+08:00
+date: '2026-03-06T19:26:47+08:00'
 categories:
-  - education
-  - llms
+- education
+- llms
+description: Students using different LLMs perform differently enough that model choice appears to have a real impact on grades.
+keywords: [LLM comparison, grades, education, student performance, model choice, causal analysis]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-06-which-llm-get-you-better-grades.avif)

@@ -4,6 +4,8 @@ categories:
   - how-i-do-things
   - visualisation
   - linkedin
+description: "A very simple eating rule change, not exercise, drove major weight loss, with AI used mainly to analyze and visualize the outcome."
+keywords: ["weight loss", "fasting", "health", "self-tracking", "data visualization", "Claude Code"]
 ---
 
 I lost 22 kg in 22 weeks.

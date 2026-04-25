@@ -2,6 +2,8 @@
 date: "2024-08-16T06:52:54Z"
 categories:
   - linkedin
+description: "A small office design choice—power sockets placed on top of desks instead of underneath—dramatically improves everyday comfort for visitors and laptop users."
+keywords: ["office design", "power sockets", "workplace ergonomics", "client office", "small delights", "productivity"]
 ---
 
 Visiting client offices is usually a painful exercise, given travel and security.

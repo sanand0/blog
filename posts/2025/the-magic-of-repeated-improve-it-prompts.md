@@ -6,6 +6,8 @@ categories:
   - coding
   - llms
 wp_id: 4045
+description: "Repeatedly telling a capable model to 'improve it' can evolve trivial code into surprisingly rich interactive apps, revealing iterative prompting as a creative search process."
+keywords: [auto-improve, iterative prompting, GPT-4.1 Nano, code generation, creative search, UI evolution]
 ---
 
 ![The Magic of Repeated ‘Improve It’ Prompts](/blog/assets/screenshot-1.webp)

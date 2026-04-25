@@ -2,6 +2,8 @@
 date: "2023-09-29T01:45:53Z"
 categories:
   - linkedin
+description: "A familiar PyCon topic became interesting again once the author reframed it as a live experiment in getting AI to generate code for Minecraft."
+keywords: ["PyCon", "Minecraft", "AI coding", "talks", "learning", "experimentation"]
 ---
 
 My PyCon talks are a way for me to learn. I usually pick topics I don't know about.

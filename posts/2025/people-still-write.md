@@ -2,6 +2,8 @@
 date: "2025-04-30T13:49:26Z"
 categories:
   - linkedin
+description: "This is a brief, ironic reminder that writing by hand now feels unusual enough to be worth noticing."
+keywords: [writing, handwriting, technology habits, attention, irony, observation]
 ---
 
 People still write?

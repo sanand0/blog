@@ -7,6 +7,8 @@ categories:
   - how-i-do-things
   - llms
 wp_id: 3550
+description: "A few carefully chosen prompts—especially compact logic puzzles and a Caesar-cipher question—can quickly separate ordinary models from the strongest reasoning-capable LLMs."
+keywords: ["LLM evaluation", "prompt testing", "reasoning puzzles", "Caesar cipher", "model capability", "benchmarking"]
 ---
 
 ![A quick way to assess LLM capabilities](/blog/assets/robot-writing-exam.webp)

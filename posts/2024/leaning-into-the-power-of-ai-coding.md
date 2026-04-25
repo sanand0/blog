@@ -5,6 +5,8 @@ lastmod: "2024-10-16T03:56:01Z"
 categories:
   - links
 wp_id: 3656
+description: "Heavy use of Cursor broke multiple practical learning barriers by turning testing, refactoring, packaging, docs, and even blog writing into prompt-driven coding exercises."
+keywords: [Cursor, AI coding, testing, refactoring, npm packages, developer workflow]
 ---
 
 ![Leaning into the power of AI coding](/blog/assets/DALL·E-2024-10-16-11.52.50-A-colorful-single-panel-comic-strip-in-the-style-of-classic-Calvin-Hobbes.-Calvin-a-young-boy-with-wild-hair-is-wobbling-precariously-on-a-bike-as.webp)

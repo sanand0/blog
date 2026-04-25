@@ -5,6 +5,8 @@ lastmod: "2022-01-06T06:01:28Z"
 categories:
   - experiments
 wp_id: 3254
+description: "A simple email experiment found that friends open far more than strangers, top links beat lower links, and provocative subject lines are harder to design well than expected."
+keywords: ["email experiment", "open rates", "click rates", "subject lines", "A/B testing", "marketing"]
 ---
 
 ![I tested the best ways to mail people](/blog/assets/email-ab-test.webp)

@@ -1,8 +1,10 @@
 ---
 title: Time bound recurring meetings
-date: 2026-02-13T09:09:18+08:00
+date: '2026-02-13T09:09:18+08:00'
 categories:
-    - how-i-do-things
+- how-i-do-things
+description: Recurring meetings should start with an expiry date because time-bounding them forces explicit review instead of letting stale rituals persist forever.
+keywords: [meetings, recurring meetings, timeboxing, organizational habits, productivity, cadence]
 ---
 
 Whenever "let's set up a recurring meeting" comes up (from me or others), I add: "We'll set it up 4 sessions and then finalize the cadence."

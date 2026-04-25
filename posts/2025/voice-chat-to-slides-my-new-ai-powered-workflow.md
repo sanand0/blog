@@ -6,6 +6,8 @@ categories:
   - how-i-do-things
   - llms
 wp_id: 3977
+description: "Voice interviews with ChatGPT plus Markdown slides, Marp, image generation, and GitHub Pages create a near-end-to-end pipeline for building slide decks while walking."
+keywords: [voice workflow, slides, Markdown, Marp, ChatGPT interview, GitHub Pages]
 ---
 
 ![Voice Chat to Slides: My New AI-Powered Workflow](/blog/assets/calvin-2.webp)

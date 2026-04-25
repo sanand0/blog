@@ -6,6 +6,8 @@ categories:
   - coding
   - llms
 wp_id: 3676
+description: "Despite hints of richer video understanding, Gemini still appears to sample video at roughly one frame per second, with token counts and extraction behavior confirming the documentation."
+keywords: [Gemini, video processing, frame sampling, multimodal, token counts, evaluation]
 ---
 
 The Gemini documentation is clear:

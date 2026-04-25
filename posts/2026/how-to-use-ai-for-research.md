@@ -3,6 +3,8 @@ title: How to use AI for research
 date: 2026-04-04T23:30:53+08:00
 categories:
   - llms
+description: AI research works much better when you specify failure modes, define validation criteria, and guide the system with concrete examples instead of vague requests.
+keywords: [AI research, prompting, validation, research workflows, quality control, synthesis]
 ---
 
 <!-- https://chatgpt.com/c/69cf42a9-ed04-839b-bdf1-e010677d81c7 -->

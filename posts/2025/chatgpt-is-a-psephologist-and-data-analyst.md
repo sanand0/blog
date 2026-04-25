@@ -6,6 +6,8 @@ categories:
   - data
   - llms
 wp_id: 4108
+description: "ChatGPT can now perform election-style data journalism with expert-like skepticism, iteration, and narrative refinement, not just code generation."
+keywords: [data journalism, elections, Singapore politics, ChatGPT, reasoning traces, analysis workflow]
 ---
 
 ![ChatGPT is a psephologist and data analyst](/blog/assets/image-2-1.webp)

@@ -3,6 +3,8 @@ date: "2025-06-22T09:52:29Z"
 categories:
   - linkedin
   - llms
+description: "Walk-time coding with agents is hugely productive but creates debt through inconsistency, missed edge cases, weak experimentation, and insufficient observability."
+keywords: ["Codex", "Jules", "vibe coding", "technical debt", "coding agents", "debugging"]
 ---
 
 I use Codex and Jules to code while I walk. I've merged several PRs without careful review. This added technical debt.

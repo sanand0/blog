@@ -1,10 +1,12 @@
 ---
 title: Gemini Scraper
-date: 2026-01-20T08:46:10+05:30
+date: '2026-01-20T08:46:10+05:30'
 categories:
-  - llms
-  - coding
+- llms
+- coding
 classes: wrap-code
+description: A simple bookmarklet can make Gemini conversations portable by exporting entire chats as Markdown.
+keywords: [Gemini, scraper, bookmarklet, Markdown export, chat archiving, browser tools]
 ---
 
 [Gemini](https://gemini.google.com/) lets you copy individual responses as Markdown, but not an entire conversation.

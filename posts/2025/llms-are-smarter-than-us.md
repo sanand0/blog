@@ -3,6 +3,8 @@ date: "2025-07-01T06:46:10Z"
 categories:
   - linkedin
   - llms
+description: "Managing stronger intelligences is an old problem, and the right response is better evaluation design, not pretending humans must always outrank the system intellectually."
+keywords: ["AI governance", "evaluation", "expert oversight", "management", "verification", "smarter systems"]
 ---
 
 LLMs are smarter than us in many areas. How do we control them?

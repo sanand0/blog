@@ -1,9 +1,11 @@
 ---
 title: OpenAI Prism for LaTeX
-date: 2026-01-29T14:52:00+08:00
+date: '2026-01-29T14:52:00+08:00'
 categories:
-  - llms
-  - tools
+- llms
+- tools
+description: AI-native LaTeX editors like Prism dramatically lower the friction of scientific writing, though their document conversion still needs work.
+keywords: [Prism, LaTeX, scientific writing, AI editors, document conversion, OpenAI]
 ---
 
 OpenAI launched [Prism](https://openai.com/prism/) - an AI LaTeX IDE.

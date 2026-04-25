@@ -6,6 +6,8 @@ categories:
   - funny
   - llms
 wp_id: 3833
+description: "A Devil’s Advocate custom instruction can make ChatGPT more useful by surfacing risks and alternatives, but over time it also develops an unexpectedly sassy house style."
+keywords: [custom instructions, Devil's Advocate, ChatGPT personality, critique, prompting, humor]
 ---
 
 ![The Sassy AI Devil’s Advocate](/blog/assets/ch890715.webp)

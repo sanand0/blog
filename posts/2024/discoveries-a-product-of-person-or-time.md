@@ -2,6 +2,8 @@
 date: "2024-10-31T02:48:28Z"
 categories:
   - linkedin
+description: "Most scientific discoveries are shaped by their era, but a few exceptional breakthroughs seem driven mainly by the individual rather than the historical moment."
+keywords: [scientific discovery, history of science, person vs time, Newton, Einstein, biology]
 ---
 
 Are scientific discoveries more a product of the person or their time?

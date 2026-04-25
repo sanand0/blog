@@ -5,6 +5,8 @@ lastmod: "2025-04-01T05:59:20Z"
 categories:
   - coding
 wp_id: 4010
+description: "A single-job GitHub Pages workflow is enough for many static deployments, and modern toolchains like uv, node, and deno make lightweight publishing pipelines straightforward."
+keywords: [GitHub Pages, GitHub Actions, deployment, static sites, uv, node, deno]
 ---
 
 Here's the [GitHub Actions](https://github.com/features/actions) file (`.github/workflows/deploy.yaml`) I use to publish to [GitHub pages](https://pages.github.com/).

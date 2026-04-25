@@ -3,6 +3,8 @@ title: Hack of the Day on Times of India
 date: 2026-03-27T11:29:35+08:00
 categories:
   - llms
+description: AI agents can automate idea generation and editorial production pipelines well enough to create publishable media content with minimal manual intervention.
+keywords: [AI agents, journalism, editorial workflows, automation, idea generation, media production]
 ---
 
 Last Friday, 20 Mar 2026, this ["Hack of the Day"](https://x.com/timesofindia/status/2034925416444829727) was published by [The Times of India](http://toi.in/l3xRob).

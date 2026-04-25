@@ -5,6 +5,8 @@ lastmod: "2024-07-09T15:59:29Z"
 categories:
   - funny
 wp_id: 3567
+description: "Saitama's line about leaving tomorrow's problems to tomorrow offers a playful philosophy of detachment that resonates with the author more than most explicit self-help advice."
+keywords: ["One Punch Man", "Saitama", "philosophy", "detachment", "Calvin and Hobbes", "quotes"]
 ---
 
 What a delightful idea.

@@ -3,6 +3,8 @@ title: Workshops help AI adoption
 date: 2026-04-11T13:08:46+08:00
 categories:
   - how-i-do-things
+description: Hands-on workshops drive AI adoption better than talks, demos, or interviews because people change faster when they actively try the tools themselves.
+keywords: [AI adoption, workshops, behavior change, learning design, organizational change, training]
 ---
 
 To teach a mindshift change like AI adoption, I've tried to:

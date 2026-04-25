@@ -5,6 +5,8 @@ categories:
   - visualisation
   - linkedin
   - llms
+description: "Two years of conversation history show ChatGPT as a major time-saving force centered on coding, ideation, writing, and advice, while also exposing personal blind spots."
+keywords: ["ChatGPT usage", "conversation analysis", "productivity", "coding", "ideation", "personal blind spots"]
 ---
 
 Here's how I use ChatGPT, based on the ~6,000 conversations I've had in 2 years.

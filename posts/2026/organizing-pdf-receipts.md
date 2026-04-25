@@ -1,11 +1,13 @@
 ---
 title: Organizing PDF receipts
-date: 2026-02-12T17:21:14+08:00
+date: '2026-02-12T17:21:14+08:00'
 categories:
-  - how-i-do-things
-  - coding
-  - llms
+- how-i-do-things
+- coding
+- llms
 classes: wrap-code
+description: Coding agents can automate the tedious middle step of matching downloaded PDF receipts to expenses, making finance workflows much easier to manage.
+keywords: [receipts, PDF processing, finance automation, expense management, Codex, workflows]
 ---
 
 One of my [goals this year](/blog/my-year-in-2025/) is to "Automate finance + tax". Today, I took a baby step by organizing my expenses.

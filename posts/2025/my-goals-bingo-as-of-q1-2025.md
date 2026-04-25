@@ -5,6 +5,8 @@ lastmod: "2025-04-01T03:33:09Z"
 categories:
   - how-i-do-things
 wp_id: 4003
+description: "The first-quarter goals review suggests repeat goals and health habits are easier to sustain than new or wealth-focused ambitions, with novelty still pulling strongly."
+keywords: [goals bingo, Q1 review, personal planning, health habits, stretch goals, self-tracking]
 ---
 
 ![My Goals Bingo as of Q1 2025](/blog/assets/ChatGPT-Image-Apr-1-2025-11_27_34-AM.webp)

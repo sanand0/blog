@@ -1,8 +1,10 @@
 ---
 title: Gemini Enterprise Business
-date: 2026-02-19T10:35:09+08:00
+date: '2026-02-19T10:35:09+08:00'
 categories:
-  - llms
+- llms
+description: The main value of Gemini's business offering is not better intelligence but enterprise defaults around privacy, admin control, and legal protection.
+keywords: [Gemini Enterprise, enterprise AI, privacy, admin controls, copyright indemnity, Google Cloud]
 ---
 
 <!-- https://gemini.google.com/u/2/app/6b03ad8fde0c15b5 -->

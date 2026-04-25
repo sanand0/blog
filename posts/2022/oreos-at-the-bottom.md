@@ -2,6 +2,8 @@
 date: "2022-08-25T23:00:07Z"
 categories:
   - linkedin
+description: "The office snack box becomes a tiny allegory of unfairness when the Oreos are buried beneath the Marie Gold biscuits and nobody digs for them."
+keywords: ["office life", "snacks", "Oreos", "humor", "workplace culture", "LinkedIn"]
 ---
 
 I can't phrase this better than Sunil Sharma who said "As if the struggle in life is not enough, they put the Oreos so beneath th Marie Golds :-("

@@ -3,6 +3,8 @@ title: Derived formats with Gemini
 date: 2026-04-18T11:26:48-04:00
 categories:
   - llms
+description: A single source document can now be transformed into many useful derivative formats like podcasts, sketchnotes, songs, and videos, making generative AI a practical format-conversion layer for knowledge work.
+keywords: [Gemini, NotebookLM, multimodal AI, document transformation, content repurposing, knowledge workflows]
 ---
 
 The natural capability of Generative AI is to _generate_ stuff - and Gemini's particularly good with media.

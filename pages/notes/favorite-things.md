@@ -22,5 +22,6 @@ Some things have a disproportionate ability to delight me.
 - Fantastic fiction
 - Money! So much you don't have to worry
 - Pain killers after a tooth or ear ache
+- Headphones that work well. Good audio in general
 
 <!-- #TODO Create a scatterplot or something? -->

@@ -1,8 +1,10 @@
 ---
 title: The meaning of life
-date: 2026-01-22T19:29:55+05:30
+date: '2026-01-22T19:29:55+05:30'
 categories:
-  - how-i-do-things
+- how-i-do-things
+description: Personal meaning evolves across life stages, moving from happiness to balance to self-chosen purpose rather than any single fixed answer.
+keywords: [meaning of life, philosophy, happiness, purpose, life stages, reflection]
 ---
 
 As a teenager, I asked my mother "What is the aim of life?" She said, "To be happy and to make others happy." This was my gospel for a decade. It made sense. It even aligned with my name (Anand = happiness).

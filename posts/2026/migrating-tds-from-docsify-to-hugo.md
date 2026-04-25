@@ -1,10 +1,12 @@
 ---
 title: Migrating TDS from Docsify to Hugo
-date: 2026-02-07T12:01:10+08:00
+date: '2026-02-07T12:01:10+08:00'
 categories:
-  - llms
-  - coding
-  - education
+- llms
+- coding
+- education
+description: AI-assisted migration makes it feasible for non-experts to move course sites across stacks quickly, reducing dependence on LMSs and specialized coding knowledge.
+keywords: [Docsify, Hugo, migration, Codex, education technology, static sites]
 ---
 
 This morning, I migrated my [Tools in Data Science course page](https://tds.s-anand.net/) from [Docsify](https://docsify.js.org/) to [Hugo](https://gohugo.io/) using [Codex](https://openai.com/codex/).

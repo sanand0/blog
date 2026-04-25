@@ -5,6 +5,8 @@ lastmod: "2024-06-24T04:34:58Z"
 categories:
   - links
 wp_id: 3563
+description: "The discovery that upside-down calculator spellings can produce words like “Hobbes” and even “hillbillies” turns a childish old trick into fresh delight."
+keywords: ["calculator spelling", "wordplay", "Hobbes", "curiosity", "retro tricks", "language"]
 ---
 
 I just [learned](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt) that any word made of just these letters `beighlosz` can be spelt on a calculator.

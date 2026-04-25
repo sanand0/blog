@@ -5,6 +5,8 @@ lastmod: "2025-07-01T12:06:32Z"
 categories:
   - coding
 wp_id: 4158
+description: "Unix pipes plus LLMs often replace the need to build custom applications for lightweight personal automation tasks."
+keywords: ["Unix pipes", "CLI", "automation", "LLMs", "shell scripting", "personal tools"]
 ---
 
 ![Pipes May Be All You Need](/blog/assets/ChatGPT-Image-Jul-1-2025-05_34_17-PM.webp)

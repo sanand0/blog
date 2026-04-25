@@ -126,7 +126,7 @@ Here's how some industries have dealt with skill erosion:
 Critical skills in the AI era:
 
 - **Asking questions**. Learn to ask _lots_ of _good_ questions that nudge AI & humans to better results, new horizons. Curiosity helps.
-- **Thinking of useful things**. Learn to quickly discover _lots_ of useful things for yourself and others. AI can execute them fast.
+- **Thinking of valuable things**. Learn to quickly discover _lots_ of useful things for yourself and others. AI can execute them fast.
 - **Validation**. AI works fast. Learn shortcuts to compare versions, find mistakes, give feedback - in unfamiliar areas. (Consultants learn this skill well.)
 - **Accountability**. Giving a commitment, standing behind it, knowing how to manage the risk this involves.
 - **People skills**. Collaboration. Prioritize empathy, negotiation, judgment, and communication are less easy to delegate to AI agents.
@@ -210,6 +210,7 @@ Hallucinations can be a great feature - for creativity, humor, and insight. Don'
 
 UPDATES:
 
+- 23 Apr 2026:
 - 15 Mar 2026: https://claude.ai/chat/01653f4d-39fe-4913-8b19-e94d3684163c + https://chatgpt.com/c/69b6121b-5548-839a-8a4f-73066cae406b
 
 -->

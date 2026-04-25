@@ -1,10 +1,12 @@
 ---
 title: The Future of Work with AI
-date: 2026-03-11T13:56:58+08:00
+date: '2026-03-11T13:56:58+08:00'
 categories:
-  - education
-  - llms
-  - how-i-do-things
+- education
+- llms
+- how-i-do-things
+description: As intelligence gets cheaper, valuable work shifts toward framing, evaluation, context building, and delegating tasks to agents rather than executing every step manually.
+keywords: [future of work, AI agents, delegation, problem framing, evaluation, behavior change]
 ---
 
 <!-- https://gemini.google.com/u/2/app/bad45f08e6f30526 -->

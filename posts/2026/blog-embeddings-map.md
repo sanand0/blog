@@ -1,10 +1,12 @@
 ---
 title: Blog embeddings map
-date: 2026-03-15T23:22:46+05:30
+date: '2026-03-15T23:22:46+05:30'
 categories:
-    - llms
-    - coding
-    - how-i-do-things
+- llms
+- coding
+- how-i-do-things
+description: "Embedding maps can reveal the long-term evolution of a blog’s themes and eras, making decades of writing visually legible as clusters and transitions."
+keywords: [embeddings, UMAP, blog analysis, semantic map, writing history, visualization]
 ---
 
 I created an [embedding map of my blog posts](https://files.s-anand.net/blog/blogmap/).

@@ -6,6 +6,8 @@ categories:
   - how-i-do-things
   - interesting-experiences
 wp_id: 3357
+description: "A life story told through geography explains how family, marriage, jobs, fear, and ambition repeatedly pulled the author toward or away from Chennai until the move to Singapore."
+keywords: ["Singapore", "relocation", "family", "career decisions", "Chennai", "memoir"]
 ---
 
 ![Moving to Singapore](https://files.s-anand.net/images/2022-08-01-singapore-cbd-at-dusk.webp)

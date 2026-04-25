@@ -1,8 +1,10 @@
 ---
 title: White Pebble Black Pebble
-date: 2026-03-04T22:23:29+08:00
+date: '2026-03-04T22:23:29+08:00'
 categories:
-  - how-i-do-things
+- how-i-do-things
+description: A no-win situation can sometimes be transformed into a no-lose one simply by reframing the game.
+keywords: [reframing, problem solving, strategy, negotiation, decision making, stories]
 ---
 
 When I was in class 8 or 9, our English teacher told us a story I'll never forget.

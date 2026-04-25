@@ -1,8 +1,10 @@
 ---
 title: Finding old friends with Gemini
-date: 2026-02-12T10:34:00+08:00
+date: '2026-02-12T10:34:00+08:00'
 categories:
-  - llms
+- llms
+description: AI search can uncover biographical and status information that ordinary keyword search misses, making it unexpectedly useful for rediscovering people.
+keywords: [Gemini, search, personal history, old friends, research, biographical lookup]
 ---
 
 I was taking a bus past [Mandaveli](https://en.wikipedia.org/wiki/Mandaveli) in Chennai, which reminded me of where I learnt mrdangam from Mr Melakaveri K Krishnamurthi between 1993-1996. So, after a few futile Google searches trying to find his whereabouts, I asked Gemini: <!-- https://gemini.google.com/app/93ce87ee6034080a -->

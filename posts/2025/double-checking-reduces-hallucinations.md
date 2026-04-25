@@ -3,6 +3,8 @@ date: "2025-05-10T09:35:14Z"
 categories:
   - linkedin
   - llms
+description: "Hallucinations become much less dangerous when multiple cheap models check each other, because their mistakes overlap far less than their individual error rates suggest."
+keywords: [hallucinations, ensemble methods, double checking, LLM reliability, classification, automation quality]
 ---
 
 How can we rely on unreliable LLMs?" people ask me.

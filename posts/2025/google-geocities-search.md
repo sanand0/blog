@@ -2,6 +2,8 @@
 date: "2025-03-04T10:50:57Z"
 categories:
   - linkedin
+description: "Google’s Comic Sans Geocities easter egg is a tiny nostalgia trap that briefly makes the web feel old again."
+keywords: [Geocities, Google easter egg, Comic Sans, nostalgia, web culture, search]
 ---
 
 For a second, I thought I'd been hacked.

@@ -6,6 +6,8 @@ categories:
   - funny
   - llms
 wp_id: 4091
+description: "People often know some everyday quantities with uncanny precision while being wildly wrong about others, and that asymmetry says as much about attention as about memory."
+keywords: [self-knowledge, estimation, attention, everyday cognition, comic strips, AI images]
 ---
 
 ![Things I know and things I don't](/blog/assets/image-3.webp)

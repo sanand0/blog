@@ -2,6 +2,8 @@
 date: "2024-05-09T07:36:35Z"
 categories:
   - linkedin
+description: "In May 2024, just four mainstream models appeared to define the practical frontier by jointly dominating both price and quality for most real-world use."
+keywords: ["frontier models", "LLMs", "cost vs quality", "Llama 3", "Claude 3 Haiku", "GPT-4o"]
 ---
 
 There are 4 frontier #LLMs today. No other (popular) model beats them on BOTH cost and quality.

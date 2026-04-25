@@ -5,6 +5,8 @@ lastmod: "2025-07-01T06:37:42Z"
 categories:
   - llms
 wp_id: 4155
+description: "The way to govern smarter systems is through mechanisms like checklists, sampling, red-teaming, gating, consensus, and outcome-based evaluation."
+keywords: ["AI governance", "checklists", "red teaming", "sampling", "consensus", "evaluation methods"]
 ---
 
 ![How To Control Smarter Intelligences](/blog/assets/ChatGPT-Image-Jul-1-2025-11_27_23-AM.webp)

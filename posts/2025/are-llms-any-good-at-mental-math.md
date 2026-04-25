@@ -5,6 +5,8 @@ lastmod: "2025-04-27T09:52:57Z"
 categories:
   - llms
 wp_id: 4072
+description: "Most LLMs are still weak at mental arithmetic, but frontier reasoning models are beginning to show limited, human-like decomposition strategies on harder multiplications."
+keywords: [mental math, LLM evals, reasoning models, arithmetic, benchmarking, OpenAI]
 ---
 
 ![Are LLMs any good at mental math?](/blog/assets/image-1-1.webp)

@@ -1,8 +1,10 @@
 ---
 title: Gemini copies images almost perfectly
-date: 2026-01-22T09:33:02+05:30
+date: '2026-01-22T09:33:02+05:30'
 categories:
-  - llms
+- llms
+description: High-fidelity image copying unlocks practical workflows like OCR cleanup, map restoration, and animation in-betweening, not just prettier images.
+keywords: [image copying, Gemini, OCR preprocessing, restoration, animation, computer vision]
 ---
 
 **Summary**: Nano Banana Pro is _much_ better than recent models at copying images without errors. That lets us do a few useful things, like:

@@ -2,6 +2,8 @@
 date: "2025-08-25T00:00:00Z"
 categories:
   - linkedin
+description: "A simple gender-swap image prompt shows how easily modern image models can generate plausible identity transformations with minimal changes."
+keywords: ["image generation", "gender swap", "identity transformation", "gpt-image", "AI portraits", "experimentation"]
 ---
 
 If I turned female, this is what I'd look like.

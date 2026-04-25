@@ -8,6 +8,8 @@ categories:
 tags:
   - book
 wp_id: 3493
+description: "The author's 2023 reading list mixes beloved fantasy re-reads, manga discoveries, and practical nonfiction, with clear preferences for gripping plots, rich systems, and useful mental models."
+keywords: ["books", "reading list", "2023", "fantasy", "manga", "non-fiction"]
 ---
 
 ![Books in 2023](https://files.s-anand.net/images/2023-books.webp)

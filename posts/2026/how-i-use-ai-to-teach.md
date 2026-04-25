@@ -5,6 +5,8 @@ categories:
   - education
   - llms
   - how-i-do-things
+description: AI can reshape teaching most effectively when it changes the structure of learning and assessment, not just the speed of content creation.
+keywords: [AI in education, teaching methods, assessments, pedagogy, Tools in Data Science, experimentation]
 ---
 
 I've been using AI in my [Tools in Data Science](https://tds.s-anand.net/) course for over two years - to teach AI, _and_ using AI to teach.

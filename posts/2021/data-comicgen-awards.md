@@ -2,6 +2,8 @@
 date: "2021-10-05T06:27:54Z"
 categories:
   - linkedin
+description: "The Data Comicgen awards showcase how difficult—and impressive—it is to turn raw data into simple, comic-style narratives that still carry insight."
+keywords: ["Comicgen", "data comics", "storytelling", "awards", "visualization", "LinkedIn"]
 ---
 
 Over 30 people have created data comic stories for the #DataComicgen awards.

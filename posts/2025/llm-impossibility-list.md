@@ -4,6 +4,8 @@ updated: 2026-04-16T10:27:04-07:00
 categories:
   - llms
   - linkedin
+description: "Keeping an “impossibility list” is a useful way to track how quickly AI limitations are disappearing and which ones remain stubborn."
+keywords: ["LLM limitations", "impossibility list", "AI progress", "capability tracking", "agents", "image generation"]
 ---
 
 If someone asked me, "What's changed this year in LLMs", here's my list:"

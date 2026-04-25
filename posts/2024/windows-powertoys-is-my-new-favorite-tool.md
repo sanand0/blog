@@ -6,6 +6,8 @@ categories:
   - links
   - tools
 wp_id: 3773
+description: "Windows PowerToys has become a daily-use productivity suite because a handful of small utilities like OCR, advanced paste, crop-and-lock, and cross-device control eliminate constant micro-friction."
+keywords: [PowerToys, Windows tools, productivity, OCR, advanced paste, desktop workflow]
 ---
 
 ![Windows PowerToys is my new favorite tool](/blog/assets/powertoys.webp)

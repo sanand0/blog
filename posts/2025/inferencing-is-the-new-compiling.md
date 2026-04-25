@@ -3,6 +3,8 @@ date: "2025-05-21T10:46:00Z"
 categories:
   - linkedin
   - llms
+description: "Inference latency has become the new compilation wait, creating an awkward five-to-ten-minute interruption window that is too long to ignore and too short to use well."
+keywords: [LLM latency, inference, developer workflow, waiting time, productivity, Claude]
 ---
 
 "Inferencing" is the new "Compiling!"

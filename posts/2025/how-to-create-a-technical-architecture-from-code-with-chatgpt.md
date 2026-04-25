@@ -6,6 +6,8 @@ categories:
   - coding
   - llms
 wp_id: 4113
+description: "Source code can be turned into architecture diagrams quickly by copying files into an LLM, prompting for Mermaid output, and refining the result visually rather than manually drafting it."
+keywords: [architecture diagrams, Mermaid, code to diagram, ChatGPT, technical documentation, developer workflow]
 ---
 
 ![How to create a Technical Architecture from code with ChatGPT](/blog/assets/Mermaid-Chart-Create-complex-visual-diagrams-with-text.-A-smarter-way-of-creating-diagrams.-2025-05-17-021315-scaled.webp)

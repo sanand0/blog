@@ -1,8 +1,10 @@
 ---
 title: Memorable explanations
-date: 2026-02-21T13:58:58+08:00
+date: '2026-02-21T13:58:58+08:00'
 categories:
-  - simple-explanations
+- simple-explanations
+description: Explanations stick better when they are structured around memory-friendly elements like faces, places, stories, contrast, and vivid imagery.
+keywords: [explanations, memory, teaching, communication, storytelling, cognitive science]
 ---
 
 Our brains remember some things better. Explaining that way makes it stick.

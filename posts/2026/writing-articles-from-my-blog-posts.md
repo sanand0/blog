@@ -1,8 +1,10 @@
 ---
 title: Writing articles from my blog posts
-date: 2026-02-16T18:03:12+08:00
+date: '2026-02-16T18:03:12+08:00'
 categories:
-  - llms
+- llms
+description: A personal blog archive can be turned into publishable audience-specific articles when AI handles outlet research, topic selection, and drafting in your voice.
+keywords: [article writing, content repurposing, blog archive, AI writing, audience research, ghostwriting]
 ---
 
 You can use AI to submit not just [talk proposals](/blog/submitting-an-ai-ded-vizchitra-proposal/) but entire articles from your past work.

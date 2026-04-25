@@ -5,6 +5,8 @@ categories:
   - visualisation
   - linkedin
   - llms
+description: "Personal behavior suggests chat is increasingly substituting for search, raising deeper questions about how knowledge gets filtered, curated, and audited."
+keywords: ["ChatGPT", "Google Search", "search substitution", "usage trends", "knowledge interfaces", "information ecosystems"]
 ---
 
 My ChatGPT engagement is now far higher than with Google.

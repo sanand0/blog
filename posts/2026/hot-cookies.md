@@ -1,8 +1,10 @@
 ---
 title: Hot cookies
-date: 2026-01-31T20:36:03+08:00
+date: '2026-01-31T20:36:03+08:00'
 categories:
-  - how-i-do-things
+- how-i-do-things
+description: A tiny intervention like heating a cookie can transform the eating experience enough to feel like a genuine discovery.
+keywords: [food, cookies, texture, simple pleasures, experimentation, taste]
 ---
 
 I ordered a [Caramel Cashew Cookie - Soft & Chewy](https://www.cookiemanindia.com/products/caramel-cashew-cookies-soft-chewy) at the Chennai airport, an hour before my flight.

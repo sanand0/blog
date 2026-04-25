@@ -5,6 +5,8 @@ lastmod: "2024-11-16T14:36:14Z"
 categories:
   - links
 wp_id: 3710
+description: "Recraft has reached the point where it can plausibly replace bespoke comic-character tooling, making mass-market comic generation practical for non-designers."
+keywords: [Recraft, comic generation, Comicgen, character design, AI art, non-designers]
 ---
 
 ![Recrafting Comicgen](/blog/assets/recraft-dee-head.webp)

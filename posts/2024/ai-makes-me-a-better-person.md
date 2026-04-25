@@ -7,6 +7,8 @@ categories:
   - how-i-do-things
   - llms
 wp_id: 3518
+description: "Comparing his own writing with ChatGPT's made the author realize that AI nudges him toward patience, encouragement, broader framing, and more outcome-oriented thinking."
+keywords: ["ChatGPT", "writing style", "self-improvement", "communication", "AI influence", "confirmation bias"]
 ---
 
 ![AI makes me a better person](/blog/assets/f7f0a283-2446-4d5f-8875-46d694e3f7e6-1.webp)

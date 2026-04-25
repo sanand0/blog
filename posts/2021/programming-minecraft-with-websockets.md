@@ -6,6 +6,8 @@ categories:
   - coding
   - games
 wp_id: 3070
+description: "This hands-on tutorial reverse-engineers Minecraft Bedrock's websocket hooks to show how chat, commands, queues, and bots can be controlled programmatically from JavaScript or Python."
+keywords: ["Minecraft", "websockets", "Bedrock", "JavaScript", "Python", "tutorial"]
 ---
 
 ![Programming Minecraft with Websockets](/blog/assets/minecraft-incomplete-pyramid.webp)

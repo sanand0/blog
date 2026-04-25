@@ -2,6 +2,8 @@
 date: "2024-11-09T12:24:16Z"
 categories:
   - linkedin
+description: "This is a brief joke about an AI moderation system or interface bizarrely treating arithmetic as potentially inappropriate."
+keywords: [AI moderation, arithmetic, absurdity, safety filters, humor, Bedrock]
 ---
 
 Wow, arithmetic is potentially inappropriate!

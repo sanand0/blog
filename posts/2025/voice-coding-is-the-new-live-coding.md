@@ -6,6 +6,8 @@ categories:
   - coding
   - llms
 wp_id: 4194
+description: "A voice-to-code CLI workflow makes LLM-assisted live coding faster, more engaging, and smoother for audiences than traditional typing-heavy demos."
+keywords: ["voice coding", "live coding", "CLI", "Gemini", "transcription", "developer workflows"]
 ---
 
 ![Voice coding is the new live coding](/blog/assets/ChatGPT-Image-Sep-21-2025-04_46_27-PM.webp)

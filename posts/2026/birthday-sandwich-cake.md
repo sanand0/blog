@@ -1,9 +1,11 @@
 ---
 title: Birthday Sandwich Cake
-date: 2026-02-27T12:27:16+08:00
+date: '2026-02-27T12:27:16+08:00'
 categories:
-  - how-i-do-things
-  - llms
+- how-i-do-things
+- llms
+description: AI creativity is surprisingly useful under domestic constraints, turning ordinary pantry ingredients into a meaningful birthday celebration.
+keywords: [AI creativity, constraints, celebration, food hacks, family, improvisation]
 ---
 
 It's not every day your daughter turns 20.

@@ -5,6 +5,8 @@ lastmod: "2024-10-20T10:36:39Z"
 categories:
   - llms
 wp_id: 3664
+description: "The practical way for non-developers to learn AI coding is to probe what is easy or hard by trying small projects, quitting failed attempts quickly, and retrying later as tools improve."
+keywords: [non-developers, AI coding, learning strategy, prompt-to-app, experimentation, tool adoption]
 ---
 
 ![How can non-developers learn AI coding?](/blog/assets/calvin-coding.webp)

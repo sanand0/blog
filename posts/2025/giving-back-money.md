@@ -5,6 +5,8 @@ lastmod: "2025-08-09T03:09:00Z"
 categories:
   - how-i-do-things
 wp_id: 4166
+description: "The author reframes his first meaningful donations not as abstract charity but as gratitude payments toward knowledge, peace, and code."
+keywords: ["donation", "gratitude", "giving", "wealth", "open source", "Vipassana"]
 ---
 
 ![Giving Back Money](/blog/assets/anand-donating.webp)

@@ -2,6 +2,8 @@
 date: "2021-06-19T14:14:53Z"
 categories:
   - linkedin
+description: "A client leader's delighted reaction to a TV-rating analytics platform becomes a moment of validation for all the hidden weekend work that built it."
+keywords: ["client impact", "Star TV", "analytics platform", "validation", "team effort", "LinkedIn"]
 ---
 
 I had a lovely interaction with Kaushik Das at Star TV.

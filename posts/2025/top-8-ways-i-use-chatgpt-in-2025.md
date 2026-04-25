@@ -7,6 +7,8 @@ categories:
   - llms
   - top-10-lists
 wp_id: 4122
+description: "Classifying personal chat history against an external use-case taxonomy shows that most usage clusters around code improvement, troubleshooting, corporate AI work, ideation, and simple explainers."
+keywords: ["ChatGPT usage", "taxonomy", "embedding similarity", "personal analytics", "use cases", "conversation history"]
 ---
 
 I extracted the titles of the ~1,600 conversations I had with ChatGPT in 2025 so far and classified it against the list of [How People Are Really Using Gen AI in 2025](https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025).

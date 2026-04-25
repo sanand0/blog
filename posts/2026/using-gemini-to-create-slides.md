@@ -1,9 +1,11 @@
 ---
 title: Using Gemini to create slides
-date: 2026-01-26T16:24:03+05:30
+date: '2026-01-26T16:24:03+05:30'
 categories:
-  - business-realities
-  - llms
+- business-realities
+- llms
+description: Connecting Gemini to Drive and Gmail lets it assemble slide-ready client and proposal context directly from your working corpus.
+keywords: [Gemini, slides, Google Drive, Gmail, enterprise workflows, proposal synthesis]
 ---
 
 On Friday, our data & analytics client-facing teams connected [Gemini](https://gemini.google.com/) to their [Drive](https://drive.google.com/) and [Email](https://mail.google.com/):

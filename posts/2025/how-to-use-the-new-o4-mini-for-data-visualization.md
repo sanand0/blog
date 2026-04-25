@@ -6,6 +6,8 @@ categories:
   - llms
   - visualisation
 wp_id: 4050
+description: "O4 Mini can replace quick Excel-style workflows by turning raw text data into iteratively refined charts in minutes, letting the human focus on interpretation instead of implementation."
+keywords: [O4 Mini, data visualization, iterative charts, Excel replacement, quick analysis, LLMs]
 ---
 
 ![How to Use the New O4 Mini for Data Visualization](/blog/assets/output-3.webp)

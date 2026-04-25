@@ -1,9 +1,11 @@
 ---
 title: Using browser history as memory
-date: 2026-02-18T10:02:56+08:00
+date: '2026-02-18T10:02:56+08:00'
 categories:
-  - how-i-do-things
-  - llms
+- how-i-do-things
+- llms
+description: Browser history is an overlooked personal memory system that can reconstruct days, interests, and unfinished thoughts when other logs miss them.
+keywords: [browser history, memory, personal informatics, lifelogging, self-tracking, digital exhaust]
 ---
 
 I have a bad memory. (I need to write about that. I k eep forgetting to.)

@@ -2,6 +2,8 @@
 date: "2021-03-08T08:17:12Z"
 categories:
   - linkedin
+description: "This short note points data scientists toward a rare NGO role that combines legal and political data with the chance to publish visible, portfolio-worthy insights."
+keywords: ["data scientist", "NGO", "legal data", "political data", "hiring", "LinkedIn"]
 ---
 
 Daksh India is an NGO that works with legal & political data -- such as every single legal case in India.

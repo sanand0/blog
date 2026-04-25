@@ -1,9 +1,11 @@
 ---
 title: Using browser tabs as slides
-date: 2026-02-14T17:12:20+08:00
+date: '2026-02-14T17:12:20+08:00'
 categories:
-  - how-i-do-things
-  - llms
+- how-i-do-things
+- llms
+description: Browser tabs can work as a lightweight slide deck, especially when combined with simple title and section pages to restore presentation flow.
+keywords: [presentations, browser tabs, slides, lightweight workflows, demos, public speaking]
 ---
 
 My last two presentations used browser tabs as slides.

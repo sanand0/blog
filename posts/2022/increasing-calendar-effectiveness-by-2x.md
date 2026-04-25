@@ -6,6 +6,8 @@ categories:
   - experiments
   - how-i-do-things
 wp_id: 3271
+description: "Color-coding calendar events by reach doubled the author's weekly impact while freeing ten hours of personal time, though the exercise also revealed how crude reach is as a proxy for effectiveness."
+keywords: ["calendar", "effectiveness", "time management", "measurement", "productivity", "experiments"]
 ---
 
 ![Increasing calendar effectiveness by 2X](/blog/assets/2022-01-25-12-48-12.webp)

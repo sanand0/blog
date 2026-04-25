@@ -1,9 +1,11 @@
 ---
 title: Directional feedback for AI
-date: 2026-03-09T16:54:11+08:00
+date: '2026-03-09T16:54:11+08:00'
 categories:
-  - llms
-  - education
+- llms
+- education
+description: AI helps build skills best when it gives directional critique on your work instead of simply doing the task for you.
+keywords: [skill building, AI critique, feedback loops, learning design, deliberate practice, education]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-09-directional-feedback-for-ai.avif)

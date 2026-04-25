@@ -5,6 +5,8 @@ lastmod: "2024-12-04T05:19:34Z"
 categories:
   - llms
 wp_id: 3588
+description: "New image models are getting much better at comic-style generation, especially with text rendering and prompt expansion, though model quality still matters more than prompt detail alone."
+keywords: ["image generation", "comics", "Flux", "DALL-E", "ImageGen 3", "prompting"]
 ---
 
 ![Image generation gets better at comics](/blog/assets/flux.dev_.webp)

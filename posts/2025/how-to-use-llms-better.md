@@ -3,6 +3,8 @@ date: "2025-08-30T00:00:00Z"
 categories:
   - linkedin
   - llms
+description: "Using the best models, giving them rich context, working through code, tracking what still fails, and leaning into audio are the current highest-leverage habits."
+keywords: ["LLM usage", "best practices", "context", "audio interfaces", "AI coding", "prompting"]
 ---
 
 Here's my current answer when asked, "How do I use LLMs better?"

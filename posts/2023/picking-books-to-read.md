@@ -8,6 +8,8 @@ categories:
 tags:
   - book
 wp_id: 3398
+description: "The author expands his usual Goodreads-driven book selection method with algorithms, serendipity, awards, and reading challenges to deliberately escape his own taste bubble."
+keywords: ["books", "reading strategy", "Goodreads", "book selection", "algorithms", "serendipity"]
 ---
 
 ![Picking books to read](/blog/assets/book-hunter-1.webp)

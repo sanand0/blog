@@ -4,6 +4,8 @@ date: "2023-05-06T04:53:37Z"
 categories:
   - excel-tips
 wp_id: 3432
+description: "Excel's LAMBDA finally becomes useful in practice through a custom LASTVALUE helper that makes tracking the most recent non-empty monthly metric less confusing for colleagues."
+keywords: ["Excel", "LAMBDA", "LASTVALUE", "formulas", "spreadsheets", "Name Manager"]
 ---
 
 ![My first LAMBDA in Excel](/blog/assets/image-75.webp)

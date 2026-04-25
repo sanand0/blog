@@ -5,6 +5,8 @@ lastmod: "2024-11-03T11:56:41Z"
 categories:
   - llms
 wp_id: 3706
+description: "Letting LLMs talk to each other creates surprisingly rich emergent behavior, from witty fictional banter to unsettling philosophical dialogues and useful synthetic interview formats."
+keywords: [LLM dialogues, emergent behavior, AI to AI, simulation, roleplay, synthetic conversations]
 ---
 
 ![What happens when AI talks to AI?](/blog/assets/calvin-talking-to-calvin.webp)

@@ -1,8 +1,10 @@
 ---
 title: Gemini CLI harness is not good enough
-date: 2026-03-08T15:09:25+08:00
+date: '2026-03-08T15:09:25+08:00'
 categories:
-  - llms
+- llms
+description: A strong model can still feel weak when its CLI harness handles search and context poorly, so tooling quality matters as much as model quality in real workflows.
+keywords: [Gemini CLI, tooling, context windows, search, developer UX, AI agents]
 ---
 
 I've long felt that while the Gemini 3 Pro model is fairly good, the Gemini CLI harness isn't. I saw an example of this today.

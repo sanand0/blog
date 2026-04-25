@@ -6,6 +6,8 @@ categories:
   - funny
   - how-i-do-things
 wp_id: 3941
+description: "A comic-serious catalog of nibbling as a sensory habit turns tiny bodily and food rituals into an oddly precise taxonomy of pleasure, texture, and compulsion."
+keywords: [habits, sensory behavior, food rituals, body-focused habits, humor, memoir]
 ---
 
 ![Nibbling](/blog/assets/Gemini_Generated_Image_joqujsjoqujsjoqu.webp)

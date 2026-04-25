@@ -38,6 +38,21 @@ Include links wherever relevant to sources, tools, code, etc.
 Show key snippets of actual prompts & results verbatim in code blocks.
 ```
 
+## Blog description and keywords metadata
+
+```markdown
+Generate a description and keywords as metadata for this blog post. Format:
+
+description: ...
+keywords: [..., ..., ...]
+
+The description is a crisp one-sentence answer to: What is the main point or most useful takeaway here?
+1 sentence, 20-40 words. Prefer concrete ideas over framing. Include distinctive methods, domains, tools, or concepts when central.
+
+Keywords are the smallest set of search terms that would help an AI agent decide whether this content is relevant.
+4-8 lower-case topic phrases. Avoid generic tags and redundant synonyms. No preamble, no markdown, no explanation.
+```
+
 ## Book summary
 
 ```markdown

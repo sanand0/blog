@@ -5,6 +5,8 @@ lastmod: "2024-11-28T00:18:26Z"
 categories:
   - links
 wp_id: 3728
+description: "ChatGPT can escalate image-generation difficulty in a way that feels strategically adaptive, turning a simple Pictionary game into a small study of interactive prompt design."
+keywords: [Pictionary, image generation, ChatGPT, difficulty calibration, interactive play, prompting]
 ---
 
 ![ChatGPT Beat me at Pictionary](/blog/assets/pic-8.webp)

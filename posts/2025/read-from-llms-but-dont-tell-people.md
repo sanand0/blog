@@ -5,6 +5,8 @@ lastmod: "2025-03-07T05:08:20Z"
 categories:
   - llms
 wp_id: 3951
+description: "Using LLMs live in meetings is powerful, but presenting the filtered answer as your own judgment often works better socially than disclosing the exact source every time."
+keywords: [meetings, LLM assistance, social dynamics, live prompting, judgment, ChatGPT]
 ---
 
 ![Read from LLMs but don't tell people](/blog/assets/calvin-meeting.webp)

@@ -1,10 +1,12 @@
 ---
 title: TDS Comic Generation
-date: 2026-02-08T20:51:35+08:00
+date: '2026-02-08T20:51:35+08:00'
 categories:
-  - llms
-  - education
+- llms
+- education
 classes: wrap-code
+description: Consistent AI-generated comics can make coursework more engaging when reusable prompts and reference images preserve character continuity.
+keywords: [comics, education, Gemini, prompt design, character consistency, engagement]
 ---
 
 I use comics to make my course more engaging. Each question has a comic strip that explains what question is trying to teach.

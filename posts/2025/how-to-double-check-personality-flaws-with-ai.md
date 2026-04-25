@@ -6,6 +6,8 @@ categories:
   - how-i-do-things
   - llms
 wp_id: 4104
+description: "AI can generate plausible personality critiques, but a more useful workflow is to demand evidence and then have multiple models rate the strength of that evidence."
+keywords: [personality analysis, self-reflection, LLM evaluation, evidence checking, multi-model review, psychology]
 ---
 
 ![How To Double-Check Personality Flaws With AI](/blog/assets/output-4.webp)

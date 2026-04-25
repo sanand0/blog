@@ -3,6 +3,8 @@ date: "2025-06-29T04:10:05Z"
 categories:
   - linkedin
   - llms
+description: "The duration of a model’s reasoning block can be treated as a practical measure of its independence on longer tasks."
+keywords: ["ChatGPT", "thinking time", "reasoning duration", "model evaluation", "conversation history", "O3"]
 ---
 
 How long have _you_ made ChatGPT think? My highest was 6m 50s, with the question: _Here are vehicle telematics stats for_ 2 _months. Unzip it and take a look. Find interesting insights from this data. Look hard until you find at least_ 5 _surprising insights from this_.

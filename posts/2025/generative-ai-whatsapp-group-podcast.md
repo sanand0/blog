@@ -2,6 +2,8 @@
 date: "2025-07-01T04:07:38Z"
 categories:
   - linkedin
+description: "Long WhatsApp discussions become much easier to consume when scraped, scripted, voiced, and published as AI-generated podcasts."
+keywords: ["WhatsApp", "podcast generation", "TTS", "automation", "group chats", "NotebookLM"]
 ---
 
 I catch up on long WhatsApp group discussions as podcasts.

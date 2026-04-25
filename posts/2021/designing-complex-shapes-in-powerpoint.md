@@ -5,6 +5,8 @@ lastmod: "2021-04-18T04:26:14Z"
 categories:
   - how-i-do-things
 wp_id: 3117
+description: "By tracing and merging simple shapes, PowerPoint can recreate complex icons like an address card, making it a viable substitute for Illustrator for many practical design tasks."
+keywords: ["PowerPoint", "shape merge", "icon design", "address card", "presentation design", "SVG"]
 ---
 
 ![Designing Complex Shapes in PowerPoint](/blog/assets/image-28.webp)

@@ -6,6 +6,8 @@ categories:
   - data
   - how-i-do-things
 wp_id: 3079
+description: "Making a short data movie requires the same essentials as filmmaking—theme, hypothesis, screenplay, visuals, timing, and post-production—even when the tools are PowerPoint and iMovie."
+keywords: ["data movie", "storytelling", "hackathon", "PowerPoint", "iMovie", "screenplay"]
 ---
 
 ![How to direct a data movie](/blog/assets/rubiks-cube.webp)

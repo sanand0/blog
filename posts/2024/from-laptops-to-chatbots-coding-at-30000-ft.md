@@ -6,6 +6,8 @@ categories:
   - how-i-do-things
   - llms
 wp_id: 3541
+description: "Coding on flights now depends on such a long stack of digital scaffolding that losing ChatGPT feels as disabling as once losing power, documentation, or Git access."
+keywords: ["coding on flights", "ChatGPT", "developer workflow", "offline tools", "scaffolding", "travel"]
 ---
 
 ![From Laptops to Chatbots: Coding at 30,000 ft](/blog/assets/coding-on-a-flight.webp)

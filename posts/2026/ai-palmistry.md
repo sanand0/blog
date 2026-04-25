@@ -1,8 +1,10 @@
 ---
 title: AI Palmistry
-date: 2026-03-15T23:08:55+05:30
+date: '2026-03-15T23:08:55+05:30'
 categories:
-  - llms
+- llms
+description: "AI is much better at agreeing about a person’s chat-based patterns than at inferring meaningful truths from palm photos, even when multiple agents seem to converge."
+keywords: [palmistry, AI interpretation, multi-model agreement, self-analysis, Claude, skepticism]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-15-ai-palmistry.avif)

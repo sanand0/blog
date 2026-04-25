@@ -4,6 +4,8 @@ date: 2026-03-20T07:12:47+05:30
 categories:
   - llms
   - how-i-do-things
+description: AI agents become much more useful when they can access curated personal context repositories, because better local context leads to better idea selection and recommendations.
+keywords: [context engineering, AI agents, personal knowledge, local repositories, developer workflow, retrieval]
 ---
 
 When people ask me for connections, I share my [LinkedIn data](https://www.linkedin.com/mypreferences/d/download-my-data) and ask them to pick.

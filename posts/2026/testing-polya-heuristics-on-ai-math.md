@@ -5,6 +5,8 @@ categories:
   - llms
   - education
   - coding
+description: Classic human problem-solving heuristics can be tested systematically on LLM math performance, turning mathematical wisdom into something measurable and benchmarkable.
+keywords: [Pólya, AI math, benchmarking, heuristics, LeanDojo, experimental design]
 ---
 
 [Terence Tao said](https://www.dwarkesh.com/p/terence-tao), "We haven't done many experiments ... large-scale studies where we take a thousand problems and just test them."

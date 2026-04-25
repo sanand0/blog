@@ -5,6 +5,8 @@ lastmod: "2024-11-22T10:38:11Z"
 categories:
   - education
 wp_id: 3725
+description: "Even when an exam is explicitly hackable and students are told so, very few exploit it, suggesting that trust, time pressure, norms, and risk culture matter more than raw technical possibility."
+keywords: [exam hacking, student behavior, risk culture, DevTools, education experiments, cheating]
 ---
 
 ![Why don't students hack exams when they can?](/blog/assets/calvin-tries-to-cheat-an-exam.webp)

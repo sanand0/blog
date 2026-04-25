@@ -3,6 +3,8 @@ date: "2025-06-22T04:40:00Z"
 categories:
   - linkedin
   - llms
+description: "ChatGPT is valuable not just for work but as an ambient copilot for small, practical daily decisions around food, health, and errands."
+keywords: ["ChatGPT", "daily life", "health decisions", "food choices", "errands", "personal assistant"]
 ---
 
 ChatGPT's pretty useful in daily life. Here are my chats from the few hours.

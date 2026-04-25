@@ -1,10 +1,12 @@
 ---
 title: Submitting an AI-ded VizChitra Proposal
-date: 2026-02-15T10:49:04+08:00
+date: '2026-02-15T10:49:04+08:00'
 categories:
-  - how-i-do-things
-  - visualisation
-  - llms
+- how-i-do-things
+- visualisation
+- llms
+description: AI can help not just draft a conference proposal but also analyze the submission landscape immediately after filing it, which sharpens positioning.
+keywords: [conference proposals, submission analysis, Gemini, DevTools scraping, positioning, VizChitra]
 ---
 
 ![](https://files.s-anand.net/images/2026-02-15-submitting-an-ai-ded-vizchitra-proposal.avif)

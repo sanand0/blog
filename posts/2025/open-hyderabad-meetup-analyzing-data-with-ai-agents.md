@@ -3,6 +3,8 @@ date: "2025-03-10T03:35:42Z"
 categories:
   - linkedin
   - llms
+description: "This is an event announcement for a meetup focused on analyzing data by having LLMs write code rather than perform calculations directly."
+keywords: [meetup, AI agents, data analysis, Hyderabad, LLMs, event]
 ---
 
 I'm at an open Hyderabad meet-up, Thu 20 Mar 4 pm. "Analyzing data with AI agents"."

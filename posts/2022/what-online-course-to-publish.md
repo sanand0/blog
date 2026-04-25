@@ -2,6 +2,8 @@
 date: "2022-02-28T05:10:55Z"
 categories:
   - linkedin
+description: "The author crowdsources demand before building a self-paced course, contrasting tools-for-non-programmers with data-storytelling-for-analysts as two plausible directions."
+keywords: ["online course", "data science", "data storytelling", "non-programmers", "audience research", "LinkedIn"]
 ---
 
 I'm planning to publish a 3-hour self-paced #onlinecourse.

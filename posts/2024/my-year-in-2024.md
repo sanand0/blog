@@ -5,6 +5,8 @@ lastmod: "2024-12-31T09:38:20Z"
 categories:
   - how-i-do-things
 wp_id: 3803
+description: "The 2024 review shows strongest progress came from compounding a few long-term habits, while 2025 shifts to a Goals Bingo structure that favors breadth, experimentation, and optionality over total completion."
+keywords: [year in review, 2024 goals, habits, goal setting, Goals Bingo, personal planning]
 ---
 
 ![My Year in 2024](/blog/assets/2024-12-30-my-year-in-2024.webp)

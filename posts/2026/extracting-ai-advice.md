@@ -1,10 +1,12 @@
 ---
 title: Extracting AI advice
-date: 2026-02-09T09:52:19+08:00
+date: '2026-02-09T09:52:19+08:00'
 categories:
-  - how-i-do-things
-  - llms
+- how-i-do-things
+- llms
 classes: wrap-code
+description: Large transcript archives can be distilled into reusable advice by combining cheap long-context models for extraction with stronger models for final synthesis.
+keywords: [transcripts, advice extraction, synthesis, long context, Gemini Flash, Claude]
 ---
 
 This weekend, two people asked me, roughly "How do I use AI better?"

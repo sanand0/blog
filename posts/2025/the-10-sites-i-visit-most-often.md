@@ -5,6 +5,8 @@ lastmod: "2025-09-23T12:39:31Z"
 categories:
   - how-i-do-things
 wp_id: 4204
+description: "The author’s most-visited sites reveal a strong preference for fast, practical, automatable tools, with ChatGPT now functioning as the default knowledge interface."
+keywords: ["personal workflow", "tool usage", "ChatGPT", "automation", "knowledge work", "productivity"]
 ---
 
 ![The 10 sites I visit most often](/blog/assets/top-used-sites.webp)

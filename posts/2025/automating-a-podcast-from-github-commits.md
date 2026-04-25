@@ -7,6 +7,8 @@ categories:
   - llms
   - tools
 wp_id: 4094
+description: "Version-control activity can be automatically transformed into narrative audio, turning raw commit trails into ambient technical documentation that changes how people write and review code."
+keywords: [GitHub commits, podcast generation, ambient documentation, activity traces, TTS, developer workflow]
 ---
 
 ![Automating a podcast from GitHub commits](/blog/assets/Weekly-Codecast-Logo-Design.webp)

@@ -3,6 +3,8 @@ date: "2025-05-24T07:58:38Z"
 categories:
   - linkedin
   - llms
+description: "When model output costs are converted into hourly labor rates, AI is already cheaper than human work in many markets, weakening wage-arbitrage business models."
+keywords: ["LLM pricing", "hourly rates", "labor economics", "offshoring", "AI costs", "wage arbitrage"]
 ---
 
 How much does an LLM charge per hour for its services?

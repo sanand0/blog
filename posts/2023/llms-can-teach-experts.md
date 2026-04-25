@@ -5,6 +5,8 @@ lastmod: "2023-11-02T05:03:34Z"
 categories:
   - coding
 wp_id: 3466
+description: "Even expert programmers can learn surprisingly old but useful language features from ChatGPT, making AI a practical teacher for people who already know the field well."
+keywords: ["LLMs", "learning", "Python", "experts", "endswith tuple", "ChatGPT"]
 ---
 
 ![LLMs can teach experts](https://files.s-anand.net/images/2023-11-02-computer-with-crt-monitor.webp)

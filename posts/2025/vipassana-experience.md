@@ -3,6 +3,8 @@ date: "2025-07-14T00:00:00Z"
 categories:
   - linkedin
   - interesting-experiences
+description: "Vipassana is described as a highly disciplined, practical, almost scientific process that surfaces deep cravings and aversions while proving personally worthwhile."
+keywords: ["Vipassana", "meditation", "self-observation", "discipline", "retreat", "personal growth"]
 ---
 
 For those curious about my Vipassana meditation experience, here's the summary.

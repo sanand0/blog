@@ -1,8 +1,10 @@
 ---
 title: LinkedIn is hostile to content
-date: 2026-01-19T18:39:33+05:30
+date: '2026-01-19T18:39:33+05:30'
 categories:
-  - how-i-do-things
+- how-i-do-things
+description: LinkedIn is a poor medium for serious reading and writing, so blogs remain the better canonical home for durable content.
+keywords: [LinkedIn, content strategy, blogging, distribution, creator platforms, network effects]
 ---
 
 It's incredible how hostile LinkedIn is for reading / writing content.

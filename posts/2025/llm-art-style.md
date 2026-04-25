@@ -3,6 +3,8 @@ date: "2025-09-14T00:00:00Z"
 categories:
   - llms
   - linkedin
+description: "Cataloging unusual AI-generated illustration styles expands image generation beyond default aesthetics and turns style exploration into a reusable creative system."
+keywords: ["image generation", "art styles", "LLM art", "creative workflows", "style gallery", "visual experimentation"]
 ---
 
 I use LLMs to create photos and comics. But they can generate _any_ kind of illustration. So why limit ourselves?

@@ -4,6 +4,8 @@ date: 2026-03-23T16:03:18+05:30
 categories:
   - llms
   - coding
+description: Software is shifting from fixed reusable tools toward agent-driven execution, where coding agents increasingly become the interface through which software is created and operated.
+keywords: [coding agents, software evolution, AI workflows, automation, developer tools, future of software]
 ---
 
 Increasingly, **I use coding agents instead of writing software**. For example, I built a [Blog UMAP](https://files.s-anand.net/blog/blogmap/). Then, I built [Calvin UMAP](https://files.s-anand.net/blog/calvinmap/). And more. But instead of building re-usable software, I just ran Claude with prior context.

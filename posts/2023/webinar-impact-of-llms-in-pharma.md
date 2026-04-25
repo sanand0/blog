@@ -2,6 +2,8 @@
 date: "2023-08-31T09:46:57Z"
 categories:
   - linkedin
+description: "This webinar announcement pairs technical and domain perspectives to explore the practical, surprising, and risky implications of LLMs in pharma."
+keywords: ["LLMs", "pharma", "webinar", "use cases", "domain expertise", "Gramener"]
 ---
 
 Ashwini Mathur and I are conducting a webinar on the impact of LLMs in Pharma. It's online at 10 am Eastern on Mon Sep 11.

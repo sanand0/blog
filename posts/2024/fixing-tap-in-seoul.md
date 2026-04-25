@@ -2,6 +2,8 @@
 date: "2024-10-01T11:02:13Z"
 categories:
   - linkedin
+description: "A short anecdote about using ChatGPT to solve a confusing hotel sink stopper problem that experience alone did not help with."
+keywords: [ChatGPT, travel, sink stopper, hotel, everyday problem solving, Seoul]
 ---
 
 After 15 minutes of a hard struggle, I finally asked #ChatGPT "How do I open the thing that's closing the sink to allow the water to go down?"

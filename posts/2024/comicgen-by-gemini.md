@@ -2,6 +2,8 @@
 date: "2024-11-16T13:27:37Z"
 categories:
   - linkedin
+description: "AI image tools are now good enough to recreate core Comicgen-style characters from prompt descriptions, bringing low-cost comic creation within reach of ordinary users."
+keywords: [Comicgen, Gemini, Recraft, comic characters, AI illustration, design automation]
 ---
 
 About 7 years ago, Richie Lionell and Ramya Mylavarapu and a few others created Comicgen - an automated comic generation app personified by Dee ComicGen and Dey ComicGen

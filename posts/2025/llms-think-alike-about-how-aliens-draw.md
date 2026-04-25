@@ -5,6 +5,8 @@ lastmod: "2025-04-03T04:14:49Z"
 categories:
   - llms
 wp_id: 4015
+description: "LLMs may invent exotic-sounding alien art forms, but their outputs still converge on familiar visual tropes, suggesting a shared bias in imaginative structure."
+keywords: [alien art, creative limits, LLM imagination, image prompts, convergence, art generation]
 ---
 
 ![LLMs think alike about how aliens draw](/blog/assets/ChatGPT-Image-Apr-3-2025-11_32_59-AM.webp)

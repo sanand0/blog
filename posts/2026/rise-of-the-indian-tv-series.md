@@ -1,8 +1,10 @@
 ---
 title: Rise of the Indian TV Series
-date: 2026-02-02T21:25:25+08:00
+date: '2026-02-02T21:25:25+08:00'
 categories:
-  - visualisation
+- visualisation
+description: Indian TV series now dominate the highest-rated recent IMDb titles, marking a real shift in where prestige storytelling is happening.
+keywords: [IMDb, Indian TV series, entertainment trends, ratings analysis, streaming, cultural shift]
 ---
 
 [![](https://files.s-anand.net/images/2026-02-02-rise-of-the-indian-tv-series.webp)](https://sanand0.github.io/imdb/#Year=%5E202)

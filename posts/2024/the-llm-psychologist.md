@@ -7,6 +7,8 @@ categories:
   - how-i-do-things
   - llms
 wp_id: 3578
+description: "This post formalizes the author's self-appointed role as an “LLM Psychologist,” capturing a shift from generic AI experimentation toward studying model behavior as a discipline in itself."
+keywords: ["LLM psychologist", "prompt engineering", "AI identity", "TEDx", "LLM behavior", "career"]
 ---
 
 ![The LLM Psychologist](/blog/assets/image-86.webp)

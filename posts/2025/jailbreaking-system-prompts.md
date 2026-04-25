@@ -3,6 +3,8 @@ date: "2025-06-09T16:29:21Z"
 categories:
   - llms
   - linkedin
+description: "Even frontier models still fail simple system-prompt obedience tests, so any serious use case needs external validation rather than blind trust."
+keywords: ["jailbreaking", "system prompts", "model reliability", "validation", "LLM evals", "security"]
 ---
 
 I tried jailbreaking a 10 system prompts like this:

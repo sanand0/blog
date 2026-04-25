@@ -2,6 +2,8 @@
 date: "2024-09-20T04:07:16Z"
 categories:
   - linkedin
+description: "XML tags are emerging as the most consistently recommended way to structure prompts across major LLM vendors, even if Markdown remains preferable for generated output."
+keywords: [prompt structure, XML, prompt engineering, Anthropic, OpenAI, Google]
 ---
 
 Looks like XML tags are the best way to structure prompts and separate sections for an #LLM. It's the only format that all of Anthropic, Google, and OpenAI LLMs encourage.

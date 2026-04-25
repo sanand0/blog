@@ -1,9 +1,11 @@
 ---
 title: Verifying Textbook Facts
-date: 2026-01-23T13:36:50+05:30
+date: '2026-01-23T13:36:50+05:30'
 categories:
-  - education
-  - llms
+- education
+- llms
+description: LLMs are especially useful for fact-checking textbooks because even occasional successes can uncover high-value errors at scale.
+keywords: [fact-checking, textbooks, LLMs, verification, NCERT, education]
 ---
 
 Using LLMs to find errors is fairly hallucination-proof.

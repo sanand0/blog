@@ -1,9 +1,11 @@
 ---
 title: Using game-playing agents to teach
-date: 2026-03-08T19:06:03+08:00
+date: '2026-03-08T19:06:03+08:00'
 categories:
-  - education
-  - llms
+- education
+- llms
+description: Game-playing agents can turn abstract concepts into interactive classroom experiences, making learning more exploratory, social, and memorable.
+keywords: [game-based learning, AI agents, education, interactive teaching, network games, classroom design]
 ---
 
 After an early morning beach walk with a classmate, I realized I hadn't taken my house keys. My daughter would be sleeping, so I wandered with my phone.

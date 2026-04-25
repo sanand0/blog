@@ -1,9 +1,11 @@
 ---
 title: LLM Comic Styles
-date: 2026-03-10T19:24:58+08:00
+date: '2026-03-10T19:24:58+08:00'
 categories:
-  - llms
+- llms
 classes: wrap-code
+description: A reusable gallery of comic-style prompts makes AI image generation more systematic, letting you apply distinct visual storytelling styles on demand.
+keywords: [comic styles, image generation, prompt library, LLM art, visual storytelling, style transfer]
 ---
 
 I maintain an [LLM art style gallery](https://sanand0.github.io/llmartstyle/) - prompts to style any image I generate.

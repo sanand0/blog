@@ -5,6 +5,8 @@ lastmod: "2024-12-31T11:01:16Z"
 categories:
   - how-i-do-things
 wp_id: 3237
+description: "The author's 2021 review balances misses in weight loss and confrontation with wins in teaching, learning, self-improvement, and habit consistency, then sets 2022 goals around experiments, talks, and effectiveness."
+keywords: ["year in review", "2021", "goals", "teaching", "habits", "self-improvement"]
 ---
 
 ![My Year in 2021](/blog/assets/my-year-in-2021.webp)

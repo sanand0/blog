@@ -3,6 +3,8 @@ date: "2025-05-19T06:33:42Z"
 categories:
   - linkedin
   - llms
+description: "LLMs can expose their own internal conflicts so vividly that even trivial tasks sometimes read like miniature moral dramas."
+keywords: [LLM behavior, instruction conflict, reasoning traces, tool overuse, humor, ChatGPT]
 ---
 
 Oh, the dilemmas we subject LLMs to!

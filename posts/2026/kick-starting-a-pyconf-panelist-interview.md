@@ -3,6 +3,8 @@ title: Kick-starting a PyConf Panelist Interview
 date: 2026-03-17T08:32:35+05:30
 categories:
   - llms
+description: AI can act as an on-the-spot cognitive starter, helping people recover fluency and structure when they are unexpectedly asked to speak.
+keywords: [public speaking, interviews, AI assistance, cognition, PyConf, conversational support]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-17-kick-starting-a-pyconf-panelist-interview.avif)

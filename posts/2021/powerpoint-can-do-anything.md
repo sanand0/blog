@@ -2,6 +2,8 @@
 date: "2021-04-23T16:12:55Z"
 categories:
   - linkedin
+description: "This short note claims that PowerPoint can do almost anything and points to custom shape design as one of its most underrated superpowers."
+keywords: ["PowerPoint", "design", "shape operations", "SVG", "presentation tools", "LinkedIn"]
 ---
 
 I've a theory. PowerPoint can do anything. (Excel too).

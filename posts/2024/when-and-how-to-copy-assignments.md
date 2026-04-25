@@ -6,6 +6,8 @@ categories:
   - education
   - experiments
 wp_id: 3793
+description: "If copying is allowed and originality earns bonuses, the best strategy is not isolation but creating useful work early, sharing it, and learning from the feedback and downstream imitation."
+keywords: [assignment copying, code similarity, education, collaboration, originality, evaluation design]
 ---
 
 ![When and how to copy assignments](/blog/assets/copy-1.webp)

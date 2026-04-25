@@ -6,6 +6,8 @@ categories:
   - data
   - llms
 wp_id: 3972
+description: "As AI lowers execution cost, the real long-term advantage shifts from existing expertise to the ability to keep learning and rebuild expertise at each new frontier."
+keywords: [learning, expertise, AI-assisted work, data storytelling, future skills, adaptability]
 ---
 
 ![It's not what you know. It's how you learn](/blog/assets/calvin.webp)

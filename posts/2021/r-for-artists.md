@@ -2,6 +2,8 @@
 date: "2021-10-13T08:19:06Z"
 categories:
   - linkedin
+description: "This is an appreciative nod to a beautifully structured data-visualization course in R designed specifically for artists and designers."
+keywords: ["R", "data visualization", "artists", "designers", "course", "LinkedIn"]
 ---
 
 Arvind Venkatadri put together a #datavisualization course in #R titled "R for Artists and Designers"."

@@ -3,6 +3,8 @@ title: System Prompt Elements
 date: 2025-07-27T00:00:00+05:30
 categories:
   - llms
+description: "The system prompts of major chatbots share a surprisingly stable architecture built around identity, tools, safety, formatting, citations, and behavioral control."
+keywords: ["system prompts", "chatbots", "prompt engineering", "safety", "tools", "comparative analysis"]
 ---
 
 Here are the common elements across system prompts from major LLM chatbots:

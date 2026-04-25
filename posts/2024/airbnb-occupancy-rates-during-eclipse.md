@@ -2,6 +2,8 @@
 date: "2024-04-04T12:46:36Z"
 categories:
   - linkedin
+description: "A striking map of Airbnb occupancy around the eclipse shows how a well-designed visualization can turn a behavioral mystery into an irresistible guessing game."
+keywords: ["data visualization", "Airbnb", "eclipse", "human behavior", "maps", "storytelling"]
 ---
 
 This is the coolest data visualization I've seen in a long time. It makes you think about human behaviour.

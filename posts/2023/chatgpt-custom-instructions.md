@@ -6,6 +6,8 @@ categories:
   - how-i-do-things
   - llms
 wp_id: 3478
+description: "Custom instructions let the author turn ChatGPT into a terser, more challenging, more curiosity-inducing collaborator that better matches his own preferred working style."
+keywords: ["ChatGPT", "custom instructions", "prompting", "communication style", "AI collaboration", "robopsychology"]
 ---
 
 ![ChatGPT Custom Instructions](/blog/assets/robopsychologist.webp)

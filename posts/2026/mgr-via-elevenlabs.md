@@ -3,6 +3,8 @@ title: MGR via ElevenLabs
 date: 2026-03-29T22:31:33+08:00
 categories:
   - llms
+description: A short film clip can be reverse-engineered into transcription, translation, and voice recreation workflows, showing how accessible historical or cinematic voice cloning has become.
+keywords: [ElevenLabs, voice cloning, Tamil, film audio, transcription, AI media]
 ---
 
 I was watching [Vaa Vaathiyar](https://en.wikipedia.org/wiki/Vaa_Vaathiyaar) which has a short clip of [MGR](https://en.wikipedia.org/wiki/M._G._Ramachandran) speaking. It's either AI-generated or mimic-ed and it wasn't bad.

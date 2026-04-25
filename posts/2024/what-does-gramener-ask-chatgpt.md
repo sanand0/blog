@@ -7,6 +7,8 @@ categories:
   - experiments
   - llms
 wp_id: 3500
+description: "Analyzing 600+ internal chats reveals that corporate ChatGPT usage clusters around data work, summarization, coding, OCR, and image generation, but overall daily volume remains surprisingly low."
+keywords: ["ChatGPT usage", "enterprise AI", "internal analysis", "coding", "OCR", "adoption"]
 ---
 
 ![What does Gramener ask ChatGPT?](/blog/assets/DALL·E-2024-01-14-12.50.31-A-photo-realistic-image-representing-the-use-of-ChatGPT-in-a-corporate-environment.-The-image-should-include-a-modern-office-setting-with-a-computer-s.webp)

@@ -3,6 +3,8 @@ date: "2025-06-22T10:49:05Z"
 categories:
   - linkedin
   - llms
+description: "This is an invitation to one-on-one conversations meant both to share LLM use cases and to discover new ones from others."
+keywords: ["AMA", "LLMs", "use cases", "knowledge sharing", "consultation", "community"]
 ---
 
 I'm planning four 30-min 1-on-1 slots to discuss LLM use-cases. Ask me anything on LLMs. I'll share what I know.

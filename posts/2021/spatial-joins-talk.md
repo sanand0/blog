@@ -2,6 +2,8 @@
 date: "2021-08-15T06:19:49Z"
 categories:
   - linkedin
+description: "This talk announcement argues that spatial joins are one of geospatial analysis's most underrated superpowers because they enable correlations between datasets that do not share boundaries naturally."
+keywords: ["spatial joins", "geospatial", "maps", "correlations", "talk", "LinkedIn"]
 ---
 
 The most under-rated #geospatial capability is spatial joins, IMHO. It lets you draw correlations from #geodata.
