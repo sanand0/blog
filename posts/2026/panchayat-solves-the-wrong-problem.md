@@ -31,7 +31,7 @@ But Abhishek's steps have _nothing_ to do with the problem - he proceeds to solv
 
 ```markdown
 
-(ii)
+(42)
 
 Qty of x in container (100 l) = 40 lts
 Qty of y in the container of 100 ltr = 60 ltr
