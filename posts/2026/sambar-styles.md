@@ -10,6 +10,8 @@ My wife's [sambar](https://en.wikipedia.org/wiki/Sambar_(dish)) tastes different
 
 [Surbhi's Day 5 of the 30-day challenge was about Sambar](https://www.linkedin.com/posts/surbhi-bhatia_looked-at-43-sambar-recipes-across-five-south-share-7452601712604811264-b_6o/) which inspired me to take [her dataset](https://docs.google.com/spreadsheets/d/1l7Xu3j4tPHMiouh_BcT6pWu4OMhFWM5eKsKT_dntGRs/edit?gid=710450701#gid=710450701) and create a decision tree for which state a sambar recipe is from based on its ingredients.
 
+<!-- https://chatgpt.com/c/69ee8bca-cca8-83ea-bf04-600d49e49ba4 -->
+
 [ChatGPT](https://chatgpt.com/share/69eeac30-d330-83ea-8632-1e37e0a4191a) started with 68 recipes and built a tree at **41% accuracy**. As we added more recipes:
 
 | Recipes | Accuracy |
