@@ -4,6 +4,8 @@ date: "2002-11-01T12:00:00Z"
 categories:
   - links
 wp_id: 1058
+description: I observed IBM’s move into on-demand computing under Sam Palmisano, validating my prediction that tech giants would soon aggregate retail computing power for massive distributed projects, similar to early efforts by Google and Intel.
+keywords: [ibm, distributed computing, on-demand computing, sam palmisano, google toolbar, grid computing]
 ---
 
 Oh, so [Sam Palmisano made CEO of IBM](http://www.nytimes.com/2002/10/31/business/media/31ADCO.html?ex=1036645200&en=3b897b998085ac9f&ei=5007). Guess that was expected. He wants to focus on on-demand computing (his word for corporatising distributed computing projects).

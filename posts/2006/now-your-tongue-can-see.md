@@ -4,6 +4,8 @@ date: "2006-05-06T12:00:00Z"
 categories:
   - links
 wp_id: 329
+description: I explore a sensory substitution device that allows the tongue to perceive visual information and consider Clive Thomson's suggestion that this technology could serve as a novel interface for immersive video gaming.
+keywords: [sensory substitution, tongue vision, brainport, clive thomson, neuroplasticity, gaming interface, haptics]
 ---
 
 [Now your tongue can see](http://www.msnbc.msn.com/id/12459883/). [Clive Thomson suggests](http://www.collisiondetection.net/mt/archives/2006/05/i_blogged_a_whi_1.html) that this could be a good interface for video games too.

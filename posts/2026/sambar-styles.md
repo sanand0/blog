@@ -4,6 +4,8 @@ date: 2026-04-26T20:21:51-04:00
 categories:
   - data
   - visualization
+description: I built a decision tree classifier to identify regional sambar styles from ingredient datasets. I found that while general accuracy is low, 'sniper' ingredients like kokum or coconut oil provide highly distinct signals for specific regional varieties.
+keywords: [sambar, decision trees, python, recipe analysis, regional cuisine, data classification]
 ---
 
 My wife's [sambar](https://en.wikipedia.org/wiki/Sambar_(dish)) tastes different from my mother's. And mine, too. When I cooked as a bachelor, my neighbour would pop by, taste the sambar, and exclaim, "[Rasam](https://en.wikipedia.org/wiki/Rasam_(dish)) super!"

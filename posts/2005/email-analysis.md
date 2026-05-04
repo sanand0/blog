@@ -4,6 +4,8 @@ date: "2005-02-16T12:00:00Z"
 categories:
   - links
 wp_id: 744
+description: I examine Marc Eisenstadt’s 15-year email stats showing a 2.5-hour daily drain despite a disciplined approach. I also look at Donald Knuth’s famous decision to stop using email in 1990 to protect his research time.
+keywords: [email productivity, marc eisenstadt, donald knuth, workflow, time management, communication costs]
 ---
 
 Marc Eisenstadt has analysed [15 years of email](http://www.corante.com/getreal/archives/2005/02/11/eight_years_of_email_stats_pass_1.php).

@@ -4,6 +4,8 @@ date: "2000-10-29T12:00:00Z"
 categories:
   - london-2000
 wp_id: 2152
+description: I realized I'd gained an hour of life during London's Daylight Saving Time shift. I joked about perpetually gaining time by alternating winters between London and India, until I factored in the time lost during flights.
+keywords: [daylight saving time, london, india, timezone, travel, gale warning]
 ---
 
 Sheer laziness kept me in bed till 9:30AM. Then I got dressed, and logged on to the computer, only to be greeted with "I've set the clock an hour behind, because it's Daylight Saving Time. Check if it's OK." or something like that. Neat! I truly got an extra hour. I mean, I actually did something useful. So I told Ashwin (an exchange student from UCLA) that I'd gained an hour of life.

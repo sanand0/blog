@@ -4,6 +4,8 @@ date: "2002-09-17T12:00:00Z"
 categories:
   - links
 wp_id: 1157
+description: I shared an early 2002 India Today feature on the growing Indian blogosphere, highlighting several pioneering bloggers. I even found a simple way to bypass the site's subscription paywall by brute-forcing random four-digit IDs.
+keywords: [india today, blogging, indian blogosphere, internet history, paywalls, pioneers]
 ---
 
 [India Today on blogging](http://www.indiatoday.com/itoday/20020923/care.html). Very nice article, Nidhi. (You need to have a subscription ID. But if you just keep typing random 4-digit numbers, it eventually lets you in.) Featuring [Rohini](http://scholar.blogspot.com/), [Prachi](http://www.livejournal.com/users/dawn), Prabhakar Venkataraman, [Radhika](http://www.entelechy.ws/), [Aditi](http://ferriswheel.blogspot.com/), [Rajesh](http://www.emergic.org/), [Anand](http://www.s-anand.net/), [Mahesh](http://www.techrose.org/), [Anita](http://justlikethat.blogspot.com/), [Arun](http://surplusmusings.blogspot.com/), Jaykrishnan Nair, [Rushi](http://sandwich.net/rushi.desai.name/), [Kiruba](http://www.kiruba.com/), [Madhuri](http://www.livejournal.com/users/madhuri567) and [Sylvia](http://nostalgica.blogspot.com/).

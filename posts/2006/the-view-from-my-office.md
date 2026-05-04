@@ -4,6 +4,8 @@ date: "2006-09-30T12:00:00Z"
 categories:
   - links
 wp_id: 197
+description: I shared a photo of my view from the Infosys office and confirmed that our team has officially reached breakeven. It's a small snapshot of my workspace during a successful financial period for our division.
+keywords: [infosys, office life, breakeven, workspace, corporate culture]
 ---
 
 The view from my office is pretty good.

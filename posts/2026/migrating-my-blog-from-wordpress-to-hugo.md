@@ -4,6 +4,8 @@ date: 2026-01-02T12:30:00+08:00
 categories:
   - coding
 classes: wrap-code
+description: I used AI coding agents to migrate my WordPress blog to Hugo. Key strategies included maintaining a PLAN.md, generating actionable exception reports, and delegating asset optimization and verification tasks to the agent.
+keywords: [hugo, wordpress, static site generator, ai agents, migration, markdown, github actions, webp]
 ---
 
 In 2009, I migrated from a self-made Perl static site generator to [WordPress](https://www.wordpress.org/) because it was slow, WordPress was dynamic and rapidly growing in features, and I wanted to write rather than code. (Also, I had _plenty_ of time in 2009 for such things!)

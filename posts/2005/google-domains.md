@@ -4,6 +4,8 @@ date: "2005-02-02T12:00:00Z"
 categories:
   - links
 wp_id: 761
+description: I examine Google’s transition into becoming a domain registrar, highlighting its potential to offer site hosting and Blogger integration. This move suggests a significant expansion of Google’s ecosystem into core web infrastructure during the early 2000s.
+keywords: [google domains, domain registrar, web hosting, blogger, google services, internet history]
 ---
 
 [Google domains](http://news.com.com/Google+gets+rights+as+Web+site+registrar/2100-1032_3-5559164.html?part=rss&tag=5559164&subj=news.1032.20) is next, possibly leading into site hosting with 1GB space, and linkages with Blogger.

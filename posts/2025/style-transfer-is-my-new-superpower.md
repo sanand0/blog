@@ -3,6 +3,8 @@ date: "2025-12-16T05:36:05Z"
 categories:
   - llms
   - linkedin
+description: I use AI style transfer to make dense texts more accessible. By prompting Claude or ChatGPT to rewrite content in the styles of authors like Pico Iyer or Tim Urban, I transform complex ideas into engaging, readable prose.
+keywords: [style transfer, claude, chatgpt, prompting, large language models, rewriting]
 ---
 
 **Style transfer** is my newly discovered AI super-power: having AI rewrite in someone's style.

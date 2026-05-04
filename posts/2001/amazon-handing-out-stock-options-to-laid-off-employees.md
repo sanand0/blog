@@ -4,6 +4,8 @@ date: "2001-01-31T12:00:00Z"
 categories:
   - links
 wp_id: 1914
+description: I noticed Amazon's unusual decision to grant stock options to laid-off employees. This move provides a unique form of severance and compensation for workers departing during restructuring, marking a distinctive approach to corporate downsizing and employee relations.
+keywords: [amazon, stock options, layoffs, severance, tech industry, corporate policy]
 ---
 
 Amazon is handing out [stock options to laid off employees](http://dailynews.yahoo.com/h/cn/20010130/tc/stock_options_for_laid-off_employees__1.html). That's a good one!

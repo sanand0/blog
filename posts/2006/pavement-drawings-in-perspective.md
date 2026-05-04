@@ -4,6 +4,8 @@ date: "2006-10-09T12:00:00Z"
 categories:
   - links
 wp_id: 185
+description: I'm sharing Julian Beever's incredible pavement drawings that use forced perspective to create mind-bending 3D illusions on flat ground. The level of detail, including the realistic shadows, makes them look like actual objects.
+keywords: [julian beever, pavement art, 3d illusions, forced perspective, street art, anamorphic drawing]
 ---
 
 These are pavement drawings. They are NOT 3D objects. But it's hard to believe. (Even the shadows are perfect.) See more at [Julian Beaver's site](http://users.skynet.be/J.Beever/pave.htm).

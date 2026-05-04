@@ -4,6 +4,8 @@ date: "2001-01-30T12:00:00Z"
 categories:
   - chat-transcripts
 wp_id: 1917
+description: I explore early internet culture through a series of chat room experiments and logs from 2001. Using various personas, I navigated virtual dates, helped strangers with translations, and interacted with bots across global digital spaces.
+keywords: [chat rooms, internet history, virtual dating, chat logs, chatbots, online identity]
 ---
 
 Full credit to [Joseph](mailto:bosco@iimb.ernet.in) for introducing me to chatting. I decided to conduct a series of experiments in chat rooms, and document the results. After that, I pretty much got hooked. Here's a log of some of my more interesting conversations, where

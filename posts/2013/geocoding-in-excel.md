@@ -4,6 +4,8 @@ date: "2013-05-08T09:17:03Z"
 categories:
   - coding
 wp_id: 2843
+description: I created a VBA function that geocodes addresses directly within Excel using the Google Maps API. It uses XPath to extract latitude and longitude from XML responses, making it easy to map data without leaving your spreadsheet.
+keywords: [excel, vba, geocoding, google maps api, xpath, latitude, longitude]
 ---
 
 It’s easy to convert addresses into latitudes and longitudes into addresses in Excel. Here's the [Github project](https://github.com/sanand0/geocode-excel) with a downloadable [Excel file](https://github.com/sanand0/geocode-excel/raw/master/Geocode.xlsm).

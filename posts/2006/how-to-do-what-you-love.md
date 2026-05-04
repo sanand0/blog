@@ -4,6 +4,8 @@ date: "2006-01-18T12:00:00Z"
 categories:
   - my-best-links
 wp_id: 418
+description: I recommend Paul Graham's essay on finding meaningful work, highlighting tests like whether friends say wow or if you'd do the task for free. It suggests choosing less prestigious paths to find genuine personal admiration.
+keywords: [paul graham, career advice, meaningful work, prestige, creativity, personal development]
 ---
 
 Excellent article by Paul Graham on [How to do what you love](http://paulgraham.com/love.html).

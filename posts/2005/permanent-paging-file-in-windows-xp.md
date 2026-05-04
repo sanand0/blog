@@ -4,6 +4,8 @@ date: "2005-03-28T12:00:00Z"
 categories:
   - links
 wp_id: 701
+description: Create a permanent paging file in Windows XP to boost performance when running multiple applications. Setting a fixed size prevents disk fragmentation and ensures smoother multitasking by stabilizing the virtual memory swap file.
+keywords: [windows xp, paging file, virtual memory, performance tuning, system optimization, multitasking]
 ---
 
 Create a [permanent paging file in Windows XP](http://www.rojakpot.com/showarticle.aspx?artno=143&pgno=15). It speeds up the system when you have lots of applications running.

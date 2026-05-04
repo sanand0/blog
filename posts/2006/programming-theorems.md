@@ -4,6 +4,8 @@ date: "2006-11-08T12:00:00Z"
 categories:
   - links
 wp_id: 181
+description: I've collected several programming theorems that highlight the realities of software maintenance, like the persistence of Perl and the deceptive complexity of CSV. I emphasize that active coding is far more valuable than reading about new languages.
+keywords: [programming theorems, perl, csv, software maintenance, coding practice, heuristics]
 ---
 
 [Programming theorems](http://www.minds.nuim.ie/~dez/serendipity/index.php?/archives/102-Programming-Theorems.html).

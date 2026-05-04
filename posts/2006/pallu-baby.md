@@ -4,6 +4,8 @@ date: "2006-01-25T12:00:00Z"
 categories:
   - funny
 wp_id: 408
+description: I highlight Karthik Laxman’s viral "Pallu baby" saga at IIM-A, exploring the fallout after his teaching assistant discovered his blog. It’s a hilarious look at the unintended consequences of email signatures and the chaos of anonymous internet comments.
+keywords: [iim-ahmedabad, karthik laxman, blogging, viral stories, student life, anonymous comments]
 ---
 
 Hilarious post on [Pallu baby](http://sleepless-in-iima.blogspot.com/2005/08/fools-proof.html). Nice read, Karthik. Stay on course. Here's his follow-up (which I can't find on his blog any more).

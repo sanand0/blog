@@ -4,6 +4,8 @@ date: "2007-02-23T12:00:00Z"
 categories:
   - links
 wp_id: 108
+description: I discovered that cushioned running shoes can cause injuries by masking ground pressure, leading to harder landings and bone stress. Surprisingly, expensive shoes may be more harmful than cheaper ones by encouraging excessive impact force.
+keywords: [running shoes, barefoot running, athletic footwear, injury prevention, biomechanics, impact force]
 ---
 
 [Running shoes may actually cause injuries](http://www.quickswood.com/my_weblog/2006/08/athletic_footwe.html). The heel has evolved to detect the pressure of hitting the ground, and to adjust the force with which to land our feet. Cushioned shoes soften the pressure. So we tend to land with greater force, creating more stress on our bones.

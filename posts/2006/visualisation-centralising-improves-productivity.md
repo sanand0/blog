@@ -5,6 +5,8 @@ lastmod: "2020-05-15T07:08:56Z"
 categories:
   - visualisation
 wp_id: 211
+description: I use variwide charts to visualize productivity gains and product profitability across different hubs. By mapping efficiency to height and volume to width, these charts reveal total impact and potential improvements that standard bar charts miss.
+keywords: [variwide chart, matrix chart, data visualization, productivity, profitability analysis, excel]
 ---
 
 When you put people together, they tend to learn from each other. For example, we found one hub opening accounts much faster than another. Why? One guy had found this free software that enables auto-completion, and had installed it on his machine. Copying him, everyone else had done the same on their machine. So the hub as a whole was faster.

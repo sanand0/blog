@@ -4,6 +4,8 @@ date: "2005-09-15T12:00:00Z"
 categories:
   - links
 wp_id: 551
+description: I'm investigating the mysterious services.google.com subdomain. Early readers uncovered hidden links to Google University, event RSVPs, and internal consoles, providing a glimpse into how Google organized its enterprise and educational services in the mid-2000s.
+keywords: [services.google.com, subdomains, web history, google university, url exploration, google enterprise]
 ---
 
 [Google Services](http://services.google.com/). What's that?

@@ -4,6 +4,8 @@ date: "2005-09-14T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 553
+description: I automate my daily reading by matching del.icio.us tags from URLs I've blogged about against trending bookmarks. I score sites based on tag frequency and rank the top five, though I need better APIs to scale.
+keywords: [del.icio.us, automation, social bookmarking, content discovery, tagging, rss]
 ---
 
 I have an automated (and lazy) way of finding interesting sites. This is what I do every day.

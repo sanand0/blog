@@ -4,6 +4,8 @@ date: "2007-02-02T12:00:00Z"
 categories:
   - links
 wp_id: 120
+description: I shared Kevin Smith's top ten films of 2006 from his blog. The list offers a glimpse into the director's tastes and prompted readers to discuss his own work, including Clerks, Dogma, and Chasing Amy.
+keywords: [kevin smith, film lists, movies, 2006 cinema, silent bob speaks, clerks]
 ---
 
 Kevin Smith's [top 10 films of 2006](http://silentbobspeaks.com/?p=305).

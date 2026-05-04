@@ -3,6 +3,8 @@ title: "Gemini: To make the bed or sleep"
 date: 2026-01-22T22:03:17+05:30
 source: "https://gemini.google.com/u/2/app/ae71e1c739ea4810"
 build: { list: never, render: always }
+description: I analyze the Bhojpuri proverb "ज़िंदगी भर बिस्तर बिछईबा करबा तो सुतबा कब?" as existential folk satire. It critiques our obsession with preparation—making the bed—over the actual act of living and resting.
+keywords: [bhojpuri, folk satire, existentialism, proverbs, linguistics, philosophy]
 ---
 
 ## User

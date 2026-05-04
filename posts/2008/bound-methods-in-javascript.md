@@ -5,6 +5,8 @@ lastmod: "2011-12-02T22:11:39Z"
 categories:
   - coding
 wp_id: 24
+description: I solve JavaScript's 'this' binding issues in callbacks by defining methods inside the constructor with closures. I've found this pattern more reliable than prototypes, especially when passing methods to functions like setTimeout or handling closures in loops.
+keywords: [javascript, closures, this keyword, prototypes, settimeout, design patterns]
 ---
 
 The [popular](https://developer.mozilla.org/en/Core_JavaScript_1.5_Guide/Class-Based_vs._Prototype-Based_Languages) [way](http://javascript.crockford.com/prototypal.html) to create a class in Javascript is to define a function and add methods to its prototype. For example, let's create a class `Node` that has a method `hide().`

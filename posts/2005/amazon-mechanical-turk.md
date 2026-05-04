@@ -4,6 +4,8 @@ date: "2005-11-09T12:00:00Z"
 categories:
   - links
 wp_id: 509
+description: I found Amazon's Mechanical Turk API, which allows software to invoke human workers for tasks computers can't handle. It treats human intelligence like a remote procedure call, creating what Amazon calls "Artificial Artificial Intelligence."
+keywords: [amazon mechanical turk, artificial artificial intelligence, web services, crowdsourcing, remote procedure call, human-in-the-loop]
 ---
 
 The ultimate irony. Amazon has written an API that invokes humans.

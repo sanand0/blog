@@ -4,6 +4,8 @@ date: "2007-12-31T12:00:00Z"
 categories:
   - excel-tips
 wp_id: 66
+description: I show how I use Google Spreadsheets' importXML and importFeed functions to automate web lookups. I built a tool that scrapes IMDb’s top movies, finds related torrents, and publishes the combined results as a custom RSS feed.
+keywords: [google spreadsheets, importxml, importfeed, xpath, web scraping, rss feeds, data automation]
 ---
 
 I'd written earlier about [Web lookup in Excel](/blog/web-lookup-using-excel/). I showed [an example](/blog/rss-feeds-in-excel/) how you could create a movie wishlist that showed the links to the torrents from [Mininova](http://www.mininova.org/).

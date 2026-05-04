@@ -4,6 +4,8 @@ date: "2008-09-05T12:00:00Z"
 categories:
   - excel-tips
 wp_id: 36
+description: I show how to use the SORT function in Google Spreadsheets to create dynamic lists that update automatically. I cover multi-column sorting and using NOEXPAND to build dashboards that highlight top performers by revenue or profit.
+keywords: [google sheets, excel, sort function, noexpand, dynamic sorting, dashboards]
 ---
 
 > This is a series on what [Google Spreadsheets](http://docs.google.com/) can do that Excel can't.

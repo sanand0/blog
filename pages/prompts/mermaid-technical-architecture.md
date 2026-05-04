@@ -3,6 +3,8 @@ title: Mermaid Technical Architecture Diagram
 date: "2025-11-12T03:04:36Z"
 lastmod: "2025-11-12T03:04:36Z"
 classes: wrap-code
+description: I share a prompt for generating rich Mermaid architecture diagrams from codebases. It emphasizes semantic labeling, custom node shapes, and emoji styling while providing a structured architectural explanation and a validation process to ensure accuracy.
+keywords: [mermaid.js, architecture diagrams, technical documentation, diagram-as-code, prompt engineering, visualization]
 ---
 
 Generate a detailed Mermaid technical architecture diagram for the given files.

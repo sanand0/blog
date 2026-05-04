@@ -4,6 +4,8 @@ date: "2006-08-28T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 244
+description: I built a simple JavaScript-based Sanskrit transliterator that converts English input into Devanagari script. It supports copy-pasting into documents, and I've shared the source code on Google Code for anyone to reuse or study.
+keywords: [sanskrit, transliteration, javascript, devanagari, indic scripts, google code]
 ---
 
 I've built a simple [Sanskrit transliterator](/blog/sanskrit-transliterator/). You can type in words in English and it will spell them out in Sanskrit. You can copy-paste the Tamil above into Microsoft Word, etc.

@@ -3,6 +3,8 @@ date: "2025-12-09T05:36:05Z"
 categories:
   - llms
   - linkedin
+description: I used ChatGPT, Claude, and Gemini to determine a single composite metric for ranking India's greatest batsmen. The LLMs favored a 'Batting Average * log(Total Runs)' calculation, which I visualized to compare eras across cricket history.
+keywords: [cricket, data visualization, chatgpt, indian batsmen, composite metrics, batting average, claude, gemini]
 ---
 
 When my father mentioned that Virat Kohli scored a century (again) against South Africa, I wondered how he compared to the likes of Tendulkar and Gavaskar.

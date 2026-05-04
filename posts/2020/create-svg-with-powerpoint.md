@@ -8,6 +8,8 @@ categories:
 wp_id: 2980
 excerpt: With the new SVG support, PowerPoint is perhaps the most accessible SVG authoring
   tool.
+description: I found that PowerPoint is an accessible SVG authoring tool for web visuals. I draw shapes or Smart Art, save them as SVG, and get clean, editable code suitable for interactive simulators or animations.
+keywords: [powerpoint, svg, vector graphics, office 365, web development, smart art]
 ---
 
 With Office 365, [PowerPoint supports SVG editing](https://support.microsoft.com/en-us/office/edit-svg-images-in-microsoft-office-365-69f29d39-194a-4072-8c35-dbe5e7ea528c). This is really powerful. It means you can draw in PowerPoint and render it on the web -- including as interactive or animated visuals.

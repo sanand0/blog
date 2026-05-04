@@ -4,6 +4,8 @@ date: "2002-10-25T12:00:00Z"
 categories:
   - links
 wp_id: 1076
+description: Google began removing anti-Semitic search results on French and German domains to comply with local laws. I doubt this split-system will last and speculate on whether we'll see international internet law or improved geo-tracking to resolve conflicts.
+keywords: [google, censorship, international law, search engines, france, germany, chilling effects]
 ---
 
 Now [Google is complying with local laws](http://news.com.com/2100-1023-963132.html) by eliminating anti-Semetic sites from their French (google.fr) and German (google.de) sites. These sites still remain accessible through google.com, though.

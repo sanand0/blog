@@ -4,6 +4,8 @@ date: "2005-06-23T12:00:00Z"
 categories:
   - links
 wp_id: 631
+description: Flickr updated its service tiers to offer free users 20 MB of monthly uploads and a 200-photo display limit. They also reduced the price of Flickr Pro accounts, making the premium features more accessible to photographers.
+keywords: [flickr, photo sharing, flickr pro, upload limits, web history, subscription models]
 ---
 
 [Flickr enhancements](http://blog.flickr.com/flickrblog/2005/04/new_prices_free.html) include 20 MB/month of uploads, 200 photos, and cheaper Flickr Pro accounts.

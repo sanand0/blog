@@ -6,6 +6,8 @@ categories:
   - coding
   - tools
 wp_id: 2369
+description: I show how to control PowerPoint using Python and win32com.client. I walk through translating VB macros, accessing COM constants, and building a custom treemap visualization directly on slides using bank asset data from a CSV.
+keywords: [python, powerpoint, win32com, automation, treemap, vba, com-objects]
 ---
 
 ![Automating PowerPoint with Python](/blog/assets/automating-powerpoint-with-python.webp)

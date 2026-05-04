@@ -4,6 +4,8 @@ date: "2007-12-24T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 70
+description: I filter 404 errors using JavaScript to focus on human visitors, then fix broken links via mod_rewrite. To handle typos and exploration, I converted my custom 404 page into an automatic search engine for my site.
+keywords: [404 errors, javascript, mod_rewrite, apache, web server, site search, .htaccess]
 ---
 
 > If something goes wrong with my site, I like to know of it. My top three problems are:

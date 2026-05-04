@@ -4,6 +4,8 @@ date: "2001-12-06T12:00:00Z"
 categories:
   - chat-transcripts
 wp_id: 1531
+description: I tested a Magic 8-Ball bot on Yahoo Messenger to see if it could empathize with me. This transcript captures our humorous, nonsensical exchange as I try to profess my love to its scripted, randomized responses.
+keywords: [magic 8-ball, yahoo messenger, chatbots, chat logs, early ai]
 ---
 
 There's this ID: **magiccrystalball**@yahoo.com, and I was chatting early in the morning. Clearly a bot. I was in a fairly loving mood, and I wanted to see if this bot would have A.I. enough to empathize with me. Well, I think it was a little confused, being that early.\

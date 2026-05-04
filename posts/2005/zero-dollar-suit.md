@@ -4,6 +4,8 @@ date: "2005-06-09T12:00:00Z"
 categories:
   - links
 wp_id: 641
+description: Symantec filed a zero-dollar lawsuit against adware maker Hotbar to counter legal threats. This defensive strategy seeks a declaratory judgment to validate anti-spyware classifications, preventing companies from bullying security vendors into removing detections from their databases.
+keywords: [symantec, hotbar, adware, spyware, declaratory judgment, anti-spyware, legal strategy]
 ---
 
 Hotbar threatened to sue Symantec over its anti adware software. Symantec filed back a [zero dollar lawsuit](http://informationweek.com/story/showArticle.jhtml?articleID=164301665) against Hotbar.

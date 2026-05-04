@@ -3,6 +3,8 @@ title: "Gemini: Website styles"
 date: 2026-01-22T21:59:44+05:30
 source: "https://gemini.google.com/u/2/app/35376ba312690d54"
 build: { list: never, render: always }
+description: I compiled a catalog of websites with cult-followed designs, from brutalist relics like Berkshire Hathaway to neon-noir editorial styles like The Verge, providing concise stylistic blueprints for creators and AI agents.
+keywords: [brutalism, maximalism, minimalism, ui design, ux design, web aesthetics, vaporwave]
 ---
 
 ## User

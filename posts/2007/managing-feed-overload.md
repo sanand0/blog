@@ -5,6 +5,8 @@ lastmod: "2009-03-08T16:11:40Z"
 categories:
   - how-i-do-things
 wp_id: 72
+description: I built a custom popurls-style feed reader using Google's AJAX Feed API to manage information overload. I also explain how to use Google’s FeedFetcher as a lightweight cron alternative to schedule tasks and archive RSS history.
+keywords: [google reader, rss, ajax feed api, popurls, automation, feedfetcher, information overload]
 ---
 
 I have only two problems with Google Reader.

@@ -4,6 +4,8 @@ date: "2007-04-02T12:00:00Z"
 categories:
   - links
 wp_id: 96
+description: I suggest using the Google personalized homepage for mail snippets or forwarding your Gmail to a private Google Group to bypass network blocks. These methods often work even when direct access to Gmail is restricted.
+keywords: [gmail, google groups, network filtering, email access, internet censorship, igoogle]
 ---
 
 If you just want to check if you have new mail on Gmail, use [Google's personalised home page](http://www.google.com/ig) and [add Gmail to the homepage](http://www.google.com/ig/directory?q=gmail). This shows new mail and a few words as a snippet.

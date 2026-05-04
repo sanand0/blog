@@ -4,6 +4,8 @@ date: "2006-08-22T12:00:00Z"
 categories:
   - links
 wp_id: 253
+description: I'm highlighting these whiteboard sketches from 2006 that map out Google's master plan, detailing the interconnected ecosystem of search, advertising, and content services they built to organize the world's information.
+keywords: [google, master plan, whiteboard, product strategy, ecosystem, information organization]
 ---
 
 [Google's master plan](http://googlesystem.blogspot.com/2006/08/googles-master-plan.html).

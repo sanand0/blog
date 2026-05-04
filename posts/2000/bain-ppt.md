@@ -4,6 +4,8 @@ date: "2000-10-18T12:00:00Z"
 categories:
   - london-2000
 wp_id: 2158
+description: I attended a Bain presentation at LBS, noting the commuter uniform of suits and umbrellas. After conducting a quick racial demographic survey at Baker Street station, I unexpectedly met Pierce Brosnan in the afternoon.
+keywords: [bain & company, london business school, baker street station, pierce brosnan, demographics, british rail]
 ---
 
 I had to attend the Bain presentation today at 10AM, so I tried getting to LBS early. I started at 8:45AM. But for some reason, the train crawled on. The engineer couldn't figure out why himself. Anyway, as a result, the train was nearly half-an-hour late. Now, if the Bangalore Mail came in half-an-hour late, I'd be thankful. But here, it's gotten to the point where one makes appointments relying on the efficiency of the British Rail. Well, it's a lesson, I guess.

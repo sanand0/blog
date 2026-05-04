@@ -4,6 +4,8 @@ date: "2008-02-18T12:00:00Z"
 categories:
   - coding
 wp_id: 58
+description: I implemented a chain utility that wraps object methods to return the calling object when they return nothing. It turns verbose multi-line setup code, like the Google AJAX search API, into a clean, fluent syntax similar to jQuery.
+keywords: [javascript, function chaining, fluent api, jquery, function.prototype, google ajax search api]
 ---
 
 One of the coolest features of [jQuery](http://jquery.com/) is the ability to chain functions. The output of a function is the calling object. So instead of writing:

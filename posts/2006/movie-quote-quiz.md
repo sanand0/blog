@@ -5,6 +5,8 @@ lastmod: "2025-01-25T03:06:59Z"
 categories:
   - quizzes
 wp_id: 416
+description: I built an interactive movie quote quiz where you guess titles from IMDb. I used JavaScript’s onKeyUp event to validate entries against encrypted answers, instantly updating the score and background colors for correct guesses.
+keywords: [movie quotes, interactive quiz, javascript, onkeyup, trivia, imdb]
 ---
 
 <p>These are movie quotes. How many titles can you guess? (Use <a href="http://www.imdb.com/">IMDb</a> titles.)</p>

@@ -4,6 +4,8 @@ date: "2007-01-05T12:00:00Z"
 categories:
   - top-10-lists
 wp_id: 137
+description: I analyzed 1,400 Tamil songs to track how film music has evolved. I found that songs grow about 14 seconds longer each decade and used MediaMonkey scripting to rank my favorite directors like G Ramanathan and Ilayaraja.
+keywords: [tamil songs, music analysis, mediamonkey, ilayaraja, ar rahman, film music, song length]
 ---
 
 <p>Since I like Tamil songs and statistics so much, I did some <a href="http://spreadsheets.google.com/pub?key=poz40xh4E1ufhjV5xzwvIOA">analysis on the ~1,400 Tamil songs I'd listened to in 2006</a>.</p>

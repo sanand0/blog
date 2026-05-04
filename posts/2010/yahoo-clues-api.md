@@ -4,6 +4,8 @@ date: "2010-11-22T13:31:48Z"
 categories:
   - coding
 wp_id: 2558
+description: I documented the unofficial Yahoo Clues API to access search flow data, specifically the queries that precede and follow a search. I identified key parameters for time spans and demographics to help scrape search trend insights.
+keywords: [yahoo clues, search flows, unofficial api, search trends, api documentation, json]
 ---
 
 [Yahoo Clues](http://clues.yahoo.com/) is like [Google Insights for Search](http://www.google.com/insights/search/). It has one interesting thing that the latter doesn’t though: [search flows](http://help.yahoo.com/l/us/yahoo/search/clues/clues-06.html).

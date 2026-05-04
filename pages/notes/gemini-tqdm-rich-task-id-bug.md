@@ -3,6 +3,8 @@ title: "Gemini: tqdm rich task ID bug"
 date: 2026-01-11T11:47:53+08:00
 source: https://gemini.google.com/u/2/app/c087c6589b38a66d
 build: { list: never, render: always }
+description: I debugged a TypeError in the tqdm.rich integration caused by a missing task_id in the reset() method. I found the fix in a long-stalled 2022 Pull Request and explored how to revive it.
+keywords: [tqdm, rich, python, pull request, debugging, uv, task_id]
 ---
 
 ## User

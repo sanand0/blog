@@ -4,6 +4,8 @@ date: "2006-06-14T12:00:00Z"
 categories:
   - links
 wp_id: 294
+description: I highlight new features in the Picasa Beta, specifically geotagging, color-based search, and Picasa Web integration. I also discuss the service's privacy limitations compared to Flickr, focusing on how unlisted albums and selective sharing work.
+keywords: [picasa, geotagging, picasa web albums, flickr, color search, photo management]
 ---
 
 New in [Picasa](http://picasa.google.com/)'s beta:

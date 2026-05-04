@@ -4,6 +4,8 @@ date: "2000-10-10T12:00:00Z"
 categories:
   - london-2000
 wp_id: 2163
+description: I realized the importance of practicing case interviews before my first attempt. During a business class, we analyzed The Body Shop’s success, debating how cultural attitudes toward animal welfare differ between the UK and France.
+keywords: [case interviews, financial analysis, the body shop, animal welfare, cross-cultural business, london business school]
 ---
 
 I had my first case interview today. Four of us (3 exchange students and one LBS MBA grad) sat together and tried giving each other cases. It's an excellent learning experience. Had I gone in for a case interview without this preparation, I'd have flunked.

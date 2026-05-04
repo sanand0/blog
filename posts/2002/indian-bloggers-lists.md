@@ -4,6 +4,8 @@ date: "2002-08-17T12:00:00Z"
 categories:
   - my-best-links
 wp_id: 1225
+description: I compiled a round-up of early Indian blogging communities, highlighting resources like Anita's comprehensive list and ring, Eatonweb, and Kamat's moderated directory to help navigate the emerging Indian blogosphere in 2002.
+keywords: [indian blogosphere, blogging history, webrings, directories, anita's list, eatonweb]
 ---
 
 A quick round-up on the Indian bloggers' lists:

@@ -5,6 +5,8 @@ lastmod: "2010-04-13T05:16:21Z"
 categories:
   - business-realities
 wp_id: 2499
+description: I conducted a survey on workplace web freedom, finding that while Google and Wikipedia are nearly universal, over 50% of employees are blocked from Facebook, YouTube, and personal email, reflecting persistent micromanagement in modern offices.
+keywords: [web filtering, workplace monitoring, internet freedom, corporate culture, employee trust, micromanagement]
 ---
 
 There was a time when workers were searched when they left, to make sure they weren’t stealing. They were paid by their hour, and had to clock in/clock out. They had supervisors to ensure that they didn’t slack off. They weren’t allowed to make calls at work. After all, people were lazy and thieving in those days.

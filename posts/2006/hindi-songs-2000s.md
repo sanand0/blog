@@ -5,6 +5,8 @@ lastmod: "2025-01-25T02:46:50Z"
 categories:
   - quizzes
 wp_id: 188
+description: I created an interactive quiz where you identify 2000s Hindi movies based on their background music. Test your Bollywood knowledge against these ten clips; I even encrypted the answers to keep the challenge fair.
+keywords: [hindi cinema, bollywood, movie quiz, 2000s music, background scores, audio quiz]
 ---
 
 <p>Here is the background music from some Hindi songs from the 2000s. Can you guess which <b>movie</b> they are from?</p>

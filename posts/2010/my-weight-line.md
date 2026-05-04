@@ -4,6 +4,8 @@ date: "2010-02-20T14:08:21Z"
 categories:
   - how-i-do-things
 wp_id: 2485
+description: I visualized my weight changes throughout 2009, documenting a drop from 74kg to 66kg before it trended back up to 72kg. I use these simple line charts to monitor the long-term effectiveness of my dieting.
+keywords: [weight tracking, data visualization, dieting, health metrics, weight loss, line chart]
 ---
 
 [![In 2009, I dropped from 74 kgs down to 66, and back again to 72.](/blog/assets/weightline.webp)](/blog/assets/weightline.webp)

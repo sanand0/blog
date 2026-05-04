@@ -4,6 +4,8 @@ date: "2007-05-03T12:00:00Z"
 categories:
   - excel-tips
 wp_id: 86
+description: I built a VBA user-defined function to fetch live Amazon prices directly into Excel. By querying Amazon's XML web services via MSXML and parsing with XPath, I automated gadget price comparisons to avoid manual data entry.
+keywords: [vba, excel, amazon-api, msxml, xpath, user-defined-functions, xml-parsing]
 ---
 
 Take a look at the Excel screenshot below.

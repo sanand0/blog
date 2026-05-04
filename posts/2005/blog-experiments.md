@@ -4,6 +4,8 @@ date: "2005-02-08T12:00:00Z"
 categories:
   - links
 wp_id: 756
+description: I am experimenting with my blog by adding an RSS-powered feed of recently updated sites I follow and creating an online catalog of my digital fiction collection to facilitate easier lending and tracking of resources.
+keywords: [rss feed, blog widgets, digital library, ebooks, sidebar, resource catalog]
 ---
 
 I'm trying a couple of experiments with my blog. One is a feed of sorts that shows recently updated blogs. I'm conducting a trial with a few blogs I read, on the right-side tab "Recently updated blogs". The last 3 posts of the blogs updated within 3 days one-and-half days show up here (using their RSS feed).

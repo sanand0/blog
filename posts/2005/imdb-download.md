@@ -4,6 +4,8 @@ date: "2005-02-09T12:00:00Z"
 categories:
   - links
 wp_id: 755
+description: I downloaded the entire IMDb database to view offline using MovieDb software. I’m also using this local copy to track my progress as I work through watching every movie on the IMDb Top 250 list.
+keywords: [imdb, moviedb, offline database, top 250 films, movie tracking]
 ---
 
 You can download an up-to-date copy of the [entire Internet Movie database](ftp://ftp.fu-berlin.de/misc/movies/database/), and use software like [MovieDb](http://homepages.paradise.net.nz/rhudson/software/moviedb.html) to view it remotely on your computer. My current project: watch the entire [top 250 films](http://www.imdb.com/top_250_films).

@@ -4,6 +4,8 @@ date: "2007-04-17T12:00:00Z"
 categories:
   - funny
 wp_id: 92
+description: I shared a classic internet meme mashup featuring Calvin and Hobbes combined with the "All your base are belong to us" catchphrase from Zero Wing, highlighting a humorous cross-over between comic strips and early gaming culture.
+keywords: [all your base, calvin and hobbes, zero wing, internet memes, mashup, nostalgia]
 ---
 
 [![Calvin and Hobbes: All Your Base](/blog/assets/flickr-calvin-and-hobbes-all-your-base_463034437_o-jpg.webp)](/blog/assets/flickr-calvin-and-hobbes-all-your-base_463034437_o-jpg.webp)

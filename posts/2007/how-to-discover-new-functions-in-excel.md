@@ -5,6 +5,8 @@ lastmod: "2009-03-23T15:38:34Z"
 categories:
   - excel-tips
 wp_id: 128
+description: I discover unknown Excel functions by searching for related formulas in the help menu and exploring "See Also" sections. I used this method to find the IPMT function while modeling revenue, avoiding manual spreadsheet creation.
+keywords: [excel, ipmt, pmt, financial modeling, worksheet functions, functional programming]
 ---
 
 Firstly, believe that **Excel can do anything**.

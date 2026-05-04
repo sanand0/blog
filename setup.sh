@@ -6,6 +6,7 @@ set -e
 # Build content
 uv run scripts/build_content.py
 uv run scripts/where.py
+grep -E '^(summary|description|keywords):' posts/**/*.md pages/**/*.md | sort > description.md
 
 # Build
 mise x hugo -- hugo

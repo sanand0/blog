@@ -4,6 +4,8 @@ date: "2006-02-03T12:00:00Z"
 categories:
   - links
 wp_id: 406
+description: I've updated my site's layout and the underlying backend code. I'm anticipating potential bugs during this transition and want feedback on the new design, which some visitors have already described as looking a bit too much like candy.
+keywords: [site redesign, web design, backend update, layout change, user feedback, blog maintenance]
 ---
 
 I've changed the site layout and some code behind it. Weird bugs are likely -- so do let me know of any that you find.

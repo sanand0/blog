@@ -5,6 +5,8 @@ lastmod: "2020-01-02T13:39:12Z"
 categories:
   - london-2000
 wp_id: 2155
+description: I visited the London Eye and was later mistaken for a cab driver in a bar. I also reflect on the precision of British Rail timings and the cultural differences in railway delays between England and India.
+keywords: [london eye, british rail, indian railways, punctuality, travel observations, london]
 ---
 
 After lazing around the whole morning, I went to the London eye this evening. The London eye is this huge giantwheel that's probably one of the tallest structures in London. When on top, you're supposed to be able to see all the important places in London. It was arranged by the LBS for the exchange students, but not many had turned up, since it was raining.

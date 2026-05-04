@@ -3,6 +3,8 @@ title: Book notes
 date: "2023-01-22T01:31:57Z"
 lastmod: "2023-01-22T01:31:58Z"
 wp_id: 3407
+description: I’ve shared my personal archive of book notes, primarily written in Markdown while reading or listening to audiobooks. These raw, informal records were often captured on mobile while walking, prioritizing quick capture over perfect formatting or spelling.
+keywords: [markdown, book notes, audiobooks, note-taking, mobile writing, knowledge management]
 ---
 
 ![Book notes](/blog/assets/sanand0_A_line_drawing_of_a_researcher_taking_notes_as_he_reads_71e0dabd-e8dd-4b9b-8561-6b468224a63d.webp)

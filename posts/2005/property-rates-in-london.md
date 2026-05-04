@@ -4,6 +4,8 @@ date: "2005-06-01T12:00:00Z"
 categories:
   - links
 wp_id: 649
+description: I found a map from Net lettings that classifies London neighborhoods by rental costs. It is a useful visual tool for comparing property rates across different areas, supplemented by reader suggestions like Gumtree for private ads and flatshares.
+keywords: [london, rent, property rates, real estate, gumtree, housing maps]
 ---
 
 [Net lettings](http://www.net-lettings.co.uk/) has an interesting map of London areas classified by how high the rent is.

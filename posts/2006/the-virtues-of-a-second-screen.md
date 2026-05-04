@@ -4,6 +4,8 @@ date: "2006-04-22T12:00:00Z"
 categories:
   - links
 wp_id: 350
+description: I highlight the productivity benefits of dual-monitor setups, including side-by-side document comparison, viewing large spreadsheets, managing photo tool palettes on a secondary display, and keeping email visible while working on other tasks.
+keywords: [dual monitors, productivity, multitasking, workstation, photo editing, spreadsheets, bugmenot]
 ---
 
 [The virtues of a second screen](http://www.nytimes.com/2006/04/20/technology/20basics.html).

@@ -4,6 +4,8 @@ date: "2005-08-24T12:00:00Z"
 categories:
   - links
 wp_id: 574
+description: I examine the initial release of Google Talk, a lightweight 900K instant messenger. I find it remarkably simple and lean, though I'm still searching for standout features beyond its highly-praised, high-quality voice chat capabilities.
+keywords: [google talk, gtalk, instant messaging, voip, voice chat, software launch]
 ---
 
 [Google Talk](http://www.google.com/talk/about.html) is a Google instant messenger. It's quite small (900K), very simple, and uses HTML+Javascript+CSS+XML. But I'm yet to figure out it it has any cool features. Quick [review at DownloadSquad](http://www.downloadsquad.com/2005/08/23/googe-talk-review/).

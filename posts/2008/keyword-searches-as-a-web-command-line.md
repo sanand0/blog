@@ -5,6 +5,8 @@ lastmod: "2009-03-09T08:47:15Z"
 categories:
   - coding
 wp_id: 14
+description: I explain how to turn your browser address bar into a command line using keyword searches and bookmarklets. I show how to replicate Ubiquity features like word counts and social updates using the %s parameter and custom JavaScript.
+keywords: [keyword searches, bookmarklets, ubiquity, browser productivity, javascript urls, google chrome, firefox]
 ---
 
 [Andre's mentions](http://tools-for-thought.com/2008/09/03/15-ubiquity-commands-to-enhance-your-web-experience/) dumping [Google Chrome](http://www.google.com/chrome) because of lack of extension support, especially [Ubiquity](https://wiki.mozilla.org/Labs/Ubiquity), and lists 15 useful Ubiquity commands.

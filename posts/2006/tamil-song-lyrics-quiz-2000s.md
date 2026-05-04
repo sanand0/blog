@@ -5,6 +5,8 @@ lastmod: "2025-01-25T02:56:52Z"
 categories:
   - quizzes
 wp_id: 236
+description: I created an interactive quiz featuring lyrics from ten 2000s Tamil songs. Test your movie knowledge by guessing the film titles from these middle-of-the-song snippets. Just type the names to see if you get them right!
+keywords: [tamil cinema, song lyrics, quizzes, kollywood, 2000s music, movie trivia]
 ---
 
 <p>Here are words from the middle of 10 songs from the 2000s. Can you guess which <b>movie</b> they are from? (Films are NOT repeated)</p>

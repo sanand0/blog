@@ -2,6 +2,8 @@
 title: LLM creative tool capabilities
 date: 2025-12-21T00:00:00Z
 classes: wrap-code
+description: I asked chatbots to find unusual ways to use the tools they have access to. I discovered ffmpeg can visualize audio via filters, then compiled over 100 creative workflows for tools like ImageMagick, Pandoc, and Graphviz.
+keywords: [ffmpeg, imagemagick, pandoc, graphviz, audio visualization, generative art, coding agents, cli tools]
 ---
 
 I asked the popular chatbots for creative ways to use tools they have access to. Here are the responses.

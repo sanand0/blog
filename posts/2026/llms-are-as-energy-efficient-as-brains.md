@@ -3,6 +3,8 @@ title: LLMs are as energy-efficient as brains
 date: 2026-04-25T08:25:37-04:00
 categories:
   - llms
+description: I found that LLM agents and human brains consume similar energy for complex tasks. While brains use lower power over longer periods, AI's high-speed processing results in comparable total watt-hours per task.
+keywords: [llms, energy efficiency, gdpval, human brain, computational cost, watt-hours]
 ---
 
 For a typical [GDPVal](https://openai.com/index/gdpval/) style task, humans take ~7 hours and the brain consumes ~135 Wh.

@@ -3,6 +3,8 @@ title: Analyze Call Recording
 date: "2025-09-10T07:05:28Z"
 lastmod: "2025-12-14T12:55:14Z"
 classes: wrap-code
+description: I share a prompt I use to extract deep value from call transcripts. It identifies missed emotional bids, unvalidated assumptions, and high-impact experiments, helping me improve how I engage others and learn from every conversation.
+keywords: [call transcripts, ai prompt, emotional bids, mental models, communication improvement, meeting analysis]
 ---
 
 Analyze call transcripts to extract key insights, action items, and feedback.

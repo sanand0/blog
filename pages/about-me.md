@@ -3,6 +3,8 @@ title: About me
 date: "2009-02-17T23:39:29Z"
 lastmod: "2025-02-02T16:15:23Z"
 wp_id: 2
+description: I trace my journey from IIT Madras and IIM Bangalore to co-founding Gramener and joining Straive. I share stories about data visualization, my career at IBM and BCG, and the persistent confusion surrounding my name and beard.
+keywords: [s anand, gramener, iim bangalore, iit madras, data science, data visualization, straive, career history]
 ---
 
 You may know me as **S Anand**. You may also know me as **Prof or Stud** at the [Indian Institute of Management, Bangalore](https://www.iimb.ernet.in), as **Anand Subramanian** at [IBM India](https://www.ibm.com/in), **Bhalla** at [Alakananda hostel](https://ccw.iitm.ac.in/viewHostel?hid=1), [IIT Madras](https://www.iitm.ac.in/), and **Bal** at [Vidya Mandir](https://www.vidya-mandir.edu.in/).

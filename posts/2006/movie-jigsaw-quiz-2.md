@@ -5,6 +5,8 @@ lastmod: "2025-01-25T03:06:03Z"
 categories:
   - quizzes
 wp_id: 309
+description: I built an interactive movie quiz using jumbled jigsaw blocks. You can rearrange the pieces to reveal scenes from a film and guess its title, while the images loop through multiple frames from that specific movie.
+keywords: [movie quiz, jigsaw puzzle, interactive game, film stills, puzzle design, hollywood]
 ---
 
 <p>I've jumbled up some stills from movies. You can <b>move the jumbled blocks around, like a jigsaw</b>. Can you guess the movie?</p>

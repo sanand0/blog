@@ -5,6 +5,8 @@ lastmod: "2025-01-25T02:57:01Z"
 categories:
   - quizzes
 wp_id: 219
+description: I created a quiz where you guess the titles of famous English romantic movies based on their lead actors. Test your knowledge of cinematic love stories and see how many lead pairings you can recognize.
+keywords: [movie quiz, romantic movies, film trivia, lead actors, english cinema, guessing game]
 ---
 
 <p>I've mentioned the lead pair of famous romantic English movies. How many titles can you guess?</p>

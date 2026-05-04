@@ -10,6 +10,8 @@ tags:
   - book
 excerpt: I read 40 books this year (so far). Here's the list, in order of interesting
   & useful books.
+description: I share my 2020 reading list of 45 books, ranking non-fiction favorites like The Lean Startup and exploring fantasy series by Brandon Sanderson and Brent Weeks. I also include comics and poetry to help meet my Goodreads challenge.
+keywords: [reading list, goodreads, non-fiction, fantasy, brandon sanderson, comics, the lean startup, brent weeks]
 ---
 
 My [Goodreads 2020 Reading Challenge](https://www.goodreads.com/challenges/11621) target is 50 books. I'm at 45/50, with little hope of getting to 50. (I managed [25/24 in 2019](https://www.goodreads.com/user_challenges/15183844).)

@@ -3,6 +3,8 @@ title: "Gemini: Neuroscience of Aha Moments"
 date: 2026-01-24T11:22:25+05:30
 source: "https://gemini.google.com/app/decc98f6727f325e"
 build: { list: never, render: always }
+description: I deconstruct the neuroscience of "Aha!" moments, showing how alpha waves "close the blinds" so gamma waves can "connect the dots." I fact-check these EEG findings against historical "grinder" philosophies and ancient wisdom on effortless action.
+keywords: [neuroscience, eeg, gamma waves, alpha waves, creativity, insight, remote associates test]
 ---
 
 ## User

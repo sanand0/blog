@@ -4,6 +4,8 @@ date: "2005-06-23T12:00:00Z"
 categories:
   - london-2005
 wp_id: 633
+description: I found a clever security system in my UK flat that dials my mobile instead of a traditional intercom. I can speak to visitors and unlock the main door by pressing zero, even letting myself in without keys.
+keywords: [intercom, security system, remote access, telephony, door entry, uk technology]
 ---
 
 Among the various technology gizmos I've seen at the UK, this is the best. Our flat has a security system that does not allow anyone without an electronic key to enter. As with most flats, there is a panel on which you can dial the flat number and speak to the owner. Usually this is connected to an intercom in the flat. I was initially surprised that there was no intercom in our flat.

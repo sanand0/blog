@@ -6,6 +6,8 @@ categories:
   - games
 wp_id: 2967
 excerpt: How to mine for Ancient Debris in the Nether using exploding beds
+description: I mine Ancient Debris in the Minecraft Nether by using exploding beds as a cost-effective alternative to TNT. This method quickly clears large areas to gather the materials needed for crafting powerful Netherite armor and weapons.
+keywords: [minecraft, ancient debris, the nether, netherite, mining strategies, exploding beds]
 ---
 
 I've been active on [Minecraft](https://www.minecraft.net/) for the last 6 months, thanks to my daughter. She keeps watching game videos for hours. I thought I'd see what the big deal was, and made one myself.

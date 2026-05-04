@@ -6,6 +6,8 @@ categories:
   - how-i-do-things
   - tools
 wp_id: 245
+description: I built a JavaScript tool to transliterate English typing into Tamil script. It uses a phonetic mapping system for vowels and consonants, supports copy-pasting into documents, and includes a Google Gadget for searching the web in Tamil.
+keywords: [tamil, transliteration, javascript, phonetic mapping, unicode, google gadget]
 ---
 
 <p>I've built a simple <a href="/blog/tamil-transliterator/">Tamil transliterator</a>. You can type in words in English and it will spell them out in Tamil. You can copy-paste the Tamil above into Microsoft Word, etc.</p>

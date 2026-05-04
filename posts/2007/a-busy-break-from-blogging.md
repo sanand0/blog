@@ -4,6 +4,8 @@ date: "2007-08-24T12:00:00Z"
 categories:
   - top-10-lists
 wp_id: 76
+description: I share my reviews of seven books I read during a busy blogging break, including the final Harry Potter, Frank Miller’s graphic novels, and John Resig’s Pro JavaScript Techniques, all while balancing a demanding work schedule.
+keywords: [harry potter, frank miller, john resig, javascript, graphic novels, batman, nick hornby, book reviews]
 ---
 
 Between July 17th and August 22nd, I saw 57 movies and read 7 books. There were Saturdays when I watched four movies back-to-back. (I tried five. Couldn't stay awake.) Amidst this, I also cooked, cleaned, shopped... and went to office. (Oh yes, I was working 10 hours a day.) And managed to build some interesting sites which I'll release in a while.

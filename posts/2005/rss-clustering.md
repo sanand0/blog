@@ -4,6 +4,8 @@ date: "2005-07-27T12:00:00Z"
 categories:
   - links
 wp_id: 589
+description: I found a resource on RSS clustering that applies Gmail-style threading to news sources. It groups related articles from different feeds into clusters, helping you manage information density and stay focused on unique stories.
+keywords: [rss, clustering, news feeds, gmail, information retrieval, content aggregation]
 ---
 
 [RSS clustering](http://monkey.org/~jose/wiki/doku.php?id=rssclustering&DokuWiki=2e25081184329c66f531c206f1069f9b) is about doing what Gmail does on news sources, to RSS feeds of your choice.

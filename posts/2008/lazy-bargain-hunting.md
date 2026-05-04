@@ -4,6 +4,8 @@ date: "2008-01-04T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 61
+description: I automate bargain hunting by combining Amazon's hidden discount search parameters with a custom XPath-based RSS feed. This lets me monitor specific price drops on MIDI keyboards without checking the site manually every day.
+keywords: [amazon, midi keyboards, xpath, rss feeds, bargain hunting, web scraping, automation]
 ---
 
 I'm thinking of buying a [digital keyboard](http://images.google.com/images?q=digital+keyboard) with [touch sensitive keys and MIDI support](http://www.catherineduc.com/linkkeyboards.htm). (The one other thing that I thought off -- a [pitch bend](http://commons.wikimedia.org/wiki/Image:Pitch_Bend_Up.jpg) -- puts the keyboards out of my budget.)

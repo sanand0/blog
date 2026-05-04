@@ -2,6 +2,8 @@
 title: Nandu in Vizag
 date: "2009-02-19T18:40:21Z"
 wp_id: 2198
+description: I recount a 1995 trip to Vizag where my IIT-M classmates and I relentlessly teased our friend Nandu after encountering his old classmate. I share memories of embarrassing him at a seminar and joking about his romantic history.
+keywords: [vizag, iit madras, ripples seminar, college memories, vishakhapatnam, pranks]
 ---
 
 Nandu, Tangi, Jani and myself (four IIT-M guys, class of 1996) went for a seminar (Ripples) at Vishakhapatnam. Nandu lives in Vizag, BTW. On our first day, we went in and registered, and couldn't help noticing the gorgeous tall bespectacled dame who filled our forms. We thought no more of it until Nandu walked in to register, and coolly struck conversation with her for quite a while. It bothered me to no end.

@@ -4,6 +4,8 @@ date: "2001-01-07T12:00:00Z"
 categories:
   - links
 wp_id: 1979
+description: Register domain names in various Indian languages using services like Vishwabharat and Lead Networks, enabling localized web addresses and improved digital accessibility for non-English speakers across the Indian subcontinent.
+keywords: [domain names, indian languages, vishwabharat, lead networks, internationalized domain names, idn, localization]
 ---
 
 [Vishwabharat](http://www.vishwabharat.com/) and [Lead Networks](http://www.leadnetworks.net/) let you register domain names in Indian Languages.

@@ -4,6 +4,8 @@ date: "2005-04-11T12:00:00Z"
 categories:
   - links
 wp_id: 670
+description: Use the Lickr Greasemonkey script for Firefox to strip Flash components from Flickr pages. It replaces them with an equivalent HTML and JavaScript interface to eliminate loading delays and improve the browsing experience.
+keywords: [lickr, flickr, greasemonkey, firefox, javascript, flash, userscript]
 ---
 
 [lickr](http://brevity.org/code/mozilla/greasemonkey/lickr/): Flickr, without the Flash.

@@ -4,6 +4,8 @@ date: "2007-01-19T12:00:00Z"
 categories:
   - interviews
 wp_id: 121
+description: I show how to solve multiple-choice questions faster by picking the correct answer through elimination rather than full calculation. I use shortcuts like checking the units digit, divisibility properties, and quick estimation to identify the right choice.
+keywords: [multiple-choice questions, test-taking strategies, elimination method, estimation, arithmetic shortcuts, mental math]
 ---
 
 How would you solve this multiple-choice problem: **What is 12345 x 45678?**

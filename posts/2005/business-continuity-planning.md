@@ -4,6 +4,8 @@ date: "2005-10-28T12:00:00Z"
 categories:
   - links
 wp_id: 518
+description: The Economist examines business continuity planning via Ericsson's $2 billion loss. A minor ten-minute fire at a Philips chip factory crippled their supply chain, demonstrating how lack of alternative sourcing can destroy market leadership.
+keywords: [ericsson, business continuity planning, supply chain management, risk mitigation, philips, semiconductors]
 ---
 
 The Economist on [Business Continuity Planning](http://www.economist.com/printedition/displayStory.cfm?story_id=5093490).

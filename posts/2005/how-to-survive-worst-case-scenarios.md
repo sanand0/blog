@@ -4,6 +4,8 @@ date: "2005-12-03T12:00:00Z"
 categories:
   - links
 wp_id: 492
+description: I've shared a resource on surviving extreme emergencies like plane crashes, riots, and vehicle brake failure. It covers practical tactics for dire situations and even includes advice for more improbable events like alien abductions.
+keywords: [survival skills, emergency preparedness, popular mechanics, worst-case scenarios, disaster response, safety]
 ---
 
 [How to survive worst case scenarios](http://www.popularmechanics.com/science/worst_case_scenario/), like a riot, plane crash or car without brakes. Also includes an alien abduction scenario.

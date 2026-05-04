@@ -5,6 +5,8 @@ categories:
   - how-i-do-things
   - funny
   - interesting-experiences
+description: I've worn the same ₹500 sandals for eight years, prioritizing comfort over formal dress codes. This preference recently cost me entry to a fancy Singapore rooftop and required changing a meeting venue at the Bangalore Club.
+keywords: [sandals, dress code, bangalore club, ce la vi, minimalism, lifestyle]
 ---
 
 My sandals landed me in trouble twice in December. And that's not uncommon.

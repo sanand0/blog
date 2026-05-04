@@ -7,6 +7,8 @@ categories:
   - interesting-experiences
   - bangalore
 wp_id: 2705
+description: I left my consulting career in London to move back to Bangalore and pursue entrepreneurship. I'm joining Gramener as Chief Data Scientist after years of balancing a day job with multiple side projects and startups.
+keywords: [entrepreneurship, bangalore, gramener, data science, startups, india]
 ---
 
 I'm writing this post on a one-way flight from London back to India. I've moved on from Infosys Consulting, and am starting up on my own.

@@ -4,6 +4,8 @@ date: "2005-08-01T12:00:00Z"
 categories:
   - my-best-links
 wp_id: 587
+description: I highlighted Wikibooks as a valuable platform for collaborative open-content textbooks. It allows anyone to write and edit instructional manuals, providing a free, community-driven alternative to traditional educational resources across many different domains.
+keywords: [wikibooks, wikimedia, open-content, textbooks, collaborative writing, education]
 ---
 
 [Wikibooks](http://en.wikibooks.org/wiki/Main_Page).

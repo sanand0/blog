@@ -5,6 +5,8 @@ lastmod: "2009-03-09T08:17:08Z"
 categories:
   - coding
 wp_id: 2292
+description: I built a tool to automate contact management by scraping LinkedIn profiles. It uses the Google AJAX Search API to find URLs and YQL with XPath to extract public profile data using client-side JavaScript.
+keywords: [client-side scraping, yql, google ajax search api, xpath, linkedin, javascript]
 ---
 
 By curious coincidence, just a day after my post on [client side scraping](/blog/client-side-scraping/), I had a chance to demo this to a client. They were making a contacts database. Now, there are two big problems with managing contacts.

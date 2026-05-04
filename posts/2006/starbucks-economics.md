@@ -4,6 +4,8 @@ date: "2006-01-11T12:00:00Z"
 categories:
   - my-best-links
 wp_id: 431
+description: I explore why Starbucks hides a cheaper, high-quality coffee option to maintain price discrimination. It demonstrates how firms with significant market power deliberately make their lower-priced products less appealing to maximize total profit.
+keywords: [starbucks, economics, price discrimination, market power, pricing strategy, retail]
 ---
 
 [Starbucks economics](http://www.slate.com/id/2133754/?nav=ais). Why Starbucks has a better, cheaper coffee that it keeps a secret.

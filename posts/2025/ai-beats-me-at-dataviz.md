@@ -3,6 +3,8 @@ date: "2025-12-23T05:36:05Z"
 categories:
   - llms
   - linkedin
+description: I found that AI now outperforms my 20 years of data visualization experience in creative ideation. While Gemini and Claude suggest innovative xenographics and animations, my value has shifted to selecting the right chart based on audience and taste.
+keywords: [data visualization, xenographics, generative ai, gemini, claude, prompt engineering, information design]
 ---
 
 I _used to be_ a data visualization expert. I'm not sure I still am.

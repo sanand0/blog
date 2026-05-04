@@ -4,6 +4,8 @@ date: "2006-10-09T12:00:00Z"
 categories:
   - links
 wp_id: 187
+description: I shared links to the UC Berkeley Enron Email Analysis Project, which explores 1.5 million internal emails released after the company's collapse. It includes fascinating visual network analysis of corporate communication patterns.
+keywords: [enron, email dataset, network visualization, uc berkeley, data analysis, corporate communication]
 ---
 
 1.5 million internal e-mails of Enron were released after it collapsed, to help figure out why. The [UC Berkeley Enron Email Analysis Project](http://bailando.sims.berkeley.edu/enron_email.html) has some links analysing these emails. Check out the [visual analysis](http://jheer.org/enron/).

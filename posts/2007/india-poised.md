@@ -4,6 +4,8 @@ date: "2007-01-16T12:00:00Z"
 categories:
   - links
 wp_id: 123
+description: I share the transcript of Amitabh Bachchan’s "India Poised" speech. It captures the tension between a skeptical, traditional India and a dynamic, emerging nation ready to lead and succeed on the global stage.
+keywords: [amitabh bachchan, india poised, national identity, social change, transcript, optimism]
 ---
 
 <p><embed src="http://www.youtube.com/v/MiItWDN2Cs8" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></p>

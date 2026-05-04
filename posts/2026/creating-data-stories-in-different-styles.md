@@ -6,6 +6,8 @@ categories:
   - llms
   - visualisation
 classes: wrap-code
+description: I used Claude and GPT to generate data visualizations in distinct expert styles, like the Wall Street Journal and Shirley Wu. Prompting AI for multiple style transfers is a powerful shortcut for finding the best way to tell a data story.
+keywords: [data visualization, llms, style transfer, claude, gpt, prompt engineering, data storytelling]
 ---
 
 **TL;DR**: Don't ask AI agents for _one_ output. Ask for a **dozen**, each in the _style_ of an **expert**. Share what works best.

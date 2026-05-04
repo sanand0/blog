@@ -5,6 +5,8 @@ lastmod: "2021-12-03T07:37:28Z"
 categories:
   - how-i-do-things
 wp_id: 2857
+description: I’ve shifted my output from writing to public speaking, trading the permanence of blogging for the real-time feedback of live talks. While I miss search discoverability, speaking allows me to shape data visualization insights dynamically based on audience reaction.
+keywords: [blogging, public speaking, data visualization, audience feedback, content strategy, gramener]
 ---
 
 My blog’s been through a number of phases. Between 1996 – 1999, it was just a website with a few facts about my and some of my juvenile ramblings. Inspired by [robotwisdom.com](http://en.wikipedia.org/wiki/Jorn_Barger), I converted it into a blog – except that I didn’t know what blogging was and just called it “updating my site every day.” It was mostly a link blog.

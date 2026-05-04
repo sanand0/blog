@@ -4,6 +4,8 @@ date: "2008-05-30T12:00:00Z"
 categories:
   - interesting-experiences
 wp_id: 49
+description: I share how a diverted flight led to me entering Germany illegally without a visa. I learned the hard way to never pack all my warm clothes in checked luggage after being stranded in freezing weather.
+keywords: [flight diversion, germany, visa requirements, schiphol airport, packing tips, klm, travel experiences]
 ---
 
 In October 1997, Ram, my manager at IBM, strolled over to my desk and asked if I would like to visit the US. I'd never been there before. The impulse was to say "Yes". But...

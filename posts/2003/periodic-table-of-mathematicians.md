@@ -4,6 +4,8 @@ date: "2003-04-09T12:00:00Z"
 categories:
   - links
 wp_id: 941
+description: I found an interesting periodic table of mathematicians hosted at Stetson University. It organizes famous mathematical figures into a structured grid similar to the chemical elements, providing a unique way to browse mathematical history.
+keywords: [mathematicians, history of mathematics, periodic table, visualization, educational resources]
 ---
 
 A [periodic table of mathematicians](http://www.stetson.edu/~efriedma/periodictable/). [via leuschke.org](http://www.leuschke.org/log/archives/2003/04/08/index.html#a_year_ago_tomo)

@@ -5,6 +5,8 @@ lastmod: "2025-01-25T02:47:05Z"
 categories:
   - quizzes
 wp_id: 101
+description: I built an interactive quiz featuring background music from SD Burman's iconic songs. Listen to the snippets and guess the movie titles; the input box turns green when you enter a phonetically correct answer.
+keywords: [sd burman, music quiz, bollywood, hindi cinema, interactive quiz, audio trivia]
 ---
 
 <p>Here is the background music from SD Burman's songs. Can you guess which <b>movie</b> they are from?</p>

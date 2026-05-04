@@ -4,6 +4,8 @@ date: "2001-03-13T12:00:00Z"
 categories:
   - links
 wp_id: 1853
+description: Convert documents into PDF files directly in your browser using Adobe's web-based service. This online tool allows for quick file creation without needing to install additional software on your local machine.
+keywords: [adobe, pdf conversion, web tools, document formatting, file creation]
 ---
 
 Adobe lets you [create PDF files on the Web](http://createpdf.adobe.com) without using any software.

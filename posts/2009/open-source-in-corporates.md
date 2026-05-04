@@ -5,6 +5,8 @@ categories:
   - business-realities
   - coding
 wp_id: 2399
+description: I successfully deployed open source in a corporate environment by demoing prototypes to business leads before IT and pitching solutions instead of technology. I learned to build apps myself using Django, jQuery, and Persevere to bypass infrastructure roadblocks.
+keywords: [open source, django, jquery, corporate it, software deployment, python, persevere]
 ---
 
 Last month, my first application went live.

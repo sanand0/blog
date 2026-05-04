@@ -4,6 +4,8 @@ date: "2008-04-07T12:00:00Z"
 categories:
   - links
 wp_id: 55
+description: I found Firefox 3 Beta 5 incredibly unstable compared to earlier versions. By analyzing Google search result frequencies for crash mentions across different betas, I confirmed that Beta 5 shows a disproportionately high rate of reported issues.
+keywords: [firefox 3, beta testing, browser crashes, software stability, mozilla, google search data]
 ---
 
 I just upgraded from [Firefox 3 Beta 4](http://www.mozilla.com/en-US/firefox/3.0b4/releasenotes/) to [Beta 5](http://www.mozilla.com/en-US/firefox/3.0b5/releasenotes/). It's amazing how unstable Beta 5 is compared to the earlier version. Gmail crashes. Google maps crashes. Almost every other site I visit crashes. And looks like I'm not alone: doing a Google search for "Firefox 3 beta x crash" shows a consistently increasing number of results.

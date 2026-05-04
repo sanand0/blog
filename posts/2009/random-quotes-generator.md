@@ -5,6 +5,8 @@ lastmod: "2009-03-23T15:29:45Z"
 categories:
   - tools
 wp_id: 2350
+description: I built a random quote generator bookmarklet that uses Order-2 word-level Markov chains to mix up text on any webpage. It leverages the Readability script to identify content, often producing funny or insightful nonsense.
+keywords: [markov chain, bookmarklet, text generation, readability, programming pearls, javascript]
 ---
 
 The Random Quotes Generator is a simple tool that creates quotes by mixing up words on a web page. The results are often funny, but sometimes surprisingly insightful.

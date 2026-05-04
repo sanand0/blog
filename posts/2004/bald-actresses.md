@@ -5,6 +5,8 @@ lastmod: "2009-02-28T07:52:23Z"
 categories:
   - links
 wp_id: 816
+description: I think many actresses look great even without hair. Since the original gallery link broke, I've updated this post with a Google Image search to showcase the striking aesthetic of bald women in film.
+keywords: [bald actresses, aesthetics, google images, cinema, beauty]
 ---
 
 [Bald actresses](http://images.google.com/images?q=bald+actress). They look nice without the hair too.

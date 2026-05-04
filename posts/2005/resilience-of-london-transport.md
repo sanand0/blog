@@ -4,6 +4,8 @@ date: "2005-07-07T12:00:00Z"
 categories:
   - london-2005
 wp_id: 615
+description: I observed London transport's resilience after the 2005 attacks when four consecutive 259 double-decker buses arrived at Finsbury Park. They efficiently handled the surge in passengers, operating almost like a train to maintain mobility during the crisis.
+keywords: [london transport, 7 july 2005, bus 259, finsbury park, double-decker buses, transit resilience]
 ---
 
 The public transport reacted beautifully to the damage. I had to take Bus 259 from Finsbury Park to Tottenham Police Station. As I waited at the bus stop, I saw a 259 double decker pull in. Followed by another. And another. And another. Four double-decker buses following one after the other -- and they ended up getting filled. Almost felt like a train, except without rails and a floor above.

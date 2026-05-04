@@ -4,6 +4,8 @@ date: "2005-07-28T12:00:00Z"
 categories:
   - london-2005
 wp_id: 588
+description: I detail a UK taxi ride where the driver bypassed seatbelt alarms with a spare buckle. He cited legal exemptions and fear of passenger assault for staying unbuckled, reflecting the tense social atmosphere following the 2005 London bombings.
+keywords: [seatbelt laws, taxi drivers, uk driving regulations, london bombings, passenger safety, road safety]
 ---
 
 I got on to a taxi at the station. As usual, I sat in the front. When the engine was turned on, it started making loud siren noises.

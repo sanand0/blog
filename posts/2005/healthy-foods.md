@@ -4,6 +4,8 @@ date: "2005-07-13T12:00:00Z"
 categories:
   - links
 wp_id: 610
+description: I found 100 healthy food ideas requiring less than 30 minutes of preparation and cooking. Use these quick meal suggestions and reader favorites like idly and sambar to maintain a nutritious diet without spending hours in the kitchen.
+keywords: [healthy eating, meal prep, quick recipes, south indian cuisine, idly, sambar]
 ---
 
 [100 quick and easy healthy foods](http://www.lifehack.org/articles/lifehack/over-100-quick-and-easy-healthy-foods.html). Foods which need less than 30 minutes of preparation and cooking times.

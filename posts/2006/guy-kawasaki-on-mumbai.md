@@ -4,6 +4,8 @@ date: "2006-10-03T12:00:00Z"
 categories:
   - links
 wp_id: 194
+description: I'm sharing Guy Kawasaki's observations on his trip to Mumbai. His account, highlighted by DesiPundit, offers a unique perspective on the city's vibrant atmosphere and business landscape from a Silicon Valley viewpoint.
+keywords: [guy kawasaki, mumbai, india, travel, business, desipundit]
 ---
 
 [Guy Kawasaki on Mumbai](http://blog.guykawasaki.com/2006/10/mumbai_guy.html) [via Kaps @ DesiPundit](http://www.desipundit.com/2006/10/03/guy-kawasakis-mumbai-trip/)

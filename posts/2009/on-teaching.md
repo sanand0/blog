@@ -6,6 +6,8 @@ categories:
   - education
   - how-i-do-things
 wp_id: 18
+description: I taught networking at my old school and found that while students are online constantly, very few create content or code. I reflect on how rigid curricula stifle creativity and why we should volunteer to teach.
+keywords: [computer networks, vidya mandir, john taylor gatto, ken robinson, education reform, digital literacy, pedagogy]
 ---
 
 <p>This vacation, I took a session each for class XI and XII at my school, <a href="http://www.vidya-mandir.com/">Vidya Mandir</a>. The subject was Computer Science (the only one I can teach with some confidence), and the topic was networks.</p>

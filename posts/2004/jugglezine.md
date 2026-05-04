@@ -4,6 +4,8 @@ date: "2004-11-01T12:00:00Z"
 categories:
   - links
 wp_id: 794
+description: Learn how to prioritize meaningful projects by logging your daily activities for two weeks. Jugglezine emphasizes setting aside specific blocks of time and acknowledging reality to help you decide what to do instead of doing everything.
+keywords: [jugglezine, time management, time tracking, productivity, prioritization, scheduling]
 ---
 
 [Jugglezine](http://www.jugglezine.com/): How to find the time to do anything (not everything!)

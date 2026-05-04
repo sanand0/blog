@@ -4,6 +4,8 @@ date: "2000-09-10T12:00:00Z"
 categories:
   - links
 wp_id: 2079
+description: I’m highlighting how a site for auctioning votes moved its operations to Bulgaria to escape US legal jurisdiction. This shift demonstrates the borderless nature of the internet and the difficulty of enforcing local election laws.
+keywords: [voteauction.com, election law, bulgaria, jurisdiction, internet governance, vote selling]
 ---
 
 Remember the US site that lets people [auction their votes](http://www.wired.com/news/politics/0,1283,38355,00.html)? Now they've [moved it to Bulgaria](http://www.wired.com/news/politics/0,1283,38559,00.html), out of the US jurisdiction. The Internet is truly borderless!

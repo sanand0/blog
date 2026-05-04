@@ -5,6 +5,8 @@ categories:
   - excel-tips
   - visualisation
 wp_id: 2677
+description: I demonstrate how to improve Excel table formatting through specific visualization tips. Use these basic methods to enhance clarity and professional appearance beyond the standard software defaults.
+keywords: [excel, data visualization, table design, spreadsheet formatting, business analytics]
 ---
 
 Formatting tables in Excel is a fairly common task, but there are a number of ways to improve on the way it's done most of the time.

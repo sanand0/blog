@@ -4,6 +4,8 @@ date: "2006-12-17T12:00:00Z"
 categories:
   - classical-ilayaraja
 wp_id: 162
+description: I curated this 1990s series analyzing Ilayaraja's use of Carnatic ragas in Tamil cinema. I explore his handling of Chakravaagam, Sindhu Bhairavi, and Kaappi in films like Chembaruthi, providing links to listen as you read.
+keywords: [ilayaraja, carnatic music, tamil cinema, chakravaagam, sindhu bhairavi, kaappi, film music, chembaruthi]
 ---
 
 > This is the first of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

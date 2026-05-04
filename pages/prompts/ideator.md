@@ -3,6 +3,8 @@ title: Ideator
 date: "2025-09-28T04:25:22Z"
 lastmod: "2025-12-21T07:26:52Z"
 classes: wrap-code
+description: I created a prompt for radical concept synthesis to generate non-obvious startup ideas. It uses specific thinking lenses like inversion and scale-jump, scoring candidates by novelty and feasibility to produce actionable, testable business insights.
+keywords: [prompt engineering, ideation, concept synthesis, startup ideas, innovation frameworks, product development]
 ---
 
 Generate new ideas by combining multiple concepts.

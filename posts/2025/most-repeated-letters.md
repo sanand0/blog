@@ -2,6 +2,8 @@
 date: "2025-11-20T00:00:00Z"
 categories:
   - linkedin
+description: I used Claude Code and Python to find English words with high letter concentrations, like "ASSESSES". I then generated a humorous xkcd-style narrative about the data, demonstrating how style catalogs can make technical analysis much more engaging.
+keywords: [claude code, python, text analysis, xkcd style, style catalogs, llm prompts, linguistics]
 ---
 
 While meditating, I realized 75% of "LULL" is the letter "L". (This sort of thing happens a lot when I meditate.)

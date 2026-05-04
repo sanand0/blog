@@ -4,6 +4,8 @@ date: "2005-06-12T12:00:00Z"
 categories:
   - london-2005
 wp_id: 640
+description: I discovered Spanish and Argentinian cuisines while walking in Croydon, expanding my perspective on global food beyond familiar staples like Indian and Thai. I documented these new culinary finds by photographing restaurant menus during my stay.
+keywords: [spanish cuisine, argentinian cuisine, croydon, restaurant menus, london, food culture]
 ---
 
 I always wondered what cuisines were famous other than the ones I knew (Indian, Chinese, Thai, Mexican, Italian, Lebanese, Continental). I'd heard of Ethiopian food from Rajeev Ved, but never of Argentinian and Spanish. I spotted a couple of menu cards while walking down Croydon.

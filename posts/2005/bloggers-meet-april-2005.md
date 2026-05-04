@@ -4,6 +4,8 @@ date: "2005-04-13T12:00:00Z"
 categories:
   - links
 wp_id: 665
+description: I shared photos from the April 2005 Mumbai Blogger's meet, featuring a gathering of local bloggers like Amit Varma and Arnab Ray. It captures a slice of the early Indian blogging community's social scene.
+keywords: [mumbai, bloggers meet, india, social media history, flickr, blogging community]
 ---
 
 Pictures from the [Mumbai Blogger's meet](http://www.flickr.com/photos/root_node/tags/blogger/) with [Aadisht](http://aadisht.net/), [Altaf](http://xanga.com/alltough/), [Amit](http://indiauncut.blogspot.com/), [Anand](http://locana.blogspot.com/), [Arnab](http://arnab.org/blog/), [Nandan](http://nandan.blog-city.com/), [Ravikiran](http://www.ravikiran.com/), [Saket](http://vulturo.blogspot.com/), [Sameer](http://opti-mystic.net/blog/), [Yazad](http://yazadjal.com/), [Zainab](http://xanga.com/citybytes/), and [myself](http://www.s-anand.net/).

@@ -5,6 +5,8 @@ lastmod: "2022-01-21T06:49:08Z"
 categories:
   - coding
 wp_id: 2691
+description: I built a codecasting tool using Popcorn.js and SyntaxHighlighter to sync audio with code walkthroughs. This lightweight alternative to video allows for copy-pasting and reduced my tutorial preparation time from four hours to thirty minutes.
+keywords: [popcorn.js, syntaxhighlighter, codecasting, javascript, audio synchronization, web tutorials]
 ---
 
 The best way to explain code to a group of people is by walking through it. If they’re far away in space or time, then a video is the next best thing. You can recommend them to try out the best [**coding apps**](https://skillspot.co/learning-to-code-on-your-phone-the-best-coding-apps-of-2021/) as well.

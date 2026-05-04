@@ -4,6 +4,8 @@ date: "2013-10-24T11:48:05Z"
 categories:
   - links
 wp_id: 2854
+description: I'm highlighting the Agastya Foundation's mobile science labs, where volunteers carry experiment kits on motorbikes to rural schools. The project is a finalist for the Google Impact Challenge, aiming to bring hands-on STEM education to remote areas.
+keywords: [agastya foundation, google impact challenge, mobile science lab, rural education, motorbike, stem outreach, india]
 ---
 
 My cousin’s working on an interesting project at the [Agastya Foundation](http://www.agastya.org/). A group of scientifically inclined volunteers go around on a bike to schools, taking with them a science lab kit, and show children in rural schools a variety of experiments.

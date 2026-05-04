@@ -5,6 +5,8 @@ lastmod: "2013-03-16T12:29:26Z"
 categories:
   - how-i-do-things
 wp_id: 2842
+description: I am migrating away from Google products following the shutdown of Google Reader. I've uninstalled Drive and Talk, and I'm seeking self-hosted or open-source alternatives like OpenStreetMap and Chromium to protect my workflows from future service cancellations.
+keywords: [google reader, self-hosting, openstreetmap, chromium, data migration, web services]
 ---
 
 Google Reader was where I spent most of my browsing time, but now, it’s [shutting down](http://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html).

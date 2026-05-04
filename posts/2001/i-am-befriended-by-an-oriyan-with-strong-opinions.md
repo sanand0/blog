@@ -4,6 +4,8 @@ date: "2001-10-13T12:00:00Z"
 categories:
   - chat-transcripts
 wp_id: 1616
+description: I navigate a bizarre online chat with an engineer from Orissa who confuses my gender, misinterprets my interests in animation, and offers unsolicited advice on self-control. It is a humorous look at early-2000s internet miscommunication.
+keywords: [chat transcript, online chat, miscommunication, gender confusion, orissa, animation, internet history]
 ---
 
 I just can't figure out some people. It's not just their English, which can be even more confusing than mine. It's just their way of thinking, I guess. This guy, for instance, started off with...\

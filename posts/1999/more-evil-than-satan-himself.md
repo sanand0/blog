@@ -4,6 +4,8 @@ date: "1999-11-04T12:00:00Z"
 categories:
   - links
 wp_id: 2178
+description: I observed an early Google bomb where searching "more evil than Satan himself" returned Microsoft’s homepage. I tracked the result’s disappearance and reappearance in 2000, highlighting early volatility and manipulation of search engine rankings.
+keywords: [google, microsoft, google bombing, search engine optimization, web history]
 ---
 
 Curious that [Google](http://www.google.com) should return Microsoft's home page when you search for "[more evil than Satan himself](http://www.google.com/search?q=more+evil+than+Satan+himself)"...

@@ -5,6 +5,8 @@ lastmod: "2025-01-25T02:56:47Z"
 categories:
   - quizzes
 wp_id: 266
+description: I built an interactive quiz featuring 30 classic 1980s Tamil songs by Ilayaraja. Challenge yourself to guess the movie titles from audio clips. I wrote a custom mapTamil function and used SHA1 hashing to secure the answers.
+keywords: [ilayaraja, tamil cinema, 1980s music, interactive quiz, sha1, maptamil, film music]
 ---
 
 <p>More songs by Ilayaraja, composed in the 1980s. Can you guess which <b>movie</b> they are from? (Films are NOT repeated)</p>

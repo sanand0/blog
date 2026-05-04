@@ -4,6 +4,8 @@ date: "2005-07-22T12:00:00Z"
 categories:
   - my-best-links
 wp_id: 597
+description: I tracked the 2005 tagging explosion by compiling this directory of Web 2.0 services. It covers early tools for organizing URLs, RSS feeds, source code, and academic papers before metadata became a standard feature of modern platforms.
+keywords: [tagging, web 2.0, social bookmarking, folksonomy, metadata, rss, del.icio.us]
 ---
 
 Tagging is in full swing.

@@ -4,6 +4,8 @@ date: "2006-12-21T12:00:00Z"
 categories:
   - funny
 wp_id: 155
+description: I'm sharing a hilarious recording by Tom Mabe, who pranks an unsuspecting telemarketer by pretending to be a police officer investigating a murder at the victim’s home. It’s a creative, if extreme, way to handle unwanted sales calls.
+keywords: [tom mabe, telemarketing, prank calls, comedy, audio recording, murder investigation]
 ---
 
 [Tom Mabe](http://www.tommabe.com/) likes playing pranks on telemarketers while recording the call. This is a [recording of a hilarious telemarketing call](http://www.thegaryhalbertletter.com/newsletters/2006/Telemarketer.mp3).

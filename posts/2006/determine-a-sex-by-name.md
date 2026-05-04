@@ -4,6 +4,8 @@ date: "2006-04-17T12:00:00Z"
 categories:
   - links
 wp_id: 355
+description: Use Google Image search to quickly determine if an unfamiliar name is typically male or female. This visual heuristic provides instant context for gender-ambiguous names, though it may fail for common unisex names.
+keywords: [google images, gender identification, naming, search hacks, unisex names, visual heuristics]
 ---
 
 [Determine a sex by name](http://www.lifehacker.com/software/google-school/google-school-determine-a-sex-by-name-167650.php). If you don't know if a name is male or female, just search for the name on Google images. (e.g. "[Priti](http://images.google.com/images?q=Priti)")

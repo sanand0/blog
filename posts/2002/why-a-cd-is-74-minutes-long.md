@@ -4,6 +4,8 @@ date: "2002-07-05T12:00:00Z"
 categories:
   - links
 wp_id: 1288
+description: Discover how technical constraints and a specific recording of Beethoven’s 9th Symphony led Sony and Philips to settle on the 12cm, 74-minute CD format instead of the originally proposed 11.5cm, 60-minute disc.
+keywords: [compact disc, sony, philips, beethoven's 9th symphony, digital audio, sampling rate, 16-bit audio]
 ---
 
 **Why is a CD 74 minutes long?** Answer: Beethoven.

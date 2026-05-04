@@ -4,6 +4,8 @@ date: "2005-11-12T12:00:00Z"
 categories:
   - my-best-links
 wp_id: 508
+description: I share techniques for efficient reading by focusing on the essential 20% of content. I also look at how our brains process scrambled text and why taking frequent breaks significantly improves our ability to learn and retain information.
+keywords: [speed reading, pareto principle, learning retention, typoglycemia, study habits]
 ---
 
 [How to read when time is short](http://hwebbjr.typepad.com/openloops/2005/11/a_quick_and_dir.html). Read the "How To Find The Essential 20%" section carefully. Another interesting post from Bert on [How to Learn More With No Extra Effort](http://hwebbjr.typepad.com/openloops/2005/06/a_secret_they_s.html) uses the principle in the post below to suggest we take a lot of breaks while learning.

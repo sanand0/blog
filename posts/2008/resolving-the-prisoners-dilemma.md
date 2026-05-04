@@ -5,6 +5,8 @@ categories:
   - business-realities
   - games
 wp_id: 42
+description: I examine how Tit-for-Tat wins iterated games by being nice, punishing defection, and forgiving. Using personal anecdotes and Axelrod’s tournament results, I show why losing individual battles is often the only way to win the larger war through cooperation.
+keywords: [game theory, prisoner's dilemma, tit-for-tat, robert axelrod, cooperation, iterated games, douglas hofstadter]
 ---
 
 If you're ever taken a course in Economics, and it discussed Game Theory, you may be familiar with [The Prisoner's Dilemma](http://en.wikipedia.org/wiki/Prisoner%27s_dilemma). Roughly, this is the problem.

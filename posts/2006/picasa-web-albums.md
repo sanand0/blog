@@ -4,6 +4,8 @@ date: "2006-06-14T12:00:00Z"
 categories:
   - links
 wp_id: 295
+description: I explored the new Picasa Web Albums, finding its integration with Picasa and Google Earth for geotagging impressive. While it lags behind Flickr in social features, the seamless workflow with Google's desktop photo software is a major plus.
+keywords: [picasa web albums, google earth, geotagging, flickr, photo sharing, image hosting]
 ---
 
 Google has released [Picasa Web Albums](http://picasaweb.google.com/) and I managed to sign up. See [my web albums](http://picasaweb.google.com/root.node).

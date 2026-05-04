@@ -4,6 +4,8 @@ date: "2008-09-13T12:00:00Z"
 categories:
   - top-10-lists
 wp_id: 32
+description: I researched VoIP providers to find the cheapest rates for calling India from London. FreeCall was the best at 2.5¢ per minute. I compared over thirty services, including Calleasy and Net2Phone, against standard cards like Reliance.
+keywords: [voip, india calling rates, freecall, voipdiscount, reliance, sip]
 ---
 
 <p>While hunting for a VoIP service to call India, I found a fair variety of services that I'm sharing below.</p>

@@ -4,6 +4,8 @@ date: "2000-10-07T12:00:00Z"
 categories:
   - london-2000
 wp_id: 2167
+description: I compared London Business School and IIM Bangalore across faculty, placements, and campus life. While LBS leads in industry connections and location, IIMB offers superior physical infrastructure and a traditional student campus experience.
+keywords: [london business school, iim bangalore, mba, business school comparison, education infrastructure, higher education]
 ---
 
 How would I compare LBS against IIM-B so far? Let's see.

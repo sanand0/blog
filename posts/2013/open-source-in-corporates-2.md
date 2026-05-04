@@ -5,6 +5,8 @@ lastmod: "2013-06-03T06:43:19Z"
 categories:
   - how-i-do-things
 wp_id: 2849
+description: I navigated corporate resistance to open source by demoing prototypes directly to business leads and avoiding the 'open source' label with IT. I learned to deliver the full stack personally while adapting to rigid infrastructure constraints and security policies.
+keywords: [open source, enterprise it, django, corporate procurement, software delivery, it infrastructure, technology adoption]
 ---
 
 **[This is a post that I’d published internally in InfyBlogs in Dec 2009. Time to share it.]**

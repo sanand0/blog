@@ -4,6 +4,8 @@ date: "2005-02-14T12:00:00Z"
 categories:
   - links
 wp_id: 746
+description: I explore the MPAA's decision to use digital fingerprinting against P2P movie sharing. This shift indicates the industry is finally moving from legal regulation toward technological solutions to manage content distribution on file-sharing platforms.
+keywords: [mpaa, digital fingerprinting, p2p networks, file sharing, copyright enforcement, content protection]
 ---
 
 [MPAA to use digital fingerprints](http://news.com.com/Movie+blackout+for+P2P+networks/2100-1025_3-5571057.html?tag=nefd.lede) to fight P2P movie sharing. At last, they're beginning to use technology, instead of regulation, to fight technology.

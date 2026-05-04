@@ -4,6 +4,8 @@ date: "2006-05-01T12:00:00Z"
 categories:
   - links
 wp_id: 334
+description: Explore Paul Graham's insights on why startups are primarily a way to compress a lifetime's worth of earning into a short, intense period. He emphasizes working faster and more efficiently rather than just aiming to get rich.
+keywords: [paul graham, startups, economic productivity, work efficiency, entrepreneurship, wealth creation]
 ---
 
 Paul Graham on [The hardest lessons for startups to learn](http://www.paulgraham.com/startuplessons.html).

@@ -2,6 +2,8 @@
 date: "2025-11-01T00:00:00Z"
 categories:
   - linkedin
+description: I used Google Gemini 2.5 Flash to convert my parents' 55-year-old black-and-white wedding photos into high-resolution color images. By using specific prompting, I preserved facial accuracy while adding modern digital sharpness and vivid colors.
+keywords: [google gemini, image colorization, gemini-2.5-flash-image, photo restoration, prompt engineering, generative ai]
 ---
 
 Sometimes, technology creates truly memorable moments.

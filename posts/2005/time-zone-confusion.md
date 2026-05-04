@@ -4,6 +4,8 @@ date: "2005-07-08T12:00:00Z"
 categories:
   - london-2005
 wp_id: 613
+description: We missed a conference call after miscalculating the offset between India and the UK. I learned that because the UK uses British Summer Time, Greenwich itself isn't always on GMT, creating a common trap for international scheduling.
+keywords: [time zones, gmt, british summer time, ist, daylight saving time]
 ---
 
 We had a conference call planned at 8:00am. Reva was to join in from India. We got on to the call, and were done by 8:40am.\

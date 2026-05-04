@@ -4,6 +4,8 @@ date: "2005-02-25T12:00:00Z"
 categories:
   - links
 wp_id: 737
+description: I recommend using Stephen Covey's Mission Builder to define your personal values and goals. It is a structured tool for crafting a mission statement that helps guide your long-term life decisions and professional focus.
+keywords: [stephen covey, mission statement, goal setting, productivity, personal development, franklincovey]
 ---
 
 [Stephen Covey's mission builder](http://www.franklincovey.com/missionbuilder/).

@@ -4,6 +4,8 @@ date: "2002-12-24T12:00:00Z"
 categories:
   - links
 wp_id: 991
+description: I explore Jean Bricmont's insights on how chaos theory supports determinism and distinguish between objective probability, which describes informed system constants, and subjective probability, which represents our evolving best guesses about unique events.
+keywords: [determinism, chaos theory, objective probability, subjective probability, jean bricmont, predictability]
 ---
 
 [Determinism, Chaos and Quantum Mechanics](http://dogma.free.fr/txt/JB-Determinism.pdf) [PDF]. Interesting 30-pager by Jean Bricmont. He begins by differentiating predictability from determinism, and proceeds to explain how chaos theory **supports** determinism by enhancing predictability.

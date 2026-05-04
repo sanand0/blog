@@ -4,6 +4,8 @@ date: 2026-01-12T15:32:26+08:00
 categories:
   - how-i-do-things
   - llms
+description: I used an LLM to rewrite Primo Levi’s The Periodic Table in Randall Munroe's style chapter by chapter. This iterative style transfer made the difficult text accessible and emotionally resonant, helping me engage with literature I otherwise wouldn't have read.
+keywords: [primo levi, randall munroe, style transfer, large language models, claude, iterative prompting]
 ---
 
 I read [The Periodic Table](https://www.goodreads.com/book/show/427282.The_Periodic_Table) by Primo Levi, written in Randall Munroe's style.

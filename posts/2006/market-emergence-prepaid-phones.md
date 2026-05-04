@@ -4,6 +4,8 @@ date: "2006-01-08T12:00:00Z"
 categories:
   - business-realities
 wp_id: 433
+description: Explore how Reliance Infocomm’s bulk-prepaid bundle backfired. By giving customers three years of talk-time upfront, they accidentally enabled a secondary market where dealers bought back and resold vouchers, cannibalizing Reliance’s own direct sales channels.
+keywords: [reliance infocomm, prepaid mobile, secondary market, arbitrage, pricing strategy, distribution channels]
 ---
 
 Reliance Infocomm, after launching their prepaid business in India, introduced an new scheme. Pay Rs 4,300, and get a mobile phone PLUS prepaid vouchers worth Rs 4,300. Effectively, you're getting a mobile phone for free. The scheme made good financial sense for Reliance. With a million subscribers to this scheme, they could recover Rs 430 cr of their upfront capital investment and retire their debt. Besides, the Rs 4,300 would have normally been bought over a period of around three years by prepaid subscribers, making its present value around Rs 3,600, at an interest rate of 12%. Add to that the reduction in distribution cost due to bulk selling, and possibility of non-usage, etc... the economics might work out.

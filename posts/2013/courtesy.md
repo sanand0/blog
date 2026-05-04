@@ -4,6 +4,8 @@ date: "2013-09-04T14:27:52Z"
 categories:
   - how-i-do-things
 wp_id: 2853
+description: I expect to be trusted when invited to corporate offices, refusing invasive security searches or ID checks. If an organization's protocols treat guests like threats, I prefer meeting outside or at my own office.
+keywords: [corporate security, hospitality, professional etiquette, trust, office culture, security screening]
 ---
 
 We are often subject to body searches, baggage inspections, and identity verifications. At malls. At airports. At offices.

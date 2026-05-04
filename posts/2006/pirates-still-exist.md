@@ -4,6 +4,8 @@ date: "2006-04-23T12:00:00Z"
 categories:
   - links
 wp_id: 347
+description: I highlight 2005 statistics from the International Maritime Organisation revealing that modern piracy remains a violent reality. The data shows over 266 incidents involving organized attacks, crew abductions, and hijacked ships across global shipping lanes.
+keywords: [piracy, maritime security, international maritime organisation, hijacking, shipping lanes, maritime crime]
 ---
 
 [Pirates still exist](http://www.economist.com/printedition/displayStory.cfm?story_id=6837144).

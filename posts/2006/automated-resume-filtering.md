@@ -4,6 +4,8 @@ date: "2006-10-03T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 195
+description: I built a Perl script to filter hundreds of resumes using keywords and concordance analysis. This process convinced me that candidates must optimize their CVs for machine searching, treating resume writing like search engine optimization.
+keywords: [resume filtering, perl, concordance, text analysis, recruitment automation, keyword optimization]
 ---
 
 I had to screen resumes from a leading MBA school. I'm lazy, and there were hundreds of CVs. So after [procrastinating](http://paulgraham.com/procrastination.html) until this morning, I decided on 2 principles:

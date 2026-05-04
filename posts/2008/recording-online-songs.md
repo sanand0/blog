@@ -4,6 +4,8 @@ date: "2008-09-21T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 28
+description: I show you how to capture any online audio using Audacity and the Lame encoder. If your sound card lacks 'Wave Out' support, I explain how a simple stereo-to-stereo cable can turn your PC into a digital tape recorder.
+keywords: [audacity, mp3, streaming audio, lame encoder, wave out, audio recording]
 ---
 
 In the 1980s, we rarely used to buy audio cassettes. It was a lot cheaper to record songs from the radio. It's amazing that in the 2000s, this technique seems to be less used than before.

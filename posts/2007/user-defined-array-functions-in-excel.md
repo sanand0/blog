@@ -5,6 +5,8 @@ lastmod: "2009-03-23T15:38:16Z"
 categories:
   - excel-tips
 wp_id: 109
+description: I built a set of Excel user-defined functions to bring Unix-style list processing to spreadsheets. These macros allow you to chain functions like UNIQUE, GREP, and UNION into single-cell array formulas for powerful data manipulation.
+keywords: [excel, vba, user defined functions, array formulas, list processing, grep, string manipulation]
 ---
 
 Many languages have functions to process lists (array). These functions usually return a list, so you can pass that to another list function. This chaining of functions is really powerful.

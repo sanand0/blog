@@ -5,6 +5,8 @@ categories:
   - how-i-do-things
   - visualisation
 wp_id: 2638
+description: I built a heatmap mapping IMDb ratings against vote counts to find movies I've missed. It helps me visualize popular high-rated outliers, track my viewing progress, and filter by genre to discover hidden gems outside the Top 250.
+keywords: [imdb, data visualization, heatmap, movie ratings, genre filtering, recommendation system]
 ---
 
 The [IMDb Top 250](http://www.imdb.com/chart/top), as a source of movies, dries out quickly. In my case, I’ve [seen about 175/250](http://250.s-anand.net/user/root.node@gmail.com). Not sure how much I want to see the rest.

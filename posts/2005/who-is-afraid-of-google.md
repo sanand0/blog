@@ -4,6 +4,8 @@ date: "2005-12-03T12:00:00Z"
 categories:
   - links
 wp_id: 494
+description: I highlight a 2005 Wired investigation into the pervasive industry anxiety surrounding Google’s expansion. It examines how the company's growth across multiple sectors threatened established competitors and sparked fears of a total digital monopoly.
+keywords: [google, wired magazine, tech industry, market dominance, search engines, monopoly]
 ---
 
 [Who's afraid of Google? Everyone](http://wired.com/wired/archive/13.12/google.html)

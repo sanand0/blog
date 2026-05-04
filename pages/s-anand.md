@@ -2,6 +2,8 @@
 title: S Anand
 build: { list: never, render: always }
 wp_id: 2992
+description: I detail my professional journey through IIT, IIM, BCG, and Gramener. This page serves as a hub for my talks, career and AI advice, and contact information for anyone looking to collaborate on projects or speaking engagements.
+keywords: [s anand, gramener, iit madras, iim bangalore, bcg, data science, consulting, ai advice]
 ---
 
 ![Photo collage of Anand](/blog/assets/anand-photo-collage.webp)

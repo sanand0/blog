@@ -4,6 +4,8 @@ date: "2002-10-03T12:00:00Z"
 categories:
   - links
 wp_id: 1117
+description: I explore the law of iterated expectation after a friend corrected my interpretation of a confusing financial headline. It clarifies that a higher than expected expectation is essentially just a revised, higher forecast.
+keywords: [law of iterated expectation, economic times, financial journalism, forecasting, probability]
 ---
 
 After reading my post on the ET article mentioning "[expected to see a higher than expected rise](http://economictimes.indiatimes.com/cms.dll/articleshow?artid=23700601)", a certain [CA gold-medallist friend](http://www.geocities.com/prachi_deuskar/) of mine wrote back this obscure note that I refuse to understand:

@@ -5,6 +5,8 @@ lastmod: "2025-01-25T02:46:47Z"
 categories:
   - quizzes
 wp_id: 198
+description: I built a quiz featuring middle-of-the-song lyrics from eight classic TMS-MGR collaborations. Test your knowledge of Tamil cinema by guessing the movie for each track; the input boxes turn green when you get it right.
+keywords: [tamil cinema, mgr, tm soundararajan, tamil lyrics, movie quiz, kollywood]
 ---
 
 <p>Here are words from the middle of 8 songs TMS has sung for MGR. Can you guess which <b>movie</b> they are from?</p>

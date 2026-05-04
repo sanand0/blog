@@ -4,6 +4,8 @@ date: "2007-03-28T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 98
+description: I built a home Media PC using a 42-inch plasma TV and an eBay Pentium III. I use it for sofa-based Skype videoconferencing, streaming Tamil movies, and managing audio wirelessly via Remote Desktop and Bose speakers.
+keywords: [media pc, plasma tv, skype, winamp, remote desktop, home theater, divx, pentium iii]
 ---
 
 Two weeks ago, I pulled together a Media PC.

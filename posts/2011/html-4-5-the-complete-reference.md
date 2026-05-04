@@ -4,6 +4,8 @@ date: "2011-02-09T17:08:02Z"
 categories:
   - coding
 wp_id: 2601
+description: I reviewed the HTML 4 & 5 Complete Reference app for iOS. While I liked its task-based tag groupings and attribute details, the poor search functionality for HTML entities makes me prefer using the official PDF spec.
+keywords: [html5, html4, ios app, web development, documentation, o'reilly]
 ---
 
 [![HTML-4-and-5-The-Complete-Reference](/blog/assets/HTML4and5TheCompleteReference.webp "HTML-4-and-5-The-Complete-Reference")](/blog/assets/HTML4and5TheCompleteReference.webp) [HTML 4 & 5: The Complete Reference](http://itunes.apple.com/us/app/html-4-5-the-complete-reference/id414940489?mt=8) is an iPhone / iPad app that does exactly what it says: a reference for HTML 4 and 5.

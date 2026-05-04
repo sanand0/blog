@@ -4,6 +4,8 @@ date: "2005-08-01T12:00:00Z"
 categories:
   - links
 wp_id: 586
+description: I transcribed a collection of Calvin and Hobbes quotations to create a searchable resource. I am building this custom text database after being unable to access existing archives to preserve the comic strip's wit.
+keywords: [calvin and hobbes, bill watterson, comic strips, quotations, database, transcription]
 ---
 
 I've typed up a some [Calvin and Hobbes quotations](/calvin/)

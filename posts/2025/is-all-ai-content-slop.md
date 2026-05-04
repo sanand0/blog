@@ -4,6 +4,8 @@ date: "2025-11-05T00:00:00Z"
 categories:
   - linkedin
   - llms
+description: I used Claude to transform dense research and forum threads into engaging essays in the style of Malcolm Gladwell. I found that AI excels at inference and accessibility, potentially evolving from slop into a legitimate new art form.
+keywords: [ai slop, claude, malcolm gladwell, accessibility, hacker news, generative writing, automation]
 ---
 
 Is all AI content slop?

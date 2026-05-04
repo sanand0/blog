@@ -4,6 +4,8 @@ date: "2008-11-07T12:00:00Z"
 categories:
   - links
 wp_id: 25
+description: I captured a time-lapse video of Canary Wharf from my office window using my Canon IXUS 70's built-in mode. The footage runs at 60x speed, showing shifting clouds and the activity of London's financial district.
+keywords: [canary wharf, time-lapse, canon ixus 70, london, photography, digital camera]
 ---
 
 <p>I left my camera near the window of my office at <a href="http://en.wikipedia.org/wiki/Canary_wharf">Canary Wharf</a> in <a href="http://en.wikipedia.org/wiki/Time_lapse">time lapse</a> mode on a cloudy day. The video is playing at 60 times normal speed.</p>

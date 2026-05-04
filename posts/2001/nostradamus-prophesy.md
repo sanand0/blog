@@ -4,6 +4,8 @@ date: "2001-09-12T12:00:00Z"
 categories:
   - links
 wp_id: 1662
+description: I'm addressing the viral emails claiming Nostradamus predicted the World Trade Center attacks. These quotes about 'two brothers' and 'great thunder' are misleading, so I’ve linked a resource to help put these rumors into perspective.
+keywords: [nostradamus, urban legends, 9/11, world trade center, prophecies, debunking]
 ---
 
 There's been several mails about Nostradamus' prophecy coming true with the World Trade Center bombings. Stuff like

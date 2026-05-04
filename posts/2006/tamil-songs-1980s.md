@@ -5,6 +5,8 @@ lastmod: "2025-01-25T03:05:54Z"
 categories:
   - quizzes
 wp_id: 328
+description: I curated a quiz featuring short clips of Ilayaraja’s background music from his 1980s hits. Can you identify the movies they belong to? Just type the name phonetically to see if you can score a perfect ten.
+keywords: [ilayaraja, tamil songs, movie quiz, 1980s, kollywood, film score]
 ---
 
 <p>Ilayaraja ruled the Tamil music industry in the 1980s. Below are short clips with the background music from his hit songs.</p>

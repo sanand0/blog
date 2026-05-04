@@ -3,6 +3,8 @@ title: "Gemini: Humility elevates divinity"
 date: 2026-01-22T22:01:32+05:30
 source: "https://gemini.google.com/u/2/app/690e4b03b71f7990"
 build: { list: never, render: always }
+description: I interpret Thiruvalluvar's Kural 121 using the satirical wit of Terry Pratchett and Mark Twain. I frame self-control as an elevator to divinity and its absence as a trapdoor leading to a self-inflicted, high-definition darkness.
+keywords: [thirukkural, kural 121, adakkam, thiruvalluvar, self-control, terry pratchett, mark twain]
 ---
 
 ## User

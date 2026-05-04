@@ -6,6 +6,8 @@ categories:
   - experiments
   - llms
 wp_id: 4245
+description: I compared OpenAI’s TTS models by measuring real-world API billing for specific inputs. I discovered that GPT-4o mini produces about six audio tokens per text token and found TTS-1 offers the best balance of natural quality and cost.
+keywords: [openai, text-to-speech, gpt-4o-mini, tts-1, api pricing, benchmarking]
 ---
 
 ![OpenAI TTS cost](/blog/assets/doodle.webp)

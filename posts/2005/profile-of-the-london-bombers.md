@@ -4,6 +4,8 @@ date: "2005-07-13T12:00:00Z"
 categories:
   - links
 wp_id: 609
+description: I reflected on the identity of the 2005 London bombers, specifically their Pakistani origins, while worrying about potential backlash. I initially hoped for higher tolerance in the UK compared to the US but noted reports of anti-Asian discrimination.
+keywords: [london bombings, 7/7 attacks, pakistani diaspora, discrimination, united kingdom, racial tension]
 ---
 
 [Profile of the London bombers](http://www.news24.com/News24/World/Londonattacks/0,,2-10-1854_1736976,00.html). I hope their Pakistani origin does not create a backlash. But then, this is the UK. Not the US.

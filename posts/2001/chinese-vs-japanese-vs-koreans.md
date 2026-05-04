@@ -4,6 +4,8 @@ date: "2001-08-30T12:00:00Z"
 categories:
   - links
 wp_id: 1686
+description: I failed a test designed to distinguish between Chinese, Japanese, and Korean faces. Readers in the comments share specific physical markers, regional differences in Northern and Southern China, and the impact of globalization on East Asian phenotypes.
+keywords: [alllooksame.com, east asian phenotypes, facial recognition, ethnicity, physical anthropology]
 ---
 
 Can you tell the difference between Chinese, Japanese and Koreans? I tried a [test](http://www.alllooksame.com/). My report card read "Bad".

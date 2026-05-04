@@ -5,6 +5,8 @@ lastmod: "2020-07-29T01:43:21Z"
 categories:
   - links
 wp_id: 1704
+description: I'm working to improve my memory by looking at the benefits of meditation and weight management. Meditation increases brain gray matter and spatial memory, while maintaining a healthy BMI helps prevent cognitive decline and Alzheimer's.
+keywords: [meditation, gray matter, spatial working memory, obesity, cognitive decline, alzheimer's disease, body mass index]
 ---
 
 The practice of meditation may positively affect your health in many ways.

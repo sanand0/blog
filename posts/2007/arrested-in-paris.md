@@ -5,6 +5,8 @@ lastmod: "2019-08-24T09:56:03Z"
 categories:
   - interesting-experiences
 wp_id: 132
+description: I recount a tense encounter with French police while visiting Montmartre in 2000. Lacking a common language and facing a passport check, my friends and I were detained near the cable car before being abruptly released to continue our trip.
+keywords: [paris, montmartre, french police, travel experiences, passport security, schengen visa, pigalle]
 ---
 
 In November 2000, I visited Paris one weekend. Two classmates, Anand Binani and Ram Venkat were studying there, and we roamed around the city.

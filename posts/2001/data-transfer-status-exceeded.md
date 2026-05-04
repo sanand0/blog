@@ -4,6 +4,8 @@ date: "2001-11-01T12:00:00Z"
 categories:
   - links
 wp_id: 1585
+description: I received a notice from GeoCities that my website exceeded its 3GB monthly data transfer limit. My site was temporarily disabled due to high traffic, leaving me to wonder what exactly caused such a sudden spike in popularity.
+keywords: [geocities, bandwidth limits, data transfer, web traffic, internet history]
 ---
 
 I wonder what caused this...

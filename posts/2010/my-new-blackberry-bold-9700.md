@@ -4,6 +4,8 @@ date: "2010-02-07T08:44:11Z"
 categories:
   - how-i-do-things
 wp_id: 2456
+description: I shared photos of my new Blackberry Bold 9700 and noted that disabling wireless significantly extends its battery life. While a sleek upgrade, commenters highlighted its limitations in rendering Hindi and Devanagari fonts on OS 5.0.
+keywords: [blackberry bold 9700, smartphone, battery life, devanagari, blackberry os 5.0, hindi fonts]
 ---
 
 [![BB1](/blog/assets/BB1.webp)](/blog/assets/BB1.webp) [![BB2](/blog/assets/BB2.webp)](/blog/assets/BB2.webp) [![BB3](/blog/assets/BB3.webp)](/blog/assets/BB3.webp)

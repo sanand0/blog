@@ -4,6 +4,8 @@ date: "2007-01-12T12:00:00Z"
 categories:
   - classical-ilayaraja
 wp_id: 129
+description: I explore whether raagas can evoke humour, analyzing Ilayaraja's use of Arabhi and Kunthalavarali for comedic effect. I also compare how MSV used Sama and highlight the technical nuances of Kaanada and Darbari Kaanada in popular cinema.
+keywords: [ilayaraja, carnatic music, raaga, arabhi, sama, kaanada, film music, m.s. viswanathan]
 ---
 
 > This is the 11th of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

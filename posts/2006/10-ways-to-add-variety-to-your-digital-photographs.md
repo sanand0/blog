@@ -4,6 +4,8 @@ date: "2006-05-09T12:00:00Z"
 categories:
   - links
 wp_id: 324
+description: I shared ten techniques to add variety to digital photography, specifically highlighting exposure bracketing. The methods include experimenting with focal lengths and compositions to move beyond "spray and pray" shooting habits and improve technical proficiency.
+keywords: [digital photography, exposure bracketing, composition, exif data, focal length, photography techniques]
 ---
 
 [10 ways to add variety to your digital photographs](http://digital-photography-school.com/blog/10-ways-to-add-variety-to-your-digital-photography/). Exposure bracketing sounds especially interesting.

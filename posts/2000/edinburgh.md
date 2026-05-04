@@ -5,6 +5,8 @@ lastmod: "2022-01-20T08:55:00Z"
 categories:
   - london-2000
 wp_id: 2147
+description: I traveled to Edinburgh by coach during rail floods, staying in a bizarre makeshift hostel. I met a Braveheart lookalike at the castle, learned about kilt weaving, hiked Arthur's Seat, and struggled with the city's strict bus fare rules.
+keywords: [edinburgh, scotland, travelogue, edinburgh castle, arthur's seat, kilts]
 ---
 
 Scotland's wonderful. We left on Friday night at 10:30PM on a 'coach', as they call it. A bus, really. We would've gone by rail, except that because of the recent flooding, trains weren't available to Scotland. The coach was far too uncomfortable to sleep, until exhaustion overcame me at around 2AM. We reached Edinburgh at 7AM. (Incidentally, it's pronounced Edinburough, though if you heard a Scot say it, you would be forgiven for thinking it's 'Edinbarra')

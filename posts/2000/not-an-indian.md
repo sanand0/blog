@@ -4,6 +4,8 @@ date: "2000-10-16T12:00:00Z"
 categories:
   - london-2000
 wp_id: 2160
+description: I explore how my identity is perceived by strangers in London and compare the high-pressure grading at IIM to the private, low-competition evaluation system I encountered at London Business School during my exchange program.
+keywords: [london business school, iim bangalore, exchange program, grading systems, cultural identity, london]
 ---
 
 Yes, I haven't been updating for a while. Problem is, I've been doing too much and writing too little. Let's see if I can fix some of that now.

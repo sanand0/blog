@@ -4,6 +4,8 @@ date: "2008-11-07T12:00:00Z"
 categories:
   - business-realities
 wp_id: 26
+description: I reflect on the courage required for professional honesty, whether allowing negative customer feedback or saying "no" to overtime. By challenging my internal fears and setting clear boundaries, I found that directness is more effective than people-pleasing.
+keywords: [social commerce, honesty, professional boundaries, people-pleasing, feedback moderation, work-life balance]
 ---
 
 Some months ago, I was working with a client who wanted to set up a website with [social commerce](http://en.wikipedia.org/wiki/Social_commerce) elements. (That's [Web 2.0](http://en.wikipedia.org/wiki/Web_2.0) in fancy words.) They only seemed to have a very rough idea of what they wanted, so asked them right at the start of the meeting: **"Why do you want social commerce?"**

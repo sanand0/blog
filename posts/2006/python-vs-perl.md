@@ -4,6 +4,8 @@ date: "2006-01-11T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 427
+description: I prefer Perl over Python for data processing, relying on it for over a decade to handle large datasets where Access and SPSS failed. Using Perl with Excel and CPAN provides all the data analysis power I need.
+keywords: [perl, python, data analysis, cpan, excel, data processing, scripting]
 ---
 
 [Python vs Perl](http://www.developertutorials.com/tutorials/python/python-perl-050423/page1.html). Sums up my feelings perfectly: Python may be better for larger projects, but for my meddling, I'll stick to Perl. It's served me well for 10 years.

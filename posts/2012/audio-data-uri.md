@@ -4,6 +4,8 @@ date: "2012-07-17T11:41:29Z"
 categories:
   - coding
 wp_id: 2773
+description: I discovered that HTML5 audio tags support data URIs for embedding base64-encoded MP3s directly in HTML. To test this, I built a musical keyboard that generates audio on the fly, reducing HTTP requests for small sound files.
+keywords: [data uri, html5 audio, base64, mp3, web performance, frontend development]
 ---
 
 Turns out that you can use [data URIs](http://en.wikipedia.org/wiki/Data_URI_scheme) in the `<audio>` tag.

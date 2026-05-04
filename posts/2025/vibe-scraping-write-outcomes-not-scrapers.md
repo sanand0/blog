@@ -7,6 +7,8 @@ categories:
   - llms
   - visualisation
 wp_id: 4220
+description: I've shifted from writing manual BeautifulSoup scripts to "vibe-scraping" using AI agents. By focusing on outcomes rather than implementation, I generated Bollywood box office datasets and merchant audits in minutes, making traditional web scraping expertise feel obsolete.
+keywords: [vibe-scraping, ai agents, codex, claude code, web scraping, data extraction, automation]
 ---
 
 ![Vibe-Scraping: Write outcomes, not scrapers](/blog/assets/image-12.webp)

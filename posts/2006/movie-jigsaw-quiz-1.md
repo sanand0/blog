@@ -5,6 +5,8 @@ lastmod: "2025-01-25T03:06:02Z"
 categories:
   - quizzes
 wp_id: 310
+description: I built an interactive jigsaw puzzle using jumbled movie stills. You can drag and move the blocks to reconstruct the scene and identify the film. It’s a simple web-based quiz format for movie buffs to test their recognition.
+keywords: [movie quiz, jigsaw puzzle, film stills, interactive quiz, web games]
 ---
 
 <p>These are stills from a recent movie. I've jumbled them up. You can <b>move the jumbled blocks around, like a jigsaw</b>.</p>

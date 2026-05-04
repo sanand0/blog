@@ -4,6 +4,8 @@ date: "2001-01-12T12:00:00Z"
 categories:
   - links
 wp_id: 1967
+description: I had a productive day buying five books, including thrillers and fantasy novels by Tom Clancy, Robert Ludlum, and Terry Brooks. I also burned a custom audio CD featuring fifteen songs.
+keywords: [tom clancy, robert ludlum, terry brooks, audio cd, frederick forsyth, robin cook, book haul]
 ---
 
 A good day. Bought 5 books, and cut an audio CD with 15 songs.

@@ -4,6 +4,8 @@ date: "2005-12-09T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 478
+description: I built a Perl tool to identify music directors by matching misspelt Tamil movie names from Raaga with my MP3s. I used custom phonetic normalization rules and fuzzy matching to achieve 90% accuracy across my collection.
+keywords: [perl, tamil, string-matching, raaga, phonetics, fuzzy-matching, music-recommendation]
 ---
 
 I don't like hunting for new songs either. Too much effort.

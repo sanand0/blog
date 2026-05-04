@@ -4,6 +4,8 @@ date: "2006-05-09T12:00:00Z"
 categories:
   - links
 wp_id: 323
+description: I shared a link to the Share Your OPML discovery service for RSS subscription lists, though I found the site was down. This service was intended to help users exchange and browse OPML files.
+keywords: [opml, rss, feed discovery, syndication, blogging tools]
 ---
 
 [Share your OPML](http://share.opml.org/). Seems to be down, though.

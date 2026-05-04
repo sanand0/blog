@@ -3,6 +3,8 @@ title: Using SVG favicons with Unicode
 date: 2026-01-01T13:00:00Z
 categories:
   - coding
+description: I explore how to create lightweight, customizable favicons by embedding SVG and Unicode directly into HTML via data URLs. This method allows for tiny, easily editable icons using text, emojis, and CSS-like styling.
+keywords: [svg, favicon, unicode, data-url, emoji, web-design]
 ---
 
 ![](https://files.s-anand.net/images/2026-01-01-svg-favicons-unicode.webp)

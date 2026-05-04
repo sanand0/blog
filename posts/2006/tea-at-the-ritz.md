@@ -4,6 +4,8 @@ date: "2006-01-03T12:00:00Z"
 categories:
   - london-2005
 wp_id: 441
+description: I visited the Ritz for afternoon tea, overcoming my hesitation about the formal dress code to enjoy exceptional Earl Grey, scones, and sandwiches while observing the demographic mix of visitors in London.
+keywords: [the ritz, afternoon tea, london, dress code, earl grey, travel]
 ---
 
 Had tea at the Ritz today. Initially, after reading that "Gentlemen are politely requested to keep their jackets and ties on during tea", my reaction was rather like Calvin's.

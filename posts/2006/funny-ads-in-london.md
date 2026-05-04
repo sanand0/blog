@@ -4,6 +4,8 @@ date: "2006-06-28T12:00:00Z"
 categories:
   - funny
 wp_id: 281
+description: I found some hilarious London Gumtree ads, including a woman asking her mugger to call her, a fan desperately seeking Teri Hatcher, and a hungover individual trying to locate the sofa they crashed on.
+keywords: [gumtree, london, classified ads, humor, teri hatcher, missed connections]
 ---
 
 [Funny ads in London](http://www.gumtree.com/london/1286_1.html).

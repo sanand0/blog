@@ -5,6 +5,8 @@ lastmod: "2009-05-19T20:24:55Z"
 categories:
   - business-realities
 wp_id: 2374
+description: I examine how companies lose the "why" behind their code when documentation vanishes and key people leave. I argue that maintaining conceptual integrity is essential to prevent organizational amnesia, especially during periods of rapid growth.
+keywords: [organizational amnesia, conceptual integrity, fred brooks, knowledge management, software maintenance, documentation]
 ---
 
 It’s amazing how much of a dependency there is on individuals writing IT systems. Reminds me of that [Dilbert strip](http://dilbert-search.appspot.com/dilbert/19940610):

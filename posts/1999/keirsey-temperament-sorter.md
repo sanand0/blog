@@ -4,6 +4,8 @@ date: "1999-07-15T12:00:00Z"
 categories:
   - links
 wp_id: 2182
+description: I took the Keirsey temperament sorter, an online Myers-Briggs test, and discovered I'm an ENTP. I share this personality type with figures like Walt Disney, Richard Feynman, and Calvin from Calvin and Hobbes.
+keywords: [keirsey temperament sorter, myers-briggs, mbti, entp, personality types, psychology]
 ---
 
 The [Keirsey temperament sorter](http://www.keirsey.com/) is an online Myers-Briggs test. My type is ENTP, which I share with Walt Disney, Richard Feynman, Steve Jobs and Calvin (of [Calvin and Hobbes](http://www.calvinandhobbes.com/).)

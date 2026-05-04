@@ -4,6 +4,8 @@ date: "2005-09-22T12:00:00Z"
 categories:
   - london-2005
 wp_id: 548
+description: I was detained and arrested at Southwark tube station during a 2005 security alert in London. While the bomb squad cleared my rucksack and laptop, Reuters reported on the station evacuation I inadvertently triggered.
+keywords: [london, southwark tube station, security alert, bomb squad, metropolitan police, jubilee line]
 ---
 
 [Innocent in London](http://gizmonaut.net/bits/suspect.html).

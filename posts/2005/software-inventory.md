@@ -4,6 +4,8 @@ date: "2005-07-20T12:00:00Z"
 categories:
   - top-10-lists
 wp_id: 601
+description: I catalog my essential software inventory for new laptop setups, featuring tools like ActivePerl, WinAmp, and NoteTab Light. I also weigh my preference for tools like Firefox and MSN Messenger against those I choose to skip.
+keywords: [activeperl, winamp, notetab light, unixutils, bitlord, picasa, windows software, 2000s tech]
 ---
 
 I end up changing my office laptops every year or so, and hence reinstall lots of software. Here's my inventory.

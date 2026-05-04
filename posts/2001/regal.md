@@ -4,6 +4,8 @@ date: "2001-06-09T12:00:00Z"
 categories:
   - mumbai
 wp_id: 1800
+description: I visited Mumbai’s Regal Cinema Hall to watch Disney's "The Emperor's New Groove." We evaluated the ticket pricing, seating comfort, and facility cleanliness before enjoying the film’s fast-paced, hilarious, and refreshingly moral-free narrative.
+keywords: [mumbai, regal cinema, the emperor's new groove, disney, cinema, movie review]
 ---
 
 Having spent several hours at office, Amitabh and I walked down to the **Regal Cinema Hall** to watch "The Emperor's New Groove". Given that it was a saturday afternoon, and a Disney movie, we were expecting only to see a family crowd, and weren't disappointed. Tickets, as always in Mumbai, were a bit more expensive than we were used to. Rs. 60 and Rs. 80. We took the Rs. 60, and discovered that there was no difference between the two. Well, there was, but not much.

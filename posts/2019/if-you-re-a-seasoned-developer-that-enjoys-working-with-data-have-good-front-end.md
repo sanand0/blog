@@ -2,6 +2,8 @@
 date: "2019-04-08T10:16:58Z"
 categories:
   - linkedin
+description: I am looking for seasoned developers with data and front-end expertise to join my team at Gramener Mumbai. If you enjoy building data-driven applications under tight deadlines, I would love to work with you.
+keywords: [gramener, data science, front-end development, recruitment, mumbai, software engineering]
 ---
 
 If you're a seasoned developer that enjoys working with data, have good front-end skills, and are challenged by impossible deadlines, please drop me a note. I'd love to work with you at Gramener Mumbai.

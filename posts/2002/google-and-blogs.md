@@ -4,6 +4,8 @@ date: "2002-03-08T12:00:00Z"
 categories:
   - links
 wp_id: 1409
+description: I look at the symbiotic link between Google and blogs, including tactics like Googlebombing. I found my own archives ranking for "imdbpro password" purely because I was one of the only people to mention those specific terms together.
+keywords: [googlebombing, google search, seo, microcontent, church of scientology, imdbpro, metafilter]
 ---
 
 The strong linkage between [Google and blogs](http://www.corante.com/microcontent/articles/googleblog.shtml) can lead to subversions like [Googlebombing](http://www.uber.nu/2001/04/06/) ([more](http://www.corante.com/microcontent/articles/googlebombs.shtml")). The Church of Scientology is [already using it](http://operatingthetan.com/google/).

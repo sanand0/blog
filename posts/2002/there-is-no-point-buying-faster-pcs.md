@@ -4,6 +4,8 @@ date: "2002-10-01T12:00:00Z"
 categories:
   - links
 wp_id: 1123
+description: I argue that current 1.6GHz processors provide more speed than I actually need. Instead of buying faster PCs, I'd rather invest in peripherals like digital video cameras and hard disks to expand my computer's utility.
+keywords: [pc hardware, cpu performance, consumer electronics, pentium 4, storage, digital video]
 ---
 
 [There's no point buying faster PCs](http://www.nytimes.com/2002/09/30/technology/30SPEE.html), since there aren't many applications that need more computing power, says this NY Times article. [via Scripting News](http://www.scriptingnews.com)

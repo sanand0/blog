@@ -5,6 +5,8 @@ lastmod: "2021-12-08T18:47:24Z"
 categories:
   - coding
 wp_id: 2305
+description: I explain how I enabled exact WYSIWYG previews in Windows Live Writer for custom WordPress themes. By creating a view.html template and redirecting the wlwmanifest.xml link via functions.php, I forced the editor to recognize my unique layout.
+keywords: [windows live writer, wordpress, wysiwyg, wlwmanifest.xml, php, web development]
 ---
 
 One of the reasons I moved to WordPress was the ability to write posts offline, for which I use [Windows Live Writer](http://download.live.com/writer) most of the time. The beauty of this is that I can preview the post **exactly** as it will appear on my site. Nothing else that I know is as [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG), and it’s very useful to be able to type knowing exactly where each word will be.

@@ -4,6 +4,8 @@ date: "2006-05-12T12:00:00Z"
 categories:
   - links
 wp_id: 320
+description: I highlight how psychological framing in bank loan offers often outweighs interest rates. A study showed that small changes, like using a woman's photo, increased demand as much as a five percentage point rate drop.
+keywords: [behavioral economics, psychological framing, senthil mullainathan, consumer behavior, randomized controlled trial, interest rates]
 ---
 
 People act on the spur of the moment, most of the time. So, as you can see from this example below, [psychology can be more important than economics](http://radar.oreilly.com/archives/2006/05/behaviorial_economics.html).

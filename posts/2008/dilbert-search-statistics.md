@@ -4,6 +4,8 @@ date: "2008-10-10T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 27
+description: I indexed two years of Dilbert strips in three weeks by crowdsourcing transcriptions via a Google App Engine tool. This community-driven approach is significantly faster than my previous solo attempts at digitizing comic archives for search.
+keywords: [dilbert, crowdsourcing, transcription, google app engine, search engine, wordle]
 ---
 
 It's been three weeks since I [initiated the effort to type in the Dilbert strips](/blog/dilbert-search-engine/) and the results are encouraging. About 2 years worth of strips [have been typed out](http://dilbert-search.appspot.com/). So this [Dilbert viewer](/dilbert.html) now has a reasonably sized index for searching.

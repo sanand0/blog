@@ -4,6 +4,8 @@ date: "2002-06-28T12:00:00Z"
 categories:
   - links
 wp_id: 1299
+description: Explore essential dining etiquette with this guide to restaurant manners. The post provides tips for better social experiences when eating out, while commenters discuss whether requesting condiments like tomato sauce insults the chef's expertise.
+keywords: [restaurant etiquette, dining manners, table manners, hospitality, culinary norms, social skills]
 ---
 
 The ABC's of [good restaurant manners](http://ecglink.com/newsletter/cunning.shtml).

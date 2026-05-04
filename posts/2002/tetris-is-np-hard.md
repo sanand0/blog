@@ -4,6 +4,8 @@ date: "2002-10-26T12:00:00Z"
 categories:
   - links
 wp_id: 1071
+description: I explain why Tetris is NP-Hard by defining P and NP complexity classes in plain English. I use simple analogies like addition and primality testing to show how computational difficulty scales as problems grow larger.
+keywords: [tetris, computational complexity, p vs np, np-hard, polynomial time, algorithms]
 ---
 
 [Tetris is NP-Hard](http://slashdot.org/article.pl?sid=02/10/24/2251234&mode=thread&tid=127). Let me explain, in English, what that means.

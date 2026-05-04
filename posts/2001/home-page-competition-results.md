@@ -4,6 +4,8 @@ date: "2001-02-21T12:00:00Z"
 categories:
   - links
 wp_id: 1873
+description: I've announced the winners of the IIM Bangalore home page competition. Section C claimed the top spot with Section A as runner-up, reflecting the early 2000s web development culture within the IIMB student community.
+keywords: [iimb, home page competition, web design, indian institute of management, student websites, '2001']
 ---
 
 The [home page competition results](http://unix2.iimb.ernet.in/~sigma/hpcreslt.html) are out. Congrats to [Section C](http://unix2.iimb.ernet.in/~secc), and to [Section A](http://unix2.iimb.ernet.in/~seca), who were close behind.

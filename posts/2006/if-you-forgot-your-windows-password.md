@@ -4,6 +4,8 @@ date: "2006-06-09T12:00:00Z"
 categories:
   - links
 wp_id: 298
+description: Use these methods to recover access to your Windows account if you've forgotten your password. You can reset credentials through existing admin rights, exploit known vulnerabilities in Windows XP, or use a bootable recovery disc to bypass the login.
+keywords: [windows, password recovery, windows xp, administrator account, system recovery, login bypass]
 ---
 
 If you've forgotten your Windows password, but you're still logged in as an administrator, you can [change your Windows password without confirmation of the old password](http://www.lifehacker.com/software/passwords/quickly-change-your-windows-password-even-if-youve-lost-your-old-one-179364.php).

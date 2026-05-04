@@ -5,6 +5,8 @@ lastmod: "2022-01-15T00:55:32Z"
 categories:
   - interviews
 wp_id: 1998
+description: I treat case interviews as a series of patterns rather than rigid frameworks. I use PLEST for risk, 4Ps for marketing, and detailed segmentation of revenues and costs to identify strategic advantages and resolve profitability declines.
+keywords: [case interviews, porter's 5 forces, plest framework, segmentation, strategic management, profitability analysis, 4ps marketing, oli framework]
 ---
 
 **Structuring a case**

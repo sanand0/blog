@@ -1,6 +1,8 @@
 ---
 title: Digital Exhaust
 date: 2026-03-11T11:51:23+08:00
+description: I cataloged the massive trail of digital exhaust I leave behind, ranging from obvious logs like search history and bank statements to hidden signals like keystroke dynamics, battery levels, and ambient Wi-Fi beacons.
+keywords: [digital exhaust, telemetry, metadata, behavioral biometrics, data privacy, iot logs]
 ---
 
 Exhaust I "emit":

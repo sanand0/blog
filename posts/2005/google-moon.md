@@ -4,6 +4,8 @@ date: "2005-07-20T12:00:00Z"
 categories:
   - links
 wp_id: 600
+description: I explored Google Moon and discovered that while it appears rectangular at low magnification, the highest zoom level reveals the lunar surface is actually made of Swiss cheese, a clever Easter egg included by Google.
+keywords: [google moon, google maps, easter eggs, lunar mapping, swiss cheese]
 ---
 
 [Google Moon](http://moon.google.com/). At the highest magnification, the moon is made of cheese. At the lowest, the moon is rectangular. But it apparantly isn't a prank.

@@ -4,6 +4,8 @@ date: "2001-08-06T12:00:00Z"
 categories:
   - links
 wp_id: 1722
+description: Avoid unwanted email by following basic digital hygiene, such as keeping your address off public Usenet groups. Learn the essential dos and don'ts to minimize spam and protect your online privacy.
+keywords: [spam prevention, usenet, email privacy, digital hygiene, inbox management]
 ---
 
 If you don't want spam, here are some things [to do and not to do](http://www.cnet.com/software/0-3227888-8-6602372-1.html). Don't post usenet articles, to start with.

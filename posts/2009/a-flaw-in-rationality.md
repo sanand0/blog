@@ -4,6 +4,8 @@ date: "2009-09-03T08:16:47Z"
 categories:
   - links
 wp_id: 2391
+description: I shared insights from Antonio Damasio showing that emotional processing in the orbitofrontal cortex is essential for decision-making. Without feelings to filter options, pure logic fails to function effectively in real-world scenarios.
+keywords: [rationality, orbitofrontal cortex, antonio damasio, decision-making, the happiness hypothesis, neuroscience, logic]
 ---
 
 I found this piece from “[The Happiness Hypothesis](http://www.happinesshypothesis.com/chapters.html)” pretty interesting:

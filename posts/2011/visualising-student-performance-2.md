@@ -6,6 +6,8 @@ categories:
   - education
   - visualisation
 wp_id: 2598
+description: I revised my student performance visualizations using Python and SVG to improve readability for teachers. These color-coded dashboards use grade distributions and trend graphs to identify bimodal distributions, top performers, and individual subject struggles at a glance.
+keywords: [data visualization, python, svg, education, bimodal distribution, grading systems]
 ---
 
 This [earlier visualisation](/blog/visualising-student-performance/) was revised based feedback from teachers. It’s split into two parts: one focused on performance by subject, and another on performance of each student.

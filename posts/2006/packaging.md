@@ -4,6 +4,8 @@ date: "2006-04-12T12:00:00Z"
 categories:
   - business-realities
 wp_id: 361
+description: I examine how innovative packaging like Heinz's inverted ketchup bottle solves hidden user frustrations and builds brand loyalty. I've found that functional design improvements significantly changed my consumption habits and purchasing decisions for everyday products.
+keywords: [packaging design, user experience, brand loyalty, heinz, consumer behavior, product innovation]
 ---
 
 **Packaging can make a huge difference to products**. It really hit me when I saw this bottle of Heinz's ketchup. My two big problems with normal ketchup bottles are: (a) the sauce spills to the side of the bottle and sticks to the cap, and (b) it's tough to pour the last bits of sauce -- you have to hit the bottle a lot.

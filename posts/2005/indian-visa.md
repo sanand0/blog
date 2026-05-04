@@ -4,6 +4,8 @@ date: "2005-06-14T12:00:00Z"
 categories:
   - london-2005
 wp_id: 638
+description: I met a consultant who flew from Boston to Bangalore assuming he would receive a visa on arrival. Instead, he was immediately sent back to London, highlighting strict entry requirements despite the simplicity of the formal application process.
+keywords: [indian visa, bangalore, travel anecdote, immigration, entry refusal, maroush]
 ---
 
 For a long time, I thought the problems associated with getting an American visas was mainly for Indians. Today, I met someone at a Lebanese restaurant near Marble Arch. (It's called Maroush III. There are at least a couple of other Maroushs in the area.) He's a consultant, and has been travelling around the globe for over 20 years.

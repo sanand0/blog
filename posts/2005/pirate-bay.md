@@ -4,6 +4,8 @@ date: "2005-03-29T12:00:00Z"
 categories:
   - links
 wp_id: 699
+description: I highlight The Pirate Bay's sarcastic and defiant responses to legal threats from companies like Microsoft and EA. They mock these notices by citing Swedish copyright law and making jokes about polar bears and moonshine.
+keywords: [pirate bay, copyright law, legal threats, microsoft, sweden, file sharing]
 ---
 
 Pirate Bay has been receiving threats from various firms, like Microsoft, EA, SEGA, etc. Their [response](http://www.thepiratebay.org/frame.html) has been straightforward. [via Dhar](http://sumitdhar.blogspot.com/2005/03/response-to-legal-threats.html)

@@ -5,6 +5,8 @@ lastmod: "2019-12-01T14:27:00Z"
 categories:
   - business-realities
 wp_id: 271
+description: I found that force-fitting a normal distribution to banking and bond data drastically understates tail risk. By ignoring power-law distributions, I underestimated worst-case scenarios that actually occur much more frequently than the bell curve predicts.
+keywords: [normal distribution, fat tails, power law, risk management, central limit theorem, banking, bond prices]
 ---
 
 I was working with the treasury of a bank. They were trying to estimate how much money could flow out of their savings account in a day, worst case.

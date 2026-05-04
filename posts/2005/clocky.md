@@ -4,6 +4,8 @@ date: "2005-03-31T12:00:00Z"
 categories:
   - links
 wp_id: 688
+description: I discovered Clocky, a clever alarm clock that rolls off your nightstand and hides when you hit snooze. To turn it off, you must get out of bed and find it, ensuring you're actually awake.
+keywords: [clocky, alarm clock, snooze button, mit media lab, industrial design, sleep habits]
 ---
 
 [Clocky](http://bicillin.media.mit.edu/clocky/).

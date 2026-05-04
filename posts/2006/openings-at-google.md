@@ -4,6 +4,8 @@ date: "2006-03-29T12:00:00Z"
 categories:
   - links
 wp_id: 387
+description: I’ve shared a link to Google’s job openings as hosted on Google Base. This early implementation highlights how the company used its own structured data platform for recruitment, potentially disrupting traditional job boards like Monster.
+keywords: [google base, recruitment, job search, structured data, monster.com]
 ---
 
 [Job openings at Google](http://www.google.com/base/search?q=&oi=gb_refinement&ct=t&cd=1&a_n0=jobs&a_y0=9&a_o0=0&a_n152=Location&a_y152=6&a_v152=&a_o152=0&a_n759=Employer&a_y759=1&a_v759=google%20&a_o759=0&a_n215=Job%20function&a_y215=1) on Google Base.

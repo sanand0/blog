@@ -4,6 +4,8 @@ date: "2006-05-27T12:00:00Z"
 categories:
   - links
 wp_id: 303
+description: I explore tournament theory, which suggests that high executive salaries exist to motivate lower-level employees to compete. The theory explains why luck-driven roles have larger pay gaps and why companies prefer promoting insiders to maintain worker motivation.
+keywords: [tournament theory, executive compensation, pay gap, labor economics, employee motivation, corporate hierarchy]
 ---
 
 [Why your boss is overpaid](http://www.forbes.com/2006/05/20/executive-compensation-tournament_cx_th_06work_0523pay.html).

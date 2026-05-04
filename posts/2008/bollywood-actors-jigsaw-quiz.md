@@ -5,6 +5,8 @@ lastmod: "2025-01-25T02:39:06Z"
 categories:
   - quizzes
 wp_id: 41
+description: I created an interactive jigsaw quiz featuring ten jumbled photos of Bollywood actors. You can drag the blocks to reassemble the images and identify the stars. It tests both your visual recognition and your knowledge of Indian cinema.
+keywords: [bollywood, jigsaw puzzle, interactive quiz, indian cinema, visual game, puzzles]
 ---
 
 <p>I've jumbled up pictures of 10 Bollywood actors. You can move the jumbled blocks around, like a jigsaw. Can you guess the actors?</p>

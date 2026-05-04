@@ -2,6 +2,8 @@
 title: To make the bed, or sleep?
 date: 2026-01-02T16:25:00+08:00
 robotsNoIndex: true
+description: I reflect on a sharp Bhojpuri proverb that mocks our obsession with "making the bed" at the expense of sleeping. It’s a witty, existential reminder to stop endless preparation and actually enjoy the life I'm building.
+keywords: [bhojpuri, proverbs, existentialism, productivity culture, philosophy of living, satire]
 ---
 
 > ज़िंदगी भर बिस्तर बिछईबा करबा तो सुतबा कब?

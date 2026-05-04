@@ -6,6 +6,8 @@ categories:
   - business-realities
   - how-i-do-things
 wp_id: 2479
+description: I’ve found that recruiting for startups requires hunting smart people in their natural clusters like GitHub or meetups. Since they're motivated by hard problems and autonomy, I suggest managing them like a community of volunteers rather than employees.
+keywords: [recruitment, startups, talent acquisition, intrinsic motivation, github, productivity, networking]
 ---
 
 Recently, I have ended up giving bits of advice to people recruiting at start-ups, and a few patterns have emerged that are worth sharing.

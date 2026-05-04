@@ -5,6 +5,8 @@ lastmod: "2009-02-25T08:59:38Z"
 categories:
   - how-i-do-things
 wp_id: 110
+description: I built a fast find-as-you-type Hindi song search engine by scraping metadata with Perl and using custom phonetic regex to handle misspellings. I optimized performance through lazy-loading database chunks and background processing for instant results.
+keywords: [perl, web scraping, phonetic matching, regex, javascript, music metadata, lazy loading]
 ---
 
 **[Click here to search for Hindi songs](/hindi)**.

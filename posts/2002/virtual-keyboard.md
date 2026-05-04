@@ -4,6 +4,8 @@ date: "2002-12-16T12:00:00Z"
 categories:
   - links
 wp_id: 995
+description: I discuss early optical keyboard technology and speculate on its future potential. I envision using similar optics for digital handwriting recognition on paper and projecting interactive virtual screens from tiny, portable devices.
+keywords: [optical keyboard, projection display, handwriting recognition, virtual interface, human-computer interaction, future tech]
 ---
 
 [![Virtual Keyboard](/blog/assets/flickr-virtual-keyboard_24685629_o-jpg.webp)](/blog/assets/flickr-virtual-keyboard_24685629_o-jpg.webp)

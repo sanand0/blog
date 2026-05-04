@@ -4,6 +4,8 @@ date: "2002-03-27T12:00:00Z"
 categories:
   - links
 wp_id: 1381
+description: I shared a collection of cringeworthy corporate anthems from IT companies like Microsoft and IBM. It is hard to imagine being forced to listen to or sing along with these bizarre motivational songs during the workday.
+keywords: [corporate anthems, company culture, it industry, microsoft, ibm, motivational music, workplace humor]
 ---
 
 [Corporate anthems](http://www.zdnet.co.uk/specials/2002/it-anthems/) in IT companies. Imagine having to listen to these for motivation. (Or singing along!)

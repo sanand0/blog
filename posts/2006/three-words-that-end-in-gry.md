@@ -4,6 +4,8 @@ date: "2006-12-27T12:00:00Z"
 categories:
   - links
 wp_id: 147
+description: I examine the classic riddle regarding the three English words ending in '-gry.' Beyond 'angry' and 'hungry,' the puzzle often relies on clever phrasing or obsolete terms to trick those looking for a literal third word.
+keywords: [riddles, linguistics, word puzzles, gry, angry, hungry, trick questions]
 ---
 
 > There are three English words ending in "-gry". Two are "angry" and "hungry". What is the third one?

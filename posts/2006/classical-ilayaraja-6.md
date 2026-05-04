@@ -4,6 +4,8 @@ date: "2006-12-24T12:00:00Z"
 categories:
   - classical-ilayaraja
 wp_id: 149
+description: I explore the beauty of Prathi Madhyamam and Ilayaraja’s mastery of the Hamsanadham raga in Tamil cinema. I analyze his unique song starts and classical compositions in films like Thenrale Ennai Thodu and Geetanjali.
+keywords: [ilayaraja, hamsanadham, prathi madhyamam, carnatic music, tamil film songs, musical analysis]
 ---
 
 > This is the 6th of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

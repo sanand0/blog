@@ -4,6 +4,8 @@ date: "2002-08-09T12:00:00Z"
 categories:
   - links
 wp_id: 1245
+description: I’m following the discovery of a polynomial-time primality test by researchers at IIT-K. If proven, this breakthrough challenges the core assumptions of RSA cryptography and might force us to rethink digital security protocols entirely.
+keywords: [primality test, polynomial time, rsa algorithm, cryptography, manindra agarwal, iit kanpur, aks algorithm]
 ---
 
 Prof. Manindra Agarwal and his students at IIT-K have figured out a [polynomial time test for primality](http://www.cse.iitk.ac.in/news/primality.html). It was an [unsolved problem](http://www.vacets.org/articles/primality.html). The RSA algorithm assumes that this is impossible. ([NYTimes](http://www.nytimes.com/2002/08/08/science/08MATH.html))

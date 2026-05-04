@@ -4,6 +4,8 @@ date: "2006-04-30T12:00:00Z"
 categories:
   - business-realities
 wp_id: 335
+description: I used stakeholder support matrices and change readiness profiles to manage a client's offshoring transition analytically. By mapping individual influence and specific concerns, I identified who to convince and how to effectively deploy change agents to drive alignment.
+keywords: [change management, stakeholder mapping, offshoring, stakeholder support matrix, change readiness profile, organizational change]
 ---
 
 **Change management can be analytic**, as opposed to touchy-feely.

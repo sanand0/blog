@@ -4,6 +4,8 @@ date: "2007-06-07T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 79
+description: I cut my search engine's load time in half by using the script defer attribute for background loading and optimizing regular expressions. I found that processing one large string before splitting it into objects significantly improved performance across different browsers.
+keywords: [javascript optimization, script defer, regular expressions, performance tuning, browser differences, data compression]
 ---
 
 <p><b>My music search engine takes quite a while to load</b> (typically 40 seconds). That's an unusually long time for a page, given that most of the people that access it are on broadband connections, and are listening to music online.</p>

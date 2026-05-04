@@ -4,6 +4,8 @@ date: "2005-12-16T12:00:00Z"
 categories:
   - funny
 wp_id: 464
+description: I shared a collection of hilarious anecdotes from an American teacher working in Japan. These stories provide a comedic look at cultural misunderstandings and the daily life of an expat educator in a Japanese school.
+keywords: [japan, teaching english, anecdotes, humor, expat life, cultural exchange]
 ---
 
 Hilarious anecdotes from an American [teacher in Japan](http://outpostnine.com/editorials/teacher.html).

@@ -4,6 +4,8 @@ date: "2000-10-02T12:00:00Z"
 categories:
   - london-2000
 wp_id: 2172
+description: I navigated technical glitches and uncomfortable seating at London Business School while observing the impressive caliber of its students. I met professionals with diverse backgrounds in consulting and finance, highlighting the school's focus on significant prior work experience.
+keywords: [london business school, lbs, mba, infrastructure, networking, it support]
 ---
 
 The session on Mergers, MBOs and other corporate reorganizations by Paulo Volpin started 5 minutes late. Reason: They had a problem with the computer projector. Fixing it turned out to be a hi-tech exercise, though. A guy came in with some kind of a hand-held device, pointed it around like a remote control, and the projector was on. 6:05PM -- 5 minutes lost.

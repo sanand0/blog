@@ -2,6 +2,8 @@
 title: Humility elevates divinity
 date: 2026-01-03T10:45:56+08:00
 robotsNoIndex: true
+description: I interpret Thirukkural 121 through the lenses of Terry Pratchett and Mark Twain, framing self-restraint as a metaphysical buoyancy device. This analysis explores how containment leads to divinity while lack of control anchors one in total darkness.
+keywords: [thirukkural, thiruvalluvar, tamil literature, self-control, terry pratchett, mark twain, philosophy]
 ---
 
 > அடக்கம் அமரருள் உய்க்கும்

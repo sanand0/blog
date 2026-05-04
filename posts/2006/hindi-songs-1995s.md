@@ -5,6 +5,8 @@ lastmod: "2025-01-25T02:46:52Z"
 categories:
   - quizzes
 wp_id: 184
+description: Test your knowledge of 1990s Bollywood with this interactive quiz. I've compiled background music clips from Hindi films released between 1995 and 1999; listen to the audio and guess the movie titles to win.
+keywords: [bollywood, hindi cinema, music quiz, 1990s, background score, film music]
 ---
 
 <p>Here is the background music from some Hindi songs between 1995-1999. Can you guess which <b>movie</b> they are from?</p>

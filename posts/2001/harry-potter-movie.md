@@ -4,6 +4,8 @@ date: "2001-03-07T12:00:00Z"
 categories:
   - links
 wp_id: 1857
+description: I shared the news that Warner Brothers was officially producing a Harry Potter movie. This early link allowed fans to follow the production's progress on the studio's website as the beloved book series transitioned to the big screen.
+keywords: [harry potter, warner bros, film adaptation, fantasy movies, cinema]
 ---
 
 Warner Brothers are making a [Harry Potter movie](http://harrypotter.warnerbros.com/).

@@ -4,6 +4,8 @@ date: "2005-06-02T12:00:00Z"
 categories:
   - london-2005
 wp_id: 646
+description: I noticed that older rental houses in Ilford often have only one toilet for multiple bedrooms. Local insights suggest this resulted from historical council taxes based on the number of toilets, making modern shared living quite difficult.
+keywords: [london housing, ilford, council tax, house design, plumbing history, rental market]
 ---
 
 We were looking for houses for rent in the Ilford area. The most striking thing, apart from how old the houses were, was that all of them had just a single bathroom. No separate toilet. I learnt the importance of having multiple toilets several years ago, and was only reiterated early in the morning this weekend where one toilet and one bathroom were shared by six of us at Swindon.

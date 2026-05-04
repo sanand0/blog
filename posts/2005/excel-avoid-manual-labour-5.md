@@ -4,6 +4,8 @@ date: "2005-12-21T12:00:00Z"
 categories:
   - excel-tips
 wp_id: 454
+description: I use array formulas for calculations on entire lists, database functions like DSUM for flexible table manipulation, and pivot tables to handle tabular data. These tools help me avoid manual labor when processing complex spreadsheets.
+keywords: [excel, array formulas, dsum, database functions, pivot tables, spreadsheet automation]
 ---
 
 A few tips, without getting into the details. [Array formulas](http://www.google.com/search?q=excel+array+formulas) let you perform any calculation on an entire list, and get the result in a single formula. [Database functions](http://www.google.com/search?q=excel+database+functions+DSUM) like DSUM can manipulate tables of data very flexibly. Using these and [Pivot tables](http://www.google.com/search?q=excel+pivot+tables), you can do anything with any tabular data.

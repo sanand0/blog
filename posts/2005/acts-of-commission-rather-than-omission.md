@@ -4,6 +4,8 @@ date: "2005-01-27T12:00:00Z"
 categories:
   - links
 wp_id: 771
+description: I highlight a finding from Hardman and Macchi showing that people judge bad outcomes from action more harshly than inaction. This omission bias causes us to prefer higher natural risks over lower risks from intervention.
+keywords: [omission bias, psychology, decision making, risk assessment, hardman and macchi, vaccination]
 ---
 
 [Thinking](http://www.amazon.com/gp/reader/0471494577/?tag=sanand-20), a book by Hardman and Macchi, says people would **much** rather let bad things happen, than take a risk to stop them:

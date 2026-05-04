@@ -4,6 +4,8 @@ date: 2025-12-31T07:51:58Z
 categories:
   - how-i-do-things
   - interesting-experiences
+description: I hit 11 of my 20 goals in 2025, using AI to scale my reading, teaching, and data storytelling. My report card covers achievements in yoga and weight loss alongside failures in robotics and finance as I pivot to 2026.
+keywords: [goal setting, annual review, productivity, ai tools, vipassana, yoga, github, weight loss]
 ---
 
 ![My Year in 2025](https://files.s-anand.net/images/2025-12-31-2025-goals.webp)

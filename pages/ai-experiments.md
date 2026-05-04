@@ -1,6 +1,8 @@
 ---
 title: AI Experiments
 date: 2026-04-11T13:32:19+08:00
+description: I collected a series of small AI experiments to unlock creative ideas. I used tools like Gemini and Claude for everything from palmistry readings and jingle creation to automating email labels and generating data-driven research stories.
+keywords: [chatgpt, gemini, claude code, data stories, automation, prompt engineering, vision models]
 ---
 
 A collection of little AI experiments that unlock ideas.

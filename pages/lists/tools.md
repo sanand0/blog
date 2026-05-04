@@ -1,6 +1,8 @@
 ---
 title: Tools
 date: 2025-04-15T00:00:00Z
+description: I evaluated software tools across domains like URL shorteners, databases, and Markdown parsers. I’ve shared my top picks (🟢) and runners-up (🟡) for MP3 tagging, PDF optimization, and LLM orchestration to help you streamline development workflows.
+keywords: [software-evaluation, clis, databases, llm-tools, markdown, pdf-optimization, developer-experience]
 ---
 
 Results of my software tool evaluations. 🟢 is my current choice and 🟡 is worth evaluating.

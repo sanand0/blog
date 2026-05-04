@@ -4,6 +4,8 @@ date: "2005-06-17T12:00:00Z"
 categories:
   - london-2005
 wp_id: 636
+description: I describe my methods for reading books for free, from standing in bookstores for hours to leveraging public libraries and digital copies. I include a six-step process for maintaining an extensive reading habit on a budget.
+keywords: [public libraries, redbridge council, frugal reading, bookstores, reading habits, ebooks, waterstone's]
 ---
 
 I'm fairly stingy. When it comes to books, I've always taken it to extremes.

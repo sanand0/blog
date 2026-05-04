@@ -6,6 +6,8 @@ categories:
   - games
 build: { list: never, render: always }
 robotsNoIndex: true
+description: I found an LLM app that instantly builds Monopoly-style board games for any topic. It generates thematic tiles and questions, transforming complex strategy sessions like policy simulations into addictive, interactive workshops through rapid game prototyping.
+keywords: [llms, gamification, board games, educational technology, strategy simulation, rapid prototyping]
 ---
 
 In December, [Ritesh](https://github.com/ritesh17rb/) built a surprisingly addictive LLM app called [Strategy Board Game](https://ritesh17rb.github.io/board-game/).

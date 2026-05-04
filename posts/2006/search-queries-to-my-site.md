@@ -4,6 +4,8 @@ date: "2006-04-06T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 372
+description: I analyzed my site's search traffic using Google Analytics, finding that 60% of visitors arrived via Calvin and Hobbes quotes. Other significant traffic sources included Excel formula tips and a bizarre variety of unexpected, niche search queries.
+keywords: [google analytics, search queries, calvin and hobbes, excel, web analytics, search engine optimization]
 ---
 
 On a related note, 60% of the search queries that lead to my site this year were [Calvin and Hobbes quotes](/calvin/). "i can't help but wonder what kind of desperate straits would drive a man to invent this thing." topped the list (Calvin referring to a yo-yo), with [i always catch these trick questions](http://www.google.com/search?q=%22i+always+catch+these+trick+questions%22) following closely.

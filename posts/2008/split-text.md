@@ -4,6 +4,8 @@ date: "2008-09-06T12:00:00Z"
 categories:
   - excel-tips
 wp_id: 35
+description: I show how the SPLIT function in Google Spreadsheets creates dynamic text-to-columns that updates automatically. I use it with ARRAYFORMULA to count words, sum lists, and perform multi-key sorts that Excel can't easily handle.
+keywords: [google spreadsheets, excel, split function, arrayformula, text-to-columns, data sorting]
 ---
 
 > This is a series on what [Google Spreadsheets](http://docs.google.com/) can do that Excel can't.

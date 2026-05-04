@@ -4,6 +4,8 @@ date: "2006-11-30T12:00:00Z"
 categories:
   - top-10-lists
 wp_id: 171
+description: I shared a dataset of the top 1000 most popular IMDb movies, including ratings and vote counts. I marked which ones I've watched to help analyze popular but lousy films, available via an embedded spreadsheet and Excel download.
+keywords: [imdb, movie ratings, datasets, google spreadsheets, cinema, excel]
 ---
 
 <p>Here are the top 1000 most popular movies on the Internet Movie database, along with their ratings and number of votes. I've also marked whether I've seen them or not, as of today.</p>

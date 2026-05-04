@@ -4,6 +4,8 @@ date: "2007-02-14T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 113
+description: I analyzed Calvin and Hobbes to find the top 20 statistically improbable phrases like "chocolate frosted sugar bombs." I highlight the technical challenges of tokenization, such as handling contractions, and the difficulty of weighting longer, naturally rarer phrases.
+keywords: [calvin and hobbes, natural language processing, tokenization, n-grams, text analysis, corpus linguistics, statistics]
 ---
 
 My earlier [list of statistically improbable phrases in Calvin and Hobbes](/blog/statistically-improbable-phrases/) is technically just a list of "Statistically Improbable Words". I re-did the same analysis using phrases. Here are the top 20 statistically improbable **phrases** (2 - 4 words only):

@@ -4,6 +4,8 @@ date: "2005-04-18T12:00:00Z"
 categories:
   - links
 wp_id: 660
+description: I found a detailed D-Lib Magazine review of early social bookmarking tools. It provides an academic perspective on the landscape of link-sharing services during the mid-2000s, useful for understanding the history of digital curation.
+keywords: [social bookmarking, d-lib magazine, digital curation, web 2.0, information management, link sharing]
 ---
 
 D-Lib magazine reviews [Social Bookmarking Tools](http://www.dlib.org/dlib/april05/hammond/04hammond.html).

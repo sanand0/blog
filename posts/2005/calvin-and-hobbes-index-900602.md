@@ -4,6 +4,8 @@ date: "2005-12-27T12:00:00Z"
 categories:
   - links
 wp_id: 448
+description: I’ve updated my Calvin and Hobbes index to cover strips through June 1990. I'm manually transcribing the comics into a searchable text database to help fans locate specific strips by their dialogue and themes.
+keywords: [calvin and hobbes, comic strip index, transcription, searchable database, bill watterson, archiving]
 ---
 
 My [Calvin and Hobbes index](/calvin/) is current up to June 1990.

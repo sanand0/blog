@@ -4,6 +4,8 @@ date: "2005-07-19T12:00:00Z"
 categories:
   - links
 wp_id: 603
+description: I'm exploring my growing addiction to memory-lapse and alternate-reality films. I’ve compiled a list of favorites like Memento and Donnie Darko, while adding mind-bending titles like Being John Malkovich and David Lynch's surreal works to my watchlist.
+keywords: [memory loss, alternate reality, psychological thrillers, time loops, david lynch, cinema]
 ---
 
 I'm getting addicted to memory-lapse related / alternate reality-based movies, like:

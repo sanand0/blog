@@ -4,6 +4,8 @@ date: "2003-09-15T12:00:00Z"
 categories:
   - links
 wp_id: 887
+description: I weigh the moral dilemma of funding a NASA space elevator against immediate humanitarian needs. Drawing parallels to the lasting legacy of the Egyptian pyramids, I conclude that building the elevator is worth the long-term investment.
+keywords: [space elevator, nasa, arthur c. clarke, humanitarianism, space exploration, posterity]
 ---
 
 [NASA is thinking of a space elevator](http://www.hindustantimes.com/news/181_374838,00040005.htm), **a la Clarke**. On one hand, I think... can't we save poor children in Somalia? On the other hand, 500 years from now, would you remember this generation for saving children or building a space elevator? Do you remember the Egyptian pyramids or slavery? Then again, to quote Groucho Marx, "Why should I worry about posterity? What has posterity ever done for me?"

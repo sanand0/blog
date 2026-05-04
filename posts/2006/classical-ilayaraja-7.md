@@ -4,6 +4,8 @@ date: "2006-12-27T12:00:00Z"
 categories:
   - classical-ilayaraja
 wp_id: 146
+description: I explore Ilayaraja’s masterful use of the first and last melakartha raagas, Kanakangi and Rasikapriya, plus the melodic Sudha Saveri. I highlight how he navigates difficult vivadhi swarams to create emotionally resonant and technically brilliant film songs.
+keywords: [ilayaraja, carnatic music, melakartha, kanakangi, sudha saveri, rasikapriya, vivadhi]
 ---
 
 > This is the 7th of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

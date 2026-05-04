@@ -4,6 +4,8 @@ date: "2001-12-05T12:00:00Z"
 categories:
   - links
 wp_id: 1532
+description: I am marking the 100th birthday of Walt Disney by sharing a commemorative link and image. This brief post highlights the centenary of the animation pioneer's birth on December 5, 2001.
+keywords: [walt disney, animation, centenary, disney history, celebration]
 ---
 
 [Happy 100th birthday, Walt!](http://www.justdisney.com/WaltDisney100/)\

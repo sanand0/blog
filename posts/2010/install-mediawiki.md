@@ -4,6 +4,8 @@ date: "2010-07-15T05:30:17Z"
 categories:
   - open-source
 wp_id: 2526
+description: Install MediaWiki locally by extracting it into your XAMPP htdocs folder and creating a database via phpMyAdmin. Follow the web-based configuration form using your superuser account to complete the setup on your localhost.
+keywords: [mediawiki, xampp, phpmyadmin, localhost, database setup, 7-zip]
 ---
 
 <p>Once you’ve <a href="/blog/install-xampp/">installed XAMPP</a>, <a href="http://www.mediawiki.org/wiki/Download">download MediaWiki</a> and unzip it into your xampp/htdocs folder. You may need <a href="http://7-zip.org/">7-Zip</a> to extract tar.gz files. Rename the mediawiki folder to wiki.</p> <p>You’ll first need to create a database, which you can do by visiting <a href="http://localhost/phpmyadmin/">/phpmyadmin/</a> on your localhost, typing in the database name and pressing ‘Create’.</p> <p>Now go to <a href="http://localhost/wiki/">/wiki/</a> and fill out the form. Make sure you select “Use superuser account” since you haven’t really created a user for your database.</p> <p>Click on the “Install Mediawiki” button, and you should have a wiki.</p> <p><object width="600" height="475"><param name="movie" value="http://www.youtube.com/v/tEakNApBTeg&amp;hl=en_GB&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/tEakNApBTeg&amp;hl=en_GB&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="600" height="475"></embed></object></p>

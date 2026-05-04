@@ -4,6 +4,8 @@ date: "2006-08-22T12:00:00Z"
 categories:
   - links
 wp_id: 254
+description: Review essential truths and myths of software development, including the 28x productivity gap, the high cost of maintenance, and why software estimation often fails due to poor timing and incorrect stakeholders.
+keywords: [software engineering, robert glass, software estimation, software maintenance, productivity, code reuse, software testing]
 ---
 
 [Facts in Software Engineering](http://www.informit.com/articles/article.asp?p=30091&rl=1)

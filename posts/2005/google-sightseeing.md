@@ -4,6 +4,8 @@ date: "2005-04-08T12:00:00Z"
 categories:
   - links
 wp_id: 672
+description: I highlighted Google Sightseeing, a tool for exploring the United States through satellite imagery. This early look at Google Maps also points to Flickr communities like 'memory maps' for finding interesting geographical landmarks and crowdsourced visual data.
+keywords: [google maps, satellite imagery, google sightseeing, flickr, geospatial, memory maps]
 ---
 
 [Google sightseeing](http://www.shreddies.org/gmaps/). See the US through Google Maps satellite images.

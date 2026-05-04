@@ -4,6 +4,8 @@ date: "2006-12-13T12:00:00Z"
 categories:
   - links
 wp_id: 163
+description: I shared a couple of photos taken from my office window in Canary Wharf, London, during late 2006. The images capture the dense, busy urban landscape of the financial district from a high-rise perspective.
+keywords: [canary wharf, london, photography, cityscape, office view, urban landscape]
 ---
 
 [![2006-11-29 08 Canary Wharf](https://files.s-anand.net/images/2006-11-29-08-canary-wharf_321652021.webp)](https://files.s-anand.net/images/2006-11-29-08-canary-wharf_321652021.webp)

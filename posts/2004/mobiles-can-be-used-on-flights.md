@@ -4,6 +4,8 @@ date: "2004-04-12T12:00:00Z"
 categories:
   - links
 wp_id: 858
+description: Mobile phones are banned on flights primarily to prevent ground network disruption, not because they interfere with cockpit electronics. Rapidly moving aircraft cause phones to hop base stations too quickly, which can befuddle cellular networks below.
+keywords: [aviation, mobile networks, avionics, cellular technology, base stations, radio interference]
 ---
 
 [Phones **can** be used on flights](http://www.economist.com/business/displayStory.cfm?story_id=2559174). (from The Economist. Requires subscription)

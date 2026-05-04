@@ -4,6 +4,8 @@ date: "2006-11-29T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 173
+description: I used a spreadsheet to select the Fuji Finepix S5600 based on low-light performance and RAW support. I found that megapixels matter less than shutter control, though handling Fuji's proprietary RAF files required using a DNG converter.
+keywords: [fuji finepix s5600, digital photography, raw mode, shutter speed, low-light photography, raf files, dng converter]
 ---
 
 My digital camera conked off. The cover that holds the battery fell off, and I can't use it any more.

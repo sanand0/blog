@@ -4,6 +4,8 @@ date: "2002-11-17T12:00:00Z"
 categories:
   - links
 wp_id: 1038
+description: I shared a witty exchange between Albert Einstein and a young girl who mistakenly thought he lived in the 18th century. Einstein’s response offers a charming glimpse into his humor regarding his own mortality.
+keywords: [albert einstein, correspondence, archival letters, humor, new york times, children]
 ---
 
 Cute [letters to Einstein from kids](http://www.nytimes.com/2002/11/16/arts/design/16TANK.html).

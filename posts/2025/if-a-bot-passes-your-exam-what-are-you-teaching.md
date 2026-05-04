@@ -7,6 +7,8 @@ categories:
   - education
   - llms
 wp_id: 4249
+description: After using Codex CLI to automate my impossible coding exam, I realized I must shift from evaluating final code to assessing how students plan, debug, and manage agent-driven workflows using tool execution logs.
+keywords: [coding agents, llms in education, codex cli, assessment design, software engineering, prompt engineering]
 ---
 
 ![If a bot passes your exam, what are you teaching?](/blog/assets/calvin-hobbes-exam.webp)

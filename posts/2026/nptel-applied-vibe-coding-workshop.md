@@ -5,6 +5,8 @@ categories:
   - llms
   - coding
   - education
+description: I summarize my NPTEL workshop on vibe coding, sharing over thirty lessons on building apps via natural language. I cover practical prompt frameworks, iterative workflows, and security frameworks like Simon Willison's 'lethal trifecta' for AI development.
+keywords: [vibe coding, prompt engineering, llms, lethal trifecta, nptel, software development]
 ---
 
 For those who missed my [Applied Vibe Coding Workshop](https://elearn.nptel.ac.in/shop/iit-workshops/ongoing/computer-science/applied-vibe-coding-workshop/) at NPTEL, here's the video:

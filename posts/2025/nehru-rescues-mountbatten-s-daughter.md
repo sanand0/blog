@@ -4,6 +4,8 @@ categories:
   - llms
   - funny
   - linkedin
+description: I used Nano Banana Pro to create a funny sketch note about Indian Independence Day and discovered Nehru once rescued Mountbatten's daughter from a crowd. The AI's historical grounding and perfect spelling in visual output were particularly impressive.
+keywords: [nano banana pro, indian independence day, jawaharlal nehru, sketch notes, generative ai, history]
 ---
 
 I didn't know that Nehru rescued Mountbatten's daughter from the crowd when hoisting the flag on Independence Day (1947).

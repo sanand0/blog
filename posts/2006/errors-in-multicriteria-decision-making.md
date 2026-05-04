@@ -4,6 +4,8 @@ date: "2006-10-09T12:00:00Z"
 categories:
   - business-realities
 wp_id: 186
+description: I realized my multi-criteria decision-making models were flawed because they compared incomparable metrics on spidergraphs. I now favor removing irrelevant criteria, filtering for acceptable levels, and using fast and frugal heuristics or decision trees.
+keywords: [mcdm, spidergraphs, decision trees, fast and frugal heuristics, heuristics, decision making]
 ---
 
 I talked about my [approach for multicriteria decision-making](/blog/multicriteria-decision-making/), and mentioned that it was fundamentally flawed. Here's why.

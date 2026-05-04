@@ -4,6 +4,8 @@ date: "2001-06-10T12:00:00Z"
 categories:
   - chat-transcripts
 wp_id: 1797
+description: I helped an 18-year-old from Texas navigate his crush on an Indian girl named Geeta. Through our chat, I translated Hindi phrases, explained Gujarati surnames, and discussed the concepts of Karma and the Bhagavad Gita to help him connect with her culture.
+keywords: [hindi translation, chat transcript, indian culture, gujarat, karma, bhagavad gita, patel, cross-cultural dating]
 ---
 
 I help a guy in Texas propose to his love in Hindi. (I'm root\_node)

@@ -2,6 +2,8 @@
 title: Love in Texas
 date: "2009-02-19T15:40:55Z"
 wp_id: 10
+description: I wrote this story based on a friend's real encounter at a US visa consulate. It tracks Kumar and Sukanya from a chance meeting in India to a surprising reunion in Austin, Texas, blending collegiate romance with arranged marriage tropes.
+keywords: [fiction, short story, visa consulate, texas austin, iit, romance, arranged marriage]
 ---
 
 Kumar first saw her at the US Consulate while waiting in the queue for his visa. He had definite opinions about what his wife should look like, and she fit perfectly. "She's not too tall," he later told his friends. "Just about this tall," and indicated his neck. "Quite fair. Brown eyes. Sharp nose and high cheek bones. A really cute face. No, not a bob-cut. Short hair, and she pins it up like a bun. Usually wears salwars. Today she was wearing a yellow and green. Why don't you come to the Consulate in the afternoon? She'll still be waiting in the queue just behind me - the poor thing!"

@@ -5,6 +5,8 @@ categories:
   - coding
   - how-i-do-things
 wp_id: 2495
+description: I built a scraper for the John Lewis website to generate a MediaRSS feed for Cooliris. It enables a visual shopping experience that is especially helpful when you do not know the specific name of a product.
+keywords: [cooliris, mediarss, web scraping, john lewis, ecommerce, visual search]
 ---
 
 [![John Lewis jackets scrolling on CoolIris plugin](/blog/assets/johnlewis1.webp "John Lewis jackets scrolling on CoolIris plugin")](/blog/assets/johnlewis1.webp)

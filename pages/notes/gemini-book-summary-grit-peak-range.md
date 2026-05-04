@@ -3,6 +3,8 @@ title: "Gemini: Book summary: Grit, Peak, Range"
 date: 2026-01-22T22:05:01+05:30
 source: "https://gemini.google.com/u/2/app/f6756cca3a258d92"
 build: { list: never, render: always }
+description: I synthesized and fact-checked seven key books on talent and performance, from Duckworth's Grit to Grant's Hidden Potential. Learn why early specialization is a trap and how "deep practice" actually re-wires your brain for mastery.
+keywords: [grit, deliberate practice, growth mindset, range, talent, myelin, motivation, book summary]
 ---
 
 ## User

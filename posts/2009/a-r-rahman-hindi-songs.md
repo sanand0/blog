@@ -5,6 +5,8 @@ lastmod: "2025-01-25T02:40:08Z"
 categories:
   - quizzes
 wp_id: 2326
+description: I built an interactive quiz featuring fifteen musical interludes from A.R. Rahman’s Hindi film songs. Test your Bollywood knowledge by identifying the movies; the embedded app provides instant feedback as you type the correct titles.
+keywords: [ar rahman, bollywood, hindi songs, music quiz, film music, interludes]
 ---
 
 <p>By popular demand, here are interludes from 15 Hindi songs of A R Rahman. Can you guess which <b>movie</b> they are from?</p>

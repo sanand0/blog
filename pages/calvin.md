@@ -1,3 +1,8 @@
+---
+description: I built this interactive search tool for Calvin & Hobbes quotes using Fuse.js and CSS. It lets you quickly find specific comic strips by keywords like 'homework' or 'transmogrifier' and view the original art in a custom stage.
+keywords: [calvin and hobbes, fuse.js, quote search, comic strips, search interface, bill watterson]
+---
+
  ---
 title: Calvin & Hobbes Quote Search
 build: { list: never, render: always }

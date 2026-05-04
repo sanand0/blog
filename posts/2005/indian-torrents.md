@@ -5,6 +5,8 @@ lastmod: "2009-09-05T09:58:39Z"
 categories:
   - my-best-links
 wp_id: 658
+description: I've curated a collection of top resources for finding Indian torrents, specifically targeting Tamil and Hindi movies. My list includes active sites like TamilTorrents, TMSTorrents, and DesiTorrents, alongside a custom Google search for broader results.
+keywords: [indian torrents, tamil movies, hindi movies, desitorrents, tamiltorrents, bwtorrents, tmstorrents]
 ---
 
 <p>There are a fair number of <a href="http://www.google.com/search?q=tamil+torrent">Tamil torrent</a> and <a href="http://www.google.com/search?q=hindi+torrent">Hindi torrent</a> sites. <a href="http://www.tamiltorrents.net/">TamilTorrents.net</a> and <a href="http://www.tmstorrents.com/">TMSTorrents.com</a> look good for Tamil, and <a href="http://www.desitorrents.com/">DesiTorrents.com</a> (<a href="http://www.google.com/blogsearch?q=desitorrent+invites&amp;scoring=d">search for invites</a>) &amp; <a href="http://bwtorrents.com">bwtorrents.com</a> for Hindi. I've collected a bunch of <a href="http://www.google.com/coop/cse?cx=000835481400639045115%3Ae86_ywfdqic">sites that have Indian torrents</a>.</p>

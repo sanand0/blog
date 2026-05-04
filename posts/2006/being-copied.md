@@ -4,6 +4,8 @@ date: "2006-04-17T12:00:00Z"
 categories:
   - links
 wp_id: 353
+description: Starting a startup on an easy-to-copy idea is still worth it because competitors are slow to notice, slow to implement, and prone to execution errors. Your continuous innovation keeps you ahead as a moving target.
+keywords: [startups, competitive strategy, innovation, execution, idea validation, paul graham]
 ---
 
 It's worth starting a startup based on an idea [even if it is easy to copy](http://paulgraham.infogami.com/blog/copy).

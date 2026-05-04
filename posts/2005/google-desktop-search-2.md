@@ -4,6 +4,8 @@ date: "2005-08-24T12:00:00Z"
 categories:
   - links
 wp_id: 575
+description: I tried Google Desktop Search 2 and appreciated the search-as-you-type functionality and the new sidebar for email and RSS. However, the background indexing process was still as slow as the previous version.
+keywords: [google desktop search 2, desktop search, search-as-you-type, sidebar, rss reader, indexing]
 ---
 
 I installed [Google Desktop Search 2](http://desktop.google.com/). The best part is "search as you type". It also introduces a sidebar showing e-mail, RSS feeds, news, photos, popular searches, etc. The indexing is much faster too. (I take that back. Indexing is as slow as ever.)

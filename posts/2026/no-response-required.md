@@ -5,6 +5,8 @@ categories:
   - llms
   - funny
 classes: wrap-code
+description: I shared a funny interaction where Gemini 3 Pro overthinks my 'no response required' instruction. Its extensive internal reasoning about social protocols and minimal interaction is a hilarious look into LLM chain-of-thought logic.
+keywords: [gemini, chain of thought, llm behavior, prompting, ai humor, artificial intelligence]
 ---
 
 I asked Gemini 3 Pro to:

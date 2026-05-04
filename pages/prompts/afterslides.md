@@ -3,6 +3,8 @@ title: Create an FAQ-style slide deck from a transcript
 date: "2025-09-20T09:27:45Z"
 lastmod: "2025-11-03T03:44:45Z"
 classes: wrap-code
+description: I use this prompt to transform messy talk transcripts into structured FAQ-style slide decks. It applies the Pyramid Principle for declarative headings and includes automated sections for fact-checking, quizzes, and counterpoints to ensure technical accuracy.
+keywords: [llm prompts, transcript summarization, pyramid principle, markdown, slide deck generation, content annotation]
 ---
 
 Annotate transcripts with section summaries, creating FAQ-style slides from talks / AMAs.

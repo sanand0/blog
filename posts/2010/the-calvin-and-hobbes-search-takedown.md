@@ -6,6 +6,8 @@ categories:
   - business-realities
   - how-i-do-things
 wp_id: 2514
+description: I spent years hand-transcribing every Calvin and Hobbes strip to build a searchable text index. After a massive traffic spike from Reddit and MetaFilter, I received a copyright takedown notice and had to remove the archive.
+keywords: [calvin and hobbes, search engine, transcription, copyright, takedown notice, united media]
 ---
 
 Eight years ago, I started typing out each of the Calvin and Hobbes strips by hand. Four years ago, I set up a site that let people search for strips. Early this month, I was asked to take it down.

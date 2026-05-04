@@ -4,6 +4,8 @@ date: "2006-02-10T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 400
+description: I conducted a blind listening test comparing CD audio to 64kbps MP3s using headphones. Since even a good ear couldn't distinguish between them, I recommend re-encoding your music at lower bitrates to maximize storage space on portable players.
+keywords: [mp3, bitrate, audio compression, blind test, listening test, storage optimization]
 ---
 
 At what bitrate should you encode your MP3 files? [Listening tests](http://www.mp3-tech.org/tests/gb/index.html) show that at 256kbps, you can't tell the difference. But that's with 2 amplifiers and big speakers. What about headphones?

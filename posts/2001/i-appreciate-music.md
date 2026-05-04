@@ -4,6 +4,8 @@ date: "2001-12-20T12:00:00Z"
 categories:
   - chat-transcripts
 wp_id: 1506
+description: I encountered a user in a Yahoo Chat room streaming high-quality music from Durban. I chatted with him about his band and sister’s singing, though I suspected they were just playing recorded albums while I offered polite feedback.
+keywords: [yahoo chat, durban, online music, chat transcripts, south africa, internet culture]
 ---
 
 I was scouring various chat rooms on Yahoo, when I hear music stream down one of the Mumbai chat rooms. It looked like fairly professional music. Quite nice. After a while, a message came on the the chat room...

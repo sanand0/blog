@@ -3,6 +3,8 @@ date: "2025-11-15T00:00:00Z"
 categories:
   - linkedin
   - llms
+description: I used the Claude Code agent to search 24,000 Wikipedia entries for names starting and ending with "AI." In ten minutes, I identified ten individuals, including Aishwarya Rai and Ai Nagai, through automated pattern matching and scripting.
+keywords: [claude code, wikipedia, pattern matching, llm automation, coding agents, data extraction]
 ---
 
 When I realized **Ai**shwarya R**ai** begins and ends with AI, I _had_ to find out if there were more like her.

@@ -4,6 +4,8 @@ date: "2014-08-17T16:23:56Z"
 categories:
   - funny
 wp_id: 2868
+description: I've curated a selection of Calvin and Hobbes comic strips that illustrate why I feel so much sympathy for Miss Wormwood. These panels highlight the exhaustion and patience required to handle Calvin’s disruptive imagination and relentless classroom antics.
+keywords: [calvin and hobbes, miss wormwood, bill watterson, comic strips, classroom humor, teaching]
 ---
 
 It's hard not to feel sorry for Miss Wormwood.

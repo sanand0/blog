@@ -4,6 +4,8 @@ date: "2001-02-10T12:00:00Z"
 categories:
   - interviews
 wp_id: 1997
+description: I compiled placement interview tips from Prof. Vijay Kumar, focusing on high-impact questions about revenue per employee, salary structures, and consultant evaluation metrics. These tactics help candidates evaluate company health and demonstrate logical thinking during recruitment.
+keywords: [interview preparation, consulting, job placements, revenue per employee, cost-to-company, career advice]
 ---
 
 Prof. [Vijay Kumar](mailto:vkumar002@yahoo.com) was kind enough to give us hints on how to prepare for placements.

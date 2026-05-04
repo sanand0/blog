@@ -4,6 +4,8 @@ date: "2003-10-22T12:00:00Z"
 categories:
   - links
 wp_id: 878
+description: I analyzed the economics of Apple’s partnership with Pepsi, which offered 100 million free song downloads. I considered royalty costs versus marketing value, concluding it was a brilliant strategic move by Steve Jobs to drive iTunes adoption.
+keywords: [itunes, apple, pepsico, marketing strategy, steve jobs, digital music]
 ---
 
 [PC iTunes hits 1 million downloads](http://edition.cnn.com/2003/TECH/biztech/10/21/apple.itunes.reut/).

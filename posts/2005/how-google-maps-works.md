@@ -4,6 +4,8 @@ date: "2005-02-10T12:00:00Z"
 categories:
   - links
 wp_id: 752
+description: I examine the original technical implementation of Google Maps, which utilized hidden IFrames for server communication rather than XMLHttp. The system also leveraged 8-bit alpha channel PNGs to render realistic shadows for map markers and popups.
+keywords: [google maps, iframe, xmlhttp, javascript, png, alpha transparency, web development]
 ---
 
 [How Google Maps works](http://jgwebber.blogspot.com/2005/02/mapping-google.html): a look behind the Javascript of Google Maps.

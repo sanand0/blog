@@ -4,6 +4,8 @@ date: "2001-01-22T12:00:00Z"
 categories:
   - links
 wp_id: 1954
+description: Compare conflicting international rulings on the legality of linking to copyrighted MP3s. Sweden permits links to foreign servers, while jurisdictions like France and Utah view such links as potential copyright infringement or legal violations.
+keywords: [cyberlaw, mp3, copyright infringement, hyperlink legality, internet law, intellectual property]
 ---
 
 Sweden has [ruled](http://slashdot.org/yro/99/12/28/0814212.shtml) that it's OK to have links to illegal MP3s, so long as the server is in a country where illegal MP3s are legal. That's in stark contrast with [France vs Yahoo](http://www.zdnet.com/intweek/stories/news/0,4164,2656099,00.html). In fact, the norm is that linking even to the front page of commercial sites [needs permission](http://www.llrx.com/features/weblink1.htm) sometimes. A court in Utah [ruled](http://www.cnn.com/1999/TECH/computing/12/13/illegal.links.idg/) that providing links to copyrighted material could constitute copyright infringement. Better check out [cyberlaws](http://law.about.com/newsissues/law/msub34.htm?once=true&) and ensure compliance with [copyright rules on the Internet](http://www.fplc.edu/tfield/cOpyNet.htm).

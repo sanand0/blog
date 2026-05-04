@@ -3,6 +3,8 @@ date: "2025-11-23T00:00:00Z"
 categories:
   - funny
   - linkedin
+description: I received a translated Calvin and Hobbes comic in Tamil from Pratap Vardhan as a birthday gift. It is my favorite gift this year, highlighting a creative linguistic adaptation of the classic comic strip.
+keywords: [calvin and hobbes, tamil, translation, pratap vardhan, birthday gift, comics]
 ---
 
 Thanks Pratap Vardhan -- this was my best birthday gift this year!

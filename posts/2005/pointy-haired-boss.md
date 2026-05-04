@@ -4,6 +4,8 @@ date: "2005-02-14T12:00:00Z"
 categories:
   - links
 wp_id: 748
+description: I found an analysis using wage report data to show why the "Pointy Haired Boss" is a mathematical certainty. The massive, high-paying "General and operations managers" category lacks strict hiring criteria, inevitably leading to Dilbert-style management.
+keywords: [management, labor statistics, dilbert, career paths, corporate hierarchy, wage data]
 ---
 
 [Why Your Pointy Haired Boss Is A Mathematical Certainty](http://marktaw.com/blog/PointyHairedBoss.html).

@@ -4,6 +4,8 @@ date: "2005-04-06T12:00:00Z"
 categories:
   - links
 wp_id: 677
+description: 'Follow these tips for a perfect shave: keep your face wet with hot water, use a shaving brush, and switch to a double-edged safety razor for the best results and minimal skin irritation.'
+keywords: [shaving, safety razor, grooming, shaving brush, wet shaving, double-edged razor]
 ---
 
 [How to get that perfect shave](http://www.msnbc.msn.com/id/6886845/).

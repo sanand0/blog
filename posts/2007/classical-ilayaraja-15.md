@@ -4,6 +4,8 @@ date: "2007-02-11T12:00:00Z"
 categories:
   - classical-ilayaraja
 wp_id: 116
+description: I analyze how Ilayaraja and AR Rahman interpret raagas like Dharmavathi and Shanmukhapriya in film music. Beyond musicology, I reflect on the cycles of creative influence and the necessity of humility in the face of artistic legacy.
+keywords: [ilayaraja, ar rahman, dharmavathi, shanmukhapriya, carnatic music, film music, simhendra madhyamam, sivaranjani]
 ---
 
 > This is the 15th of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

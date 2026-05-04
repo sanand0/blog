@@ -4,6 +4,8 @@ date: "2005-06-30T12:00:00Z"
 categories:
   - links
 wp_id: 622
+description: I’m exploring the newly released, free version of Google Earth. It features impressive satellite imagery where you can tilt the view to fly through city skylines and find your own home, much like a real-life SimCity.
+keywords: [google earth, satellite imagery, gis, google earth hacks, 3d visualization, mapping]
 ---
 
 [Google Earth](http://earth.google.com/) released. It's free. Related links: [Google Earth Hacks](http://www.googleearthhacks.com/)

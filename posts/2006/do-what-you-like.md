@@ -4,6 +4,8 @@ date: "2006-06-26T12:00:00Z"
 categories:
   - links
 wp_id: 287
+description: I highlight Fred Gratzon’s advice on pursuing work you love. By focusing on projects that spark genuine enthusiasm and learning what you enjoy, you can find your calling and trust that the financial results will follow.
+keywords: [fred graton, career advice, intrinsic motivation, calling, passion, work philosophy]
 ---
 
 Fred Gratzon's [advice on work](http://lazyway.blogs.com/lazy_way/2006/06/your_calling_an.html)

@@ -5,6 +5,8 @@ lastmod: "2025-01-25T02:40:06Z"
 categories:
   - quizzes
 wp_id: 2758
+description: I put together a quiz featuring recent Tamil songs from 2012. Listen to the clips and guess the movie. I designed the interface to accept phonetic spellings, so the box turns green as soon as you're right.
+keywords: [tamil songs, movie quiz, kollywood, interactive quiz, phonetic spelling, tamil cinema]
 ---
 
 <p>After a long break, here's another quiz, featuring relatively recent Tamil songs. Can you guess which <strong>movie</strong> they are from?</p>

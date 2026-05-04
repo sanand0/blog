@@ -4,6 +4,8 @@ date: "2009-05-20T05:15:32Z"
 categories:
   - links
 wp_id: 2376
+description: I share notes on focusing on employee strengths rather than weaknesses, using the Google Analytics API for tracking events and error logs, and the proliferation of sandbox environments within Google’s developer ecosystem.
+keywords: [google analytics api, sandbox environments, performance management, web metrics, event tracking, javascript error logging, google checkout]
 ---
 
 I'm quite busy on a project right now, and don't get time to write long articles. So for a while, I'm going to stick to short notes on interesting stuff.

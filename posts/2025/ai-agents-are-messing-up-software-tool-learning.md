@@ -3,6 +3,8 @@ date: "2025-12-23T05:36:05Z"
 categories:
   - llms
   - linkedin
+description: I found AI agents collapse the traditional know-learn-execute workflow. Using Claude to generate complex ffmpeg audio visualizations, I bypassed learning syntax entirely, shifting to an 'execute first' model that challenges how we teach software tools.
+keywords: [ai agents, claude, ffmpeg, learning models, software mastery, audio visualization]
 ---
 
 AI agents are messing up software tool learning.

@@ -5,6 +5,8 @@ lastmod: "2011-02-24T19:02:41Z"
 categories:
   - diary
 wp_id: 2605
+description: I watched The Social Network and was surprised by how much I enjoyed it. I appreciated the realistic Perl code and fast-paced dialogue, ultimately finding personal connections to Mark Zuckerberg's character despite my initial jealousy.
+keywords: [the social network, mark zuckerberg, perl, film review, programming culture]
 ---
 
 4:00pm. Just started watching The Social Network. I'm fairly sure I won't like the film, mostly because I'll be jealous of Mark.

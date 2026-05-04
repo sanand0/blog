@@ -4,6 +4,8 @@ date: "2006-01-05T12:00:00Z"
 categories:
   - my-best-links
 wp_id: 438
+description: I'm sharing a concise guide to learning theory for anyone training users or designing educational content. Use these principles to create better instructional experiences and help your audience master complex new skills more effectively.
+keywords: [learning theory, instructional design, user training, education, skill acquisition, pedagogy]
 ---
 
 [A crash course in learning theory](http://headrush.typepad.com/creating_passionate_users/2006/01/crash_course_in.html).

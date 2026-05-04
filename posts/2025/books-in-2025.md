@@ -6,6 +6,8 @@ categories:
   - top-10-lists
 tags:
   - book
+description: I read 51 books in 2025, primarily using AI summarization to process 44 titles in a single week. My highlights include Bert Hölldobler’s The Ants and Brandon Sanderson’s Wind and Truth, alongside deep dives into biology and psychology.
+keywords: [ai summarization, book reviews, brandon sanderson, evolutionary biology, neuroscience, non-fiction]
 ---
 
 ![Books in 2025](https://files.s-anand.net/images/2025-books.webp)

@@ -4,6 +4,8 @@ date: "2006-06-21T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 293
+description: I argue that tools like cut-and-paste and bookmarks create an illusion of knowledge that prevents true understanding. I suggest avoiding these crutches to force yourself to engage deeply and learn in the moment.
+keywords: [learning, cognitive load, productivity, information management, tunnel in the sky, memory]
 ---
 
 [Cut and paste](http://www.roughtype.com/archives/2006/06/cut_and_paste.php) has become easier. So we make less effort to understand. We don't need to. Like when we pay less attention if we're recording a lecture.

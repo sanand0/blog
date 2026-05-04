@@ -4,6 +4,8 @@ date: "2005-10-02T12:00:00Z"
 categories:
   - links
 wp_id: 540
+description: I've shared a link to Richard Feynman's quotes on Wikiquote and recommended the biographical film Infinity. These resources offer a glimpse into the physicist's fascinating life, distinctive philosophy, and his unique approach to scientific discovery.
+keywords: [richard feynman, wikiquote, infinity movie, physics, biography, scientific philosophy]
 ---
 
 [Feynman quotes](http://en.wikiquote.org/wiki/Richard_Feynman). BTW, [Infinity](http://www.imdb.com/title/tt0116635/) -- on the life of Feynman -- would be a good movie to watch.

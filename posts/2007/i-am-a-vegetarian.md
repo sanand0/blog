@@ -4,6 +4,8 @@ date: "2007-01-09T12:00:00Z"
 categories:
   - interesting-experiences
 wp_id: 135
+description: I share my humorous mishaps navigating vegetarianism while traveling abroad, including accidental encounters with chicken, beef, and prawn-flavored snacks. I’ve learned that when it comes to hidden ingredients in foreign food, ignorance is often bliss.
+keywords: [vegetarianism, dietary restrictions, travel anecdotes, food labeling, cultural misunderstandings, accidental meat consumption]
 ---
 
 I am a vegetarian. More out of habit than religion. (I'm not very religious.) What that means, in practice, is that I don't eat non-vegetarian food **knowingly**.

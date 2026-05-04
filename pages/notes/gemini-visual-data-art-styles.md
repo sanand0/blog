@@ -3,6 +3,8 @@ title: "Gemini: Visual data art styles"
 date: 2026-01-22T22:07:41+05:30
 source: "https://gemini.google.com/u/2/app/f9fc55a95d6fecaf"
 build: { list: never, render: always }
+description: I categorized data art by medium and theme before exploring 25 generative styles like flow fields and pixel sorting. This guide details the aesthetics, practitioners, and philosophies of diverse algorithmic visual languages.
+keywords: [data art, generative art, pixel sorting, flow fields, ray marching, data humanism, creative coding, reaction-diffusion]
 ---
 
 ## User

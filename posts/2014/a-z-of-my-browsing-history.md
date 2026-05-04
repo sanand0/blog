@@ -5,6 +5,8 @@ lastmod: "2014-05-11T07:16:41Z"
 categories:
   - top-10-lists
 wp_id: 2859
+description: I share my most frequent websites from A to Z using Chrome’s address bar suggestions. My browsing reveals a mix of data tools like Pandas and Underscore.js, development resources, open data projects, and my penchant for Telugu movies.
+keywords: [chrome, frecency, data science, pandas, underscore.js, web development, open data]
 ---
 
 When you start typing in the address bar, Chrome suggests a link to visit, based on [frecency](http://en.wikipedia.org/wiki/Frecency). What do my recommendations look like?

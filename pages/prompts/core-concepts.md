@@ -3,6 +3,8 @@ title: Core concepts
 date: "2025-09-21T11:44:00Z"
 lastmod: "2025-12-14T12:55:14Z"
 classes: wrap-code
+description: Extract the most useful, non-intuitive, and well-established principles from any domain using this prompt. It focuses on sourcing comprehensively from authoritative texts to identify ten high-impact concepts explained through simple, fact-checked bullet points.
+keywords: [prompt engineering, knowledge distillation, mental models, information synthesis, fact-checking, learning frameworks]
 ---
 
 Distill core concepts from a topic.

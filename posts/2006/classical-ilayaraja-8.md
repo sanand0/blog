@@ -4,6 +4,8 @@ date: "2006-12-29T12:00:00Z"
 categories:
   - classical-ilayaraja
 wp_id: 144
+description: I compare how film composers use the Bhairavi raaga family. While Ilayaraja dominates the Nadabhairavi-based C minor scale, I find his lack of pure Bhairavi compositions surprising, contrastingly highlighting effective uses of Ananda Bhairavi in modern cinema.
+keywords: [ilayaraja, nadabhairavi, bhairavi, ananda bhairavi, carnatic music, a.r. rahman, film music, msv]
 ---
 
 > This is the 8th of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

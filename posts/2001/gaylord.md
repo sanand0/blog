@@ -4,6 +4,8 @@ date: "2001-06-08T12:00:00Z"
 categories:
   - mumbai
 wp_id: 1802
+description: I visited Gaylord in Churchgate with friends, navigating poor service and mixed cocktail reviews. We enjoyed vegetable Au Gratin and Canaloni Indiana after sampling bakery items. Despite frustrations with management, the flavorful food makes it worth revisiting.
+keywords: [mumbai, churchgate, gaylord restaurant, canaloni indiana, vegetable au gratin, paneer alu croquet]
 ---
 
 Amitabh, Xavier and I, after considerable deliberation on the choice of tonight's restaurant, ended up at **Gaylord**, again in the Churchgate area. We sat at one of the tables near the entrance, informed a (relatively young, clean shaven) waiter that we'd like a seat inside ASAP, and we'd have drinks in the meantime. Just to be on the safe side, Xavier confirmed with him that it was OK if we got a seat in-between our drinks and we could take the drinks inside. After a few rounds of explanation, he seemed to get the point, and nodded. But the explanation must have done him more harm than good, because he forgot to make our reservation.

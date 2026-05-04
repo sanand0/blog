@@ -4,6 +4,8 @@ date: "2006-01-18T12:00:00Z"
 categories:
   - links
 wp_id: 419
+description: I discovered that Gmail ignores periods in usernames, so adding dots to your email address doesn't change where messages are delivered. This feature is useful for creating unique address variations for filtering or tracking purposes.
+keywords: [gmail, email address, dots, periods, username, email filtering]
 ---
 
 Apparantly, [it doesn't matter where you put a dot in your gmail address](http://dotnetjunkies.com/WebLog/bharath/archive/2004/08/21/22860.aspx?Pending=true).

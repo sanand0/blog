@@ -4,6 +4,8 @@ date: "2001-09-23T12:00:00Z"
 categories:
   - chat-transcripts
 wp_id: 1644
+description: I chat with a student from Pakistan looking for the "richest" colleges in Mumbai. I recommended institutions like VJTI and Ruparel while discussing hostel availability, rental costs, and religious inclusivity in the city's education system.
+keywords: [mumbai, colleges, vjti, wilson college, ruparel college, chat transcript, student housing]
 ---
 
 I was pretty surprised that this guy wanted to go to the "richest" college in Mumbai. But by the time he asked if they were co-ed, I figured I had to get off quickly...

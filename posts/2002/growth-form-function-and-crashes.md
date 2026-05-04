@@ -4,6 +4,8 @@ date: "2002-10-07T12:00:00Z"
 categories:
   - links
 wp_id: 1108
+description: I examine how scale-free networks evolve naturally to include central hubs, providing robustness against random failures but creating targeted vulnerabilities. These articles from the Santa Fe Institute detail how evolution differs from intentional design.
+keywords: [scale-free networks, santa fe institute, network theory, hubs, complex systems, robustness]
 ---
 
 [Growth, Form, Function, and Crashes](http://www.santafe.edu/sfi/publications/Bulletins/bulletinFall00/features/cosma.html): an article from the Santa Fe institute. It explains scale-free fairly well. The point is, scale-free networks have a few hubs. If you knock a hub out, the network is fragmented. But your chance of knocking a hub out by random is small, since there are so few of them. That makes scale-free networks reliable as well as vulnerable.

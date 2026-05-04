@@ -4,6 +4,8 @@ date: "2006-01-17T12:00:00Z"
 categories:
   - links
 wp_id: 420
+description: I found a guide on hacking wireless networks that explains how to gain access to secure connections and monitor user activity. It covers basic penetration techniques and network surveillance for security enthusiasts.
+keywords: [wireless security, wifi hacking, network sniffing, penetration testing, network surveillance]
 ---
 
 [Hacking wireless networks](http://www.sheerboredom.net/modules.php?name=News&file=article&sid=79). How to get access to secure networks, and how to see what others are doing on their wireless networks.

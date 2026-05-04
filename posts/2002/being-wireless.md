@@ -4,6 +4,8 @@ date: "2002-10-13T12:00:00Z"
 categories:
   - links
 wp_id: 1099
+description: I reflect on Nicholas Negroponte’s observation about the plummeting cost of wireless LAN technology. Since base station prices have dropped from $2,000 to $120, I’ve decided a wireless setup is definitely my next major gadget purchase.
+keywords: [nicholas negroponte, wireless lan, wi-fi, home networking, wired magazine, gadgets]
 ---
 
 [Nicholas Negroponte on "Being Wireless"](http://www.wired.com/wired/archive/10.10/wireless.html).

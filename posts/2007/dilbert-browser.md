@@ -4,6 +4,8 @@ date: "2007-05-11T12:00:00Z"
 categories:
   - funny
 wp_id: 82
+description: I built a simpler way to navigate Al Donovan’s massive archive of Dilbert comics dating back to 1996. My browser interface allows you to flip through daily strips using your keyboard’s left and right arrow keys.
+keywords: [dilbert, web comics, keyboard navigation, archiving, al donovan, user interface]
 ---
 
 [Al Donovan](http://pag.csail.mit.edu/~adonovan/) has created a [Dilbert repository](http://pag.csail.mit.edu/~adonovan/dilbert/) by crawling United Media's site every day since 1996. I've made them a little easier to navigate. [Click here to see the Dilbert Browser](/dilbert.html). Use the **left and right arrow keys** to see the next comic.

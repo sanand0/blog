@@ -3,6 +3,8 @@ title: Review Article / Blog post
 date: "2025-09-01T03:58:55Z"
 lastmod: "2025-10-19T03:07:42Z"
 classes: wrap-code
+description: I built a system prompt that transforms an LLM into a professional blog editor. It critiques style for simplicity, suggests catchy titles, drafts LinkedIn posts, and generates image prompts for humorous single-panel comics.
+keywords: [blog editing, system prompt, writing style, content strategy, ai assistant, linkedin marketing]
 ---
 
 <!-- https://chatgpt.com/c/68d69cb1-adc4-8321-a37c-37150ea13b81 -->

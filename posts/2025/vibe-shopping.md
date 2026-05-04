@@ -6,6 +6,8 @@ categories:
   - how-i-do-things
   - llms
 wp_id: 4213
+description: I use ChatGPT for "vibe shopping," buying everyday items without verifying them. It’s great when I lack the right search terms or want to find extreme products, like the cheapest items per kilogram or most over-engineered kitchen gadgets.
+keywords: [vibe shopping, chatgpt, product research, amazon, llm use cases, e-commerce]
 ---
 
 ![Vibe Shopping](/blog/assets/robot-shopping-cart.webp)

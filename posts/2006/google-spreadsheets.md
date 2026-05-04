@@ -4,6 +4,8 @@ date: "2006-06-08T12:00:00Z"
 categories:
   - links
 wp_id: 300
+description: I received an invite for Google Spreadsheets and was impressed by its AJAX interface. Despite early criticisms about the lack of integration between Google’s web apps, I find tools like Calendar and Notebook increasingly indispensable.
+keywords: [google spreadsheets, ajax, web applications, google calendar, google notebook, saas]
 ---
 
 I got an invite for [Google Spreadsheets](http://spreadsheets.google.com/). Very impressive AJAX interface.

@@ -5,6 +5,8 @@ lastmod: "2013-06-03T07:59:56Z"
 categories:
   - how-i-do-things
 wp_id: 2848
+description: I discovered thousands of automated SSH brute-force attempts on my Amazon EC2 instance, arriving in rhythmic batches from a Chinese IP. It prompted me to reflect on my own history with web scraping and the importance of monitoring server logs.
+keywords: [ssh, amazon ec2, brute-force, web scraping, server security, auth.log]
 ---
 
 I’m not that difficult to scare, and this log message certainly didn’t help:

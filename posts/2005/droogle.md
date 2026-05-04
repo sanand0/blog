@@ -4,6 +4,8 @@ date: "2005-03-24T12:00:00Z"
 categories:
   - links
 wp_id: 702
+description: I shared Droogle, a database for drink recipes. I worked on fixing its XML feed and addressing layout clutter based on reader feedback to improve the search experience for various cocktails and beverages.
+keywords: [droogle, drink recipes, cocktails, mixology, xml feed, beverages]
 ---
 
 [Droogle](http://www.droogle.ca/). Drink recipes.

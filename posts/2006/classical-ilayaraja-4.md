@@ -4,6 +4,8 @@ date: "2006-12-21T12:00:00Z"
 categories:
   - classical-ilayaraja
 wp_id: 152
+description: I examine how Ilayaraja masterfully integrated Raagam Kalyani into film scores without compromising its purity. I review tracks from Uthiri Pookal and Sindhu Bhairavi, contrasting his style with Kunnakudi Vaidyanathan’s classical-commercial approach in Thodi Raagam.
+keywords: [raagam kalyani, ilayaraja, kunnakudi vaidyanathan, carnatic music, tamil cinema, amir kalyani, saranga]
 ---
 
 > This is the fourth of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

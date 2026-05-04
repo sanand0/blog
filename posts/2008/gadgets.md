@@ -5,6 +5,8 @@ lastmod: "2009-03-17T22:22:19Z"
 categories:
   - how-i-do-things
 wp_id: 33
+description: I listed every electronic gadget I bought between 2005 and 2009, from the BlackBerry Curve and Acer Aspire to 16GB SD cards and GPS receivers. It catalogs the specific hardware and peripherals I used during this period.
+keywords: [blackberry curve, htc s620, acer aspire, storage media, digital cameras, gps receivers]
 ---
 
 Some gadgets I've bought / got over the last few years.

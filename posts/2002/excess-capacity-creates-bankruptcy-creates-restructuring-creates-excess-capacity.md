@@ -4,6 +4,8 @@ date: "2002-09-17T12:00:00Z"
 categories:
   - links
 wp_id: 1155
+description: I discuss a thought-piece from The Economist arguing that US bankruptcy laws perpetuate excess capacity. By helping companies shed debt and stay in business instead of exiting, these laws create a cycle of repeated financial failure.
+keywords: [bankruptcy, excess capacity, restructuring, economics, debt, business cycles]
 ---
 
 [![Excess capacity, bankruptcy, restructuring, excess capacity](/blog/assets/flickr-excess-capacity-bankruptcy-restructuring-excess-capacity_24685601_o-gif.webp)](/blog/assets/flickr-excess-capacity-bankruptcy-restructuring-excess-capacity_24685601_o-gif.webp)

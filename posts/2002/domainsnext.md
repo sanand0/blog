@@ -4,6 +4,8 @@ date: "2002-04-25T12:00:00Z"
 categories:
   - links
 wp_id: 1357
+description: I discovered DomainsNext provides cheaper domain registration at $18 versus Namezero's $25 fee. I'm weighing the cost savings against the effort required to switch providers for a one-year registration period.
+keywords: [domainsnext, namezero, domain registration, registrar pricing, web hosting]
 ---
 
 [DomainsNext](http://www.domainsnext.com/) works out cheaper ($18) than [Namezero](http://www.namezero.com) ($25) for a 1-year registration. But is it worth the effort?

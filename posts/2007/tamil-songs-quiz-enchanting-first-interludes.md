@@ -5,6 +5,8 @@ lastmod: "2025-01-25T02:47:20Z"
 categories:
   - quizzes
 wp_id: 68
+description: I built this interactive quiz featuring twenty iconic first interludes from Tamil cinema between the 1980s and 2000s. Challenge yourself to identify the movies from these background scores and enjoy a nostalgic musical journey.
+keywords: [tamil cinema, kollywood, film music, interludes, background scores, music quiz]
 ---
 
 <p>Some background scores just stay in your mind. Here is a tribute to 20 wonderful first interludes, dating from the 1980s to the 2000s. Can you guess which <i>movies</i> they are from? (My intention here is not to make this tough, but rather to let you enjoy the music. So hope to see most of you score 20/20)</p>

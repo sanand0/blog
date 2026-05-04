@@ -5,6 +5,8 @@ lastmod: "2009-03-09T08:21:36Z"
 categories:
   - coding
 wp_id: 2289
+description: I offload web scraping to my visitors' browsers using Yahoo Query Language (YQL) and jQuery. By querying web pages with XPath via JSONP, I can extract data like IMDb recommendations while saving my own server's bandwidth and processing power.
+keywords: [yql, xpath, web scraping, jquery, jsonp, client-side, imdb]
 ---
 
 “Scraping” is extracting content from a website. It’s often used to build something on top of the existing content. For example, I’ve built a site that [tracks movies on the IMDb 250](http://250.s-anand.net/) by scraping content.

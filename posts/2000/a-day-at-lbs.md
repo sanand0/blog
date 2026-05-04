@@ -4,6 +4,8 @@ date: "2000-10-04T12:00:00Z"
 categories:
   - london-2000
 wp_id: 2170
+description: I practiced case interviews with the consulting club at London Business School and attended lectures on the US economy by Andrew Scott and Nick Craft. I also noted the school's newly renovated lecture theatres and unique presentation styles.
+keywords: [london business school, lbs, case interviews, consulting club, andrew scott, nick craft, macroeconomics]
 ---
 
 Well, apparantly LBS has just had its lecture theatres (LTs) newly made! Which is why they look so good, I hear. At least, the Professors keep commenting about how new the LTs are, and how they're unused to it and all that.

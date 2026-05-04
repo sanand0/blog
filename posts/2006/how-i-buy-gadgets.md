@@ -4,6 +4,8 @@ date: "2006-03-26T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 388
+description: I use spreadsheets to decide on gadgets by filtering features against my actual usage and calculating economic breakeven points. I even track post-purchase ROI to see which tech was worth the cost and which wasn't.
+keywords: [spreadsheets, breakeven analysis, gadget buying, usage patterns, roi tracking, decision making]
 ---
 
 I'm a cautious gadget freak. I love buying gadgets, but think a lot before buying them. Invariably, I use spreadsheets to help me decide. I try to buy only those gadgets that are right _for me_ at the cheapest possible price, and I look at two things: **features based on usage** and **breakeven**.

@@ -6,6 +6,8 @@ categories:
   - excel-tips
   - visualisation
 wp_id: 206
+description: I demonstrate how to create variwide charts in Excel by repurposing X-Y scatter plots. My video tutorial walks through the specific steps needed to visualize data where both column width and height represent different variables.
+keywords: [excel, variwide chart, x-y scatter plot, data visualization, charting techniques]
 ---
 
 I [mentioned](/blog/visualisation-centralising-improves-productivity/) that it's possible to create variwides using X-Y scatter plots. The video below shows how.

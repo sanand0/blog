@@ -4,6 +4,8 @@ date: "2006-08-21T12:00:00Z"
 categories:
   - business-realities
 wp_id: 257
+description: I’ve applied multicriteria decision making to industry growth and vendor selection using spidergraphs. While it seems systematic to list and weight criteria, I’ve realized this common methodology is actually fundamentally flawed for complex choices.
+keywords: [multicriteria decision making, spidergraphs, radar charts, decision analysis, business strategy, vendor selection]
 ---
 
 **Decisions are usually based on multiple criteria**. You have to trade off between criteria. I've been involved many such decisions over the last 5 years.

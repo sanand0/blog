@@ -5,6 +5,8 @@ lastmod: "2019-12-21T12:58:39Z"
 categories:
   - business-realities
 wp_id: 415
+description: I compared direct and dealer loan channels, discovering that loan size skewed IRR metrics. While both cost Rs 18,500 per contract, the direct channel's fixed-cost structure promised better scalability than the variable-cost dealer channel.
+keywords: [internal rate of return, fixed costs, variable costs, channel economics, direct marketing agents, loan servicing, scalability]
 ---
 
 <p>We were working with the financing subsidiary of a conglomerate. They had two divisions that gave loans for buying vehicles (mostly trucks, but also cars). One division used the <b>direct channel</b>. They had direct marketing agents (DMAs) who were paid a commission for getting the contract, and the division collected the monthly installments. The other used the <b>dealer channel</b>. The dealers would get the contract as well as collect the installments.</p>

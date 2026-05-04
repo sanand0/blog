@@ -4,6 +4,8 @@ date: "2006-03-23T12:00:00Z"
 categories:
   - london-2005
 wp_id: 395
+description: I survived a 30-hour travel nightmare flying from London to Chennai. My journey involved a six-hour delay at Heathrow, boarding pass errors, a missed connection in Mumbai, and a stressful luggage mix-up at the final destination.
+keywords: [air india, heathrow airport, chennai, mumbai, jet airways, flight delays, baggage claim]
 ---
 
 I had declared 30th May 2005 as my [longest day](/blog/longest-day/). Air India proved me wrong. My longest day was 18 Feb 2006.

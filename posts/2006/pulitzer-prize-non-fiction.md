@@ -4,6 +4,8 @@ date: "2006-03-30T12:00:00Z"
 categories:
   - top-10-lists
 wp_id: 383
+description: I’ve curated this list of Pulitzer Prize-winning non-fiction from 1962 to 2005. Inspired by Godel, Escher, Bach and Guns, Germs and Steel, I'm working through the collection, targeting titles like Ants and Dragons of Eden next.
+keywords: [pulitzer prize, non-fiction, reading lists, jared diamond, douglas hofstadter, history books]
 ---
 
 These are the Pulitzer prize winning non-fiction books. I've read only two: Godel, Escher, Bach and Guns, Germs and Steel. These were the very best books I have EVER read. If that's any indication to go by, I want to finish this whole list.

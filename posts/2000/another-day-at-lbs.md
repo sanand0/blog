@@ -4,6 +4,8 @@ date: "2000-10-06T12:00:00Z"
 categories:
   - london-2000
 wp_id: 2168
+description: I balanced home-cooked vatha kozhambu with a day at LBS, where I felt like the slowest typist in the lab. I also navigated multicultural group projects and attended a stylish, insightful recruitment presentation by BCG.
+keywords: [london business school, vatha kozhambu, boston consulting group, team dynamics, consulting careers, study groups]
 ---
 
 We made some **vatha kozhambu** at home this morning. Now, you'll have to take my word for it, because we ourselves weren't very convinced. But it was hot. It was thick. And though it had too much tamarind, it tasted great (or so we say). After that heavy bruch, it was time for LBS.

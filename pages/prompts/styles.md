@@ -3,6 +3,8 @@ title: Styles
 date: 2025-11-16T11:18:02Z
 lastmod: 2026-01-08T13:45:20+08:00
 classes: wrap-code
+description: I compiled this reference of developer, author, and publication styles to help AI agents emulate specific voices. Use these profiles as prompts to generate more distinctive code, technical writing, or visual data art.
+keywords: [prompt engineering, ai agents, coding styles, literary personas, persona emulation, reference catalog]
 ---
 
 <!-- https://chatgpt.com/c/691fbb53-d00c-8322-b115-68ddf245ea76 -->

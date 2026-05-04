@@ -4,6 +4,8 @@ date: "2007-01-10T12:00:00Z"
 categories:
   - simple-explanations
 wp_id: 133
+description: I show how to use Excel's CUMPRINC and PPMT functions to calculate the actual principal outstanding on a loan. I also explain why remaining balances are often higher than expected due to interest-heavy early payments.
+keywords: [cumprinc, ppmt, ipmt, excel formulas, loan amortization, emi, basel 2]
 ---
 
 > Answer: use the CUMPRINC function in Excel

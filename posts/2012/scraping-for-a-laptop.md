@@ -5,6 +5,8 @@ lastmod: "2019-08-12T06:50:21Z"
 categories:
   - how-i-do-things
 wp_id: 2708
+description: I built a 30-line Python scraper using ScraperWiki to extract detailed laptop specifications from Flipkart after finding that no Indian retail sites allowed filtering by hardware details like hard disk RPM.
+keywords: [web scraping, python, scraperwiki, flipkart, hardware specifications, data extraction]
 ---
 
 I've returned my [laptop](/blog/software-for-my-new-laptop-2/), and it's time to buy a new one. For the first time in my life, I'm buying a laptop for myself.

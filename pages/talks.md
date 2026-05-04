@@ -3,6 +3,8 @@ title: Talks
 date: "2021-03-22T16:32:50Z"
 lastmod: "2025-09-25T11:21:59Z"
 wp_id: 3105
+description: I've been speaking about data and AI since 2011 at events like TEDx and PyCon. I've compiled my talk recordings, slides, and speaker bio here, along with my logistics requirements for interactive demos and honorarium preferences.
+keywords: [data science, artificial intelligence, tedx, pycon, data storytelling, public speaking, interactive demos]
 ---
 
 Since 2011, I've been speaking about data & AI at events & organizations.

@@ -4,6 +4,8 @@ date: "2011-09-27T18:15:49Z"
 categories:
   - top-10-lists
 wp_id: 2688
+description: I updated my essential software list for a new laptop, moving toward browser-based tools, Cygwin, and Portable Apps. I’ve replaced heavy IDEs with Sublime Text 2 and added power utilities like AutoHotKey, ClipX, and R.
+keywords: [portable apps, cygwin, sublime text, autohotkey, r, data visualization, python, windows utilities]
 ---
 
 Time for a new [laptop](http://us.toshiba.com/computers/laptops/portege/r700/), and to [replace software](/blog/software-for-my-new-laptop/). Here’s my new list.

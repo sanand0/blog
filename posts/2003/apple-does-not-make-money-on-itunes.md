@@ -4,6 +4,8 @@ date: "2003-11-07T12:00:00Z"
 categories:
   - links
 wp_id: 877
+description: I examine how Apple's iTunes business model transitioned from a break-even service meant to drive iPod sales into a profitable platform. By renegotiating credit card fees and music label agreements, Apple eventually secured margins of roughly ten cents per song.
+keywords: [itunes, apple business model, riaa, credit card processing, digital music sales, ipod ecosystem]
 ---
 
 However, [Apple doesn't make money on iTunes](http://www.theregister.co.uk/content/6/33850.htm). It goes to the RIAA and credit card companies.

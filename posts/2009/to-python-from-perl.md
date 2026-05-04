@@ -5,6 +5,8 @@ lastmod: "2009-03-09T08:26:52Z"
 categories:
   - coding
 wp_id: 16
+description: I switched from Perl to Python to escape closing braces and embrace significant whitespace. I now select languages based on libraries like BeautifulSoup and PIL, using Project Euler to master Python features like generators.
+keywords: [python, perl, project euler, beautifulsoup, python imaging library, generators, programming syntax]
 ---
 
 I've recently switched to Python, after having programmed in Perl for many years. I'm sacrificing all my knowledge of the libraries and language quirks of Perl. The reason I moved despite that is for a somewhat trivial reason, actually. It's because Python doesn't require a closing brace.

@@ -4,6 +4,8 @@ date: "2008-05-29T12:00:00Z"
 categories:
   - coding
 wp_id: 51
+description: I analyzed text editors like Crimson Editor and Notepad++ based on my needs for column editing, Unicode support, and responsiveness. While no single tool hits every mark, I currently juggle multiple editors to get work done.
+keywords: [crimson editor, notepad++, column editing, unicode support, text editors, syntax highlighting, auto-completion]
 ---
 
 <p>It's amazing how hard it is to get a good programming editor. I've played around with more editors/IDEs than I care to remember: <a href="http://en.wikipedia.org/wiki/E_%28text_editor%29">e</a> <a href="http://en.wikipedia.org/wiki/Notepad%2B%2B">Notepad++</a> <a href="http://en.wikipedia.org/wiki/NoteTab">NoteTab</a> <a href="http://en.wikipedia.org/wiki/SciTE">SciTE</a> <a href="http://en.wikipedia.org/wiki/Crimson_Editor">Crimson Editor</a> <a href="http://en.wikipedia.org/wiki/ActiveState_Komodo">Komodo</a> <a href="http://en.wikipedia.org/wiki/Eclipse_%28software%29">Eclipse</a> <a href="http://en.wikipedia.org/wiki/Aptana">Aptana</a> ...</p>

@@ -3,6 +3,8 @@ title: Convert notes / tasks to business idea and action plan
 date: "2025-09-01T03:58:55Z"
 lastmod: "2025-09-21T11:44:00Z"
 classes: wrap-code
+description: Use this structured framework to evaluate business ideas against specific goals. It covers industry trends, stakeholder perspectives, mental models like unit economics, and pre-mortems to generate validated go/no-go decisions and resilient action plans.
+keywords: [business evaluation, action planning, mental models, prompt engineering, stakeholder mapping, pre-mortem, unit economics]
 ---
 
 Evaluate a business idea in different ways, recommending a go/no-go decision and action plan.

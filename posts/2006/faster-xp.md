@@ -4,6 +4,8 @@ date: "2006-02-03T12:00:00Z"
 categories:
   - my-best-links
 wp_id: 407
+description: I found a guide for speeding up Windows XP that offers a range of advice from basic practical steps to advanced system tweaks for boosting performance and overall efficiency.
+keywords: [windows xp, performance tuning, os optimization, system speed, windows maintenance, optimization guide]
 ---
 
 [How to make XP run faster](http://www.activehowto.com/how-to/4/11/414.htm). Advice ranges from the very practical to the very advanced.

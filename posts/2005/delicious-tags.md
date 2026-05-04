@@ -4,6 +4,8 @@ date: "2005-04-13T12:00:00Z"
 categories:
   - links
 wp_id: 666
+description: I built a tooltip feature that displays popular del.icio.us tags when hovering over links on my blog. This lets you explore related content on del.icio.us by clicking the tags, and I've fixed display issues in Firefox.
+keywords: [del.icio.us, tags, tooltips, social bookmarking, javascript, firefox]
 ---
 
 If you move the mouse over a link, a popup appears, showing the most popular tags on del.icio.us for the link. Click on the tag to visit all related links on del.icio.us.

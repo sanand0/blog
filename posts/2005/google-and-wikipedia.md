@@ -4,6 +4,8 @@ date: "2005-02-14T12:00:00Z"
 categories:
   - links
 wp_id: 745
+description: I examine Google's donation of infrastructure to Wikipedia, noting potential benefits like testing the Google OS, securing an authoritative knowledge source for search results, and positioning against Microsoft Encarta in the digital encyclopedia space.
+keywords: [google, wikipedia, infrastructure, search engines, encyclopedia, microsoft encarta, distributed systems]
 ---
 
 [Google donates infrastructure to Wikipedia](http://meta.wikimedia.org/wiki/Google_hosting). Possible benefits to Google?

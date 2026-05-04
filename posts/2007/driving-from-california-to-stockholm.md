@@ -4,6 +4,8 @@ date: "2007-03-29T12:00:00Z"
 categories:
   - funny
 wp_id: 97
+description: I found a hilarious Google Maps route from California to Stockholm that suggests swimming 3,462 miles across the Atlantic. It estimates a 29-day trip, though commenters noted the math requires a superhuman swimming pace of 8km/h.
+keywords: [google maps, easter eggs, navigation, humor, atlantic ocean, swimming]
 ---
 
 [![Google Maps directions from California to Stockhom](/blog/assets/flickr-google-maps-directions-from-california-to-stockhom_438853045_o-gif.webp)](/blog/assets/flickr-google-maps-directions-from-california-to-stockhom_438853045_o-gif.webp)

@@ -2,6 +2,8 @@
 title: The Superstar and I
 date: "2009-02-19T15:40:21Z"
 wp_id: 8
+description: I accompanied my husband, Rajnikanth, to IIT Madras to solve a cinematic dilemma. Using modulo arithmetic and the Josephus problem, a student helped him calculate the exact sequence for hitting villains in a complex circular fight scene.
+keywords: [rajnikanth, josephus problem, iit madras, modulo arithmetic, movie stunts, mathematical puzzles, tamil cinema]
 ---
 
 <p>I was watching the shooting from a distance. You must have heard of the film "Muthu" being directed by K.Balachander (he's KB to us). KB was explaining the shot to my husband, but he seemed to be shaking his head in confusion, so I decided to have a look.</p>

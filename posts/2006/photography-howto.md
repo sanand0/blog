@@ -4,6 +4,8 @@ date: "2006-09-04T12:00:00Z"
 categories:
   - links
 wp_id: 235
+description: I found a detailed guide on digital photography techniques and lighting. It offers practical methods for improving your shots, alongside community-recommended resources for further photography tutorials and tips.
+keywords: [photography, digital photography, lighting, photo tutorials, shooting techniques]
 ---
 
 Digital [photography how-to](http://www.dg28.com/technique.html).

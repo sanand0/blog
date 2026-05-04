@@ -4,6 +4,8 @@ date: "2005-12-21T12:00:00Z"
 categories:
   - excel-tips
 wp_id: 455
+description: I streamline Excel debugging by using master SUM functions to catch hidden errors and Trace Error to find them. I lock input areas, use Data Validation, and apply Conditional Formatting to flag incorrect totals or missing data.
+keywords: [excel, debugging, data validation, conditional formatting, sheet protection, trace error]
 ---
 
 **Debugging in Excel** is another time consuming task. 80% of the trouble is identifying the problem (Error? What error? Where?) as opposed to fixing it (Why's THAT cell showing THAT?). Most of my time is spent chasing three kinds of errors: wrong reference (leading to a #N/A or #REF!), wrong data input, or wrong formula.

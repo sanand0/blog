@@ -4,6 +4,8 @@ date: "2005-09-24T12:00:00Z"
 categories:
   - links
 wp_id: 546
+description: Explore Kenneth Arrow's concept of information that is socially useless but privately valuable. In legal contexts, data on judge tendencies helps lawyers win cases without improving justice, creating a zero-sum struggle for a bigger slice of the pie.
+keywords: [kenneth arrow, information theory, legal analytics, zero-sum game, economics, litigation]
 ---
 
 [Better information is not always beneficial](http://online.wsj.com/public/article/0,,SB112734060508547844-4Gx7dIqhluIyFxPiOh2mkB8mXrY_20060922,00.html?mod=blog).

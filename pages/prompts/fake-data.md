@@ -7,6 +7,8 @@ model: ChatGPT
 sources:
   - https://gemini.google.com/app/337be2ffd6ec7d16
   - https://claude.ai/chat/bb3bc604-a782-4ad8-bfdd-6cd7556a73dc
+description: Use this five-step workflow to generate realistic synthetic data by simulating causal interactions and applying a cynical review process. It focuses on creating messy, counter-intuitive datasets that avoid common 'tells' while testing specific, actionable business hypotheses.
+keywords: [synthetic data, data generation, causal simulation, hypothesis testing, data science, prompt engineering]
 ---
 
 Generate realistic fake data for testing hypotheses and analysis.

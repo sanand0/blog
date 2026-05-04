@@ -4,6 +4,8 @@ date: "2006-12-20T12:00:00Z"
 categories:
   - classical-ilayaraja
 wp_id: 156
+description: I examine Ilayaraja’s creative use of raagas like Subhapanthuvarali and Mayamalavagowlai in film scores. I discuss his unique adaptations of the Lalitha and Dhenuka scales, contrasting his prolific output with the works of MSV and other contemporaries.
+keywords: [ilayaraja, carnatic music, subhapanthuvarali, mayamalavagowlai, lalitha raagam, tamil cinema, film music]
 ---
 
 > This is the third of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

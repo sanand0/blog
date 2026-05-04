@@ -6,6 +6,8 @@ categories:
   - how-i-do-things
 wp_id: 2886
 excerpt: Just set up meetings, then cancel them. You'll be doubly happy.
+description: 'I discovered a perpetual motion machine for happiness: scheduling meetings makes me feel productive, while having them cancelled grants me the joy of reclaimed free time. It is my win-win strategy for management and workplace satisfaction.'
+keywords: [meeting management, office humor, productivity, scheduling, workplace culture, time management]
 ---
 
 In my current thrust towards greater management responsibilities, I have discovered a mechanism for generating happiness.

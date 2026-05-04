@@ -4,6 +4,8 @@ date: "2008-08-31T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 40
+description: I analyzed my server logs to discover that bots account for 20% of my traffic. After finding Yahoo Slurp hitting my site every five seconds, I used a crawl-delay to reduce server load and optimize performance.
+keywords: [web crawler, yahoo slurp, googlebot, robots.txt, log analysis, crawl-delay, server traffic]
 ---
 
 <p>One out of every 5 hits to my site is from a <a href="http://en.wikipedia.org/wiki/Internet_bot">bot</a>.</p>

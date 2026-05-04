@@ -4,6 +4,8 @@ date: "2003-04-07T12:00:00Z"
 categories:
   - links
 wp_id: 945
+description: I highlight a curious report about an insider trader claiming to be a time traveler from the future. Although the story gained traction, Snopes confirmed it originated from a satirical tabloid, debunking the viral urban legend.
+keywords: [insider trading, time travel, urban legends, snopes, hoaxes, satire, andrew carlssin]
 ---
 
 Yahoo on a [time traveler busted for insider trading](http://tv.yahoo.com/news/wwn/20030319/104808600007.html). Unfortunately, the [urban legends site denounces it](http://www.snopes.com/humor/iftrue/insider.htm). via Sid

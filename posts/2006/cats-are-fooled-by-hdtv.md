@@ -4,6 +4,8 @@ date: "2006-01-19T12:00:00Z"
 categories:
   - links
 wp_id: 417
+description: I found that my cat completely ignores standard television but is fooled by the realism of HDTV. The higher resolution and visual quality appear to bridge the gap in feline perception compared to lower-quality displays.
+keywords: [cats, hdtv, feline perception, television, visual quality, animal behavior]
 ---
 
 [Cats are fooled by HDTV](http://www.collisiondetection.net/mt/archives/2006/01/why_cats_love_h.html). Our cat tends to ignore normal TV completely. Guess HDTV looks real enough.

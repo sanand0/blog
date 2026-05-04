@@ -4,6 +4,8 @@ date: "2001-06-21T12:00:00Z"
 categories:
   - links
 wp_id: 1780
+description: I’m sharing a tip to find your phone's unique serial number by dialing *#06#. Providing this IMEI to your service provider can block a stolen handset permanently, making it useless to thieves even if they swap the SIM card.
+keywords: [imei, serial number, mobile security, gsm, handset blocking, '*#06#']
 ---
 
 A note from my friend Ashish: "To check your Mobile phone's serial number, key in the following digits on your phone:

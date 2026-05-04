@@ -4,6 +4,8 @@ date: "2005-10-16T12:00:00Z"
 categories:
   - games
 wp_id: 526
+description: I shared Petals Around the Rose, a classic dice-rolling riddle where players must deduce the secret rule for calculating totals. The name provides the crucial hint, though Bill Gates reportedly solved it through brute-force memorization.
+keywords: [petals around the rose, dice games, lateral thinking, pattern recognition, bill gates, riddles]
 ---
 
 [Petals Around the Rose](http://www.borrett.id.au/computing/petals-bg.htm). A simple dice parlour game that Bill Gates apparantly cracked by memorising the sequences.

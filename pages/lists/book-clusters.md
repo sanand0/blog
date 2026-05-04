@@ -1,6 +1,8 @@
 ---
 title: Book Clusters
 date: 2026-01-02T13:52:22+08:00
+description: I organized my reading into thematic clusters to synthesize ideas across related books. By grouping titles on habits, trauma, or leadership, I can use AI to compare, summarize, and fact-check concepts more effectively.
+keywords: [book clusters, reading lists, synthesis, ai summarization, knowledge management, bibliography]
 ---
 
 <!-- https://chatgpt.com/c/69574cca-d100-8321-a489-6b47e1ccdc9c for clustering -->

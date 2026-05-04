@@ -4,6 +4,8 @@ date: "2011-02-27T19:33:36Z"
 categories:
   - top-10-lists
 wp_id: 2611
+description: I used Wakoopa to track my annual software usage and ranked my top 100 tools by time spent. My results show a heavy reliance on Gmail, Notepad++, and Chrome for my daily communication and coding.
+keywords: [wakoopa, software usage, productivity tracking, gmail, notepad++, google chrome, web applications]
 ---
 
 Time for the annual update on software I use. This time, I've got [Wakoopa](http://www.wakoopa.com/) to help me with the relative usage as well. Here’s the top 100 software / web apps I’ve used recently, and how long I spent on them.

@@ -7,6 +7,8 @@ categories:
 tags:
   - book
 wp_id: 351
+description: I created a book quotation quiz featuring 25 literary snippets. Test your knowledge by identifying titles like Harry Potter and The Lord of the Rings; scoring over 10 is impressive. Note the specific formatting rules for title entries.
+keywords: [book quiz, literature, quotations, trivia, harry potter, lord of the rings]
 ---
 
 These are quotes from books. How many titles can you guess? (Case insensitive. Ignore punctuation. So "Hitchhiker's" is "Hitchhikers" without the apostrophe. Don't forget the leading "A" and "The". Harry Potter books begin with "Harry Potter and the...".)

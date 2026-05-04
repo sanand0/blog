@@ -5,6 +5,8 @@ lastmod: "2009-04-12T06:10:13Z"
 categories:
   - coding
 wp_id: 2372
+description: I implemented a simple URL shortening service for my WordPress blog using post IDs and the rev=canonical proposal. By adding a single PHP line and an .htaccess rewrite rule, I eliminated the need for third-party shorteners.
+keywords: [url shortening, wordpress, rev=canonical, .htaccess, php, rewrite rules]
 ---
 
 With [all](http://joshua.schachter.org/2009/04/on-url-shorteners.html) [the](http://laughingmeme.org/2009/04/03/url-shortening-hinting/) [discussion](http://www.scripting.com/stories/2009/03/07/solvingTheTinyurlCentraliz.html) around [URL shorteners](http://en.wikipedia.org/wiki/List_of_URL_redirection_services), [Diggbar](http://digg.com/tools/diggbar), [blocking](http://daringfireball.net/2009/04/how_to_block_the_diggbar) [it](http://farukat.es/journal/2009/04/225-javascript-diggbar-killer-not-blocker), and the [rev](http://revcanonical.appspot.com/)=[canonical](http://twitter.com/kevinmarks/status/1448424167) proposal, I decided to implement a URL shortening service on this blog with the least effort possible. This probably won’t impact you just yet, but when [tools](http://simonwillison.net/2009/Apr/11/revcanonical/) become more popular and sophisticated, it would hopefully eliminate the need for [tinyurl](http://tinyurl.com/), [bit.ly](http://bit.ly/), etc.

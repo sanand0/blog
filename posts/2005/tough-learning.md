@@ -4,6 +4,8 @@ date: "2005-09-09T12:00:00Z"
 categories:
   - my-best-links
 wp_id: 560
+description: I share an insightful speech by Michael Nielsen on the process of deep learning. It argues that a fundamental change in perception is worth 80 IQ points, providing a refreshing take on mastering difficult subjects.
+keywords: [michael nielsen, learning strategies, perception, physics, cognitive growth, education]
 ---
 
 [Tough learning](http://www.qinfo.org/people/nielsen/blog/archive/tough-learning/tough-learning-final.html). Excellent article (speech, actually) by a physicist on how to learn. Very readable, and has a quote I won't forget: "A change of perception is worth 80 IQ points."

@@ -4,6 +4,8 @@ date: "2008-01-14T12:00:00Z"
 categories:
   - business-realities
 wp_id: 60
+description: I reflect on how fear drives the creation of bloated, unread consulting proposals. By admitting ignorance and prioritizing brevity, I argue that "less is more" actually preserves focus and prevents the professional stagnation caused by corporate fluff.
+keywords: [consulting, proposal writing, rfp, corporate culture, brevity, productivity]
 ---
 
 The hours in consulting are pretty long. 65 hours a week used to be my norm, and that's ignoring the travel time to and from work. So there wasn't too much life outside of work. (I've come to realise, though, that what you do outside of work doesn't change that much with more free time. What **does** change is that you just enjoy it more -- both in and out of work.)

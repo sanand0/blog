@@ -4,6 +4,8 @@ date: "2001-06-17T12:00:00Z"
 categories:
   - mumbai
 wp_id: 1786
+description: During a torrential Mumbai rain, I witnessed massive waves crashing over the Marine Drive wall and splashing my taxi. I also lost my umbrella to the intense wind while delivering documents to Malabar Hill.
+keywords: [mumbai, marine drive, monsoon, malabar hill, arabian sea]
 ---
 
 This morning, for the first time, I saw what the waves crash over the rocks on **Marine Drive**. I did see some spray on Friday as we were walking along Marine Drive, but nothing like this. It was raining, and torrentially. The previous evening, my umbrella broke. I was walking out of office, which is directly in front of the sea. The breeze blows towards office. There's no way for the wind to go except through the door. So when I walked out of the door and opened my umbrella, the breeze inverted it, and broke a couple of the rods. It's still usable, but won't stand another strong wind.

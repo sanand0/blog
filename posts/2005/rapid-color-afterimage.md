@@ -4,6 +4,8 @@ date: "2005-06-07T12:00:00Z"
 categories:
   - links
 wp_id: 644
+description: Experience an optical illusion where fixating on a central cross causes rotating magenta patches to leave green afterimages. With steady focus, the original patches disappear entirely, leaving only a single rotating green spot.
+keywords: [optical illusion, afterimage, lilac chaser, magenta, color perception, visual system]
 ---
 
 Michael demonstrates an interesting [Optical illusion](http://www.michaelbach.de/ot/col_rapidAfterimage/index.html).

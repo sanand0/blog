@@ -7,6 +7,8 @@ categories:
 wp_id: 705
 aliases:
   - /blog/added-search-box/
+description: I added a search box to the top of my blog that allows users to search through posts using regular expressions. The feature is implemented entirely with JavaScript, providing a fast and simple filtering method.
+keywords: [search box, regular expressions, javascript, client-side search, blog design, regex search]
 ---
 
 I have introduced a "Search" box near the top. It searches for posts that contain the string (regular expression) you type in that box.

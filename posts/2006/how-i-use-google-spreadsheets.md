@@ -4,6 +4,8 @@ date: "2006-06-28T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 285
+description: I use Google Spreadsheets to sync personal lists for gadgets, movies, and tasks across multiple computers. It replaces emailing notes to myself, providing a central, accessible hub for data at home, the office, and client locations.
+keywords: [google spreadsheets, data synchronization, personal productivity, to-do lists, google docs, cloud storage]
 ---
 
 I work across multiple computers (my office laptop, home laptop, client desktop) on a daily basis.

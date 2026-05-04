@@ -5,6 +5,8 @@ categories:
   - business-realities
   - how-i-do-things
 wp_id: 2555
+description: I share my practical methods for bypassing corporate internet restrictions, including running Portable Apps from USB drives, gaining admin access with password recovery tools, and using SSH tunnels or Google Reader to access blocked sites.
+keywords: [internet filtering, portable apps, ssh tunneling, proxy servers, admin access, password recovery, mirrorrr]
 ---
 
 As promised, here are some tips from the trenches on surviving in prison. (For those who don’t follow my blog, [prison is where your Internet access is restricted](/blog/you-are-in-prison/).)

@@ -4,6 +4,8 @@ date: "2005-08-11T12:00:00Z"
 categories:
   - london-2005
 wp_id: 583
+description: I'm finding the British habit of saying "No" to agree with negative statements quite disorienting. While I expect a "Yeah" to confirm something isn't happening, their literal negation feels like a disagreement during casual conversation.
+keywords: [british english, linguistics, negation, cultural observations, conversational style, pragmatics]
 ---
 
 I need to get used to the British way of responding with "No" when they really agree with you. For example, in response to "The weather's not looking good," I would say "Yeah." The British say "No." (No, it isn't.) It's a bit jarring -- feels like they're disagreeing. For instance,

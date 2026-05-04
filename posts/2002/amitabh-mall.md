@@ -5,6 +5,8 @@ lastmod: "2010-01-17T05:03:32Z"
 categories:
   - links
 wp_id: 1236
+description: I tested my new Fujifilm digital camera by taking a photo of my colleague Amitabh Mall. I discuss his life as a consultant and why I eventually removed the original, unflattering edit of the image at his request.
+keywords: [amitabh mall, fujifilm, digital camera, consulting, photography]
 ---
 
 **Update: There used to be an unflattering (Photoshopped) picture of [Amitabh Mall](http://in.linkedin.com/pub/amitabh-mall/0/56/671) here. It's been taken down on request.**

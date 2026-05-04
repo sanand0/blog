@@ -3,6 +3,8 @@ title: Mutual Fund Analysis
 date: "2025-11-10T08:00:37Z"
 lastmod: "2025-11-10T08:00:37Z"
 classes: wrap-code
+description: I created a systematic approach to selecting mutual funds by analyzing Indian and global macro-economic factors. The method involves screening against specific criteria, evaluating black swan risks, and ranking funds for a three-year investment horizon.
+keywords: [mutual funds, macro-economic analysis, investment screening, black swan events, portfolio management, indian markets]
 ---
 
 Find the best mutual funds to invest in over a 3-year horizon based on macro-economic factors.

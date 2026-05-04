@@ -4,6 +4,8 @@ date: "1999-10-06T12:00:00Z"
 categories:
   - interviews
 wp_id: 2186
+description: I detailed my 1999 Aditya Birla scholarship interview experience at IIM Bangalore. I found the selection process focused on resume points and write-ups, while the star-studded panel asked about Chaos Theory, character, and social impact.
+keywords: [aditya birla scholarship, iim bangalore, mba scholarships, chaos theory, interview questions, cat exam]
 ---
 
 First year students ranking in the top 20 in CAT from each of the IIMs are eligible to apply to this scholarship. It pays for the tuition fee for the two years at IIM-B, and hence is worth about Rs. 2 lakhs.

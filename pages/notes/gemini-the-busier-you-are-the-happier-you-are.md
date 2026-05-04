@@ -3,6 +3,8 @@ title: "Gemini: The busier you are, the happier you are"
 date: 2026-01-22T22:00:38+05:30
 source: "https://gemini.google.com/u/2/app/38b43e08a496ce02"
 build: { list: never, render: always }
+description: I explored international proverbs that equate busyness with happiness, specifically deconstructing the Japanese phrase isogashii hodo shiawase. I uncovered the "death of the heart" hidden in the kanji for busy and the fragile line between joy and pain.
+keywords: [proverbs, etymology, kanji, linguistics, busyness, idioms, japanese, arabic]
 ---
 
 ## User

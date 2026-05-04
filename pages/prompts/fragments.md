@@ -3,6 +3,8 @@ title: Fragments
 date: "2025-11-12T03:04:36Z"
 lastmod: "2025-12-28T16:09:56Z"
 classes: wrap-code
+description: I compiled my most effective prompt fragments for brainstorming, analysis, and creative writing. These snippets include techniques like 'eigenquestions' and 'pre-mortems' to help you get sharper, more professional results from models like Claude, ChatGPT, and Gemini.
+keywords: [prompt engineering, llm snippets, brainstorming, eigenquestions, pre-mortems, ai productivity, claude, chatgpt]
 ---
 
 Prompt fragments useful to add to other prompts

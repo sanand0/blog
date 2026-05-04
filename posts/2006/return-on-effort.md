@@ -4,6 +4,8 @@ date: "2006-12-05T12:00:00Z"
 categories:
   - business-realities
 wp_id: 167
+description: I argue that time is often a scarcer resource than money, making return on effort more important than ROI. I apply Workonomics principles to identify your primary constraint—be it staff, cash, or customers—and maximize productivity accordingly.
+keywords: [return on effort, workonomics, roi, net present value, productivity, resource management]
 ---
 
 If you have a bunch of projects you could do, and want to decide which ones to take up, I was taught a rule: **if a project has positive net present value, do it**.

@@ -4,6 +4,8 @@ date: "2009-06-17T09:13:03Z"
 categories:
   - links
 wp_id: 2387
+description: I verified that IE6 usage doubles during office hours compared to midnight. This data confirms that corporate legacy systems and intranets are the primary drivers of IE6's persistence, even as employees use modern browsers at home.
+keywords: [ie6, corporate intranets, browser statistics, legacy applications, traffic analysis, web development]
 ---
 
 PPK’s [State of the Browser – IE Edition](http://www.quirksmode.org/blog/archives/2009/06/state_of_the_br_1.html) mentions one reason why IE6 will probably stay on for a while.

@@ -4,6 +4,8 @@ date: "2000-06-28T12:00:00Z"
 categories:
   - links
 wp_id: 2143
+description: Explore the Human Genome Project’s efforts to map every human gene. You can spend hours browsing genetic sequences through the NCBI database and considering the ethical, legal, and social implications of this massive scientific milestone.
+keywords: [human genome project, genetics, gene mapping, ncbi, genomics, bioinformatics]
 ---
 
 The [Humane Genome Project](http://www.ornl.gov/TechResources/Human_Genome/home.html) maps what each of our genes do. You could spend hours [exploring genes](http://www.ncbi.nlm.nih.gov/genome/seq/). It's [implications](http://www.ornl.gov/hgmis/resource/elsi.html) are quite interesting.

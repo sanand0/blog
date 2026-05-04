@@ -4,6 +4,8 @@ date: "2007-12-24T12:00:00Z"
 categories:
   - how-i-do-things
 wp_id: 71
+description: I use Site24x7 to monitor downtime and receive SMS alerts for critical issues. By analyzing uptime reports and lost ad revenue, I justified switching to a more reliable web host to ensure better sleep and site availability.
+keywords: [site24x7, downtime monitoring, hostgator, uptime, sms alerts, web hosting]
 ---
 
 > If something goes wrong with my site, I like to know of it. My top three problems are:

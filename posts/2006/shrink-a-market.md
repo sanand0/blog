@@ -4,6 +4,8 @@ date: "2006-04-12T12:00:00Z"
 categories:
   - links
 wp_id: 364
+description: Grow your business by shrinking the total market for competitors. Capture revenue by inflicting asymmetrical pain, a strategy used by Microsoft to take a dollar for themselves while removing six from their rivals' bottom lines.
+keywords: [market strategy, competition, asymmetry, microsoft, revenue, market share]
 ---
 
 Grow by [shrinking a market](http://redeye.firstround.com/2006/04/shrink_a_market.html).

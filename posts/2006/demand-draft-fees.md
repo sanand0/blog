@@ -4,6 +4,8 @@ date: "2006-03-21T12:00:00Z"
 categories:
   - business-realities
 wp_id: 398
+description: I analyzed bank demand draft profitability, assuming float income from large drafts would offset lower fees. I discovered float income is non-linear because recipients cash large drafts faster, proving that traditional fee structures are often more robust than "innovative" theories.
+keywords: [demand draft, float income, banking fees, revenue modeling, profitability, financial consulting]
 ---
 
 Once, we were looking at whether banks made money on demand drafts (DDs).

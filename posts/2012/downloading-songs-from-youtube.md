@@ -5,6 +5,8 @@ lastmod: "2012-07-31T02:02:22Z"
 categories:
   - how-i-do-things
 wp_id: 2745
+description: I explain my workflow for downloading music from YouTube using Keepvid or youtube-dl, then converting the video to MP3 using VLC's media conversion tool or a handy command line script for automation.
+keywords: [youtube, mp3, vlc, youtube-dl, keepvid, audio conversion]
 ---
 
 Five years ago, I built a [song search engine](http://www.s-anand.net/hindi) – mainly because I needed to listen to songs. Three years ago, I stopped updating it – mainly because I stopped listening to songs actively, and have been busy since. For those of you who have been using my site for music: my apologies.

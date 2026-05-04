@@ -4,6 +4,8 @@ date: "2000-10-03T12:00:00Z"
 categories:
   - london-2000
 wp_id: 2171
+description: I attended a Deloitte recruitment presentation at LBS, observing their firm culture and Q&A dynamics. I found that thorough company research leads to better questions and that "aggressive" networking is less valuable than asking insightful, career-focused questions.
+keywords: [deloitte consulting, london business school, management consulting, campus recruitment, core competence, corporate finance]
 ---
 
 Deloitte Consulting gave a presentation today for campus recruitment. Apparantly, we have to be in business suits to sit in any of the presentations! But luckily, since Deloitte has an informal culture, they said 'business casual' was OK. I squeaked past with just a tie. Need to buy a suit!

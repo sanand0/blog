@@ -6,6 +6,8 @@ categories:
   - excel-tips
   - tools
 wp_id: 21
+description: I built a way to recreate Hans Rosling’s animated motion charts in Excel. By linking a scroll bar to a VLOOKUP table, you can dynamically update bubble chart data to create interactive animations that work offline during presentations.
+keywords: [excel, bubble chart, vlookup, motion chart, data visualization, scroll bar, gapminder]
 ---
 
 <p>Watch <a href="http://en.wikipedia.org/wiki/Hans_Rosling">Hans Rosling</a>'s <a href="http://www.ted.com/">TED Talks</a> on <a href="http://www.ted.com/index.php/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen.html">debunking third world myths</a> and <a href="http://www.ted.com/index.php/talks/hans_rosling_reveals_new_insights_on_poverty.html">new insights on poverty</a> and ask yourself: <b>could I do this with my own data?</b></p>

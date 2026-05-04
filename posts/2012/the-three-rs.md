@@ -4,6 +4,8 @@ date: "2012-01-23T18:13:08Z"
 categories:
   - links
 wp_id: 2714
+description: 'I believe the traditional "three Rs" must evolve: reading remains vital, but typing and computing have replaced handwriting and mental arithmetic. I plan to help schools prioritize Excel and digital literacy over outdated manual skills.'
+keywords: [literacy, handwriting, typing, excel, education reform, arithmetic, computational thinking]
 ---
 
 Reading, wRiting and aRithmetic are the 3 'R's that are taught at school. I was thinking about their relevance today.

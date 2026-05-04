@@ -5,6 +5,8 @@ lastmod: "2012-09-04T03:53:33Z"
 categories:
   - coding
 wp_id: 2791
+description: I discovered how to automatically extract dictionary keys used inside Python lambdas by inspecting the func_code.co_consts attribute. This method helped me manage over 100 metric formulas for plotting without manually maintaining dependency lists.
+keywords: [python, introspection, lambda, func_code, co_consts, bytecode, dis-module]
 ---
 
 Lisp users would laugh, since they have [macros](http://en.wikipedia.org/wiki/Macro_(computer_science)), but Python supports some basic code inspection and modification.

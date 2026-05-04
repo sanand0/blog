@@ -4,6 +4,8 @@ date: "2007-01-15T12:00:00Z"
 categories:
   - classical-ilayaraja
 wp_id: 126
+description: I explore the challenges of adapting the heavy gamakams of Thodi for cinema in songs like 'Gangai Karai Mannanadi.' I also examine Ilayaraja’s use of related scales like Denuka, Natakapriya, and the pentatonic Sudha Dhanyasi.
+keywords: [ilayaraja, carnatic music, thodi, sindhu bhairavi, sudha dhanyasi, denuka, natakapriya, gamakam]
 ---
 
 > This is the 12th of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

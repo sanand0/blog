@@ -4,6 +4,8 @@ date: "2006-05-15T12:00:00Z"
 categories:
   - links
 wp_id: 317
+description: I evaluate the initial launch of Google Notebook, noting its potential while highlighting the need for offline functionality and reduced server interactions to make it a more effective tool for organizing information.
+keywords: [google notebook, offline mode, server latency, productivity software, personal information management, web apps]
 ---
 
 [Google Notebook](http://www.google.com/notebook/) released. Would be more useful when they

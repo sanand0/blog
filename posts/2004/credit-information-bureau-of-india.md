@@ -4,6 +4,8 @@ date: "2004-05-09T12:00:00Z"
 categories:
   - links
 wp_id: 839
+description: I explore the start of operations at the Credit Information Bureau of India (CIBIL), a milestone for Indian banking that introduces centralized credit data sharing to improve lending decisions and reduce non-performing assets.
+keywords: [cibil, credit reporting, indian banking, risk management, loan verification, financial data]
 ---
 
 [CIBIL](http://www.cibil.com/) -- Credit Information Bureau of India Ltd [gets going](http://www.indianexpress.com/full_story.php?content_id=46399).

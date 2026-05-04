@@ -4,6 +4,8 @@ date: "2005-09-14T12:00:00Z"
 categories:
   - links
 wp_id: 552
+description: I watched a video preview of Office 12's radical new interface. I was most impressed by PowerPoint's ability to automatically convert text into complex diagrams, a feature that notably allowed a blind user to create graphics for the first time.
+keywords: [office 12, microsoft office, powerpoint, user interface, accessibility, diagrams]
 ---
 
 A 40-minute [video preview of Office 12](http://channel9.msdn.com/showpost.aspx?postid=114720). I don't normally watch videos this long. But it was worth it.

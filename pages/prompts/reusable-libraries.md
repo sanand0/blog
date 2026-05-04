@@ -3,6 +3,8 @@ title: Reusable libraries
 date: "2025-09-10T07:05:28Z"
 lastmod: "2025-09-21T11:44:00Z"
 classes: wrap-code
+description: I created an agentic workflow to scan sym-linked project directories for reusable code. It analyzes Python and JavaScript files to suggest external libraries that reduce boilerplate and identifies functions suitable for generalization into a shared library.
+keywords: [python, javascript, code reuse, agentic workflow, refactoring, boilerplate reduction, system prompt]
 ---
 
 From a folder sym-linked to multiple projects, identify reusable libraries and functions.

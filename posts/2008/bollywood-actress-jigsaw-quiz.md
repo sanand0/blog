@@ -5,6 +5,8 @@ lastmod: "2025-01-25T02:39:02Z"
 categories:
   - quizzes
 wp_id: 45
+description: I jumbled up pictures of 10 Bollywood actresses for this interactive jigsaw quiz. Move the blocks around to reconstruct the images and guess their names. It's a fun challenge to test your knowledge of Indian cinema stars.
+keywords: [bollywood, jigsaw puzzle, interactive quiz, bollywood actresses, celebrity trivia, indian cinema]
 ---
 
 <p>I've jumbled up pictures of 10 Bollywood actresses. You can move the jumbled blocks around, like a jigsaw. Can you guess the actresses?</p>

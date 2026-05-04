@@ -4,6 +4,8 @@ date: "2000-08-16T12:00:00Z"
 categories:
   - links
 wp_id: 2093
+description: I've completed a business proposal to leverage the upcoming IT Act implementation in India this September. My goal is to secure a first-mover advantage with itsvalidated.com, though the window of opportunity is narrowing daily.
+keywords: [it act, india, itsvalidated.com, business proposal, e-commerce law, legal framework]
 ---
 
 The IT Act will be [implemented in September](http://in.news.yahoo.com/000815/43/4c5k.html). We're just done with our business proposal. If we rush in now, we may be **just** in time to get a first mover advantage. But we're losing the lead each day. [Read about itsvalidated.com](http://www.timesofindia.com/today/17busi27.htm).

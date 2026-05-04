@@ -3,6 +3,8 @@ date: "2025-12-09T05:36:05Z"
 categories:
   - llms
   - linkedin
+description: I show how to analyze personal digital exhaust using LLMs to uncover hidden life patterns. By exporting data via Chrome Devtools and using AI code execution, I discovered surprising habits about my own YouTube usage.
+keywords: [llms, personal data, digital exhaust, chrome devtools, data analysis, behavioral insights]
 ---
 
 In my Mining Digital Exhaust workshop on Saturday,

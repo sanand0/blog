@@ -6,6 +6,8 @@ categories:
 tags:
   - book
 wp_id: 316
+description: I shared a collection of downloadable books on eSnips featuring authors like Michael Crichton and J.K. Rowling. The post sparked a discussion with readers about the ethics and legality of accessing copyrighted material through unofficial digital repositories.
+keywords: [esnips, ebook downloads, copyright, michael crichton, j.k. rowling, digital libraries]
 ---
 
 [Shared books](http://esnips.com/tags/books) at esnips.com. You can download the entire book. Authors include Jeffrey Archer, Fredrick Forsyth, Arthur Hailey, Erich Segal, Michael Crichton, J K Rowling, Terry Pratchett, etc.

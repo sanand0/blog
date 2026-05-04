@@ -4,6 +4,8 @@ date: "2001-09-11T12:00:00Z"
 categories:
   - links
 wp_id: 1664
+description: I list the white chocolates I bought during a trip to Bangkok, including varieties from Toblerone, Lindt, and Hershey’s. I prefer white chocolate over milk, especially when it features hazelnut praline or cookie bits.
+keywords: [white chocolate, bangkok, toblerone, lindt, hershey's, ritter sport, hazelnut praline]
 ---
 
 [I love chocolates](http://www.globalgourmet.com/food/ilc/). Especially white. When I went to Bangkok, every chocolate I bought was white:

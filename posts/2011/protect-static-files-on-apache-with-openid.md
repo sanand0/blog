@@ -5,6 +5,8 @@ lastmod: "2011-11-19T13:58:36Z"
 categories:
   - coding
 wp_id: 2695
+description: I built a PHP library and .htaccess configuration to protect static files using OpenID authentication. It allows access only to specific Google email addresses, combining the simplicity of static sites with secure access control.
+keywords: [apache, openid, php, .htaccess, google accounts, static site, authentication]
 ---
 
 I moved from static HTML pages to web applications and back to static HTML files. There’s a lot to be said for the simplicity and portability of a bunch of files. Static site generators like [Jekyll](https://github.com/mojombo/jekyll) are increasingly popular; I’ve built a simple [publisher](https://bitbucket.org/sanand0/utils/src/tip/publish.make) that I use extensively.

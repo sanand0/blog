@@ -6,6 +6,8 @@ categories:
   - data
   - visualisation
 classes: wrap-code
+description: I used Codex for rigorous data analysis and Claude for narrative visualization to build a 'The Verge' style data story about Indian trade. My workflow highlights identifying high-impact patterns like the Jamnagar export chokepoint.
+keywords: [codex, claude, india, trade, data-storytelling, parquet, data-visualization]
 ---
 
 [![The Jamnagar Chokepoint](https://sanand0.github.io/datastories/exim/screenshot.webp)](https://sanand0.github.io/datastories/exim/)
