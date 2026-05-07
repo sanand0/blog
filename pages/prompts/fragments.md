@@ -55,6 +55,33 @@ Keywords are the smallest set of search terms that would help an AI agent decide
 4-8 lower-case topic phrases. Avoid generic tags and redundant synonyms. No preamble, no markdown, no explanation.
 ```
 
+## Blog illustration
+
+```markdown
+Pick the most appropriate illustration style for this blog post from the following list.
+Think about the most important points, structure it logically so that the illustration is easy to follow.
+Draw it in that style.
+
+- Self-Demonstrating Diagrams. The diagram enacts its own content. A diagram about chunking IS chunked into four quadrants. A diagram about rhythm has visual beat. A diagram about faces has illustrated faces as axis labels. The meta-ness is the insight. Readers feel the concept *before* they've read a word. This is the illustration equivalent of a self-referential sentence.
+- Experimental Audit Panels. The experiment rendered as a formal scientific plate - hypothesis, stimulus, output, verdict, all laid out like a forensic dossier. Input image top-left, AI response as a labeled specimen, your skeptical annotations as margin notes in red. Feels like a Nature paper designed by a detective.
+- Tension Posters. A single large typographic claim fills the top half. Below it, a minimal evidence structure simultaneously shows both the claim and its complication - like a debate card where both sides are revealed at once. The tension is the content. Feels like a Bloomberg Businessweek cover meets a campaign poster. Zero decoration; pure rhetorical geometry.
+- Actor Swimlanes. Three parallel horizontal tracks - e.g. Teacher / Student / AI - with moments, tools, and handoffs between them rendered as a modern process flow. Not the dreary enterprise BPMN kind, but the clean, editorial kind - like a New Yorker tech diagram. The visual makes explicit what text makes implicit: *who acts, when, and why.*
+- Lens Stack Diagrams. Multiple semi-transparent overlapping layers, each a different lens on the same object - physiology, psychology, philosophy. Each layer has its own color and label, and the overlaps are where things get interesting. Rooted in the "layered transparency" idea but applied specifically to competing worldviews. Makes pluralism *feel* like pluralism.
+- Reframe Splits. A clean vertical or horizontal split composition: left panel shows the apparent frame (the trap, the wrong problem, the dilemma), right panel shows the reframe (the escape, the actual problem, the punchline). The split IS the argument - no prose needed. Derived from the "before/after" tradition but with the gap between panels carrying all the meaning.
+- Concept Genealogy Trees. Ideas rendered as an evolutionary tree - like a cladogram or phylogenetic diagram, but for concepts. "Taste" branches into kind-environment taste and wicked-environment taste, which further branch into practices. Clean, horizontal, left-to-right. Reads like a scientific taxonomy but feels alive and branchy. Unlike a mind map, it implies *descent* - one thing came from another.
+- Found Document Illustrations. The actual artifact at the center - exam paper, AI screenshot, schema update - elevated into a formal illustration with clinical labels and annotations radiating out from it. Like a museum exhibit card for an ordinary object. The humor and insight come from treating something mundane with extreme rigor. Paul Sahre does this for book covers; you'd do it for AI weirdness.
+- Annotated Datascenes. One central, beautifully rendered data visualization - not a dashboard, a single *scene* - with narrative annotations branching from it like footnotes made visual. The annotation lines are part of the composition. Feels like a NYT graphic where the words and the chart are inseparable. The annotation IS the analysis; the chart IS the evidence.
+- Character Atlas Quadrants. A 2*2 - but instead of labeled boxes, each quadrant has an illustrated archetype: a small character in its natural habitat. The Scientist peering into a microscope. The Troll at a keyboard. The Intern wide-eyed. The Bureaucrat stamping papers. The quadrant structure gives you the intellectual frame; the characters give you the emotional handle. Readers remember the Troll long after they've forgotten "High Scepticism + Low Humility."
+- Exploded Diagrams. Like a Haynes manual or IKEA parts sheet — a concept pulled apart in 3D isometric space, every component floating and labeled. Originally industrial, but stunning when applied to abstract ideas ("the anatomy of a good argument").
+- Alluvial / Flow Diagrams as Illustration. Sankey diagrams done with *texture and color* — flows that look like rivers or silk fabric rather than engineering outputs. Manuel Lima territory. The width carries data; the beauty carries attention.
+- Layered Transparency Stack. Multiple semi-transparent planes stacked in 3D — each layer adds one variable or lens. Like Figma components or overhead projector acetates, but designed with intention. The *stack* is the argument: alone each layer is incomplete, together they create the full picture.
+- Small Multiples Grid. The same visual form repeated dozens of times across a grid, each instance slightly different — Tufte's most powerful idea. Comparison becomes effortless because your eye does the work. Elegant when the repeated unit is itself beautifully designed.
+- Unit / Dot Charts. Every individual represented as one dot or icon — then arranged to show patterns. The Pudding's signature move ("film dialogue", "music by gender"). Feels democratic and humanizing. The magic is that you can *see* every case while still seeing the aggregate shape.
+- Wayfinding System. Airport / transit signage logic applied to content — clean pictograms, bold zone colors, directional chevrons, consistent typographic scale. Massimo Vignelli's NYC subway map energy. Unusually good for showing *how to navigate* a complex space of ideas or decisions.
+- Cross-Section Cutaways. Slice through a system and label what's inside — the NYT "how it works" graphic tradition. A submarine, a skyscraper, a workflow, an argument — all become readable when you cut them open. Technical but deeply human. The best ones feel like surgical kindness.
+- Storyboard Grids. Cinematic panels, each a moment — camera angles, cutaways, close-ups — but applied to ideas. Bergman planning a lecture. The format forces you to think in *scenes* rather than bullets.
+```
+
 ## Book summary
 
 ```markdown
