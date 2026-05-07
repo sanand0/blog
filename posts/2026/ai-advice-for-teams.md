@@ -21,7 +21,7 @@ This worked _surprisingly_ well with Claude 4.6 Sonnet (adaptive). I used the re
 
 Here's the full list of changes it suggested:
 
-![](https://files.s-anand.net/images/2026-04-25-ai-advice-for-teams.avif)
+![](https://files.s-anand.net/images/2026-04-25-ai-advice-for-teams.avif) <!-- https://chatgpt.com/c/69ed0051-b88c-83ea-8c8f-97b42015fd9d -->
 
 > **The biggest structural update:** ai-advice.md is still written as "how individuals use AI better." Your actual advice has evolved into "how people, teams, and organizations operate in the agent era." The whole document should eventually be reorganized to reflect this.
 

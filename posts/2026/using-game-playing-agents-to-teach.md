@@ -12,7 +12,7 @@ After an early morning beach walk with a classmate, I realized I hadn't taken my
 
 This is when I get ideas - often a dangerous time for my [students](https://tds.s-anand.net/).
 
-[![](https://files.s-anand.net/images/2026-03-08-using-game-playing-agents-to-teach.avif)](https://tds-network-games.sanand.workers.dev/)
+[![](https://files.s-anand.net/images/2026-03-08-using-game-playing-agents-to-teach.avif)](https://tds-network-games.sanand.workers.dev/) <!-- https://gemini.google.com/u/2/app/18c145458cca4704 -->
 
 In this case, the idea was a rambling conversation with [Claude](https://claude.ai/share/55ba24d2-f250-4e2f-ab1c-89090742fb82) that roughly begins with:
 

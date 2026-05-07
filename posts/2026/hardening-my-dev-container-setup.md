@@ -8,7 +8,7 @@ description: Improving container setup quality depends less on memorizing all be
 keywords: [dev containers, testing, Copilot, Docker, developer environments, setup hardening]
 ---
 
-![](https://files.s-anand.net/images/2026-03-14-hardening-my-dev-container-setup.avif)
+![](https://files.s-anand.net/images/2026-03-14-hardening-my-dev-container-setup.avif) <!-- https://gemini.google.com/app/9162b7c405fcd5ee -->
 
 I run AI coding agents inside a [Docker container](https://github.com/sanand0/scripts/blob/dbdf328bb0e960367d45f9f8580d921159be3e9e/dev.dockerfile) for safety.
 

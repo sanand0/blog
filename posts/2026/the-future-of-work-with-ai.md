@@ -9,9 +9,7 @@ description: As intelligence gets cheaper, valuable work shifts toward framing, 
 keywords: [future of work, AI agents, delegation, problem framing, evaluation, behavior change]
 ---
 
-<!-- https://gemini.google.com/u/2/app/bad45f08e6f30526 -->
-
-![](https://files.s-anand.net/images/2026-03-11-the-future-of-work-with-ai.avif)
+![](https://files.s-anand.net/images/2026-03-11-the-future-of-work-with-ai.avif) <!-- https://gemini.google.com/u/2/app/bad45f08e6f30526 -->
 
 <!-- https://claude.ai/chat/6a2eb8d2-eba0-47a3-9447-a82a3336f62b -->
 

@@ -29,7 +29,7 @@ Found 100 matches (limited)
 Sending this message (14606686 tokens) might exceed the remaining context window limit (1037604 tokens).
 ```
 
-![](https://files.s-anand.net/images/2026-03-08-gemini-cli-harness.avif)
+![](https://files.s-anand.net/images/2026-03-08-gemini-cli-harness.avif) <!-- https://gemini.google.com/app/40182d961e78af0d -->
 
 Come ON! It's **March 2026**. We can't pretend it's October 2025 any more.
 

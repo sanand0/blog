@@ -7,7 +7,7 @@ description: "AI is much better at agreeing about a person’s chat-based patter
 keywords: [palmistry, AI interpretation, multi-model agreement, self-analysis, Claude, skepticism]
 ---
 
-![](https://files.s-anand.net/images/2026-03-15-ai-palmistry.avif)
+![](https://files.s-anand.net/images/2026-03-15-ai-palmistry.avif) <!-- https://gemini.google.com/u/2/app/292d5bacc0f9306c -->
 
 I shared a photo of my right hand with popular AI agents and asked for a detailed palmistry reading.
 

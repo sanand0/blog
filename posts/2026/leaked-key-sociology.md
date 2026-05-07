@@ -32,7 +32,7 @@ Some are Gemini API keys.
 api_key1 = "AIza..."
 ```
 
-![](https://files.s-anand.net/images/2026-03-08-leaked-key-sociology.avif)
+![](https://files.s-anand.net/images/2026-03-08-leaked-key-sociology.avif) <!-- https://gemini.google.com/app/c7b9f604bdff70d9 -->
 
 But what's really impressive is, when I ran:
 

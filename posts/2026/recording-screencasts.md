@@ -8,9 +8,7 @@ description: A lightweight recording and compression workflow can produce high-q
 keywords: [screencasts, video recording, compression, WEBM, ffmpeg, developer tools]
 ---
 
-<!-- https://gemini.google.com/u/2/app/6cf35e0e4b2a90da -->
-
-![](https://files.s-anand.net/images/2026-03-11-recording-screencasts.avif)
+![](https://files.s-anand.net/images/2026-03-11-recording-screencasts.avif) <!-- https://gemini.google.com/u/2/app/6cf35e0e4b2a90da -->
 
 Since [WEBM compresses videos **very** efficiently](/blog/ai-video-compression/), I've started using videos more often. For example, in [Prototyping the prototypes](/blog/prototyping-the-prototypes/) and in [Using game-playing agents to teach](/using-game-playing-agents-to-teach/).
 

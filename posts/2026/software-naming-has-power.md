@@ -13,8 +13,7 @@ I first became aware of this when a friend commented how much he enjoyed startin
 
 "Win," he said. "I just love typing that!"
 
-<!-- https://gemini.google.com/u/2/app/df12e01429787d55 -->
-![](https://files.s-anand.net/images/2026-03-17-software-naming-is-power.avif)
+![](https://files.s-anand.net/images/2026-03-17-software-naming-is-power.avif) <!-- https://gemini.google.com/u/2/app/df12e01429787d55 -->
 
 I felt this this again recently with [`just`](https://github.com/casey/just).
 

@@ -79,7 +79,7 @@ At "Jai Hind", I had goosebumps. And the audience broke into an applause.
 
 We should all do this sort of thing more often. 🙂
 
-![](https://files.s-anand.net/images/2026-04-09-singing-a-vote-of-thanks.avif)
+![](https://files.s-anand.net/images/2026-04-09-singing-a-vote-of-thanks.avif) <!-- https://gemini.google.com/app/ffeecf2c337649d2 -->
 
 ---
 
@@ -104,6 +104,7 @@ The result is pretty good!
 
 <audio controls preload="metadata">
   <source src="https://files.s-anand.net/images/2026-04-14-the-plumbing-behind-the-prose.opus" type="audio/ogg; codecs=opus">
+  <!-- https://gemini.google.com/app/67277d752fcaaabc -->
 </audio>
 
 ---

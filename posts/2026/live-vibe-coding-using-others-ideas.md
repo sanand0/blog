@@ -12,7 +12,7 @@ I spoke today on [Design in the Age of Infinite Generativity](https://sanand0.gi
 
 You can read about the talk in the link about. This post is about my preparation.
 
-![](https://files.s-anand.net/images/2026-03-21-live-vibe-coding-using-others-ideas.avif)
+![](https://files.s-anand.net/images/2026-03-21-live-vibe-coding-using-others-ideas.avif) <!-- https://gemini.google.com/u/2/app/77c3c7f054bf447f -->
 
 - Tue 10 Mar 2026. Damn! [Palani](https://www.linkedin.com/in/palramu/)'s asked for the topic. [Claude, what should I talk about!?](https://claude.ai/share/46ef75be-6e38-4ea6-ab73-49f7e46e1ec0)
 - Fri 20 Mar 2026. [ChatGPT, tell me who the other speaker are](https://chatgpt.com/share/69bed4d0-14ac-8003-8750-2648b81d9366).

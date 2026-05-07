@@ -8,7 +8,7 @@ description: Letting Codex analyze your past Codex sessions is an effective way 
 keywords: [Codex, self-improvement, session analysis, developer workflow, tooling, meta-learning]
 ---
 
-![](https://files.s-anand.net/images/2026-03-01-using-codex-to-improve-codex.avif)
+![](https://files.s-anand.net/images/2026-03-01-using-codex-to-improve-codex.avif) <!-- https://gemini.google.com/app/e32860c560c9df57 -->
 
 Instead of learning and applying [new Codex features](https://developers.openai.com/codex/changelog/), I asked it to analyze my sessions and tell me what I'm under-using.
 

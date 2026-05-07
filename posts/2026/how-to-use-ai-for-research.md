@@ -13,7 +13,7 @@ I asked ChatGPT to research universities' AI policies. [Here is the report](http
 
 Here are the four lessons I learned from that - about how to use AI for research.
 
-![](https://files.s-anand.net/images/2026-04-03-how-to-use-ai-for-research.avif)
+![](https://files.s-anand.net/images/2026-04-03-how-to-use-ai-for-research.avif) <!-- https://gemini.google.com/u/2/app/9f3cc9fb9c8c8cb4 -->
 
 **1. Show examples of failures to avoid**. [Jivraj's earlier research](https://jivraj-18.github.io/university_ai_usage/output/) kept surfacing AI policies universities had _researched_, not written for themselves!. So I told ChatGPT to:
 

@@ -12,7 +12,7 @@ When people ask me for connections, I share my [LinkedIn data](https://www.linke
 
 This week, three people asked for AI ideas. I shared my local content with AI coding agents and asked them to pick.
 
-![](https://files.s-anand.net/images/2026-03-20-local-context-repositories-for-ai.avif)
+![](https://files.s-anand.net/images/2026-03-20-local-context-repositories-for-ai.avif) <!-- https://gemini.google.com/u/2/app/b90eaeb839f3e493 -->
 
 **STEP 1: Give access to content**. I use a [Dockerfile](https://github.com/sanand0/scripts/blob/7e1dc00d7e1fa36a9949a1e061c1b529928cc175/dev.dockerfile) and [script](https://github.com/sanand0/scripts/blob/7e1dc00d7e1fa36a9949a1e061c1b529928cc175/dev.sh) to isolate coding agents. To give access, I run:
 

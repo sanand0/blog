@@ -7,8 +7,7 @@ description: Many people still use other humans as a wrapper around digital tool
 keywords: [human-computer interaction, AI adoption, search behavior, digital literacy, usability, social behavior]
 ---
 
-<!-- https://gemini.google.com/u/2/app/ca0bd8439c95d2de -->
-![](https://files.s-anand.net/images/2026-03-17-human-as-an-interface.avif)
+![](https://files.s-anand.net/images/2026-03-17-human-as-an-interface.avif) <!-- https://gemini.google.com/u/2/app/ca0bd8439c95d2de -->
 
 People often email me questions they could have answered with ChatGPT. I just copy-paste the question, copy-paste the answer.
 

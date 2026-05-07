@@ -50,4 +50,4 @@ An aside: Here's the [narrative](https://github.com/sanand0/llmpricing/blob/4674
 
 Self-referentially, my answer to its last question: "what you would build if intelligence cost a dime per Bible" is "a scrollytelling narrative about intellegince costing a dime per Bible".
 
-![](https://files.s-anand.net/images/2026-03-10-prototyping-the-prototypes.avif)
+![](https://files.s-anand.net/images/2026-03-10-prototyping-the-prototypes.avif) <!-- https://gemini.google.com/u/2/app/6b7cf5190d354c87 -->

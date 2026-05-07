@@ -34,7 +34,7 @@ rg -l "^[[:space:]]*- llms" -g "*.md" | xargs rg "^date:" | sort -k2 -r | head -
 
 > Pick articles with the best application to [FIELD]. For each, write a single-sentence, ELI15 use case DIRECTLY following from the article. Focus on high-impact, common scenarios solving a specific problem (a persona trying to do X but blocked by Y). Skip articles without a clear, practical application. Be ruthlessly concise: ~40 words per use case. Format each line as: `Article Title: Use case description`.
 
-![](https://files.s-anand.net/images/2026-02-22-repurposing-blog-posts-for-talks.avif)
+![](https://files.s-anand.net/images/2026-02-22-repurposing-blog-posts-for-talks.avif) <!-- https://gemini.google.com/u/2/app/407bc3134d719117 -->
 
 Here are a few examples (and they're _good_ ones):
 

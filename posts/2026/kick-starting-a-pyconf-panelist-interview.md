@@ -7,7 +7,7 @@ description: AI can act as an on-the-spot cognitive starter, helping people reco
 keywords: [public speaking, interviews, AI assistance, cognition, PyConf, conversational support]
 ---
 
-![](https://files.s-anand.net/images/2026-03-17-kick-starting-a-pyconf-panelist-interview.avif)
+![](https://files.s-anand.net/images/2026-03-17-kick-starting-a-pyconf-panelist-interview.avif) <!-- https://gemini.google.com/u/2/app/554e1e5b5b389ba9#399609ff64950e1e -->
 
 I was a panelist at the [PyConf Hyderabad](https://2026.pyconfhyd.org/) [AI in SDLC - Panel Discussion](https://2026.pyconfhyd.org/schedule?day=day2&track=track1).
 

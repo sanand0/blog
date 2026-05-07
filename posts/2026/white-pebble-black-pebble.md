@@ -9,7 +9,7 @@ keywords: [reframing, problem solving, strategy, negotiation, decision making, s
 
 When I was in class 8 or 9, our English teacher told us a story I'll never forget.
 
-![](https://files.s-anand.net/images/2026-03-05-white-pebble-black-pebble.avif)
+![](https://files.s-anand.net/images/2026-03-05-white-pebble-black-pebble.avif) <!-- https://gemini.google.com/u/2/app/68d7fdbe68074b5a -->
 
 > There was a poor farmer who lived in a village. He owed the zamindar (landlord) of the village a lot of money.
 >

@@ -27,7 +27,7 @@ Here's a sketchnote for this article: [How to use AI for research](/blog/how-to-
 
 Here's a sketchnote we emailed SNHU as pre-read before the meeting. I used the same prompt and attached the presentation. They loved the sketchnote!
 
-![Sketchnote](https://files.s-anand.net/images/2026-02-27-snhu-preread.avif)
+![Sketchnote](https://files.s-anand.net/images/2026-02-27-snhu-preread.avif) <!-- https://gemini.google.com/app/20cc5188ed8b7020#65bcf4336d482f7f -->
 
 **Summarize books**. Pick any textbook, non-fiction, fiction, or anthology.
 

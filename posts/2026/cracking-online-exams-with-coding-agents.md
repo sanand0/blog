@@ -8,9 +8,7 @@ description: Coding agents can solve many online exams effectively, so exam desi
 keywords: [online exams, coding agents, assessment design, AI in education, prompt attacks, evaluation]
 ---
 
-<!-- https://gemini.google.com/u/2/app/a6a6c341434ec848 -->
-
-![](https://files.s-anand.net/images/2026-03-13-cracking-online-exams-with-coding-agents.avif)
+![](https://files.s-anand.net/images/2026-03-13-cracking-online-exams-with-coding-agents.avif) <!-- https://gemini.google.com/u/2/app/a6a6c341434ec848 -->
 
 An effective way to solve online exams is to point a coding agent at it.
 

@@ -7,8 +7,7 @@ description: AI can help interviewers rapidly extract sharper questions from den
 keywords: [interviews, admissions, AI assistance, question generation, evaluation, higher education]
 ---
 
-<!-- https://gemini.google.com/u/2/app/2ff4c1dd6c10b1d7 -->
-![](https://files.s-anand.net/images/2026-03-17-iim-bangalore-pgp-interview-panel.avif)
+![](https://files.s-anand.net/images/2026-03-17-iim-bangalore-pgp-interview-panel.avif) <!-- https://gemini.google.com/u/2/app/2ff4c1dd6c10b1d7 -->
 
 Yesterday, I was part of an IIM Bangalore interview panel at Hyderabad, along with Professor Subhabrata Das and Debajyoti. Panels typically comprise of two faculty and an alumni, and handle 8 interviews in the morning and eight in the evening, though in our case, we had 9 each.
 

@@ -8,7 +8,7 @@ description: Students using different LLMs perform differently enough that model
 keywords: [LLM comparison, grades, education, student performance, model choice, causal analysis]
 ---
 
-![](https://files.s-anand.net/images/2026-03-06-which-llm-get-you-better-grades.avif)
+![](https://files.s-anand.net/images/2026-03-06-which-llm-get-you-better-grades.avif) <!-- https://gemini.google.com/app/72f962e80615e800 -->
 
 In my [graded assignments](https://exam.sanand.workers.dev/tds-2026-01-ee) students can pick an AI and "Ask AI" any question at the click of a button. It defaults to Google AI Mode, but other models are available. I know who uses which model and their scores in each assignment.
 

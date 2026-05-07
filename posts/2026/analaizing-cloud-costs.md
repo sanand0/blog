@@ -32,7 +32,7 @@ After half an hour of my watching a movie, it told me (in great detail - see the
 
 But the more interesting thing for me is how easy cloud optimization has become with coding agents.
 
-![](https://files.s-anand.net/images/2026-03-01-analaizing-cloud-costs.avif)
+![](https://files.s-anand.net/images/2026-03-01-analaizing-cloud-costs.avif) <!-- https://gemini.google.com/app/2c5abf249292a22e -->
 
 - **It makes curiosity cheaper**. I wouldn't have sat and written the scripts to figure out where $6.71 went. But coding agents made micro-audits practical (and with clever use of `jaq`, `csvq`, and `duckdb`. If you can get an answer by just from a question, we'd use it like Google - to **answer ad hoc questions**.
 - **It challenges common sense**. I assumed caching was good for speed and compute. But Codex's analysis of my [`sanand0/blog` actions](https://github.com/sanand0/blog/actions) pointed out that dropping a job's time from 1.2 minutes to 0.7 minutes doesn't change the _2-minute billed floor_! Also, the 114MB cache _increased_ storage costs. We can **test optimizations without assuming**.

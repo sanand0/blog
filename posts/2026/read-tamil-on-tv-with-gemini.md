@@ -31,7 +31,7 @@ It said:
 
 Spot on. The rest of the scene made perfect sense!
 
-![](https://files.s-anand.net/images/2026-03-25-read-tamil-on-tv-with-gemini.avif)
+![](https://files.s-anand.net/images/2026-03-25-read-tamil-on-tv-with-gemini.avif) <!-- https://gemini.google.com/app/73382f0b7330b64c -->
 
 This is not the first time I've used AI while watching TV. I've passed screenshots to identify cities, transcribe newspapers, and more. But this is the first time I've used it to read Tamil.
 

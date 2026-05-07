@@ -17,7 +17,7 @@ I've used redirection services in the past - like `t.co`, `bit.ly`, `goo.gl`, `o
 
 Here's my solution: **use static HTML for redirection**.
 
-![](https://files.s-anand.net/images/2026-05-07-tracking-redirects-minimally.avif)
+![](https://files.s-anand.net/images/2026-05-07-tracking-redirects-minimally.avif) <!-- https://chatgpt.com/c/69fc5f20-2dfc-83ea-82c4-9096c77374f3 -->
 
 For example, <https://r.s-anand.net/example.html> redirects to <https://example.com/>. Here's the code:
 

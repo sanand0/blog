@@ -10,7 +10,7 @@ keywords: [ai restaurant recommendations, chatgpt prompt, food preference profil
 
 I use ChatGPT to recommend which restaurant I should eat at and what food I should eat. So often that I decided to share a profile of my eating preferences.
 
-![](https://files.s-anand.net/images/2025-04-24-my-food-preferences-2.avif)
+![](https://files.s-anand.net/images/2025-04-24-my-food-preferences-2.avif) <!-- https://chatgpt.com/c/69ebb649-60d8-839c-8c04-9438af5f9c66 -->
 
 But rather than think about it and type it myself, I asked it to
 

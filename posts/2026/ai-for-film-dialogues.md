@@ -7,7 +7,7 @@ description: AI tools can extract, translate, and reinterpret film dialogue quic
 keywords: [film dialogue, translation, transcription, AI media, Telugu, cinema analysis]
 ---
 
-![](https://files.s-anand.net/images/2026-03-01-ai-for-film-dialogues.avif)
+![](https://files.s-anand.net/images/2026-03-01-ai-for-film-dialogues.avif) <!-- https://gemini.google.com/u/2/app/75cbc8e4441ae701 -->
 
 I was watching [Vasu](<https://en.wikipedia.org/wiki/Vasu_(film)>) while [Codex-ing](/blog/analaizing-cloud-costs/) and came across this dialogue:
 
