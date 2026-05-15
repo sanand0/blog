@@ -7,7 +7,7 @@ categories:
 
 I asked Claude: "What are the most effective and impactful ways you can help me?" One of its ideas was to ask it:
 
-> What are the three questions this field has not resolved, where the disagreement is substantive and not just semantic? Who represents each position most forcefully?"
+> What are the three questions this field has not resolved, where the disagreement is substantive and not just semantic? Who represents each position most forcefully?
 
 <!-- https://claude.ai/chat/0999b5d7-06bc-40ec-81eb-2e15be23f159 -->
 
