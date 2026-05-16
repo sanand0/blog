@@ -342,6 +342,7 @@ Local MCP runs bash and exposes these under `~` at `/home/sanand/`. Prefer recen
 - ~/code/til/README.md - things I learnt
 - ~/Dropbox/notes/transcripts/ - call transcripts
 - ~/Documents/data/ - data files
+- ~/Documents/activities/ - daily activity logs
 
 gws can access email, calendar, e.g. `gws calendar +agenda --today --timezone Asia/Singapore`, `gws gmail users messages list --params '{"userId":"me", "q": "from:..."}'`
 ```
@@ -364,7 +365,7 @@ For each meeting, output EXACTLY this structure:
 
 ## [HH:MM] Meeting Title — Relationship Type (e.g. client / internal leader / new contact)
 
-> **⚡ [One sentence, ≤15 words: what this meeting is really about and what you need to do]**
+> **⚡ [One sentence, ≤25 words: what this meeting is really about, what you & the audience really need to take away, and therefore what you need to do]**
 
 **Opener**: [A specific sentence to open with that signals you've been paying attention. First thing to read, last thing remembered]
 
