@@ -341,7 +341,11 @@ Local MCP runs bash and exposes these under `~` at `/home/sanand/`. Prefer recen
 - ~/code/blog/description.md - 20K files, 5K posts. Search for "- llm" for AI-related posts.
 - ~/code/til/README.md - things I learnt
 - ~/Dropbox/notes/transcripts/ - call transcripts
-- ~/Documents/data/ - data files
+- ~/Documents/data/
+  - s.anand@gramener.com/ - email, chat, calendar exports
+  - whatsapp/ - whatsapp exports
+  - browsing-history.db
+  - linkedin-invites.json
 - ~/Documents/activities/ - daily activity logs
 
 gws can access email, calendar, e.g. `gws calendar +agenda --today --timezone Asia/Singapore`, `gws gmail users messages list --params '{"userId":"me", "q": "from:..."}'`
