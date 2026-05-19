@@ -344,11 +344,12 @@ Local MCP runs bash and exposes these under `~` at `/home/sanand/`. Prefer recen
 - ~/Documents/data/
   - s.anand@gramener.com/ - email, chat, calendar exports
   - whatsapp/ - whatsapp exports
-  - browsing-history.db
+  - browsing-history.db (SELECT url, timestamp, visit_count, ... FROM activity)
   - linkedin-invites.json
 - ~/Documents/activities/ - daily activity logs
 
 gws can access email, calendar, e.g. `gws calendar +agenda --today --timezone Asia/Singapore`, `gws gmail users messages list --params '{"userId":"me", "q": "from:..."}'`
+curl and other CLI tools are also available: curl, fd, ug, rga, sd, git, gh, uv, agent-browser, duckdb, sqlite3, ...
 ```
 
 ## Meeting preparation

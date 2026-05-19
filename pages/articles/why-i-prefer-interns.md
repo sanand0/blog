@@ -1,6 +1,8 @@
 ---
 title: Thinking Beyond Automation to Safeguard Tomorrow’s Software Talent
 date: 2026-05-11T21:12:03+08:00
+description: I now prefer interns over senior developers because they act as efficient thin clients to AI. Since traditional coding tests are obsolete, I evaluate candidates on their ability to nudge agents and own the final result.
+keywords: [agentic ai, software engineering hiring, technical assessments, claude code, iit madras, coding agents]
 ---
 
 ## Or, Why I Now Prefer Interns Over Senior Developers

@@ -2,6 +2,8 @@
 title: Anand Blog Style
 date: 2026-05-11T21:18:41+08:00
 lastmod: 2026-05-16T13:45:00+08:00
+description: I codified my personal blogging style to prioritize first-person narratives, terse sentences, and immediate starts. I emphasize showing artifacts like verbatim code and prompts while documenting failures, awkward edge cases, and concrete implementation details over abstract framing.
+keywords: [technical writing, blogging, style guide, first-person narrative, minimalism, prose style]
 ---
 
 ## Version 2, 16 May 2026

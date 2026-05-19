@@ -83,3 +83,11 @@ Optional:
 - `build: { list: never, render: always }` ensures that posts/pages are not listed _anywhere_ blog index but are still rendered.
 - `robotsNoIndex: true` adds a `<meta name="robots" content="noindex">` tag to the page header to prevent indexing by search engines.
 - `aliases: ["old-path"]` adds redirects from old-path to the current page using [Hugo Aliases](https://gohugo.io/content-management/urls/#aliases).
+
+## AI-generated content
+
+Wrap AI-generated sections in:
+
+```html
+<section ai-disclosure="ai-generated" data-ai-model="claude-sonnet-4.6" data-ai-provider="Anthropic">
+```
