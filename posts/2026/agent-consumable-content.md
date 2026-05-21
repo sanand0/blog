@@ -4,6 +4,8 @@ date: 2026-05-19T11:08:59+08:00
 categories:
   - llms
   - how-i-do-things
+description: I export my communications, browsing history, and records into one-line formats and use scripts to summarize blog posts and transcripts. By creating agent-friendly logs and SKILL.md files, I'm preparing my personal data for LLM-driven leverage.
+keywords: [llms, personal data, data archival, automation, knowledge management, scripts, summarization]
 ---
 
 ![](https://files.s-anand.net/images/2026-05-19-agent-consumable-content.avif)
@@ -54,3 +56,5 @@ Three, I **summarize** the content for agents. For example:
 On my list is [Karpathy's LLM wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f), summarizing my photos, and more.
 
 Just _writing_ this post took me an hour! It also convinced me that I have _lots_ of content and there's a lot of under-leverage in unleashing agents on what I already have.
+
+<!-- https://chatgpt.com/c/6a0a60df-df40-83ec-88d3-f213441c52be -->

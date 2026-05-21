@@ -8,7 +8,7 @@ keywords:
   [prompt engineering, llm snippets, brainstorming, eigenquestions, pre-mortems, ai productivity, claude, chatgpt]
 ---
 
-Prompt fragments useful to add to other prompts
+Prompt fragments useful to add to other prompts.
 
 ## Analysis notes
 
@@ -150,6 +150,13 @@ Ask me questions for whatever's unclear.
 IMPORTANT: Because Claude will almost certainly stall when generating such a large file at one shot, you MUST break this into parts, generating the .html in chunks or layered edits (keeping each chunk small, max 100KB of edits) and saving it, checking it, then updating it with the next iteration, and so on.
 ```
 
+## Compare models
+
+```markdown
+Here's another answer from ChatGPT/Gemini/Claude.
+Take what's better, drop what's worse, explore any new thoughts this leads you to, and revise your response based on that.
+```
+
 ## Core concepts
 
 ```markdown
@@ -161,7 +168,16 @@ What are the core concepts, i.e. top NON-INTUITIVE well-established lessons/prin
 - Write as a bulleted point. Explain each concept in a few simple sentences (ELI15) that are easy to understand intuitively.
 ```
 
-## Draw Comic
+## Comic page
+
+```markdown
+Draw this as a full-color explainer comic page (portrait) - sequential explanation, friendly narrator, diagrams embedded inside panels, visual metaphors, self-aware captions, and clear cause-and-effect storytelling.
+Style: expressive characters, comic-style ALL CAPS, vibrant modern colors, clear visual hierarchy.
+Prefer pictures over words. Use recurring visual metaphors so the reader understands the idea even while skimming.
+Think about the most important points, structure it as a memorable story.
+```
+
+## Comic strip
 
 ```markdown
 Draw this as a simple black and white line drawing comic strip with minimal shading.
@@ -200,7 +216,7 @@ Draw this as a visually rich, intricately detailed, colorful, and funny, infogra
 
 ```markdown
 Draw this as a visually rich, intricately detailed, colorful, and funny, sketchnote.
-Use comic-style font in caps.
+Use a comic-style ALL CAPS font.
 Keep the text to under 300 words. Prefer evocative imagery over text.
 Think about the most important points, structure it logically so that the sketchnote is easy to follow, then draw it.
 ```
@@ -237,6 +253,15 @@ I dropped the following:
 - Argue against this like a sceptic.
 - What would change your mind?
 - Ask me questions, Socratically, to discover the real need.
+
+## Google Meet captions context
+
+Paste [Google Meet captions](https://tools.s-anand.net/gmeetcaptions/) and add this prompt, e.g. to Claude, to guide during meetings.
+
+```markdown
+Think about my objectives. Based on that, how should I participate in this discussion? What should I say - verbatim - and why?
+Here is the Google Meet captions (with lots of phonetic errors).
+```
 
 ## Interactive explanation
 
@@ -352,51 +377,6 @@ gws can access email, calendar, e.g. `gws calendar +agenda --today --timezone As
 curl and other CLI tools are also available: curl, fd, ug, rga, sd, git, gh, uv, agent-browser, duckdb, sqlite3, ...
 ```
 
-## Meeting preparation
-
-<!-- https://claude.ai/chat/a8385dba-605d-4493-a7cc-4fb2c4c3d027 -->
-
-```markdown
-You are a brilliant, brutally honest Chief of Staff. You have full access via Local MCP bash tool to:
-
-- Calendar and emails, e.g. `gws calendar +agenda --today --timezone Asia/Singapore`, `gws gmail users messages list --params '{"userId":"me", "q": "from:..."}'`
-- Past transcripts, e.g. `ug -s -r --heading -n -i -E --iglob '*PERSON*.md' -B2 -A12 '(^|[^a-z])(actions?:|action items?|next steps?|todo|follow[- .]?up)|owner|due' ~/Dropbox/notes/transcripts/`
-
-Produce a BRIEFING CARD for each substantive external meeting today.
-Skip purely personal or logistical blocks (sleep, travel, lunch, spillover) or meetings only with s.anand@gramener.com + root.node@gmail.com.
-For each meeting, output EXACTLY this structure:
-
----
-
-## [HH:MM] Meeting Title — Relationship Type (e.g. client / internal leader / new contact)
-
-> **⚡ [One sentence, ≤25 words: what this meeting is really about, what you & the audience really need to take away, and therefore what you need to do]**
-
-**Opener**: [A specific sentence to open with that signals you've been paying attention. First thing to read, last thing remembered]
-
-**Situation**: What's actually going on for them right now? What do they want from this meeting? Not the stated agenda, but the real one?
-
-**The one thing pending**: [Single most important open action item from prior transcripts — the one that is most likely to resurface awkwardly if unaddressed. If it appeared in multiple transcripts, it's definitely stalled. If it's a first meeting, replace with: "What to learn: [the single most valuable thing to discover]"]
-
-**Your #1 move**: [The single highest-leverage thing to bring up, demonstrate, or ask. Name it. Frame the ask specifically.]
-
-**Watch for**: [One hidden risk or awkward dynamic. One pre-emption tactic.]
-
----
-
-Rules:
-
-- The ⚡ one-liner and Opener are the two most important lines. Write them so someone who reads only those two is still prepared.
-- Never summarize. Assess, recommend, flag.
-- Each card must be readable in 30 seconds.
-- Search transcripts by person's name irrespective of file name.
-- If it's a first meeting: replace Open Loops with "What to learn" — what's the most valuable thing to discover about their world?
-- Infer the real agenda from action items, not just meeting titles. A meeting titled "discuss X" often exists because a prior action item said "schedule meeting about X."
-- Flag if a meeting ⚠️ if it looks riskier or more important than its title suggests.
-- Add a "Decision needed:" section if this person needs to unblock something.
-- For AI demos: pre-empt the most common questions (e.g. cost/ROI, hallucination, security, ...) likely in this meeting.
-```
-
 ## Meeting transcript summary
 
 ```markdown
@@ -418,6 +398,21 @@ Nano-banana 2 finds it hard to follow instructions. "Pay extra attention to the 
 Upscale this image into a modern digital color photograph retaining EVERYTHING in the original perfectly.
 ```
 
+## Podcast script
+
+To generate podcast scripts for [podcast.py](https://github.com/sanand0/scripts/blob/main/podcast.py).
+
+```markdown
+Help me learn & understand the material below by writing an engaging two-person podcast script in this format:
+
+Alex: ...
+Maya: ...
+Alex: ...
+Maya: ...
+
+Plan like an expert podcaster on how best to deliver the most important messages in an engaging AND educational way.
+```
+
 ## Pre-mortems
 
 ```markdown
@@ -436,6 +431,14 @@ Alternative:
 Did you fully address both the letter AND spirit of my question?
 List any shortcuts taken, corners cut, or ways you optimized for appearing correct rather than being correct.
 What did I actually want vs what you provided?
+```
+
+## Question unclear
+
+```markdown
+I may not be framing the question well.
+First, reframe my question better - aligning with my objectives.
+THEN answer in a way I can easily review and action.
 ```
 
 ## Read between Lines
