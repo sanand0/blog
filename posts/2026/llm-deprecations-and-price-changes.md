@@ -3,6 +3,8 @@ title: LLM Deprecations and Price Changes
 date: 2026-05-21T14:02:10+08:00
 categories:
   - llms
+description: I analyze how LLM providers like Google and OpenAI are shifting from cheap customer acquisition to value extraction. To manage rising costs and deprecations, I recommend using multi-tier routing and evaluating models based on completed-task costs.
+keywords: [llm pricing, gemini flash, gpt-5, claude sonnet, model routing, tokenomics, api costs]
 ---
 
 A colleague told me a near-miss horror story.
@@ -98,3 +100,10 @@ Just keep asking yourself: "what's our plan for when this model changes or depre
 ![](https://files.s-anand.net/images/2026-05-21-llm-deprecations-and-price-changes.avif)
 
 PS: AI-generated image - has a few errors.
+
+<!--
+
+Research: https://chatgpt.com/c/6a0e995a-0c84-83ec-953d-60db0fe1db66
+Writing: https://claude.ai/chat/580de13d-9667-4697-8425-53d56bd36ff3
+
+-->

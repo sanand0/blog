@@ -403,14 +403,14 @@ Upscale this image into a modern digital color photograph retaining EVERYTHING i
 To generate podcast scripts for [podcast.py](https://github.com/sanand0/scripts/blob/main/podcast.py).
 
 ```markdown
-Help me learn & understand the material below by writing an engaging two-person podcast script in this format:
+Help me learn & understand by writing an engaging two-person podcast script in this format:
 
 Alex: ...
 Maya: ...
 Alex: ...
 Maya: ...
 
-Plan like an expert podcaster on how best to deliver the most important messages in an engaging AND educational way.
+Plan like an expert podcaster on how best to deliver the most important messages in an engaging AND educational way that will lead to concrete immediate actions.
 ```
 
 ## Pre-mortems

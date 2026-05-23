@@ -469,3 +469,83 @@ html[data-theme="dark"] .legend-day.level-4 {
     font-size: 9px;
   }
 }
+
+/* ===== AI-Generated Content Disclosure ===== */
+/*
+ * Styles section[ai-disclosure="ai-generated"] elements.
+ * Works with any data-ai-* attributes (data-ai-model, data-ai-provider, etc.)
+ * Uses opacity + lightness/darkness only — no hue changes — for subtle theming.
+ * Handles both light and dark modes via color-mix against theme variables.
+ */
+section[ai-disclosure="ai-generated"] {
+  position: relative;
+  padding: 2rem 1.5rem 1rem;
+  margin: 1.5rem 0;
+  border-radius: var(--radius);
+  /* Subtle background: mix a touch of primary (dark in light mode, light in dark mode) */
+  background: color-mix(in srgb, var(--theme) 97%, var(--primary) 3%);
+  border-left-width: 3px;
+}
+
+/* AI badge — injected via JS, positioned top-right */
+.ai-disclosure-badge {
+  position: absolute;
+  top: 0.55rem;
+  right: 0.7rem;
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  padding: 0.12rem 0.42rem;
+  border-radius: 4px;
+  background: color-mix(in srgb, var(--secondary) 18%, transparent);
+  color: var(--secondary);
+  opacity: 0.65;
+  cursor: default;
+  transition: opacity 0.2s;
+  z-index: 1;
+  user-select: none;
+  line-height: 1.6;
+}
+
+.ai-disclosure-badge:hover {
+  opacity: 1;
+}
+
+/* Tooltip revealed on badge hover */
+.ai-disclosure-tooltip {
+  visibility: hidden;
+  opacity: 0;
+  position: absolute;
+  top: calc(100% + 0.35rem);
+  right: 0;
+  padding: 0.3rem 0.55rem;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 0.7rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+  color: var(--secondary);
+  box-shadow: 0 2px 8px color-mix(in srgb, var(--primary) 12%, transparent);
+  transition: opacity 0.15s, visibility 0.15s;
+  pointer-events: none;
+}
+
+.ai-disclosure-badge:hover .ai-disclosure-tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Bottom attribution — injected via JS */
+.ai-disclosure-footer {
+  margin-top: 1.1rem;
+  padding-top: 0.55rem;
+  border-top: 1px solid color-mix(in srgb, var(--border) 80%, transparent);
+  font-size: 0.62rem;
+  opacity: 0.45;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--secondary);
+  font-family: ui-monospace, 'Cascadia Mono', 'Fira Code', monospace;
+}

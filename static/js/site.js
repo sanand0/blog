@@ -157,4 +157,42 @@
       }
     });
   }
+
+  // AI disclosure badges and attribution footers.
+  // Works with any data-ai-* attributes — future-proof by reading all of them.
+  document.querySelectorAll("section[ai-disclosure]").forEach((section) => {
+    // Collect all data-ai-* attributes generically
+    const aiAttrs = {};
+    for (const attr of section.attributes) {
+      if (attr.name.startsWith("data-ai-")) {
+        aiAttrs[attr.name.slice("data-ai-".length)] = attr.value;
+      }
+    }
+
+    const disclosure = section.getAttribute("ai-disclosure") || "ai-generated";
+    const model = aiAttrs["model"] || "";
+    const provider = aiAttrs["provider"] || "";
+
+    // Badge at top-right
+    const badge = document.createElement("span");
+    badge.className = "ai-disclosure-badge";
+    badge.textContent = "AI";
+
+    const tooltipParts = [model, provider].filter(Boolean);
+    if (tooltipParts.length) {
+      const tooltip = document.createElement("span");
+      tooltip.className = "ai-disclosure-tooltip";
+      tooltip.textContent = tooltipParts.join(" \u00b7 ");
+      badge.appendChild(tooltip);
+    }
+
+    section.insertBefore(badge, section.firstChild);
+
+    // Bottom attribution
+    const footer = document.createElement("p");
+    footer.className = "ai-disclosure-footer";
+    const footerParts = [disclosure.toUpperCase().replace(/-/g, "\u2011"), model, provider].filter(Boolean);
+    footer.textContent = footerParts.join(" \u00b7 ");
+    section.appendChild(footer);
+  });
 })();

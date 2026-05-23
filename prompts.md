@@ -1,5 +1,18 @@
 # Prompts
 
+## AI generated content, 23 May 2026 (Claude Sonnet 4.6 - medium)
+
+Make sure contents inside a `<section ai-disclosure="ai-generated" data-ai-model="..." data-ai-provider="...">` are subtly styled like in `assets/ai-generated-sample.avif` and in a way consistent with the theme and future proof (e.g. use opacity along with darkness/lightness rather than changing hues, handle dark mode, etc.)
+
+Add a small "AI" badge at the top right (hover should reveal the model and provider information), mention "AI-GENERATED - Model - Provider" at the bottom in small font, make the background SUBTLY different, add a SUBTLE border with the left border being thicker.
+
+Search the standard to see if other data-* attributes are allowed. In any case, future-proof it to handle any data-ai-* attributes for the future.
+
+Run and test visually. Revise as required.
+
+<!-- I manually adjusted the paddings and removed the border -->
+<!-- claude --resume de719afa-09f2-4110-a581-f9eca2729cbc -->
+
 ## Markdown link, 31 Mar 2026 (Copilot - gpt-5.4-mini xhigh)
 
 Add a <link rel="alternate" type="text/markdown" href="..."> header to all posts/pages that links to the GitHub raw markdown file for that page.
