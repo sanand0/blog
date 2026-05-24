@@ -7,7 +7,7 @@ categories:
 
 [Lori Silverstein](https://www.linkedin.com/in/lori-silverstein-b9baa03/) shared a [post from Quickplay](https://www.linkedin.com/feed/update/urn:li:activity:7462864729913503744/) that featured a comic explainer, mentioning that "this could be a very impactful way for us to start being more creative ... and differentiate our value proposition."
 
-![](https://media.licdn.com/dms/image/v2/D4E22AQErG4lDJHVxmA/feedshare-shrink_800/B4EZ5CAyysH8Ac-/0/1779223965199?e=1781136000&v=beta&t=mLP4BB7yW5TyIYj7rhiNsLWioLER7faF74VzVobCAOc)
+![](https://files.s-anand.net/images/2026-05-24-quickplay-comic.avif)
 
 True. Comic explainers convey both creativity _and_ differentiation.
 
