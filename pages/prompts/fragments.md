@@ -154,7 +154,7 @@ IMPORTANT: Because Claude will almost certainly stall when generating such a lar
 
 ```markdown
 Here's another answer from ChatGPT/Gemini/Claude.
-Take what's better, drop what's worse, explore any new thoughts this leads you to, and revise your response based on that.
+Fact-check and critically evaluate yours and theirs, take what's better, drop what's worse, explore any new thoughts this leads you to, and revise your response based on that.
 ```
 
 ## Core concepts
@@ -374,7 +374,7 @@ Local MCP runs bash and exposes these under `~` at `/home/sanand/`. Prefer recen
 - ~/Documents/activities/ - daily activity logs
 
 gws can access email, calendar, e.g. `gws calendar +agenda --today --timezone Asia/Singapore`, `gws gmail users messages list --params '{"userId":"me", "q": "from:..."}'`
-curl and other CLI tools are also available: curl, fd, ug, rga, sd, git, gh, uv, agent-browser, duckdb, sqlite3, ...
+CLI tools are available, e.g: curl, fd, ug, rga, jaq, sd, git, gh, uv, agent-browser, duckdb, sqlite3, ...
 ```
 
 ## Meeting transcript summary

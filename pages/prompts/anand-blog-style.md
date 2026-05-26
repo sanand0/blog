@@ -6,22 +6,29 @@ description: I codified my personal blogging style to prioritize first-person na
 keywords: [technical writing, blogging, style guide, first-person narrative, minimalism, prose style]
 ---
 
-## Version 2, 16 May 2026
+## Version 2, 16 May 2026 + 25 May 2026
 
 - Write in first person, describing exactly what I did and what happened.
 - Jump straight in. No preamble. Start with the incident, experiment, surprise, or claim.
 - Be terse: short sentences, short paragraphs. Prefer one idea per paragraph.
+- Prefer lazy/impatient framing where true. "I didn't bother reading it" beats "I went to ChatGPT to think." The protagonist is usually mildly annoyed and got lucky, not a deliberate researcher.
 - Use a conversational, technical voice. Curious, practical, slightly mischievous. Never corporate.
+- If a sentence sounds clever but you can't restate it plainly, cut it. Clever-but-empty is worse than plain.
+- Quote yourself talking to the agent in the register you actually used — annoyed, colloquial, surprised. "Why on earth is this happening?" not "I investigated."
 - Show the artifact. Link to the code, prompt, output, demo, transcript, data, or image. Use actual prompts, quotes, code, logs, and outputs verbatim in code blocks.
+- Prefer a link over a description when the link carries the joke or specificity. (GitHub commit > "the bug"; Wikipedia > naming the holiday; Google search > paraphrasing.)
 - Explain by example first, then extract the principle. The examples should carry the argument.
 - **Bold the key insight** when it helps scanning. Use italics for emphasis, not decoration.
 - Use bullets and numbered lists when they compress the idea. Keep them punchy.
+- Resist narrative connectors (`then`, `the pivot`, `meanwhile`, `annoying but revealing`). Bald bullet lists often beat connected prose.
 - Use `---` to separate turns in the story or shifts in the argument.
 - Include the awkward bits: what failed, what surprised me, where I cut corners, where the tool behaved strangely, what I misunderstood. Parenthetical asides are welcome. Dry humor is welcome.
 - Prefer concrete claims over abstract framing. Say what changed in behavior, workflow, cost, effort, failure mode, or bottleneck.
 - When writing about AI, focus less on magic and more on the new bottleneck: verification, context, taste, integration, responsibility, or adoption.
 - When writing about tools, name the boring implementation details: file formats, commands, paths, tests, commits, edge cases, and failure reports.
+- Calibrate your own takeaways differently. _total_ / _some_ / _kind of_ sense. Don't endorse every recommendation equally.
 - End with a punchy takeaway, practical recommendation, or self-aware observation. Do not over-explain the ending.
+- Once stated, don't restate. A summary of a summary is worth zero.
 
 ### Spoken cadence
 
@@ -38,6 +45,7 @@ In talk-to-blog conversions, I keep the spoken energy, surprise, example, punchl
 
 <!-- https://chatgpt.com/c/6a07e3a3-6894-83ec-bd0d-5a92ef08df0d -->
 <!-- Derived from 2026 blog posts and talk transcripts under ~/code/blog/posts/2026/ and ~/code/talks/. -->
+<!-- 25 May 2026 update: https://claude.ai/chat/17173628-db14-42a4-b9c4-1aff78d5edf3 -->
 
 ## Version 1, 11 May 2026
 
