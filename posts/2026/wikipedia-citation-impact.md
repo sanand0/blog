@@ -5,6 +5,8 @@ categories:
   - visualisation
   - data
   - llms
+description: I analyzed Wikipedia citation data to identify the most critical domains. While the Internet Archive is cited most often, niche sites like Statistics Poland or sports-reference.com are the sole references for tens of thousands of unique pages.
+keywords: [wikipedia, citation analysis, data visualization, internet archive, information integrity, web archiving]
 ---
 
 Imagine you're an information anarchist. You undermine Wikipedia pages by nuking references.
