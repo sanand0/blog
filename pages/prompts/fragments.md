@@ -245,6 +245,8 @@ Plan like an expert. In this context, first think about:
 - What questions would an expert ask that a beginner would not know to?
 - What problems / failures would an expert anticipate that beginners may not be aware of?
 - What powerful & relevant mental models would an expert apply in this context?
+
+If my intent is unclear, ask 1–3 questions per round that most narrow the direction. Stop after 2–3 rounds, or skip questions entirely if my needs are already clear.
 ```
 
 I dropped the following:
@@ -340,6 +342,14 @@ Use tooltips, popups, interactions, and animations as informative and engaging a
 Plan the design and layout carefully before coding. Sketch the information architecture, interaction inventory, design tokens, performance sensitive paths, responsive breakpoints, etc.
 ```
 
+## Interview me
+
+```markdown
+If my intent is unclear, ask 1–3 questions per round that most narrow the direction. Stop after 2–3 rounds, or skip questions entirely if my needs are already clear.
+```
+
+<!-- https://claude.ai/chat/ab468619-5951-4602-bb07-6a9cd1f0a3e0 + https://chatgpt.com/c/6a1684eb-010c-83ec-8799-969901df5c21 -->
+
 ## List transcript insights / facts
 
 Use ChatGPT - it's the most rigorous
@@ -375,6 +385,7 @@ Local MCP runs bash and exposes these under `~` at `/home/sanand/`. Prefer recen
 
 gws can access email, calendar, e.g. `gws calendar +agenda --today --timezone Asia/Singapore`, `gws gmail users messages list --params '{"userId":"me", "q": "from:..."}'`
 CLI tools are available, e.g: curl, fd, ug, rga, jaq, sd, git, gh, uv, agent-browser, duckdb, sqlite3, ...
+Skills are available via `head /home/sanand/code/scripts/agents/*/SKILL.md`.
 ```
 
 ## Meeting transcript summary

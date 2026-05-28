@@ -3,6 +3,8 @@ title: Erdos Unit Distance Problem
 date: 2026-05-26T22:36:06+08:00
 categories:
     - llms
+description: I built a visualization showing how an OpenAI model disproved the Erdős unit distance conjecture. The model found a point construction where unit distances compound at approximately 1.4%, far exceeding the previously predicted near-zero growth rate.
+keywords: [erdős unit distance problem, discrete geometry, openai, point sets, mathematical visualization, combinatorics]
 ---
 
 An OpenAI model [solved](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) the [Erdos unit distance problem](https://mathworld.wolfram.com/ErdosUnitDistanceProblem.html).
