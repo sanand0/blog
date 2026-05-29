@@ -1,11 +1,133 @@
 ---
 title: Tools
 date: 2025-04-15T00:00:00Z
+updated: 2026-05-28T18:08:53+08:00
 description: I evaluated software tools across domains like URL shorteners, databases, and Markdown parsers. I’ve shared my top picks (🟢) and runners-up (🟡) for MP3 tagging, PDF optimization, and LLM orchestration to help you streamline development workflows.
 keywords: [software-evaluation, clis, databases, llm-tools, markdown, pdf-optimization, developer-experience]
 ---
 
 Results of my software tool evaluations. 🟢 is my current choice and 🟡 is worth evaluating.
+
+## Browser automation for agents, 28 May 2026
+
+- 🟢 [playwright 89,690 ⭐ May 2026](https://github.com/microsoft/playwright): Cross-browser automation framework; now also relevant as a CLI for token-efficient agent browser control.
+- 🟢 [agent-browser 34,524 ⭐ May 2026](https://github.com/vercel-labs/agent-browser): Browser automation CLI designed for AI agents, with compact text output and native execution.
+- 🟢 [rodney 703 ⭐ Mar 2026](https://github.com/simonw/rodney): Simon Willison's CLI tool for interacting with the web
+- [webctl 412 ⭐ May 2026](https://github.com/cosinusalpha/webctl): CLI-first browser automation for agents, positioned between `curl` and full Playwright-style automation.
+- [stagehand 22,836 ⭐ May 2026](https://github.com/browserbase/stagehand): AI browser automation SDK combining natural-language browser actions with deterministic code.
+- [shot-scraper 2,362 ⭐ Feb 2026](https://github.com/simonw/shot-scraper): CLI tool for scripted webpage screenshots, scraping, JavaScript execution, and browser-based captures.
+- [cypress 49,655 ⭐ May 2026](https://github.com/cypress-io/cypress): Browser test runner useful for deterministic web automation and agent-verifiable UI workflows.
+- [selenium-ide 3,095 ⭐ Feb 2026](https://github.com/SeleniumHQ/selenium-ide): Selenium IDE project for recording and replaying browser workflows.
+
+## Web terminals / browser IDEs, 28 May 2026
+
+- 🟢 [ttyd 11,733 ⭐ May 2026](https://github.com/tsl0922/ttyd): Lightweight tool to share a terminal over the web; directly fits Codex-in-browser and remote terminal workflows.
+- [wetty 5,290 ⭐ May 2026](https://github.com/butlerx/wetty): Browser-based terminal over SSH/WebSocket; useful as a heavier alternative to ttyd.
+- [code-server 77,753 ⭐ May 2026](https://github.com/coder/code-server): VS Code running in the browser on a remote machine.
+- [openvscode-server 6,034 ⭐ Mar 2026](https://github.com/gitpod-io/openvscode-server): Browser-accessible upstream VS Code server, close to Codespaces/Gitpod architecture.
+- [coder 13,311 ⭐ May 2026](https://github.com/coder/coder): Self-hosted cloud development environments for teams and remote workspaces.
+- [theia 21,539 ⭐ May 2026](https://github.com/eclipse-theia/theia): Open-source framework for building browser and desktop IDEs.
+- [xterm.js 20,619 ⭐ May 2026](https://github.com/xtermjs/xterm.js): Terminal emulator for the browser; core component for custom web-terminal UIs.
+- [node-pty 1,945 ⭐ May 2026](https://github.com/microsoft/node-pty): Node library for spawning and controlling pseudoterminals; pairs with xterm.js and WebSockets.
+
+## Python package/env tools, 28 May 2026
+
+- 🟢 [uv 85,641 ⭐ May 2026](https://github.com/astral-sh/uv): Fast Python package/project manager; belongs prominently in `uv`-centric scripting workflows.
+- 🟢 [ruff 47,715 ⭐ May 2026](https://github.com/astral-sh/ruff): Fast Python linter/formatter; useful counterpart to JS formatter/linter sections.
+- [pre-commit 15,289 ⭐ May 2026](https://github.com/pre-commit/pre-commit): Git hook framework for running formatters, linters, tests, and scanners before commits.
+
+## Data extraction / exploration, 28 May 2026
+
+- 🟢 [jaq 3,618 ⭐ May 2026](https://github.com/01mf02/jaq): Rust reimplementation of `jq`; fast JSON processing for shell pipelines.
+- 🟢 [csvq 1,625 ⭐ Jul 2024](https://github.com/mithrandie/csvq): SQL-like CLI for querying CSV/TSV files.
+- [qsv 3,654 ⭐ May 2026](https://github.com/dathere/qsv): High-performance CSV toolkit; fits data-prep, validation, and shell-pipeline workflows.
+- [visidata 9,106 ⭐ May 2026](https://github.com/saulpw/visidata): Terminal spreadsheet/data explorer for CSV, TSV, SQLite, JSON, and many other formats.
+- [sqlite-utils 2,057 ⭐ May 2026](https://github.com/simonw/sqlite-utils): CLI and Python library for creating, transforming, querying, and publishing SQLite databases.
+- [datasette 11,113 ⭐ May 2026](https://github.com/simonw/datasette): Tool for exploring and publishing SQLite databases as web apps/APIs.
+- [datasets 21,543 ⭐ May 2026](https://github.com/huggingface/datasets): Dataset loading and processing library; relevant to Hugging Face-hosted Parquet/data workflows.
+- [streamlit 44,736 ⭐ May 2026](https://github.com/streamlit/streamlit): Python data app framework; belongs with quick AI/data demo tooling.
+
+## Static site generators, 28 May 2026
+
+- 🟢 [hugo 88,291 ⭐ May 2026](https://github.com/gohugoio/hugo): Fast static site generator; relevant to blog, docs, and site publishing workflows.
+
+## Google API CLIs, 28 May 2026
+
+- 🟢 [cli 26,632 ⭐ May 2026](https://github.com/googleworkspace/cli): `gws` CLI for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and agent skills; aligned with agent-first Workspace automation.
+- [GAMADV-XTD3 826 ⭐ May 2025](https://github.com/taers232c/GAMADV-XTD3): Advanced Google Apps Manager CLI for Google Workspace administration.
+- [oauth2l 731 ⭐ Feb 2026](https://github.com/google/oauth2l): CLI for fetching Google OAuth 2.0 access tokens for shell scripts and API workflows.
+- [ezgmail 272 ⭐ Dec 2024](https://github.com/asweigart/ezgmail): Pythonic wrapper for common Gmail API tasks.
+
+## GitHub automation, 28 May 2026
+
+- 🟢 [cli 44,599 ⭐ May 2026](https://github.com/cli/cli): GitHub’s official `gh` CLI for issues, PRs, discussions, Actions, releases, and API automation.
+- [runner 6,049 ⭐ May 2026](https://github.com/actions/runner): Open-source GitHub Actions runner; useful for self-hosted runners and agentic CI workflows.
+- [run-gemini-cli 2,000 ⭐ May 2026](https://github.com/google-github-actions/run-gemini-cli): GitHub Action that runs Gemini CLI as an autonomous/on-demand coding collaborator.
+- [github-breakout 855 ⭐ Mar 2026](https://github.com/cyprieng/github-breakout): Generates a Breakout-style visualization from a GitHub contributions graph.
+
+## Video editing / generation tools, 28 May 2026
+
+- [remotion 48,273 ⭐ May 2026](https://github.com/remotion-dev/remotion): React/TypeScript framework for programmatic video generation.
+- [editly 5,422 ⭐ May 2025](https://github.com/mifi/editly): Declarative Node/FFmpeg video editor; useful as a baseline for programmatic video generation.
+- [moviepy 14,645 ⭐ Mar 2026](https://github.com/Zulko/moviepy): Python video editing library for scripting clips, titles, audio, subtitles, and composites.
+- 🟡 [mlt 1,786 ⭐ May 2026](https://github.com/mltframework/mlt): Media Lovin’ Toolkit; provides the `melt` CLI for title/video generation.
+- [shotcut 14,029 ⭐ May 2026](https://github.com/mltframework/shotcut): Open-source video editor built on MLT.
+- [olive 9,040 ⭐ Dec 2024](https://github.com/olive-editor/olive): Non-linear video editor; relevant as an open-source desktop alternative.
+- [gstreamer 3,193 ⭐ May 2026](https://github.com/GStreamer/gstreamer): Multimedia framework for pipelines, capture, encoding, and streaming.
+- [vapoursynth 2,026 ⭐ May 2026](https://github.com/vapoursynth/vapoursynth): Video processing framework for scripted filters and transformations.
+- [OpenTimelineIO 1,880 ⭐ May 2026](https://github.com/AcademySoftwareFoundation/OpenTimelineIO): Timeline interchange format/library for video editorial workflows.
+- [libopenshot 1,521 ⭐ May 2026](https://github.com/OpenShot/libopenshot): C++ video editing library behind OpenShot.
+- [AviSynthPlus 1,180 ⭐ May 2026](https://github.com/AviSynth/AviSynthPlus): Script-based video post-production tool.
+- [avidemux2 915 ⭐ May 2026](https://github.com/mean00/avidemux2): Simple video cutting/filtering/encoding editor.
+- 🟡 [ffmpeg-concat 988 ⭐ Jan 2026](https://github.com/transitive-bullshit/ffmpeg-concat): FFmpeg-based video concat tool with OpenGL transitions.
+- [node-ffmpeg-concat 9 ⭐ Apr 2026](https://github.com/Pnlvfx/node-ffmpeg-concat): Node wrapper for concatenating videos with transitions.
+
+## Visualization / animation / rendering tools, 28 May 2026
+
+- [manim 38,686 ⭐ May 2026](https://github.com/ManimCommunity/manim): Python framework for mathematical and explanatory animations.
+- [motion-canvas 18,577 ⭐ Feb 2025](https://github.com/motion-canvas/motion-canvas): TypeScript framework for programmatic, timeline-based motion graphics.
+- [p5.js 23,711 ⭐ May 2026](https://github.com/processing/p5.js): JavaScript creative-coding library for browser-based visual sketches.
+- [processing 6,490 ⭐ May 2025](https://github.com/processing/processing): Classic Processing environment for visual programming and generative art.
+- [openFrameworks 10,375 ⭐ May 2026](https://github.com/openframeworks/openFrameworks): C++ toolkit for creative coding, graphics, interaction, and installations.
+
+## SVG/image rendering & diffing, 28 May 2026
+
+- [resvg 3,853 ⭐ May 2026](https://github.com/linebender/resvg): Fast SVG renderer; useful for agent-generated SVG → PNG validation.
+- [CairoSVG 927 ⭐ Apr 2026](https://github.com/Kozea/CairoSVG): Python SVG converter for rendering SVG to PNG/PDF/PS.
+- [pixelmatch 6,824 ⭐ Apr 2026](https://github.com/mapbox/pixelmatch): Pixel-level image diff library for visual regression tests.
+- [pngjs 726 ⭐ Mar 2024](https://github.com/pngjs/pngjs): Pure-JavaScript PNG encoder/decoder used in image comparison/rendering pipelines.
+- [node-canvas 10,673 ⭐ Apr 2026](https://github.com/Automattic/node-canvas): Node.js Canvas implementation for server-side drawing and image generation.
+
+## Media download / scraping, 28 May 2026
+
+- 🟢 [yt-dlp 166,214 ⭐ May 2026](https://github.com/yt-dlp/yt-dlp): Video/audio downloader for YouTube and many other sites; fits transcript, podcast, and media workflows.
+
+## LLM evaluation frameworks, 28 May 2026
+
+- [langfuse 28,124 ⭐ May 2026](https://github.com/langfuse/langfuse): Open-source LLM engineering platform with tracing, prompt management, datasets, LLM-as-judge/code/manual evaluations, and self-hosting; best if you want evals tied to production observability.
+- 🟢 [promptfoo 21,672 ⭐ May 2026](https://github.com/promptfoo/promptfoo): CLI and library for prompt, model, RAG, and agent evals plus red-teaming/vulnerability scans; declarative configs, local runs, model comparison, CI/CD, and PR checks.
+- [opik 19,390 ⭐ May 2026](https://github.com/comet-ml/opik): Open-source Comet platform for debugging, evaluating, monitoring, and optimizing LLM apps, RAG systems, and agents; includes tracing, datasets, experiments, LLM-as-judge metrics, and dashboards.
+- [evals 18,553 ⭐ Apr 2026](https://github.com/openai/evals): OpenAI’s framework and registry for evaluating LLMs and LLM systems; useful for custom/private evals and reusable benchmark-style tasks.
+- [deepeval 15,758 ⭐ May 2026](https://github.com/confident-ai/deepeval): Pytest-like Python framework for unit-testing LLM apps; rich metrics for RAG, agents, multi-turn conversations, safety, hallucination, G-Eval, and LLM-as-judge workflows.
+- [ragas 14,103 ⭐ Feb 2026](https://github.com/vibrantlabsai/ragas): Python toolkit for objective LLM/RAG evaluation, test-data generation, and production-aligned feedback loops; strong default choice for RAG metrics.
+- [lm-evaluation-harness 12,720 ⭐ May 2026](https://github.com/EleutherAI/lm-evaluation-harness): Research-grade benchmark harness from EleutherAI; many academic tasks, local/API/Hugging Face/vLLM backends, and reproducible leaderboard-style evaluation.
+- [tensorzero 11,411 ⭐ May 2026](https://github.com/tensorzero/tensorzero): Self-hosted LLMOps platform combining gateway, observability, experimentation, optimization, and evals; supports heuristic/LLM-judge inference and workflow evaluations.
+- [promptflow 11,134 ⭐ May 2026](https://github.com/microsoft/promptflow): Microsoft’s LLM app workflow toolkit for prototyping, tracing, batch evaluation, CI/CD quality checks, and production handoff; popular but release cadence looks slower than newer eval specialists.
+- [phoenix 9,876 ⭐ May 2026](https://github.com/Arize-ai/phoenix): Open-source AI observability and evaluation platform for traces, datasets, experiments, prompt playground, response/retrieval evals, and troubleshooting LLM/RAG/agent systems.
+- [opencompass 7,043 ⭐ May 2026](https://github.com/open-compass/opencompass): Foundation-model evaluation platform supporting many model families and 100+ datasets; strong for benchmark suites and leaderboard-style comparison.
+- [giskard-oss 5,400 ⭐ May 2026](https://github.com/Giskard-AI/giskard-oss): Open-source testing/evaluation library for LLM agents; supports checks for regressions, groundedness/RAG quality, safety policies, multi-turn agents, semantic similarity, and LLM-as-judge.
+- [agenta 4,162 ⭐ May 2026](https://github.com/Agenta-AI/agenta): Open-source LLMOps platform with prompt playground/management, test sets, human and automated evals, observability, and deployment workflows.
+- [simple-evals 4,505 ⭐ Apr 2026](https://github.com/openai/simple-evals): Lightweight OpenAI eval scripts for running common model benchmarks quickly; simpler and easier to inspect than the full `evals` framework.
+- [trulens 3,348 ⭐ May 2026](https://github.com/truera/trulens): Python toolkit for tracing, feedback functions, RAG triad-style metrics, inline/batch evals, agentic evaluators, and OpenTelemetry/MCP-aware instrumentation.
+- [evalscope 2,861 ⭐ May 2026](https://github.com/modelscope/evalscope): ModelScope’s framework for LLM, VLM, AIGC, RAG, agent, and performance benchmarking; includes reports, arena mode, and backend integrations such as OpenCompass/VLMEvalKit.
+- [helm 2,802 ⭐ May 2026](https://github.com/stanford-crfm/helm): Stanford CRFM’s holistic evaluation framework with standardized datasets, metrics beyond accuracy, model-provider abstraction, UI, and leaderboards; note it enters maintenance mode on 1 Jun 2026.
+- [lighteval 2,430 ⭐ May 2026](https://github.com/huggingface/lighteval): Hugging Face’s LLM evaluation toolkit for local or served models; supports 1000+ tasks, multiple backends, sample-level debugging, and custom tasks/metrics.
+- [inspect_ai 2,133 ⭐ May 2026](https://github.com/UKGovernmentBEIS/inspect_ai): UK AISI framework for large-model evals with prompt engineering, tool use, multi-turn dialogs, model-graded scoring, extensions, and 200+ pre-built evaluations.
+- [evalite 1,574 ⭐ Apr 2026](https://github.com/mattpocock/evalite): TypeScript-first framework for evaluating LLM-powered apps; useful for JS/TS teams who want evals close to app tests.
+- [weave 1,094 ⭐ May 2026](https://github.com/wandb/weave): Weights & Biases toolkit for tracing, debugging, and apples-to-apples evaluations of GenAI apps; useful if you already use W&B.
+- [openevals 1,065 ⭐ May 2026](https://github.com/langchain-ai/openevals): LangChain’s ready-made evaluators for LLM apps, available for Python and TypeScript; good lightweight companion to LangSmith or custom eval scripts.
+- [autoevals 905 ⭐ Apr 2026](https://github.com/braintrustdata/autoevals): Braintrust’s open-source evaluator/scorer library for model outputs; useful as a small dependency for correctness, similarity, moderation, and custom scoring inside other workflows.
+- [agentevals 605 ⭐ May 2026](https://github.com/langchain-ai/agentevals): LangChain’s evaluator collection for agent trajectories and intermediate steps; useful when final-answer scoring misses tool-use or planning failures.
 
 ## URL shorteners
 
@@ -340,23 +462,45 @@ https://github.com/sanand0/research/tree/main/dom-markdown-extractor-eval
 - [POL-POM-4 474 ⭐ Dec 2024](https://github.com/PlayOnLinux/POL-POM-4): Legacy PlayOnLinux 4. **474⭐.** Summary: largely superseded by Bottles/Phoenicis.
 - [q4wine 233 ⭐ Aug 2025](https://github.com/brezerk/q4wine): Qt GUI for Wine. **233⭐.** Summary: minimal GUI for power users.
 
-## UNIX tools, 13 Oct 2025.
+## UNIX tools, May 2026
+
+Terminal sessions
+
+- 🟢 [tmux 46,063 ⭐ May 2026](https://github.com/tmux/tmux): Terminal multiplexer for durable agent sessions, pane targeting, and persistent CLI workspaces.
+- [zellij 33,073 ⭐ May 2026](https://github.com/zellij-org/zellij): Modern terminal workspace/multiplexer with layouts, panes, and collaboration-friendly UX.
+
+Navigation
+
+- [ripgrep 64,311 ⭐ May 2026](https://github.com/BurntSushi/ripgrep): Fast recursive search tool; essential for repo-scale agent and shell workflows.
+- 🟢 [ugrep 3,152 ⭐ May 2026](https://github.com/Genivia/ugrep): Ultra-fast grep with PCRE2, color, and context features; good alternative to ripgrep.
+- 🟢 [fd 43,133 ⭐ May 2026](https://github.com/sharkdp/fd): Fast, friendly `find` replacement for locating files in repos and scripts.
+- 🟢 [bat 59,061 ⭐ May 2026](https://github.com/sharkdp/bat): `cat` replacement with syntax highlighting and Git integration.
+- 🟢 [delta 30,960 ⭐ Mar 2026](https://github.com/dandavison/delta): Syntax-highlighted Git diff viewer.
+- [difftastic 25,416 ⭐ May 2026](https://github.com/Wilfred/difftastic): Structural diff tool that compares code by syntax tree rather than raw lines.
+- 🟢 [zoxide 36,924 ⭐ May 2026](https://github.com/ajeetdsouza/zoxide): Smarter `cd` based on frecency; good fit for fast terminal navigation.
+
+Shell utilities
+
+- [hyperfine 28,176 ⭐ Apr 2026](https://github.com/sharkdp/hyperfine): CLI benchmarking tool for comparing command variants.
+- [watchexec 7,001 ⭐ May 2026](https://github.com/watchexec/watchexec): File watcher that reruns commands on change; useful for agent/test loops.
+- [websocat 8,520 ⭐ Dec 2025](https://github.com/vi/websocat): `netcat`-like CLI for WebSockets; useful for debugging streaming and terminal protocols.
 
 List files
 
 - 🟢 [eza 17,857 ⭐ Oct 2025](https://github.com/eza-community/eza/): Fast, large directories, colors, icons, git status, tree view, customizable.
-- [lsd 14,922 ⭐ Oct 2025](https://github.com/lsd-rs/lsd): User-friendly defaults.
+- [lsd 16,043 ⭐ Apr 2026](https://github.com/lsd-rs/lsd): User-friendly defaults.
 
 File manager
 
-- 🟢 [yazi 28,863 ⭐ Oct 2025](https://github.com/sxyazi/yazi): Fast terminal file manager. Rust. Batteries included. Visual previews, tabs, bulk operations.
-- [nnn 20,708 ⭐ Sep 2025](https://github.com/jarun/nnn): Minimal terminal file manager. Plugins for functionality.
-- [broot 11,971 ⭐ Oct 2025](https://github.com/Canop/broot): File navigation and search.
+- 🟢 [yazi 38,606 ⭐ May 2026](https://github.com/sxyazi/yazi): Fast terminal file manager. Rust. Batteries included. Visual previews, tabs, bulk operations.
+- [nnn 21,603 ⭐ Apr 2026](https://github.com/jarun/nnn): Minimal terminal file manager. Plugins for functionality.
+- [broot 12,688 ⭐ May 2026](https://github.com/Canop/broot): File navigation and search.
 
 Disk usage
 
-- 🟢 [dust](https://github.com/bootandy/dust): quick, visual overview of disk usage
-- 🟢 [ncdu](https://github.com/rofl0r/ncdu): interactive exploration of disk usage
+- 🟢[gdu 5,697 ⭐ May 2026](https://github.com/dundee/gdu): fast disk usage analyzer in Go; good for large directories and quick insights.
+- [dust 11,750 ⭐ Feb 2026](https://github.com/bootandy/dust): quick, visual overview of disk usage
+- [ncdu 699 ⭐ Oct 2020](https://github.com/rofl0r/ncdu): interactive exploration of disk usage
 
 ## Declarative development environments, 12 Oct 2025
 
@@ -396,19 +540,19 @@ Disk usage
 
 [Evaluate command runners](https://chatgpt.com/share/695760e8-5348-800c-8db5-aece59564653)
 
-- 🟡 [zx 44,662 ⭐ Sep 2025](https://github.com/google/zx): JS-first scripting. **Summary:** replaces bash with ergonomic JS; great glue for tasks.
-- [gulp 33,049 ⭐ Jun 2025](https://github.com/gulpjs/gulp): Streaming JS task runner. **Summary:** mature; still maintained; ecosystem has shifted, but solid.
-- [turborepo 28,784 ⭐ Oct 2025](https://github.com/vercel/turborepo): Monorepo build system with remote caching. **Summary:** Rust engine, active releases, great for JS/TS mono-repos.
-- [just 27,968 ⭐ Sep 2025](https://github.com/casey/just): Command/recipe runner. **Summary:** minimal, fast, single binary; frequent releases.
-- [nx 27,162 ⭐ Oct 2025](https://github.com/nrwl/nx): Monorepo task graph & caching. **Summary:** frequent releases (e.g., 2025-10-02), enterprise-ready.
-- [mise 19,731 ⭐ Oct 2025](https://github.com/jdx/mise): Dev toolchains + **tasks** in one binary. **Summary:** good if you also want version/tool mgmt (Node/PNPM/Bun/etc.) plus tasks.
-- [fabric 15,256 ⭐ Jul 2025](https://github.com/fabric/fabric): Pythonic local/remote tasks. **Summary:** operations-friendly, builds on Invoke & Paramiko.
-- [task 13,844 ⭐ Oct 2025](https://github.com/go-task/task): YAML task runner (Go). **Summary:** polyglot sweet spot; single binary; strong 2025 cadence.
-- [ninja 12,303 ⭐ Sep 2025](https://github.com/ninja-build/ninja): Ultra-fast build executor. **Summary:** tiny, very fast; best via generators (CMake/Meson); latest 2025-07-10.
-- [berry 7,862 ⭐ Oct 2025](https://github.com/yarnpkg/berry): Yarn v2+ monorepo/PM features. **Summary:** if you’re on Yarn, scripts + workspaces do a lot; not a standalone runner.
-- [mage 4,477 ⭐ Jun 2025](https://github.com/magefile/mage): Tasks in Go. **Summary:** zero DSL; slower recent cadence; nice in Go shops.
-- [jake 1,974 ⭐ Aug 2025](https://github.com/jakejs/jake): Node’s Make/Rake-like tool. **Summary:** mature but niche now; fine for classic Node.
-- **GNU Make** _(official home: GNU Savannah; GitHub is a mirror: [make 223 ⭐ Sep 2024](https://github.com/mirror/make))_: Ubiquitous task runner. **Summary:** everywhere; non-GitHub canonical source; stable.
+- [zx 45,515 ⭐ May 2026](https://github.com/google/zx): JS-first scripting. **Summary:** replaces bash with ergonomic JS; great glue for tasks.
+- 🟢 [just 33,937 ⭐ May 2026](https://github.com/casey/just): Command/recipe runner. **Summary:** minimal, fast, single binary; frequent releases.
+- [gulp 32,972 ⭐ Feb 2026](https://github.com/gulpjs/gulp): Streaming JS task runner. **Summary:** mature; still maintained; ecosystem has shifted, but solid.
+- [turborepo 30,458 ⭐ May 2026](https://github.com/vercel/turborepo): Monorepo build system with remote caching. **Summary:** Rust engine, active releases, great for JS/TS mono-repos.
+- [nx 28,787 ⭐ May 2026](https://github.com/nrwl/nx): Monorepo task graph & caching. **Summary:** frequent releases (e.g., 2025-10-02), enterprise-ready.
+- [mise 28,729 ⭐ May 2026](https://github.com/jdx/mise): Dev toolchains + **tasks** in one binary. **Summary:** good if you also want version/tool mgmt (Node/PNPM/Bun/etc.) plus tasks.
+- [fabric 15,435 ⭐ Apr 2026](https://github.com/fabric/fabric): Pythonic local/remote tasks. **Summary:** operations-friendly, builds on Invoke & Paramiko.
+- [task 15,617 ⭐ May 2026](https://github.com/go-task/task): YAML task runner (Go). **Summary:** polyglot sweet spot; single binary; strong 2025 cadence.
+- [ninja 12,965 ⭐ May 2026](https://github.com/ninja-build/ninja): Ultra-fast build executor. **Summary:** tiny, very fast; best via generators (CMake/Meson); latest 2025-07-10.
+- [berry 8,070 ⭐ May 2026](https://github.com/yarnpkg/berry): Yarn v2+ monorepo/PM features. **Summary:** if you’re on Yarn, scripts + workspaces do a lot; not a standalone runner.
+- [mage 4,664 ⭐ Apr 2026](https://github.com/magefile/mage): Tasks in Go. **Summary:** zero DSL; slower recent cadence; nice in Go shops.
+- [jake 1,977 ⭐ May 2026](https://github.com/jakejs/jake): Node’s Make/Rake-like tool. **Summary:** mature but niche now; fine for classic Node.
+- **GNU Make** _(official home: GNU Savannah; GitHub is a mirror: [make 241 ⭐ Sep 2024](https://github.com/mirror/make))_: Ubiquitous task runner. **Summary:** everywhere; non-GitHub canonical source; stable.
 
 Also:
 
@@ -442,6 +586,7 @@ Key-value / Graph:
 
 [JavaScript agent libraries](https://chatgpt.com/share/6957611d-c850-800c-95d8-0424a47eabe8)
 
+- [genkit 6,062 ⭐ May 2026](https://github.com/firebase/genkit): Open-source framework for building, evaluating, and deploying AI-powered apps, especially in Google/Firebase-heavy stacks.
 - [ai 17,942 ⭐ Sep 2025](https://github.com/vercel/ai) by Vercel
 - 🟢 [openai-agents-js 1,402 ⭐ Sep 2025](https://github.com/openai/openai-agents-js/)
 
@@ -490,11 +635,6 @@ Key-value / Graph:
 - [uvu 3,021 ⭐ Aug 2024](https://github.com/lukeed/uvu): Extremely fast, minimal test runner. Summary: impressive speed but the repo is archived—use cautiously for new projects.
 - [tapjs 2,396 ⭐ Feb 2025](https://github.com/tapjs/tapjs): TAP-format test runner/CLI with rich reporters. Summary: good for TAP pipelines and CLI power-users; niche vs mainstream frameworks.
 - [web 2,354 ⭐ Aug 2025](https://github.com/modernweb-dev/web): Monorepo for “Modern Web” tools incl. Web Test Runner. Summary: standards-first browser testing; solid for ESM/web-component stacks; smaller community than Jest/Vitest.
-
-## JS Test automation, 21 Sep 2025
-
-- 🟢 [playwright](https://github.com/microsoft/playwright-python). Apache 2.0. De facto standard.
-- [Cypress](https://www.cypress.io/).
 
 ## LLM Voice Cloning, 21 Sep 2025
 
@@ -569,16 +709,18 @@ Past evals in Jun 2025: [Observability Tools Comparison](https://chatgpt.com/sha
 
 [Command-line LLM Tools](https://chatgpt.com/share/695761e3-a710-800c-b9b5-03f44a899674)
 
-- [codex 43,201 ⭐ Sep 2025](https://github.com/openai/codex)
-- [aider 37,545 ⭐ Sep 2025](https://github.com/Aider-AI/aider). Apache 2.0. Advanced “pair-programming” CLI that maps your repo, applies edits, runs tests, and commits changes with descriptive messages.
-- [shell_gpt 11,369 ⭐ Jul 2025](https://github.com/TheR1D/shell_gpt). MIT. A wrapper for GPT models offering REPL, function calling, multi-step workflows, and cache management.
-- 🟢 [llm 9,701 ⭐ Aug 2025](https://github.com/simonw/llm). Apache 2.0. A versatile CLI and Python library for prompting remote or local models, storing results in SQLite, managing embeddings, and more.
-- [aichat 8,164 ⭐ Sep 2025](https://github.com/sigoden/aichat). MIT. A unified CLI for interacting with various open-source and hosted LLMs, supporting conversational and single-prompt modes.
-- [gorilla-cli 1,352 ⭐ May 2024](https://github.com/gorilla-llm/gorilla-cli). Apache 2.0. Generates API calls and shell commands across 1,500+ services, with user approval before execution.
-- [ai-shell 5,014 ⭐ Jul 2025](https://github.com/BuilderIO/ai-shell). MIT. Converts natural-language prompts into shell commands, with interactive execution and chat modes.
-- [shell_sage 363 ⭐ Jun 2025](https://github.com/AnswerDotAI/shell_sage). Apache 2.0. Understands terminal context. accepts piped responses. Targets specific tmux panes.
-- [llm-cmd 437 ⭐ May 2025](https://github.com/simonw/llm-cmd). Apache 2.0. Generates and executes shell commands via natural-language prompts, with optional sandboxing.
-- [tmuxai 1,164 ⭐ Sep 2025](https://github.com/alvinunreal/tmuxai). Apache 2.0. Integrates AI suggestions and chat directly into tmux sessions for code snippets and command generation.
+- [gemini-cli 104,677 ⭐ May 2026](https://github.com/google-gemini/gemini-cli): Open-source Gemini terminal agent for coding, research, shell workflows, and large-context repo interaction.
+- 🟢 [codex 86,510 ⭐ May 2026](https://github.com/openai/codex)
+- [aider 45,451 ⭐ May 2026](https://github.com/Aider-AI/aider). Apache 2.0. Advanced “pair-programming” CLI that maps your repo, applies edits, runs tests, and commits changes with descriptive messages.
+- [opencode 12,750 ⭐ Sep 2025](https://github.com/opencode-ai/opencode): Open-source terminal AI coding agent; belongs beside Codex/Aider as another CLI-native coding-agent option.
+- [shell_gpt 12,084 ⭐ May 2026](https://github.com/TheR1D/shell_gpt). MIT. A wrapper for GPT models offering REPL, function calling, multi-step workflows, and cache management.
+- 🟢 [llm 11,946 ⭐ May 2026](https://github.com/simonw/llm). Apache 2.0. A versatile CLI and Python library for prompting remote or local models, storing results in SQLite, managing embeddings, and more.
+- [aichat 10,059 ⭐ Feb 2026](https://github.com/sigoden/aichat). MIT. A unified CLI for interacting with various open-source and hosted LLMs, supporting conversational and single-prompt modes.
+- [gorilla-cli 1,365 ⭐ May 2024](https://github.com/gorilla-llm/gorilla-cli). Apache 2.0. Generates API calls and shell commands across 1,500+ services, with user approval before execution.
+- [ai-shell 5,252 ⭐ Jan 2026](https://github.com/BuilderIO/ai-shell). MIT. Converts natural-language prompts into shell commands, with interactive execution and chat modes.
+- [shell_sage 401 ⭐ May 2026](https://github.com/AnswerDotAI/shell_sage). Apache 2.0. Understands terminal context. accepts piped responses. Targets specific tmux panes.
+- [llm-cmd 470 ⭐ May 2025](https://github.com/simonw/llm-cmd). Apache 2.0. Generates and executes shell commands via natural-language prompts, with optional sandboxing.
+- [tmuxai 1,840 ⭐ May 2026](https://github.com/alvinunreal/tmuxai). Apache 2.0. Integrates AI suggestions and chat directly into tmux sessions for code snippets and command generation.
 - [CodeGrab 51 ⭐ Apr 2025](https://github.com/epilande/CodeGrab). MIT. Lightweight CLI for making instant API calls to various LLMs and receiving structured JSON responses.
 - [y-cli 183 ⭐ Jun 2025](https://github.com/luohy15/y-cli). MIT. A Tiny Terminal Chat App for AI Models with MCP Client Support
 - [warp.dev](https://www.warp.dev). Proprietary. A modern terminal emulator offering built-in AI features: “Bring Your Own LLM,” unlimited AI requests, and integrated workspaces.
@@ -589,6 +731,10 @@ Past evals in Jun 2025: [Observability Tools Comparison](https://chatgpt.com/sha
 
 GitHub: [cua](https://github.com/topics/cua) | [computer-use](https://github.com/topics/computer-use) | [ai-agent](https://github.com/topics/ai-agent)
 
+- [openhands](https://github.com/OpenHands/openhands): Open-source software-development agent platform that can plan, edit, run, test, and resolve repo tasks end-to-end.
+- [browser-use 95,966 ⭐ May 2026](https://github.com/browser-use/browser-use): Python library that makes websites accessible to AI agents for browser control and task automation.
+- 🟡 [NemoClaw 20,688 ⭐ May 2026](https://github.com/NVIDIA/NemoClaw): Reference stack for running OpenClaw-style always-on assistants with NVIDIA’s OpenShell runtime and safety controls.
+- [OpenShell 6,298 ⭐ May 2026](https://github.com/NVIDIA/OpenShell): Sandboxed runtime for autonomous AI agents with declarative policies for file, credential, and network access.
 - [open-interpreter 59,220 ⭐ Apr 2025](https://github.com/OpenInterpreter/open-interpreter) – **open-source (AGPL-3.0)**. Lets an LLM write/run Python, JS, Shell, or Bash locally; can open a browser tab, edit files, plot data, or call any CLI tool. Works on **macOS, Linux, Windows** (plus Termux & Colab). Big community, plugin system, optional voice mode, and a desktop GUI in beta.
 - [cua 5,072 ⭐ Apr 2025](https://github.com/trycua/cua) – **open-source (MIT)**. Spins up near-native **macOS or Linux** VMs on Apple-Silicon Macs (“Lume”) and exposes a vision+action API so any model can pilot the VM. Gives you GPU-accelerated isolation and reproducible sandboxes; ideal when you don’t want an agent touching your main OS.
 - [Operator](https://operator.chatgpt.com/) (OpenAI) – **closed-source research preview** launched **23 Jan 2025**. Runs a GPT-4o-powered “Computer-Using Agent” that sees web pages, clicks, scrolls, fills forms, and hands control back to the user when needed. Hosted in an OpenAI-managed Chromium sandbox, so it works from any OS with a browser. Safety layers require confirmation for payments and log-ins.
@@ -627,6 +773,7 @@ GitHub: [cua](https://github.com/topics/cua) | [computer-use](https://github.com
 
 To store a bunch of data files (e.g. parquet) under 1GB, here are options:
 
+- 🟢 [rclone 57,437 ⭐ May 2026](https://github.com/rclone/rclone): CLI for syncing files across cloud storage providers; fits R2/Drive/Dropbox/server sync workflows.
 - 🟢 **GitHub Releases**. 2 GiB **per file**, unlimited total & bandwidth. 🟢 Immortal URL, versioning, easy CI publish. 🔴 Each file must stay < 2 GiB; no built-in SQL. 🔴 No CORS
 - 🟢 **Cloudflare R2**. 10 GB storage & 1 M ops / month. 🟢 S3 API, CORS, zero-egress to Cloudflare Workers, fast. 🔴 10 GB cap.
 - **Backblaze B2**. 10GB free free. 🟢 S3 API, CORS.
