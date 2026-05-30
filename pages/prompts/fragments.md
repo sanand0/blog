@@ -364,10 +364,18 @@ List every learning / interesting fact from the transcript in sequence.
 Max 3,000 characters (ideally less than 2,000). The first 200 characters should engage the reader honestly. (The aim is not to get clicks, but to entertain and educate - so it's perfectly fine to give the full answer upfront.)
 ```
 
+## LLM Smells
+
+<!-- 30 May 2026: https://chatgpt.com/c/6a1913dd-c5a0-83ec-a2e1-536b001bcbb8 + https://claude.ai/chat/b0e39207-4836-4b11-875f-c53629029c90 -->
+
+```markdown
+Write plainly. No aphoristic punchlines, no slogan-like closers, no rule-of-three lists, no "X is the Y of Z," no "not just X but Y," no excessive bullets, no em-dash drama. Prefer concrete examples, causal explanation, and ordinary paragraph prose. Vary sentence length; don't stack short ones for effect. Use my wording where possible. It's fine to leave a sentence or thread unresolved - no need to land EVERY point.
+```
+
 ## Local MCP
 
 ```markdown
-Local MCP runs bash and exposes these under `~` at `/home/sanand/`. Prefer recent content.
+Use Local MCP which runs bash and exposes these under `~` at `/home/sanand/`. Prefer recent content.
 
 - ~/code/talks/README.md - talk transcripts, slides
 - ~/code/datastories/config.json - data stories
@@ -375,6 +383,8 @@ Local MCP runs bash and exposes these under `~` at `/home/sanand/`. Prefer recen
 - ~/code/llmevals/README.md - LLM evals
 - ~/code/blog/description.md - 20K files, 5K posts. Search for "- llm" for AI-related posts.
 - ~/code/til/README.md - things I learnt
+- ~/code/README.md - code repos
+- ~/r2/files/podcast - podcasts I've written for myself
 - ~/Dropbox/notes/transcripts/ - call transcripts
 - ~/Documents/data/
   - s.anand@gramener.com/ - email, chat, calendar exports
@@ -382,6 +392,7 @@ Local MCP runs bash and exposes these under `~` at `/home/sanand/`. Prefer recen
   - browsing-history.db (SELECT url, timestamp, visit_count, ... FROM activity)
   - linkedin-invites.json
 - ~/Documents/activities/ - daily activity logs
+- /tmp/ - to create temporary files/memory/summaries/...
 
 gws can access email, calendar, e.g. `gws calendar +agenda --today --timezone Asia/Singapore`, `gws gmail users messages list --params '{"userId":"me", "q": "from:..."}'`
 CLI tools are available, e.g: curl, fd, ug, rga, jaq, sd, git, gh, uv, agent-browser, duckdb, sqlite3, ...

@@ -3,6 +3,8 @@ title: One extra push-up every day
 date: 2026-05-29T09:57:03+08:00
 categories:
     - how-i-do-things
+description: I'm building muscle by adding one extra push-up to my daily routine each day. By using habit pre-stacking before my yoga sessions, I've managed to scale from ten to twenty-three push-ups through sustainable incremental progression.
+keywords: [habit stacking, incremental progression, push-ups, muscle building, compounding habits, habit formation]
 ---
 
 ![](https://files.s-anand.net/images/2026-05-29-one-extra-push-up-every-day.avif)

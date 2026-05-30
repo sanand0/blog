@@ -2,33 +2,53 @@
 title: Anand Blog Style
 date: 2026-05-11T21:18:41+08:00
 lastmod: 2026-05-16T13:45:00+08:00
-description: I codified my personal blogging style to prioritize first-person narratives, terse sentences, and immediate starts. I emphasize showing artifacts like verbatim code and prompts while documenting failures, awkward edge cases, and concrete implementation details over abstract framing.
+description: I codified my personal blogging style and keep it up to date
 keywords: [technical writing, blogging, style guide, first-person narrative, minimalism, prose style]
 ---
 
-## Version 2, 16 May 2026 + 25 May 2026
+**ARCHIVED**: From 30 May 2026 onwards, I track this on [GitHub](https://github.com/sanand0/scripts/blob/main/agents/anand-writing-style/SKILL.md).
 
-- Write in first person, describing exactly what I did and what happened.
+## Version 2, 16 May 2026 + 25 May 2026 + 30 May 2026
+
+Write in my style: first person, describing exactly what I did and what happened.
+
+I make it easy to read.
+
 - Jump straight in. No preamble. Start with the incident, experiment, surprise, or claim.
-- Be terse: short sentences, short paragraphs. Prefer one idea per paragraph.
-- Prefer lazy/impatient framing where true. "I didn't bother reading it" beats "I went to ChatGPT to think." The protagonist is usually mildly annoyed and got lucky, not a deliberate researcher.
-- Use a conversational, technical voice. Curious, practical, slightly mischievous. Never corporate.
+- Be terse. If you can rewrite in fewer words and sentences, do so. Once stated, don't restate.
 - If a sentence sounds clever but you can't restate it plainly, cut it. Clever-but-empty is worse than plain.
-- Quote yourself talking to the agent in the register you actually used — annoyed, colloquial, surprised. "Why on earth is this happening?" not "I investigated."
-- Show the artifact. Link to the code, prompt, output, demo, transcript, data, or image. Use actual prompts, quotes, code, logs, and outputs verbatim in code blocks.
+- Prefer one idea per paragraph.
+- **Bold the key insight** so reading the bold summarizes the article. Max 5-10% bold. Use italics for emphasis, not decoration.
+- Use bullets and numbered lists when they compress the idea AND improve memorability.
+- Avoid narrative connectors (`then`, `the pivot`, `meanwhile`, `annoying but revealing`).
+
+I'm human and flawed.
+
+- Keep the voice curious, down-to-earth, slightly mischievous. Never corporate.
+- Show my flaws self-deprecatingly, e.g. lazy/impatient: "I didn't bother reading it" not "I went to ChatGPT to think."
+- Include the awkward bits: what failed, what surprised me, where I cut corners, where the tool behaved strangely, what I misunderstood. Parenthetical asides are welcome. Dry humor is welcome.
+- Quote verbatim, e.g. an annoyed, colloquial, surprised mental conversation like "Why on earth is this happening?" not "I investigated."
+
+I cite evidence.
+
+- Show the artifact. Link to the code, prompt, output, demo, transcript, data, or image. Use actual prompts, quotes, code, paths, tests, logs, commits, and outputs verbatim in code blocks.
 - Prefer a link over a description when the link carries the joke or specificity. (GitHub commit > "the bug"; Wikipedia > naming the holiday; Google search > paraphrasing.)
 - Explain by example first, then extract the principle. The examples should carry the argument.
-- **Bold the key insight** when it helps scanning. Use italics for emphasis, not decoration.
-- Use bullets and numbered lists when they compress the idea. Keep them punchy.
-- Resist narrative connectors (`then`, `the pivot`, `meanwhile`, `annoying but revealing`). Bald bullet lists often beat connected prose.
-- Use `---` to separate turns in the story or shifts in the argument.
-- Include the awkward bits: what failed, what surprised me, where I cut corners, where the tool behaved strangely, what I misunderstood. Parenthetical asides are welcome. Dry humor is welcome.
-- Prefer concrete claims over abstract framing. Say what changed in behavior, workflow, cost, effort, failure mode, or bottleneck.
-- When writing about AI, focus less on magic and more on the new bottleneck: verification, context, taste, integration, responsibility, or adoption.
-- When writing about tools, name the boring implementation details: file formats, commands, paths, tests, commits, edge cases, and failure reports.
-- Calibrate your own takeaways differently. _total_ / _some_ / _kind of_ sense. Don't endorse every recommendation equally.
-- End with a punchy takeaway, practical recommendation, or self-aware observation. Do not over-explain the ending.
-- Once stated, don't restate. A summary of a summary is worth zero.
+
+My messages are few, simple, and personal
+
+- Make concrete, not abstract claims. Say what changed for me in behavior, workflow, cost, effort, failure mode, or bottleneck.
+- Not all takeaways are equal in the _total_ / _some_ / _kind of_ sense. Differentiate.
+
+Avoid LLM smells.
+
+- Write plainly. No aphoristic punchlines, no slogan-like closers, no rule-of-three lists, no "X is the Y of Z," no "not just X but Y," no excessive bullets, no em-dash drama.
+- Prefer concrete examples, causal explanation, and ordinary paragraph prose.
+- Vary sentence length; don't stack short ones for effect.
+- Use my wording where possible.
+- It's fine to leave a sentence or thread unresolved - no need to land EVERY point.
+
+End with a open question, practical recommendation, a self-aware observation. Do not over-explain the ending.
 
 ### Spoken cadence
 
