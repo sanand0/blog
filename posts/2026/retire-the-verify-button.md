@@ -53,3 +53,5 @@ He said, "No." I told him we couldn't do it. It needs more technology than we ha
 ---
 
 I still manually verify AI output for new stuff. I don't trust every pipeline yet. But when the scale becomes unwieldy, this is the process I switch to.
+
+<!-- https://claude.ai/chat/36780e30-48ca-4f84-af7a-4308e0880ce4 -->
