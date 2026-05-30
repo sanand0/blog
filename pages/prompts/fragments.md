@@ -392,10 +392,8 @@ Use Local MCP which runs bash and exposes these under `~` at `/home/sanand/`. Pr
   - browsing-history.db (SELECT url, timestamp, visit_count, ... FROM activity)
   - linkedin-invites.json
 - ~/Documents/activities/ - daily activity logs
-- /tmp/ - to create temporary files/memory/summaries/...
 
 gws can access email, calendar, e.g. `gws calendar +agenda --today --timezone Asia/Singapore`, `gws gmail users messages list --params '{"userId":"me", "q": "from:..."}'`
-CLI tools are available, e.g: curl, fd, ug, rga, jaq, sd, git, gh, uv, agent-browser, duckdb, sqlite3, ...
 Skills are available via `head /home/sanand/code/scripts/agents/*/SKILL.md`.
 ```
 

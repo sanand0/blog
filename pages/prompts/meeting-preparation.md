@@ -43,4 +43,6 @@ Rules:
 - Weight transcript/chat/email and discount old. 5+ days is likely stale.
 - Encode how I tend to behave with the person, and how the person tends to behave, based on past interactions.
 - Each card must be readable in 60 seconds.
+
+Since you won't have full context, end with the most important questions I can answer for you to sharpen your briefing.
 ```
