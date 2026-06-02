@@ -55,14 +55,14 @@ Rather than read individual books, why not read clusters on related topics? Usin
   - [Capital in the Twenty-First Century (Thomas Piketty, 2013/2014)](https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century)
   - [The Nordic Theory of Everything (Anu Partanen, 2016)](https://www.goodreads.com/book/show/28014216-the-nordic-theory-of-everything)
   - [The Road to Serfdom (Friedrich Hayek, 1944)](https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom)
-- [ ] Coaching-centered leadership and building high-performing teams (1998-2019) [#](https://claude.ai/chat/3f34ae5d-5451-412b-bfff-9bce318d62a2)
+- [x] Coaching-centered leadership and building high-performing teams (1998-2019) [#](https://claude.ai/chat/3f34ae5d-5451-412b-bfff-9bce318d62a2)
   - [Trillion Dollar Coach (Eric Schmidt, Jonathan Rosenberg & Alan Eagle, 2019)](https://www.goodreads.com/book/show/42118073-trillion-dollar-coach)
   - [High Output Management (Andrew S. Grove, 1983)](https://www.goodreads.com/en/book/show/324750.High_Output_Management)
   - [The Coaching Habit (Michael Bungay Stanier, 2016)](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
   - [Radical Candor (Kim Scott, 2017)](https://www.goodreads.com/book/show/29939161-radical-candor)
   - [The Making of a Manager (Julie Zhuo, 2019)](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
   - [Multipliers (Liz Wiseman, 2010)](https://www.goodreads.com/book/show/8310410-multipliers)
-- [ ] Superforecasting and the craft of good judgment under uncertainty (2001-2018) [#](https://claude.ai/chat/201867d4-4a0e-44e3-8aa4-deba48a3a0ee)
+- [x] Superforecasting and the craft of good judgment under uncertainty (2001-2018) [#](https://claude.ai/chat/201867d4-4a0e-44e3-8aa4-deba48a3a0ee)
   - Superforecasting (Philip E. Tetlock & Dan Gardner, 2015)
   - The Signal and the Noise (Nate Silver, 2012)
   - Thinking in Bets (Annie Duke, 2018)
@@ -87,7 +87,7 @@ Rather than read individual books, why not read clusters on related topics? Usin
   - The Experience Economy (B. Joseph Pine II & James H. Gilmore, 1999)
   - Raving Fans (Ken Blanchard & Sheldon Bowles, 1993)
 - Explanations, progress, and the Popperian worldview (1963–2018) [#](https://claude.ai/chat/4b1ec426-1070-4419-ad66-5a0fd4a11cfe)
-  - The Beginning of Infinity: Explanations That Transform the World (David Deutsch, 2011)
+  - The Beginning of Infinity: Explanations That Transform the World (David Deutsch, 2011). #TODO Read this chapter-by-chapter
   - Conjectures and Refutations (Karl Popper, 1963)
   - The Logic of Scientific Discovery (Karl Popper, 1934; English 1959)
   - The Fabric of Reality (David Deutsch, 1997)
@@ -365,6 +365,9 @@ Rather than read individual books, why not read clusters on related topics? Usin
 
 TODO
 
+- The Art of Spending Money
+- The Infinity Machine
+- World War 2 books
 - The Panda's Thumb (Stephen Jay Gould, 1980)
 - Pluto's Republic (Peter Medawar, 1983)
 - The Science of the Artificial (Herbert A. Simon, 1969)

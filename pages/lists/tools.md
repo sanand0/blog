@@ -8,6 +8,27 @@ keywords: [software-evaluation, clis, databases, llm-tools, markdown, pdf-optimi
 
 Results of my software tool evaluations. 🟢 is my current choice and 🟡 is worth evaluating.
 
+## Agent platforms, 01 Jun 2026
+
+<!-- https://chatgpt.com/c/6a1d263a-1c58-83ec-b7a7-2c3e630ba67c -->
+
+- General-purpose for production:
+  - [agno 40,443 ⭐ Jun 2026](https://github.com/agno-agi/agno): if you want an agent platform, not an agent: sessions, users, APIs, traces, scheduling, RBAC, audit logs.
+  - [langgraph 33,529 ⭐ May 2026](https://github.com/langchain-ai/langgraph): when failure recovery, explicit state, checkpoints, HITL, observability, replay, or long-running workflows matter.
+  - [pydantic-ai 17,432 ⭐ Jun 2026](https://github.com/pydantic/pydantic-ai): for typed I/O, dependency injection, tests, and clean Python code.
+- Vendor-specific: to stay close to vendor
+  - [openai-agents-python 26,817 ⭐ May 2026](https://github.com/openai/openai-agents-python): OpenAI’s Python SDK for multi-agent apps. official, lightweight, provider-agnostic, and fast-growing; good agents/tools/handoffs/tracing foundation; best when OpenAI is central to the stack; stability high, though API maturity is newer than LangGraph.
+  - [openai-agents-js 3,152 ⭐ May 2026](https://github.com/openai/openai-agents-js): OpenAI’s JavaScript/TypeScript Agents SDK. lightweight and official; supports agents, sandbox agents, agents-as-tools, handoffs, tools, guardrails, HITL, sessions, tracing, realtime, Node/Deno/Bun, and experimental Cloudflare Workers; young but strategically important.
+  - [claude-agent-sdk-python 7,139 ⭐ Jun 2026](https://github.com/anthropics/claude-agent-sdk-python): Anthropic’s Python SDK for Claude Code-powered agents. official and likely stable; includes Claude Code toolset such as read/write/edit/bash-like capabilities; strongest for codebase/file-system agents rather than general multi-provider apps; stability high but API surface is young.
+  - [claude-agent-sdk-typescript 1,478 ⭐ Jun 2026](https://github.com/anthropics/claude-agent-sdk-typescript): Anthropic’s TypeScript SDK for Claude Code-powered agents. official and recent, with installable npm package and Claude Code capabilities for codebase understanding, file edits, command execution, and workflows; narrow but useful for coding agents; stability medium-high because of Anthropic backing, but API maturity is young.
+  - [adk-python 19,946 ⭐ May 2026](https://github.com/google/adk-python): Google Agent Development Kit. strong institutional backing; code-first Python framework with graph execution, routing, fan-in/out, loops, retry, state, HITL, nested workflows, and ADK Web; strongest if using Gemini/Google Cloud; stability high.
+  - [agent-framework 10,933 ⭐ Jun 2026](https://github.com/microsoft/agent-framework): Microsoft’s successor framework for production-grade agents and workflows. very strong enterprise feature breadth: Python/.NET, multi-provider support, workflows, checkpointing, streaming, HITL, time travel, OpenTelemetry, YAML, skills, A2A, Azure Functions/Durable Task hosting; excellent Azure/.NET bet; stability high despite being newer.
+  - [ai 24,578 ⭐ Jun 2026](https://github.com/vercel/ai) for Vercel: TypeScript AI SDK for apps and agents. excellent for web apps, streaming UI, provider abstraction, and agentic app surfaces across Next/React/Svelte/Vue/Angular/Node; not a full workflow harness by itself; stability high because of Vercel backing.
+- Specialized:
+  - [mastra 24,613 ⭐ Jun 2026](https://github.com/mastra-ai/mastra) for TypeScript: TypeScript agent framework. strong TS/web fit; supports agents, workflows, RAG, evals, integrations, and deployment-oriented app building; admired in the JS agent community, but younger than LangChain/LangGraph; stability medium-high.
+  - [flue 3,834 ⭐ Jun 2026](https://github.com/withastro/flue) for Serverless: Markdown-first TypeScript agent harness framework. very aligned with lightweight harness use: headless/programmatic, markdown logic, runtime-agnostic, Node/Cloudflare/GitHub Actions/GitLab CI deployment, HTTP/WebSocket/observability, MCP, and sandbox support; but README marks it experimental, so stability is medium-low today.
+  - [OpenHands 75,534 ⭐ Jun 2026](https://github.com/OpenHands/OpenHands) for code: Software-development agent platform and SDK. very popular and domain-focused; provides a composable Python “Software Agent SDK” plus CLI, GUI, cloud, and enterprise modes; excellent for coding agents, less general-purpose than LangGraph/OpenAI/Agno; stability high if your use case is software engineering.
+
 ## Browser automation for agents, 28 May 2026
 
 - 🟢 [playwright 89,690 ⭐ May 2026](https://github.com/microsoft/playwright): Cross-browser automation framework; now also relevant as a CLI for token-efficient agent browser control.

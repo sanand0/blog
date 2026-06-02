@@ -457,8 +457,8 @@ What did I actually want vs what you provided?
 
 ```markdown
 I may not be framing the question well.
-First, reframe my question better - aligning with my objectives.
-THEN answer in a way I can easily review and action.
+First, reframe my question better - aligning with my objectives. (If my intent is unclear, you may ask me the most important questions I can answer that will clarify your path.)
+Answer after reframing - in a way I can easily review and action.
 ```
 
 ## Read between Lines

@@ -8,7 +8,7 @@ keywords: [thirukkural, thiruvalluvar, tamil literature, self-control, terry pra
 
 > அடக்கம் அமரருள் உய்க்கும்
 >
-> Sing the beauty of these words, and their meaning. (I don't really mean sing. I mean, write in a way that'd really make me appreciate the beauty. But without going overboard. I mean, some wicked humor is always welcome! In fact, I'd love for you to think about who some of the best authors are who achieve this balance and write in THEIR style.
+> Sing the beauty of these words, and their meaning. (I don't really mean sing. I mean, write in a way that'd really make me appreciate the beauty. But without going overboard. I mean, some wicked humor is always welcome! In fact, I'd love for you to think about who some of the best authors are who achieve this balance and write in THEIR style.)
 
 To interpret the genius of **Thiruvalluvar**, specifically Kural 121, one needs a specific kind of guide. You need someone who understands that the universe is governed by iron-clad rules, but also finds humanity’s inability to follow them hilariously tragic.
 

@@ -451,8 +451,6 @@ Artistic:
 - Kinetic Typography (Saul Bass title sequences): Build slides where text itself is the primary visual element through animated motion, dynamic scaling, rotational movement, and typographic choreography that creates meaning through letterform movement and rhythm.
 - Paper Craft / Tactile (Eiko Ojala): Construct slides using paper-cut illustration style with layered shadows, dimensional depth, textured surfaces, and crafted-by-hand aesthetic that brings warmth and physicality to digital presentations.
 
-## Website Design
-
 ## Visual Communications
 
 #TODO Create a VISUAL catalog

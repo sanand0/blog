@@ -57,6 +57,23 @@ Think about how the skill we lose will evolve. Then enforce, level-up, switch, o
 <!--
 https://claude.ai/chat/859b4fe8-0ad4-460b-87e4-8643a31ea973
 https://gemini.google.com/app/6ef791596112da80
+
+---
+
+Comment I wrote at https://www.linkedin.com/feed/update/urn:li:activity:7415616572653744128/?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287415711348979863552%2Curn%3Ali%3Aactivity%3A7415616572653744128%29
+
+History gives us a few ideas.
+
+Autopilots reduced demand for junior pilots. Regulators now mandate manual flying hours and simulators.
+
+Chess engines made studying pointless since phones crush grandmasters. Instead, engines became training partners and today's young grandmasters are stronger than ever.
+
+Spreadsheets eliminated the manual ledger work that taught accountants where errors hide. We redefined expertise from exhaustive checking to designing tests and understanding systems.
+
+Surgical robots reduced the hands-on reps that train junior surgeons. Simulation centers and graduated autonomy models now decompose skills into separately trainable components.
+
+No idea which way we will go with software, but I do hope it is the chess route, where junior developers kick the seniors' ...
+
 -->
 
 Source: I used [Claude Deep Research](https://claude.ai/public/artifacts/1ab0169b-566f-4f2c-b94c-a5fa95838dfc) and asked [Gemini to interpret it](https://gemini.google.com/share/ad78f0536411).

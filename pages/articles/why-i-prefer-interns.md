@@ -75,6 +75,10 @@ What seems to work for me is: give them a vague problem, a coding agent, and 4 h
 
 If they do that, I don't care about their resume. I'll hire them on the spot.
 
+---
+
+Published at <https://solutionsreview.com/thinking-beyond-automation-to-safeguard-tomorrows-software-talent/> on 29 May 2026.
+
 <!--
 
 https://docs.google.com/document/d/13pp32OXKKgQ1PFc7q1uLR9lOxvXUCL5nBJm4VeEwdIE/edit?tab=t.0#heading=h.j9a30eamjxgp
