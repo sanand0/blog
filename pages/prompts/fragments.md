@@ -91,7 +91,9 @@ Comprehensively and engagingly summarize and fact-check, writing in Malcolm Glad
 Comprehensively and engagingly summarize, compare and fact-check, writing in Malcolm Gladwell's style (ELI15), the books:
 ```
 
-## Brainstorming creative ideas
+<!--
+
+-- ## Brainstorming creative ideas -- moved to agents/ideator-protocol/SKILL.md
 
 ```markdown
 - IDEATE prioritizing novelty over feasibility. Do not filter.
@@ -124,13 +126,14 @@ For brainstorming, ideation, evaluation, etc. [This uses](https://gemini.google.
 2. Universe of Thoughts (Granular Decomposition): decompose unrelated domain rules and apply
 3. Iterative Refinement (Adversarial Roles): critique each idea, then refine
 
-<!--
-https://gemini.google.com/app/16d01a74d131ee13
-https://chatgpt.com/c/69cb9c74-8fe8-839b-968f-cfb93b29872c
-https://claude.ai/chat/a9b0a7e6-add6-4a1e-ad5e-d6a4018edc5c
--->
+
+- https://gemini.google.com/app/16d01a74d131ee13
+- https://chatgpt.com/c/69cb9c74-8fe8-839b-968f-cfb93b29872c
+- https://claude.ai/chat/a9b0a7e6-add6-4a1e-ad5e-d6a4018edc5c
 
 Other styles: SCAMPER, TRIZ, lateral thinking, etc.
+
+-->
 
 ## Browsing history
 
@@ -372,11 +375,19 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 Write plainly. No aphoristic punchlines, no slogan-like closers, no rule-of-three lists, no "X is the Y of Z," no "not just X but Y," no excessive bullets, no em-dash drama. Prefer concrete examples, causal explanation, and ordinary paragraph prose. Vary sentence length; don't stack short ones for effect. Use my wording where possible. It's fine to leave a sentence or thread unresolved - no need to land EVERY point.
 ```
 
-## Local MCP
+<!--
+
+-- ## Local MCP -- moved to ~/code/scripts/mcpserver.py
 
 ```markdown
-Use Local MCP which runs bash and exposes these under `~` at `/home/sanand/`. Prefer recent content.
+You have access to the bash tool on Local MCP. Under `~` = `/home/sanand/` you may find a subset of these:
 
+- ~/Dropbox/notes/transcripts/ - call transcripts
+- ~/Documents/data/
+  - s.anand@gramener.com/ and root.node@gmail.com/ - email, chat, calendar exports
+  - whatsapp/ - whatsapp exports
+  - browsing-history.db (SELECT url, timestamp, visit_count, ... FROM activity)
+  - linkedin-invites.json
 - ~/code/talks/README.md - talk transcripts, slides
 - ~/code/datastories/config.json - data stories
 - ~/code/llmdemos/config.json - innovation team demos
@@ -384,18 +395,14 @@ Use Local MCP which runs bash and exposes these under `~` at `/home/sanand/`. Pr
 - ~/code/blog/description.md - 20K files, 5K posts. Search for "- llm" for AI-related posts.
 - ~/code/til/README.md - things I learnt
 - ~/code/README.md - code repos
-- ~/r2/files/podcast - podcasts I've written for myself
-- ~/Dropbox/notes/transcripts/ - call transcripts
-- ~/Documents/data/
-  - s.anand@gramener.com/ - email, chat, calendar exports
-  - whatsapp/ - whatsapp exports
-  - browsing-history.db (SELECT url, timestamp, visit_count, ... FROM activity)
-  - linkedin-invites.json
+- ~/r2/files/podcast - podcasts written for myself
 - ~/Documents/activities/ - daily activity logs
 
 gws can access email, calendar, e.g. `gws calendar +agenda --today --timezone Asia/Singapore`, `gws gmail users messages list --params '{"userId":"me", "q": "from:..."}'`
 Skills are available via `head /home/sanand/code/scripts/agents/*/SKILL.md`.
 ```
+
+-->
 
 ## Meeting transcript summary
 
