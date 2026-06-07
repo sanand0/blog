@@ -8,6 +8,76 @@ keywords: [software-evaluation, clis, databases, llm-tools, markdown, pdf-optimi
 
 Results of my software tool evaluations. 🟢 is my current choice and 🟡 is worth evaluating.
 
+<!--
+Tools to include if missing - based on my usage frequency
+
+      3 agent-browser
+      3 amixer
+      3 arecord
+      3 copilot
+      3 deno
+      3 duf
+      3 dust
+      3 exiftool
+      3 fresh
+      3 glow
+      3 kanata
+      3 w3m
+      4 age
+      4 gum
+      4 hugo
+      4 pnpm
+      4 sg
+      4 sops
+      4 yamlq
+      5 aws
+      5 direnv
+      5 qpdf
+      5 rga
+      5 yq
+      6 rslearn
+      6 shfmt
+      7 flameshot
+      7 neomutt
+      7 pdftoppm
+      8 claude
+      8 gs
+      8 ollama
+      9 datasette
+      9 mdq
+      9 melt
+      9 openshell
+     10 lsd
+     10 pdfcpu
+     10 tealdeer
+     12 playwright
+     14 fx
+     15 tv
+     16 cargo
+     18 dig
+     19 7zz
+     19 rofi
+     20 xclip
+     22 rtk
+     23 espanso
+     25 bw
+     26 duckdb
+     26 xz
+     28 whisper
+     30 cloudflared
+     58 rsync
+     97 gcloud
+    179 docker
+    188 rclone
+    228 magick
+    250 moor
+    289 curl/wget
+    445 trash
+    470 ffmpeg/ffprobe
+    520 cwebp
+
+-->
+
 ## Agent platforms, 01 Jun 2026
 
 <!-- https://chatgpt.com/c/6a1d263a-1c58-83ec-b7a7-2c3e630ba67c -->
@@ -410,7 +480,7 @@ Assignment algorithms
 
 https://github.com/sanand0/research/tree/main/dom-markdown-extractor-eval
 
-- [pandoc 40,127 ⭐ Nov 2025](https://github.com/jgm/pandoc) uses non-standard table format
+- 🟢 [pandoc 40,127 ⭐ Nov 2025](https://github.com/jgm/pandoc) uses non-standard table format
 - [turndown 10,430 ⭐ Oct 2025](https://github.com/mixmark-io/turndown) fails on tables
 - [python-markdownify 1,840 ⭐ Aug 2025](https://github.com/matthewwithanm/python-markdownify) loses code language hints
 - [html2text 568 ⭐ Oct 2023](https://github.com/jaytaylor/html2text) has messy output, loses info
@@ -731,7 +801,7 @@ Past evals in Jun 2025: [Observability Tools Comparison](https://chatgpt.com/sha
 
 [Command-line LLM Tools](https://chatgpt.com/share/695761e3-a710-800c-b9b5-03f44a899674)
 
-- [gemini-cli 104,677 ⭐ May 2026](https://github.com/google-gemini/gemini-cli): Open-source Gemini terminal agent for coding, research, shell workflows, and large-context repo interaction.
+- 🔴 [gemini-cli 104,677 ⭐ May 2026](https://github.com/google-gemini/gemini-cli): **DEPRECATED** Open-source Gemini terminal agent for coding, research, shell workflows, and large-context repo interaction.
 - 🟢 [codex 86,510 ⭐ May 2026](https://github.com/openai/codex)
 - [aider 45,451 ⭐ May 2026](https://github.com/Aider-AI/aider). Apache 2.0. Advanced “pair-programming” CLI that maps your repo, applies edits, runs tests, and commits changes with descriptive messages.
 - [opencode 12,750 ⭐ Sep 2025](https://github.com/opencode-ai/opencode): Open-source terminal AI coding agent; belongs beside Codex/Aider as another CLI-native coding-agent option.
