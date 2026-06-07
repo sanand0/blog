@@ -3,6 +3,8 @@ title: Things I Learned - 15 Feb 2026
 date: 2026-02-15T00:00:00+00:00
 categories:
   - til
+description: I learned to concatenate media files using ffmpeg’s concat protocol, configured terminal icons with Nerd Fonts and eza, and experimented with Maple Mono font ligatures before returning to Fira Code for better readability.
+keywords: [ffmpeg, nerd fonts, eza, maple mono, fira code, font ligatures]
 ---
 
 This week, I learned:

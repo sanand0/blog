@@ -3,6 +3,8 @@ title: Things I Learned - 28 Jul 2024
 date: 2024-07-28T00:00:00+00:00
 categories:
   - til
+description: I looked into speech editing tools and GPT-4o Mini's impressive performance. I also listed dozens of text-based formats LLMs can generate to create physical artifacts like 3D models or circuits, and explored self-hosted PaaS solutions like Piku.
+keywords: [gpt-4o mini, speech editing, paas, piku, llm artifacts, self-hosting]
 ---
 
 This week, I learned:

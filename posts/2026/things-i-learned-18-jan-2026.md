@@ -3,6 +3,8 @@ title: Things I Learned - 18 Jan 2026
 date: 2026-01-18T00:00:00+00:00
 categories:
   - til
+description: I cleaned dead Python code using Vulture, explored GoatCounter for private analytics, and reviewed psychology books on performance and trauma. I also simplified Indian tax residency rules and switched to AVIF for better image compression.
+keywords: [vulture, goatcounter, avif, polyvagal theory, tax residency, deep work, python]
 ---
 
 This week, I learned:

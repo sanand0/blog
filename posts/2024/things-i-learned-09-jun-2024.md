@@ -3,6 +3,8 @@ title: Things I Learned - 09 Jun 2024
 date: 2024-06-09T00:00:00+00:00
 categories:
   - til
+description: I explored how httpretty mocks Python HTTP libraries and learned about Japanese ancestral worship practices. I also researched GPT-4o's use of CNNs and OCR for image embeddings and visualized sinusoidal series as geometric spirograms.
+keywords: [httpretty, python, gpt-4o, cnn, ocr, epicycles, ancestor worship]
 ---
 
 This week, I learned:

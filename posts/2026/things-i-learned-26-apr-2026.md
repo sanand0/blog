@@ -3,6 +3,8 @@ title: Things I Learned - 26 Apr 2026
 date: 2026-04-26T00:00:00+00:00
 categories:
   - til
+description: I tested Cloudflare Browser Run and GPT 5.5, added gpt-image-2 to my art gallery, and learned Pandoc tricks for Word comments. I also found a workaround for nested git repositories and explored MCP server auth complexities.
+keywords: [mdq, cloudflare browser run, gpt 5.5, gpt-image-2, pandoc, mcp server, git, claude code]
 ---
 
 This week, I learned:

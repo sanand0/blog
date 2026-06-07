@@ -3,6 +3,8 @@ title: Things I Learned - 27 Apr 2025
 date: 2025-04-27T00:00:00+00:00
 categories:
   - til
+description: I explored OpenAI reasoning models, Promptfoo for evals, and terminal tools like cmdg and gcalcli. I also learned about Python’s new t-strings, optimized my fish shell startup, and tested the Unsure Calculator for modeling range-based estimates.
+keywords: [openai, promptfoo, rwkv, cmdg, gcalcli, duckdb, nix-flakes, python]
 ---
 
 This week, I learned:

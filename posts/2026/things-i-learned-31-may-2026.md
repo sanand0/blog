@@ -3,6 +3,8 @@ title: Things I Learned - 31 May 2026
 date: 2026-05-31T00:00:00+00:00
 categories:
   - til
+description: I signed files with OIDC using cosign, queried Wikipedia as Parquet with DuckDB, and explored the PRAGMA model's tabular data tokenization. I also set up local MCP in ChatGPT Developer Mode for unmetered AI coding.
+keywords: [cosign, duckdb, parquet, pragma model, mcp, tokenization, cal.com api, arxiv2md]
 ---
 
 This week, I learned:

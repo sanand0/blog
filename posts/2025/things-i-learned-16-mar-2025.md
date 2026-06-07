@@ -3,6 +3,8 @@ title: Things I Learned - 16 Mar 2025
 date: 2025-03-16T00:00:00+00:00
 categories:
   - til
+description: I explored low-cost robotics like SO-ARM100, optimized Docker images with multi-stage builds, and adopted Marp for Markdown slides. I also investigated Model Context Protocol (MCP) workflows and techniques for serving structured content to LLM agents.
+keywords: [so-arm100, docker, marp, model context protocol, lerobot, mathml, content negotiation, htmlq]
 ---
 
 This week, I learned:

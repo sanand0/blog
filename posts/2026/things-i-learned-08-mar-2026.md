@@ -3,6 +3,8 @@ title: Things I Learned - 08 Mar 2026
 date: 2026-03-08T00:00:00+00:00
 categories:
   - til
+description: I increased Claude Code's output limit to 64k, adopted agent-friendly CLI practices with Google Workspace, and switched to the 'just' task runner. I've also stopped manual code formatting now that AI handles most of my development.
+keywords: [claude code, google workspace cli, just, mise, ai prompt engineering, agent-friendly cli]
 ---
 
 This week, I learned:

@@ -3,6 +3,8 @@ title: Things I Learned - 04 May 2025
 date: 2025-05-04T00:00:00+00:00
 categories:
   - til
+description: I tested local LLMs for shell tasks, compared Indian exam requirements, and cataloged free cloud shell providers. I also explored computer-use agents, ngrok authentication tricks, and efficient SQLite data migrations using gzip streams.
+keywords: [ollama, uv, ngrok, sqlite, computer-use agents, cloud shell, qwen3, generative ai]
 ---
 
 This week, I learned:

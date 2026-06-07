@@ -3,6 +3,8 @@ title: Things I Learned - 04 Feb 2024
 date: 2024-02-04T00:00:00+00:00
 categories:
   - til
+description: I explored VFX techniques, Google’s internal culture management, and Paul Sloan’s lateral thinking methods. I also experimented with GPT @mentions, Vanna for SQL generation, and OpenAI’s latest truncated embeddings for more efficient retrieval.
+keywords: [alzhara, lateral thinking, vanna, openai, retrieval centric generation, appagent, mistral]
 ---
 
 This week, I learned:

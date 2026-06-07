@@ -3,6 +3,8 @@ title: Things I Learned - 19 Nov 2023
 date: 2023-11-19T00:00:00+00:00
 categories:
   - til
+description: I explored recent AI updates including Microsoft's Everything of Thought, fine-tuning datasets without inputs, and Tamil-Llama. I also checked out Voyager's Minecraft agent, Langchain's evaluators, and the power of using Pydantic to unify code, data, and text.
+keywords: [xot, fine-tuning, tamil-llama, voyager, langchain, pydantic]
 ---
 
 This week, I learned:

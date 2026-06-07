@@ -3,6 +3,8 @@ title: Things I Learned - 16 Nov 2025
 date: 2025-11-16T00:00:00+00:00
 categories:
   - til
+description: I find faster Ubuntu mirrors, learn FLIP animation techniques, and analyze the Microsoft-OpenAI deal. Most excitingly, I calculate the low cost of using AI as a personal coach to analyze 180 of my recorded calls.
+keywords: [flip animation, gemini 2.5 flash, claude code, olmoearth, microsoft-openai deal, codemods, deepseek-v3.2-exp, vaultgemma]
 ---
 
 This week, I learned:

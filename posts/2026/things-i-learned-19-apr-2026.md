@@ -3,6 +3,8 @@ title: Things I Learned - 19 Apr 2026
 date: 2026-04-19T00:00:00+00:00
 categories:
   - til
+description: I explored how coding agents have changed the perceived value of web apps and discovered WaveCity and Audiomass, two impressive browser-based audio editors powered by WebAssembly that bring desktop-level capabilities to the web.
+keywords: [webassembly, coding agents, wavacity, audiomass, wasm, web apps, audio editing]
 ---
 
 This week, I learned:

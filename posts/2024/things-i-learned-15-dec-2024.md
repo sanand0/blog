@@ -3,6 +3,8 @@ title: Things I Learned - 15 Dec 2024
 date: 2024-12-15T00:00:00+00:00
 categories:
   - til
+description: I explored Windows 11 updates like native sudo and Paint Cocreator, learned about "Roaming RAG" for structured documents, and benchmarked SentenceTransformer embeddings, finding that smaller batches significantly improve encoding performance on Colab T4 GPUs.
+keywords: [windows 11, roaming rag, sentencetransformers, llm benchmarks, aws bedrock, shell globbing, stackoverflow, rss]
 ---
 
 This week, I learned:

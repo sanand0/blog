@@ -3,6 +3,8 @@ title: Things I Learned - 03 Aug 2025
 date: 2025-08-03T00:00:00+00:00
 categories:
   - til
+description: I share my strategies for better LLM usage, focusing on voice interaction and 'impossibility lists.' I also cover Luis Alvarez’s diverse scientific discoveries, compare AI coding assistants, and break down common patterns found in system prompts.
+keywords: [ai-assisted coding, llms, luis alvarez, prompt engineering, claude code, ffmpeg, gemini-cli, transcription]
 ---
 
 This week, I learned:

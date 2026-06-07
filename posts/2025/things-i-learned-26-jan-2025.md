@@ -3,6 +3,8 @@ title: Things I Learned - 26 Jan 2025
 date: 2025-01-26T00:00:00+00:00
 categories:
   - til
+description: I explored public speaking tips, behavioral traps from the book Clear Thinking, and benchmarking data on LLM providers. I also examined why I'm switching to DeepSeek and why viewing LLMs as aliens helps explain their bizarre failures.
+keywords: [deepseek, portkey, clear thinking, llm benchmarks, public speaking, behavioral psychology, chatgpt]
 ---
 
 This week, I learned:

@@ -3,6 +3,8 @@ title: Things I Learned - 09 Feb 2025
 date: 2025-02-09T00:00:00+00:00
 categories:
   - til
+description: 'I learned teaching techniques from IIT Madras, automated video highlights with OpusClip, and summarized DuckCon #6. I also found that DeepSeek R1 excels at text-to-CAD and gathered OpenAI’s latest prompting advice for reasoning models.'
+keywords: [duckdb, opusclip, deepseek r1, ibis, data catalogs, postman alternatives, reasoning models, openai prompting]
 ---
 
 This week, I learned:

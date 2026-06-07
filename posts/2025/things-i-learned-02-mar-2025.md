@@ -3,6 +3,8 @@ title: Things I Learned - 02 Mar 2025
 date: 2025-03-02T00:00:00+00:00
 categories:
   - til
+description: I explored Podman for local databases and studied how AI replaces professional research reports. I also tested real-time Whisper transcription tools, discovered DuckDB SQL shortcuts, and learned the weird history behind Roman urine taxes.
+keywords: [podman, duckdb, whisper, prompt engineering, nix, python, proxmox, vscode]
 ---
 
 This week, I learned:

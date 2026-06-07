@@ -3,6 +3,8 @@ title: Things I Learned - 20 Apr 2025
 date: 2025-04-20T00:00:00+00:00
 categories:
   - til
+description: I learned about devcontainers and GitPod for portable coding, OpenAI’s o3/o4 tool capabilities, and Marp’s morphing animations for Markdown slides. My notes also cover zero-day options, financial AI limitations, and practical advice for starting a consultancy.
+keywords: [devcontainers, gitpod, marp, openai o3, zero-day options, deepcoder, webcontainers, marimo]
 ---
 
 This week, I learned:

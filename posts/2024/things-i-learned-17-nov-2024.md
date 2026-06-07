@@ -3,6 +3,8 @@ title: Things I Learned - 17 Nov 2024
 date: 2024-11-17T00:00:00+00:00
 categories:
   - til
+description: I discovered Anthropic’s condensed documentation, Gemini’s OpenAI-compatible API, and Alphafold 3's open-sourcing. I also learned about LLM attention sinks, compared Whisper and Gemini for transcription, and explored using Prefect as a lightweight alternative to Airflow.
+keywords: [anthropic, gemini api, alphafold 3, cloudflare r2, prefect, whisper, attention sinks, claude]
 ---
 
 This week, I learned:

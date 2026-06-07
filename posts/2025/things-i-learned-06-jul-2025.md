@@ -3,6 +3,8 @@ title: Things I Learned - 06 Jul 2025
 date: 2025-07-06T00:00:00+00:00
 categories:
   - til
+description: I discovered DuckDB's ability to read JSON APIs and found an undocumented link for managing scheduled LinkedIn posts. I also wrote a JS snippet to export npm version history as Markdown and defined better HITL review workflows.
+keywords: [duckdb, apache arrow, parquet, linkedin, npm, human-in-the-loop, javascript]
 ---
 
 This week, I learned:

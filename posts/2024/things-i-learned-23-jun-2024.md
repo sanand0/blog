@@ -3,6 +3,8 @@ title: Things I Learned - 23 Jun 2024
 date: 2024-06-23T00:00:00+00:00
 categories:
   - til
+description: I discovered Luma Labs Dream Machine for AI video generation and the LLM DataHub for training datasets. I also learned to prioritize duration over returns in compounding and received tips for running distraction-free workshops.
+keywords: [luma labs, dream machine, llm datahub, morgan housel, compounding, workshop facilitation]
 ---
 
 This week, I learned:

@@ -3,6 +3,8 @@ title: Things I Learned - 03 Dec 2023
 date: 2023-12-03T00:00:00+00:00
 categories:
   - til
+description: I evaluated AI detectors like GPTZero, finding them more accurate than Undetectable.ai. I also learned about CoVA for OCR-based scraping and the necessity of maintaining short, reliable feedback loops when using LLMs to write or maintain code.
+keywords: [llms, gptzero, undetectable.ai, cova, ocr, web scraping]
 ---
 
 This week, I learned:

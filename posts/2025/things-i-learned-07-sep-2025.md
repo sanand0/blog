@@ -3,6 +3,8 @@ title: Things I Learned - 07 Sep 2025
 date: 2025-09-07T00:00:00+00:00
 categories:
   - til
+description: I explored techniques for managing LLM coding agents, Anthropic's multi-agent architecture, and persona vectors. I also found handy tools like gitingest for repo ingestion, the O*NET database for job analysis, and modern browser APIs for file access.
+keywords: [llm-agents, anthropic-api, claude-code, gitingest, persona-vectors, o-net, multi-agent-systems]
 ---
 
 This week, I learned:

@@ -3,6 +3,8 @@ title: Things I Learned - 25 Feb 2024
 date: 2024-02-25T00:00:00+00:00
 categories:
   - til
+description: I explored the emerging Architecture.md standard, htmz for loading HTML, and tokenization nuances in LLMs. My learnings cover everything from agricultural robotics and hardware trends at NVIDIA to mounting SQLite as a filesystem using wddbfs.
+keywords: [architecture.md, htmz, tokenization, llms, quantum computing, sqlite, fastcore]
 ---
 
 This week, I learned:

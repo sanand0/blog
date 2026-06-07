@@ -3,6 +3,8 @@ title: Things I Learned - 24 Dec 2023
 date: 2023-12-24T00:00:00+00:00
 categories:
   - til
+description: I compared Mixtral-8x7b to GPT-4, studied DPO for fine-tuning, and took notes on Jeff Bezos’ leadership principles. I also found tools like Whisper-standalone for Windows transcription and Token Tally for estimating LLM token and GPU costs.
+keywords: [dpo, mixtral-8x7b, jeff bezos, chatbot arena, faster-whisper, token tally, llm fine-tuning]
 ---
 
 This week, I learned:

@@ -3,6 +3,8 @@ title: Things I Learned - 15 Jun 2025
 date: 2025-06-15T00:00:00+00:00
 categories:
   - til
+description: I explored data tools like dbmate and yq, learned about LLM evaluation strategies from Hamel Hussain, and researched jailbreak patterns. I also looked into the limits of AI reasoning and discovered how to use Reddit RSS feeds.
+keywords: [dbmate, yq, llm evaluation, rag, jailbreak patterns, pdfplumber, qsv]
 ---
 
 This week, I learned:

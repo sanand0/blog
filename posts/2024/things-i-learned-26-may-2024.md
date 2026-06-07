@@ -3,6 +3,8 @@ title: Things I Learned - 26 May 2024
 date: 2024-05-26T00:00:00+00:00
 categories:
   - til
+description: I explored home networking and LLM infrastructure, discovering WiFi 6 beam-forming, Predibase's competitive pricing for fine-tuned models, RunPod's serverless vLLM endpoints for HuggingFace models, and Portkey's utility as an AI model router.
+keywords: [wifi 6, beam-forming, predibase, runpod, vllm, portkey, huggingface]
 ---
 
 This week, I learned:

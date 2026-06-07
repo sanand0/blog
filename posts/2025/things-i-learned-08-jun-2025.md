@@ -3,6 +3,8 @@ title: Things I Learned - 08 Jun 2025
 date: 2025-06-08T00:00:00+00:00
 categories:
   - til
+description: I documented my findings on AI coding workflows, including leveraging LLMs for specs and reviewing. I compared Claude Code and O3 performance, tested anyascii for character transliteration, and explored tools like FastMCP and automated documentation generators.
+keywords: [ai-coding, claude-code, o3-model, fastmcp, anyascii, cloudflare-workers, llm-benchmarks, speech-to-text]
 ---
 
 This week, I learned:

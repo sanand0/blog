@@ -3,6 +3,8 @@ title: Things I Learned - 02 Feb 2025
 date: 2025-02-02T00:00:00+00:00
 categories:
   - til
+description: I learned about JavaScript's Temporal object, appending hidden data to PDFs, and using embeddings for ML classification. I also explored AI-driven business models, including zero-employee companies, and how compute dominance shapes global AI power.
+keywords: [temporal api, webassembly, machine learning, embeddings, zero-employee companies, inflation, ai product management]
 ---
 
 This week, I learned:

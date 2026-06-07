@@ -3,6 +3,8 @@ title: Things I Learned - 12 May 2024
 date: 2024-05-12T00:00:00+00:00
 categories:
   - til
+description: I explored leadership insights from the Radio Free XP podcast, learning to announce plans early for alignment, provide actionable information instead of direct orders, and acknowledging the challenges of shifting company culture without being the boss.
+keywords: [radio free xp, nudge podcast, leadership, communication, organizational culture, alignment]
 ---
 
 This week, I learned:

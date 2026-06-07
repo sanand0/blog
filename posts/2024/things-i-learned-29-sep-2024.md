@@ -3,6 +3,8 @@ title: Things I Learned - 29 Sep 2024
 date: 2024-09-29T00:00:00+00:00
 categories:
   - til
+description: I explored using Pyodide for browser DOM access and PyMuPDF4LLM for converting PDFs to Markdown. I also compared AVIF to GIF compression, experimented with Opus audio encoding, and researched Anthropic’s contextual retrieval methods for improved RAG performance.
+keywords: [pyodide, avif, opus, pymupdf4llm, contextual retrieval, ffmpeg, rag, sentient]
 ---
 
 This week, I learned:

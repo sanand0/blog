@@ -3,6 +3,8 @@ title: Things I Learned - 14 Jan 2024
 date: 2024-01-14T00:00:00+00:00
 categories:
   - til
+description: I investigated Marimo for reactive Python, Python 3.13's JIT, and why 4-bit quantization beats smaller models. I also discovered an npm unpublishing flaw and discussed how AI shifts education toward troubleshooting and systems thinking.
+keywords: [marimo, python, jit, npm, quantization, llm, embeddings, wasm]
 ---
 
 This week, I learned:

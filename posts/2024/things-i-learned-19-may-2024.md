@@ -3,6 +3,8 @@ title: Things I Learned - 19 May 2024
 date: 2024-05-19T00:00:00+00:00
 categories:
   - til
+description: I learned about the post-WW2 history of the letter Å in Scandinavian alphabets, the construction of Zalgo text through Unicode characters, and Artificial Analysis for benchmarking LLM API performance metrics like speed and cost.
+keywords: [scandinavian alphabet, zalgo text, unicode, artificial analysis, llm benchmarks, orthography]
 ---
 
 This week, I learned:

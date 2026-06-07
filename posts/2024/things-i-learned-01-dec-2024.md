@@ -3,6 +3,8 @@ title: Things I Learned - 01 Dec 2024
 date: 2024-12-01T00:00:00+00:00
 categories:
   - til
+description: I experimented with Gemini’s JSON ordering, GPT-4o Audio's tone control, and Microsoft’s LIDA for data viz. I also built an AutoHotkey script for ChatGPT, explored AssemblyScript for WASM, and reviewed Andrew Ng’s insights on agentic workflows.
+keywords: [gemini, lida, htmx, assemblyscript, anthropic, gpt-4o, agentic-workflows, crawl4ai]
 ---
 
 This week, I learned:

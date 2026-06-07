@@ -3,6 +3,8 @@ title: Things I Learned - 12 Oct 2025
 date: 2025-10-12T00:00:00+00:00
 categories:
   - til
+description: I explore LLM backdoor vulnerabilities, "brain coding" vs AI agents, and why DeBERTa still beats LLMs at emotion classification. I also dive into systematizing failure and suggest recruitment strategies for an era of human AI-operators.
+keywords: [data-poisoning, deberta, ai-agents, zx, brain-coding, emotion-classification, radical-candor, css-functions]
 ---
 
 This week, I learned:

@@ -3,6 +3,8 @@ title: Things I Learned - 31 Dec 2023
 date: 2023-12-31T00:00:00+00:00
 categories:
   - til
+description: I explored the limits of quantum computing, applied Socratic questioning to identify my true beliefs, and looked into shrinking LLMs via neuron pruning. I also researched super-intelligence capabilities and curated a list of essential management books.
+keywords: [quantum computing, socratic method, mini-gpts, super-intelligence, management books, neuron pruning, psychology]
 ---
 
 This week, I learned:

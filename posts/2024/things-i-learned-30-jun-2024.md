@@ -3,6 +3,8 @@ title: Things I Learned - 30 Jun 2024
 date: 2024-06-30T00:00:00+00:00
 categories:
   - til
+description: I explored Amara's law and LLM development patterns like RAG and defensive UX. I also investigated ROUGE metrics for AI evaluation, discovered calculator spelling tricks, and experimented with Tor for cleaner torrent searches.
+keywords: [amara's law, llm patterns, rag, rouge metric, defensive ux, tor browser, calculator spelling]
 ---
 
 This week, I learned:

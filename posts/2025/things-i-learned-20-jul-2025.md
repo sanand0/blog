@@ -3,6 +3,8 @@ title: Things I Learned - 20 Jul 2025
 date: 2025-07-20T00:00:00+00:00
 categories:
   - til
+description: I explored Inevitablism and LLM chat interfaces while optimizing my CLI workflow with tools like eza and uv. I also detailed extensive Claude Code features, including memory management, custom slash commands, and integration with Sentry MCP.
+keywords: [claude code, inevitablism, cli tools, eza, uv, mcp, lazygit, xh]
 ---
 
 This week, I learned:

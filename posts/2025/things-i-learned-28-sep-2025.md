@@ -3,6 +3,8 @@ title: Things I Learned - 28 Sep 2025
 date: 2025-09-28T00:00:00+00:00
 categories:
   - til
+description: I replaced lxml with selectolax, managed Python environments with uv, and tested GitHub Actions locally using wrkflw. I also explored habit engineering, task parity in AI, and used markitdown to convert websites via CLI.
+keywords: [selectolax, uv, wrkflw, markitdown, yt-dlp, visidata, jsdoc, envsubst]
 ---
 
 This week, I learned:

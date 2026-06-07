@@ -3,6 +3,8 @@ title: Things I Learned - 05 May 2024
 date: 2024-05-05T00:00:00+00:00
 categories:
   - til
+description: I gathered innovation insights on solving personal problems and leveraging spares from Hidden Brain. I also discovered curl’s globbing and email support, explored Gemini prompt guides, and noted ESLint’s flat configuration changes regarding package.json.
+keywords: [hidden brain, innovation, curl, beetrove, gemini, eslint, flat config]
 ---
 
 This week, I learned:

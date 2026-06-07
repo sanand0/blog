@@ -3,6 +3,8 @@ title: Things I Learned - 16 Feb 2025
 date: 2025-02-16T00:00:00+00:00
 categories:
   - til
+description: I explored Connected Papers for research and summarized a StackOverflow talk on AI's impact on developer productivity. I also switched to fish shell, configured the Ruff VS Code extension, and discovered the CDPATH variable and Flipper Zero.
+keywords: [connected papers, stackoverflow, fish shell, ruff, flipper zero, cdpath]
 ---
 
 This week, I learned:

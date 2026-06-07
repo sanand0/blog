@@ -3,6 +3,8 @@ title: Things I Learned - 02 Jun 2024
 date: 2024-06-02T00:00:00+00:00
 categories:
   - til
+description: I explored Modal.com for GPUs, hybrid search using reciprocal rank fusion for RAG, and tested Undermind.ai for deep research. I also looked into audio embedding models, LLM routers like LiteLLM, and the psychological difficulty of subtraction in innovation.
+keywords: [modal.com, reciprocal rank fusion, rag, undermind.ai, audio embeddings, litellm, llm routers]
 ---
 
 This week, I learned:

@@ -3,6 +3,8 @@ title: Things I Learned - 25 May 2025
 date: 2025-05-25T00:00:00+00:00
 categories:
   - til
+description: I explored oxlint as a fast linter, compared text-to-speech costs across major LLMs, and learned how to extract personal metadata from ChatGPT. I also researched state mortality patterns, UUID7 in DuckDB, and tools for sharing podcast RSS feeds.
+keywords: [oxlint, text-to-speech, pikepdf, chatgpt, voyage 3.5, uuid7, duckdb, podcasting]
 ---
 
 This week, I learned:

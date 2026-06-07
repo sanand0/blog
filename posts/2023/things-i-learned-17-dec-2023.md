@@ -3,6 +3,8 @@ title: Things I Learned - 17 Dec 2023
 date: 2023-12-17T00:00:00+00:00
 categories:
   - til
+description: I explored Grab’s map optimizations, Amex’s explainable credit models, and batch inferencing with vLLM. I also looked into Playwright for browser testing, Mixtral-8x7b-Instruct's performance, and Microsoft’s LIDA for LLM-powered data visualization.
+keywords: [grab, vllm, playwright, mixtral, ast-grep, lida, github copilot]
 ---
 
 This week, I learned:

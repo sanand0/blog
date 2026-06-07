@@ -3,6 +3,8 @@ title: Things I Learned - 22 Dec 2024
 date: 2024-12-22T00:00:00+00:00
 categories:
   - til
+description: I categorized hosting platforms, broke down Anthropic’s agentic patterns like routing and prompt chaining, and found a useful yt-dlp snippet for subtitles. I also analyzed OpenAI's GPT-4o mini Realtime pricing and Python's markdown2 library.
+keywords: [hosting-platforms, agentic-workflows, anthropic, yt-dlp, openai-realtime, markdown2, spreadsheetllm]
 ---
 
 This week, I learned:

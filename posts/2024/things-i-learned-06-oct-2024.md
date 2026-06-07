@@ -3,6 +3,8 @@ title: Things I Learned - 06 Oct 2024
 date: 2024-10-06T00:00:00+00:00
 categories:
   - til
+description: I explored ffmpeg on WASM, geocoding systems like Uber’s H3, and embeddable cloud databases like MotherDuck and Turso. I also examined Software 2.0 paradigms, OpenAI’s Realtime API, and the evolving dynamics of AI-assisted coding for different skill levels.
+keywords: [ffmpeg, wasm, h3, duckdb, openai realtime api, software 2.0, graph rag, sqlite]
 ---
 
 This week, I learned:

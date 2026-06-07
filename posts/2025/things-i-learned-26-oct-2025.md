@@ -3,6 +3,8 @@ title: Things I Learned - 26 Oct 2025
 date: 2025-10-26T00:00:00+00:00
 categories:
   - til
+description: I analyzed my LinkedIn network with ChatGPT and explored how agents can use self-generated code as memory. I also tracked browser agent use cases like form filling and using LLMs for convex optimization research.
+keywords: [vibe coding, browser agents, convex optimization, codex cli, agent memory, linkedin, gpt-5]
 ---
 
 This week, I learned:

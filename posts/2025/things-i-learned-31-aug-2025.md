@@ -3,6 +3,8 @@ title: Things I Learned - 31 Aug 2025
 date: 2025-08-31T00:00:00+00:00
 categories:
   - til
+description: I automated habit-stacking with shell scripts, analyzed my meeting communication patterns, and explored AI coding via Claude Code. I also tested Cloudflare’s AutoRAG, the OKLCH color model, and used rclone for Google Drive transcript exports.
+keywords: [habit stacking, arthashastra, mixture of agents, cloudflare autorag, oklch, rclone, claude code]
 ---
 
 This week, I learned:

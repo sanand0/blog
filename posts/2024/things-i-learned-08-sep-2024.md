@@ -3,6 +3,8 @@ title: Things I Learned - 08 Sep 2024
 date: 2024-09-08T00:00:00+00:00
 categories:
   - til
+description: I benchmarked RAM and CPU usage across FastAPI, Node, and Deno, while exploring several video and audio generative AI tools. I also identified whisperX for diarization and tested Reflection 70b's internal reflection mechanism for improved model accuracy.
+keywords: [fastapi, deno, generative video, reflection 70b, whisperx, diarization, coedit-xxl]
 ---
 
 This week, I learned:

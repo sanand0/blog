@@ -3,6 +3,8 @@ title: Things I Learned - 07 Jan 2024
 date: 2024-01-07T00:00:00+00:00
 categories:
   - til
+description: I explore the history of TCS Ignite, Raman Srinivasan’s insights on Indian space tech, and the leadership style of S. Ramadorai. I also cover GPT-4's math limitations, new AI education tools, and technologies like GitOps and LMQL.
+keywords: [tcs ignite, ramadorai, space tech, gpt-4, lmql, gitops, instruction tuning, generative ai]
 ---
 
 This week, I learned:

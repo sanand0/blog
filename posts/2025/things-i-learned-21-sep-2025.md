@@ -3,6 +3,8 @@ title: Things I Learned - 21 Sep 2025
 date: 2025-09-21T00:00:00+00:00
 categories:
   - til
+description: I found that ChatGPT’s thinking mode can over-edit images and learned to measure LLM accuracy against human agreement. I also explore CLI tools like ugrep and yt-dlp, VS Code terminal tricks, and why organizational transaction costs inflate budgets.
+keywords: [ugrep, yt-dlp, systemd, llm-as-a-judge, vs code, transaction costs, chatgpt]
 ---
 
 This week, I learned:

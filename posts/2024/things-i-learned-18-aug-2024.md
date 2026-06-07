@@ -3,6 +3,8 @@ title: Things I Learned - 18 Aug 2024
 date: 2024-08-18T00:00:00+00:00
 categories:
   - til
+description: I researched code agent frameworks including Factory and Cognition, tested multi-modal generators like Flux and Suno, discovered DocxTemplater for document automation, and experimented with the browser's File System API using showDirectoryPicker.
+keywords: [cognition, factory.ai, codegen, flux, runway gen-3, suno, docxtemplater, file system api]
 ---
 
 This week, I learned:

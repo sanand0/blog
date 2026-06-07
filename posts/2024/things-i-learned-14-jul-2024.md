@@ -3,6 +3,8 @@ title: Things I Learned - 14 Jul 2024
 date: 2024-07-14T00:00:00+00:00
 categories:
   - til
+description: I explored VS Code venv setups, the benefits of writing for oneself, and why overthinking backfires. I also compared text-to-speech pricing across OpenAI, Deepgram, and cloud providers, noting Elevenlabs' significantly higher costs.
+keywords: [vs code, jupyter, text-to-speech, elevenlabs, wu wei, knowledge project, deepgram, venv]
 ---
 
 This week, I learned:

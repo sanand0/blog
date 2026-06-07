@@ -3,6 +3,8 @@ title: Things I Learned - 09 Mar 2025
 date: 2025-03-09T00:00:00+00:00
 categories:
   - til
+description: I explored ChatGPT's export limits, Zettelkasten note-taking, and AI agent architectures from the AI Engineering Summit. I also noted Tyler Cowen’s LLM writing workflows, new OCR models, and the 'Diffusion LLM' approach to fixing hallucinations.
+keywords: [chatgpt, zettelkasten, ai agents, diffusion llms, ocr, cursor, prompt engineering, privacy sandbox]
 ---
 
 This week, I learned:

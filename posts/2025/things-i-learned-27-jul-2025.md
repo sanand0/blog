@@ -3,6 +3,8 @@ title: Things I Learned - 27 Jul 2025
 date: 2025-07-27T00:00:00+00:00
 categories:
   - til
+description: I evaluated my data science skills against O3, built an image tool using Codex, and explored India's tech community builders. I also learned about DuckDB’s embedding joins, GitHub Sponsors Explore, and the 'udm=14' trick for clean Google searches.
+keywords: [duckdb, github sponsors, codex, o3, india, markmap, digital public infrastructure]
 ---
 
 This week, I learned:

@@ -3,6 +3,8 @@ title: Things I Learned - 20 Oct 2024
 date: 2024-10-20T00:00:00+00:00
 categories:
   - til
+description: I learned SQLite optimizations like WAL mode and synchronous settings for better concurrency. I also explored how AI impacts apprenticeship and education, alongside technical demos involving the OpenAI Realtime API and high-performance video rendering in Minecraft.
+keywords: [sqlite, wal mode, openai realtime api, educational technology, world models, prompt engineering]
 ---
 
 This week, I learned:

@@ -3,6 +3,8 @@ title: Things I Learned - 23 Mar 2025
 date: 2025-03-23T00:00:00+00:00
 categories:
   - til
+description: I explored DeepSeek R1 training, how AI models are absorbing app capabilities, and fixing Windows symlinks for Hugging Face. I also discovered DuckDB's built-in notebook UI, Gemini’s YouTube API, and Karpathy-inspired note-taking workflows.
+keywords: [deepseek r1, huggingface_hub, duckdb, gemini flash, windows, hocuspocus, blocknotejs, rust]
 ---
 
 This week, I learned:

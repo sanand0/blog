@@ -3,6 +3,8 @@ title: Things I Learned - 13 Apr 2025
 date: 2025-04-13T00:00:00+00:00
 categories:
   - til
+description: I explored Claude 3.7's extended thinking capabilities, learned to bypass SQLite locks for browser history, and used chroot for Linux recovery. I also discovered Nomic's multimodal embeddings and new tools for AI-driven social research and speech cloning.
+keywords: [claude 3.7, sqlite, chroot, animejs, multimodal embeddings, paperbench, hailuo speech-02, deep research]
 ---
 
 This week, I learned:

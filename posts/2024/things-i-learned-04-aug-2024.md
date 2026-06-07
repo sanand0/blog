@@ -3,6 +3,8 @@ title: Things I Learned - 04 Aug 2024
 date: 2024-08-04T00:00:00+00:00
 categories:
   - til
+description: 'I discovered how assisted generation speeds up LLMs using smaller models, explored AI-powered Advanced Paste in PowerToys, and investigated Turing complete systems like Magic: The Gathering. I also checked Rev.ai for cost-effective audio diarization.'
+keywords: [assisted generation, powertoys, turing completeness, rev.ai, diarization, speculative decoding]
 ---
 
 This week, I learned:
