@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "A short anecdote about using ChatGPT to solve a confusing hotel sink stopper problem that experience alone did not help with."
 keywords: [ChatGPT, travel, sink stopper, hotel, everyday problem solving, Seoul]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7246836804249628672/
 ---
 
 After 15 minutes of a hard struggle, I finally asked #ChatGPT "How do I open the thing that's closing the sink to allow the water to go down?"

@@ -6,6 +6,7 @@ categories:
 - llms
 description: Students using different LLMs perform differently enough that model choice appears to have a real impact on grades.
 keywords: [LLM comparison, grades, education, student performance, model choice, causal analysis]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7435669110027489280/
 ---
 
 ![](https://files.s-anand.net/images/2026-03-06-which-llm-get-you-better-grades.avif) <!-- https://gemini.google.com/app/72f962e80615e800 -->

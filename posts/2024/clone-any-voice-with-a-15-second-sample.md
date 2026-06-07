@@ -8,6 +8,7 @@ categories:
 wp_id: 3667
 description: "F5-TTS makes voice cloning practical from a 15-second sample, opening up lightweight workflows for audiobooks, IVR, and easily editable narrated presentations."
 keywords: [voice cloning, F5-TTS, text to speech, audio generation, Colab, presentations]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7255201410839916544/
 ---
 
 ![Clone any voice with a 15-second sample](/blog/assets/calvin-voice-cloning.webp)

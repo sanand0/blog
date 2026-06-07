@@ -5,6 +5,7 @@ categories:
   - linkedin
 description: I found that AI now outperforms my 20 years of data visualization experience in creative ideation. While Gemini and Claude suggest innovative xenographics and animations, my value has shifted to selecting the right chart based on audience and taste.
 keywords: [data visualization, xenographics, generative ai, gemini, claude, prompt engineering, information design]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7406883661054251009/
 ---
 
 I _used to be_ a data visualization expert. I'm not sure I still am.

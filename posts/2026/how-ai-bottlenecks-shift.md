@@ -3,6 +3,8 @@ title: How AI bottlenecks shift
 date: 2026-06-05T13:59:11+08:00
 categories:
   - llms
+description: I map how AI bottlenecks shift across coding, agents, and enterprise data. By examining transitions from tool-calling to reliability and context windows to evaluation, I highlight why yesterday’s impossible tasks are today’s standard features.
+keywords: [model context protocol, swe-bench, long-context llms, autonomous agents, ai reliability, multimodal vision, dora research]
 ---
 
 ![](https://files.s-anand.net/images/2026-06-05-how-ai-bottlenecks-shift.avif)

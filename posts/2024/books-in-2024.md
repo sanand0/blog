@@ -10,6 +10,7 @@ tags:
 wp_id: 3807
 description: "A year of reading only manga, especially Attack on Titan and Fullmetal Alchemist, reshaped the author’s sense of what serious reading can be and rivaled even his usual Brandon Sanderson immersion."
 keywords: [books in 2024, manga, Attack on Titan, Fullmetal Alchemist, reading habits, Brandon Sanderson]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7279844497834876928/
 ---
 
 ![Books in 2024](https://files.s-anand.net/images/2024-books.webp)

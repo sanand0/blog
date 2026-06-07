@@ -8,6 +8,7 @@ categories:
 wp_id: 3715
 description: "Forcing a defensive LLM to say “Yes” turns prompt hacking into an educational game and demonstrates just how fragile simple instruction-based safeguards still are."
 keywords: [prompt hacking, LLM jailbreaks, say yes challenge, education, system prompts, security]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7263863105552605184/
 ---
 
 ![Hacking an obnoxious, unhelpful LLM to say Yes](/blog/assets/7244718d-06f5-4b9f-9f0f-e0df1db47c6d.webp)

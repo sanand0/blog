@@ -5,6 +5,7 @@ categories:
   - linkedin
 description: I joined a podcast on LLM Psychology and demonstrated how to repurpose video into sketch-notes, slides, and articles. Using LLMs to transform complex documents makes information more accessible by matching my preferred consumption style.
 keywords: [llm psychology, content repurposing, sketchnotes, multimodal ai, information accessibility, generative ai]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7400771708883771392/
 ---
 
 I joined Madhu Sathiaseelan's podcast to talk about LLM Psychology.

@@ -8,6 +8,7 @@ categories:
 wp_id: 3453
 description: "This comic essay elevates food scraping into an art form, complete with material science, vessel selection, utensil strategy, and a deeply personal defense of getting every last bit."
 keywords: ["food habits", "scraping", "humor", "dessert", "efficiency", "manners"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7124251423550185472/
 ---
 
 ![Scraping](/blog/assets/DALL·E-2023-10-29-11.04.58-Photo-of-an-empty-white-ceramic-plate-that-once-held-a-hot-chocolate-brownie-sizzler-taken-from-a-lower-angle-like-a-childs-perspective.-The-plate-i.webp)

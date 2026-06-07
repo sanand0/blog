@@ -5,6 +5,7 @@ categories:
   - linkedin
 description: I discovered Gemini is practically music-deaf, showing zero correlation with human emotional ratings across 40 songs. It over-predicts joy and ignores tension, suggesting it guesses based on text transcriptions rather than actually hearing the audio.
 keywords: [gemini, music emotion, audio analysis, multimodal llm, affective computing, emotion recognition]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7409634892520546305/
 ---
 
 Gemini can pass the bar exam and solve maths olympiad puzzles. But it's music-deaf.

@@ -6,6 +6,7 @@ categories:
   - linkedin
 description: "A very simple eating rule change, not exercise, drove major weight loss, with AI used mainly to analyze and visualize the outcome."
 keywords: ["weight loss", "fasting", "health", "self-tracking", "data visualization", "Claude Code"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7336264532912218115/
 ---
 
 I lost 22 kg in 22 weeks.

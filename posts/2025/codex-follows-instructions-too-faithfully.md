@@ -5,6 +5,7 @@ categories:
   - llms
 description: "Coding agents can over-literalize instructions, so sloppy or conflicting guidance in rules files creates predictable but absurd failures."
 keywords: ["Codex", "AI coding agents", "instruction following", "AGENTS.md", "prompt design", "failure modes"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7370987866577022976/
 ---
 
 GPT-5 (Codex) follows instructions exactly as given. Usually a good thing, but sometimes, it this is what happens.

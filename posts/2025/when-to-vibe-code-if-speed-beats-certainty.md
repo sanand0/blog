@@ -8,6 +8,7 @@ categories:
 wp_id: 4120
 description: "Vibe coding is best treated as a speed-first tactic for prototypes and low-certainty tasks, with deliberate model switching, cross-checking, and sandboxing to manage its risks."
 keywords: [vibe coding, prototyping, speed vs certainty, AI coding, education, business implications]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7331276406301093888/
 ---
 
 I spoke about vibe coding at [SETU School](https://setuschool.com/) last week.

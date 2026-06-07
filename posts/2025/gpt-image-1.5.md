@@ -5,6 +5,7 @@ categories:
   - llms
 description: "GPT Image 1.5 improves polish and infographic rendering, but it still trails Nano Banana Pro, especially on faces."
 keywords: ["GPT Image 1.5", "image generation", "infographics", "faces", "model comparison", "visual quality"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7407268382082990080/
 ---
 
 I tried out GPT Image 1.5. It adds more contrast, ink, texture, detail, and polish. See https://sanand0.github.io/llmartstyle/?category=pop

@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "This job post seeks a Chief Sales Officer who can combine value delivery, relentless selling, data-storytelling instinct, and scale ambition for a growing data company."
 keywords: ["hiring", "Chief Sales Officer", "sales", "Gramener", "data storytelling", "LinkedIn"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6790605293194756096/
 ---
 
 We are looking for a Chief Sales Officer. (For Princeton, New Jersey.)

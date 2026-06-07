@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "Open data confirms that Singapore property prices have risen steadily since 2020 across most segments."
 keywords: ["Singapore property", "open data", "housing prices", "trend analysis", "real estate", "data verification"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7333003082483613696/
 ---
 
 A property agent was discussing property price trends in Singapore. Thought I'd cross-check.

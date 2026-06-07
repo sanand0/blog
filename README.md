@@ -48,6 +48,56 @@ This runs:
 
 WIP commits are pushed to the `live` branch. The `prod` branch holds permanent changes - in case of rollbacks to main.
 
+## Things I Learned
+
+[`scripts/til.py`](scripts/til.py) creates weekly `Things I Learned` posts from `~/code/til/til.md` and
+`~/code/til/llms.md`. Each post covers the preceding Sunday through Saturday.
+
+Run it on Sunday to generate the latest completed week:
+
+```bash
+uv run scripts/til.py
+```
+
+Existing posts are not overwritten. The command generates the proposed content and prints a full-file unified diff.
+Review the diff, then replace the post explicitly:
+
+```bash
+uv run scripts/til.py --force
+```
+
+Generate one target Sunday or an inclusive range of target Sundays:
+
+```bash
+uv run scripts/til.py --week 2026-06-07
+uv run scripts/til.py --start 2026-05-24 --end 2026-06-07
+```
+
+Preview writes with `--dry-run`; use `--format text` for compact output and visible diffs. To generate every week
+containing at least one note across the source files, run:
+
+```bash
+uv run scripts/til.py --all
+```
+
+This derives the covered weeks from the source files and skips empty weeks. Review existing-file diffs before rerunning
+with `--all --force`.
+
+## LinkedIn Blog Map
+
+Run [`scripts/linkedin_blog_map.py`](scripts/linkedin_blog_map.py) whenever you post on LinkedIn:
+
+```bash
+uv run scripts/linkedin_blog_map.py
+```
+
+It maps scraped LinkedIn posts from `~/Documents/data/linkedin-posts.jsonl` to matching blog posts, preserves manual
+mappings from `analysis/linkedin-blog-map.tsv`, and updates:
+
+- `analysis/linkedin-blog-map.tsv`
+- `analysis/linkedin-blog-map-ambiguous.tsv`
+- Missing `linkedin:` front matter on matched blog posts
+
 ## Embeddings
 
 `content/embeddings.parquet` contains [Gemini Embedding 2](https://ai.google.dev/gemini-api/docs/embeddings) vectors for every page and post.

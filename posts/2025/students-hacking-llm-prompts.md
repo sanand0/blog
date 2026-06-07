@@ -6,6 +6,7 @@ categories:
   - linkedin
 description: I challenged 700 students to a prompt-hacking competition where they defended and attacked secret codes. While defenses held 97% of the time, I found that creative storytelling and poetry attacks were surprisingly effective at bypassing LLM security.
 keywords: [prompt injection, llm security, adversarial prompting, red teaming, system prompts, prompt engineering]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7404532764038950912/
 ---
 
 I asked ~700 students to hack each others' prompts.

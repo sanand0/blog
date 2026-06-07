@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: I shared an impressive project by Ramya Mylavarapu that merges comics, augmented reality, and data visualization. It demonstrates how gamification can transform static narratives into immersive, interactive data-driven experiences for a modern audience.
 keywords: [augmented reality, data visualization, gamification, comics, immersive storytelling, interactive design]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6607636472059265024/
 ---
 
 This is the most interesting thing I've seen in a while. Combining #comics with #augmented_reality, #datavizualization and #gamification

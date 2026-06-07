@@ -5,6 +5,7 @@ categories:
   - llms
 description: "LLM-assisted grading dramatically compresses assessment design, scoring, and analysis cycles while keeping quality close to human evaluators."
 keywords: ["LLM evaluation", "grading automation", "AI education", "assessment design", "scoring", "Tools in Data Science"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7369317805403369473/
 ---
 
 My _Tools in Data Science_ course uses LLMs for assessments. We use LLMs to

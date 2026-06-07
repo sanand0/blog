@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "Treating LLMs like personality-test respondents is silly but still revealing, because their self-descriptions expose funny and sometimes stable-seeming differences in style and affect."
 keywords: [LLM personality, Big Five, emotion, model comparison, self-assessment, humor]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7248569906617561089/
 ---
 
 Which is the most neurotic / emotional #LLM?

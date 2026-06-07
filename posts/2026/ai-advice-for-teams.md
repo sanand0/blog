@@ -5,6 +5,7 @@ categories:
   - llms
 description: Shift from individual AI tips to team-scale operations in the agent era by building structured agentic workspaces, treating prompts as durable assets, and relying on executable code and exception routing to verify outputs.
 keywords: [agentic workspaces, llm output verification, coding agents, exception routing, prompt asset management, ai team operations]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7454167466433282048/
 ---
 
 I updated my [AI Advice](/blog/ai-advice/) page by:

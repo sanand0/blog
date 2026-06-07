@@ -9,6 +9,7 @@ categories:
 wp_id: 3660
 description: "Publishing annotated talks from videos becomes a mostly tool-driven workflow once you combine scraping, transcription, keyframe extraction, clustering, NotebookLM, and static publishing."
 keywords: [annotated talks, video processing, Whisper, NotebookLM, GitHub Pages, workflow automation]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7253669434974711808/
 ---
 
 ![Tools to publish annotated talks from videos](/blog/assets/maxresdefault.webp)

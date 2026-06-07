@@ -7,6 +7,7 @@ categories:
 wp_id: 4188
 description: "AI can personalize gifts at scale in a way that transforms generic corporate swag into something genuinely memorable and emotionally resonant."
 keywords: ["personalization", "AI gifts", "employee experience", "image generation", "HR", "delight"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7374434172247011328/
 ---
 
 ![Turning Generic Gifts Into Joy with AI](/blog/assets/Anand-AI-Influencer-Straive-desk-plaque.webp)

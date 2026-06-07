@@ -83,6 +83,10 @@ categories:
   slug: llms
   name: LLMs
   parent: ''
+- id: '52'
+  slug: til
+  name: Things I learned
+  parent: ''
 - id: '26'
   slug: london-2000
   name: London 2000

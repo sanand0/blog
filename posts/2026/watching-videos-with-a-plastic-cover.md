@@ -3,6 +3,8 @@ title: Watching videos with a plastic cover
 date: 2026-06-05T12:00:11+08:00
 categories:
   - interesting-experiences
+description: I observed a passenger using a plastic safety kit wrapper to mount their phone behind an airplane tray table for eye-level viewing. It's a clever, low-tech travel hack discovered during a flight from Singapore to Chennai.
+keywords: [travel hacks, airplane, phone holder, indigo, low-tech, passenger innovation]
 ---
 
 On the Indigo 1026 from Singapore to Chennai, I saw a passenger two seats in front of me watch videos in an interesting way.

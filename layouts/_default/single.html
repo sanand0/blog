@@ -49,6 +49,12 @@
   {{- end }}
 
   <footer class="post-footer">
+    {{- with .Params.linkedin }}
+    <a class="linkedin-post-link" href="{{ . }}" target="_blank" rel="noopener noreferrer">
+      {{- partial "svg.html" (dict "name" "linkedin") -}}
+      <span>LinkedIn post</span>
+    </a>
+    {{- end }}
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}

@@ -7,6 +7,7 @@ categories:
 wp_id: 4180
 description: "LLMs are unusually strong generalists because they can synthesize across ambiguous, cross-disciplinary material in ways that few human analysts do naturally."
 keywords: ["LLMs", "generalists", "synthesis", "transcript analysis", "management", "cross-disciplinary reasoning"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7366290000109322240/
 ---
 
 ![The Surprising Power of LLMs: Jack-of-All-Trades](/blog/assets/Generated-Image-August-27-2025-8_53AM.webp)

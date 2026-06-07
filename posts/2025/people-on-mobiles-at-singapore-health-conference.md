@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "Conferences now assume device-mediated attention by default, leaving speakers as the only people still trying to command the room without a screen."
 keywords: [conference behavior, mobile devices, attention, learning environments, audiences, observation]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7285854850288963584/
 ---
 
 Wow. Every SINGLE person in the audience at this (Healthcare Education, Singapore) conference was on a laptop, tablet, or mobile. Some on multiple devices.

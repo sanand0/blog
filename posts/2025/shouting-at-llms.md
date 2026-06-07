@@ -5,6 +5,7 @@ categories:
   - llms
 description: "Using ALL CAPS gives only a tiny obedience boost, so it is more useful for human emphasis than reliable model steering."
 keywords: ["prompting", "LLM obedience", "caps lock", "system prompts", "evals", "instruction following"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7338391304172687361/
 ---
 
 Does **SHOUTING** at LLMs help? (Yes, a little.)

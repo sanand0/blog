@@ -249,6 +249,26 @@ footer.footer-meta {
   margin-bottom: 1rem;
 }
 
+.linkedin-post-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin-bottom: 1rem;
+  color: var(--secondary);
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.linkedin-post-link:hover,
+.linkedin-post-link:focus-visible {
+  color: var(--primary);
+}
+
+.linkedin-post-link svg {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+
 /* Post Calendar - GitHub-style contribution calendar */
 .post-calendar {
   margin: 2rem 0;

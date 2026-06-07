@@ -42,14 +42,15 @@ Results of my software tool evaluations. 🟢 is my current choice and 🟡 is w
 
 ## Web terminals / browser IDEs, 28 May 2026
 
-- 🟢 [ttyd 11,733 ⭐ May 2026](https://github.com/tsl0922/ttyd): Lightweight tool to share a terminal over the web; directly fits Codex-in-browser and remote terminal workflows.
-- [wetty 5,290 ⭐ May 2026](https://github.com/butlerx/wetty): Browser-based terminal over SSH/WebSocket; useful as a heavier alternative to ttyd.
-- [code-server 77,753 ⭐ May 2026](https://github.com/coder/code-server): VS Code running in the browser on a remote machine.
-- [openvscode-server 6,034 ⭐ Mar 2026](https://github.com/gitpod-io/openvscode-server): Browser-accessible upstream VS Code server, close to Codespaces/Gitpod architecture.
-- [coder 13,311 ⭐ May 2026](https://github.com/coder/coder): Self-hosted cloud development environments for teams and remote workspaces.
-- [theia 21,539 ⭐ May 2026](https://github.com/eclipse-theia/theia): Open-source framework for building browser and desktop IDEs.
-- [xterm.js 20,619 ⭐ May 2026](https://github.com/xtermjs/xterm.js): Terminal emulator for the browser; core component for custom web-terminal UIs.
-- [node-pty 1,945 ⭐ May 2026](https://github.com/microsoft/node-pty): Node library for spawning and controlling pseudoterminals; pairs with xterm.js and WebSockets.
+- 🟢 [ttyd 11,801 ⭐ Jun 2026](https://github.com/tsl0922/ttyd): Lightweight tool to share a terminal over the web; directly fits Codex-in-browser and remote terminal workflows.
+- [wetty 5,294 ⭐ Jun 2026](https://github.com/butlerx/wetty): Browser-based terminal over SSH/WebSocket; useful as a heavier alternative to ttyd.
+- [code-server 77,843 ⭐ Jun 2026](https://github.com/coder/code-server): VS Code running in the browser on a remote machine.
+- [theia 21,551 ⭐ Jun 2026](https://github.com/eclipse-theia/theia): Open-source framework for building browser and desktop IDEs.
+- [xterm.js 20,689 ⭐ Jun 2026](https://github.com/xtermjs/xterm.js): Terminal emulator for the browser; core component for custom web-terminal UIs.
+- [coder 13,380 ⭐ Jun 2026](https://github.com/coder/coder): Self-hosted cloud development environments for teams and remote workspaces.
+- [openvscode-server 6,045 ⭐ Mar 2026](https://github.com/gitpod-io/openvscode-server): Browser-accessible upstream VS Code server, close to Codespaces/Gitpod architecture.
+- [node-pty 1,953 ⭐ Jun 2026](https://github.com/microsoft/node-pty): Node library for spawning and controlling pseudoterminals; pairs with xterm.js and WebSockets.
+- [gotty 19,488 ⭐ Aug 2024](https://github.com/yudai/gotty): Share terminals online (read-only).
 
 ## Python package/env tools, 28 May 2026
 

@@ -7,6 +7,7 @@ categories:
 wp_id: 4173
 description: "Randomly pairing logged ideas and asking an LLM to synthesize them is a practical way to generate novel, useful concepts for innovation work."
 keywords: ["idea generation", "innovation", "concept synthesis", "LLMs", "daily logs", "creative prompts"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7363146089996148738/
 ---
 
 ![LLMs as Idea Connection Machines](/blog/assets/ChatGPT-Image-Aug-18-2025-03_17_26-PM.webp)

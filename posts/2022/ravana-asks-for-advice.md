@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "A comic mythological clip becomes a reflection on flattery as a real-world influence tactic, especially when asking experts to help with inconvenient problems."
 keywords: ["persuasion", "flattery", "mythology", "workplace influence", "humor", "advice"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6975055900768174080/
 ---
 
 Anand Madhav described this video as "Me, convincing tech lead to solve a problem on the weekend" 🙂"

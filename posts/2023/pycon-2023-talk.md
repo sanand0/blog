@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "A familiar PyCon topic became interesting again once the author reframed it as a live experiment in getting AI to generate code for Minecraft."
 keywords: ["PyCon", "Minecraft", "AI coding", "talks", "learning", "experimentation"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7113338064113963008/
 ---
 
 My PyCon talks are a way for me to learn. I usually pick topics I don't know about.

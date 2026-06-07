@@ -8,6 +8,7 @@ categories:
 wp_id: 4235
 description: I challenged several LLMs to generate funny Tamil puns ending in ".ai". While DeepSeek and Claude struggled with accuracy, Gemini captured the cultural nuance perfectly with clever wordplay like Tholl.ai (annoyance) and Kaval.ai (worry).
 keywords: [tamil, llms, gemini, wordplay, puns, chatbots, linguistic humor, benchmarking]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7381296947770470400/
 ---
 
 ![Tamil AI](/blog/assets/vadivelu-tamil-words.webp)

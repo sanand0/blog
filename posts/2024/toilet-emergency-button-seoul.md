@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "A short anecdote about using ChatGPT’s voice mode to explain an accidentally triggered bathroom emergency button in Korean."
 keywords: [ChatGPT voice, translation, Korean, travel mishap, hotel, Seoul]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7246857627882659841/
 ---
 
 I accidentally pressed the emergency button in the toilet.

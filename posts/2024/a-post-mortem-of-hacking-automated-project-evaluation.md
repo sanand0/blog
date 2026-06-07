@@ -8,6 +8,7 @@ categories:
 wp_id: 3769
 description: "Once students are encouraged to hack LLM-based grading, some will escalate from prompt tricks to real system compromise, showing how unsafe it is to run untrusted code inside automated evaluation pipelines."
 keywords: [automated evaluation, security, student hacks, LLM grading, prompt injection, sandboxing]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7276062561123385344/
 ---
 
 ![A Post-mortem Of Hacking Automated Project Evaluation](/blog/assets/DALL·E-2024-12-21-10.20.29-A-colorful-single-panel-comic-strip-in-the-style-of-classic-Calvin-Hobbes.-Calvin-a-young-boy-with-wild-hair-hides-under-a-desk-cluttered-with-a-c-1.webp)

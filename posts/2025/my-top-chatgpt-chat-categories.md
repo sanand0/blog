@@ -6,6 +6,7 @@ categories:
   - llms
 description: "Topic-modeling and deeper statistical analysis of search/chat history can surface surprising personal patterns, personas, and blind spots."
 keywords: ["topic modeling", "search history", "ChatGPT usage", "personal analytics", "personas", "self-knowledge"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7355065649959784448/
 ---
 
 _Indian Celebrities and Directors_ was my top searched category on Google while _OpenAI_ & _AI Research_ was the top growing category.

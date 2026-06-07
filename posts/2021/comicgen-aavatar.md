@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "Comicgen's new character builder creates an astonishing range of avatars, but the post honestly admits the harder problem is discovering who actually needs this flexibility and why."
 keywords: ["Comicgen", "avatars", "character design", "open source", "use cases", "LinkedIn"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6794494472328761344/
 ---
 
 Comicgen now has a very versatile character -- Aavatar. Pick your gender. Hairstyle. Emotion. Attire. Pose. Colors. Create your own character. (It's open-source.)

@@ -10,6 +10,7 @@ tags:
 wp_id: 3393
 description: "The 2022 reading list highlights books that changed the author's thinking on meaning, data, time, habits, leadership, and history, alongside a broad mix of fiction and fantasy."
 keywords: ["books", "reading list", "2022", "non-fiction", "fantasy", "recommendations"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7017713840557613056/
 ---
 
 ![Books in 2022](https://files.s-anand.net/images/2022-books.webp)

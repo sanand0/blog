@@ -5,6 +5,7 @@ categories:
   - llms
 description: I found that LLM agents and human brains consume similar energy for complex tasks. While brains use lower power over longer periods, AI's high-speed processing results in comparable total watt-hours per task.
 keywords: [llms, energy efficiency, gdpval, human brain, computational cost, watt-hours]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7453785060891209728/
 ---
 
 For a typical [GDPVal](https://openai.com/index/gdpval/) style task, humans take ~7 hours and the brain consumes ~135 Wh.

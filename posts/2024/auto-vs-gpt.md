@@ -7,6 +7,7 @@ categories:
 wp_id: 3503
 description: "ChatGPT mistranscribing Chennai auto-rickshaw honks as cheerful laughter turns a mundane traffic interruption into a comic example of how voice AI interprets noisy reality."
 keywords: ["ChatGPT voice", "transcription errors", "auto-rickshaw", "India", "speech AI", "humor"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7156533154164412416/
 ---
 
 ![Auto vs GPT](/blog/assets/auto-vs-gpt.webp)

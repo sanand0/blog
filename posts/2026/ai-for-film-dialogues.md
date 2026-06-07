@@ -5,6 +5,7 @@ categories:
 - llms
 description: AI tools can extract, translate, and reinterpret film dialogue quickly enough to make cinema analysis more accessible across languages.
 keywords: [film dialogue, translation, transcription, AI media, Telugu, cinema analysis]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7436077764690075648/
 ---
 
 ![](https://files.s-anand.net/images/2026-03-01-ai-for-film-dialogues.avif) <!-- https://gemini.google.com/u/2/app/75cbc8e4441ae701 -->

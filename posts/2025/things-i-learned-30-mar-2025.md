@@ -1,0 +1,103 @@
+---
+title: Things I Learned - 30 Mar 2025
+date: 2025-03-30T00:00:00+00:00
+categories:
+  - til
+---
+
+This week, I learned:
+
+- Discussion with [Vedang](https://vedang.me/)
+  - [Recurse center](https://www.recurse.com/) (Brooklyn, online) is a 6/12 week free self-driven programmer retreat. Runs every 6 weeks. You can do whatever you pick. There are daily standups for accountability. The groups are diverse. You can pair with them, pivot ideas, whatever. [Principles](https://www.recurse.com/self-directives): push yourself & learn.
+  - Western education techniques (e.g. spaced repetition, adaptive learning) are very much present in Indian coaching systems, though not known by those names. However, interventions are hard since class 12 students _just don't have enough time_.
+  - Coaching classes are a social phenomenon. It's not the smart students who are pulling in their friends. Smart students actually _follow_ the popular students. (Coaching classes are below the typical smart students' standards.)
+  - Monetizing coaching is hard. People don't want to pay for advice, and welcome free advice only _if they ask for it_. Coupling with execution is necessary.
+  - Aider's integrations make it more powerful than Cursor/Windsurf. It auto-lints, runs test cases. Allows different models for "architecting" (generating changes) vs "editing" (applying code). It reads from the screen logs. Context is manual, not automated. Uses an `ai!` comment to trigger changes and `ai?` to ask questions.
+  - [Cline.bot](https://cline.bot/) is another Cursor-like open source AI code editor that's a VS Code plugin.
+  - When coding with LLMs, a useful workflow is: data schema ➡️ interfaces ➡️ LLM-generated test cases ➡️ code.
+  - ShellSage is a `tmux` based LLM tool for the command line. It screen-grabs from tmux, which is powerful.
+  - Some MCPs that have proven useful: [vega-lite](https://github.com/isaacwasserman/mcp-vegalite-server), [SQLite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite), [sequential thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking), [memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)
+  - `make` sucks but is hard to beat. [`just`](https://github.com/casey/just) comes closest.
+  - CRDTs are more powerful than for just collaborative editing. It can power a peer-to-peer Internet (beginning with office tools). Versioning schema is still problematic. [`yjs`](https://github.com/yjs/yjs) is a good start but [`automerge`](https://github.com/automerge/automerge) (Rust, WASM) is faster and may be better. [Loro](https://loro.dev/) is another.
+  - [Fermyon](https://www.fermyon.com/) hosts WASM serverless functions.
+- If LLMs are most safely used where there's no definitive "wrong" answer, here are [low-risk industries and safe LLM use cases within each](https://chatgpt.com/share/67e7e27d-6b0c-800c-8b31-e7a2aa041fc0):
+  - **Marketing and Advertising**: Ad Copy and Campaign Content Generation, Personalized Marketing Messages, Creative Strategy Brainstorms, Automated Marketing Production (Everyday Wins)
+  - **Customer Service and Support**: AI-Powered Chatbots for Common Queries, Agent Assist and Email Drafting, Summarizing and Analyzing Customer Feedback, Interactive Troubleshooting and FAQs
+  - **Retail and eCommerce**: AI-generated Summary of Product Reviews, Product Description and Catalog Content Generation, Visual Content and Image Captions, Personalized Shopping Recommendations (Narrative Form)
+  - **Human Resources and Talent Management**: Job Description and Policy Writing, Resume Screening and Candidate Q&A, Employee Communications and Feedback, Training and Onboarding Content
+  - **Education and E-Learning**: Personalized Explanations and Tutoring, Content Creation: Stories, Examples, and Analogies, Practice Problems and Quiz Generation, Automated Grading and Feedback
+  - **Media and Entertainment**: Writing and Editing Assistance, Personalized Media Content, Localization and Dubbing Scripts, Content Moderation and Curation (Assistive)
+  - **Finance and Banking**: Market Commentary and Research Summaries, Client Communications and Explanations, Regulatory Compliance Summaries, Scenario Analysis and Planning
+  - **Management Consulting and Strategy**: Research and Insight Generation, Document and Slide Drafting, Brainstorming and Scenario Planning
+  - **Legal Services**: Drafting Contracts and Legal Documents, Legal Research Q&A and Summaries, Client Communications and Explanations
+- Reflecting on [Satya Nadella's "SaaS is dead"](https://youtu.be/a_RjOhCkhvQ), building or porting apps' functionality into classic chatbots (e.g. via MCPs) would be an emerging market. E.g. "Create a HubSpot MCP. Do whatever you want on HubSpot, except via ChatGPT or your favorite LLM chatbot." To be fair, such interfaces exist.
+  - [HubSpot MCP](https://github.com/baryhuang/mcp-hubspot) with a [vega-lite MCP](https://github.com/isaacwasserman/mcp-vegalite-server) and a few others could solve many common HubSpot UI tasks.
+  - [DarwinBox MCP](https://mcp.pipedream.com/app/darwinbox),
+    [ZenDesk MCP](https://github.com/reminia/zendesk-mcp-server), etc. are emerging.
+- [13 things I would have told myself before building an autorouter](https://blog.autorouting.com/p/13-things-i-would-have-told-myself) has a few interesting points:
+  - The [A\* algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) finds the shortest path in a graph _much_ quicker than others like Dijkstra's algorithm by preferring nodes closer to the goal.
+  - Spatial Hash Indexing are O(1) and beat Tree Data Structures which are O(log n). Always prefer hashes when possible.
+- There's an actual convention for using emojis in Git commits: [gitemoji](https://gitmoji.dev/). It even has a [VS Code plugin](https://github.com/seatonjiang/gitmoji-vscode), a [changelog generator](https://github.com/frinyvonnick/gitmoji-changelog/), and [more](https://gitmoji.dev/related-tools).
+- Emojis have a strong role in enhancing Markdown documents. The ones I use often are:
+  - 🔴🟡🟢 for low/medium/high priority
+  - ⭐️ or ❤️ or 👍 for ratings or emphasis
+  - ✅ for completed tasks
+  - 💡 for ideas
+  - ⚠️ or ❗️ for warnings / issues
+- Technological innovations have always been changing art forms. For example, the [perspective grid](https://en.wikipedia.org/wiki/Perspective_%28graphical%29#Renaissance) and the [camera obscura](https://www.researchgate.net/publication/387663661_From_Light_to_Canvas_The_Camera_Obscura%27s_Role_in_Renaissance_Artistic_Technique) led to major improvements in realistic paintings in the 15th and 17th centuries.
+- [regex](https://pypi.org/project/regex/) is an _officially recommended_ Python library with better regex support than re. [Ref](https://carlo.ai/til/regex-search)
+- Notes from [ThursdAI - Mar 27](https://sub.thursdai.news/p/thursdai-mar-27-gemini-25-takes-1)
+  - Gemini 2.5 Pro has good instruction following despite long context. It automatically thinks for longer where required. Good at _understanding_ large codebases. Very fast. You can upload a 2 hour audio to transcribe with timestamps.
+  - [ai.dev](https://ai.dev) is the shortcut to Google AI studio.
+  - ChatGPT native image generation is the best image generation model now. - Great character consistency AND prompt adherence thanks to autoregression and not using stable diffusion. - It tends to refuse image generation less than Dall-E. (While Ghibli-style is possible, Calvin and Hobbes strips are blocked.) "We added a refusal which triggers when a user attempts to generate an image in the style of a
+    living artist." [Addendum to GPT-4o System Card](https://cdn.openai.com/11998be9-5319-4302-bfbf-1167e093f1fb/Native_Image_Generation_System_Card.pdf) - A neat personalization implication is that you could put your kids into their favourite cartoon as a cartoon character that looks like them.
+  - It's weird that the latest GPT 4o is ahead of GPT 4.5 on [LM Arena](https://lmarena.ai/?leaderboard).
+  - The new DeepSeek V3 is about as good as GPT 4.5 and VERY cheap (27c), so is the obvious choice to run on [OpenRouter](https://openrouter.ai/deepseek/deepseek-chat-v3-0324).
+  - MCP news:
+    - Qwen.ai supports MCP in the UI! (But it's marked as "coming soon" in my case.)
+    - Unlike tools, MCP uses servers that can remember the state or context. Tools are stateless.
+    - MCP app store like [Smithery](https://smithery.ai/), [MCP.run](https://mcp.run/), [Glama](https://glama.ai/mcp/servers), are mushrooming.
+    - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) is another good starting point.
+    - [Azure lets you expose agents as MCP servers](https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp/).
+  - ChatGPT now uses semantic VAD. I interrupts less and typically when you have meaningfully complete something. It responds a little slower as a result.
+- AI generated images created from prompts cannot be copyrighted. [News](https://news.artnet.com/art-world/ai-art-us-copyright-office-2604297) [US Copyright Office](https://copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf)
+- LLMs are _much_ better at [GeoGuessr](https://www.geoguessr.com/) than humans. [arXiv](https://arxiv.org/pdf/2502.11163). Gemini leads the pack and is ~3x better at continents, 9x better at countries, and 37x better at cities.
+- Gemini 2.5 Pro transcription has accurate timestamps and bounding boxes. [Simon Willison](https://simonwillison.net/2025/Mar/25/gemini/)
+- Notes from [Writing with AI](https://pdst.fm/e/chrt.fm/track/9GA767/traffic.megaphone.fm/TFTEE4551519097.mp3?updated=1743004883)
+  - Personal writing with connection won't go away. AI can't give you heartbreak. But the rest of non fiction writing will vanish.
+  - What AI is extraordinary at is _personalizing_ to each audience member's interest
+  - Outlier opinions will thrive among humans - since AI is trained on consensus.
+  - Managers tend to be good at working with LLMs because it's mostly about delegation.
+  - LLMs are perfect for things that don't have a wrong answer! -- Benedict Evans.
+  - 💡 Explore arguing with AI. It's a safe way to get into a confrontational emotional state (which has its own benefits.)
+  - 💡 Keep an LLM on in voice mode while reading and ask it any questions you have.
+  - What models are good for what?
+    - GPT 4.5 is great for creation - has a great sense of humor but a corporate style. Still, way better than GPT 4o.
+    - ChatGPT is good for voice transcription and note taking. (Increasingly we take notes for AI rather than ourselves.)
+    - Claude 3.7 has the best style of writing. It's also great for drawing charts.
+    - O1 Pro and Deep Research is great for consumption - research.
+    - Grok is the least corporate, able to argue with you, and the latest knowledge cutoff.
+    - ElevenLabs for editing podcasts in your voice, making corrections.
+- Playwright offers an MCP server. https://simonwillison.net/2025/Mar/25/playwright-mcp/
+- The new [GPT-4o mini Transcribe](https://platform.openai.com/docs/models/gpt-4o-mini-transcribe) model is a bit better than Whisper and costs half: ~18 cents per hour. It includes [background noise cancellation and semantic chunking](https://youtu.be/lXb0L16ISAc?t=354s), which is useful.
+- The new [GPT-4o mini TTS](https://platform.openai.com/docs/models/gpt-4o-mini-tts) is about 3-4 times cheaper than [TTS-1](https://platform.openai.com/docs/models/tts-1) since it's ~$12/MTok instead of $15/Mchar. It supports emotions with streaming.
+- Cursor with Claude 3.7 Max seems _surprisingly_ good at generating multi-page sites at one shot. Potentially, it can edit large repositories of code as well at one shot. If that's the case, the way we write code will require higher order thinking skills: broad sweeping changes rather than micro edits.
+- I tried Open WebUI with its [Knowledge](https://docs.openwebui.com/features/workspace/knowledge) feature. In short, it sucks. Due to the RAG technique as well as model quality. When I passed it my notes about Straive and asked who Straive's clients were:
+  - Open WebUI with Gemma 3 found one - after multiple attempts
+  - ChatGPT with o3-mini-high got 5 (missing nothing.)
+  - ChatGPT with GPT 4.5 got 4
+  - Gemini with Gemini 2.0 Flash Thinking got 3
+  - Gemini with Gemini 2.0 Flash got 3 (with a 4th wrong answer)
+- I've settled on [squoosh.app](https://squoosh.app/) for image compression using WebP. I'm exploring [FreeImage.host](https://freeimage.host/) for image hosting instead of Imgur for WEBP support. FreeImage.host also seems [reliable](https://budgetlightforum.com/t/reference-the-best-free-image-hosting-sites-that-support-webp-images/219923), retains file sizes, and supports hotlinking.
+- [DeepFace](https://github.com/serengil/deepface) currently seems the easiest option for face detection. Easy to install. Multiple back-ends.
+- [Gemini Codrawing](https://huggingface.co/spaces/Trudy/gemini-codrawing) is a popular Hugging face space that lets you sketch something and prompt Gemini Flash to improve on it.
+  - ![Starting image](https://iili.io/3Io4Fcv.webp)
+  - Draw a dead man beside the pool of blood. Add an armor to the attacker. Significantly improve the quality of this picture.
+  - Add a red pool of blood next to the dead man. The armor looks like a frock. Make it more like an armor. Make this look like a professional drawing, even though it's in stick figures.
+  - ![Updated image](https://iili.io/3Io43KJ.webp)
+  - Draw it in the style of Picasso
+  - ![Updated image](https://iili.io/3Io4q9p.webp)
+- [Phi-4 multimodal](https://huggingface.co/microsoft/Phi-4-multimodal-instruct) procehttps://huggingface.co/microsoft/Phi-4-multimodal-instructsses speech better than Whisper V3 on HuggingFace OpenASR, and images better than Gemini Flash Lite
+- On any LLM project, **BEGIN with evals**. Always.
+  - The effort for evals may seem high. Use LLMs to reduce this effort.
+  - Include irrelevant questions because people WILL ask them. Be clear on how to handle that.

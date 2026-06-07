@@ -7,6 +7,7 @@ categories:
 wp_id: 4083
 description: "The Tools in Data Science course is now openly auditable, offering a rigorous, tool-heavy, AI-aware curriculum that mirrors real-world data work more than traditional classroom theory."
 keywords: [Tools in Data Science, open course, IIT Madras, data tools, LLMs, curriculum]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7323681185937731584/
 ---
 
 My [Tools in Data Science course](https://study.iitm.ac.in/ds/course_pages/BSSE2002.html) is now open for anyone to audit.

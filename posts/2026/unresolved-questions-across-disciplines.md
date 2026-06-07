@@ -5,6 +5,7 @@ categories:
   - links
 description: I used Claude to identify substantive, unresolved debates across disciplines like physics, finance, and biology. These prompts helped me map the frontiers of knowledge by uncovering deep disagreements that go beyond mere semantics.
 keywords: [claude, prompt engineering, knowledge frontiers, interdisciplinary, epistemology, scientific debates]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7458151462246731777/
 ---
 
 I asked Claude: "What are the most effective and impactful ways you can help me?" One of its ideas was to ask it:

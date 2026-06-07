@@ -1,0 +1,124 @@
+---
+title: Things I Learned - 09 Nov 2025
+date: 2025-11-09T00:00:00+00:00
+categories:
+  - til
+---
+
+This week, I learned:
+
+- "But when an identity based belief was challenged, the brain responded as if under physical attack." [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
+- Notes from [How to build a cult](https://www.youtube.com/watch?v=I9Njb8Lw5Xc), Lulu Cheng, The Knowledge Project podcast
+  - Conviction is infectious.
+  - Communicate at the INTERSECTION of interests. Learn theirs
+  - Begin with "why your story matters to them" (first sentence). That beats "how you tell it" > "where you tell it".
+  - The easiest way to align with an audience is to find your community.
+  - Humor, curiosity, awe, any strong emotion is a hook.
+  - Culture has momentum. Best way to break it is to show an alternative that works. People will copy that
+  - REPEAT messages over and over with complete CONVICTION to convince people who TRUST you. That works, but you need all three.
+  - Trust builds from likeability, repeated exposure, common beliefs.
+  - An excellent way to defend against online criticism (when it matters) is to just SHOW UP and THANK them for feedback.
+  - Serious reputational damage must either be fixed immediately - or you live with it forever.
+  - Between a story and statistics, the story will always wins. Never fight a story with a statistic. Dig into your statistics and uncover BETTER stories.
+  - ⭐ Prebuttals are a great idea. Start with all possible criticisms yourself and diffuse them. The other person has nothing left to say
+  - Sparring keeps you sharp. Spar with LLMs.
+  - To defend, show how the attack targets other people, increasing the surface area. Show how the SPECIFIC attack targets a larger group. Create a SPECIFIC cause worth fighting for.
+  - Each role has specific objective to optimise for. The leader's role is to balance across these.
+  - Cheerleader effect. People look beautiful next to a cheerleader. Associations taint.
+  - Each person has dozens of aspects to their persona. We cannot remember all of them. Each person can make a choice on who they project themselves to be in any group. Shaping their persona.
+- ~~The [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) extension may be causing delays (infinite spinner) when pasting Markdown in VS Code. Restarting it seems to fix the issue.~~
+- ⭐ [Claude scientific skills](https://github.com/K-Dense-AI/claude-scientific-skills/) is a collection of skills teaching Claude how to use scientific libraries, databases, and APIs across several domains. This may be a good example of a non-trivial skill library - that is hard for AI coding agents to infer by themselves.
+- Notes from [How I use every Claude Code feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
+  - Use AGENTS.md as guardrails, not a manual. Document what it gets wrong.
+  - Use self-documenting tools/APIs rather than documenting.
+  - Docs: Explain why and when to read each doc.
+  - Never say "Never." Explain when to which which alternative.
+  - Prefer CLIs for stateless tools, MCPs for stateful, authenticated, or complex (e.g. Playwright).
+- Coding agents work well with version control. [Simon Willison](https://simonwillison.net/2025/Nov/4/datasette-10a20/)
+  - Break up uncommitted changes into small commits
+  - Rewrite branch history for readability
+  - Use `gh` CLI to fetch line-wise comments from a PR and make requested changes (e.g. renaming, refactoring, adding types, etc.)
+- ⭐ When using MCPs or tools with private data, "color untrusted content in red, unsafe actions in blue, and never mix colors." [Good advice](https://timkellogg.me/blog/2025/11/03/colors).
+- ⭐ DeepWiki offers a [codemaps](https://cognition.ai/blog/codemaps) feature that explains code in an interactive way. It shows a structured explanation on the left. You can click on any note to see the code on the right. It's an effective way to understand how a library or tool executes a task. [Here's an example of how Mermaid works](https://deepwiki.com/search/draw-a-codemap_59d591f6-fc79-40f0-973d-bfa0e149b41a).
+- [Gemini offers RAG with free storage](https://blog.google/technology/developers/file-search-gemini-api/). RAG costs are quite high. This simplifies the process a lot. But I tried running the sample program and after an hour, it still had not completed uploading a single file. Best to wait and watch.
+- [OpenRouter supports embedding models](https://openrouter.ai/models?fmt=cards&order=top-weekly&output_modalities=embeddings) using an [OpenAI-like API](https://openrouter.ai/docs/api-reference/embeddings/create-embeddings)
+- [Kimi K2 Thinking](https://openrouter.ai/moonshotai/kimi-k2-thinking) seems popular because
+  - It's an open-weights model on par with the top models on Humanity’s Last Exam (text-only) and BrowseComp
+  - Can run 200-300 tool calls without human guidance
+  - 4x cheaper than GPT-5 with low tokens (32B active on 1T parameters, INT4 quantized)
+- Based on responses to [Simon Willison's question](https://x.com/simonw/status/1979254349235925084), [ChatGPT](https://chatgpt.com/share/690b4fa0-7dec-800c-87a5-6e01dda36f7e)
+  - Fine-tuning helps when:
+    - Lower latency, e.g. for type-ahead, at lower cost (**37 mentions**)
+    - Structured extraction, parsing and classifiers, e.g. postal address, detecting secrets (18 mentions)
+    - Custom vision models, e.g. check containers (12 mentions)
+    - Domain-specific code and stacks (niche languages, stack-specific generation, text→SQL) (11 mentions)
+    - ... and a long tail.
+  - Fine tuning does not help:
+    - When A base model plus prompting or RAG does as well or better (**15 mentions**)
+    - When you risk being leapfrogged by a new release (4 mentions)
+    - When cost and data do not justify the ROI (3 mentions)
+- The data I can export from my Android phone includes the below. 🟢 indicates it's tracked. 🟡 might need action, e.g. enabling / coding. [#](https://chatgpt.com/c/69089221-9430-8320-9cb0-5350a17fc486)
+  - 🟢 GPS/GNSS location (current & history). Turn on device Location. If you want a timeline you can export, enable Google Location History and later export via Google Takeout → Location History (JSON/KML).
+  - 🟡 GNSS raw measurements (engineering traces). Android exposes GNSS “raw” logs on many devices; capture with dev tools or logging apps if supported (intended for research). See GNSS Raw Measurements API.
+  - 🟢 Wi-Fi scans (nearby SSIDs/BSSIDs). Toggle Location scanning → Wi-Fi scanning in Location settings; apps need location permission to read results.
+  - 🟡 Wi-Fi RTT distance to APs (indoor ranging). Apps can use Wi-Fi RTT (802.11mc/az) to measure distance to compatible APs; requires location permission.
+  - 🟢 Bluetooth proximity/traffic. For packet-level logs, enable Developer options → Enable Bluetooth HCI snoop log, then pull `/sdcard/btsnoop_hci.log` (Wireshark).
+  - 🟢 Cell towers (IDs, signal strength). Apps can read via TelephonyManager (e.g., `getAllCellInfo()`), with appropriate telephony permissions.
+  - 🟢 Activity recognition (walking, running, in vehicle). Apps must request ACTIVITY_RECOGNITION (runtime) from Android 10+.
+  - 🟢 Steps (step counter / detector). Use sensors API; from Android 10+ you must declare ACTIVITY_RECOGNITION to access step counter/step detector.
+  - 🟢 Accelerometer / gyroscope / magnetometer streams. Apps read via SensorManager; some high-rate reads require HIGH_SAMPLING_RATE_SENSORS.
+  - 🟢 Ambient light / proximity. Read via SensorManager; typically no special permission.
+  - 🟢 Google Fit data (steps, workouts, heart rate from wearables, etc.). Manage and export from Google Fit / Google account Download your data.
+  - 🟢 Contacts. MIUI → Settings → System apps → Contacts → Import/Export to .vcf (vCard).
+  - 🟢 Call history / SMS (device). MIUI local/cloud backup can include call logs & messages; export by creating a local/Cloud backup and downloading. Note: 3P apps can’t read call/SMS logs unless they’re the default dialer/SMS.
+  - 🟡 Gmail, Calendar, Contacts (Google). Export via Google Takeout (MBOX/ICS/CSV etc.).
+  - 🟡 WhatsApp / Telegram / Signal chats. Use in-app exports: WhatsApp → Export chat, Telegram Desktop → Export, Signal → encrypted backup.
+  - 🟢 Advertising ID. View/reset in Settings → Google → Ads (wording varies), per Google help on Ad ID reset.
+  - 🟡 Per-app screen time / unlocks / opens. Third-party “usage” apps (e.g., analytics or “digital wellbeing” clones) require Usage Access (PACKAGE_USAGE_STATS). Use Android’s UsageStatsManager or apps that export CSV. Stock Digital Wellbeing does not offer an export.
+  - 🟡 Notification history (last 24h). Settings → Notifications → Notification history → On. OEM-optional, but present on most devices. Viewable once enabled.
+  - 🟡 Notification content stream (live). Grant an app Notification access to capture/export notifications going forward. (User-granted API via NotificationListenerService.) |
+  - 🟢 Per-app data usage (mobile/Wi-Fi). Apps/ADB can query NetworkStatsManager; Settings shows per-app totals. Advanced dumps via `adb shell dumpsys netstats`.
+  - 🟡 Wi-Fi detailed logs. Developer options → Enable Wi-Fi verbose logging for richer diagnostics.
+  - 🟡 Bluetooth packet logs. Developer options → Enable Bluetooth HCI snoop log; export file and analyze in Wireshark.
+  - 🟢 Per-app storage usage. Apps/ADB can query StorageStatsManager; Settings shows per-app storage.
+  - 🟡 Photo/video metadata (EXIF incl. location). Enable “Save location” in Camera app to embed GPS in EXIF; export files normally (EXIF remains). |
+  - 🟢 Downloads & file metadata. Use a file manager or connect via USB; metadata is in the files themselves. |
+  - 🟢 Battery usage history (per-UID/app), wakelocks, jobs. Generate adb bugreport and analyze with Battery Historian or `dumpsys batterystats`.
+  - 🟡 System/device logs (logcat). You can view via ADB/Android Studio. Android restricts 3rd-party access to system-wide logs for privacy.
+  - 🟢 Developer quick tiles (Sensors off). Developer options → Quick settings developer tiles → Sensors off to globally cut Camera/Mic & SensorManager sensors on demand.
+  - 🟡 Google Takeout: one-stop export for Location History (Timeline), Gmail (MBOX), Calendar (ICS), Google Photos, Drive, YouTube, Fit, etc.
+- [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid), [Automate](https://play.google.com/store/apps/details?id=com.llamalab.automate) and [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) sound like powerful Android workflow automation tools. Some uses I can put it to:
+  - Automatically upload recordings to Dropbox
+  - Turn off hotspot when I reach office
+  - Vibrate if I'm walking slowly
+- Adding `<link rel="alternate" type="text/markdown" title="LLM-friendly version" href="/llms.txt">` is an emerging approach for pointing to LLMs.txt. It works. I asked Codex to read the [CloudFlare vitest page](https://developers.cloudflare.com/workers/testing/vitest-integration/write-your-first-test/). It read the file truncating the middle, found the `<link rel="alternate" type="text/markdown" href="https://developers.cloudflare.com/workers/testing/vitest-integration/write-your-first-test/index.md"/` link in it, and reasoned "Considering fetching markdown instructions" and fetched the Markdown page. [Giles' Blog](https://www.gilesthomas.com/website-design)
+- [toon](https://github.com/toon-format/toon) is a YAML-like format that's LLM friendly and especially token-efficient (CSV-like) for tables. You can convert back and forth between JSON and toon.
+- [Food printing](https://www.youtube.com/watch?v=2kCjSq_l-0s) applies 3D printing techniques to create real food items. Given the art that this can create, I expect at least some adoption in niche restaurants.
+- [PMTiles](https://github.com/protomaps/PMTiles) lets you store map tiles as a single-file archive that libraries like MapLibre can read. Useful to avoid tile servers.
+- [Mirrow](https://mirrow.app/) is a CLI SVG animation builder that converts a DSL to animated SVGs. However, it may be easier to use an LLM to create the animated SVG directly with [SMIL](https://developer.mozilla.org/en-US/docs/Web/SVG/Guides/SVG_animation_with_SMIL) than learning Mirrow (or teaching the LLM Mirrow).
+- ⭐ One approach to giving memory ("episodic memory") to coding agents is to [allow them to search their logs](https://blog.fsck.com/2025/10/23/episodic-memory/).This gives them access to past discussions about a repo or other repos.
+- To [configure Gemini CLI](https://github.com/google-gemini/gemini-cli/blob/main/docs/get-started/configuration.md) with an AI router, set:
+  - `"security.auth.selectedType": "gemini-api-key"` in `~/.gemini/settings.json`
+  - `export GOOGLE_GEMINI_BASE_URL=https://llmfoundry.straive.com/gemini/` (or your AI router base URL for Gemini)
+  - `export GEMINI_API_KEY=...` (your AI router API key)
+- Passing a HAR export to an LLM to build a scraper is a powerful idea! [Lessons from Diagram Chasing](https://youtu.be/7NCUE02l1DE?t=516)
+- Addy Osmani's [Gemini CLI tips](https://github.com/addyosmani/gemini-cli-tips) are practical guides to using any coding agent, not just Gemini. I learnt about:
+  - Run shell commands with `!`, e.g. `!ls -la` or even `!bash`. It's added to the chat.
+  - On-the-fly tool creation: ask it to write code for the task on the fly.
+  - Use it for system optimization, e.g. editing dotfiles, system customization, log error analysis, etc.
+  - Run `GEMINI_SYSTEM_MD=... gemini -p "task" --yolo --format json < input.txt` to run Gemini with a different system prompt and feed it input.txt to run in a pipeline. (FYI: Codex does not send a default system prompt, so there's nothing to override.)
+  - There is a [Gemini CLI Show and Tell](https://github.com/google-gemini/gemini-cli/discussions/categories/show-and-tell?discussions_q=is%3Aopen+category%3A%22Show+and+tell%22+sort%3Atop) thread with examples. This include [Janitor AI](https://github.com/google-gemini/gemini-cli/discussions/7890), a [Gemini CLI session viewer](https://github.com/google-gemini/gemini-cli/discussions/3965), etc.
+  - [Hands on with Gemini CLI](https://codelabs.developers.google.com/gemini-cli-hands-on) has several [Use cases to try out](https://codelabs.developers.google.com/gemini-cli-hands-on#11).
+    [Renaming photos](https://github.com/amitkmaraj/gemini-cli-custom-slash-commands/blob/main/.gemini/commands/photo-rename.toml) and
+    [organizing files](https://github.com/amitkmaraj/gemini-cli-custom-slash-commands/blob/main/.gemini/commands/file-organizer.toml) are clever ones.
+  - AGENTS.md can be used like a decision log - rules, styles, or preferences that evolve over time - on a per-repo basis. Gemini's `/memory add` feature helps with this.
+  - `gemini --checkpointing` is a useful "undo" feature. `/restore` rolls you back to a specific checkpoint. The overhead is small.
+  - Caching is only available with API key or Vertex AI, not OAuth login [as of now](https://google-gemini.github.io/gemini-cli/docs/cli/token-caching.html)
+- [OpenAI TTS costs are confusing](https://www.s-anand.net/blog/openai-tts-cost/). But in short
+  - [TTS-1](https://platform.openai.com/docs/models/tts-1) costs $15 / MChars (max 4,096 chars per request), which ends up at ~86c / hour
+  - [GPT-4o Mini TTS](https://platform.openai.com/docs/models/gpt-4o-mini-tts) costs ~$16 / MChars (max 2K tokens which is ~7,000 chars per request), which ends up at ~88c / hour. Very similar cost, effectively
+  - [TTS-1 HD](https://platform.openai.com/docs/models/tts-1-hd) is twice TTS-1.
+- OpenAI has a [usage API](https://platform.openai.com/docs/api-reference/usage/) that provides [cost](https://platform.openai.com/docs/api-reference/usage/cost) as well as usage for [completions](https://platform.openai.com/docs/api-reference/usage/completions), [images](https://platform.openai.com/docs/api-reference/usage/images), [audio speeches](https://platform.openai.com/docs/api-reference/usage/audio_speeches), etc.
+  - These require an [organization admin key](https://platform.openai.com/settings/organization/admin-keys)
+  - Cost API: `curl "https://api.openai.com/v1/organization/costs?start_time=$TIMESTAMP&project_ids=$PROJECT_ID&group_by=line_item"`
+  - Audio speech usage API: `curl "https://api.openai.com/v1/organization/usage/audio_speeches?start_time=$TIMESTAMP&project_ids=$PROJECT_ID&group_by=model"`

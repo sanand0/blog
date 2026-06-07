@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "A brief note announcing a 10-day silent meditation retreat as an experiment in stepping away from technology entirely."
 keywords: ["Vipassana", "meditation retreat", "digital detox", "silence", "personal experiment", "travel"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7346051251400294401/
 ---
 
 I'm off for a 10-day Vipassana meditation program.

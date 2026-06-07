@@ -5,6 +5,7 @@ categories:
   - llms
 description: "AI is rapidly automating many data-science tasks, so the role survives by evolving beyond routine execution rather than by preserving old workflows."
 keywords: ["data science", "AI automation", "future of work", "vibe coding", "analytics", "job change"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7364307983037579266/
 ---
 
 Slides for my DataHack Summit talk (controversially) titled **RIP Data Scientists** are at https://sanand0.github.io/talks/2025-08-21-rip-data-scientists/

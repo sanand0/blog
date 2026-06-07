@@ -5,6 +5,7 @@ categories:
   - coding
 description: I built a GitHub profile app using various coding agents to compare performance. I found that quality varies significantly more than cost or speed, suggesting users should prioritize model quality over minor price or latency differences.
 keywords: [coding agents, llm evaluation, benchmarking, web development, github api, model comparison]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7383420784389787648/
 ---
 
 I asked multiple coding agents and models to build the same app:

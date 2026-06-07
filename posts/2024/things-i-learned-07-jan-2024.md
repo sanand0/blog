@@ -1,0 +1,113 @@
+---
+title: Things I Learned - 07 Jan 2024
+date: 2024-01-07T00:00:00+00:00
+categories:
+  - til
+---
+
+This week, I learned:
+
+- Raman Srinivasan:
+  - IITM Profs and MTechs are spinning off deep tech startup.
+    - Agnicool is an example. They 3D print rockets with ceramic composites from Germany
+    - Sriram Krishnan (Facebook), Balaji Krishnan invested in pre-Series A
+  - Govt is de-regulating space tech and geospatial. Talking of de-regulating nuclear.
+    - ISRO seems to be focusing on cutting edge while others are doing commercial stuff
+    - There are about 100 space tech startups in India
+    - You can build your own modular reactor
+  - Geospatial AI is a big opportunity
+    - Have released a lot of 10m resolution geospatial data almost for free
+  - success is about getting NO factor wrong. Failiure just requires one aspect to fail. Brand, business savviness, financial stability, tech superiority, deep pockets, managing Gvt, long-term mindset, etc. - all of these matter. That's what made TCS monopolize the exam business in India.
+  - For deepening AI, we need, Talent, Data pipelines, Hardware
+  - Next wave is LMMs, not LLMs
+  - What's not captured in LLMs is verbal knowledge and tacit knowledge (in people's fingertips). India is rich in this. The road to tacit knowledge has to go through India
+    - We can get a welder to train a simulator and pay the welder
+    - We can get a storyteller to tell a few stories and train oral LLMs
+  - Tacit knowledge will have to cover robotics. Train robots to bring coffee in just 50 demos!
+  - "Project delays are within the 'rulebook'. Buyt paying skilled welders for ship building or nuclear pressure boilers needs breaking 100s of rules. Once they get certified, they abscond to Iran or somewhere."
+  - TCS Ignite started in 2006 by Ramadorai. Before recession. "There is going to be a talent shortage. Recruit from next rung. Science not engineering graduates. Break HR monopoly and corruption - colleges became placement agencies. Fewer people per college. Across the country. Train them."
+    - Tried in 2000. HR refused. Business refused. When Chandra was identified, Ramadorai took it up himself as a challenge.
+    - Ramadorai had very precise attention. Sat 7 am calls. "What are you doing?" 2 min call. Enough to energize.
+    - Would exchange and ask for brief updates. He reads and responds. You get a decision in a few hours early in the morning. No decision bottleneck
+    - He wanted to know ALL the details. Very precise, small, frequent probes on what's happening.
+    - E.g. one 6 am, he called. "What are the lectures planned for today?" He expected I would know this. If not, next time I would be prepared.
+    - He would call another person and ask the same question. So I updated the others.
+    - I've never seen anyone with that bility to ground-truth.
+    - He wants 10 birds from 1 stone. Get BSc, but don't comprimize. Get the best 2 per college but a full batch size of 500.
+    - We became the biggest training program as a single batch -- with 500 people. He wanted to demonstrate scale.
+    - HR and CFO said, 'You recruit first. Then we'll give you money. We don't think it's possible."
+    - We had anchor colleges and brought people from other campuses.
+    - We did digitized exams. Took big servers to the campus. Fully digitized with full auditability. Plugged the laptops into the college LANs. Kids had never used a mouse. We had to teach them. We said, "Don't worry. These are logical questions, not questions. We'll pay a full salary."
+    - We learned that 1 out of 2 didn't even join. Many took up a Masters. They didn't want to join the workforce. Unless they're desperate economically. Even poor parents, if they can afford to support you at home, they do that. It's weird.
+    - Every weekend, we visited a few campuses. 71 locations across the country.
+      - Found the NSS college in Ottapalam (Kumbakonam of Kerala. Cultural centre.) College had a nice nice Math dept website. I said "Mr Ramadorai, this looks promising." One Sat morning, he called and said, "When are you going to Ottapalayam?"
+      - We landed in the college. There was an impromptu communist student strike. We made 38 offers out of 100 who took the exam. Never had such a high conversion. One girl, whose father was a coolie, jad communication issues. Had a colleague talk in Malayalam. She was an amazing success. My colleague Murali made a documentary about her.
+    - We started in July. By Dec, we had 500 joinees.
+  - No one is doing such a thing now.
+    - You have to get dozens of things just right. Compromising on even one kills it.
+    - Ramadorain loaded it with multiple objectives. Fresh talent. Low cast. Sustainable.
+    - He kept pushing for innovation. I pushed back. But he was persistent. Over time, I came around and we started innovating.
+    - We restructured training program around innovation. Like a YCombinator. That unleashed extraordinary energy. Several of the kids are running their own startups. Ramadorai was very supportive of that.
+    - The assessment product came out of that.
+    - First batch, everyone was very sceptical. We got a lot of pushback. They're dumb. Ethics issues. Communication issues. Lot of prejudice. So we got them to do internal recruitment till they were satisfied. An internal placement market. THEN reputation was set.
+    - I told them, always stick to the dress code. One weaver's sone wore a bright yellow polyester T-shirt. I asked him why he didn't stick to the dress code. "Sir, it's my first T-shirt."
+    - Ramadorai tracked how many became billable. We were unable to place 70. He said, give them 1 more month training. Then we placed 64 of the 70. He said "Do something about the 6. I want 100% placement." We absorbed them as a teaching assistant. One was a weaver's son. One was a PC's daughter. A mestri's son. A shopkeeper's daughter from North Madras. None could speak English. They learned to code and helped build the exam software, with Srikumar who was a brilliant Java coder. That gave us the confidence that these are good kids, just from the wrong part of town. With a good guide, they're very capable.
+  - We bought a bunch of Nintendo Wiis. Kids have to play.
+    - He asked for a welding simulator. "Velu the Welder". The kids built it using the Wii.
+    - We got the most accomplished welder spend an afternoon at Ignite. He ripped us apart. 4 hrs non-stop. He told us EVERY thing wrong with it. Blasted us.
+    - I told Murali, "Let's call it a toy. It's not a simulator. Let kids play." He said, "I want to show that it can be done!"
+    - Murali churned out rapid iterations in a frenzy.
+    - Ramadorai said, "Deploy it in the field." So we went to all kinds of remote places like Gondiya below Nagpur. Surprisingly cosmopolatan. Junction of EW and NS train lines. We set up welding institutes in each. It was on the cloud. We could track everything.
+  - KPK killed the skills. Hard core bureaucrat. His view is colonial.
+    - Ignite philosophy is about unleashing energy of people.
+    - Colonoial model is about controlling people by keeping them poor. KPK and Chidambaram had that mindset.
+    - Ramadorai brought him in as Secy of NSDC. he killed the policies
+    - Modi did the first cut by creating a ministry. KPK ensured that it never gew. Like Yes Minister. Made sure nothing moved
+    - Had Govt not changed, he would have been Secy Finance. He was seen as Chidambaram's blue eyed boy. People know he was associated with NSE scam. Ramadorai helped by bringing him into skills
+    - He is very smart. Knows the IAS machinery in and out. Lives and breathes that. H
+    - Ramadorai likes him though. Put him on board of Tata Consumers.
+  - NSE Scam. He's part of the cabal with Ajay Shah. Private trading firms could co-locate within NSE and could make a huge amount of money. KPK ran some of this by proxy to fund Congress. But he left no fingerprints. But everyone knows it is him. He was running Chitra Ramakrishnan by proxy. He was the Himalayan Yogi.
+  - Ignite continued with unwavering focus. Kept increasing the kind of focus. We had a 99.5% success rate in placements. Just a handful of failures.
+  - Ramadorai has written about Ignite in "The TCS Story". My Dad translated it in Tamil. It's not a typical business biography. Worth reading. Should be a mandatory course in MBA courses in India. So many lessons.
+    - You have to read it knowing how Mr Ramadorai speaks. What is NOT said is just as important. Ch 5 is the thinnest - on the IPO. It is packed with so much stuff. Unless you know, you won't understand.
+    - "Tatas got the Govt to change a tax law to make the IPO meaningful." Behind that, there's a lot. You have to be alert to catch the sentene. He won't brag, or talk about the significance of some of these.
+    - Book is packed with dense insights. Unless you ARE LOOKING FOR IT, you'll miss it. Worth reading SEVERAL times. You need a foot-noting.
+  - Currently reading Pasquenelli -- Social History of Artificial Intelligence. Eye of the Master. Worth reading. I'm not Marxist by belief but they get some things right. Surprised how vibrant the European left is.
+    - "If someone is doing manual work, there is tacit knowledge that automation captures."
+  - India doesn't need self-driving cars. But a farmer would like a gaming controller that ploughs his fields while he sits under a tree. Semi-intelligent machines that removes the burden of hard labour in the country.
+  - Once a year, for a few weeks, I do manual labour. People are under-nourished. People typically work 5 hours a day. Not enough muscle mass. So use them for what they're good at
+  - I've seen the power tools. When Chinese power tools became cheap, the power welding became much more efficient. Everyone has become a monkey with power tools. They charge per inch. They know how to leverage the tech for economic benefit. Just bring in the power tools and rapidly finish and make money. But there are sections that are still poor and haven't made the transition. How can we create pathways for them? How can AI help?
+  - Anand: Why not use a gimball. RS: Good idea.
+  - Role modern psychologist DW Winnicott on ChatGPT (like Socrates)
+    - E.g. You don't need a perfect mother. A good enough mother is better
+    - Similarly, why not a "good enough" Bharat mata than a perfect one?
+- To persuade someone, align it with their identity. [ChatGPT](https://chat.openai.com/share/8e3da1b0-0acf-4cd3-b764-dbecac98b03c)
+- 5 technologies of interest according to Gartner's latest hype cycle:
+  - GitOps
+  - [Internal Developer Platform](https://internaldeveloperplatform.org/)
+  - Graph Data Science
+  - Open Source Program Office
+  - Value Stream Management Platforms
+- [Gemini](https://geminiprotocol.net/) is an alternative to the Web. Sort of like Gopher, but recent
+- [SALI](https://www.sali.org/) - Standards Advancement for the Legal Industry - has standards and ontology/taxonomy for legal documents, including patent litigation.
+- Walking new routes habitualizes fighting fear and preferring novelty
+- ⭐ [GPT-4 is bad at math](https://github.com/sanand0/llms/blob/main/is-gpt4-good-at-math.ipynb). It gets ~60-70% of answers wrong.
+- [LMQL](https://lmql.ai/) provides a constraint-based query language for interacting with LLMs. It uses token masking, which is clever.
+- [Hollywood writers signed a deal](https://www.wired.com/story/us-writers-strike-ai-provisions-precedents/) that limits AI in script writing. It's primarily aimed at protecting script writer wages.
+- [Adobe Firefly](https://www.adobe.com/products/firefly.html) offers a "generative fill" that lets you remove or paint new objects into an image. I'm awaiting text to vector images.
+- [Duet AI](https://cloud.google.com/duet-ai) is Google's answer to Github Copilot.
+- [Teachers are using LLMs](https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/) to plan lessons, write emails to parents, create tests, adjust reading level of materials, personalize content with tools like [MagicSchool](https://www.magicschool.ai/), [Diffit](https://beta.diffit.me/), [Eduaide](https://www.eduaide.ai/).
+- [WizardLM](https://arxiv.org/pdf/2304.12244.pdf) creates datasets for instruction tuning by cleverly using LLMs to create new prompts.
+- [Deita](https://github.com/hkust-nlp/deita) is an approach to improve instruction tuning datasets.
+- Dhyeya: Attack on Titan is as good at Death Note
+- Jaidev:
+  - Long car drives are a good place to explore new song genres. Try in taxis
+  - Same radio channels may have different frequencies across cities. Vividh Bharati is 100.5 FM in Chennai and 106.4 in Delhi
+  - Things to explore:
+    - Radio for new songs
+    - Clubhouse
+    - Twitter Spaces
+    - Instagram reels
+    - YouTube reaction videos (e.g. atheist, Indian songs, etc.)
+    - Stand-up comedies (Ricky Gervais, Louis CK, Jordan Peterson)
+- Porn artists are at risk because of Gen AI

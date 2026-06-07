@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "Autocomplete suggestions across countries are an underrated social-research dataset that can reveal culture, anxiety, humor, and intent at scale."
 keywords: ["Google autocomplete", "social research", "search suggestions", "culture", "digital exhaust", "cross-country analysis"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7340632732227538944/
 ---
 
 Google Search Suggestions is still an under-used social research tool.

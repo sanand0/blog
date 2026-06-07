@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "The real challenge with AI performance evaluation is not technical feasibility but getting people comfortable with being judged by a machine and learning how to game it productively."
 keywords: [AI evaluation, acceptance, performance reviews, LLM grading, education, social adoption]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7268114373942870016/
 ---
 
 Will people accept AI performance evaluations?

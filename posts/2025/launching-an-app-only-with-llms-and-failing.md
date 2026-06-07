@@ -8,6 +8,7 @@ categories:
 wp_id: 3817
 description: "Trying to build a mid-sized app entirely from LLM specs exposed the limits of both over-controlling specifications and one-shot code generation, pushing the author toward scaffold-and-refine workflows."
 keywords: [SPEC.md, Cursor, AI coding, app generation, failure case, scaffold and refine]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7282246445015965697/
 ---
 
 ![Launching an app only with LLMs and failing](/blog/assets/DALL·E-2025-01-07-11.57.24-A-colorful-single-panel-16x9-comic-strip-in-the-style-of-classic-Calvin-Hobbes.-Calvin-a-young-boy-with-wild-hair-sits-in-a-DIY-spaceship-made-out.webp)

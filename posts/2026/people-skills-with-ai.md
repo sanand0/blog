@@ -5,6 +5,7 @@ categories:
   - llms
 description: I built a WhatsApp export script and used Claude via my Local MCP connector to identify people deserving of thanks. The AI helped me discover hidden support for my workshops, teaching me how to be more human.
 keywords: [whatsapp, claude, local mcp, automation, scripting, gratitude]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7461792828352811008/
 ---
 
 ![](https://files.s-anand.net/images/2026-05-17-iim-alumni-singapore-workshop-poster.avif)

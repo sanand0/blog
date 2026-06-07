@@ -7,6 +7,7 @@ categories:
 source: https://claude.ai/chat/b09c0847-9325-46d1-bf1d-b40ab6824643
 description: Based on GDPval benchmarks showing AI agents outperform experts in niche tasks, I 'hire' Claude for roles like relationship architect, diplomat, and epistemologist. These high-leverage prompts help me manage personal networks, stress-test beliefs, and curate my aesthetic taste.
 keywords: [gdpval, ai agents, claude, scenario planning, taste curation, relationship architect, epistemologist, high-leverage]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7414249386639126528/
 ---
 
 [GDPval](https://sanand0.github.io/datastories/gdpval/) is a benchmark that compares how well AI does (vs experts without AI) on useful real-world tasks.

@@ -8,6 +8,7 @@ categories:
 wp_id: 3460
 description: "The acquisition of Gramener by Straive is framed as a founder's emotional handover: part gratitude, part grief, part growth, and part renewed curiosity about the next chapter."
 keywords: ["Gramener", "Straive", "acquisition", "founder", "career transition", "gratitude"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7125495999652925442/
 ---
 
 ![Father of the bride](/blog/assets/DALL·E-2023-11-01-10.46.45-Photo-of-a-middle-aged-man-in-a-sharp-suit-symbolically-handing-over-a-miniature-corporate-building-to-a-younger-individual.-Both-stand-in-a-setting-.webp)

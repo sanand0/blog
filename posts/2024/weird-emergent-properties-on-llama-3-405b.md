@@ -8,6 +8,7 @@ categories:
 wp_id: 3584
 description: "Llama 3 405B reportedly behaving like an amnesiac without a system prompt suggests that large models can develop strange, scale-driven emergent behaviors around alignment and role setup."
 keywords: ["Llama 3 405B", "emergent behavior", "system prompt", "alignment", "fine-tuning", "LLMs"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7232927389553418240/
 ---
 
 ![Weird emergent properties on Llama 3 405B](/blog/assets/confused-robot-patient.webp)

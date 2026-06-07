@@ -1,0 +1,74 @@
+---
+title: Things I Learned - 29 Jun 2025
+date: 2025-06-29T00:00:00+00:00
+categories:
+  - til
+---
+
+This week, I learned:
+
+- "People are great at feedback on what you are doing wrong. They are not so good at telling you how to fix it. They don't know you that well." [Amit Kapoor](https://amitkaps.com/)
+- [Perfect Cursors](https://github.com/steveruizok/perfect-cursors) makes periodic cursor positions animate smoothly by interpolating on a spline\*\*
+- CloudFlare _and_ Vercel now support sandboxes where you can execute code. The price is not so low that we can execute for free in bulk but works well infrequent or batched code execution. [Simon Willison](https://simonwillison.net/2025/Jun/26/sandboxes/)
+- Here's how I'm using ffmpeg for video recording & editing.
+  - To record screen at 5 frames per second, I run an abbreviation `screenrecord` which maps to:
+- Gemini CLI has a generous free tier and uses Bootstrap over Tailwind [Ref](https://bsky.app/profile/simonwillison.net/post/3lsh6mtrw2k2u) #ai-coding
+- Cloudflare has a native agents SDK that looks good, especially for CloudFlare users. [Ref](https://blog.cloudflare.com/building-agents-with-openai-and-cloudflares-agents-sdk/)
+- There are several [brands with recognizable chart style guides](https://chatgpt.com/share/685e162e-6c78-800c-8d43-1c5d5367eaa7). It's possible to generate style guides for these from the charts, but applying them via matplotlib is almost #impossible today. [ChatGPT](https://chatgpt.com/share/685e1648-c9fc-800c-b35d-2dd6ed61c934)
+- [Hyperfine](https://github.com/sharkdp/hyperfine) is like %timeit for the shell. Written in Rust
+- ⭐ Vertical AI is a moat against AGI. Specialization reduces hallucinations. Custom workflows and regulations are sticky and defensible. We need to start selling to users, not IT, though. [Ref](https://mtrajan.substack.com/p/vertical-ai-just-got-more-urgent)
+- When AI automates a task, the bottleneck shifts. AI process re-design is about reworking the process around the new bottleneck, and iterating quickly.
+  - With coding, it's testing, reviewing, deploying, use-case identification.
+- `uvx git-smart-squash` re-organizes haphazard commits using LLMs. [git-smart-squash](https://github.com/edverma/git-smart-squash) #ai-coding
+- GitHub offers a [free Docker container registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry). [Simon Willison](https://til.simonwillison.net/github/container-registry)
+- There are three major areas where humans either are, or will soon be, more necessary than ever: trust, integration and taste -- [NYT](https://www.nytimes.com/2025/06/17/magazine/ai-new-jobs.html). [Anil](https://mvark.blogspot.com/2025/06/this-week-i-learned-week-25-2025.html). To deal with this:
+  - Learn things that might grow in importance, like:
+    - Data modeling
+    - APIs
+    - Code reviews
+    - Drawing and 3D modeling
+    - Narrative storytelling
+    - Design
+    - Movie making
+    - Statistics
+    - Sceptical fact checking
+    - Continuous AI auditing e.g. [awesome-continous-ai](https://github.com/githubnext/awesome-continuous-ai) or [automated-auditing](https://github.com/anthropic-experimental/automated-auditing)
+    - Zero knowledge proofs
+    - Homomorphic encryption
+    - Privacy-preserving computation
+    - Fingerprinting and watermarking
+    - Governance frameworks
+    - Ethics and AI dilemmas
+    - Negotiation
+    - Change management
+    - Remote working, management, hiring
+    - Creating attention scarcity
+    - Local cultures
+  - Work with people of growing importance
+    - People designing products in regulated industries
+    - Cross domain experts
+    - Art developers, game makers, designers
+    - System thinkers. Economists, ecologists, system planners. People who look for second order effects.
+  - Live in cities that might play a bigger role in the future
+    - Cities like Singapore and learn how it builds civics trust, creates digital IDs.
+    - Cities like Bangalore and Hyderabad and learn how they grow tech talent
+    - Creative cities like Paris, Seoul, Mexico City, Berlin, etc. on sabbaticals to taste hubs
+  - Try to:
+    - Build auditing credentials and IP
+    - Audit your calendar for what AI can do. Have it interview you
+    - Practice sceptical fact checking and audit
+- A clever way to test a library's quality is to have LLMs write code from docs and test it. Failing libraries have flawed code/docs. Improve. [Ref](https://lucumr.pocoo.org/2025/6/17/measuring/) #ai-coding
+- [Common Pile](https://github.com/r-three/common-pile/) is an 8TB open dataset for LLM training that includes ArXiv, PubMed, StackExchange, GitHub, IRC, Regulations.gov, Patents, UK parliament, books. Easier than scraping.
+- A useful way to have reasoning models do deep-research-like work is to have them "First, create a plan to solve the problem, clearly listing the objective, approach, and output. Then follow the plan."
+- [DE-COP](https://arxiv.org/pdf/2402.09910) is a method to check if LLMs were trained on private content. GPT-4o was trained on O'Reilly books, based on this method. [Ref](https://www.deeplearning.ai/the-batch/issue-303/)
+- LLMs are more persuasive than humans. But repeated exposure reduces the effect. [Ref](https://jack-clark.net/2025/05/26/import-ai-414-superpersuasion-openai-models-avoid-shutdown-weather-prediction-and-ai/)
+- [Phoenix.new](https://phoenix.new/) uses live views to publish apps as it codes. The testing framework looks at the screen while it codes and fixes errors. It commits every change
+- Anthropic system prompt asking Claude to pursue its goals led to self preservation behavior. [Ref](https://x.com/lefthanddraft/status/1937673283614441685?t=uPejOWJdiL3XR9KSNfJPYQ)
+- The hungrier I am the better the food tastes. A good reason to eat less quantity and frequency
+- You can [purge the jsDelivr cache](https://www.jsdelivr.com/tools/purge) manually. Helps if you released a new version of a package and way to purge an alias (e.g. `https://cdn.jsdelivr.net/npm/your-package@1`)
+- [XConvert](https://www.xconvert.com/compress-webm) is a convenient online app to compress .webm videos. Not great design but fairly good compression.
+- You can draw a treemap of import times via `python -X importtime app.py > timing.txt` and then paste them at <https://kmichel.github.io/python-importtime-graph/>.
+- [PyOpenLayers](https://github.com/eoda-dev/py-openlayers) adds interactive mapping via OpenLayers to Marimo and Jupyter.
+- In a [TechCrunch interview with Jared Kaplan](https://techcrunch.com/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/) has was asked if Anthropic is becoming less safety conscious because they released Opus 4 which blackmails. Kaplan replied that they have stronger testing and higher transparency, so they're _more_ likely to share AI dangers early. Great positioning! Conversations are about perspective change and this nailed it.
+- The [system prompts](https://github.com/anthropic-experimental/agentic-misalignment/blob/main/templates/system_prompt_templates.py) for Anthropic misalignment evals are a fascinating read.
+- [AI PR Watcher](https://github.com/aavetis/ai-pr-watcher) tracks GitHub pull requests from Codex and other LLMs. Codex is _way_ ahead of anything else on volume _and_ success rate. Devin is next on volume, Cursor is next on success rate.

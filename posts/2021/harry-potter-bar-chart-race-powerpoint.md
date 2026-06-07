@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "A brief tutorial announcement shows how a Harry Potter screen-time bar chart race was built in PowerPoint, proving again that the tool is stranger and more capable than people assume."
 keywords: ["PowerPoint", "bar chart race", "Harry Potter", "tutorial", "animation", "LinkedIn"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6813469199885840384/
 ---
 
 The #HarryPotter Screen Time video featured a bar chart race made in PowerPoint. Many of you asked how I made it.

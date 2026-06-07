@@ -7,6 +7,7 @@ categories:
 wp_id: 3994
 description: "For most use cases, hosted APIs are dramatically cheaper than self-hosting frontier models, so running your own GPU stack makes sense only for a few specialized constraints."
 keywords: [LLM economics, self-hosting, APIs, GPU costs, inference pricing, deployment strategy]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7313749658143444992/
 ---
 
 ![LLM GPU or API? The Cost Will Surprise You](/blog/assets/ChatGPT-Image-Mar-30-2025-06_18_30-PM.webp)

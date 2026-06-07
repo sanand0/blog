@@ -1,0 +1,140 @@
+---
+title: Things I Learned - 24 Nov 2024
+date: 2024-11-24T00:00:00+00:00
+categories:
+  - til
+---
+
+This week, I learned:
+
+- OpenAI lets you download GPT instructions and execute arbitrary code in their containerized environment. This is not a bug. [Ref](https://0din.ai/blog/prompt-injecting-your-way-to-shell-openai-s-containerized-chatgpt-environment)
+- BM25 works as follows: [Ref](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
+  - For each query term in the query, sum up the product of:
+    - Inverse document frequency = LN(% of docs without the query term + 1) -- with a small tweak
+    - Term frequency = freq / (freq + k) -- where k is usually between 1.2 to 2. Returns 0-1 with diminishing frequency benefit
+      - k is multiplied by Document length normalization = 1 - b(1- DocLength/AvgDocLength). Longer documents have larger k, dampening frequency benefits.
+  - Some implications:
+    - The actual BM25 score has no meaning. It's just useful for ordering
+    - BM25 scores for 2 queries can be compared ONLY IF the document sets don't change
+- A list of Markdown to Website converters on [this thread](https://news.ycombinator.com/item?id=36531937):
+  - [Jekyll](https://jekyllrb.com/) - Ruby - 2008
+  - [MkDocs](https://www.mkdocs.org/) - Python - 2014
+  - [GitBook](https://www.gitbook.com/) - JavaScript (Node.js) - 2014
+  - [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) - Python (MkDocs-based) - 2016
+  - [Docsify](https://docsify.js.org/) - JavaScript - 2016
+  - [MdBook](https://rust-lang.github.io/mdBook/) - Rust - 2017
+  - [Antora](https://antora.org/) - JavaScript (Node.js) - 2017
+  - [Docusaurus](https://docusaurus.io/) - JavaScript (React) - 2017
+  - [JupyterBook](https://jupyterbook.org/) - Python - 2019
+  - [Keenwrite](https://github.com/DaveJarvis/keenwrite) - Java - ~2019
+  - [Honkit](https://github.com/honkit/honkit) - JavaScript (GitBook fork) - 2019
+  - [Nextra](https://nextra.site/) - JavaScript (Next.js) - 2020
+  - [Astro](https://astro.build/) - JavaScript/TypeScript - 2021
+  - [Hugo Book](https://github.com/alex-shpak/hugo-book) - Go (Hugo-based) - ~2020
+  - [Clowncar](https://github.com/secretGeek/clowncar) - JavaScript/Node.js - ~2021
+  - [Quarto](https://quarto.org/) - R and Python - 2022
+  - [Starlight](https://starlight.astro.build/) - JavaScript/TypeScript - 2023
+- [DuckDB has an LLMs.txt](https://duckdb.org/duckdb-docs.md).
+  Today, [38 repos on GitHub support it](https://github.com/search?q=path%3A**%2Fllms.txt&type=code)
+- When identifying LLM use cases, it helps to tell LLMs what they can do. I use one or more of a list like below:
+  - Core capabilities:
+    - **Text Generation:** Produce coherent and contextually relevant text across various domains.
+    - **Image Generation:** Create realistic images that match the style and content of a given reference image.
+    - **Text to Speech:** Convert text into natural-sounding speech with appropriate intonation and rhythm.
+    - **Speech to Text:** Transcribe and interpret spoken language.
+    - **Vision:** Analyze and describe visual content from images.
+    - **Video Analysis:** Summarize and extract information from video content.
+    - **Text to Video:** Generate realistic (and surrealistic) videos from text descriptions.
+    - **Function Calling:** Execute predefined functions or access external tools to perform specific tasks.
+    - **Structured Output:** Generate structured outputs like JSON, XML, HTML, YAML, DSLs, etc.
+    - **Tool Use:** Utilize external applications or APIs to enhance functionality.
+    - **Code Generation:** Write and debug code snippets in various programming languages.
+  - Cross-domain use cases:
+    - **Summarization:** Understand and condense lengthy documents into concise summaries.
+    - **Translation:** Convert text between multiple languages with high accuracy.
+    - **Question Answering:** Provide precise answers to user queries based on provided information.
+    - **Reasoning and Planning:** Solve complex problems and develop step-by-step plans.
+    - **Personalization:** Tailor responses based on user preferences and historical interactions.
+    - **Dialogue Management:** Engage in context-aware, multi-turn conversations.
+    - **Data Analysis:** Interpret and generate insights from structured data.
+    - **Content Moderation:** Identify and filter inappropriate or harmful content.
+    - **Sentiment Analysis:** Detect and interpret emotions and opinions in text.
+    - **Robotics Integration:** Interface with robotic systems for control and decision-making.
+    - **Knowledge Retrieval:** Access and present information from vast datasets or knowledge bases.
+    - **Creative Writing:** Generate poetry, stories, and other creative content.
+    - **Educational Assistance:** Provide explanations and tutoring across various subjects.
+    - **Ethical Reasoning:** Assess scenarios for ethical considerations and implications.
+    - **Accessibility Support:** Assist users with disabilities through tailored interactions.
+    - **Simulation and Modeling:** Create predictive models and simulate scenarios.
+  - Domain-specific use cases:
+    - **Legal and Medical Assistance:** Offer information and guidance within legal and medical domains.
+    - **Gaming:** Generate narratives, dialogues, and scenarios for interactive entertainment.
+    - **Scientific Research:** Aid in literature reviews, hypothesis generation, and data interpretation.
+    - **Financial Analysis:** Analyze market trends and provide investment insights.
+    - **Cultural Competence:** Understand and respect diverse cultural contexts in interactions.
+    - **Security Applications:** Detect and respond to potential cybersecurity threats.
+    - **Environmental Monitoring:** Analyze data related to environmental changes and sustainability.
+    - **Healthcare Support:** Assist in patient monitoring, diagnostics, and personalized treatment plans.
+    - **Supply Chain Optimization:** Enhance logistics and inventory management through predictive analysis.
+    - **Customer Service:** Provide automated support and resolve customer inquiries.
+    - **Market Research:** Analyze consumer behavior and market trends for business insights.
+    - **Content Creation:** Generate articles, blogs, and marketing materials.
+    - **Virtual Assistance:** Manage schedules, reminders, and personal tasks.
+    - **Social Media Management:** Craft posts and engage with audiences across platforms.
+    - **Human Resources:** Assist in recruitment, training, and employee engagement strategies.
+    - **Event Planning:** Organize and coordinate events, including logistics and communication.
+    - **Travel Planning:** Provide itineraries, booking assistance, and destination information.
+    - **Real Estate:** Analyze property markets and assist in buying or selling decisions.
+    - **Agriculture:** Monitor crop health and optimize farming practices through data analysis.
+    - **Energy Management:** Optimize energy consumption and monitor renewable energy sources.
+    - **Transportation:** Enhance route planning and traffic management systems.
+    - **Urban Planning:** Assist in designing sustainable and efficient urban infrastructures.
+    - **Disaster Response:** Provide real-time information and coordination during emergencies.
+    - **Public Policy:** Analyze data to inform policy decisions and predict societal impacts.
+    - **Art and Design:** Generate visual art concepts and assist in creative design processes.
+    - **Music Composition:** Create original music pieces and assist in songwriting.
+    - **Language Learning:** Facilitate language acquisition through interactive exercises and feedback.
+    - **Historical Analysis:** Interpret historical data and provide insights into past events.
+    - **Philanthropy:** Identify charitable opportunities and assess the impact of donations.
+    - **Sports Analytics:** Analyze player performance and game strategies.
+    - **Fashion:** Predict trends and assist in clothing design and merchandising.
+    - **Culinary Arts:** Generate recipes and provide cooking guidance.
+    - **Astronomy:** Analyze celestial data and assist in space exploration research.
+    - **Psychology:** Offer insights into human behavior and mental health support.
+    - **Linguistics:** Analyze language patterns and assist in translation studies.
+    - **Archaeology:** Assist in artifact analysis and historical site interpretations.
+    - **Literature Analysis:** Interpret literary works and provide critical analyses.
+    - **Philosophy:** Engage in discussions on ethical dilemmas and existential questions.
+    - **Mathematics:** Solve complex equations and assist in theoretical research.
+    - **Physics:** Model physical phenomena and assist in experimental design.
+    - **Chemistry:** Analyze chemical compounds and predict reactions.
+    - **Biology:** Assist in genetic research and ecological studies.
+    - **Geology:** Analyze geological data and assist in natural resource exploration.
+    - **Meteorology:** Predict weather patterns and analyze climate data.
+    - **Oceanography:** Study marine ecosystems and assist in ocean exploration.
+    - **Anthropology:** Analyze cultural data and assist in ethnographic research.
+- Style of writing impacts output style a lot. E.g. Adding an evil laugh makes Claude more creative. [Ethan Mollick](https://bsky.app/profile/emollick.bsky.social/post/3lbj766ewsc2c)
+- For good structured mode output, we need good prompting.
+  - Mentioning examples and schema and "JSON" helps. When providing examples, using (user, assistant) message pairs helps (I think it's because it's easier for the LLM to parse).
+  - Using a {reasoning, answer} schema (with reasoning first) helps. Make reasoning concise and relevant [Ref](https://blog.dottxt.co/say-what-you-mean.html) [Arxiv](https://arxiv.org/html/2408.05093v1)
+  - We already know code in JSON is not a great idea. [Ref](https://aider.chat/2024/08/14/code-in-json.html)
+- Just adding 3 real examples and regurgitation helped GPT 4o play chess much better. Both techniques may have more general use in prompting. [Simon Willison](https://simonwillison.net/2024/Nov/21/llm-chess/#atom-everything)
+- With Deno 2.0, the same `.js` file can run in Node.js as well as Deno. [Example](https://chatgpt.com/share/673f44f0-cd54-800c-b9d7-7f68f7666958)
+- [jspm](https://jspm.org/) lets you generate import maps against any CDN.
+- You can click on `htop` columns on the terminal to sort by that column! Mouse events work on command line apps. [Julia Evans](https://social.jvns.ca/@b0rk/113510202564987943)
+- Alt Text will very likely be a browser feature. It's important for the Alt text to _flow_ as part of the content when listening to the page. Perhaps even become a part of the browser APIs like speechRecognition.
+- Langchain suggests multiple levels of agentic behaviour. LLM Call < LLM Chain < LLM Rounter < State Machine < Autonomous [Langchain](https://blog.langchain.dev/what-is-an-agent/)
+- A [HTML quine](https://secretgeek.github.io/html_wysiwyg/html.html): A page that, when rendered as HTML, shows the HTML source code of the page!
+- You can enable syntax highlighting _just using fonts_. [Ref](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
+- [HTML is all you need](https://maxbo.me/a-html-file-is-all-you-need.html) shows examples of using HTML for notebooks instead of Jupyter, Observable, etc.
+- Straive evaluated Gemini 1.5 Flash 002 and GPT 4o Mini for translation.
+  - Portugese: Flash is better than GPT 4o Mini. BLEU Word Overlap is 65.5% > 64.6% and METEOR (Semantic) is 84.9% > 78.9%
+  - Mandarin: Flash is better than GPT 4o Mini. BLEU Word Overlap is 25.0% > 15.9% and METEOR (Semantic) is 54.7% > 51.1%
+- The problem with Accept headers is that you can't link to them. [Simon Willison](https://fedi.simonwillison.net/@simon/113484569366205490)
+- Recraft v3 supports vector (SVG) generation [Simon Willison](https://simonwillison.net/2024/Nov/15/recraft-v3/). The output is 100% `<path>` elements (even for text). You get 50 free credits daily. Creating 1 image is ~2 credits. The API costs $1 per 1K credits. Some things I can create with it are:
+  - Base data visualizations that I can animate with code
+  - Icons in a specific style
+  - Comic strips
+  - Explainers for talks or student material
+  - Featured images for blog posts
+  - Architecture diagrams?

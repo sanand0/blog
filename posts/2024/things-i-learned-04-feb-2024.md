@@ -1,0 +1,65 @@
+---
+title: Things I Learned - 04 Feb 2024
+date: 2024-02-04T00:00:00+00:00
+categories:
+  - til
+---
+
+This week, I learned:
+
+- [Alzhara](https://alzahravfx.com/filmography/) is one of the VFX companies that worked on Leo's hyena scene. Their 3D modeling is incredible.
+- [Enterprise scenarios leaderboard](https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard). Mistral 7B leads.
+- Veda Srinivasan.
+  - How does Google manage culture?
+    - AMA sessions
+    - Manager feedback. Entirely anonymous. Avoid taking feedback for teams less than 5
+    - Workplace concerns team exists. Put managers on watch
+  - Books
+    - Mohammad Younus. Three zeroes book. Read about his social business theme
+    - Pluriverse. Anti fragile. Aurobindo Vedas.
+    - Barry Oshry. Seeing systems. Runs workshops but book is better
+    - Raghu Anantanarayana has written about Indian archetypes based on Mahabharatha
+    - India that is Bharath. Sai Deepak.
+  - Podcasts
+    - Listen to Nilesh Oak. Sugreeva's Atlas.
+    - Pankaj Tripathi podcast on geography influences acting
+  - Areas of focus
+    - "I'm an Expert on synthesis and implementation"
+    - Intersectionality is another word for complex failures. Also for deep segmentation. Swiss cheese model.
+    - Dialogic self theory is about multiple voices in the head. How do we make meaning? Psychological rupture is when cognitive activity is maximum. At any point there are MULTIPLE voices in our heads that are sources of action. We don't listen to them.
+    - Epistemology. Language determines thought. like the word productivity. How does appreciation of a rose become productive? Words from other languages may have incredible power. From other cultures.
+- Paul Sloan. Lateral thinking podcasts from multiple sources
+  - Deliberately engage with topics randomly.
+  - Deliberately engage with random people
+  - Read a random book from the library
+  - Watch a random film in a different language
+  - Consciously where the six thinking hats or look hard for the silent voices in your head and express them
+  - Ask children. They tend to think of more creative and childlike solutions
+  - He converted a hiring process into a contest
+  - Constantly ask yourself. What if every assumption I'm making about this is wrong?
+  - Scenario planning is really about this. List a few scenarios. They'd have high impact or high probability. What happens in this scenario? Ideate
+- You can @mention GPTs to ask a specific GPT a question in ChatGPT. This is really powerful.
+- Hidden brain podcast. Making the most of your mistakes
+  - FIX every small mistake. You never know how they might line up in the future
+  - You also never know how small little things done well might line up to give you a boost in the future
+  - The Toyota cord does not actually stop the production line. It brings a team lead over who quickly diagnoses the problem with you. The responsiveness of the league is a critical factor and so is encouragement
+  - That isn't always a single bottleneck to stop that is the case of a simple failure. There can be a series of holes that happen to align perfectly.
+  - These are events that lead to catastrophic failures or successes
+  - Do as little as possible, waste as little as possible, until you know that the outcome is worthwhile.
+  - Figure out what is the value of the outcome and the most important piece of information you need to discover that
+  - Do full research before you try and fail. The aim of failure is learning at the least possible cost
+- How I write podcast. 2023 summary
+  - Ask for feedback from friends in a specific way.
+  - What 20% should I retain no matter what? What 20% should I cut? This allows them to compliment while providing genuine feedback
+  - Hire lawyer interns to proofread. They are the ones that find fault the best
+  - Be in a segment of one. Where there is zero competition. Something only you can do
+  - Don't try to do stuff faster. Try to do stuff you don't want to stop doing
+  - Read books older than 50 years
+  - Read Michael Collins book on things that sustain
+  - Temp service make sure he has some energy to spare. Cuz Riley does the opposite. She waits till she can't stand it anymore and then writes like crazy until she drops dead. The former leads to thoughtful writing. The latter is emotionally powerful. Be able to do that
+- [Vanna](https://github.com/vanna-ai/vanna) is a SQL generation LLM. An alternative to SQLCoder. This [thread](https://news.ycombinator.com/item?id=38992601) has a detailed discussion on SQL generation and BI
+- Intel developer cloud has a liberal GPU in the free tier.
+- [OpenAI releases `text-embedding-3-large`](https://openai.com/blog/new-embedding-models-and-api-updates) which can be truncated. The embedding values have descending importance, so picking the first n is a good approximation. Also, `gpt-3.5-turbo-0125` is 50% cheaper.
+- [AppAgent](https://github.com/mnotgod96/AppAgent) is an LLM that can navigate mobile / web apps
+- Retrieval Centric Generation is an emerging alternative to RAG, where the LLM is explicitly built to leverage external knowledge. [SimplyRetrieve](https://github.com/RCGAI/SimplyRetrieve) is an early implementation.
+- [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) is a leaderboard for open source code models.

@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "A brief appreciation of an astonishing engineering feat: rendering Bad Apple in Minecraft at full original resolution and frame rate."
 keywords: [Bad Apple, Minecraft, engineering, video rendering, demo, appreciation]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7251050479713988608/
 ---
 
 Bad Apple in #Minecraft?

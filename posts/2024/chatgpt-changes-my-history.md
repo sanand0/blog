@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "This is a short joke about ChatGPT confidently rewriting the author’s own career history."
 keywords: [memory errors, ChatGPT, hallucination, personal history, humor, AI mistakes]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7242487797792579584/
 ---
 
 Today, I learned that I began my career at TCS not IBM, and I never worked at the Boston Consulting Group (BCG)

@@ -7,6 +7,7 @@ categories:
 - llms
 description: A modern AI course should drop static content, foreground AI failure modes, and teach orchestration, debugging, and evaluation instead.
 keywords: [AI education, pedagogy, Tools in Data Science, prompts, evaluation, curriculum]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7422424019657781249/
 ---
 
 My [Tools in Data Science course](https://tds.s-anand.net/) is available publicly, with a few changes from last year.

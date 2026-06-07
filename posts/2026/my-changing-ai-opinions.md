@@ -3,6 +3,8 @@ title: My changing AI opinions
 date: 2026-06-05T09:41:33+08:00
 categories:
   - llms
+description: I used Claude to audit my evolving AI opinions, documenting my shifts toward specialized SLMs, multi-agent workflows, and MCP. I contrast my changing stances on vibe-coding and human intervention against constants like code-driven arithmetic.
+keywords: [claude, mcp, slm, agents, vibe coding, llms, model context protocol]
 ---
 
 I asked Claude about my AI opinions.

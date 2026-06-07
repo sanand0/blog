@@ -7,6 +7,7 @@ categories:
 wp_id: 3605
 description: "Claude's leak of its own internal tags is a vivid example of how current LLMs resolve conflicting instructions by improvising, confessing, or contradicting themselves instead of freezing."
 keywords: ["conflicting instructions", "Claude", "system prompt", "prompt leakage", "LLM behavior", "robopsychology"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7234755249129857025/
 ---
 
 ![How do LLMs handle conflicting instructions?](/blog/assets/DALL·E-2024-08-29-10.29.48-A-comic-strip-style-image-featuring-Hobbes-the-tall-tiger-frantically-trying-to-talk-but-his-mouth-is-zipped-shut-with-a-visible-zipper.-Hobbes-look.webp)

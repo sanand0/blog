@@ -6,6 +6,7 @@ categories:
 - education
 description: AI helps build skills best when it gives directional critique on your work instead of simply doing the task for you.
 keywords: [skill building, AI critique, feedback loops, learning design, deliberate practice, education]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7436927563740082176/
 ---
 
 ![](https://files.s-anand.net/images/2026-03-09-directional-feedback-for-ai.avif)

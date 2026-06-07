@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "This is a humorous observation that an airport display accidentally revealed the sort of operational details that should obviously never be public."
 keywords: [security lapse, airport displays, operational security, passwords, IP address, humor]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7325428997947883520/
 ---
 
 It's good to know the IP address and password for remote control of the displays at the Hyderabad Airport. Thank you for the most interesting display I have seen in an airport!

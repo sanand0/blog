@@ -5,6 +5,7 @@ categories:
 - llms
 description: AI can already do large-scale SQL pattern analysis that exposes organizational blind spots, shrinking the need for some traditional data-engineering analysis work.
 keywords: [data engineering, SQL analysis, AI automation, analytics culture, role change, databases]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7425754411886632961/
 ---
 
 As AI marches along, another role at risk is the data engineer / database administrator.

@@ -6,6 +6,7 @@ categories:
   - linkedin
 description: "Snow White (2025) is an unusually extreme IMDb negative outlier even among famously disliked popular films."
 keywords: ["IMDb", "movie ratings", "outliers", "Snow White", "film analysis", "popular culture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7335893077913415681/
 ---
 
 Snow White (2025) is an outlier on the IMDb. With a rating of 1.8 and ~362K votes, it's one of the most popularly trashed movies.

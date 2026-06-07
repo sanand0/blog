@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "This is a brief joke about an AI moderation system or interface bizarrely treating arithmetic as potentially inappropriate."
 keywords: [AI moderation, arithmetic, absurdity, safety filters, humor, Bedrock]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7260990577385570305/
 ---
 
 Wow, arithmetic is potentially inappropriate!

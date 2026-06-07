@@ -7,6 +7,7 @@ categories:
 - llms
 description: AI can help not just draft a conference proposal but also analyze the submission landscape immediately after filing it, which sharpens positioning.
 keywords: [conference proposals, submission analysis, Gemini, DevTools scraping, positioning, VizChitra]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7428649582768693248/
 ---
 
 ![](https://files.s-anand.net/images/2026-02-15-submitting-an-ai-ded-vizchitra-proposal.avif)

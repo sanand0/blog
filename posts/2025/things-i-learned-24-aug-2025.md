@@ -1,0 +1,106 @@
+---
+title: Things I Learned - 24 Aug 2025
+date: 2025-08-24T00:00:00+00:00
+categories:
+  - til
+---
+
+This week, I learned:
+
+- Pilots like to have fun, too. While awaiting landing clearance at Kolkata, our IndiGo pilot weaved tight curves _just_ above the clouds at steep angles, giving us stunning views and a mildly thrilling experience. (Or maybe they were just following a flight path.)
+- Since LLMs allow ANYONE to become "good enough" in most fields (marketing, medicine, management), and so on, here're are my guesses on the impact. [ChatGPT](https://chatgpt.com/c/68a3396c-07b4-8321-a9f0-08b85b797697)
+  - Companies-of-one will grow. Sole founder can handle support functions.
+  - Specialists will generalize. Consultants will code. Marketers will design.
+  - Wages will compress. Seniors will earn less as juniors can do more.
+  - Layers will compress. Organizations need fewer hierarchies as 1 person can do more.
+  - Shadow apps will grow. Anyone can code. Users build apps with prompts, sheets, agents, outside of IT SDLC. Like Excel sheets.
+  - Governance will grow. Non-experts are acting like experts. Validation is more important.
+  - Uneconomical apps will thrive. 1:1 tutoring. Continous decision making or A/B testing.
+  - Leaders will convince better. Persuasion scales.
+  - Brand (authenticity, trust, skill), Channel (distribution, audience) and Data are primary differentiators.
+- Codex and Codex CLI now support image attachments.
+- Notes from discussion on education with Srikanth Nadhumuni
+  - Indian higher education has done better, e.g. with the IITs, than primary education, where ASER _consistently_ shows that 5th graders can't read 2nd grade books.
+  - The National Education Policy (NEP) is focusing on FLN (foundational numeracy and literacy). The goal is universal FLN by 2027.
+  - Teacing FLN in local languages beats English. Teachers, parents, community support are high. Learning English as a second language is faster. Other countries (France, Germany, Japan) do this.
+  - Voice LLMs could help, but may not be toddler-ready, nor strong enough in all local langauges.
+  - But high-quality textbook translation with local nuances is a one-time human-in-the-loop effort that AI can support.
+  - India's 1 crore teachers have a mandatory 50 hrs/year training requirement that is largely under-implemented.
+  - Senthil Mullainathan is working on extracting features from student answers to questions and generating remedial content purely as a black-box. Results beat explainability.
+- ⭐ Creating systems that rapidly improve from feedback is the key to success. Rapidity, quality of improvement, quantity of feedback are all enablers.
+- CBDC (Central Bank Digital Currency) is RBI's Web 3.0 protocal. It allows purpose-driven transfers, e.g. money meant for education can only be spent on education.
+- Meta-prompts _with placeholders_ is a prompt-improvement technique (similar to LLM interviewing). Have LLMs create the prompt with "fill-in-the-blanks". This makes it much easier for people to fill out.
+- [MassGen](https://massgen.ai/) is a multi-agent orchestrator. Early days, experimental. It has multiple agents answer, then vote on each others' answers, picking the best.
+- [DSPy](https://dspy.ai/) auto-optimizes prompts based on input-output pairs or evals. Typical improvements are ~10-20%. My opinion: avoid. It's a good idea, but has too much abstraction that hides the implementation. Worth learning from but not implementing unless you (a) have evals + metrics and (b) you KNOW you need to change models and (c) it's a long-term project where the learning curve is worth it. [Claude](https://claude.ai/share/7fb4b334-32fb-4d79-b2a4-6a2a842d8512) and [ChatGPT](https://chatgpt.com/c/6905ccd8-3d60-8321-869f-29b81d3d7641)
+- How LLM "Attention" works: It takes each word's embedding, moves it closer to similar words' embeddings (e.g. Apple moves towards phone or orange depending on context). More similar words have a higher pull, like gravity. [Luis Serrano](https://serrano.academy/)
+  - Similarity isn't symmetric. E.g. "Coke" moves "drink" more towards it, but "drink" pulls "Coke" less, since "drink" could refer to other things.
+  - Think of the pull ("Tinder similarity") as "what A wants" (key matrix, which pulls other words) multipled by "what B offers" (query matrix, which is pulled by other words). This leads to two different similarity matrices.
+  - Multi-head attention is where a neural net gives different weightages to different similarity matrices based on context.
+  - Value matrix transforms the embedding space so that the next best next-word is more similar.
+- Reading the [Obsidian docs](https://help.obsidian.md/syntax) is like a master class in Markdown note-taking. Features like [properties](https://help.obsidian.md/properties), [embedding YouTube](https://help.obsidian.md/embed-web-pages#Embed+a+YouTube+video), [bases](https://help.obsidian.md/bases), [tags](https://help.obsidian.md/plugins/tags), etc. provide food for thought. The [ObsidianMD subreddit](https://www.reddit.com/r/ObsidianMD/) has interesting tips.
+  - Summarize takeaways on top of each section
+  - Use atomic notes: one file per idea. Link liberally
+  - YAML front-matter you can query, e.g. tags, project, status, ...
+  - Use GFM admonitions, e.g. `> [!NOTE]`
+  - Store images in a predictable way, e.g. `![Alt text](./img/2025-08-21-screenshot.webp)` -- ALWAYS with alt text
+  - Use diff fences for edits / doc changes
+  - Task lists with inline dates, e.g. `- [ ] 2025-08-21 Draft a letter`
+- How to research better. [Abhishek Divekar](https://www.linkedin.com/in/ardivekar/)
+  - Have an objective when researching. Filter research based on that.
+  - Research backwards. Pick a relevant paper. Go through _relevant_ citations. Typically, there are only 1 or 2 _directly_ related ancestors.
+  - Don't waste time searching. Gemini Deep Research is a great way to find _and_ read papers.
+  - Don't read the abstract. Read the introduction, which _is_ the summary. It's just a page. (The abstract is an LLM-ized versionof the introduction. Not as effective.)
+- MCPs aren't much more useful than tool calling _for developers_. They're powerful when packaging for external parties (non-developers, other teams, clients, etc.). Developers can work just fine with tool calling. [Nitin Agarwal](https://www.linkedin.com/in/agnitin/)
+- [Cybersecurity AI](https://github.com/aliasrobotics/cai) is an open-source LLM-based cyber-security tool that auto scans networks for vulnerabilities.
+- ⭐ LLMs have _solved_ several complex tasks (e.g. topic modelling, summarization). We need to adopt these as building blocks, like functions, and build better solutions. [Abhishek Divekar](https://www.linkedin.com/in/ardivekar/)
+- `codex -c model_reasoning_effort=high` lets you run Codex CLI with highest reasoning effort. This has a separate limit that resets every 5 hours. https://x.com/thsottiaux/status/1958035261947781262
+- Truly agentic systems have high Autonomy, Complexity, _and_ Reliability. Workflows have low autonomy. Agentic systems with high autonomy currently aren't very complex or reliable, but will improve over time. [Deepak Sharma](https://www.linkedin.com/in/deepaksharma09/)
+- Allow humans to intervene _while_ agent loops execute, even unsolicited, to improve collaboration. [Deepak Sharma](https://www.linkedin.com/in/deepaksharma09/)
+- Given the early, experimental days of AI, the better KPIs might be more about experimentation (e.g. number of prototypes) than operational (e.g. cost reduction). [Krishnakumar Menon](https://www.linkedin.com/in/menonkrishna)
+- ⭐ **Policy-as-code** is an emerging theme. Allow users to create their own guardrails policy. Or, take existing policy documents and convert them into an LLM-based evaluator. [Krishnakumar Menon](https://www.linkedin.com/in/menonkrishna)
+- ⭐ "Potentially nitpicky but competitive advantage in AI goes not so much to those with data but those with a data engine: iterated data aquisition, re-training, evaluation, deployment, telemetry. And whoever can spin it **fastest**. Slide from Tesla to ~illustrate but concept is general." [Andrej Karpathy](https://x.com/karpathy/status/1599852921541128194), Dec 2022
+- The skills AI coding needs are very similar to tech-lead's or an architect's. [Tanika Gupta](https://www.linkedin.com/in/tanikagupta/) #ai-coding
+  - Estimating tool capability & task allocation
+  - Task breakdown
+  - Spec-ing: which of user personas, user-journey maps, wireframes, technical architecture, psuedo-code
+  - Standards: tech stack, tools, linters, security, doc standards
+  - Git versioning & collaboration
+  - Code review. (Using AI.) Providing **feedback**. Modularity, naming, ...
+  - Automated validation
+  - Post-mortem. Learning from errors _and_ successes, choices LLM made
+- The ROI of prompting carefully and using meta-prompts is high. Prompt clarity reduces iterations & dead-ends. The initial time spent (10-15 min) pays off with just a single reduced iteration (time to generate + review). [Tanika Gupta](https://www.linkedin.com/in/tanikagupta/)
+- ⭐ Prefer passing a `spec.md` to AI coding agents rather than directly typing-in prompts. This lets you meta-prompt _and_ (collaboratively) iterate on the `spec.md`, version the prompts as specs, and generate specs as documentation. [Tanika Gupta](https://www.linkedin.com/in/tanikagupta/)
+- ⭐ Models need environments to learn. So far, we have been providing training data. But an environment to interact with, and learn from by itself, is more powerful. That requires a standard for environments. This is a powerful emerging area.
+- The crux of experimentation is the learning from a postmortem. From that perspective I have been experimenting a lot but not been documenting or learning from that. Decision logs with post mortem are a more apt device for me.
+- Gemini API includes a url_context tool to explicitly scrape websites. [API](https://ai.google.dev/gemini-api/docs/url-context#rest)
+- Ontologies are more than taxonomies or schemas. They're truths or rules, e.g., “no person has more than two parents”. Helps consistency checking and inference. [#](https://chatgpt.com/c/68a531ca-8c0c-832e-ad8c-a20865344f2c)
+  - Terminological knowledge (T-Box) is domain rules and constraints (e.g., "a student is a person who attends a course").
+  - Assertional knowledge (A-Box) is instance-level facts (e.g., "Mary attends Physics 101").
+  - Tools & Formats
+    - [SHACL](https://www.w3.org/TR/shacl/). A W3C language for validating RDF graphs. [ShEx](https://shex.io/) is easier ad popular.
+    - [Notation3](https://w3c.github.io/N3/spec/). A W3C assertion and logic language which is a superset of RDF.
+    - [EYE Reasoner](https://github.com/josd/eye). Prolog-based N3 (Notation3) reasoner. CLI + API-friendly. Can perform rule-based reasoning and generate new triples.
+    - [HermiT](http://www.hermit-reasoner.com/). OWL 2 DL reasoner. Can check consistency, classify ontologies, compute entailments. CLI and Java API. Modern, maintained.
+    - [Apache Jena](https://jena.apache.org/). Java framework for RDF/SPARQL. Built-in reasoners (RDFS, OWL mini/micro/full). CLI via `riot`, `arq` (SPARQL query engine). Popular for RDF graph stores + inference.
+- Do developers feel this way? #ai-coding
+- In another example of vibe coding, an instructor for my TDS course vibe-coded most of an [exam](https://exam.sanand.workers.dev/tds-2025-05-roe2) using Copilot and Sonnet. 6/8 questions worked one-shot. The two #ai-coding failures were interesting:
+  - One failed because of [sample vs population stats](https://chatgpt.com/share/68a3fd83-c9c4-800c-8b0e-4a8c46858024). Copilot asked for sample variance but coded `variance()` instead of `sampleVariance()`.
+  - Another failed because of [rounding off](https://chatgpt.com/share/68a3fdad-96e0-800c-8e26-441127ccb713). NumPy code rounds off differently from Python or JS code.
+- Meditation is about noticing distraction and returning to focus. So, distraction is necessary _and_ good. #beliefs
+- #ai-coding can make us overconfident. (At least, it makes _me_ overconfident.) They create surprisingly good output, but only ~20% of the time. I cannot _commit to a specific task_ based on that. Instead, it's better to rely on AI coding estimates for portfolios, e.g. promise to share _something_ cool without mentioning what. Or do something cool first, _then_ share.
+- Notes from podcast with Daniel Kahnemann. The Knowledge Project.
+  - Happiness is pleasure in the moment. Satisfaction is the meaningful story of our life. When we _think_, we want satisfaction. When we _feel_, we want happiness. The thinking brain and feeling brain optimize for slightly different things. E.g. The thinking brain packs the calendar with satisfying tasks that the feeling brain feels unhappy executing Both are good for us. We don't know which matters more.
+  - Behavior change is harder than we think. Usually, it's better not to expect success in changing others, or ourselves. Instead, understand _why_ that behavior makes sense. Our behaviour is an equilibrium of forces. Weakening "bad" forces is easier than strengthening "good" forces, since it lowers tension. That's inversion!
+  - Behaviours tell us more about _situations_ than personality. We assume otherwise. That's an attribution error.
+  - Motivation is complex. People can do bad things for good reasons and vice versa.
+  - "Feelings get in the way of clear thinking." Example: I vibe-coded the last 2 questions of [TDS GA7](https://exam.sanand.workers.dev/tds-2025-05-ga7) on Claude Code. It didn't run. I delayed fixing it for 5 days, afraid it would a major effort. It ended up a 2 min fix. It _could_ have been major, but checking would have helped. Fear prevented that.
+  - Things that hamper clear thinking: intuition, emotion, beliefs. Beliefs are often formed based on people we admire or identify, not reason.
+    - Prefer rules, systems and processes. Willpower is an illusion.
+    - Delegate decisions to unemotional agents. (But agents misjudge perceived value of gain or loss!)
+    - Break down the problem, analyze it, THEM form an intuition. Be disciplined in delaying intuition or forming an opinion
+  - Environment shapes thinking but it's not obvious how, e.g. some people work better in noisy cafes. Some colors are more calming.
+  - Protect dissenters and dissent. It's painful and costly, and needs nurturing.
+- [NodeJS runs TypeScript files natively](https://nodejs.org/en/learn/typescript/run-natively).
+- [Codex](https://chatgpt.com/codex) can clone any GitHub repo. So I can ask it to pull one or more repos, understand their code, and use that as a template or reference. This makes my repositories (and others') reusable templates. Using newer libraries and platforms becomes easier, too. #ai-coding
+- [Tracking AI](https://www.trackingai.org/home) runs an IQ test on various LLMs every week. GPT 5 Pro leads, currently, followed by Claude 4 Opus and Gemini 2.5 Pro. It's surprising how far behind GPT 5 is at the moment.
+- LLMs are faster than me. So me learning and doing what the LLM says is a bottleneck. Get out of the way. For example do not learn. Do not execute. Do not verify. Give LLMs the tools to deploy, verify and iterate to improve.

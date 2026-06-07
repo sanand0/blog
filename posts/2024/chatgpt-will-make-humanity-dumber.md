@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "A brief Calvin-and-Hobbes response reframes the fear that ChatGPT will make humanity dumber as one more instance of offloading drudgery to machines."
 keywords: ["ChatGPT", "human intelligence", "automation", "Calvin and Hobbes", "education", "technology anxiety"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7170389329444372480/
 ---
 
 A friend told me today that using #ChatGPT will make humanity dumber.

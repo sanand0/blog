@@ -7,6 +7,7 @@ categories:
 wp_id: 3486
 description: "This year-end review tracks partial success on experiments, environmental changes, and calendar discipline while setting 2024 goals around compounding, health, and relationships."
 keywords: ["year in review", "2023", "goals", "experiments", "self-improvement", "planning"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7147567283299639296/
 ---
 
 ![My Year in 2023](/blog/assets/DALL·E-2023-12-31-09.48.46-An-inspirational-and-motivational-blog-post-featured-image-for-My-Year-In-2023-with-the-text-My-Year-In-2023-retained-and-all-other-text-removed.webp)

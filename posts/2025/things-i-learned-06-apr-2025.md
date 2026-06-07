@@ -1,0 +1,108 @@
+---
+title: Things I Learned - 06 Apr 2025
+date: 2025-04-06T00:00:00+00:00
+categories:
+  - til
+---
+
+This week, I learned:
+
+- `<select>` will soon be _very_ customizable via CSS. Including custom HTML inside options - even SVG. [MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Customizable_select). Edge/Chrome already support it.
+- [The Vitali Set](https://www.youtube.com/watch?v=_cr46G2K5Fo&t=1042s) is every real number none of whose difference is rational. A sparse collection of irrational sets. It's like a line but doesn't have a measurable "length".
+  - The Lebesgue measure measures the length of broken lines. You add up the lengths of the smallest continuous intervals that cover the line.
+  - The Cantor set (take a line, drop every middle third, repeat) has a Lebesgue measure of 0 because the sum of the removed thirds = 1/3 + 2/9 + 4/27 + ... = 1. You've removed every "length" though infinitely many points remain.
+  - The Vitali set built so that if you shift it by _every_ rational from -1 to +1 and add them up, you definitely cover every real from 0-1, but never anything beyond -1 to +2. So the length _must_ be between 1-3. Yet, there's no number you can add infinitely many times to get something between 1-3.
+  - If you add up multiple unmeasurable sets like the Vitali set, you can get any total length you want. The [Banach Tarski paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) splits a sphere into unmeasurable sets and adds them to get 2 spheres.
+- [Ctrl+Alt+F1/F2/...](https://askubuntu.com/a/1293952/601330) on Ubuntu switches the terminal. Typically [Ctrl+Alt+F2](https://askubuntu.com/a/1307012/601330) switches back to Gnome. But it's a useful hack if Gnome freezes and you need to kill a process. Press `Ctrl+Alt+F3`, log in, and kill what you need.
+- Notes from [AI 2027](https://ai-2027.com/). BTW, this is the most impactful piece I've read recently. It's been on my mind continuously for 36 hours. A bit distubring, too.
+  - 2025: AI can act as autonomous agents, like [Glean](https://www.glean.com/), [Devin](https://devin.ai/), [Operator](https://openai.com/index/introducing-operator/).
+    - turn bullet points into emails
+    - take instructions via Slack or Teams and make substantial code changes on their own
+    - spend half an hour scouring the Internet to answer your question
+  - 2026:
+    - automating AI R&D is the biggest enabler for AI Labs
+    - job market for junior software engineers is in turmoil
+    - people who know how to manage and quality-control teams of AIs are making a killing
+  - 2027:
+    - potential demand for ~20,000 FTEs solving long-horizon tasks to train AI
+    - every researcher/coder becomes the manager of an AI team
+    - hiring new programmers has nearly stopped, but there’s never been a better time to be a consultant on integrating AI into your business
+- [CSS Speech](https://www.w3.org/TR/css-speech-1/) is a W3C spec that lets you control how screen readers should read pages. No browser support now, though.
+- [Clipboard2Markdown](https://euangoddard.github.io/clipboard2markdown/) is a utility that lets you paste rich text and convert it to Markdown.
+- ChatGPT can't yet create good sketchnotes. Here's the [impact of US tariffs on India](https://freeimage.host/i/35IZkqG). [ChatGPT](https://chatgpt.com/share/67ee16b8-e8e0-800c-a43e-63bf858f2a9c) #IMPOSSIBLE
+- [OHDSI](https://ohdsi.org/) has a [vocabulary](https://github.com/OHDSI/Vocabulary-v5.0) you can download from [Athena](https://athena.ohdsi.org/) that includes ICD codes and a lot of medical data standards. It also has a hostable [WebAPI](https://github.com/OHDSI/WebAPI)
+- No open source LLM-based tool handles live transcription _and_ allows you to query notes so far _during_ the transcription. The closest seems to be [Meetily](https://github.com/Zackriya-Solutions/meeting-minutes)
+- Learnings on AI code editors via Deep Research from [ChatGPT](https://chatgpt.com/share/67ecad81-6390-800c-81f6-61a65ebc5d3f), [Gemini](https://g.co/gemini/share/02249fb0c53d), [Grok](https://x.com/i/grok/share/7BLsfId9mCZOZFiO7TkmDWdol), [Perplexity](https://www.perplexity.ai/search/write-a-detailed-practical-act-OxUIlTlOQzGi0k_H7DYi3Q): #ai-coding
+  - GitHub Copilot can identify the source of a code snippet as a repo. That helps with copyright issues.
+  - Cursor uses a shadow workspace - a temporary sandbox where it edits files before applying changes at one shot.
+  - Cursor auto-complete has context of other files, i.e. inserting an class in a .js file based on another HTML file's contents.
+  - Windsurf seems to be best for large code bases and for large-scale refactoring. It can also run test results fix them.
+  - Windsurf includes a browser and lets you click on an element and prompt to change its behavior, etc. That's good for front-end developers.
+  - Roo Code can run scripts as part of the workflow, letting you run linting, tests, starting web apps, query databases, etc.
+  - Roo Code lets you create persona, e.g. code reviewer, data storytelling and analysis, etc. with access to different tools and behaviors.
+  - Roo Code does not support auto-complete.
+- There's outrage around Cursor not taking responsibility for a rules file backdoor ([via Grok Deep Research](https://x.com/i/grok/share/P7fs71jI5kIKbQSEyxBM9LiLI)) and [pricing](https://www.reddit.com/r/cursor/comments/1jmitld/wtf_have_you_done/).
+- [Zapier has an MCP server](https://zapier.com/mcp). That should make most integrations easier.
+- [Airflow AI SDK](https://github.com/astronomer/airflow-ai-sdk) is a clever idea. Airflow is a workflow system. Agents are a workflow system (sort of). This SDK exposes LLMs as Airflow tasks.
+- [Hidden Factual Knowledge in LLMs](https://arxiv.org/abs/2503.15299v2) finds that the hidden states in LLMs contain much more knowledge than they share. (Sort of like sub-consciously knowing the answer.) Even after asking 1,000 times, the answer is not expressed. [ChatGPT](https://chatgpt.com/share/67eb8cee-44f4-800c-9377-25066a5a8ef6)
+- [Reasoning to Learn from Latent Thoughts](https://arxiv.org/abs/2503.18866v1) finds that the internal reasoning process of LLMs is useful to train other models.
+- Notes from [AI Engineering Summit, NY, Day 1](https://youtu.be/D7BzTxVVMuw)
+  - When deploying in production, you need reliable output with fundamentally unreliable components. Sort of like how the ENIAC worked with 17,000 vacuum tubes that would fail every few hours. This is a reliability engineering subject matter and needs to be thought of that way.
+  - Google
+    - Follow up Deep Research queries are a natural way to extend knowledge beyond just a single report
+    - Deep research offloads less relevant parts of the context to a separate memory store for selective retrieval later.
+  - Anthropic
+    - Don't use agents if workflows can do the task.
+    - The reliability of each individual step of an agent is critical.
+    - Code, file access, search. These are the top three tools to use.
+    - Making agents budget aware can help deploy reliably in production.
+    - Having multiple agents like sub agents can help protect the main agents context window.
+    - Self evolving tools are a useful next step in the evolution of agents.
+    - Software development lifecycle is about how we iteratively improve consistently without getting worse. Almost like the scientific principle.
+  - Morgan Stanley
+    - It's easy to improve knowledge in a problem. It's very hard to influence skin in a problem. Reinforcement learning from deepseek seems one of the most promising approaches that allow llms to learn skills
+- I published an eBook on Amazon. It takes about an hour if you have the content ready.
+  - [Set up a Kindle Direct Publishing account](https://account.kdp.amazon.com/) with your address, bank details, and tax information. (10 min.)
+  - [Export](https://wordpress.com/support/export/) my [London 2000](https://www.s-anand.net/blog/category/london-2000/) blog archive and [convert to Markdown](https://github.com/lonekorean/wordpress-export-to-markdown). (15 min)
+  - Reformat the Markdown by writing a script in Cursor (10 min). Here's the prompt:
+    > Write a Python script that reads `*.md` including the YAML frontmatter, adds the YAML `title` as H1, `date` (yyyy-mm-dd) like <em>Sun, 01 Jan 2000</em> in a new para after the frontmatter and before the content.
+  - Convert it to an ePub using pandoc `pandoc *.md -o book.epub --toc --metadata title="An LBS Exchange Program" --metadata author="Anand S" --metadata language=en --metadata date="31 Mar 2025"` (15 min).
+  - Generated a cover page with [ChatGPT](https://chatgpt.com/) (5 min) and compressed it into JPEG via [Squoosh](https://squoosh.app/). (10 min)
+    > Draw a comic-style book cover page that covers the experiences of an Indian exchange student (picture attached) from IIM Bangalore at London Business School and exploring London. The book title is "An LBS Exchange Program".
+  - [Publish the book on KDP](https://kdp.amazon.com/) (10 min)
+- There are several _small_ things that delight me about switching to Ubuntu. One that brings joy to my heart is that I can customize gestures for music on Gnome using [Touche](https://github.com/JoseExposito/touche) and [TouchEgg](https://github.com/JoseExposito/touchegg).
+  - Swipe with 3 fingers Up: Increase volume. Execute a command `amixer sset Master 5%+`. Repeat command.
+  - Swipe with 3 fingers Down: Decrease volume. Execute a command `amixer sset Master 5%-`. Repeat command.
+  - Swipe left/right with 3 fingers: Play/Pause VLC. `dbus-send --print-reply --dest=org.mpris.MediaPlayer2.vlc /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.PlayPause` on Gesture start.
+- Notes from discussion with [Roy](https://www.linkedin.com/in/anandamoy/):
+  - There's more pressure on successful founders in Asia than in the US, since winners are rarer.
+    - Most failed founders try another startup based on their experience. Their likelihood of getting funded is largely based on their reputation, e.g. did the venture fail despite them or because of then.
+  - Expertise is over-rated when the underlying context changes. A lot of expertise is about managing current constraints. As Jeff Bezos asks, "What are the invariants?"
+  - As the cost of intelligence drops, industries that rely on intelligence are disrupted.
+    - E.g. Cyber security. It's a data analysis problem. A needle in the haystack problem. A signal anticipation problem. A classic IQ gap problem.
+  - As building software becomes easy:
+    - Demand will explore, since ROI is higher.
+    - Not everyone will build software. (3D printers are cheap. How many people own one?)
+    - So demand for custom software and craftsmen engineers will grow - including from enterprises.
+    - Demand for SaaS (one-size-fits-all) will shrink.
+    - Demand for personalized software (services model) will grow.
+    - Code migration will get consolidated. It's a niche space competing with new app generation. There is an opportunity for high margins in fragmented businesses. Consolidation is likely.
+    - Verticalized coding agents (i.e. specialized software for specific platforms) might grow.
+  - "You don't get the US without the guns!"
+  - AI voice generation is in the uncanny valley. We need non-verbal cues for good voice conversations.
+    - An aside: Is the uncanny valley biological? Did the revulsion push homo hapiens to kill off the homo neanderthalensis, homo erectus, etc?
+  - Vertical model gardens (i.e. specialized HuggingFaces, e.g. for HealthCare) are a niche, potentially temporary, opportunity corporates will likely leverage in the near future.
+  - Thoughts on angel investing.
+    - The VC industry is designed to win in the long run. Given a huge AuM base managed by a small team with a steady carry, it's hard to lose in the long term
+    - But you need that large AuM. Angel investing is _not_ designed to win.
+    - Know why you want to angel-invest. Lack of clarity hurts most people
+    - For most people, angel investing is an expensive MBA. You don't know shit. Invest if a VC will invest _at that moment_.
+    - The angel investor matters only until the point of investment. For successful companies, once VCs start funding them, you're a drop in the ocean and irrelevant.
+  - Pick portfolio managers who don't advertise. The ones that do don't have enough business. <!-- Roy aims for 18% in India in sub 10K cr companies. -->
+  - The Telok Blangah walking trail and the Sentosa walk are less known but good walking trails in Singapore.
+- Use [QR vCards](https://www.qrcode-monkey.com/#vcard) instead of business cards. Less to carry. Directly adds to their contacts.
+- LLM Native Multimodal image generation experiments:
+  - Stickers
+    - Sending your wife AI-generated family photos, stickers, etc. is now a thing. Both an AI use case and a ... um... "family media" (?) use case. For example, ask ChatGPT to "Create a transparent comic-style sticker of a lady chef featuring this person happily cooking salad" with a photo. Then [send it as a custom sticker](https://faq.whatsapp.com/639351827594474). [Image](https://iili.io/3ASLUJ9.png)
+    - Vadivelu stickers work well but the Tamil script generation is poor. [Image](https://iili.io/3ASs9YF.png)
+  - Asking ChatGPT to generate 25-year younger pictures of people produces pretty poor results if you really knew what they looked like then. If you didn't, it's fairly convincing. Yet another example of "hallucinations" - except, it does have its uses.

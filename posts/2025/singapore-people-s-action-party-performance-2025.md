@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "LLMs make it practical for non-specialists to explore long-run election trends and move directly from scraping effort to interpretation and implication."
 keywords: [election analysis, Singapore, PAP, data journalism, LLMs, politics]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7320603555780784130/
 ---
 
 What percentage of seats does the #Singapore People's Action Party win?

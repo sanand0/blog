@@ -5,6 +5,7 @@ categories:
   - llms
 description: Music-generation tools can personalize ceremonial communication in surprisingly effective ways, turning routine acknowledgments into memorable experiences.
 keywords: [Lyria, Gemini, AI music, ceremonies, personalization, creative AI]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7447869470989111296/
 ---
 
 Lyria (Gemini's new "Create Song" feature) is helping me in new ways. Earlier this week, it [created a jingle for my talk](/blog/speaking-unprepared/).

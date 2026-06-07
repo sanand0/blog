@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "The LLM cost-quality frontier keeps shifting quickly, and OpenAI's August 2024 price cuts briefly restored GPT-4o and GPT-4o mini to the best-value position."
 keywords: ["LLM pricing", "cost-quality frontier", "OpenAI", "GPT-4o", "model economics", "pricing trends"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7227991972311941121/
 ---
 
 Fascinating to see the how LLM cost-quality frontier moves. Recent fights were mostly on cost.

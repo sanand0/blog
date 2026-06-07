@@ -6,6 +6,7 @@ categories:
   - funny
 description: I highlight how AI converts client transcripts into software, shifting the focus from coding to interviewing and stakeholder management. As AI automates these skills, personal networks and "who you know" become the final competitive advantage.
 keywords: [generative ai, client transcripts, product management, stakeholder management, networking, dharmendra singh]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7467435009361129472/
 ---
 
 [Dharmendra Singh](https://www.linkedin.com/in/dharmendrasingh17/) shared how they built an app with AI.

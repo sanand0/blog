@@ -1,0 +1,84 @@
+---
+title: Things I Learned - 06 Oct 2024
+date: 2024-10-06T00:00:00+00:00
+categories:
+  - til
+---
+
+This week, I learned:
+
+- [ffmpeg on WASM](https://github.com/ffmpegwasm/ffmpeg.wasm) works but is unstable and hard to use.
+  - You can't use it in a CDN without CORS issues, since it loads ffmpeg-core via a worker.
+  - It often runs into buffer allocation issues.
+- [Exotel](https://exotel.com/) and [Plivo](https://www.plivo.com/) provide voice & SMS services in India (like Twilio). Plivo is more customer friendly.
+- [Uber's H3](https://h3geo.org/), [Google's S2](https://github.com/google/s2geometry), and [GeoHash](https://en.wikipedia.org/wiki/Geohash) are geocoding systems.
+  - H3 offers uniform cell sizes and better distance measurement
+  - S2 offers higher precision (factoring in Earth's curvature) for exact location matches
+  - GeoHash is the simplest
+- There's a movement towards embeddable databases on the cloud.
+  - [MotherDuck](https://motherduck.com/) is hosted DuckDB.
+  - [Turso](https://turso.tech/) is hosted SQLite (with local sync, multi-tenant)
+  - [StarBase DB](https://starbasedb.com/) is SQLite with an API on top of Cloudflare Durable Objects.
+- [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) by Andrej Karpathy.
+  - This is fundamentally altering the programming paradigm by which we iterate on our software, as the teams split in two:
+    - the 2.0 programmers (data labelers) edit and grow the datasets, while
+    - a few 1.0 programmers maintain and iterate on the surrounding training code infrastructure, analytics, visualizations and labeling interfaces.
+  - Adaptive UI ideas:
+    - Adaptive Fields: Show only required fields based on what the user field so far.
+    - Smart Inputs: Dropdowns and auto-complete based on user's context.
+    - Smart Themes: Change font size, contrast, theme guessing the user's age and preferences.
+    - Dynamic Menus: Show what they might need to do next. Like Nokia's right button, but using LLMs.
+    - Smart Tooltips: Check what the user's doing (delays, confusions, previous clicks, current actions) and show relevant tips.
+    - Personalized Layout: Show only the relevant sections of the app. E.g. based on what they're doing.
+    - Smart Charts: Create the right chart that solve the user's question.
+  - Adaptive Back-end
+    - Dynamic APIs: Create endpoints on the fly based on user needs
+    - Dynamic Indexing: Create & update indices on the fly based on user needs
+    - Dynamic Schema: Create & update schema on the fly based on user needs
+    - Dynamic Migration: Migrate to a new database or OS or language as required
+    - Dynamic Queries: Create SQL/NoSQL queries to solve the user problem
+    - Dynamic RBAC: Figure out who needs permissions and why. Add OR REMOVE access as required
+    - Dynamic Logging. Log what's required. Explain why it's logged and what's happening. Fix code that raised the error
+    - Dynamic Caching. Cache what's likely to be required. Evict what may not be required. Figure out cache keys.
+- [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) show which LLMs code better. As of now,
+  - o1-preview > claude-3.5 sonnet on code editing
+  - claude-3-opus > claude-3.5-sonnet on code refactoring
+  - deepseek-coder-v
+  - gpt-4o-mini sucks.
+- [Jaro-Winkler Distance](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance) is a string matching algorithm that weights the start of a string higher.
+- Passing the feed of the following to NotebookLLM is a good way to get caught up with news and summaries.
+  - A blog / WhatsApp group (e.g. The Generative AI Group, Sithamalli, etc.)
+  - A Google Group / mailing list (e.g. genainews, datameet)
+  - YouTube channels (e.g. Vertiasium, GitHub)
+  - Hacker News top stories
+  - Research papers
+  - Emails (skipping marketing emails)
+- OpenAI Evals and Distillation has a clever design. They just convert filtered history to .JSONL files that can be an input to either.
+- [Speak](https://www.speak.com/) is a language learning app based on OpenAI's Realtime API.
+- OpenAI's Realtime API can be used in a text-to-text chat mode without needing to send the entire context. If the pricing works out right, this can be far cheaper than sending the entire conversation context. [Ref](https://news.ycombinator.com/item?id=41715725)
+- Matching addresses with just embeddings works well. Combine it with simple hard rules. [Ref](https://www.dbreunig.com/2024/09/27/conflating-overture-points-of-interests-with-duckdb-ollama-and-more.html)
+- [OpenAI's prompt caching works for images too -- both linked and embedded](https://cookbook.openai.com/examples/prompt_caching101)
+- Quotes on Graph RAG from a Generative AI WhatsApp Group.
+  - "Damn so literally nobody uses Graph RAG yet. Good to know." ~Sumba
+  - "A big four consulting firm uses GraphRAG to retrieve related documents and excerpts from governance and compliance docs." ~Vinayak Hegde (Microsoft)
+  - "Graph RAG is expensive and unnecessary in most of the cases." ~Utkarsh Saxena
+- ChatGPT's advanced mode includes: "...you can use various regional accents and dialects." [Ref](https://www.reddit.com/r/OpenAI/comments/1fp1fes/the_system_prompt_of_advanced_voice_mode_it_can/) [Source](https://x.com/deedydas/status/1839860410914353225)
+  - But the API can "laugh, whisper, and adhere to tone direction." [Ref](https://platform.openai.com/docs/guides/realtime)
+- Hume API (INR 6/min) is far cheaper than OpenAI's real-time chat (6c/min input + 24c/min output)
+- Devika is an open-source clone of Devin.
+- [DuckDB runs inside Pyodide](https://duckdb.org/2024/10/02/pyodide.html)
+- [Hungarian Jews have genetic diseases that increase their IQ](https://slatestarcodex.com/2017/05/26/the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project/). Gaucher’s disease, Torsion dystonia.
+- [People don't like hard stuff like maths or science, so richer societies have fewer scientists](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
+- Ethan Mollick feels Claude 3.5 Sonnet is better at style and critiquing blog posts than OpenAI's o1 (which is better at reasoning.)
+- News is going to be crazily disrupted again with voice mode. I can just listen to the topic I want
+- In Singapore Airlines,
+  - You can't wear your seatbelt loose
+  - You have to keep the laptop in the pocket in front, not on your lap, during takeoff
+  - You can't charge during takeoff
+  - They verify if you ask for a veg meal and place a sticker on your seat
+- Coders are more likely to edit LLM code. Non-coders don't have that bad habit.
+  - [Vaishnavi](https://youtu.be/uuf3-_xYp7k) and [Ranjeet](https://youtu.be/5FZadpAGXb0) edited code
+  - [Indal](https://youtu.be/EGbeA-x79tY) and [Koustav](https://youtu.be/2Je37vJhcD4) didn't
+- Coders are likely to get more out of an LLM because they know what it can do. But some non-coders will get more out of an LLM because they don't know what it can't do.
+  - E.g. [Indal](https://youtu.be/EGbeA-x79tY) trying for a confetti animation, which is hard but do-able
+- "You have to put in a lot of work to become productive at AI coding." Simon Willison

@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "A single autocorrect from “habits” to “hobbits” becomes a reminder that language errors can create delight rather than just embarrassment."
 keywords: ["autocorrect", "serendipity", "hobbits", "language", "humor", "calendar invites"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6976408426276937728/
 ---
 
 I built an internal app that nudges people to respond to calendar invites in Gramener.

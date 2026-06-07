@@ -6,6 +6,7 @@ categories:
   - llms
 description: The much-hyped return of dormant programmers through vibe coding appears far smaller in observable public data than the narrative suggests.
 keywords: [vibe coding, GitHub, software trends, hype analysis, developer behavior, AI adoption]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7442006434013261825/
 ---
 
 ![](https://sanand0.github.io/datastories/github-usage-increase/sketchnote.avif)

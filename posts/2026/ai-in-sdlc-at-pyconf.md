@@ -6,6 +6,7 @@ categories:
   - coding
 description: The strongest use of AI in software development is not isolated prompting but embedding models across the entire development loop from discovery to deployment and postmortem learning.
 keywords: [AI in SDLC, software engineering, coding agents, process design, prompt reuse, developer workflows]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7440334290044788736/
 ---
 
 I was at a panel on [AI in SDLC](https://2026.pyconfhyd.org/) at PyConf. Here's the summary of my advice:

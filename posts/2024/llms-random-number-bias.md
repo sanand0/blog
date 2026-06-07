@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "When asked for random numbers, LLMs display human-like biases toward “random-looking” choices, avoiding round numbers and favoring patterns like 42, 47, and 7-endings."
 keywords: ["LLM bias", "random numbers", "human-like bias", "ChatGPT", "Claude", "Gemini"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7185560681394454528/
 ---
 
 When picking a number between 1-100, do #LLMs pick randomly? Or pick like a human?

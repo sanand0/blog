@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "This is an appreciative nod to a beautifully structured data-visualization course in R designed specifically for artists and designers."
 keywords: ["R", "data visualization", "artists", "designers", "course", "LinkedIn"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6853967305077063681/
 ---
 
 Arvind Venkatadri put together a #datavisualization course in #R titled "R for Artists and Designers"."

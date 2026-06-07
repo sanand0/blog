@@ -6,6 +6,7 @@ categories:
   - business-realities
 description: "Software value is shifting from fixed UIs and app logic toward prompt, API, and eval orchestration, though domain-expert-plus-coder pairings remain especially effective."
 keywords: ["agents", "SaaS", "software future", "prompts", "APIs", "evals"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7341415710096543757/
 ---
 
 Software companies build "SaaS"-like apps today. Agents _will_ replace apps. Instead of UI, workflows, and app logic, they'll engineer prompts, APIs, and evals. "

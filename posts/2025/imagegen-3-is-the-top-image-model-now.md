@@ -7,6 +7,7 @@ categories:
 wp_id: 3960
 description: "Gemini’s ImageGen 3 stands out not just for realistic generation but for a broad set of editing operations that make it unusually powerful as a practical creative tool."
 keywords: [ImageGen 3, Gemini, image editing, creative tools, visualization, model comparison]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7305444941986439168/
 ---
 
 ![ImageGen 3 is the top image model now](/blog/assets/kaladin-1.webp)

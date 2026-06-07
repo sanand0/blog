@@ -7,6 +7,7 @@ categories:
 wp_id: 4239
 description: I run free workshops to benefit myself, using them as a lab to learn new tools like DuckDB and experiment with LLM simulations. This approach lets me collect data, gather ideas, and test risky concepts on live audiences.
 keywords: [workshops, duckdb, llm simulations, vibe-modeling, data collection, pedagogy, experimental learning]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7385249015183020032/
 ---
 
 ![Workshops That Teach Me More Than You](/blog/assets/Generated-Image-October-18-2025-5_35PM-1.webp)

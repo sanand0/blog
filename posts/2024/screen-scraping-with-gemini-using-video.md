@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "Cheap video understanding turns screen recordings into a practical scraping medium, shifting the bottleneck from cost to imagination about what to extract."
 keywords: [video scraping, Gemini, screen recording, tweet extraction, multimodal, abundance mindset]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7260839417399902208/
 ---
 
 "Screen-scraping" takes on a more literal meaning."

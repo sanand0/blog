@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "Interesting public code is a far stronger hiring signal than a CV for technical roles."
 keywords: ["hiring", "GitHub", "portfolios", "technical recruiting", "signals", "CVs"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7341051471553077252/
 ---
 
 I would shortlist any candidate who sends me interesting GitHub repos from their portfolio. I reject every candidate who sends me a CV anyway

@@ -8,6 +8,7 @@ categories:
 wp_id: 3421
 description: "This comic confession defends licking plates, bowls, and leftovers as efficient, joyful, and nearly irresistible, while acknowledging the social protocols that make it taboo in public."
 keywords: ["food habits", "licking", "humor", "etiquette", "ice cream", "waste"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7033488550536876033/
 ---
 
 ![Licking](/blog/assets/DALL·E-2023-02-20-22.57.55-Photo-of-a-young-boy-in-an-ice-cream-shop-licking-an-empty-plate.webp)

@@ -8,6 +8,7 @@ categories:
 wp_id: 3822
 description: "An AI co-host can be genuinely compelling on stage as expert, comedian, and conversational foil, but once it gets too good it risks stealing the show entirely."
 keywords: [AI co-host, public speaking, voice mode, panel discussion, humor, ChatGPT]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7283309079685447682/
 ---
 
 ![“Wait, That’s My Mic!”: Lessons from an AI Co-Host](/blog/assets/DALL·E-2025-01-09-15.25.13-A-colorful-single-panel-wide-comic-strip-in-the-style-of-classic-Calvin-Hobbes.-Calvin-a-young-boy-with-wild-hair-stands-in-front-of-a-whiteboard-.webp)

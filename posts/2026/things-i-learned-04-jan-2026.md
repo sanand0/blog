@@ -1,0 +1,264 @@
+---
+title: Things I Learned - 04 Jan 2026
+date: 2026-01-04T00:00:00+00:00
+categories:
+  - til
+---
+
+This week, I learned:
+
+- A bunch of new CLI tools I found via [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) that I'm likely to use.
+  - [fselect 4,374 ⭐ Dec 2025](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries. `mise x ubi:jhspetersson/fselect -- fselect 'path, name, size from . WHERE name = "*.md" AND size < 1000'`
+  - [git-standup 7,805 ⭐ Jul 2025](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. `npm install -g git-standup && git standup`
+  - [litecli](https://github.com/dbcli/litecli) - SQLite CLI with auto-complete and syntax highlighting. `uvx litecli`
+    - [mycli](https://github.com/dbcli/mycli) - MySQL CLI with auto-complete and syntax highlighting. `uvx mycli`
+    - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with auto-complete and syntax highlighting. `uvx pgcli`
+  - [fkill-cli 6,966 ⭐ Nov 2025](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer. `npx -y fkill-cli fkill :8000`
+  - [mlt 1,709 ⭐ Jan 2026](https://github.com/mltframework/mlt) - Command line video editing. `sudo apt install mlt`
+  - [xxh 5,870 ⭐ Sep 2025](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH. `uvx --from xxh-xxh xxh user@host`
+  - [epr 1,356 ⭐ Feb 2023](https://github.com/wustho/epr) - Command line ePub reader. `npx -y --package epr-reader epr`
+  - [tunnelmole-client 1,759 ⭐ Jun 2025](https://github.com/robbie-cahill/tunnelmole-client) -- ngrok alternative. `npx -y tunnelmole 8000`
+  - [localtunnel 21,822 ⭐ Aug 2025](https://github.com/localtunnel/localtunnel) -- ngrok alternative. `npx -y localtunnel --port 8000`
+  - [svg-term-cli 4,168 ⭐ May 2024](https://github.com/marionebl/svg-term-cli) - Record and replay terminal sessions as SVG animations. `npx -y --package svg-term-cli svg-term`
+  - [pageres-cli 1,732 ⭐ Sep 2025](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots. `npx -y pageres-cli example.com 1366x768`
+  - [gita 1,816 ⭐ Nov 2025](https://github.com/nosarthur/gita) - Manage multiple git repos side by side.
+  - [editly 5,259 ⭐ May 2025](https://github.com/mifi/editly) - Declarative video editing.
+  - [np 7,661 ⭐ Nov 2025](https://github.com/sindresorhus/np) - A better `npm publish`.
+  - [ffscreencast 1,816 ⭐ Jul 2024](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
+  - [beets 14,504 ⭐ Jan 2026](https://github.com/beetbox/beets) - Music library manager and tagger. `uvx --python 3.12 --from beets beet import /path/to/music`
+  - [slides 11,065 ⭐ Aug 2024](https://github.com/maaslalani/slides) - A markdown presentation tool.
+  - [gotty 19,285 ⭐ Aug 2024](https://github.com/yudai/gotty) - Share your terminal as a web application.
+- The [day-fine](https://en.wikipedia.org/wiki/Day-fine) system fines people by severity of crime (# of days) and their income (daily disposable income). Finland, Sweden, Germany use it. It's equal deterrence and more state tax, but needs good data & enforcement, cultural acceptance, and similar income streams (income vs assets, salary vs freelance, ...) [Claude](https://claude.ai/share/9a60014a-83a2-431e-997f-866cb00fb2a8)
+- LLM evals rarely pass all the time or fail all the time. Either would be a good signal, but results are usually mid-way, which can make evals a bit frustrating. [Will Larsen](https://lethain.com/agents-evals/)
+- A smart way to handle large context and compaction: pass any large input (even text) as a file and always provide file tools to the agent. After [compacting](https://www.reddit.com/r/ClaudeAI/comments/1jr52qj/here_is_claude_codes_compact_prompt/) a conversation, also _pass the conversation history as a file_! [Will Larson](https://lethain.com/agents-context-compaction/)
+- Anthropic's API lets you [upload custom skills](https://platform.claude.com/docs/en/build-with-claude/skills-guide#managing-custom-skills) and [use them via the API](https://platform.claude.com/docs/en/build-with-claude/skills-guide#using-skills-in-messages). You can share these across the organization.
+- Modern HTML has a _huge_ number of of useful attributes and some elements I knew little about. Most of these improve the user experience, especially on mobile devices.
+  - Add [`popover` and `popovertarget=`](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/popover) to associate elements with popovers. This can replace tooltips, dropdowns, menus, toasts, etc.
+  - Add [`formmethod="dialog"`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/submit#formmethod) to forms inside `<dialog>` elements to close the dialog instead of submitting.
+  - Add [`name=`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details#name) attribute to details for accordion-like behavior
+  - Add [`loading="lazy"`](https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Lazy_loading) to images and iframes to load only when user scrolls to them
+  - Add [`fetchpriority="high"`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/fetchpriority) (or low) to image, script, link rel="preload" ... to prioritize loading
+  - Add [`inputmode=`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/inputmode) to inputs for better virtual keyboard experience. Values can be text, decimal, numeric, tel, search, email, url.
+  - Add [`autocomplete=`](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete) to form inputs for better autofill experience. Values are **extensive** and multiple values are allowed. E.g.: name, email, username, new-password, current-password, organization, street-address, postal-code, country, tel, url, cc-number, cc-exp, ...
+  - Add [`list=`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#list) to inputs to associate with a `<datalist>` for suggestions/autocomplete.
+  - Add [`autocapitalize=`](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/autocapitalize) to inputs and textareas to control capitalization behavior. Values: off, none, sentences, words, characters.
+  - Add [`enterkeyhint=`](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/enterkeyhint) to inputs and textareas to customize the enter key on virtual keyboards. Values: enter, done, go, next, previous, search, send.
+  - Add [`contenteditable="plaintext-only"`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/contenteditable) to disable rich text formatting on editable elements
+  - Add [`inert`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/inert) to disable user interaction. Useful for modals to disable background content.
+  - Add [`form=`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/form) to associate inputs/buttons with a form outside the form element.
+  - Add [`download=`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#download) to anchor tags to suggest file download with a specific filename.
+  - Add [`capture="environment"`](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/capture) to file input to directly open the outward facing camera/mic on mobile devices. `"user"` opens the inward facing camera/mic. Use `accept=` values of `audio/*`, `video/*` or `image/*` to specify media type.
+  - Add [`spellcheck="false"`](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/spellcheck) to disable spell checking on inputs or textareas, e.g. for code snippets.
+  - [`<dialog>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog): for native modals, popups, etc. Methods: `show()`, `showModal()`, and `close()`.
+  - [`<meter>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meter): for displaying scalar values within a known range, e.g. disk usage, battery level, etc.
+  - [`<progress>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/progress): for displaying progress of a task. Similar to meter but indicates progress rather than a static value.
+  - [`<track kind="captions">`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track#kind): for adding captions/subtitles to `<video>` elements.
+  - [`<data value="...">`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/data): to capture values in a more query-able way than `data-*` attributes.
+- [Grok Voice Agent API](https://x.ai/news/grok-voice-agent-api) tops the [speech-to-speech](https://artificialanalysis.ai/models/speech-to-speech) quality benchmark and is pretty cheap at 5c/min ($3/hr).
+- [The Collider Bias](https://gemini.google.com/share/d8c33648317f): when you analyze a subset, you can get wrong correlations. For example, analyzing top performers can show that performance drops with time - whereas, if you pick everyone, performance improves with time. It's similar to the [Simpson's Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox): combining groups can reverse trends. [Ethan Mollick](https://bsky.app/profile/emollick.bsky.social/post/3majpxwyivs24)
+- [fresh](https://github.com/sinelaw/fresh) is a TUI text editor that I've replaced [`micro`](https://github.com/zyedidia/micro) with (for now). It has menus and mouse support which shrinks the learning curve. It's also a single Rust binary.
+- [Small Wins Every Day: 100 Powerful Ways to Transform Your Life and Health](https://www.goodreads.com/book/show/144026501-small-wins-every-day) by Luke Coutinho recommends compounding small habits. [Claude](https://claude.ai/share/cea6ef39-1fd3-494e-80b5-38226742f1aa)
+  - Small compounding wins make the brain feel less bad about losing. Continous wins make us feel good. So they're more likely to sustain. (Atomic Habits / Tiny Habits)
+  - What works: Breath control, fasting, regular sleep, keep moving, etc.
+- [The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human](https://www.goodreads.com/book/show/8574712-the-tell-tale-brain) by V.S. Ramachandran expands on Phantoms in the Brain. [Claude](https://claude.ai/share/849faf4e-b511-418f-8ac9-abc26d7813f5)
+  - Mirror neurons fire BOTH when we do something OR when we see someone do it. That's how we learn skills & feelings by imitation. We're not born with this. They're formed with practice in childhood.
+  - Synesthesia cross-wires sensory inputs, e.g. seeing colors when hearing sounds. When shown a curved vs jagged lines and asked to name them bouba or kiki, 98% name the curved one bouba, mapping the sharp "kiki" sound to the sharp shape. This may partly explain why some people are more artistic, how language evolved (and similarly), and why marketing logos work.
+  - He proposes 8 laws of neuroaesthetics as starting hypotheses for understanding art and beauty:
+    - Peak shift. We're attracted to exaggerations. Caricatures, exaggerated feminine curves in sculpture, cubism, super-villains, stereotypes.
+    - Grouping. We like to find patterns. E.g. melody from notes, faces from pixels, plots from events.
+    - Contrast. We prefer edges to surfaces. E.g. outlined cartoons, silence before a drop in EDM, Holmes vs Watson.
+    - Isolation. Removing context helps focus. E.g. sketching, minimalism, unplugged music, solo music, theater spotlight.
+    - Perceptual problem solving. We relish a LITTLE effort. E.g. negative art, stereograms, puzzles, mysteries, plot twists, optical illusions.
+    - Symmetry. We like balanced forms. E.g. symmetrical faces, architecture, mandalas, poetic justice, verse-chorus-verse, rhymes, plots ending as they began.
+    - Abhorrence of coincidence. Everything has a cause. E.g. need for alignment, pareidolia (seeing faces in clouds), Chekov's gun, deus ex machina.
+    - Metaphor. We understand new things via familiar ones. E.g. allegories (Animal Farm is about communism, not pigs), leitmotifs (music BECOMES a character, e.g. Darth Vadar's march).
+- [Phantoms in the Brain: Probing the Mysteries of the Human Mind](https://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain) by V.S. Ramachandran argues we do NOT know ourselves and rewiring our brains can help/hurt. [Claude](https://claude.ai/share/65b2ae8a-5777-41ea-8eeb-18293c5deb8f)
+  - You truly understand something only you observe how it breaks. Brain damage patients reveal how the brain constructs reality.
+  - The brain has a "map" of the body. When we lose an arm, it rewires it to adjacent areas, e.g. face. Touching the face triggers phantom sensations in the missing arm.
+    - Mirror box therapy works. Have patients put their good arm in a box with a mirror, so it looks like the missing arm. Moving the good arm tricks the brain into thinking the missing arm is moving, relieving pain.
+  - The brain has a "model" of the self and reality. If the model is wrong, we get illusions/hallucinations. This is BIOLOGICAL.
+    - Mrs Dodds was paralyzed. When asked to touch her nose, she said "I am". When shown her arm, she said "I don't feel like it." Her brain was damaged preventing her from updating her model of self. (Anosognosia)
+    - Not My Hand Error damages the body map and deletes an arm from the model. Brain sees the arm but decides it's someone else's. (Somatoparaphrenia)
+    - Imposter Error breaks the wire between recognition and emotion. We see familar people, don't feel anything, so decide they're imposters. (Capgras Delusion)
+    - Everyone is Disguised Error strengthens the recognition-emotion wire. We feel strong emotions to strangers, inventing a conspiracy. (Fregoli Delusion)
+    - Walking Corpse Error disconnects feedback from the body and emotional centers. We no longer feel alive. So the brain concludes we're dead. (Cotard’s Syndrome)
+    - Somewhere Else Error damages sensory data to place tag mapping. We see medical equipment but feel safe, so we must be at home not a hospital. (Reduplicative Paramnesia)
+    - Timeline Error deletes short term memory (alcoholism, malnutrition). We can't remember yesterday, so we pick the closest we remember. (Korsakoff’s Syndrome)
+    - Meaning of Life Error strengthens "what's meaningful" signals, so we see divine intervention in rocks. (Geschwild Syndrome)
+  - The cortex does not know how it does stuff. It invents stories to explain actions after the fact.
+    - Blindsight. Despite visual cortex damage, patients can use a different route (reptile vision) from the eye into the brain to "see". They're unaware of this.
+    - Procedural memory. Patients with short term memory learn new skills (e.g. mirror drawing) but have no memory of learning them.
+    - The Libet Delay. Consciousness lags reality by 500ms. We think we decide to move, but the brain has already started moving before we become aware of the decision.
+    - The Low Road. Thalamus -> Amygdala is ~12ms for instinctive reactions (fear). Thalamus -> Cortex -> Amygdala is ~30ms for conscious reactions. We feel fear before we know why.
+  - Our definition of "self" is an amalgamation of occupying a body, having a history, making decisions, what we value, etc. Damage to different areas breaks different parts of this model.
+- [Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures](https://www.goodreads.com/book/show/52668915-entangled-life) by Merlin Sheldrake questions the boundaries of identity and intelligence. [Claude](https://claude.ai/share/b6b36a43-30a4-4a25-851e-bb78ff6610b9)
+  - Fungi form vast underground networks (mycelium) that connect plants, trees, and ecosystems. They exchange nutrients, information, and even memories across species. In fact, the largest organism on Earth is a honey fungus in Oregon spanning 2,400 acres.
+  - They can decompose almost anything: petroleum, pesticides, plastics, explosives, even nuclear waste. They can filter air & water, detoxify soil, and make plants resistant. (But we don't know how to do this at scale without harming ecosystems.)
+  - We're all symbiotic organisms. So what defines "self"?
+    - Lichen are a combination of a fungus, alga, and a yeast. The fungus provides structure, the alga photosynthesizes, the yeast protects with acid. The combination produces a long-lived, leafy and resilient "organism".
+    - Human gut bacteria influence our mood; skin bacteria clog pores against pathogens; mites in our eyelashes eat dead skin; mouth bacteria digest nitrates; bacteriophages attack viruses.
+  - Intelligence emerges in many ways - not just through neurons. Fungi solve mazes. Slime molds find shortest paths. Termites build breathing mounds. Honey bees communicate location via dance.
+  - Have we colonized the planet, or have dogs, wheat/corn, fungi, ... colonized us?
+- [The Demon-Haunted World: Science as a Candle in the Dark](https://www.goodreads.com/book/show/17349.The_Demon_Haunted_World) by Carl Sagan calls for a more scientific temper in daily life. [Claude](https://claude.ai/share/5f225c2a-d5a2-4bbc-b85a-95e57839877e)
+  - In the 1990s, the alien abduction phenomenon was rampant. Paralyzed in bed, taken to spacecraft, remember via hypnosis. this is sleep paralysis, when brain partially wakes while body is in REM sleep. 5-40% of people experience it at least once. It led to witch burning, satanic panic, and now, alien abduction stories. Same phenomenon, different interpretations based on culture and time.
+  - This is a common pattern when communities face uncertainties: plagues, famines, social change. Someone proposes a non-falsifiable explanation with a scapegoat, gains power, and fear spreads. Fake news, conspiracy theories, cults thrive in such environments.
+  - We evolved for explanations. That bush sound must've been a lion. The cloud is a dragon. Someone caused the plague. It takes effort to fight it.
+  - Check for Evidence: Is it independently verifiable? Good data?
+  - Check for Logic: Is it falsifiable? Logically sound?
+  - Check for Bias: What are alternatives? What's my/their motive?
+- [The Stuff of Thought: Language as a Window into Human Nature](https://www.goodreads.com/book/show/373969.The_Stuff_of_Thought) by Steven Pinker suggests that all languages has common patterns and that the brain packs complex ideas into this simple structure for transmission. [Claude](https://claude.ai/share/a2081f93-c652-47a8-9ed7-16f2a37751e2)
+  - Verbs across languages typically cover cause of motion (threw), manner of motion (walked), state (broke), possession (gave), force (hit). (But culture also shapes these.)
+  - Spaces is used as a metaphor for many things. Markets go up, people grow close, time flies. (But the Aymara of the Andes say the future is behind and the past is in front.)
+  - Names are labels for people, not descriptions. (But some names DO describe, e.g. Potter, Mumbaikar, von Neumann)
+  - Indirect speech saves face, e.g. "Could you pass the salt?" not "Pass the salt". (But culture matters, too.)
+  - Swear words are typically about sex, excretion, religion, slurs, diseases ("pox"), ... and stored in the limbic system (an ancient portion) not the language circuits. They're emotional outburts, closer to laughing or screaming than speaking. (Mostly true.)
+  - Verbs assign cause, agency, responsibility, ... e.g. killed vs died, allowed vs made, etc.
+  - Language is made of core concepts: space and motion, time, causation, possession and transfer, goals and intentions. (Unproven. Usage based linguists disagree.)
+- [The Blank Slate: The Modern Denial of Human Nature](https://www.goodreads.com/book/show/5752.The_Blank_Slate) by Steven Pinker reiterates the modern belief that genetics determines part of our psychology. [Claude](https://claude.ai/share/b4f8258e-aac5-4214-9249-78e93bd3f185)
+  - Western philosophy says we're born a blank slate (Tabula Rasa), are naturally good but corrupted by civilization (Rousseau), and the mind is separate from the brain (Descartes). All three are wrong.
+  - 🟢 Identical twins raised by separate families shared characteristics, e.g. wearing rubber bands around wrists, flushing toilet before & after, naming sons James Allen / James Alan, volunteering as firefighters, ... Research shows 40-60% of variation in psychological traits is accounted for by genes.
+  - 🟢 Babies have innate capacities for language, number sense, understanding of physical objects, and basic moral intuitions.
+  - 🟢 The brain is the same as the mind. Damage to brain = damage to mind.
+  - 🟡 Pinker claims that our mind was shaped by evolution, e.g. men take more risks because it got them more mates. This is unproven.
+  - 🟡 Pinker claims violence has reduced over time. This is unproven.
+  - 🟡 Pinker cites Harris' research that parenting style has little effect. This is unproven.
+- [How the Mind Works](https://www.goodreads.com/book/show/835623.How_the_Mind_Works) by Steven Pinker argues that the mind evolved as tools to solve specific problems. [Claude](https://claude.ai/share/77c44169-ebd1-4929-be65-bc2540f0182d)
+  - The brain is literally a computer: a bunch of neurons that fire based on a function of the inputs.
+  - It evolved into a mix of special-purpose tools, not general purpose. Facial recognition, language, object detection, spatial navigation, social cues, etc. (But in reality, it may be a mix of special + general purpose. Degree of specialization is unknown.)
+  - Some of this is complex. E.g. each eye captures 2D, but we use complex cues like shading, parallax (closer things move more) and steropsis (difference between what each eye sees)
+  - Emotions evolved for survival. (Basic emotions have strong evidence: fear, disgust, revenge, ... but complex ones like love, sacrifice, social emotions are unproven.)
+  - We prefer closer kin over distant kin. (But culture & context play a part, too, and it's not the sole factor.)
+  - Art may have evolved accidentally - exploiting things that evolved for other purposes. (But it may be genuine adaption, e.g. for sexual selection or group bonding. Divided opinions.)
+  - Men and women evolved differently. Men prefer things, women prefer people. Men do better in 3D mental rotation. Men have a wider IQ distribution (but cultural factors amplify this.)
+  - Also a few contested claims: Men are better at mathematics (this has narrowed and may be cultural). Women are better at language (small difference). Testosterone masculinizes the brain (unclear if it's behavioral or bioliogical.)
+- [The Language Instinct: How the Mind Creates Language](https://www.goodreads.com/book/show/5755.The_Language_Instinct) by Steven Pinker argues that language is inborn, universal, and an evolutionary advantage. [Claude](https://claude.ai/share/edbaa135-6c4c-4adf-866a-bb68817653cc)
+  - Deaf kids in Nicaragua spontaneously invented their own sign language. Younger kids who copied them added grammer, tenses, and abstract concepts.
+  - This is atypical: we learn language by "growing it", unlike skills which we copy. In fact, we over-apply grammar. "I goed to the store."
+  - Pinker argues this is inborn. The Language Myth (Evans, 2014) argues lack of evidence. It's unproven if it's emergent or inborn.
+  - He claims all human grammar is roughly equally complex and roughly equivalent. (Vocabulary grows by need.) But there's no proven "universal grammar" we know of yet.
+  - Grammar _does_ have genetic pinnings. E.g. A mutated FOXP2 gene causes grammatical impairments. It doesn't affect grammar as such, but fine motor control of mouth and tongue. But still, there's some evidence.
+  - The strong Sapir-Whorf hypothesis that "language determines thought" is not true. We can think concepts that don't have words.
+  - The weak version "language influences thought" has some evidence. Russian speakers who have separate words for light blue and dark blue can differentiate them faster. People with separate words for north/south (vs left/right) have better spatial orientation.
+  - He claims language provided us an evolutionary advantage. Evidence for this is pending.
+- [Metabolical: The Lure and the Lies of Processed Food, Nutrition, and Modern Medicine](https://www.goodreads.com/book/show/53240367-metabolical) by Robert H. Lustig gives good diet advice but not so good scientific/economic ones. [Claude](https://claude.ai/share/d79ad6ea-1d6e-4dae-8444-3f76cc15e38b)
+  - There's a trend of "lean diabetes" - diabetes in lean people. BMI isn't a reliable biomarker for diabetes risk. (But it's better than the book suggests.)
+  - Chronic diseases are due to cell dysfunctions, all can be improved with diet (but not as much as the book suggests.)
+  - "Fructose is the main villain". But studies don't find fructose doing more harm than anything else.
+  - "Protect the liver." Less sugar, alcohol, and other toxins. (True)
+  - "Feed the gut": More fiber. Both Keto and Vegan diets do this. (True)
+  - "Whole foods >> highly processed foods". (Very true - strong evidence.)
+  - Big Food, Big Pharma, Big Govt have low incentives to promote this. (Partly.)
+- Sometimes, I need a browser with a custom DNS mapping to temporarily override DNS, e.g. when I have a dev version of a site on one IP and a production version on another. In that case, using something like `chrome --host-resolver-rules="MAP www.s-anand.net 192.254.190.216" --user-data-dir="/tmp/chrome-dev"` works well. You can replace `chrome` with `microsoft-edge` or `opera` or anything Chromium based.
+- [Build: An Unorthodox Guide to Making Things Worth Making](https://www.goodreads.com/book/show/59696349-build) by Tony Fadell suggests becoming the KIND of person who makes worthwhile products. [Claude](https://claude.ai/share/39c4ebd9-603a-40e0-8a23-9243f2b16f40)
+  - Everything you need to know about success, you learn from failure - if you pay attention.
+  - Products take three iterations before they succeed. Prototype, product market fit, business model. IPhone. IPod. Windows. Nest. All followed this pattern. Budget for it.
+  - Create the story for the product WHILE, not after, you build it. Bake it in.
+  - Differentiate between assholes based on what they care about. Power? Ego? Mission? The third type is worth tolerating, even getting behind.
+  - Your next idea is probably hiding in plain sight, annoying you. Thermostats did that to Fadell. Ugly, outdated, and controlling 10% of US energy. He built Nest.
+  - Quit when you know what next. Not just when you don't like where you are.
+- We're wired to ignore failure to protect self-worth. We do that through cognitive biases. [Gemini](https://gemini.google.com/share/9585b16ff339)
+  - Devaluation (sour grapes): I never wanted it anyway
+  - Externalization (not my fault): It was an unfair test. The market is irrational.
+  - Virtue signaling (moral high ground): Rich people are unhappy. I don't play politics.
+  - Sabotage (self-handicapping): I didn't study. I did this last minute.
+  - Dissociation (fatalism): It happened for a reason.
+  - Intellectualization (false pivot): I learned so much.
+- [Same as Ever: A Guide to What Never Changes](https://www.goodreads.com/book/show/125116554-same-as-ever) by Morgan Housel suggests doubling down on timeless principles. [Claude](https://claude.ai/share/d8f00c2f-622a-4180-b3bc-5fa66e17c878)
+  - Random luck drives many outcomes. The kamikaze that saved Japan from the Mongol invasion. The East River fog that saved George Washington's army. Penicillin.
+  - Hilbert and Einstein almost raced to formulate the final equations of general relativity after Einstein presented his incomplete theory in 1915 summer. Einstein won by cramming - just like students today. Technology changes. Psychology does not.
+  - Risk is what you don't see. Blind spots. Prepare using margins of safety / optionality, distributed failure points, survival > success, ...
+  - Stories > Ideas. Stories are how our brains work. They're leverage for ideas. Wrap EVERYTHING in a story.
+  - High expectations = Low happiness. So, visualize failure/disaster, practice gratitude, compare downwards.
+  - Compounding is magic. In any asset: money, skills, relationships, health, ... So, automate the decisions, be patient and don't interrupt.
+  - Success carries the seeds of failure. The innovator's dilemma, the Malthuian trap, or the Dynastic cycle. So, be paranoid, stay simple, kill cash cows, practice discomfort.
+- [Why We Die: The New Science of Aging and the Quest for Immortality](https://www.goodreads.com/book/show/179311316-why-we-die) by Venki Ramakrishnan says that there's no reason we have to die at our current age. But we don't have proven ways to extend life yet. It's also not clear if/how we should. [Claude](https://claude.ai/share/c1f1d6e5-8140-47bb-92f0-d2e4949f0b66)
+  - Evolution has optimized us for reproduction. After reproduction age, it doesn't care. "Death is the price we pay for sex."
+    - Telomeres are DNA sequences at the end of chromosomes that shorten with each cell division. When too short, cells die (apoptosis) or become zombies (senescent).
+    - These zombie cells secrete toxins that inflame / damage nearby cells. When young, our immune system clears them out. With age, they accumulate.
+    - With age, mitochondria (cell powerhouses) become less efficient.
+    - With age, the quality of proteins we make decline. They start clumping (like scrambled eggs), leading to Alzheimer's, Parkinson's.
+  - Some animals live longer than expected. There's no reason our life span HAS to be what it is.
+    - The Naked Mole Rat lives 30+ years (10x longer than mice) without cancer, and can repair their own tissues.
+    - The Greenland Shark lives 400 years.
+    - The Hydra and the "Immortal" Jellyfish can regenerate when some parts are chopped off. Their chance of dying doesn't increase with age.
+  - But there's a lot of hype. Current methods are far from proven.
+    - Telomere-extending supplements are not FDA approved. They might work on mice, not men.
+    - Rapamycin helps mice live longer. But suppresses immunity, so risky for humans.
+    - Senolytics kills senescent cells. They might work.
+    - Yamanaka won a Nobel prize for turning adult cells into stem cells. But it could cause cancer.
+    - Injecting young rats' blood into old rats helps the old rats, but old blood hurts young rats.
+  - So: diet, exercise, and sleep
+  - Also: longevity will help the rich more, increase stagnation, and what's the point of living longer with an aged brain?
+- [The Happiness Hypothesis](https://www.goodreads.com/book/show/96884.The_Happiness_Hypothesis) by Jonathan Haidt blends ancient wisdom with modern philosophy. [Claude](https://claude.ai/share/598a2de6-0fb1-4d7d-8fa0-ce809b7750d0)
+  - Happiness = Set point + Circumstances + Voluntary activities
+    - Set point has ~50% impact. Haidt suggests this doesn't change. Research shows major life events can shift it a bit.
+    - Circumstances: We adapt to some stuff (money, house, etc.) but not to others (commute, noise, lack of control, relationships)
+    - Voluntary activities have variety that we don't adapt to. Meditation, learning, exercising, ...
+  - Modern CBT is similar to Stoicism. Events don't upset us, our thoughts about events do. So change the thoughts.
+  - ACT (Acceptance and Commitment Therapy) is like Buddhism which suggests observing, not changing, the thoughts.
+  - CBT seems better for acute / specific stuff, logical people or beginners. ACT seems better for chronic / vague unease, grief, etc.
+  - Brains rationalize more than reason. There are more signals INTO the prefrontal cortex (PFC) than out of it. We make up stories to justify our actions. This evolved to make us look good socially.
+  - Adversity can help but only if it's significant but not overwhelming. It takes time and support to learn from adversity. Works only if we interpret and integrate it well.
+  - Quality of relationships is a strong driver of happiness. Something the Stoics and Buddhists didn't emphasize as much as Confucius did.
+- [Reality is Not What it Seems: The Journey to Quantum Gravity](https://www.goodreads.com/book/show/29767627-reality-is-not-what-it-seems) by Carlo Rovelli shares his theories. Mainstream but not proven. [Claude](https://claude.ai/share/bf63735a-97e7-4a79-a536-727be7fc8be5)
+  - In quantum mechanics, particles can interfere with themselves and their position "snaps" only when observed. Multiple theories interpret this:
+    - Copenhagen interpretation: Observation is special and collapses the wavefunction. But what counts as observation?
+    - Bohm's interpretation: Particles "surf" the wave. Waves interfere, but particles only take one path. But needs non-local hidden variables. (Testable)
+    - Objective collapse: Wafe functions collapse when too "big" or complex, even if no one's looking. But how big? (Testable)
+    - Many worlds: Sever possibility creates a parallel universe. But ... Occam's razor?
+    - QBism: Wavefunction is just our knowledge, not reality. Particles have properties, measurement updates our knowledge.
+    - Rovelli's Relational quantum mechanics: position, momentum, etc. are relative. It has position relative to an observing device/particle. No absolute state. Reality literally is perspective.
+  - Loop quantum gravity: Aims to bridge general relativity and quantum mechanics by modeling spacetime as discrete loops. Far from proven, but possible.
+    - Space has a smallest unit - Plank length (~10^-35 m). You can't subdivide space infinitely.
+    - Space is made of atomic "loops" that spin. They're connected to form a fabric ("spin foam"). They're not "in" space. They ARE space. They interact with matter/energy to create gravity and evolve over time.
+    - Predictions:
+      - Black holes don't have singularities, since you can't have infinite density.
+      - Entropy of black holes comes from the number of ways loops can arrange on the event horizon, so it's proportional to surface area, not volume.
+  - Time doesn't exist fundamentally. It emerges from change and relationships between things. Again, not yet proven, but possible.
+    - For example, the Wheeler-DeWitt equation in quantum gravity has no time variable. It's a snaphot of the universe across all time.
+    - The universe is a giant graph of relationships between quantum events. Time is just how we order these events from our perspective.
+    - Implications: there's no master clock and the present is local. Duration only emerges at larger scales, like temperature emerges in thermodynamics.
+- [The Emperor of All Maladies: A Biography of Cancer](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies) by Siddhartha Mukherjee. [Claude](https://claude.ai/share/68c1d438-bbca-410b-ae4d-5d08ad5abf62)
+  - Cancer has always existed. We just didn't live long enough for it to affect enough of us for most of history.
+  - In 1890s, Halsted developed radical mastectomy - removing the breast + chest muscles + lymph nodes ... to prevent spread. It didn't improve survival but disfigured.
+  - In 1947, Farber injected cancer children with a drug that blocked folic acid (which cells need to grow). Tumors shrank, but relapsed. This was the first chemotherapy.
+  - In 1950s, cigarettes were found to cause lung cancer but the tobacco industry delayed regulation for decades.
+  - In 1971, Lasker & Nixon declared "War on Cancer" with $100m funding. (Impact: increased awareness, more research, not cure.)
+  - In 1970s, we found that the virus that caused cancer in chickens carried an "oncogene" that caused uncontrolled growth. Hence, cancer isn't a virus, but a genetic mutation. Also, the p53 gene that suppresses tumors is mutated in half the cancers.
+  - In 2001, FDA approved Gleevac, a drug that specifically targets a specific protein that causes a certain cancer (chronic myeloid leukemia - CML). This was the first "targeted therapy".
+  - In 2011, FDA approved ipilimumab, a drug that blocks CTLA-4, a protein that stops immune T-cells from attacking tumors. This was the first "immunotherapy" (by James Allison) which offers long-term protection. But it works only for some cancers, some patients.
+  - In 2018, Alison shared a Nobel prize with Tasuku Honjo, who discovered another immune checkpoint PD-1. Tumors produce PD-L1 that binds to PD-1 on T-cells to turn them off. Drugs that block PD-1 or PD-L1 unleash T-cells to attack tumors.
+  - In 2018, the Cancer Genome Atlas was published, showing that even the same cancer (e.g. lung) has different mutations in different patients, requiring personalized treatment.
+  - In 2017, FDA approved a CAR-T therapy for children with acute blood cancer. We extract a patient's T-cells, insert a gene with a receptor that recognizes specific tumor cells, grow them by the billions, and infuse them back. But there are severe side effects and it doesn't yet work for solid tumors.
+  - In 2024, FDA approved a cellular therapy for skin cancer. We extract the T-cells INSIDE the tumor (that recognized the cancer but were overwhelmed), grow them by the billions, and re-infuse them.
+  - In 2024, we're exploring AI-powered analysis of blood tests to find DNA fragments of several types of cancer - "liquid biopsy". It's early stages.
+    ![Sketchnote](https://files.s-anand.net/images/2025-12-28-cancer.webp)
+- [The Song of the Cell: An Exploration of Medicine and the New Human](https://www.goodreads.com/book/show/60321392-the-song-of-the-cell) by Siddhartha Mukherjee. [Claude](https://claude.ai/share/2430eea3-7580-4e87-8750-24cadc908acb)
+  - Metaphor: Cells as autonomous "citizens". Cancer is a rogue cell rebellion. Immune system is law enforcement. Type 1 diabetes is friendly fire.
+  - We're growing from fixing organs (surgery) to chemistry (drugs) to cells (e.g. bone marrow transplant, IVF - we're in the early stages).
+    - E.g. CAR-T Therapy: Extract T-cells, genetically modify them to recognize cancer, re-inject. But it's costly, severe side effects, works mainly for blood cancers.
+  - He predicts that we'll have:
+  - Prediction: Lab-grown organs from patients' cells. (Growing is easier than organizing into functional organs. We may be a few decades away.)
+  - Prediction: Gene editing & cell therapies will converge. CRISPR edits cells that we transplant back. (This was approved for sickle cell anemia in 2023. Seems promising.)
+  - Prediction: Anti-aging cellular medicine. Senescent cell research and telomere biology have progressed, but this is a hyped field in early stages.
+  - Some of these will likely be expensive and inaccessible to most people, at least at first.
+- Recollecting something Mr KP Krishnan told us in 2000 about the 1991 deregulation (fact-checked). "A meeting happened in Mr. Narasimha Rao's house, where he emerged from a bath, toweling himself. His immediate advisors told him that we had only a few weeks of cash left and that we would need to accede to the World Bank's request, but that the parliament would likely not agree. So, instead of risking a vote on a new law, they decided to bypass Parliament’s immediate approval entirely. They tabled the reforms as a 'Statement of Industrial Policy' right before the lunch break, just hours before the big Budget speech. Since it was a 'Statement' and not a 'Bill,' it didn't require a vote to pass. It fell under executive powers and could be legislated later. By the time the opposition realized the 'License Raj' had been dismantled, they were already distracted by the Budget presentation that evening."
+- [Outcomes over Output](https://www.goodreads.com/book/show/45186993-outcomes-over-output) by Josh Seiden suggests that between output (e.g. features) and impact (e.g. revenue) lies outcome (e.g. user engagement) - leading indicators that you can organize around. [Claude](https://claude.ai/share/d63c9fe7-f37e-4175-b177-dfeace8394dc)
+  - Ensure ownership of outcomes. Who owns increased checkout conversion rate? Payments, engineering, marketing, product, or UX? You may instead need small cross-functional activation, engagement, and retention teams. PM, designer engineer.
+  - Validate that outcomes lead to impact. This can be slow, and attribution is hard, but is important to continuously validate.
+  - Outcome change takes months, not weeks. So sprint using Now/Next/Later later roadmaps. As you learn, re-prioritize outcomes.
+  - Stakeholders want specificity. So quantify outcomes (+10% conversion) and timeframes (in 6 months).
+  - Stop experimenting and ship when you've validated the opportunity (customers need really connects to outcome) AND solution (feature really improves outcome). This is Torres' Opportunity Solution Tree (OST).
+  - Change incrementally. If you're running a feature backlog, continue. Add an "outcome hypothesis" field to each feature and create evidence.
+- [The Culture Map](https://www.goodreads.com/book/show/22085568-the-culture-map) by Erin Meyer argues that cultural differences are practically alien languages. [Claude](https://claude.ai/share/573e7302-fbfc-45ab-b0fb-23a11f064361)
+  - There are 8 dimensions of culture.
+    1. Communication: Low-context (precise, explicit, clear) like Americans vs High-context (implicit, layered, nuanced, between-the-lines) like the Japanese
+    2. Evaluating: Direct negative feedback (blunt, honest) like the Dutch vs Indirect negative feedback (tactful, polite) like Thai or Japanese
+    3. Persuading: Principles-first (deductive, theoretical) like the French vs Applications-first (pragmatic, practical) like Americans
+    4. Leading: Egalitarian (flat organizational structure) like Swedes vs Hierarchical (respect for authority) like India, Nigeria, Japan, Korea
+    5. Deciding: Consensual (group agreement) like Japanese vs Top-down (leader decides) like Russians
+    6. Trusting: Task-based (trust through competence/reliability) like Americans, Germans vs Relationship-based (trust through personal connection) like Arabs, Chinese
+    7. Disagreeing: Confrontational (open disagreement) like Israelis vs Avoids confrontation (harmony, save face) like Thais
+    8. Scheduling: Linear time (one thing at a time, punctual) like Germans vs Flexible time (multi-tasking, fluid) like Indians
+  - Critique is that this is anecdotal, not research driven, stereotypical. Meyer's aim is to sensitize.
+  - Action: Before meeting people, have LLMs plot their culture map and share advice.

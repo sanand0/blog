@@ -5,6 +5,7 @@ categories:
   - llms
 description: "Overlong reasoning traces make even trivial questions feel absurd, highlighting how visible chain-of-thought can turn competence into comedy."
 keywords: [reasoning traces, overthinking, Qwen, trivial questions, capital of France, LLM humor]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7324655268640829444/
 ---
 
 Me: What is the capital of France?

@@ -7,6 +7,7 @@ categories:
 wp_id: 4228
 description: I used Codex and Claude to turn my browser history into data stories. I learned to build multiple options, use LLMs for pre-reviewing, and match specific models like GPT-5 or Claude to their architectural strengths.
 keywords: [vibe-coding, data storytelling, llm workflow, claude, codex, browser history]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7381531293542449152/
 ---
 
 ![Vibe-Coding for Interesting Data Stories](/blog/assets/gardener.webp)

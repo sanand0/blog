@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "AI-generated comics can turn personal data analysis into a more engaging and accessible storytelling format than conventional charts alone."
 keywords: ["comics", "personal analytics", "Google Search history", "PicBook", "data storytelling", "AI images"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7356149037722464256/
 ---
 
 Here's a comic book analyzing my Google Search History.

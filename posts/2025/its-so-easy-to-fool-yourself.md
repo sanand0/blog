@@ -8,6 +8,7 @@ categories:
 wp_id: 3990
 description: "Even careful pairwise evaluation can produce unstable rankings, showing how unreliable intuitive judgement is and why written evals matter more than taste alone."
 keywords: [evaluation, preference instability, self-deception, quote ranking, LLM comparison, written evals]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7314497086085910528/
 ---
 
 ![It's so easy to fool yourself](/blog/assets/ChatGPT-Image-Mar-30-2025-09_41_10-AM.webp)

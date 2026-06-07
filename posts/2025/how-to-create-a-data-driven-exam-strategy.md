@@ -8,6 +8,7 @@ categories:
 wp_id: 4232
 description: I used ChatGPT to analyze 1,700 student scores and identify the strongest predictors for exam success. By prompting for simple heuristics, I developed a data-driven playbook that tells students exactly which assignments to prioritize for specific grade outcomes.
 keywords: [chatgpt, predictive analytics, data-driven education, student performance, prompt engineering, exam strategy]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7381923875992920064/
 ---
 
 ![How to create a data-driven exam strategy](/blog/assets/tds-grades.webp)

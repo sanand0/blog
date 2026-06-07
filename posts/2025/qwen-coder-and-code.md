@@ -6,6 +6,7 @@ categories:
   - open-source
 description: "Open coding models are improving fast, but cheaper open alternatives still do not yet beat the best proprietary coding-agent stacks on reliability."
 keywords: ["Qwen", "open models", "coding agents", "cost comparison", "reliability", "developer tools"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7355586584324304897/
 ---
 
 Alibaba released an open-source coding model (qwen-coder) and tool (qwen-code).

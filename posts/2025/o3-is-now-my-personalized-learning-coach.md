@@ -8,6 +8,7 @@ categories:
 wp_id: 4056
 description: "O3-style search-plus-reasoning models work like personalized research coaches because they can filter for a user’s interests, read widely, and explain practical relevance fast."
 keywords: [personalized learning, O3, search with reasoning, learning coach, curiosity, research workflow]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7320333038872100864/
 ---
 
 ![O3 Is Now My Personalized Learning Coach](/blog/assets/ChatGPT-Image-Apr-20-2025-08_04_27-PM.webp)

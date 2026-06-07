@@ -7,6 +7,7 @@ categories:
   - visualisation
 description: I discovered Wikipedia’s most repeated text, including a 213-word paragraph about minor planet names appearing in 418 articles. I found these patterns by using OpenAI Codex to analyze the structured Wikipedia dataset on Hugging Face.
 keywords: [wikipedia, hugging face, openai codex, minor planets, data mining, natural language processing]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7465047314915540993/
 ---
 
 What is the most frequently occurring sentence in Wikipedia? ANS: A 213-word paragraph about [how minor planets are named](https://en.wikipedia.org/wiki/Meanings_of_minor-planet_names), which appears in 418 Wikipedia articles, word-for-word!

@@ -6,6 +6,7 @@ categories:
 - llms
 description: AI-era education should stop preserving old constraints and instead teach around the new freedoms and failure modes that AI creates.
 keywords: [education, AI, pedagogy, assumptions, rule breaking, curriculum design]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7423904243796922368/
 ---
 
 Several educators have AI-enabled their courses, like:

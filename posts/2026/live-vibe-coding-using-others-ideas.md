@@ -6,6 +6,7 @@ categories:
   - talks
 description: AI-assisted talk preparation becomes far richer when you opportunistically incorporate live discoveries and other people’s ideas instead of over-planning everything in advance.
 keywords: [vibe coding, talk preparation, design festival, improvisation, idea synthesis, AI creativity]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7441306611098394624/
 ---
 
 I spoke today on [Design in the Age of Infinite Generativity](https://sanand0.github.io/talks/2026-03-21-design-in-the-age-of-infinite-generativity/) at the [Chennai Design Festival](https://www.chennaidesignfestival.com/).

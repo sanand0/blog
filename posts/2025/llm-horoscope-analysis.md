@@ -5,6 +5,7 @@ categories:
   - llms
 description: "Comparing horoscope predictions across sources exposes contradictions so stark that the exercise becomes an accidental satire of astrology."
 keywords: ["horoscopes", "Deep Research", "comparison", "astrology", "contradictions", "satire"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7340290072933539840/
 ---
 
 Out of curiosity, I ran Deep Research to compare _all_ horoscope predictions for Sagittarius (my sign) on 16 Jun 2025. Here are highlights:

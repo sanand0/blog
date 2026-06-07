@@ -1,0 +1,90 @@
+---
+title: Things I Learned - 28 Jul 2024
+date: 2024-07-28T00:00:00+00:00
+categories:
+  - til
+---
+
+This week, I learned:
+
+- Speech editing in audio files is a thing. [Speech Editing Toolkit](https://github.com/Zain-Jiang/Speech-Editing-Toolkit) and [Descript](https://www.descript.com)
+- GPT 4o Mini is almost as good as GPT 4o in the LMSYS leaderboard. Llama 3.1 400B model and Mistral 2 Large are yet to be evaluated.
+- If LLMs can generate any text, and text can describe the real world, we can rapidly generate "artifacts" that generate:
+  - 3D Printable Models:
+    - STL (Stereolithography): Defines the surface geometry of 3D objects using triangular facets.
+    - OBJ (Wavefront OBJ): Describes 3D geometry including vertices, textures, and normals.
+    - X3D: An XML-based file format for representing 3D computer graphics.
+  - Vector Graphics:
+    - SVG (Scalable Vector Graphics): Defines vector-based graphics in XML format, useful for illustrations, diagrams, and user interface elements.
+  - CAD Drawings:
+    - DXF (Drawing Exchange Format): Represents CAD data, including shapes, lines, and curves, used in engineering and architecture.
+  - Circuit Designs:
+    - KiCAD: An open-source software suite for Electronic Design Automation (EDA), which uses various file formats like PCBNew and EESchema to represent circuit designs.
+  - Blueprints and Architectural Designs:
+    - GML (Geography Markup Language): Encodes geographical features and spatial information.
+    - CityGML: A specific GML application schema for modeling and exchanging 3D city models.
+  - Molecular Structures:
+    - PDB (Protein Data Bank): Describes the three-dimensional structures of molecules.
+    - CML (Chemical Markup Language): An XML-based standard for representing molecular data.
+  - Robotics and Automation:
+    - URDF (Unified Robot Description Format): Defines the physical configuration of a robot, including joints, links, and sensors.
+    - COLLADA (Collaborative Design Activity): An XML-based schema to describe digital assets for 3D applications, often used in robotics.
+  - Geospatial Data:
+    - KML (Keyhole Markup Language): Used for geographic data visualization, primarily in Google Earth.
+    - GeoJSON: A format for encoding a variety of geographic data structures using JSON.
+  - Mathematical Markup:
+    - MathML (Mathematical Markup Language): Describes mathematical notation and captures both its structure and content.
+  - Music and Sound:
+    - MusicXML: Encodes sheet music in a structured format that can be easily shared between different music notation software.
+  - Documents and Text:
+    - DocBook: A semantic markup language for technical documentation.
+    - Markdown: A lightweight markup language with plain text formatting syntax.
+  - Biological Data:
+    - SBML (Systems Biology Markup Language): Represents computational models of biological processes.
+    - PhyloXML: An XML format for representing phylogenetic trees.
+  - Game Development:
+    - FBX (Filmbox): A file format for 3D animation that can hold information about the geometry, textures, and animations.
+    - VRML (Virtual Reality Modeling Language): Describes interactive 3D objects and worlds.
+  - Data Visualization:
+    - ChartML: Encodes charts and graphs in a structured format.
+    - D3.js (Data-Driven Documents): Uses HTML, SVG, and CSS to bring data to life with interactive visualizations.
+  - Building Information Modeling (BIM):
+    - IFC (Industry Foundation Classes): Describes building and construction data.
+  - Textiles and Fabrics:
+    - LoomML: Represents the design and structure of woven fabrics.
+  - Augmented Reality and Virtual Reality:
+    - ARML (Augmented Reality Markup Language): Defines how augmented reality applications should behave and what content they should display.
+    - VRML (Virtual Reality Modeling Language): For describing interactive 3D objects and worlds.
+  - Medical Imaging and Health Data:
+    - DICOM (Digital Imaging and Communications in Medicine): Encodes medical imaging data.
+    - HL7 (Health Level 7): A set of standards for the exchange of information between medical applications.
+  - Simulation Data:
+    - FMI (Functional Mock-up Interface): Represents and exchanges dynamic simulation models.
+    - SBML (Systems Biology Markup Language): For computational models of biological processes.
+  - Sound and Audio:
+    - MML (Music Markup Language): For encoding music notation and performance information.
+    - SoundFont: A file format for defining musical instrument sounds.
+  - Animation and Visual Effects:
+    - BVH (Biovision Hierarchy): Encodes motion capture data.
+    - Alembic: A computer graphics interchange framework primarily for exchanging animation and visual effects data.
+  - Textile Patterns:
+    - WIF (Weaving Information File): Describes weaving patterns and structures.
+    - Knitting Markup Language: Encodes knitting patterns in a structured format.
+  - Scientific Data:
+    - CDF (Common Data Format): Used for storing scientific data.
+    - NetCDF (Network Common Data Form): Supports the creation, access, and sharing of array-oriented scientific data.
+  - Photography and Imaging:
+    - XMP (Extensible Metadata Platform): Used for embedding metadata in digital images and other media files.
+  - Construction and Engineering:
+    - LandXML: For civil engineering and land surveying data.
+    - gbXML (Green Building XML): Facilitates the transfer of building data for analysis of energy and environmental performance.
+  - Packaging and Retail:
+    - BPL (Barcode Product Labeling): Encodes information for product packaging and labeling.
+    - GS1 XML: Used for electronic business messaging, including product identification and tracking.
+  - Typography and Font Design:
+    - UFO (Unified Font Object): A format for storing font data.
+    - SFNT (Spline Font): Encodes scalable font information.
+  - Product Data Management:
+    - PLMXML (Product Lifecycle Management XML): Used for sharing product data across PLM systems.
+- GPT 4o Mini can be fine-tuned!
+- [Awesome PaaS](https://github.com/debarshibasak/awesome-paas) lists self-hosted deployment platforms. [Piku](https://github.com/piku/piku) - similar to [Dokku](https://dokku.com/) -- is promising.

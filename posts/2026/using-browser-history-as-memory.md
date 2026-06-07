@@ -6,6 +6,7 @@ categories:
 - llms
 description: Browser history is an overlooked personal memory system that can reconstruct days, interests, and unfinished thoughts when other logs miss them.
 keywords: [browser history, memory, personal informatics, lifelogging, self-tracking, digital exhaust]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7430573964684382208/
 ---
 
 I have a bad memory. (I need to write about that. I k eep forgetting to.)

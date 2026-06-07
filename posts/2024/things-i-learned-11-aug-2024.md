@@ -1,0 +1,91 @@
+---
+title: Things I Learned - 11 Aug 2024
+date: 2024-08-11T00:00:00+00:00
+categories:
+  - til
+---
+
+This week, I learned:
+
+- Embedding models can be fine-tuned. Example: #TODO
+- Agentic RAG (Ravi Theja, LlamaIndex)
+  - RAG via top-k retrieval fails with
+    - summarization => need to read all chunks
+    - comparison: compare product X vs Y => need to split and re-combine
+    - structured analytics. e.g. most expensive employees => Text2SQL first
+    - multi-part questions. e.g. Tell me about speed of model X AND cost of model Y and recommend => need to split and re-combine
+  - RAG failures: It's single shot. No query planning. No tools. No correction. No memory.
+  - Agents that help in RAG
+    - Route to the right tool
+      - E.g. retrieve via vector top-k search or vector summary search or keyword search or combination?
+    - One-shot query planning
+      - E.g. Break query into multiple specific queries. RAG those. Then combine. #TRY - maybe in DocSearch
+    - Tool use
+      - E.g. Schema retrieval, Text2SQL, Calendar, Chat, APIs, Search, etc.
+  - Agent orchestration
+    - ReAct: An agent reasoning loop. Reason + Act. {Thought, Action, Action Input, Observation}\*.
+      - [Orchestrate tools with a prompt](https://docs.llamaindex.ai/en/stable/examples/agent/react_agent/)
+    - Multi-agent task solver: [Llama agents](https://github.com/run-llama/llama-agents)
+      - Instead of a single agent loop, use different agents. Also allows parallelization
+      - Allow services to register. (MS TaskWeaver stores tool descriptions in YAML)
+  - [LlamaHub Tools](https://llamahub.ai/?tab=tools) has ideas for agents
+- Notes on LLM Fine-Tuning
+  - Rouge 2 and Bleu and such metrics are NOT good. Create you own benchmarks
+  - Non-PEFT fine tuning needs 6X GPU RAM. Optimizer states, Gradient, Activations are the overhead. PEFT is about tuning a subset of parameters.
+  - LORA adds additional weights without updating the model. It's a low rank matrix multiplication. You can change these adapters in runtime. Saves space. Fast to train
+  - Quantization: Stick to bitsandbytes or AWQ (may be a bit better)
+  - QLORA = Quantization + LORA
+  - Predibase has open-sourced Lora Adapters in "Lora Land". Existing adapters are pretty good.
+    - ghcr.io/predibase/lorax:main Docker image works on Docker compose to run locally. `devices:` on Docker Compose lets you specify NVIDIA GPU devices
+    - Locust is a HTTP load testing lib in Python
+  - Techniques for inference optimization
+    - Dynamic adapters: Loads right LORAX adapters WHEN a request comes in
+    - Multi-adapter batching: Process all inputs in parallel on the same GPU, but different users are post-processed using different adapters
+- Notes from a 4-hour flight:
+  - [What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/)
+    - Strategy
+      - IS IT TOO HARD/EXPENSIVE? Log it. LLMs are getting cheaper and better.
+      - WILL OPENAI BUILD IT? If so, wait for it instead of building.
+      - HAS A STARTUP BUILT IT? If so, use it instead. It's a generic use case there's no point re-inventing.
+      - FOCUSED USE CASES over generic. Build trust by starting small.
+      - Tools for LLM Ops (feedback): LangSmith, Log10, LangFuse, W&B Weave, HoneyHive #TRY
+      - Human in the Loop is about humans evaluating model outputs. That's different from AI in the loop, human in the center, where AI accelerates human output (like Github Copilot)
+    - Operations
+      - CHECK EMBEDDINGS DRIFT over time. Users might be input-ing different things than before.
+      - LOG AND REVIEW everything.
+      - [Instructor](https://github.com/jxnl/instructor) coaxes structured output from LLM APIs. #TRY
+      - IMPLICIT FEEDBACK collection is easy. Just let users edit stuff. #TRY
+    - Tactical
+      - Try n-shot prompting (n=5-12) before bigger models. #TRY
+      - Always structure for output: Markdown, XML/HTML tags.
+      - Combine RAG with Keyword search. It reduces user frustration in edge cases.
+      - Prefer multiple small prompts to one big prompt. Do X. Then Y. Then Z.
+      - Jitter prompts for diversity beyond temperature.
+      - LLM-as-judge works better when comparing outputs (not rating 1 output). Keep length similar (LLMs prefer wordiness). Swap order and compare. Allow for ties. Ask for reason FIRST.
+  - [Hermes: A Text-to-SQL solution at Swiggy](https://bytes.swiggy.com/hermes-a-text-to-sql-solution-at-swiggy-81573fb4fb6e)
+    - "Hermes performed significantly better for charters with well-defined metadata and a relatively smaller number of tables."
+    - "We collect feedback on the accuracy of the returned query from stakeholders directly within the Slack bot."
+  - [How I use AI](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html) and "Replacing my right hand with AI"
+    - EMBED in every app/workflow. E.g. Auto-fix spellings. Auto-review code. Auto-ask LLM on errors and apply patch! Auto-search for answer, assess, continue.
+    - PERSIST. Stick with the LLM to the end. Don't fix it yourself. It's faster. #TRY
+      - INTERVENE FAST. If an LLM can't solve it by itself in 2 tries, it needs in-depth help.
+    - APP-IFY one-off tasks. Disposable tools. "Write web-app to convert JSON to tab-delimited." "Extract fields as a table." "Diff JSON." #TRY
+    - BEST language/frameworks preferred. CUDA in Python. Rust. C. Raspberry Pi. Arduino. Bluetooth. Modern ESM/JS. #TRY
+    - TEACH examples. "Here's the LLM Foundry API." "Here's how to use gramex.data."
+    - DUMP entire code. Models can handle it. Refactoring to SQLAlchemy 2, Pandas 2. API Documentation. Test case generation. #TRY
+    - ASK for features & packages. Docker without root access. GPU access inside docker. Windows CLI-only C++ compiler.
+    - TEST CASE writing. #TRY
+    - SPEC IN DETAIL. Use these libraries. Write like this: code example.
+    - SPEC _USAGE_ in detail.
+      - "I will just pipe it into sqlite", or "I will just run `ffmpeg -i filename [YOUR OPTIONS]`.
+      - Describe the UI, API input/output, data structure, and internal data structure.
+    - HELP on usage. "ffmpeg to get audio.mp3".
+  - [My benchmark for large language models](https://nicholas.carlini.com/writing/2024/my-benchmark-for-large-language-models.html)
+    - LLM(text) is a useful function to have in JS and Python too. Useful as a simple `pip install llmfoundry`
+    - Allow images, files in LLM()
+  - Current list of #IMPOSSIBLE (or hard) things for LLMs
+    - Translate technical documents to Dutch -- because they don't understand the technical terms well
+    - Translate large documents (JSON to XML, English to Chinese, Python to Rust, Wrong to right spelling) -- because the output tokens are limited
+- [micro-agent](https://github.com/BuilderIO/micro-agent) generates test cases first when asked to build an app. Then it iterates until the test cases pass.
+- Alternative interfaces to YouTube: Piped.video, CloudTube, Invidious, NewPipe, FreeTube
+- [Deepseek Context Caching](https://platform.deepseek.com/api-docs/news/news0802/) reduces price to 1.4 cents/MTok for portions of chat messages that are repeated. That's a 10X reduction for long conversations!

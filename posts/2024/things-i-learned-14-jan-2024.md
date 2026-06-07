@@ -1,0 +1,95 @@
+---
+title: Things I Learned - 14 Jan 2024
+date: 2024-01-14T00:00:00+00:00
+categories:
+  - til
+---
+
+This week, I learned:
+
+- Transparent LED screens will be useful in windshieds to display maps as we drive.
+- Marimo is a reactive alternative to Jupyter notebooks that saves files as pure Python.
+- To run an org-specific chatbot on your own LLM: (via [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt))
+  - [opengpts](https://github.com/langchain-ai/opengpts) - but it doesn't support auth
+  - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - but Supabase is hard to install
+  - [anse](https://github.com/anse-app/anse) - but it doesn't support auth
+  - [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - but it doesn't support auth
+- [Python 3.13 gets a store and copy JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+- If an npm package adds another package as a dependency with version "\*", target package cannot unpublish **ANY** version! So this is a way of freezing EVERY repo and preventing unpublishing of EVERY version -- an unintentional flaw in the npm design. [via](https://youtu.be/xnPNKRs5TVo)
+- [Quantization is better than fewer parameters](https://github.com/ggerganov/llama.cpp/pull/1684). So prefer high parameters (e.g. 70b) and quantize to 4-bit.
+- [In-browser playgrounds](https://antonz.org/in-browser-code-playgrounds/) has compiled WASM versions of Python, PHP, SQLite.
+- Happiness Lab podcast. Happiness lessons of the ancients
+  - Talking to strangers makes us happy
+  - Giving money makes us happy
+  - Free time makes us happier than working hard
+- Tangi
+  - Domain-specific models being beaten by general purpose models is a phase. It will reverse towards domain.
+    - AI will potentially help build and understand domain-specific models
+  - Models are evolving so rapidly that humans cannot interpret models. We need a process to interpret models!
+  - xAI, Responsible AI, Physics-guided or Knowledge-guided models (called grey box models) are therefore a trend
+  - CS papers
+    - Don't review other papers, certainly not other fields.
+    - Disregard measurement errors.
+  - When CS papers get applied to climate, manufacturing or biology, we'll worry about
+    - Interpretability
+    - Domain-specific mechanics. (Introduce that into the training as a constraint.)
+      - Many domain experts are using AI to UNDERSTAND their process. Need to explore
+    - Uncertainty
+  - IB adds context to make learning applicable. But that distracts from the core learning, and if there's a gap it widens
+  - Most data science courses teach "Python science", not data science. They teach a bunch of models. They don't teach how even one kind of model e.g. LSTM works.
+  - Most coaching programs today teach FAMILIARITY with problems, not critical thinking
+  - Most of current education will become redundant thanks to LLMs. For students AND teachers
+    - Coding will become irrelevant
+    - Cognitive thinking, reasoning, human relations, systems thinking will become more relevant
+    - Troubleshooting will become more important. AI is not self-diagnosing. I would hire someone who can figure out something is going wrong, diagnose what's going wrong, and fix it
+    - #TODO Hire for troubleshooting ability. Give a Q, an A, and ask them to figure out if it's wrong, why, and fix it
+  - All my exams and quizzes are open book, open ChatGPT. Onus is on me to give a problem that forces you to think.
+    - #TODO Write a question paper that is ChatGPT proof.
+  - Exploring AI could be a ToK subject. "How to interact with an AI?"
+    - We need a manual on how to use AI. Like Simon Willison says
+    - Content doesn't suffice. You need pedegogy. What to serve you at what time, how, how to assess. Lots of businesses are filling this gap
+    - Students get great confidence when a teacher points to online content and says, I"ll tell you WHAT to see" and COMPLEMENTS that in their class
+  - "The map is not the territory." Most people confuse sample mean for the actual.
+  - #ASK Parameter estimation -> Signal estimation -> State estimation
+  - Stats vs DL differ in that
+    - There is no notion of a defined "truth". Hence reliability is not measurable
+    - Parameters have no value. Hence interpretability is ignored.
+  - #TODO Read 2020 National Education Policy. It's quite modern.
+    - We need a manual on self-learning too
+    - Listening is not learning. You know only if you implement.
+    - Levels for students:
+      - I can solve it.
+      - I can explain why it works.
+      - I can find alternatives.
+      - I can apply it to a new area, reformulating (requires imagination.)
+    - For teachers, you also need:
+      - Responsible learning (extra careful about what to teach and how to teach, to exceite them, to teach at THEIR level).
+      - Show the universality and connecting to other concepts. E.g. noise reduction with FT is like using water to remove dirt. Transform to water domain, remove dirt, transform back to air domain. It's better than dusting clothes to remove clothes. Washing machine programs are just different models of removing noise in the water domain.
+  - Teach people who WANT to learn **AND** who will APPLY it long-term. That's what maximizes impact
+    - Grad students are more satisfying that way.
+    - Else, it is WASTED effort. (Not that it's a bad thing for the student, but the effort _IS_ wasted for the teacher)
+  - Therefore, I believe students should have general engineering first, and let students pick specialization later. Some universitie are doing that.
+  - #THINK Students remember my philosophy more than my content. We impart character, not just knowledge.
+  - Astrology and horoscopes serve a different function. They provide explainability, not predictive ability. As the world becomes less explainable, the need for astrology will grow.
+    - Explainability is about creating STORIES that fits data plausibly. It has nothing to do with data or truth.
+    - Explainability and predictive ability and reproducibility are all different. Maybe, Science is about the latter two, less about explainability.
+    - Astrology is a model. The map is not the territory. It's an explanatory, not a predictive model.
+    - #THINK Therefore, my lessons are just explanations. Stats about experiments are STILL explanations. They are NOT reproducible or predictive. Hence not yet science
+  - The meaning of our life is the transformation we undergo in our lives
+    - #TODO Read "The Journey of Souls" by Michael Newton. A hypnotherapist
+  - #TODO Try regression therapy / hypnosis. Record it and listen to it. Just for fun!
+- Rohini Deshpande
+  - Slam book was the Facebook of the 1900s
+  - Prepared mind is an extremely powerful tool for learning. Practice prepared mind
+  - When women drop out of education or career, that is also a waste from the teacher and system perspective
+  - The time for career growth is the same as child bearing time for women. That's not true for men. But child rearing can be done by either. That's not recognised. It's 0K for a man to raise the child and make the home and 0K to treat that as the default
+  - Since men are more senior, it's usually logical for them to stay in their jobs. That's a systematic bias. When seniors advise women to step back. they respect it. That widens the barrier. Why not eliminate that situation?
+  - Be proud of the working women in the family
+  - Stats are just a symptom. They don't explain the cause. (Map is not the territory.) Explanations are what really helps us fix the cause. Hence stories are important.
+  - Read Tinker Tailor Soldier Spy
+- RV Athimber health tips:
+  - Eat foods with low glycemic index
+  - Eliminate free salt completely
+- [Voyage AI Embeddings](https://docs.voyageai.com/docs/embeddings) have a [higher quality, similar price](https://blog.voyageai.com/2025/01/07/voyage-3-large/) compared to OpenAI embeddings. There's a clear benefit to replacing `text-embedding-3-large` with `voyage-3-lite`. There's a 200 MTok free tier currently.
+- [mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) cleverly loads only the model layer required at any point, letting you run Mixtral 8x7b on Colab Free and on 16GB GPUs. [This notebook](https://colab.research.google.com/gist/chigkim/5521120118fd7533a224b36a3167972f/mixtral.ipynb) runs on Colab Free too.
+- [CodeGPT](https://docs.codegpt.co/) is an alternative to Github Copilot that can use any LLM.

@@ -7,6 +7,7 @@ categories:
 wp_id: 3352
 description: "A Pune hair salon named after Calvin and Hobbes becomes a delightful excuse to connect barbers, theology, fandom, and comic nostalgia."
 keywords: ["Calvin and Hobbes", "salon", "Pune", "fandom", "humor", "signboards"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6930709593517944832/
 ---
 
 ![Calvin & Hobbes Salon](/blog/assets/calvin-and-hobbes-salon-pune.webp)

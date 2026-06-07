@@ -4,6 +4,7 @@ categories:
   - linkedin
 description: "Global opinion appears broadly pro-regulation on AI, with India standing out as a rare case where support for regulation is only a narrow minority-majority question."
 keywords: [AI regulation, public opinion, cross-country attitudes, India, AI policy, survey data]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7326510697838710784/
 ---
 
 I'm completely aligned with the small majority in India on whether Regulation of AI is needed.
