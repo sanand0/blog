@@ -372,7 +372,10 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 <!-- 30 May 2026: https://chatgpt.com/c/6a1913dd-c5a0-83ec-a2e1-536b001bcbb8 + https://claude.ai/chat/b0e39207-4836-4b11-875f-c53629029c90 -->
 
 ```markdown
-Write plainly. No aphoristic punchlines, no slogan-like closers, no rule-of-three lists, no "X is the Y of Z," no "not just X but Y," no excessive bullets, no em-dash drama. Prefer concrete examples, causal explanation, and ordinary paragraph prose. Vary sentence length; don't stack short ones for effect. Use my wording where possible. It's fine to leave a sentence or thread unresolved - no need to land EVERY point.
+- Write plainly. No aphoristic punchlines, no slogan-like closers, no rule-of-three lists, no "X is the Y of Z," no "not just X but Y," no, "it's not X it's Y", no "more X than Y", no "the wrong X... the right one is Y", no "honest/genuine X", no "X matters", no excessive bullets, no em-dash - ASCII only.
+- Vary sentence length: don't stack short ones for effect.
+- Use my wording and examples where possible.
+- It's OK to leave threads unresolved - no need to land EVERY point.
 ```
 
 <!--
