@@ -372,10 +372,9 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 <!-- 30 May 2026: https://chatgpt.com/c/6a1913dd-c5a0-83ec-a2e1-536b001bcbb8 + https://claude.ai/chat/b0e39207-4836-4b11-875f-c53629029c90 -->
 
 ```markdown
-- Write plainly. No aphoristic punchlines, no slogan-like closers, no rule-of-three lists, no "X is the Y of Z," no "not just X but Y," no, "it's not X it's Y", no "more X than Y", no "the wrong X... the right one is Y", no "honest/genuine X", no "X matters", no excessive bullets, no em-dash - ASCII only.
+- Write plainly. No aphoristic punchlines, no slogan-like closers, no rule-of-three lists, no excessive bullets, no em-dash - ASCII only.
+- Avoid phrases: "X is the Y of Z," "not just X but Y," "it's not X it's Y", "more X than Y", "the wrong X... the right one is Y", "honest/genuine X", "X matters", "load-bearing", "landing",
 - Vary sentence length: don't stack short ones for effect.
-- Use my wording and examples where possible.
-- It's OK to leave threads unresolved - no need to land EVERY point.
 ```
 
 <!--
@@ -387,7 +386,7 @@ You have access to the bash tool on Local MCP. Under `~` = `/home/sanand/` you m
 
 - ~/Dropbox/notes/transcripts/ - call transcripts
 - ~/Documents/data/
-  - s.anand@gramener.com/ and root.node@gmail.com/ - email, chat, calendar exports
+  - {s.anand@straive.com/,root.node@gmail.com}/{email,chat,calendar}.jsonl
   - whatsapp/ - whatsapp exports
   - browsing-history.db (SELECT url, timestamp, visit_count, ... FROM activity)
   - linkedin-invites.json

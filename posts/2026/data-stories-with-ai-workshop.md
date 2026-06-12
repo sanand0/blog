@@ -5,6 +5,8 @@ categories:
     - llms
     - education
     - visualization
+description: Join my workshop on June 13 to master data storytelling using ChatGPT and Claude. You'll learn to find datasets, extract insights, and create visualizations, regardless of your technical background or journalism experience.
+keywords: [chatgpt plus, claude pro, data storytelling, data visualization, llms, data journalism]
 ---
 
 On Sat 13 Jun 2026 at 3 pm, I'm conducting an online workshop on "Data Stories with AI".
