@@ -203,3 +203,7 @@ BTW, my moment of [AI psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis
     });
   })();
 </script>
+
+---
+
+**14 Jun 2026**: [SemiAnalysis](https://x.com/SemiAnalysis_/status/2064815044085318040) tested and found that a $20 Claude Pro gives you ~$400 and a $100 Claude Max gives you ~$2,000 of API usage. For ChatGPT, the numbers are ~$700 and $3,500.

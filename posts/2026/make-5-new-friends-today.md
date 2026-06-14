@@ -3,6 +3,8 @@ title: Make 5 new friends today
 date: 2026-06-13T21:04:54+05:30
 categories:
   - education
+description: I told IITM graduates that grades and jobs are depreciating assets. Focus instead on friendships—they are appreciating assets that grow more valuable over time. Make new friends today by simply talking to the people sitting right next to you.
+keywords: [iitm, networking, career advice, appreciating assets, social capital, relationship building]
 ---
 
 Here's my address to the graduating class the [IITM BS Program](https://study.iitm.ac.in/) today:
@@ -30,3 +32,7 @@ And in the AI era, this is an asset that will appreciate even more.
 Talk to the person to your left. Your right. In front of you. Behind you.
 
 **Make five new friends today.**
+
+---
+
+**UPDATE**: Actually, I said "make _three_ new friends today", not five. When I typed this out, my fingers wrote five. I don't know why.

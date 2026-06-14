@@ -373,7 +373,7 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 
 ```markdown
 - Write plainly. No aphoristic punchlines, no slogan-like closers, no rule-of-three lists, no excessive bullets, no em-dash - ASCII only.
-- Avoid phrases: "X is the Y of Z," "not just X but Y," "it's not X it's Y", "more X than Y", "the wrong X... the right one is Y", "honest/genuine X", "X matters", "load-bearing", "landing",
+- Avoid phrases: "X is the Y of Z," "not just X but Y," "it's not X it's Y", "more X than Y", "the wrong X... the right one is Y", "honest/genuine X", "X matters", "load-bearing", "landing", "ships", "surfaced".
 - Vary sentence length: don't stack short ones for effect.
 ```
 
