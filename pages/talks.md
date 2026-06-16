@@ -26,7 +26,7 @@ Some of the events I've spoken at are:
 
 If you need a short bio to introduce me, you're welcome to modify this.
 
-> Anand is an LLM psychologist at [Straive](https://straive.com/). His data stories company, [Gramener](https://gramener.com/), was acquired by Straive, where he researches AI and publishes demos. He's listed among [India's top 10 data scientists](https://analyticsindiamag.com/top-10-data-scientists-in-india-2015/) and [AI influencers](https://analyticsindiamag.com/ai-highlights/indias-100-most-influential-people-in-ai/) and is a regular TEDx/Pycon speaker.
+> Anand is an LLM psychologist at [Straive](https://straive.com/), where he researches AI and publishes demos. He co-founded [Gramener](https://gramener.com/), a data stories company, which was acquired in 2023. He teaches [Tools in Data Science](https://tds.s-anand.net/) at [IIT Madras](https://study.iitm.ac.in/ds/course_pages/BSSE2002.html). He's among [India's top 10 data scientists](https://analyticsindiamag.com/top-10-data-scientists-in-india-2015/) and [AI influencers](https://analyticsindiamag.com/ai-highlights/indias-100-most-influential-people-in-ai/) and also a regular TEDx/Pycon speaker.
 >
 > Anand is an alumnus of IIM Bangalore, IIT Madras, London Business School, IBM, Infosys Consulting, Lehman Brothers, and BCG.
 >
