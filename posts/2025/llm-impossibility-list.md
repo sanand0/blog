@@ -1,6 +1,6 @@
 ---
 date: "2025-07-01T08:53:45Z"
-updated: 2026-04-16T10:27:04-07:00
+lastmod: 2026-04-16T10:27:04-07:00
 categories:
   - llms
   - linkedin

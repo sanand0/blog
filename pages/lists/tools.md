@@ -1,7 +1,7 @@
 ---
 title: Tools
 date: 2025-04-15T00:00:00Z
-updated: 2026-05-28T18:08:53+08:00
+lastmod: 2026-05-28T18:08:53+08:00
 description: I evaluated software tools across domains like URL shorteners, databases, and Markdown parsers. I’ve shared my top picks (🟢) and runners-up (🟡) for MP3 tagging, PDF optimization, and LLM orchestration to help you streamline development workflows.
 keywords: [software-evaluation, clis, databases, llm-tools, markdown, pdf-optimization, developer-experience]
 ---
@@ -77,6 +77,22 @@ Tools to include if missing - based on my usage frequency
     520 cwebp
 
 -->
+
+## Online tools
+
+- [Squoosh](https://squoosh.app/) compresses images
+- [Edit PDF](https://smallpdf.com/edit-pdf) edits PDFs
+- [Photopea](https://www.photopea.com/) edits images | [Pixlr](https://pixlr.com/editor/)
+- [WordCount](https://wordcount.com/) counts words in text, as well as reading time
+- [I Love PDF](https://www.ilovepdf.com/compress_pdf) compresses PDFs
+- [WebsocketKing](https://websocketking.com/) tests websockets
+- [Paste HTML/Rich text as Markdown](https://euangoddard.github.io/clipboard2markdown/)
+- Markdown to HTML: [Dillinger.io](https://dillinger.io/) | (https://markdowntohtml.com/)
+- [Vert](https://vert.sh/) for audio/video/document conversations
+
+Archive:
+
+- [Piped.video](https://piped.video/) is a YouTube player. Like CloudTube, Invidious, NewPipe, FreeTube
 
 ## Agent platforms, 01 Jun 2026
 

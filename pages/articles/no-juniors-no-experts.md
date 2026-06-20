@@ -1,6 +1,6 @@
 ---
 title: No juniors, no experts?
-date: Wed, 03 Jun 2026 23:28:48 GMT
+date: 2026-06-03T23:28:48+00:00
 description: As AI automates entry-level work, I examine how to build expertise when junior roles vanish. I suggest switching to system design for low-risk tasks and using AI as a high-fidelity simulator for critical, high-stakes skill development.
 keywords: [ai automation, skill development, entry-level jobs, ironies of automation, apprenticeship, simulation-based training, risk management]
 ---

@@ -46,7 +46,7 @@ ChatGPT began with gyaan - which I promptly ignored:
 
 For some of these, I'm absolutely the worst person to execute. ClassPass? Spa? Salon? I don't even know the difference between them.
 
-But 1.2 and 2.4 were interesting. So, after a few iterations with ChatGPT, I woke up the next morning with:
+But 1.2 and 2.1 were interesting. So, after a few iterations with ChatGPT, I woke up the next morning with:
 
 > Today's our 24th anniversary. For the next 24 hours, I'm going to knock off 24 things from your TODO list.
 

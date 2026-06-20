@@ -6,6 +6,7 @@ categories:
   - education
 description: Join my workshop to watch AI tackle real IITM exams live. I’ll show you how to move beyond answer-seeking to using LLMs as Socratic sparring partners for catching errors and deepening your actual learning.
 keywords: [iitm, coding agents, socratic method, llm hallucinations, exam strategy]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7471031411936874496/
 ---
 
 At 2 pm IST today (Fri 12 Jun 2026), I conducted a workshop at [Paradox, IITM](https://www.iitmparadox.org/workshops) - at [DOMS 101](https://doms.iitm.ac.in/).

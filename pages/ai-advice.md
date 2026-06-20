@@ -1,7 +1,7 @@
 ---
 title: AI Advice
 date: 2026-02-08T23:04:11+08:00
-updated: 2026-04-25T13:08:50-04:00
+lastmod: 2026-04-25T13:08:50-04:00
 description: I detail how I use AI 50 times daily to build an intuitive reflex. Key strategies include 'vibe coding,' having agents interview me for clarity, and maintaining an AGENTS.md file for structured collaboration and skill growth.
 keywords: [vibe coding, agents.md, meta-prompting, context engineering, model context protocol, digital exhaust, synthetic data]
 ---

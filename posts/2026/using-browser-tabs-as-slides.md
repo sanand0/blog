@@ -1,6 +1,7 @@
 ---
 title: Using browser tabs as slides
 date: '2026-02-14T17:12:20+08:00'
+lastmod: '2026-06-18T14:23:18+05:30'
 categories:
 - how-i-do-things
 - llms
@@ -46,3 +47,7 @@ That let me create a _far_ richer presentation.
 The "slides" allow me to add structure and remind the audience and me about the key points.
 
 For all the bad press PowerPoint receives, I don't think presentations are a bad format. But today, there are so many more ways of presenting that using slideshow software seems a bit outdated.
+
+---
+
+**UPDATE 18 Jun 2026**: My talks in the last few months use this technique almost without exception.

@@ -25,12 +25,10 @@ For each meeting, output this structure:
 
 > **⚡ [One sentence, ≤25 words: what this meeting is really about, what you & the audience really need to take away, and therefore what you need to do]**
 
-- **Your angle**: [My top priorities, point of view, what framing the audience needs; what I'll learn, build, or test; what decision they need to unblock; ...]
-- **Situation**: [What's actually going on for them right now? What do they want from this meeting? Not the stated agenda, but the real one?]
-- **Opener**: [A specific sentence to open with.]
-- **Agenda**: [Top things to bring up, demonstrate, ask, drive towards, or walk away with]
-- **Pending**: [OPTIONAL: Single most important open action item from latest transcript/chat/email.]
-- **Watch for**: [OPTOINAL: One hidden risk or awkward dynamic. One pre-emption tactic.]
+- **What happened**: [Story so far, recent meetings, what's pending, ...]
+- **What to do**: [My top priorities, point of view, what framing the audience needs; what I'll learn, build, or test; what decision they need to unblock; ...]
+- **What to remember**: [OPTIONAL: Pending actions, things I should not miss]
+- **Questions**: [OPTIONAL: If you're particularly unclear about this meeting, ask me 1-2 questions that most narrow the direction]
 
 ---
 
@@ -41,9 +39,8 @@ Rules:
   - Web search for people/company context
   - Chats (Google Chat, WhatsApp) and emails (sent, too): ALWAYS check for latest context
 - Re-scan for action items, decisions, or open threads, on the people + topic and report the latest status.
-- Weight transcript/chat/email and discount old. 5+ days is likely stale.
+- Prioritize most recent interactions. Older than 1 week is likely stale. Search across chat/email/transcript for latest interactions/context.
 - Encode how I tend to behave with the person, and how the person tends to behave, based on past interactions.
 - Each card must be readable in 60 seconds.
-
-Since you won't have full context, end with the most important questions I can answer for you to sharpen your briefing.
+- Use VERY simple language.
 ```

@@ -177,15 +177,22 @@ What are the core concepts, i.e. top NON-INTUITIVE well-established lessons/prin
 Draw this as a full-color explainer comic page (portrait) - sequential explanation, friendly narrator, diagrams embedded inside panels, visual metaphors, self-aware captions, and clear cause-and-effect storytelling.
 Style: expressive characters, comic-style ALL CAPS, vibrant modern colors, clear visual hierarchy.
 Prefer pictures over words. Use recurring visual metaphors so the reader understands the idea even while skimming.
-Think about the most important points, structure it as a memorable story.
+
+First, write a memorable storyline that captures the most important points to convey.
+Just reading the storyline should communicate the entire message unambiguously.
+Draw each storyline element (typically a sentence, but sometimes a continued phrase, or multiple sentences) as a panel's caption. (If there are 8 panels, there must be 8 storyline elements)
+Each panel's image should support and strengthen its caption - and reinforcing past panels / anticipating future panels where helpful.
 ```
 
 ## Comic strip
 
 ```markdown
-Draw this as a simple black and white line drawing comic strip with minimal shading.
+Draw this as a simple black and white line drawing comic strip (1:1) with minimal shading.
 Single panel.
-Use clear speech bubbles with capitalized text.
+Style: expressive characters, comic-style ALL CAPS.
+Prefer pictures over words.
+Think about the funniest point and convey the INTENT.
+The strip itself should make readers laugh.
 ```
 
 ## Demo explanation
@@ -248,8 +255,6 @@ Plan like an expert. In this context, first think about:
 - What questions would an expert ask that a beginner would not know to?
 - What problems / failures would an expert anticipate that beginners may not be aware of?
 - What powerful & relevant mental models would an expert apply in this context?
-
-If my intent is unclear, ask 1–3 questions per round that most narrow the direction. Stop after 2–3 rounds, or skip questions entirely if my needs are already clear.
 ```
 
 I dropped the following:
@@ -267,6 +272,29 @@ Paste [Google Meet captions](https://tools.s-anand.net/gmeetcaptions/) and add t
 Think about my objectives. Based on that, how should I participate in this discussion? What should I say - verbatim - and why?
 Here is the Google Meet captions (with lots of phonetic errors).
 ```
+
+## Hacker News Thread Summary
+
+```markdown
+Help me learn from this discussion thread. Share these sections:
+
+- **What it's about**: Explain the core topic in 2-3 sentences.
+- **Themes**: Top 3-6 main recurring themes.
+- **Expert knowledge**: Top three non-obvious and useful hidden heuristics, practical wisdom, caveats, or "things experienced people know".
+- **Misconceptions**: Top three claims - plausible but oversimplified, unsupported, or disputed.
+- **Open questions**: Top three unresolved important questions.
+- **What to learn**: Top three takeaways / actions for me, knowing what you know of me and my objectives.
+
+Style:
+
+- Avoid overlap, e.g. skip misconceptions that are covered in expert knowledge / themes.
+- Be concise but not shallow. Use plain, simple, clear language.
+- Prefer crisp bullets over long paragraphs.
+- Use **bold phrases** for scannability. Reading just the bold text should give a rough summary.
+- No references required.
+```
+
+<!-- Evaluated on GPT 5.5 High - 17 Jun 2026. https://chatgpt.com/c/6a32b2d0-6a3c-83e8-ab4c-334bfe093759 -->
 
 ## Interactive explanation
 
@@ -348,7 +376,7 @@ Plan the design and layout carefully before coding. Sketch the information archi
 ## Interview me
 
 ```markdown
-If my intent is unclear, ask 1–3 questions per round that most narrow the direction. Stop after 2–3 rounds, or skip questions entirely if my needs are already clear.
+If my intent is unclear, ask me questions that most narrow the direction (max 1-3 per round until you're clear).
 ```
 
 <!-- https://claude.ai/chat/ab468619-5951-4602-bb07-6a9cd1f0a3e0 + https://chatgpt.com/c/6a1684eb-010c-83ec-8799-969901df5c21 -->
@@ -505,4 +533,20 @@ Keep the music MINIMAL, NO intro/outro music, and focus ENTIRELY on the voice.
 Think about whose style of writing would be the most engaging and informative to write the following content.
 List options, mentioning their style, why they're suitable, and pick the best, with reason.
 Then rewrite it in their style.
+```
+
+## Trending repos
+
+`chatgpt --file ~/code/til/trending-repos.tsv $PROMPT`
+
+```markdown
+This TSV has trending GitHub repos extracted roughly weekly.
+🟣 is what's un-evaluated,
+🟢 is what I already use,
+🔵 I want to evaluate later,
+🔴 I don't plan to use,
+⏺️ I've been meaning to evaluate now but haven't yet.
+
+Look at the repos added in the last 1-2 weeks.
+Based on my objectives and interests, which should I be paying closer attention to?
 ```
