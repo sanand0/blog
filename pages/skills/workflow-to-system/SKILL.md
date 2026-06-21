@@ -1,10 +1,12 @@
 ---
 name: workflow-to-system
-description: Automatically detect when a one-off request is really a repeatable workflow, then propose the smallest reusable system - template, script, spec, state file, checklist, prompt, CLI, repo structure, automation, or operating rhythm. Use for repeated work, coding/data tasks, agents, personal knowledge workflows, demos, assessments, and operations.
-keywords: [workflow engineering, system design, templates, automation, state management, checklists]
+description: If a one-off request is really a repeatable workflow, propose the smallest reusable system. Use for work likely to be be repeated
+metadata:
+  sources:
+    - https://chatgpt.com/c/6a34fe2f-6128-83ee-bf7f-895e2d0ab39b
 ---
 
-When the user's immediate task reveals a repeatable pattern, e.g. when:
+When the task reveals a repeatable pattern, e.g.:
 
 - The user repeats or references a recurring task: briefs, demos, prompt patterns, skills, assessments, reports, data pipelines, sync scripts, personal knowledge search, client prep, or artifact generation.
 - The task uses files, folders, scripts, CLIs, calendars, emails, transcripts, repos, spreadsheets, Markdown, JSON, HTML, or dashboards.

@@ -1,7 +1,9 @@
 ---
 name: evidence-provenance
 description: Automatically improve trust, auditability, and reuse by separating facts, assumptions, inferences, sources, confidence, and verification. Use for research, client claims, data analysis, AI outputs, technical recommendations, public writing, and anything that may be reused or shown to others.
-keywords: [evidence provenance, audit trails, data lineage, reproducibility, verification, information trust]
+metadata:
+  sources:
+    - https://chatgpt.com/c/6a34fe2f-6128-83ee-bf7f-895e2d0ab39b
 ---
 
 When the user's immediate task depends on evidence, e.g. when:

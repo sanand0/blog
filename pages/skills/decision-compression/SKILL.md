@@ -1,7 +1,9 @@
 ---
 name: decision-compression
 description: Automatically compress broad answers into the decision, recommendation, rationale, tradeoff, and next action. Use for recommendations, prioritization, research synthesis, strategy, planning, reviews, rankings, and large-context requests.
-keywords: [decision quality, cognitive load, trade-offs, recommendation framework, prioritization, actionable insights]
+metadata:
+  sources:
+    - https://chatgpt.com/c/6a34fe2f-6128-83ee-bf7f-895e2d0ab39b
 ---
 
 When the user's immediate task could sprawl, e.g. when:
