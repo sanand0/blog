@@ -3,8 +3,9 @@ title: Duet after death in Thamizh Padam 2
 date: 2026-06-21T22:05:33+08:00
 categories:
   - funny
+description: I discovered the real-world inspiration for Tamizh Padam 2’s meta-joke about singing after a death. It parodies Jiiva’s film Ko, where a misplaced duet remained simply because producers didn’t want to waste the expensive production costs.
+keywords: [tamizh padam 2, ko, jiiva, movie parody, kollywood, meta-humor]
 ---
-
 
 In [Tamizh Padam 2](https://en.wikipedia.org/wiki/Tamizh_Padam_2) (2018), there's a parody where Jiiva's car hits Manobala and kills him:
 
