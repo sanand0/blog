@@ -70,3 +70,9 @@ The interesting meta-pattern is how this sort of past-forecast analysis can be d
 - **[ChatGPT](https://chatgpt.com/share/6a389d6e-4180-83e8-a759-95734a64b000)**: OK
 
 ... and [here is the data visualization](https://sanand0.github.io/datastories/imf-gdp-forecast-errors/).
+
+<!--
+Ideation: https://claude.ai/chat/0943a775-b971-41f5-b578-3bf9319642a6
+Data visualization: https://chatgpt.com/c/6a3863f4-6798-83ee-ae5c-6d17ee525ce6
+Data analysis: https://chatgpt.com/c/6a387079-6dc0-83ee-ac9e-df650426ddd1
+-->
