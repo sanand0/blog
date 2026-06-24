@@ -5,6 +5,8 @@ categories:
   - data
   - visualization
   - llms
+description: I used LLMs to audit IMF GDP forecasts, revealing a systematic optimistic bias for future growth. You can use AI to fact-check institutional datasets, identify specific country-level errors, and generate interactive visualizations to expose hidden patterns.
+keywords: [imf, gdp growth, forecast accuracy, data visualization, llms, world economic outlook]
 ---
 
 The IMF forecasts GDP growth every year. Their forecasts for the current year are slightly low. Their forecasts for the next year are slightly high. After that, it remains high.

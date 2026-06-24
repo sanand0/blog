@@ -4,6 +4,8 @@ date: 2026-06-22T20:15:22+08:00
 categories:
   - coding
   - llms
+description: Use Z3 to formally verify code by finding counterexamples, such as integer overflows in midpoint calculations. Combine Z3 with ChatGPT to automate hunting for edge cases and potential bugs in production libraries like xarray and branca.
+keywords: [z3, formal verification, smt solver, integer overflow, python, chatgpt]
 ---
 
 At the [PyCon SG Education Summit](https://pycon.sg/edusummit.html) today, [Melvin](https://www.linkedin.com/in/melvinzhang/)'s lighting talk on "Writing Proofs in Python" began with a subtle bug in this mid-point calculation (often used in binary search or sort) in languages like Java, C/C++, Go, etc.

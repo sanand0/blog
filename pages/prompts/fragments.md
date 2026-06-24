@@ -191,7 +191,7 @@ Draw this as a simple black and white line drawing comic strip (1:1) with minima
 Single panel.
 Style: expressive characters, comic-style ALL CAPS.
 Prefer pictures over words.
-Think about the funniest point and convey the INTENT.
+Think about the funniest point and convey the INTENT of the point.
 The strip itself should make readers laugh.
 ```
 
