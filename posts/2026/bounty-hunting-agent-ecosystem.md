@@ -4,6 +4,9 @@ date: 2026-06-24T13:56:24+08:00
 categories:
   - llms
   - coding
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7475457228137918464/
+description: Maintainers should be aware of autonomous bounty-hunting agents. I analyze their behavior, from nudging bots to honeytraps like agent-playground. Watch for PRs with payment links or missing tests as signs of automated, low-quality "farming."
+keywords: [github, ai agents, open source, bounty hunting, honeytraps, autonomous development]
 ---
 
 ![](https://files.s-anand.net/images/2026-06-24-bounty-hunting-agent-ecosystem.avif)

@@ -89,3 +89,7 @@ When testing your own code, the ability to prove it correct or find counterexamp
 Since you don't need to know how to use these tools (AI does it for you), the cost of using these is very low.
 
 This adds a useful layer of defense against vibe coded technical debt.
+
+---
+
+**UPDATE: 25 Jun 2026**: The [pull request](https://github.com/pydata/xarray/pull/11401) I submitted to fix it was merged. But this led to a fascinating rabbit hole involving the [Bounty-Hunting Agent Ecosystem](https://www.s-anand.net/blog/bounty-hunting-agent-ecosystem/).

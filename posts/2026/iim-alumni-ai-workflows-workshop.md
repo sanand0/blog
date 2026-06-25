@@ -5,6 +5,7 @@ categories:
     - llms
 description: 'I shared six AI workflows: use Google AI Studio for transcripts, transform text into visual stories, verify risky claims with certainty flags, build reusable skills, force creative range during brainstorming, and automate personal relationship nudges.'
 keywords: [google ai studio, workflow automation, skill-building, transcription, ideation protocols, verification]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7474328099581513729/
 ---
 
 The theme of yesterday's workshop for the IIM Alumni at Singapore was **Tools and Workflows** was:
