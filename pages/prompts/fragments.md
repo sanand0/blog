@@ -400,9 +400,11 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 <!-- 30 May 2026: https://chatgpt.com/c/6a1913dd-c5a0-83ec-a2e1-536b001bcbb8 + https://claude.ai/chat/b0e39207-4836-4b11-875f-c53629029c90 -->
 
 ```markdown
-- Write plainly. No aphoristic punchlines, no slogan-like closers, no rule-of-three lists, no excessive bullets, no em-dash - use only ASCII punctuation.
-- Avoid phrases: "X is the Y of Z," "not just X but Y," "it's not X it's Y", "more X than Y", "the wrong X... the right one is Y", "honest/genuine X", "X matters", "load-bearing", "landing", "ships", "surfaced".
-- Vary sentence length: don't stack short ones for effect.
+- Write plain & simple. No aphoristic punchlines, no slogan-like closers, no rule-of-three lists, no excessive bullets, no em-dash - use only ASCII punctuation.
+- Avoid phrases: "X is the Y of Z," "not just X but Y," "it's not X it's Y", "more X than Y", "X yet Y", "the wrong X... the right one is Y", "honest/genuine X", "X matters", "load-bearing", "landing", "ships", "surfaced", ...
+- Write like we talk. Occasional grammatical errors are OK.
+- Don't stack short ones for effect. One-word fragments are OK - e.g. "Fair." "Really?" "Maybe."
+- Vary paragraph lengths, sentence lengths, and sentence organization/structure.
 ```
 
 <!--
