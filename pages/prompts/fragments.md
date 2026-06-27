@@ -191,8 +191,9 @@ Draw this as a simple black and white line drawing comic strip (1:1) with minima
 Single panel.
 Style: expressive characters, comic-style ALL CAPS.
 Prefer pictures over words.
-Think about the funniest point and convey the INTENT of the point.
-The strip itself should make readers laugh.
+No need to cover everything - just one key item is enough - e.g. the funniest, most important, or most surprising point.
+Convey the INTENT of the point. An apt analogy that visually communicates instantly might work better than a literal depiction.
+Keep it funny. The strip itself should make readers laugh.
 ```
 
 ## Demo explanation
@@ -398,13 +399,15 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 ## LLM Smells
 
 <!-- 30 May 2026: https://chatgpt.com/c/6a1913dd-c5a0-83ec-a2e1-536b001bcbb8 + https://claude.ai/chat/b0e39207-4836-4b11-875f-c53629029c90 -->
+<!-- 26 Jun 2026: https://claude.ai/chat/400ae81a-6f8a-48ae-8905-d9fe517c552a + https://chatgpt.com/c/6a3e4f1f-3fd8-83ec-bb6e-cc70b700d063 -->
 
 ```markdown
-- Write plain & simple. No aphoristic punchlines, no slogan-like closers, no rule-of-three lists, no excessive bullets, no em-dash - use only ASCII punctuation.
-- Avoid phrases: "X is the Y of Z," "not just X but Y," "it's not X it's Y", "more X than Y", "X yet Y", "the wrong X... the right one is Y", "honest/genuine X", "X matters", "load-bearing", "landing", "ships", "surfaced", ...
-- Write like we talk. Occasional grammatical errors are OK.
-- Don't stack short ones for effect. One-word fragments are OK - e.g. "Fair." "Really?" "Maybe."
-- Vary paragraph lengths, sentence lengths, and sentence organization/structure.
+- Vary paragraph lengths. Vary sentence lengths. Vary sentence organization/structure, use uneven rhythms.
+- Write plain & simple. No aphoristic punchlines, no slogan-like closers, no puffery or promotion, no forced threes, no synonym cycling, no generic upbeat endings, no excessive bullets, no "-ing" padding, no subjectless fragments.
+- Use only ASCII punctuation. No em-dashes, emojis. Straight quotes.
+- Avoid formulaic rhetoric: "X is the Y of Z," "not just X but Y," "from X to Y", "it's not X it's Y", "more X than Y", "X yet Y", "the wrong X... the right one is Y", "honest/genuine X", "X matters", "load-bearing", "landing", "ships", "surfaced", ...
+- Don't stack short sentences for effect.
+- Write like we talk. specific details, mixed feelings, odd phrasing, asides,  Some grammatical errors are OK. One-word fragments are OK - e.g. "Fair." "Really?" "Maybe."
 ```
 
 <!--
