@@ -3,6 +3,9 @@ title: Learning from Sukumar with questions
 date: 2026-06-27T22:32:11+08:00
 categories:
   - how-i-do-things
+description: I share practical wisdom I learned from Sukumar Rajagopal by asking active questions, covering how to anchor small habits, find systemic leverage points (trim tabs), and use multiple AI models as creative sparring partners.
+keywords: [sukumar rajagopal, habit formation, trim tab, active questioning, mentoring, llms]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7476623783395532801/
 ---
 
 ![](https://files.s-anand.net/images/2026-06-27-learning-from-sukumar-with-questions.avif)

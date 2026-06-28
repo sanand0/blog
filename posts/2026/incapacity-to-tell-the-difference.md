@@ -5,6 +5,7 @@ categories:
     - funny
 description: "Amidst the chaos of the AI era, I find comfort in Calvin's chaotic twist on the Serenity Prayer: praying for the incapacity to tell the difference between what I can and can't change."
 keywords: [calvin and hobbes, serenity prayer, artificial intelligence, humor]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7476143234553966592/
 ---
 
 In this age of AI psychosis, I think we have all been blessed with Calvin's prayer.
