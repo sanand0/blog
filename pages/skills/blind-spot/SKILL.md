@@ -1,6 +1,6 @@
 ---
 name: blind-spot
-description: Use when value may hide in what's NOT said, asked, measured, tested, shown, or decided: strategy, advisory/sales calls, reviews, data analysis, design, demos, AI outputs, decisions, transcript post-mortems. Skip for lookups, mechanical edits, tightly scoped execution.
+description: "Use when value may hide in what's NOT said, asked, measured, tested, shown, or decided: strategy, advisory/sales calls, reviews, data analysis, design, demos, AI outputs, decisions, transcript post-mortems. Skip for lookups, mechanical edits, tightly scoped execution."
 metadata:
   sources:
     - https://claude.ai/chat/5ac290ce-bbf5-4f65-9a34-adacf0f7974a

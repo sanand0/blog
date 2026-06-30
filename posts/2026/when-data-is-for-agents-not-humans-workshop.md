@@ -6,7 +6,6 @@ categories:
   - llms
 ---
 
-
 For thirty years, we cleaned data for humans.
 Now, agents are reading it.
 What do we do differently?
@@ -19,7 +18,7 @@ I have a few theories we'll be testing on your data. Like:
 **Logs beat docs**. Logs show actual usage - not how we're supposed to use it.\
 **Messy beats clean**. Agents can do clean & join data. You just need descriptions.
 
-I'm not fully sure how much of this is right. That's the point. We'll work it out together, on *your* data.
+I'm not fully sure how much of this is right. That's the point. We'll work it out together, on _your_ data.
 
 We'll do two things.
 
@@ -35,4 +34,4 @@ It's both online and in-person. 30 seats.
 Register at https://hasgeek.com/fifthelephant/when-data-is-for-agents-workshop/
 
 I'll share the recording.\
-Attend only if you want to actually *do* stuff live.
+Attend only if you want to actually _do_ stuff live.

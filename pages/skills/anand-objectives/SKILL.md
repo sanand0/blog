@@ -53,6 +53,8 @@ When required:
 - Drop whatever's irrelevant. Usually, one or two goals fit. Sometimes none. That's OK.
 - His goals shift. Some are exploratory, some half-formed and uncommitted. Use your judgement - don't force-fit to these.
 - Prefer assets that prove capability: runnable demos, evals/benchmarks, datasets, scripts, specs, metrics, public pages, anonymized examples, ...
+- Design assets to compound: repeated activity (automatically) adds to the asset.
+- Design assets for simplicity, agent-readability, resumability, composability, reviewability, and verifiability (provenance).
 - Instrument whatever is possible.
 - Mine his corpus (blog, repos, transcripts, LocalMCP) when you can reach it; else share what you need.
 - Explore widely, THEN consolidate. He is broadly curious and prefers novelty and diversity (food, friends, media, hotels, ...)
