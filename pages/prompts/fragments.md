@@ -25,7 +25,7 @@ Research best practices from modern research and ancient wisdom.
 ## Binding constraints and slow variables
 
 ```markdown
-Identify the binding constraints and slow variables — what governs here regardless of improvements elsewhere?
+Identify the binding constraints and slow variables - what governs here regardless of improvements elsewhere?
 ```
 
 ## Blog post
@@ -73,14 +73,14 @@ Think about the most important points, structure it logically so that the illust
 - Found Document Illustrations. The actual artifact at the center - exam paper, AI screenshot, schema update - elevated into a formal illustration with clinical labels and annotations radiating out from it. Like a museum exhibit card for an ordinary object. The humor and insight come from treating something mundane with extreme rigor. Paul Sahre does this for book covers; you'd do it for AI weirdness.
 - Annotated Datascenes. One central, beautifully rendered data visualization - not a dashboard, a single _scene_ - with narrative annotations branching from it like footnotes made visual. The annotation lines are part of the composition. Feels like a NYT graphic where the words and the chart are inseparable. The annotation IS the analysis; the chart IS the evidence.
 - Character Atlas Quadrants. A 2\*2 - but instead of labeled boxes, each quadrant has an illustrated archetype: a small character in its natural habitat. The Scientist peering into a microscope. The Troll at a keyboard. The Intern wide-eyed. The Bureaucrat stamping papers. The quadrant structure gives you the intellectual frame; the characters give you the emotional handle. Readers remember the Troll long after they've forgotten "High Scepticism + Low Humility."
-- Exploded Diagrams. Like a Haynes manual or IKEA parts sheet — a concept pulled apart in 3D isometric space, every component floating and labeled. Originally industrial, but stunning when applied to abstract ideas ("the anatomy of a good argument").
-- Alluvial / Flow Diagrams as Illustration. Sankey diagrams done with _texture and color_ — flows that look like rivers or silk fabric rather than engineering outputs. Manuel Lima territory. The width carries data; the beauty carries attention.
-- Layered Transparency Stack. Multiple semi-transparent planes stacked in 3D — each layer adds one variable or lens. Like Figma components or overhead projector acetates, but designed with intention. The _stack_ is the argument: alone each layer is incomplete, together they create the full picture.
-- Small Multiples Grid. The same visual form repeated dozens of times across a grid, each instance slightly different — Tufte's most powerful idea. Comparison becomes effortless because your eye does the work. Elegant when the repeated unit is itself beautifully designed.
-- Unit / Dot Charts. Every individual represented as one dot or icon — then arranged to show patterns. The Pudding's signature move ("film dialogue", "music by gender"). Feels democratic and humanizing. The magic is that you can _see_ every case while still seeing the aggregate shape.
-- Wayfinding System. Airport / transit signage logic applied to content — clean pictograms, bold zone colors, directional chevrons, consistent typographic scale. Massimo Vignelli's NYC subway map energy. Unusually good for showing _how to navigate_ a complex space of ideas or decisions.
-- Cross-Section Cutaways. Slice through a system and label what's inside — the NYT "how it works" graphic tradition. A submarine, a skyscraper, a workflow, an argument — all become readable when you cut them open. Technical but deeply human. The best ones feel like surgical kindness.
-- Storyboard Grids. Cinematic panels, each a moment — camera angles, cutaways, close-ups — but applied to ideas. Bergman planning a lecture. The format forces you to think in _scenes_ rather than bullets.
+- Exploded Diagrams. Like a Haynes manual or IKEA parts sheet - a concept pulled apart in 3D isometric space, every component floating and labeled. Originally industrial, but stunning when applied to abstract ideas ("the anatomy of a good argument").
+- Alluvial / Flow Diagrams as Illustration. Sankey diagrams done with _texture and color_ - flows that look like rivers or silk fabric rather than engineering outputs. Manuel Lima territory. The width carries data; the beauty carries attention.
+- Layered Transparency Stack. Multiple semi-transparent planes stacked in 3D - each layer adds one variable or lens. Like Figma components or overhead projector acetates, but designed with intention. The _stack_ is the argument: alone each layer is incomplete, together they create the full picture.
+- Small Multiples Grid. The same visual form repeated dozens of times across a grid, each instance slightly different - Tufte's most powerful idea. Comparison becomes effortless because your eye does the work. Elegant when the repeated unit is itself beautifully designed.
+- Unit / Dot Charts. Every individual represented as one dot or icon - then arranged to show patterns. The Pudding's signature move ("film dialogue", "music by gender"). Feels democratic and humanizing. The magic is that you can _see_ every case while still seeing the aggregate shape.
+- Wayfinding System. Airport / transit signage logic applied to content - clean pictograms, bold zone colors, directional chevrons, consistent typographic scale. Massimo Vignelli's NYC subway map energy. Unusually good for showing _how to navigate_ a complex space of ideas or decisions.
+- Cross-Section Cutaways. Slice through a system and label what's inside - the NYT "how it works" graphic tradition. A submarine, a skyscraper, a workflow, an argument - all become readable when you cut them open. Technical but deeply human. The best ones feel like surgical kindness.
+- Storyboard Grids. Cinematic panels, each a moment - camera angles, cutaways, close-ups - but applied to ideas. Bergman planning a lecture. The format forces you to think in _scenes_ rather than bullets.
 ```
 
 ## Book summary
@@ -542,16 +542,48 @@ Then rewrite it in their style.
 
 ## Trending repos
 
-`chatgpt --file ~/code/til/trending-repos.tsv $PROMPT`
+See `~/Dropbox/notes/trending-repos.md` for the output history.
 
 ```markdown
-This TSV has trending GitHub repos extracted roughly weekly.
+On @LocalMCP, ~/code/til/trending-repos.tsv has trending GitHub repos extracted roughly weekly.
 🟣 is what's un-evaluated,
 🟢 is what I already use,
 🔵 I want to evaluate later,
-🔴 I don't plan to use,
+🔴 I don't plan to use and
 ⏺️ I've been meaning to evaluate now but haven't yet.
 
-Look at the repos added in the last 1-2 weeks.
-Based on my objectives and interests, which should I be paying closer attention to?
+Look at the repos added in the last 2 weeks.
+Based on my objectives and interests, which should I be paying closer attention to and why?
+```
+
+## Twitter thread summary
+
+<!--
+https://chatgpt.com/c/6a4227a0-c910-83ec-861c-90146860faec
+https://claude.ai/chat/5e5abb37-7541-437b-be93-54611dd50069
+-->
+
+```markdown
+Convert this Twitter-list thread into a prioritized briefing of things I can actually use. Align with my objectives.
+
+Deduplicate tweets aggressively - a launch tweeted ten ways is one item.
+Keep tech I can use, research that shifts my thinking, new AI approaches, org/strategy patterns. Dump the rest into one compact block I can scan.
+
+Enrich high impact items by reading the primary source (paper, tool page, blog) and write:
+
+- **What it is** - 1–2 plain sentences + link. Tag [confirmed] / [preview] / [rumored].
+- **Why it matters to me** - spell out the full chain; restate my own frameworks rather than assume I recall them; note why it ranks above other items.
+- **How I'd apply it** — ONE concrete example + the reusable asset it becomes (only if applicable).
+- **Next step** - the smallest thing I can do (often a copy-paste) in 15 min.
+
+Prioritize based on impact (confidence-adjusted) and effort.
+
+- 🚀 **Do this week** - high impact, low effort (max 5)
+- 🎯 **Strategic** - high impact, higher effort. I must not miss these; give an next step for each (max 5)
+- 👀 **Worth knowing** - lower personal impact; ONE clear sentence each that includes the implication (not just the name). No full entry.
+
+Conversational grade 8 language, no jargon, no preamble, easy-to-read.
+Refer previous conversations for context.
+Cite the source link for each item. Cite important factual claims.
+End with the ONE highest-leverage thing to do next, and why.
 ```
