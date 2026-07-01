@@ -4,6 +4,8 @@ date: 2026-06-29T18:00:00+08:00
 categories:
   - talks
   - llms
+description: Join my workshop to learn how to restructure datasets for LLM agents rather than humans. We'll test hands-on techniques like prioritizing functions over tables, leveraging logs over docs, and using agents to rebuild raw data.
+keywords: [llm agents, data engineering, api design, function calling, data preparation, fifth elephant]
 ---
 
 For thirty years, we cleaned data for humans.
