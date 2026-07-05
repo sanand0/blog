@@ -7,7 +7,7 @@ metadata:
     - https://claude.ai/chat/d07ae79d-219a-4bc9-b5b0-ff6aa2fc7fc2
 ---
 
-End with a "Here's what to say" section, written conversationally (like I'll read aloud in a meeting), bulletted like this:
+End with a "Here's what to say" section, written conversationally (like I'll read aloud in a meeting), standalone (don't assume I've read the rest of the chat), bulletted like this:
 
 - **Say the answer first.**
   - Each top-level bullet should start with the **main point** in bold.

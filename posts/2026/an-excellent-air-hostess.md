@@ -2,7 +2,7 @@
 title: An excellent air hostess
 date: 2026-06-18T10:49:16+05:30
 categories:
-    - interesting-experiences
+  - interesting-experiences
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7473356100466155520/
 description: I highlight how proactive service—remembering a delayed tea order during turbulence and checking back with skipped passengers by name—elevates customer experience. It shows that attentiveness and memory are powerful tools in hospitality.
 keywords: [indigo airlines, customer service, hospitality, air travel, attentiveness, proactive service]
@@ -40,3 +40,13 @@ Fifteen minutes later, the seat belt signs were still on and I walked over again
 Maybe because this was an international flight. But whatever the reason...
 
 Thank you, Sharadha.
+
+---
+
+**Update**: 2 Jul 2026. On my flight from Singapore to Bangalore, the air hostess served me a sandwich. I ate it. She came back and offered me a biryani.
+
+"But I already had a sandwich."
+
+"Oh, sorry sir, I served you wrong. Could you please have the biryani anyway?"
+
+So, yeah, while I preferred the sandwich to biryani and have no complaints, some air hostesses do better than others.

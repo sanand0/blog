@@ -7,11 +7,14 @@ keywords: [mcp, personal-crm, transcripts, system-prompt, markdown]
 ---
 
 <!--
-  Prompt: https://chatgpt.com/c/6a433c6b-f598-83ec-b83f-97368077fd0b
+  Paste the About Updates prompt every Sunday at
+  https://chatgpt.com/g/g-p-6a40b2ac3dfc8191b48ad8d978d0e8bf-weekly/project
+
+  Source: https://chatgpt.com/c/6a433c6b-f598-83ec-b83f-97368077fd0b
   Test run: https://chatgpt.com/c/6a437148-3824-83ec-92a7-3e89c920143a
 -->
 
-````markdown
+```markdown
 For the week ending Saturday ------ midnight (SGT), share updates to `~/Dropbox/notes/about/*.md` reading from @LocalMCP (without modifying files):
 
 - `~/Dropbox/notes/transcripts/**/*.md`
@@ -50,9 +53,8 @@ Capture:
 
 Avoid transcript summaries that belong in project notes. Person notes are for relationship memory and future interaction guidance.
 
-Output format:
+<OUTPUT-FORMAT>
 
-```markdown
 # Person Name Affiliation
 
 ## YYYY-MM-DD - Topic
@@ -81,5 +83,6 @@ Output format:
 - [ ] Did not summarize projects into every attendee's person note.
 - [ ] Kept bullets concise and future-useful.
 - [ ] Included source paths for every suggested edit.
+
+</OUTPUT-FORMAT>
 ```
-````
