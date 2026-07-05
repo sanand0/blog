@@ -187,8 +187,10 @@ Draw this as a full-color explainer comic page (portrait) - sequential explanati
 Style: expressive characters, comic-style ALL CAPS, vibrant modern colors, clear visual hierarchy.
 Prefer pictures over words. Use recurring visual metaphors so the reader understands the idea even while skimming.
 
-First, write a memorable storyline that captures the most important points to convey.
+First, write a memorable storyline that captures the most important points to convey - as a single cohesive story.
 Just reading the storyline should communicate the entire message unambiguously.
+Critique the storyline: what is confusing, doesn't flow, or has low impact? Revise. Repeat until the storyline is GOOD!
+
 Draw each storyline element (typically a sentence, but sometimes a continued phrase, or multiple sentences) as a panel's caption. (If there are 8 panels, there must be 8 storyline elements)
 Each panel's image should support and strengthen its caption - and reinforcing past panels / anticipating future panels where helpful.
 ```
@@ -316,14 +318,6 @@ If my intent is unclear, ask me questions that most narrow the direction (max 1-
 ```
 
 <!-- https://claude.ai/chat/ab468619-5951-4602-bb07-6a9cd1f0a3e0 + https://chatgpt.com/c/6a1684eb-010c-83ec-8799-969901df5c21 -->
-
-## List transcript insights / facts
-
-Use ChatGPT - it's the most rigorous
-
-```markdown
-List every learning / interesting fact from the transcript in sequence.
-```
 
 ## LinkedIn Post
 
