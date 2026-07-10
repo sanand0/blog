@@ -5,7 +5,7 @@ categories:
   - london-2005
 wp_id: 626
 description: I share an encounter at King's Cross where a stranger used a 'lost wallet' ruse to ask for money. By offering to take him to the police instead of giving cash, I successfully identified and avoided the scam.
-keywords: [king's cross, london, scams, travel, panhandling, social engineering]
+tags: [london, travel, social-engineering]
 ---
 
 King's Cross station. 6:20pm. I'm rushing along to catch the next train to Liverpool Street, when a jacket and suitcase step in front of me.

@@ -4,7 +4,7 @@ date: 2026-08-23T00:00:00+00:00
 categories:
   - til
 description: I reflected on the necessity of discomfort, reminding myself that pain, struggle, and stretching beyond my current limits are essential for growth and should be actively sought out rather than avoided.
-keywords: [personal growth, discomfort, resilience, struggle, mindset, self-improvement]
+tags: [personal-growth, self-improvement]
 ---
 
 This week, I learned:

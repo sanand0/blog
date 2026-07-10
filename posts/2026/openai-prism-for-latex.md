@@ -5,7 +5,7 @@ categories:
 - llms
 - tools
 description: AI-native LaTeX editors like Prism dramatically lower the friction of scientific writing, though their document conversion still needs work.
-keywords: [Prism, LaTeX, scientific writing, AI editors, document conversion, OpenAI]
+tags: [openai]
 ---
 
 OpenAI launched [Prism](https://openai.com/prism/) - an AI LaTeX IDE.

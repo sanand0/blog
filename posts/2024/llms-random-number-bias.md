@@ -3,7 +3,7 @@ date: "2024-04-15T08:52:47Z"
 categories:
   - linkedin
 description: "When asked for random numbers, LLMs display human-like biases toward “random-looking” choices, avoiding round numbers and favoring patterns like 42, 47, and 7-endings."
-keywords: ["LLM bias", "random numbers", "human-like bias", "ChatGPT", "Claude", "Gemini"]
+tags: [chatgpt, claude, gemini]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7185560681394454528/
 ---
 

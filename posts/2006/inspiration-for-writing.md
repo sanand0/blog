@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 409
 description: I shared a MetaFilter thread exploring the subtle difference between writing inspiration and motivation. It is a useful resource for finding creative sparks and mental shifts rather than relying solely on discipline-based productivity.
-keywords: [writing inspiration, metafilter, creative process, motivation, writing tips, storytelling]
+tags: [metafilter, storytelling]
 ---
 
 [Inspiration - not motivation - for writing](http://ask.metafilter.com/mefi/30854).

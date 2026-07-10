@@ -4,7 +4,7 @@ date: 2025-03-30T00:00:00+00:00
 categories:
   - til
 description: I tested AI coding tools like Aider, explored MCP servers for automating SaaS tasks, and compared the latest models like Gemini 2.5 and GPT-4.5. I also delved into CRDTs, spatial hash indexing, and why I now prioritize evals for LLM projects.
-keywords: [mcp, aider, crdt, llm-evals, gemini-2.5, gpt-4.5, spatial-hash, gitmoji]
+tags: [mcp, llm-evals]
 ---
 
 This week, I learned:

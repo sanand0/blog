@@ -2,7 +2,7 @@
 title: Favorite things
 date: 2026-01-26T15:16:10+05:30
 description: I share a list of things that bring me disproportionate delight, ranging from practical comforts like spare gear, long battery life, and LLMs to deeper joys like kids, warm people, and the relief of painkillers.
-keywords: [simple pleasures, battery life, llms, productivity, parenting, food, technology]
+tags: [llms, productivity, parenting, food, technology]
 ---
 
 Some things have a disproportionate ability to delight me.

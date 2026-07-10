@@ -6,7 +6,7 @@ categories:
   - funny
 wp_id: 3367
 description: "Tamil and Telugu films often fake newspapers, screens, and official documents so sloppily that reading the background text becomes a second layer of comedy."
-keywords: ["Tamil cinema", "movie props", "newspapers", "screen text", "humor", "continuity errors"]
+tags: [tamil-cinema, newspapers, humor]
 ---
 
 ![Newspapers in Tamil movies](/blog/assets/EEwciICUwAEACPZ.webp)

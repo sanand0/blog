@@ -5,7 +5,7 @@ categories:
   - top-10-lists
 wp_id: 22
 description: I compiled a spreadsheet of major Science Fiction and Fantasy book awards to identify top-tier reads. I highlighted novels like Neuromancer and American Gods that won multiple awards, including the Hugo, Nebula, and Philip K. Dick awards.
-keywords: [hugo award, nebula award, philip k. dick award, science fiction, book awards, neil gaiman, william gibson]
+tags: [science-fiction]
 ---
 
 Now that I'm well on my way to [watching the Top 250 movies](/blog/wishlist-for-movies/) on [IMDb](http://www,imdb.com/), I'm slowly turned my attention to fiction. My interest is mainly in the Fantasy & Science Fiction area. Unfortunately, I don't know of any list like the IMDb Top 250, but there are a few awards that could take the place of the Oscars for books. That's probably a good place to start.

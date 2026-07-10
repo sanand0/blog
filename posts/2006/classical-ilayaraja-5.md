@@ -5,7 +5,7 @@ categories:
   - classical-ilayaraja
 wp_id: 151
 description: I explore Ilayaraja’s mastery of the Kedaram and Nalinakanthi ragas, highlighting Vairamuthu’s debut in "Pon Maalai Pozhudhu." I also compare these classical applications to A.R. Rahman’s "Ennavale Ennavale" and discuss the evolving dynamic between music directors and lyricists.
-keywords: [ilayaraja, carnatic music, kedaram, nalinakanthi, vairamuthu, tamil cinema, ragas]
+tags: [ilayaraja, carnatic-music, tamil-cinema]
 ---
 
 > This is the 5th of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

@@ -5,7 +5,7 @@ categories:
 - how-i-do-things
 - llms
 description: AI creativity is surprisingly useful under domestic constraints, turning ordinary pantry ingredients into a meaningful birthday celebration.
-keywords: [AI creativity, constraints, celebration, food hacks, family, improvisation]
+tags: [ai-creativity, family]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7433009768656683008/
 ---
 

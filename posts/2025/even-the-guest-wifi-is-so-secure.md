@@ -6,7 +6,7 @@ categories:
   - funny
 wp_id: 4040
 description: "A corporate guest WiFi blacklist can be funny enough to read as an accidental manifesto about what kinds of tools, learning, and play an organization implicitly discourages."
-keywords: [guest WiFi, corporate security, blocked sites, organizational culture, humor, Straive]
+tags: [corporate-security, organizational-culture, humor, straive]
 ---
 
 ![Even the guest WiFi is so secure](/blog/assets/image-1.webp)

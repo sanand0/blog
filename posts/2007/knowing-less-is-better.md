@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 122
 description: Explore Malcolm Gladwell's argument that limited information can improve decision-making through heuristics. A study of students shows how recognizing only one city name can lead to more accurate population estimates than having access to more data.
-keywords: [malcolm gladwell, heuristics, recognition heuristic, decision-making, psychology, bounded rationality]
+tags: [malcolm-gladwell, heuristics, decision-making, psychology]
 ---
 
 Malcolm Gladwell argues that [knowing less can be an advantage](http://gladwell.typepad.com/gladwellcom/2006/03/nba_heuristics.html). This is based on a study in which kids in the US were asked which was a bigger city: San Antonio or San Diego. Many didn't know. Kids in Germany were asked the same. Most knew: San Diego was bigger. Why? Because they'd heard of San Diego, but not of San Antonio.

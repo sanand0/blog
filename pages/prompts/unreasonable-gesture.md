@@ -3,7 +3,7 @@ title: Unreasonable Gesture
 date: 2026-05-31T16:18:16+08:00
 classes: wrap-code
 description: Find out who to express gratitude towards every week
-keywords: [local mcp, bash, professional relationships, personal crm, message analysis, gratitude]
+tags: [local-mcp, bash, gratitude]
 ---
 
 ```markdown

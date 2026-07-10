@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 900
 description: I found that ICICI Bank now allows users to book and pay for Indian railway tickets online. This service simplifies travel planning by providing a digital alternative to standing in line at physical booking counters.
-keywords: [icici bank, railway tickets, online booking, india, digital payments]
+tags: [online-booking, india, digital-payments]
 ---
 
 Now you can [pay for railway tickets online](http://www.icicibank.com/pfsuser/aboutus/investorelations/pressrelease/icicibank_pressrealease/rail_icici.htm).

@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 23
 description: I bypassed heavy Twitter clients by building a server-side mail handler to strip email disclaimers and using browser keyword searches to tweet directly from the address bar. This lightweight setup also cross-posts to Identi.ca.
-keywords: [twitter, identi.ca, keyword search, api, blackberry, mail handler]
+tags: [api, blackberry]
 ---
 
 I hadn't jumped on to the [Twitter](http://www.twitter.com/) bandwagon for a while. I'm not much of a conversationalist, nor am I a very sociable. I also tend to stay away from social networks. But I figured I would try Twitter out for a while, mostly because it's an outlet for short comments. For long articles, I have my blog. For sharing links, I have [Google Reader](http://www.google.com/reader/shared/16836184467750910501) and [del.icio.us](http://del.icio.us/sanand0). I don't quite have anything for that occasional moment when I [want to say](http://twitter.com/sanand0/status/1011863752), "Hey! A great way to shred mint leaves is to **freeze** them!"

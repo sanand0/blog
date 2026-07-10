@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 764
 description: I built a new commenting system based on the concept of "scribbling on the margin." I am iteratively refining the UI and text visibility based on user feedback to make the messy source code more functional for readers.
-keywords: [commenting system, web development, user interface, scribbling on the margin, source code]
+tags: [web-development, user-interface, source-code]
 ---
 
 My new commenting system is based on the principle of "scribbling on the margin". If you're interested, have a look at the source code for this page. It is as clear as mud, so best of luck!

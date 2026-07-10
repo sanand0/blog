@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1981
 description: I revisited lateral thinking puzzles and found a collection of over a hundred situation puzzles with answers on Hartman's site. It’s a great resource for anyone looking to challenge their unconventional problem-solving skills.
-keywords: [lateral thinking, situation puzzles, brain teasers, problem solving, hartman]
+tags: [lateral-thinking, problem-solving]
 ---
 
 It's been long since I solved [lateral thinking puzzles](http://kith.org/logos/things/sitpuz/situations.html). Hartman's site has over a hundred (with answers).

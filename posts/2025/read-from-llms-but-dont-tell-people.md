@@ -6,7 +6,7 @@ categories:
   - llms
 wp_id: 3951
 description: "Using LLMs live in meetings is powerful, but presenting the filtered answer as your own judgment often works better socially than disclosing the exact source every time."
-keywords: [meetings, LLM assistance, social dynamics, live prompting, judgment, ChatGPT]
+tags: [judgment, chatgpt]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7303644856545947648/
 ---
 

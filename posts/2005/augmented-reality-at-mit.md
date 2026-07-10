@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 678
 description: I found a great demo of augmented reality technology from the MIT Media Lab’s Aesthetics + Computation Group. It showcases early interactive installations and experimental user interfaces that blend digital information with physical environments.
-keywords: [augmented reality, mit media lab, aesthetics + computation group, simon greenwold, interaction design, experimental interface]
+tags: [augmented-reality, mit-media-lab, interaction-design]
 ---
 
 A great [demo of augmented reality](http://acg.media.mit.edu/people/simong/installationNew/demo.html) at MIT Media Labs.

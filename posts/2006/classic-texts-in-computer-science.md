@@ -5,7 +5,7 @@ categories:
   - top-10-lists
 wp_id: 290
 description: I’ve curated a list of essential computer science texts that offer deep insight. It features foundational papers on lambda calculus, CSP, relational databases, and early programming languages from legends like Hoare, Knuth, and McCarthy.
-keywords: [computer science, research papers, lambda calculus, relational model, information theory, software engineering]
+tags: [computer-science, information-theory, software-engineering]
 ---
 
 [Classic texts in computer science](http://www.zafar.se/bkz/wiki/view/43bafac8c8570f4f). Worth reading for the sheer insight.

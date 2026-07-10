@@ -5,7 +5,7 @@ categories:
 - coding
 - how-i-do-things
 description: A lightweight recording and compression workflow can produce high-quality screencasts cheaply enough to make video a practical medium for demos, teaching, and documentation.
-keywords: [screencasts, video recording, compression, WEBM, ffmpeg, developer tools]
+tags: [webm, ffmpeg, developer-tools]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-11-recording-screencasts.avif) <!-- https://gemini.google.com/u/2/app/6cf35e0e4b2a90da -->

@@ -6,7 +6,7 @@ categories:
   - top-10-lists
 wp_id: 199
 description: I moved to a Dell Latitude D420, stripping Windows bloatware for a spartan 'Classic' setup. My toolkit includes Perl, Python, Subversion, and essential Firefox extensions to rebuild a fast, distraction-free environment on my new machine.
-keywords: [dell latitude d420, subversion, perl, python, firefox extensions, windows configuration, spartan ui]
+tags: [perl, python]
 ---
 
 And so, thanks to Infosys Consulting being spun off as a separate legal entity in the UK, I got my new laptop. (Because our old laptops were legally the assets of Infosys Technologies Ltd, and not Infosys Consulting Inc. Weirder things have happened, but who's complaining?)

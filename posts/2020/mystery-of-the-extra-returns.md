@@ -6,7 +6,7 @@ categories:
   - data
 wp_id: 2975
 description: I investigated why 10-year Indian Gilt Funds reported returns over 10% despite underlying bonds yielding much less. I found that constant maturity funds capture both coupon accruals and capital appreciation during falling interest rate cycles.
-keywords: [gilt funds, indian government bonds, constant maturity funds, yield curve, mutual funds, interest rate cycles]
+tags: [mutual-funds]
 ---
 
 This month, I sold half my Indian equity mutual funds and was researching funds to invest in. I was looking for something safe & long term.

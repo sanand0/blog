@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 47
 description: I redesigned my home page to better showcase my code and microblogging. I used the 960.gs grid system and PowerPoint's color themes to finish the layout in three hours, prioritizing speed over perfection.
-keywords: [960.gs, css grid, microblogging, web design, identi.ca, powerpoint themes]
+tags: [web-design]
 ---
 
 I have a new home page design. (If you're reading the RSS feed, check the [home page](http://www.s-anand.net/).)

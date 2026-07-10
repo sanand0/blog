@@ -6,7 +6,7 @@ categories:
 - llms
 classes: wrap-code
 description: Large transcript archives can be distilled into reusable advice by combining cheap long-context models for extraction with stronger models for final synthesis.
-keywords: [transcripts, advice extraction, synthesis, long context, Gemini Flash, Claude]
+tags: [transcripts, synthesis, gemini-flash, claude]
 ---
 
 This weekend, two people asked me, roughly "How do I use AI better?"

@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 2856
 description: I explain my utilitarian approach to life, prioritizing functional value and productivity over status or luxury. By choosing public transport and basic tools, I focus on practical utility where I don't see the value in prestige or fashion.
-keywords: [utilitarianism, value for money, minimalism, lifestyle, functionalism, productivity]
+tags: [minimalism, lifestyle, productivity]
 ---
 
 A couple of years ago, my HTC Explorer’s screen died. I bought a Micromax A50. This triggered a series of reactions prompting this post.

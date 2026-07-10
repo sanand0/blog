@@ -8,7 +8,7 @@ wp_id: 2283
 aliases:
   - /blog/no-comments/
 description: I released my website content and code under the WTFPL because default copyright is too restrictive. Even Creative Commons Attribution felt like a constraint; I’d rather have my work used and modified freely without requiring any credit or permission.
-keywords: [wtfpl, copyright, creative commons, licensing, open source, attribution]
+tags: [copyright, open-source]
 ---
 
 I don’t have any copyright declaration on this website.

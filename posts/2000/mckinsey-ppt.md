@@ -5,7 +5,7 @@ categories:
   - london-2000
 wp_id: 2156
 description: I attended a brief McKinsey presentation at Lord's Cricket Ground, networking with consultants from London and Kuala Lumpur. I skipped the business cards but prioritized the cricket-ball-shaped chocolates, even salvaging an extra wrapped one from the floor.
-keywords: [mckinsey, lord's cricket ground, networking, london business school, recruitment, consulting]
+tags: [networking, london-business-school, recruitment, consulting]
 ---
 
 The McKinsey presentation was this evening at Lord's. Yes, that's the Lord's Cricket Ground. So at 7PM, there was this huge crowd of people strolling over to the Nursery Pavillion, wondering why Lord's had a square cricket pitch. Google and AskJeeves haven't given me an answer yet.

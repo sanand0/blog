@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 3947
 description: "This is a reflective blogging questionnaire that traces the author’s path from Geocities and hand-built systems to WordPress, Markdown, and a likely future static-site migration."
-keywords: [blogging, blog history, Geocities, WordPress, Markdown, personal publishing]
+tags: [blogging, geocities, wordpress, markdown, personal-publishing]
 ---
 
 [Thejesh](https://thejeshgn.com/2025/02/27/a-challenge-of-blog-questions/) tagged me with these questions.

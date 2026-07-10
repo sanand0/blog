@@ -4,7 +4,7 @@ categories:
   - llms
   - linkedin
 description: "Cataloging unusual AI-generated illustration styles expands image generation beyond default aesthetics and turns style exploration into a reusable creative system."
-keywords: ["image generation", "art styles", "LLM art", "creative workflows", "style gallery", "visual experimentation"]
+tags: [image-generation]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7369904677443796992/
 ---
 

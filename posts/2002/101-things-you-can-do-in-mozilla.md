@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1041
 description: I explored 101 features Mozilla offers that Internet Explorer lacks. While I rely on tabbed browsing and popup blocking, most other features feel unnecessary, and I believe both Mozilla and Opera still have significant catching up to do.
-keywords: [mozilla, internet explorer, opera, tabbed browsing, popup blocking, browser comparison]
+tags: [mozilla, internet-explorer, opera]
 ---
 
 [101 things you can do in Mozilla and not IE](http://www.xulplanet.com/ndeakin/arts/reasons.html). But apart from 1. Tabbed browsing and 2. Popup blocking, I don't quite use the other features. Mozilla (and Opera) still need some catching up to do. [via New Architect](http://www.newarchitectmag.com/daily/)

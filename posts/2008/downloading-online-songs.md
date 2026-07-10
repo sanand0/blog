@@ -5,7 +5,7 @@ categories:
   - coding
 wp_id: 30
 description: I show how to download 'non-downloadable' songs by extracting URLs from SMIL files and spoofing the RealPlayer User Agent. I used Fiddler to reverse-engineer these sites and built a Java applet to automate the process.
-keywords: [fiddler, user agent switcher, smil, realmedia, reverse engineering, musicindiaonline, security by obscurity]
+tags: [reverse-engineering]
 ---
 
 You know those songs on [Raaga](http://www.raaga.com/), [MusicIndiaOnline](http://www.musicindiaonline.com/), etc? The ones you can listen to but can't download?

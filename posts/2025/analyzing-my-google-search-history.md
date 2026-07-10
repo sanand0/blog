@@ -3,7 +3,7 @@ date: "2025-07-31T00:00:00Z"
 categories:
   - linkedin
 description: "AI-generated comics can turn personal data analysis into a more engaging and accessible storytelling format than conventional charts alone."
-keywords: ["comics", "personal analytics", "Google Search history", "PicBook", "data storytelling", "AI images"]
+tags: [comics, personal-analytics, data-storytelling]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7356149037722464256/
 ---
 

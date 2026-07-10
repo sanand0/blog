@@ -4,7 +4,7 @@ date: 2025-09-14T00:00:00+00:00
 categories:
   - til
 description: I discovered why weak ties matter for opportunities and tested tools like mise, ast-grep, and hurl. I also learned how non-associative floating-point addition causes LLM non-determinism and why shrinking output tokens significantly reduces latency.
-keywords: [weak ties, mise, ast-grep, hurl, llm, pyodide, floating point, latency]
+tags: [llms, latency]
 ---
 
 This week, I learned:

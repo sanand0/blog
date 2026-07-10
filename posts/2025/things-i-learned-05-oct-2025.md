@@ -4,7 +4,7 @@ date: 2025-10-05T00:00:00+00:00
 categories:
   - til
 description: I analyzed LLM megatrends like swarms and computer use, discovered why inflammation is a stronger heart-risk predictor than cholesterol, and tested tools like SSH3 and libSQL. I also found my laptop mic beats my phone for recordings.
-keywords: [llms, ssh3, inflammation, libsql, typst, mcp, heart-health, agent-swarms]
+tags: [llms, mcp]
 ---
 
 This week, I learned:

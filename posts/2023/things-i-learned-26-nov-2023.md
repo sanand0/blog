@@ -4,7 +4,7 @@ date: 2023-11-26T00:00:00+00:00
 categories:
   - til
 description: I learned about GPT Vision for calendar extraction, the limitations of RAG versus fine-tuning, and using LlamaIndex for hierarchical retrieval. I also found tools for JSON repair, LLM evaluation metrics, and running local models with Ollama.
-keywords: [gpt vision, rag, llamaindex, llmops, ollama, fine-tuning, openrouter, orca 2]
+tags: [rag, ollama, fine-tuning]
 ---
 
 This week, I learned:

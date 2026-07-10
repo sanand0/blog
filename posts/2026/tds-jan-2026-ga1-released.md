@@ -6,7 +6,7 @@ categories:
 - coding
 - llms
 description: In an AI-enabled course, released assignments remain fluid because real-world breakage and exploits force rapid iteration even after publication.
-keywords: [assignments, AI in education, course operations, iteration, TDS, assessment design]
+tags: [ai-in-education, assessment-design]
 ---
 
 [Graded Assignment 1 (GA1)](https://exam.sanand.workers.dev/tds-2026-01-ga1) for the [Tools in Data Science](https://tds.s-anand.net/) course is released and is due Sun 15 Feb 2026. See <https://exam.sanand.workers.dev/tds-2026-01-ga1>

@@ -3,7 +3,7 @@ title: Editing images with code and AI
 date: 2026-06-06T11:32:47+05:30
 categories:
   - llms
-keywords: [visual ai, svg, blender, viga, generative code, 3d modeling, usd]
+tags: [svg, 3d-modeling]
 description: Focus on generating visual assets as code rather than pixels to enable iterative improvement. Use SVG for 2D UI and Blender scripts or USD for 3D modeling, leveraging agents like VIGA for editable, precise graphics.
 ---
 

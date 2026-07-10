@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1807
 description: I'm skeptical of the Karnataka Government's plan to make Bangalore a zero piracy zone by appointing compliance officers for random office checks, as the initiative ignores the underlying issue of local corruption.
-keywords: [bangalore, karnataka, software piracy, compliance officers, anti-piracy, corruption]
+tags: [bangalore]
 ---
 
 By the end of the year, Bangalore will become a [zero piracy zone](http://www.timesofindia.com/070601/07busi18.htm). First, the Karnataka Government will try and eliminate all piracy within. Then it'll appoint compliance officers who'll walk into offices and check randomly. And this will reduce piracy. Right. What of corruption?

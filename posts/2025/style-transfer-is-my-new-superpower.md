@@ -4,7 +4,7 @@ categories:
   - llms
   - linkedin
 description: I use AI style transfer to make dense texts more accessible. By prompting Claude or ChatGPT to rewrite content in the styles of authors like Pico Iyer or Tim Urban, I transform complex ideas into engaging, readable prose.
-keywords: [style transfer, claude, chatgpt, prompting, large language models, rewriting]
+tags: [style-transfer, claude, chatgpt, prompting, llms]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7405112924517601280/
 ---
 

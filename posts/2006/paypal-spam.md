@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 297
 description: I share a convincing PayPal phishing email that almost fooled me. This example illustrates how sophisticated spam can look, mimicking official branding and layout to trick even cautious users into clicking malicious links.
-keywords: [phishing, paypal, spam, email security, social engineering, fraud]
+tags: [spam, email-security, social-engineering]
 ---
 
 I almost fell for this piece of spam.

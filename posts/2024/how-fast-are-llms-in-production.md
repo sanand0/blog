@@ -6,7 +6,7 @@ categories:
   - llms
 wp_id: 3615
 description: "Production logs show that real-world LLM speed depends heavily on provider infrastructure and operations, with Groq fastest, Anthropic next, and cloud-hosted third-party models often much slower."
-keywords: ["LLM speed", "production metrics", "tokens per second", "Groq", "Anthropic", "OpenAI"]
+tags: [anthropic, openai]
 ---
 
 ![How fast are LLMs in production?](/blog/assets/chart-1.webp)

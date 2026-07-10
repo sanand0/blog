@@ -5,7 +5,7 @@ categories:
 - tools
 - llms
 description: No-code AI app builders can generate decent interfaces quickly, but they may hide weak implementations behind repeated model calls instead of real software.
-keywords: [AWS PartyRock, no-code AI, UI generation, vibe coding, product evaluation, tools]
+tags: [vibe-coding]
 ---
 
 I tried vibe-code a CSV to colored HTML table converter using [this prompt](https://github.com/sanand0/tools/blob/09ad622f1bfb662a5203593836ef765b99839e8a/colortable/prompts.md).

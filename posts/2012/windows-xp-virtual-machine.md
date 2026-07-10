@@ -6,7 +6,7 @@ categories:
   - coding
 wp_id: 2799
 description: I share the easiest method for setting up a Windows XP virtual machine using Microsoft Virtual PC. It's ideal for testing IE6-8, and I found the memory footprint surprisingly small compared to tools like VirtualBox or VMWare.
-keywords: [windows xp, virtualization, microsoft virtual pc, ie6, ie7, ie8, networking]
+tags: [windows-xp, ie6, networking]
 ---
 
 Here’s the easiest way to set up a Windows XP virtual machine that I could find.

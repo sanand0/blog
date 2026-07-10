@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 87
 description: I built a Tamil spelling corrector based on Peter Norvig’s algorithm to fix transliterated song lyrics. I used Project Madurai as a dictionary source and explored probabilistic methods to map phonetic English spellings to correct Tamil words.
-keywords: [tamil, spelling corrector, peter norvig, project madurai, transliteration, probability]
+tags: [tamil, transliteration, probability]
 ---
 
 The Internet has a lot of tamil song lyrics in English. Finding them is not easy, though. Two problems. The lyrics are fragmented: there's no one site to search them. And Google doesn't help. It doesn't know that alaipaayudhe, alaipaayuthe and alaipayuthey are the same word.

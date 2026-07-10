@@ -6,7 +6,7 @@ categories:
   - coding
 wp_id: 52
 description: I show how to automate Internet Explorer by injecting jQuery via the COM interface using Python. This approach enables scraping and testing JavaScript-heavy sites like Google Video using familiar selectors and chainable commands.
-keywords: [screen-scraping, jquery, internet explorer, python, com interface, web automation]
+tags: [jquery, internet-explorer, python]
 ---
 
 <p>Most of my <a href="http://en.wikipedia.org/wiki/Screen_scraping">screen-scraping</a> so far has been through Perl (typically <a href="http://search.cpan.org/dist/WWW-Mechanize/lib/WWW/Mechanize.pm">WWW::Mechanize</a>). The big problem is that it doesn't support Javascript, which can often be an issue:</p>

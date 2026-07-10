@@ -1,7 +1,7 @@
 ---
 title: Ilaiyaraaja Mridangam Songs
 description: I've curated a list of the best Ilaiyaraaja compositions featuring the mridangam, from classical tracks in Sindhu Bhairavi to rhythmic gems in Salangai Oli. These selections highlight iconic percussion interludes and intricate South Indian carnatic rhythms.
-keywords: [ilaiyaraaja, mridangam, carnatic music, tamil cinema, percussion, rhythm]
+tags: [carnatic-music, tamil-cinema]
 ---
 
 <!-- https://gemini.google.com/app/6568d8d5c9f18f30 -->

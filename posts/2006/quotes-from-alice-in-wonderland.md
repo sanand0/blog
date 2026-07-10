@@ -5,7 +5,7 @@ categories:
   - funny
 wp_id: 157
 description: I curated a selection of quotes from Lewis Carroll’s Alice books that I find particularly paradigm-shifting. These passages explore the absurdity of language, backward memory, and the illogical logic found in Wonderland and the Looking Glass.
-keywords: [lewis carroll, alice in wonderland, literary nonsense, logic, humpty dumpty, red queen, language]
+tags: [lewis-carroll, logic, language]
 ---
 
 From Lewis Caroll's **Alice in Wonderland** and **Through the Looking Glass**. These are the quotes I found most... how shall I put it... eye-opening. Paradigm-shifting.

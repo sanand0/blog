@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 434
 description: I analyzed my Google search history trends and discovered unexpected recurring terms like 'thiep' and 'amway'. It highlights how early personal data tracking tools revealed strange patterns or artifacts in my digital footprint.
-keywords: [google search trends, search history, data visualization, personal data, digital footprint]
+tags: [search-history, data-visualization, personal-data]
 ---
 
 [Google search trends](http://www.google.com/psearch/trends). Here is an interesting piece from my search trend. What I don't understand is, where did thiep and amway come from?

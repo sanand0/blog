@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 2557
 description: I ran an A/B test with 800 ratings to compare automated image enhancements like sharpening, saturation, and auto-levels. Sharpening was the clear winner, preferred in 86% of cases, while saturation and levels yielded more subjective results.
-keywords: [image enhancement, a/b testing, sharpening, saturation, auto-levels, image processing, photography]
+tags: [image-processing, photography]
 ---
 
 There are some standard enhancements that I apply to my photos consistently: auto-levels, increase saturation, increase sharpness, etc. I’d also read that [Flickr](http://www.petapixel.com/2009/05/19/sharpening-your-photos-like-flickr/) [sharpens](http://colorspretty.blogspot.com/2007/01/flickrs-dirty-little-secre_117020899505299548.html) uploads (at least, the resized ones) so that they look better.

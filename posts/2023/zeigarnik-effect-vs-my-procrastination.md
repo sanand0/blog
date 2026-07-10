@@ -7,7 +7,7 @@ categories:
   - how-i-do-things
 wp_id: 3412
 description: "Micro-journaling revealed that the author starts work mostly through Zeigarnik momentum and mindfulness, but loses time mainly to distraction, procrastination, and fragmented schedules."
-keywords: ["procrastination", "Zeigarnik effect", "micro-journaling", "productivity", "experiments", "self-tracking"]
+tags: [procrastination, productivity, experiments, self-tracking]
 ---
 
 ![Zeigarnik effect vs my procrastination](/blog/assets/sanand0_Sisyphus_relaxing_next_to_a_huge_boulder_on_a_slope._Bl_192d620a-a828-4075-be6e-7fc989a3ec4a.webp)

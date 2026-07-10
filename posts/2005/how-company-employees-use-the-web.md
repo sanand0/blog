@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 780
 description: I found a resource detailing how company employees use the internet at work. It covers the breakdown of time spent on professional tasks versus personal browsing and the resulting impact on corporate productivity and web culture.
-keywords: [workplace browsing, internet usage, productivity, employee behavior, corporate culture, web habits]
+tags: [productivity, corporate-culture]
 ---
 
 [How Company Employees Use The Web](http://slashdot.org/article.pl?sid=05/01/05/0122241).

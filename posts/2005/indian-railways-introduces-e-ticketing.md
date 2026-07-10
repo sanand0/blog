@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 523
 description: Indian Railways launched its e-ticketing service through IRCTC, starting with pilot routes like Amritsar, Kalka, and Lucknow. This rollout marks a major step in digitizing train bookings and moving beyond physical ticket counters.
-keywords: [indian railways, irctc, e-ticketing, online booking, digital infrastructure, transport technology]
+tags: [indian-railways, online-booking, digital-infrastructure]
 ---
 
 [Indian Railways introduces e-ticketing](http://www.irctc.co.in/e-Ticketing.htm).

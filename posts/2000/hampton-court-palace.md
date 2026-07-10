@@ -5,7 +5,6 @@ categories:
   - london-2000
 wp_id: 2166
 description: I missed my Stonehenge tour but ended up at Hampton Court Palace. I navigated the confusing hedge maze, saw Henry VIII’s royal kitchen, and visited Windsor Castle and Eton School, marveling at the vibrant English countryside along the way.
-keywords: [hampton court palace, windsor castle, hedge maze, eton college, henry viii, london travel]
 ---
 
 [Stonehenge](http://www.mysteriousplaces.com/stonehenge/) is jinxed. To those who don't know, Stonehenge its a bunch of huge rocks from pre-historic Britain, and no one knows why they're there. I tried to visit it last week, but had to cancel the trip and lost about 50 pounds. (No, I don't want to know what that is in Rupees.) So this Sunday, we'd planned to go again. I called up this Magical Tour Company, which offered tours for just 22 pounds, and said, "I want to go to Stonehenge on Sunday." The guy on the phone took my credit card number and said OK.

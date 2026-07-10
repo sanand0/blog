@@ -5,7 +5,7 @@ categories:
   - llms
   - how-i-do-things
 description: I export my communications, browsing history, and records into one-line formats and use scripts to summarize blog posts and transcripts. By creating agent-friendly logs and SKILL.md files, I'm preparing my personal data for LLM-driven leverage.
-keywords: [llms, personal data, data archival, automation, knowledge management, scripts, summarization]
+tags: [llms, personal-data, automation, knowledge-management, scripts, summarization]
 ---
 
 ![](https://files.s-anand.net/images/2026-05-19-agent-consumable-content.avif)

@@ -4,7 +4,7 @@ date: 2026-05-17T00:00:00+00:00
 categories:
   - til
 description: I used AI to develop intentional communication habits, explored standard taxonomies for linked data, and tested the BitWarden CLI. I also experimented with flipbook.page's generative UI and measured Lenovo Thinkpad charging speeds with high-wattage adapters.
-keywords: [linked data, bitwarden cli, intentional communication, prediction markets, generative ui, deepsec, lenovo thinkpad]
+tags: [prediction-markets, generative-ai]
 ---
 
 This week, I learned:

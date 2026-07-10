@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 95
 description: I built a quiz featuring lyrics from 15 classic Tamil songs released before 1970. Test your knowledge of golden-age cinema by identifying the correct movie for each snippet; the input boxes turn green for correct answers.
-keywords: [tamil cinema, song lyrics, movie quiz, old tamil songs, kollywood, interactive quiz]
+tags: [tamil-cinema, song-lyrics, movie-quiz, tamil-songs, kollywood, interactive-quiz]
 ---
 
 <p>Here are words from the middle of 15 old songs (before 1970). Can you guess which <b>movie</b> they are from?</p>

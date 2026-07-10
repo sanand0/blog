@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1250
 description: I linked to my personal Blogtree profile, a tool designed to visualize the genealogical connections and lineage between different blogs, helping me track how my site fits into the broader weblog community.
-keywords: [blogtree, blog mapping, blog lineage, weblog history, digital genealogy, networking]
+tags: [web-history, networking]
 ---
 
 My [Blogtree](http://www.blogtree.com/blogtree.php?blogid=1029).

@@ -2,7 +2,7 @@
 title: Duplicate names in Straive
 date: 2026-06-19T16:17:32+08:00
 description: I investigated email confusion at Straive by using an AI agent to find duplicate names in Darwinbox. While I’m one of five 'Anand S' entries, others like 'Ramya R' face even more identity overlap with nine identical records.
-keywords: [straive, darwinbox, naming conventions, identity management, email confusion, ai agents]
+tags: [straive, ai-agents]
 ---
 
 At Straive, there's another [Anand Subramanian](https://www.linkedin.com/in/anand-subramanian-6227471b/) who gets my emails and I get his emails. Name confusion - despite my last name being listed as "S", not "Subramanian".

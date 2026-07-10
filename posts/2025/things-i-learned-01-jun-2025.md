@@ -4,7 +4,7 @@ date: 2025-06-01T00:00:00+00:00
 categories:
   - til
 description: I explored Firecracker microVMs, compared Hetzner’s value against Google Cloud, and optimized my workflow with Git worktrees and pretty-quick. I also found DuckLake for editable Parquet files and tested Node’s native test runner for backend projects.
-keywords: [firecracker, hetzner, git worktrees, ducklake, duckdb, pretty-quick, f2, vitest]
+tags: [duckdb]
 ---
 
 This week, I learned:

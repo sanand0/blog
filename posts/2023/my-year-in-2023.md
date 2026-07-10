@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 3486
 description: "This year-end review tracks partial success on experiments, environmental changes, and calendar discipline while setting 2024 goals around compounding, health, and relationships."
-keywords: ["year in review", "2023", "goals", "experiments", "self-improvement", "planning"]
+tags: [year-in-review, goals, experiments, self-improvement]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7147567283299639296/
 ---
 

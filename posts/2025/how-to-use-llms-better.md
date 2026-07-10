@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: "Using the best models, giving them rich context, working through code, tracking what still fails, and leaning into audio are the current highest-leverage habits."
-keywords: ["LLM usage", "best practices", "context", "audio interfaces", "AI coding", "prompting"]
+tags: [ai-coding, prompting]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7358724834857570304/
 ---
 

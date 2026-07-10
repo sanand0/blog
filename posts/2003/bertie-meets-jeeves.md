@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 977
 description: I found the text for the classic moment when Bertie Wooster first meets Jeeves in P.G. Wodehouse's 'Jeeves Takes Charge.' It marks the start of one of literature's most famous and humorous partnerships.
-keywords: [p.g. wodehouse, bertie wooster, jeeves, jeeves takes charge, humor, british literature]
+tags: [humor]
 ---
 
 The first time [Bertie meets Jeeves](http://mslib.mos.ru/moshkow/koi/INPROZ/WUDHAUS/jeeves01engl.txt). [via RobotWisdom](http://www.robotwisdom.com)

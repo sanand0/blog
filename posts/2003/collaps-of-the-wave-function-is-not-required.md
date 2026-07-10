@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 975
 description: I share John Ashmead's perspective on eliminating the collapse of the wave function. Since our world is fundamentally quantum mechanical, classical physics should be fully explicable through quantum terms without requiring a separate, distinct domain.
-keywords: [quantum mechanics, wave function collapse, john ashmead, classical physics, theoretical physics]
+tags: [quantum-mechanics]
 ---
 
 John Ashmead offers a view of quantum mechanics in which the [collapse of the wave function can be done away with](http://xxx.lanl.gov/abs/quant-ph/0301016).

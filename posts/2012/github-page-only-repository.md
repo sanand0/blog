@@ -6,7 +6,7 @@ categories:
   - coding
 wp_id: 2838
 description: I found a simple way to host GitHub Pages without needing a master branch on the remote. By mapping my local master to the remote gh-pages branch in .git/config, I can push web content directly to the live site.
-keywords: [github pages, gh-pages, git config, web hosting, git push, static sites]
+tags: [github-pages, web-hosting, static-sites]
 ---
 
 Github offers [Github Pages](http://pages.github.com/) that let you host web pages on Github.

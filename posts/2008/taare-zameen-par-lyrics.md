@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 59
 description: I shared a collection of moving lyrics and songs from the film Taare Zameen Par. Tracks like Maa and Kholo Kholo highlight the beauty of the Hindi language through their deep emotional and poetic quality.
-keywords: [taare zameen par, hindi lyrics, bollywood music, song lyrics, indian cinema, hindi language]
+tags: [song-lyrics, indian-cinema]
 ---
 
 The songs were moving enough. The lyrics turn out to be beautiful too. The beauty of the language really comes out with songs like these.

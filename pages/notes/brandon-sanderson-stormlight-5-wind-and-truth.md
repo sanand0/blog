@@ -2,7 +2,7 @@
 title: Brandon Sanderson - Stormlight 5 - Wind and Truth
 build: { list: never, render: always }
 description: I compiled a comprehensive summary of Brandon Sanderson’s Wind and Truth, tracking the identity of Shallan’s mother, the reformation of the Oathpact, and the transformation of the Shards. These notes capture every major twist in the Stormlight Archive finale.
-keywords: [brandon sanderson, stormlight archive, wind and truth, cosmere, shard, oathpact, kaladin stormblessed]
+tags: [brandon-sanderson]
 ---
 
 - To add somewhere: There were 7-8 Honorspren, 1 cultivationspren, 1-2 of both

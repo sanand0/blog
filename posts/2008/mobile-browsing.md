@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 38
 description: I analyzed my HTTP logs and discovered mobile users outnumbering those on Linux or OS X. This shifted my focus from client-side Javascript toward plain HTML to ensure my site works better on small mobile screens.
-keywords: [mobile browsing, http logs, web analytics, web design, accessibility, smartphone]
+tags: [web-analytics, web-design, accessibility, smartphone]
 ---
 
 <p>When I <a href="/blog/attack-of-the-bots/">analysed my HTTP log last week</a>, I had another motive: are there enough people accessing my site on a mobile device? Or is it too small at this stage for me to care about?</p>

@@ -4,7 +4,7 @@ date: 2014-11-16T00:00:00+00:00
 categories:
   - til
 description: I explored a curated list of generative AI companies currently disrupting traditional SaaS incumbents in the martech space, focusing on how emerging AI tools are reshaping established software markets and categories.
-keywords: [gen ai, saas, martech, disruption, generative ai, software-as-a-service]
+tags: [generative-ai, saas]
 ---
 
 This week, I learned:

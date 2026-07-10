@@ -5,7 +5,7 @@ categories:
   - interviews
 wp_id: 2183
 description: I detail my IIM Bangalore exchange interview experience, where I secured a spot at London Business School. I focus on navigating cultural questions and the importance of having prepared, passionate answers regarding social impact and university contribution.
-keywords: [iim bangalore, london business school, student exchange, interview preparation, indian philosophy, social responsibility]
+tags: [iim-bangalore, london-business-school, interview-preparation]
 ---
 
 There were 22 vacancies, and 45 were shortlisted (out of less than 70 applicants). We were interviewed by 5 panels, each with 2 professors. We had submitted our resumes, a writeup on why we were applying for the programme, various declarations and our grade sheet. Though it was rumoured that grades played a 50% part in shortlisting, it was not so. Each panel ranked their candidates independently (in which grades played only an implicit part) -- so it was the interview that really counted. After ranking, they pooled the rankings across panels (this is probably where grades might come in) and allocated the first available preference by rank. If the universities you opted for are not available, you would not be considered for other universities even if your ranking is high. So it makes sense to fill out all the universities of your choice if you're keen on going.

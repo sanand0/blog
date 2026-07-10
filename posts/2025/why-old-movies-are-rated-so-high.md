@@ -4,7 +4,7 @@ categories:
   - linkedin
   - visualisation
 description: "I used data analysis to uncover why old movies rank so high on IMDb. It’s selection bias: obscure classics are rated by enthusiasts, while popular modern hits suffer a 'democracy penalty' from casual viewers who give lower scores."
-keywords: [imdb, selection bias, data analysis, movie ratings, statistics, claude code]
+tags: [imdb, data-analysis, movie-ratings, statistics, claude-code]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7395757328177774592/
 ---
 

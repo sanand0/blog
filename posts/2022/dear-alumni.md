@@ -3,7 +3,7 @@ date: "2022-10-11T07:36:45Z"
 categories:
   - linkedin
 description: "This is a recruiting note for a senior advanced analytics role, aimed at alumni networks and people with both data-science and business-facing maturity."
-keywords: ["recruitment", "alumni", "advanced analytics", "associate partner", "hiring", "strategy consulting"]
+tags: [recruitment, alumni, hiring]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6985503445453611008/
 ---
 

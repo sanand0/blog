@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 396
 description: I'm highlighting the launch of Google Finance and Google Mars, two new services providing market data and high-resolution planetary imagery. These tools represent Google's early expansion into niche data domains like financial services and astronomy.
-keywords: [google finance, google mars, planetary mapping, market data, astronomy, search engines]
+tags: [google-maps, astronomy, search-engines]
 ---
 
 New from Google: [Google Finance](http://finance.google.com/), and [Google Mars](http://mars.google.com/).

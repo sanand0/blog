@@ -6,7 +6,7 @@ categories:
   - coding
 wp_id: 3627
 description: "Custom Cursor rules work best when they encode explicit coding style, architecture preferences, libraries, and validation habits so the assistant starts from your defaults rather than generic ones."
-keywords: [Cursor, custom rules, AI coding, coding standards, developer preferences, prompt configuration]
+tags: [cursor, ai-coding]
 ---
 
 [cursor.directory](https://cursor.directory/) is a catalog of [Cursor rules](https://docs.cursor.com/context/rules-for-ai#rules-for-ai). Since I've actively switched over from [VS Code](https://code.visualstudio.com/) to [Cursor](https://www.cursor.com/) as my editor, I reviewed the popular rules and came up with this as my list:

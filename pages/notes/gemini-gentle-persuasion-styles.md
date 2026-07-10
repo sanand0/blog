@@ -4,7 +4,7 @@ date: 2026-01-22T22:02:34+05:30
 source: "https://gemini.google.com/u/2/app/7cefc8a1b9a999e3"
 build: { list: never, render: always }
 description: I select eight authors who excel at "intellectual hospitality" and gentle persuasion. These writers prioritize empathy and identity safety over facts, demonstrating how to lower psychological reactance to foster genuine curiosity and lasting change in others.
-keywords: [persuasion, psychology, nonviolent communication, intellectual hospitality, reactance, how minds change]
+tags: [persuasion, psychology]
 ---
 
 ## User

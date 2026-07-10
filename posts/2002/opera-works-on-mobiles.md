@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1095
 description: I'm exploring Opera's move into the smartphone market after they revamped their site to focus on mobile. Even though I don't fully understand the tech, their browser seems to handle small-screen rendering and mobile web browsing effectively.
-keywords: [opera, mobile browser, smartphones, small-screen rendering, mobile web]
+tags: [opera, smartphone]
 ---
 
 [Opera works well with mobile phones](http://rss.com.com/2100-1023-961831.html?type=pt&part=rss&tag=feed&subj=news). I don't understand how, personally, but [Opera has revamped its site](http://www.opera.com/products/smartphone/?session=) focusing on smartphones, and seems to have a good technology here.

@@ -4,7 +4,6 @@ date: 2026-03-29T00:00:00+00:00
 categories:
   - til
 description: I looked into "LLM Psychologist" job trends, OpenAI acquiring Astral, and the hedonic treadmill. I found new inference hardware hitting 30,000 tok/s and learned EARS syntax for better requirements engineering while experimenting with agentic git patterns.
-keywords: [llm psychologist, astral, ears syntax, inference hardware, quickjs-emscripten, crdt, hedonic treadmill, agentic engineering]
 ---
 
 This week, I learned:

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 741
 description: I discovered a Blogger template designed to mimic Google's minimalist search interface. Found while browsing Shamit's page, it highlights a trend in early 2000s web design where creators mirrored popular search engine aesthetics for personal blogs.
-keywords: [blogger, templates, google-style, web design, minimalism, blogging]
+tags: [blogger, web-design, minimalism, blogging]
 ---
 
 The [Google-like blogger template](http://blogger-templates.blogspot.com/2005/01/my-google-blog.html) had me for a while, when I was browsing [Shamit's page](http://shamitbagchi.blogspot.com/).

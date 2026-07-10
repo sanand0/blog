@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 272
 description: I found this classic Best of Craigslist story where a man outwits his mugger and turns the tables. It is a humorous and ironic account of street justice involving a very confused thief.
-keywords: [craigslist, humor, street justice, irony, crime, storytelling]
+tags: [humor, storytelling]
 ---
 
 [The man who robbed a robber](http://www.craigslist.org/about/best/phx/121820819.html).

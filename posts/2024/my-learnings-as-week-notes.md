@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 3777
 description: "Weekly learning notes only work when capture is nearly frictionless, turning small everyday observations into a durable compounding system for memory and reflection."
-keywords: [week notes, learning habits, frictionless capture, Markdown, GitHub Pages, personal knowledge]
+tags: [markdown, github-pages]
 ---
 
 ![My learnings as week notes](/blog/assets/things-i-learned.webp)

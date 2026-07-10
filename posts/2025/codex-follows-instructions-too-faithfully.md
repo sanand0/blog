@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: "Coding agents can over-literalize instructions, so sloppy or conflicting guidance in rules files creates predictable but absurd failures."
-keywords: ["Codex", "AI coding agents", "instruction following", "AGENTS.md", "prompt design", "failure modes"]
+tags: [codex, ai-coding-agents, agents-md, prompt-design]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7370987866577022976/
 ---
 

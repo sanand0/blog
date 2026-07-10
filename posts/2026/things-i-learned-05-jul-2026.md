@@ -4,7 +4,7 @@ date: 2026-07-05T00:00:00+00:00
 categories:
   - til
 description: I built an offline RSS archiving pipeline using monolith and feed2exec, tested the minimal coding agent Tau, set up Claude Code path-specific rules, and studied the psychology behind LLM role confusion attacks.
-keywords: [monolith, feed2exec, claude code, tau, role confusion, offline archiving]
+tags: [claude-code]
 ---
 
 This week, I learned:

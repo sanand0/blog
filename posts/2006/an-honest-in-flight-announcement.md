@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 220
 description: I found a refreshingly honest take on in-flight announcements, highlighting that mobile phones are actually banned to protect ground-based cellular networks rather than aircraft navigation systems. It's a candid breakdown of common airline myths.
-keywords: [airline safety, in-flight announcements, mobile networks, interference, cellular technology, aviation]
+tags: [mobile-networks, aviation]
 ---
 
 What would an [honest in-flight announcement](http://www.economist.com/opinion/PrinterFriendly.cfm?story_id=7884654) sound like? Among other things, it would say...

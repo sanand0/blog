@@ -3,7 +3,7 @@ date: "2021-01-14T04:44:20Z"
 categories:
   - linkedin
 description: I am honored that our work was included in Andy Kirk's curated data visualization list. His recognition is a significant motivator for my team as we continue to develop innovative visual journalism and information design projects.
-keywords: [andy kirk, data visualization, visual journalism, information design, curation, data storytelling]
+tags: [data-visualization, information-design, curation, data-storytelling]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6755343760651120640/
 ---
 

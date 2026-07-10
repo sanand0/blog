@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 99
 description: I found a real-life Truman Show on Justin.tv, where Justin Kan broadcasts his life 24/7 via a wearable camera. It is a raw, continuous live stream capturing everything from daily routines to private dates in real-time.
-keywords: [justin.tv, live streaming, lifelogging, wearable camera, truman show, broadcasting]
+tags: [broadcasting]
 ---
 
 The Truman Show is on for real, on [Justin.TV](http://www.justin.tv/).

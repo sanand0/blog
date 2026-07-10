@@ -6,7 +6,7 @@ categories:
   - coding
 wp_id: 75
 description: I built a JavaScript fallback system to load heavy assets from multiple mirrors. If one free host is down or bandwidth-limited, my script automatically tries the next source until the data loads successfully.
-keywords: [javascript, load distribution, mirror sites, script loading, frontend optimization, bandwidth management]
+tags: [javascript]
 ---
 
 My [music search engine](/hindi) shows a list of songs as you type -- sort of like Google's [autosuggest](http://www.google.nl/webhp?complete=1&hl=en) feature. I load my entire list of songs upfront for this to work. Though it's [compressed to load fast](/blog/hindi-songs-online/), each time you load the page, it downloads about 500KB worth of song titles.

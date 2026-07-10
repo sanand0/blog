@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 308
 description: I created an interactive jigsaw quiz featuring stills from Tamil movies. You can rearrange the jumbled blocks to reveal the images and guess the titles. See if you can solve the notoriously difficult third puzzle.
-keywords: [tamil movies, jigsaw puzzle, movie quiz, interactive game, visual puzzle, kollywood]
+tags: [tamil-movies, jigsaw-puzzle, movie-quiz, interactive-game, kollywood]
 ---
 
 <p>These are stills from Tamil movies. Each link points to a different movie. I have jumbled the images. You can <b>move the jumbled blocks around, like a jigsaw</b>. Can you guess the movie?</p>

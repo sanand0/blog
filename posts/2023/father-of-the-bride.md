@@ -7,7 +7,7 @@ categories:
   - interesting-experiences
 wp_id: 3460
 description: "The acquisition of Gramener by Straive is framed as a founder's emotional handover: part gratitude, part grief, part growth, and part renewed curiosity about the next chapter."
-keywords: ["Gramener", "Straive", "acquisition", "founder", "career transition", "gratitude"]
+tags: [gramener, straive, acquisitions, gratitude]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7125495999652925442/
 ---
 

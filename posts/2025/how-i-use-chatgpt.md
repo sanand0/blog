@@ -6,7 +6,7 @@ categories:
   - linkedin
   - llms
 description: "Two years of conversation history show ChatGPT as a major time-saving force centered on coding, ideation, writing, and advice, while also exposing personal blind spots."
-keywords: ["ChatGPT usage", "conversation analysis", "productivity", "coding", "ideation", "personal blind spots"]
+tags: [chatgpt-usage, productivity, ideation]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7344186464080941056/
 ---
 

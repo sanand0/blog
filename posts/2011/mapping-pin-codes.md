@@ -6,7 +6,7 @@ categories:
   - visualisation
 wp_id: 2612
 description: I built a crowd-sourced platform to map Indian PIN codes after finding no reliable open databases. I used GeoNames and OpenStreetMap data to seed the project, allowing users to contribute coordinates under a Creative Commons license.
-keywords: [indian pin codes, geo-location, crowd-sourcing, geonames, openstreetmap, open data, datameet]
+tags: [open-data]
 ---
 
 I haven’t found an open or reliable database providing the geo-location of [Indian PIN codes](http://en.wikipedia.org/wiki/Postal_Index_Number). That’s a bother if you’re creating geographic mash-ups. The closest were commercial sources:

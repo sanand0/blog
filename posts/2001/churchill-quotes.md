@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1716
 description: I curated a collection of humorous Winston Churchill quotes that showcase his legendary wit and sharp political repartee. These examples highlight his quick-thinking responses and the distinctive style of his historical banter.
-keywords: [winston churchill, humor, witticisms, quotes, political banter, historical rhetoric]
+tags: [humor, quotes]
 ---
 
 Funny [Churchill quotes](http://www.workinghumor.com/quotes/winston_churchill.shtml).

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 359
 description: I explore why nanotechnology became a top Google search query in India in early 2006, comparing its technical popularity to global trends and considering the influence of local science writers and media coverage.
-keywords: [nanotechnology, google zeitgeist, india, search trends, internet culture, data analysis]
+tags: [nanotechnology, google-zeitgeist, india, search-trends, internet-culture, data-analysis]
 ---
 
 Why is **nanotechnology** in the [top Google queries from India](http://www.google.co.uk/press/zeitgeist.html)?

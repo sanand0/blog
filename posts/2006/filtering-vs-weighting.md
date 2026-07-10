@@ -5,7 +5,7 @@ categories:
   - business-realities
 wp_id: 175
 description: I rejected the standard weighted-average approach for CRM selection in favor of binary filtering. Using strict yes/no criteria for essential features prevents the manipulation inherent in subjective scoring and provides a clear, defensible rationale for every rejection.
-keywords: [crm selection, decision making, weighting, filtering, multi-criteria decision analysis, software evaluation, binary criteria]
+tags: [decision-making]
 ---
 
 I am selecting a CRM package for a bank. I asked my colleagues how they'd gone about it, and got 8 responses. **Every single one of them had the same weighting approach**: Take a huge list of criteria, assign weights, score each package, calculate a weighted-average score, pick the highest one.

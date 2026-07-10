@@ -3,11 +3,9 @@ title: The Non-Designers Design Book
 date: "2008-08-15T12:00:00Z"
 categories:
   - visualisation
-tags:
-  - book
+tags: [book, alignment]
 wp_id: 43
 description: I found "The Non-Designer's Design Book" is the best primer for beginners. I use its four "CRAP" principles—Contrast, Repetition, Alignment, and Proximity—to fix common visual errors in slide decks and improve information grouping.
-keywords: [robin williams, visual design, crap principles, alignment, proximity, contrast, repetition, presentation design]
 ---
 
 I've been thumbing through books on visual design for a while, and recently, picked up a copy of [The Non-Designer's Design Book](http://www.amazon.com/Non-Designers-Design-Book-Typographic-Principles/dp/1566091594/tag=sanand-20) by Robin Williams.

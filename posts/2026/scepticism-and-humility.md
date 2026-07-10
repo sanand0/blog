@@ -2,7 +2,7 @@
 title: Scepticism and Humility
 date: '2026-02-18T22:52:35+08:00'
 description: Different combinations of scepticism and humility produce distinct thinking styles, each useful in some contexts and damaging in others.
-keywords: [scepticism, humility, decision making, thinking styles, mindsets, judgment]
+tags: [decision-making, judgment]
 ---
 
 <!-- https://gemini.google.com/app/8d5064357294c1fc -->

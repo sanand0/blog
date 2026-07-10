@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 367
 description: Attractive people earn higher salaries due to a positive feedback loop where both employer expectations and individual self-confidence are higher. This psychological mechanism translates these initial perceptions into measurable performance gains and professional success.
-keywords: [attractiveness bias, labor economics, wage gap, positive feedback loop, workplace performance, psychology]
+tags: [labor-economics, psychology]
 ---
 
 Beautiful people are paid more because of a [positive feedback mechanism](http://www.collisiondetection.net/mt/archives/2006/04/_economists_hav.html). Employers expect them to perform better. They expect themselves to perform better. And these come across.

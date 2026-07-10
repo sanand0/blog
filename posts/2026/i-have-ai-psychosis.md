@@ -5,7 +5,7 @@ categories:
   - llms
   - funny
 description: I score 16/19 on an informal AI psychosis checklist. I dive into how chatbots amplify delusional thinking through sycophancy and anthropomorphism, noting that at-risk users are far more likely to treat AI as friends or therapists.
-keywords: [ai psychosis, llms, anthropomorphism, sycophancy, eliza effect, mental health, chatbots]
+tags: [llms, chatbots]
 ---
 
 On this informal AI psychosis checklist, I score 16/19.

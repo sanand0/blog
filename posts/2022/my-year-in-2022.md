@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 3389
 description: "This year-end reflection measures mixed progress on experiments, speaking, effectiveness, and relocation while setting 2023 goals around experiments, environment design, and calendar discipline."
-keywords: ["year in review", "2022", "goals", "experiments", "Singapore", "self-improvement"]
+tags: [year-in-review, goals, experiments, singapore, self-improvement]
 ---
 
 ![My Year in 2022](/blog/assets/new-year-2022.webp)

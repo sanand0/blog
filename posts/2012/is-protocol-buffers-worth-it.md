@@ -6,7 +6,7 @@ categories:
   - coding
 wp_id: 2779
 description: I benchmarked Protocol Buffers against JSON and CSV in Python to compare serialization speed and file size. I found protobuf significantly slower than JSON, while gzipped JSON and CSV provided better compression and performance for structured data.
-keywords: [protocol buffers, python, json, csv, serialization, gzip, benchmarking]
+tags: [python, benchmarking]
 ---
 
 Google’s [Protocol Buffers](https://developers.google.com/protocol-buffers/) is a “language-neutral, platform-neutral, extensible mechanism for serializing structured data – **think XML, but smaller, faster, and simpler**”

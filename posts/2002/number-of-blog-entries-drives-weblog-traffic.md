@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1457
 description: I analyzed my site traffic and discovered a direct correlation between the number of posts and total visits, calculating that each blog entry I write generates an average of 12 hits for my website.
-keywords: [weblog traffic, site analytics, blogging statistics, traffic growth, hit count]
+tags: [web-traffic]
 ---
 
 After analysing my site traffic, I found that each entry of mine is worth 12 hits.

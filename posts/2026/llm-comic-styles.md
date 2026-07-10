@@ -5,7 +5,7 @@ categories:
 - llms
 classes: wrap-code
 description: A reusable gallery of comic-style prompts makes AI image generation more systematic, letting you apply distinct visual storytelling styles on demand.
-keywords: [comic styles, image generation, prompt library, LLM art, visual storytelling, style transfer]
+tags: [image-generation, visual-storytelling, style-transfer]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7437646071616557057/
 ---
 

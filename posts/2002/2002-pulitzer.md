@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1372
 description: Thomas Friedman won the 2002 Pulitzer Prize for his New York Times commentary. You can also find interesting audio clips on his Lexus and the Olive Tree book site for more context on his reporting.
-keywords: [thomas friedman, pulitzer prize, commentary, lexus and the olive tree, new york times, journalism]
+tags: [thomas-friedman, new-york-times, journalism]
 ---
 
 Thomas Friedman won the [2002 Pulitzer](http://www.pulitzer.org/cyear/2002w.html) for his [commentary](http://www.nytimes.com/2002/04/08/nyregion/08commentary.1.html). Incidentally, his book site ([Lexus and the Olive Tree](http://www.lexusandtheolivetree.com/)) has some interesting audio clips.

@@ -3,7 +3,7 @@ date: "2022-03-16T09:48:22Z"
 categories:
   - linkedin
 description: "This brief note marks Gramener's new Hyderabad office as one more milestone in a decade-long startup journey that once aimed only to survive."
-keywords: ["Hyderabad office", "Gramener", "startup milestones", "growth", "LinkedIn", "founders"]
+tags: [gramener, linkedin]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6909797500946186240/
 ---
 

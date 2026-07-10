@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1939
 description: I find Plastic.com to be a compelling source for community-driven news. I particularly enjoy exploring the work section for its specific focus, highlighting how collaborative platforms can surface unique perspectives on daily headlines and industry topics.
-keywords: [plastic.com, news community, collaborative media, online journalism, web portals, digital discourse]
+tags: [web-portals]
 ---
 
 [Plastic](http://www.plastic.com) -- an interesting news source. I like [Plastic work](http://www.plastic.com/index.pl?section=work).

@@ -3,7 +3,7 @@ title: Calvin & Hobbes Quote Search
 build: { list: never, render: always }
 robotsNoIndex: true
 description: An interactive search tool for Calvin & Hobbes quotes.
-keywords: [calvin and hobbes, quote search, comic strips, search interface, bill watterson]
+tags: [calvin-and-hobbes, comic-strips, bill-watterson]
 ---
 
 <style>

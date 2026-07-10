@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 1823
 description: I'm losing a primary information source as the subject-specific Scout reports are being discontinued this month due to a lack of funding. These curated resources were essential for my research and staying informed on niche topics.
-keywords: [scout report, internet scout, research resources, academic archives, digital curation, information discovery]
 ---
 
 The [subject-specific Scout reports](http://scout.cs.wisc.edu/report/sr/2001/scout-010518txt.html), which were a prime source of my information, are about to be discontinued from the end of the month. (No funds.)

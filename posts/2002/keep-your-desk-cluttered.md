@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 988
 description: I’m skeptical of clean desk mandates. Research suggests that 'pilers' often find information more efficiently than 'filers,' who tend to accumulate extraneous data and access their records less frequently than those with cluttered workspaces.
-keywords: [productivity, organization, filing systems, workspace management, information retrieval, efficiency]
+tags: [productivity, organization, information-retrieval, efficiency]
 ---
 
 Interesting article on The Economist on the [value of a cluttered desk](http://www.economist.com/business/displayStory.cfm?story_id=1489224).

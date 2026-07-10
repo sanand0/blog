@@ -3,7 +3,7 @@ title: Oh Shit moments with Gen AI
 date: 2026-06-07T20:13:01+05:30
 categories:
   - links
-keywords: [generative ai, hacker news, large language models, automation, reverse engineering, ai productivity]
+tags: [generative-ai, llms, automation, reverse-engineering, productivity]
 description: Explore 24 real-world examples of GenAI's power, from reverse engineering firmware and automating legal appeals to finding math counterexamples and building digital twins. These Hacker News highlights demonstrate high-leverage automation in coding, security, and specialized research.
 ---
 

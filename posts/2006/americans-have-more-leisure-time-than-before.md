@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 403
 description: Although Americans feel busier, data shows leisure time has increased. This perceived time pressure stems from rising real incomes, which increase the opportunity cost of time and make activities like a walk in the park feel more expensive.
-keywords: [leisure time, opportunity cost, real income, time pressure, economics of time]
 ---
 
 [Americans have more leisure time than before](http://www.economist.com/printedition/displayStory.cfm?story_id=5476124).

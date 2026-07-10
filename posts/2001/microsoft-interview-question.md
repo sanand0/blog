@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1964
 description: I explore classic Microsoft interview riddles, like writing a one-line C expression to check for powers of two or decoding assembly snippets. These resources provide a glimpse into the brainteasers used during technical hiring processes.
-keywords: [microsoft interview, c programming, assembly language, brainteasers, algorithms, software engineering]
+tags: [programming, algorithms, software-engineering]
 ---
 
 "Write a one-line C expression to determine if a number is a power of 2". Microsoft is famous for [asking such questions](http://www-scf.usc.edu/~bondalap/ais/msqs.html) to their programmers. Or you might want to find out what the assembly code

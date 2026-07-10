@@ -7,7 +7,7 @@ categories:
   - llms
 wp_id: 4036
 description: "LLMs speed up ambitious visual storytelling less by replacing expertise than by reducing procrastination, lowering friction, and making iteration and ideation radically easier."
-keywords: [visual storytelling, AI coding, Copilot, data stories, workflow lessons, visualization design]
+tags: [visual-storytelling, ai-coding, copilot, data-stories]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7317834103418933248/
 ---
 

@@ -4,7 +4,7 @@ date: '2026-01-19T18:39:33+05:30'
 categories:
 - how-i-do-things
 description: LinkedIn is a poor medium for serious reading and writing, so blogs remain the better canonical home for durable content.
-keywords: [LinkedIn, content strategy, blogging, distribution, creator platforms, network effects]
+tags: [linkedin, content-strategy, blogging]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7419378301485535232/
 ---
 

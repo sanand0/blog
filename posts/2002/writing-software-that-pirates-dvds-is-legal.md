@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1011
 description: I shared a surprising report that writing software to pirate DVDs is legally protected. It’s an interesting piece of history regarding the early legal battles over encryption bypass tools and developer freedom.
-keywords: [dvd piracy, copyright law, encryption, digital rights management, legal ruling, software development]
+tags: [copyright-law, encryption, digital-rights-management, software-development]
 ---
 
 This one is funny. [It's legal to write software that pirates DVDs](http://www.newscientist.com/news/news.jsp?id=ns99993142).

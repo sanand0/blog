@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1066
 description: I was saddened to learn about the death of Richard Harris, the actor who played Albus Dumbledore. I'm curious whether he finished filming his role for the upcoming Harry Potter sequel before he passed away.
-keywords: [richard harris, albus dumbledore, harry potter, film casting, chris columbus]
+tags: [harry-potter]
 ---
 
 I didn't know that [Richard Harris was Dumbledore](http://timesofindia.indiatimes.com/cms.dll/articleshow?artid=26340190). Pity. He's no more.

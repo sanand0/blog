@@ -5,7 +5,6 @@ categories:
   - llms
   - how-i-do-things
 description: Using ChatGPT to conduct a targeted interview and analyze a daily food log generates a concise, AI-readable specification of dining preferences to improve automated restaurant recommendations.
-keywords: [ai restaurant recommendations, chatgpt prompt, food preference profile, personal context specification, food log analysis]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7453512626417975296/
 ---
 

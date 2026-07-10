@@ -5,7 +5,7 @@ categories:
   - mumbai
 wp_id: 1228
 description: I photographed a two-story apartment built under a Bandra station staircase, reflecting on Mumbai's extreme density. Despite cramped conditions, migrants repurpose every inch of space for shelter and livelihoods, prioritizing economic opportunity over comfortable housing.
-keywords: [mumbai, bandra station, urban density, migration, informal housing, livelihoods]
+tags: [mumbai, migration]
 ---
 
 [![House under Bandra station staircase](/blog/assets/flickr-house-under-bandra-station-staircase_24690308_o-jpg.webp)](/blog/assets/flickr-house-under-bandra-station-staircase_24690308_o-jpg.webp)

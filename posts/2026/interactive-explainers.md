@@ -5,7 +5,7 @@ categories:
   - education
   - llms
 description: Since LLMs can now generate working interactive explainers easily, explanation itself can become more exploratory, visual, and learnable than static text allows.
-keywords: [interactive explainers, LLMs, education, concept learning, visualization, adversarial validation]
+tags: [llms, education, data-visualization]
 ---
 
 Given how easy it is to create interactive explainers with LLMs, we should totally do more of these!

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 738
 description: Boost your creativity by introducing artificial constraints, such as picking a random word from a dictionary to incorporate into your ideas. Remember that total freedom often inhibits the creative process, while limitations force more innovative thinking.
-keywords: [creativity, brainstorming, creative constraints, random word technique, problem solving, ideation]
+tags: [creativity, brainstorming, problem-solving, ideation]
 ---
 
 [10 steps for boosting your creativity](http://www.jpb.com/creative/creative.php)

@@ -4,7 +4,7 @@ date: 2026-04-13T16:16:41-07:00
 categories:
   - llms
 description: Reusable skill files meaningfully shape how coding agents work in practice, and usage patterns reveal which skills become core, which are adopted fastest, and how differently models rely on them.
-keywords: [AI agents, coding agents, reusable prompts, skills libraries, agent workflows, model behavior]
+tags: [ai-agents, coding-agents, agentic-workflows]
 ---
 
 I have a bunch of [coding agent skills](https://github.com/sanand0/scripts/tree/main/agents) I've accumulated over the last few months. Here's how often my sessions use them:

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 714
 description: Explore how search engines derive power and profit from the long tail. While top queries are popular, 97% of traffic often comes from niche, low-frequency searches, illustrating the significant economic value found in the distribution's tail.
-keywords: [long tail, search engines, chris anderson, niche markets, data distribution, economic models]
+tags: [long-tail, search-engines]
 ---
 
 [The long tail of software](http://bnoopy.typepad.com/bnoopy/2005/03/the_long_tail_o.html).

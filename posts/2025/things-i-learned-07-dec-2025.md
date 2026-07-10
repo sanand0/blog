@@ -4,7 +4,7 @@ date: 2025-12-07T00:00:00+00:00
 categories:
   - til
 description: I explored Pytest 9.0 subtests, Git’s data model, and fuzzy matching algorithms. I also investigated AI coding traps, how confessions improve model honesty, and why Theory of Mind is the key to better human-AI collaboration.
-keywords: [pytest, git, theory-of-mind, llm-evaluation, cli-tools, fuzzy-matching, productivity]
+tags: [git, llm-evaluation, cli-tools, productivity]
 ---
 
 This week, I learned:

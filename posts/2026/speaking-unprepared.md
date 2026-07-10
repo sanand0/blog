@@ -4,7 +4,7 @@ date: 2026-04-07T13:14:13+08:00
 categories:
   - llms
 description: AI makes it easier to assemble fresh stories quickly, which enables a more spontaneous speaking style and reduces the need for heavily scripted preparation.
-keywords: [public speaking, AI-assisted preparation, storytelling, presentations, creativity, spontaneity]
+tags: [public-speaking, storytelling, presentations, creativity]
 ---
 
 I deliver about [3-5 talks a month](https://sanand0.github.io/talks/) and usually prepare for them.

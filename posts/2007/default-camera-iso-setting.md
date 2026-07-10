@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 77
 description: I set my digital camera to ISO 400 by default to prevent motion blur during spontaneous indoor or fast-action shots. I prefer dealing with digital noise via NeatImage over losing a sharp image to slow shutter speeds.
-keywords: [digital photography, iso settings, neatimage, fujifilm finepix s5600, noise reduction, motion blur]
+tags: [digital-photography]
 ---
 
 In those early days, when all I had was an analog SLR, I had to make choices up-front. Do I buy an ISO 100 film for daytime shooting? (It's cheaper, besides.) Do I go in for the expensive ISO 1600 film for my fancy night shots? Do I lug around the tripod? Do I use the flash? Do I even bother taking indoor shots? etc.

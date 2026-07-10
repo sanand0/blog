@@ -5,7 +5,7 @@ categories:
   - llms
   - business-realities
 description: "Software value is shifting from fixed UIs and app logic toward prompt, API, and eval orchestration, though domain-expert-plus-coder pairings remain especially effective."
-keywords: ["agents", "SaaS", "software future", "prompts", "APIs", "evals"]
+tags: [agents, saas]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7341415710096543757/
 ---
 

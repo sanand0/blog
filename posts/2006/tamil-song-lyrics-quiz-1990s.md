@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 231
 description: I created a quiz featuring 10 Tamil song lyrics from the period 1990–1994. Test your Kollywood knowledge by identifying the specific movie for each song snippet in this interactive and nostalgic musical challenge.
-keywords: [tamil cinema, song lyrics, quizzes, 1990s music, kollywood, interactive quiz]
+tags: [tamil-cinema, song-lyrics, quizzes, 1980s-music, kollywood, interactive-quiz]
 ---
 
 <p>Here are words from the middle of 10 songs from 1990-1994. Can you guess which <b>movie</b> they are from? (Films are NOT repeated)</p>

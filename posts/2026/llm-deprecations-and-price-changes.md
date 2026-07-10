@@ -4,7 +4,7 @@ date: 2026-05-21T14:02:10+08:00
 categories:
   - llms
 description: I analyze how LLM providers like Google and OpenAI are shifting from cheap customer acquisition to value extraction. To manage rising costs and deprecations, I recommend using multi-tier routing and evaluating models based on completed-task costs.
-keywords: [llm pricing, gemini flash, gpt-5, claude sonnet, model routing, tokenomics, api costs]
+tags: [llm-pricing, gemini-flash, gpt-5]
 ---
 
 A colleague told me a near-miss horror story.

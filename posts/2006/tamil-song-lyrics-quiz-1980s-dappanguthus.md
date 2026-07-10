@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 228
 description: I created a challenging lyric quiz featuring 10 fast-paced Tamil dappanguthu songs from the 1980s. Test your knowledge by identifying the movie for each song based on snippets from the middle of the lyrics.
-keywords: [tamil cinema, 1980s music, dappanguthu, lyric quiz, kollywood, song trivia]
+tags: [tamil-cinema, 1980s-music, kollywood]
 ---
 
 <p>Here are words from the middle of 10 songs from 1980-1990. They are all <i>dappanguthus</i> -- or at least, fast songs. Can you guess which <b>movie</b> they are from?</p>

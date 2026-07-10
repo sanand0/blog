@@ -5,7 +5,7 @@ categories:
   - london-2005
 wp_id: 637
 description: I documented my shortest ever commute from Croydon to Newbury Park, managing perfectly timed train transfers at London Bridge and Bank stations. It was a rare moment where London's transport connections aligned without any waiting time.
-keywords: [london transport, commuting, croydon, newbury park, london bridge station, bank station]
+tags: [commuting]
 ---
 
 After a long time, things started going right for a change.\

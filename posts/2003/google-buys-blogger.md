@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 959
 description: Google has acquired Pyra Labs, the company behind the popular blogging tools Blogger and BlogSpot. This milestone acquisition signals a major shift as a search giant enters the rapidly growing field of personal publishing.
-keywords: [google, blogger, pyra labs, blogspot, acquisitions, dan gillmor, scripting news]
+tags: [google, blogger, acquisitions, scripting-news]
 ---
 
 [Google buys Pyra](http://weblog.siliconvalley.com/column/dangillmor/archives/000802.shtml). Pyra runs [Blogger](http://www.blogger.com) and [BlogSpot](http://www.blogspot.com). [via Scripting News](http://scriptingnews.userland.com/backissues/2003/02/16#morningBloggerNotes)

@@ -3,7 +3,7 @@ date: "2021-06-19T14:14:53Z"
 categories:
   - linkedin
 description: "A client leader's delighted reaction to a TV-rating analytics platform becomes a moment of validation for all the hidden weekend work that built it."
-keywords: ["client impact", "Star TV", "analytics platform", "validation", "team effort", "LinkedIn"]
+tags: [validation, linkedin]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6812020847197462528/
 ---
 

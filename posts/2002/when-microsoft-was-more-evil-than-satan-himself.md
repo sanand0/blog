@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1144
 description: I revisit a 1999 Search Engine Watch report that humorously compared Microsoft’s corporate reputation to Satan’s, capturing a nostalgic moment in tech history when the company’s market dominance and perceived evilness were the industry’s primary focus.
-keywords: [microsoft, google, search engine watch, tech history, corporate reputation, antitrust]
+tags: [microsoft, google, tech-history, antitrust]
 ---
 
 Nostalgia. Remember when [Microsoft was more evil than Satan himself](http://searchenginewatch.com/sereport/99/11-google.html)?

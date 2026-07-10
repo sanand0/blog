@@ -5,7 +5,7 @@ categories:
   - coding
 wp_id: 53
 description: I updated my Statistically Improbable Phrases application on Google AppEngine to include interactive stopword filtering, dynamic frequency adjustments, and visual controls for font size and contrast to help users better identify unique subjects in text.
-keywords: [google appengine, statistically improbable phrases, text analysis, stopword filtering, data visualization, sip]
+tags: [google-appengine, statistically-improbable-phrases, text-analysis, data-visualization]
 ---
 
 I've added some interactivity to the [Statistically improbable phrases](http://sip.s-anand.net/) application. You can now:

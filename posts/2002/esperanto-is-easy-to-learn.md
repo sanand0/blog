@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1158
 description: I decided to learn Esperanto after finding a guide that teaches the basics in just ten minutes. Despite its lack of widespread use, its simplicity makes it an appealing and accessible language for quick study.
-keywords: [esperanto, language learning, kuro5hin, constructed languages, linguistics]
+tags: [kuro5hin, linguistics]
 ---
 
 [Esperanto is quite an easy language to learn](http://www.kuro5hin.org/?op=displaystory;sid=2002/9/16/15141/4257). This article from kuro5hin teaches you the basics in 10 minutes. If only it were a widely spoken language... Still, I'm going to learn it.

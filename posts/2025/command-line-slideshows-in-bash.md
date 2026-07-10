@@ -7,7 +7,7 @@ categories:
   - tools
 wp_id: 3937
 description: "A tiny terminal slideshow script lets the shell become the presentation layer, making command-line demos feel seamless rather than awkwardly embedded."
-keywords: [terminal slides, bash, presentations, CLI demos, Python tool, PyConf]
+tags: [bash, presentations]
 ---
 
 ![Command Line Slideshows in Bash](/blog/assets/C__Downloads_7Xp8rR2uJjXtGXHKSwylyPkja.webp)

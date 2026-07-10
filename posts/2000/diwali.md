@@ -5,7 +5,7 @@ categories:
   - london-2000
 wp_id: 2153
 description: I celebrated Diwali in London, witnessing firework displays in Ilford that rivaled home in India. During a busy week of reading movie scripts, I also experimented with Fotango, an early service for free online film development and hosting.
-keywords: [diwali, london, ilford, fireworks, fotango, film photography, movie scripts]
+tags: [diwali, london, film-photography, movie-scripts]
 ---
 
 It was a rather busy week. Nothing much happened. I realized that I'd been roaming around too much, and that it was time to get to some assignments. Not that much work was done. Understandable, since most of my time was spent reading [movie scripts](http://www.script-o-rama.com) -- notably [The World is Not Enough](http://www.geocities.com/rankostome5/bond19.txt).

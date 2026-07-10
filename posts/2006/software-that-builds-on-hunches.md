@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 389
 description: I highlight Icosystem’s tool that simplifies photo editing through interactive mutations, allowing non-experts to improve images by selecting favorites. Their approach applies evolutionary computation and ant-logic algorithms to complex domains like logistics and telecom routing.
-keywords: [interactive evolutionary computation, icosystem, genetic algorithms, image processing, ant colony optimization, user interface]
+tags: [image-processing, user-interface]
 ---
 
 [Software that builds on hunches](http://www.wired.com/news/technology/0,70388-0.html).

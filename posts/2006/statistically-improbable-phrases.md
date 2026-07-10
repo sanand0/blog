@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 252
 description: I transcribed Calvin and Hobbes and compared its word frequency against a large English corpus to automatically identify characteristic themes. This 'statistically improbable phrases' method highlights unique recurring concepts like Spaceman Spiff, Transmogrifier, and tuna.
-keywords: [calvin and hobbes, text analysis, word frequency, statistically improbable phrases, corpus linguistics, natural language processing]
+tags: [calvin-and-hobbes, text-analysis, statistically-improbable-phrases, natural-language-processing]
 ---
 
 **Calvin and Hobbes has some recurrent themes**, like [Hobbes pouncing](http://calvinethobbes.free.fr/english/c_home.html), [snow art](http://www.angelfire.com/wa/zzaran/calvin.html), [polls](http://calvinethobbes.free.fr/english/c_elections.html), [letters to Santa](http://calvinethobbes.free.fr/english/c_santa.html), ...

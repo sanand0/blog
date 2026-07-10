@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 650
 description: I found a method to manipulate Amazon product image URLs, allowing you to control size, padding, and rendering styles just like Amazon does. These URL tricks provide extensive flexibility for displaying product imagery on external sites.
-keywords: [amazon, image manipulation, url parameters, product images, web development, dynamic imaging]
+tags: [amazon, image-manipulation, web-development]
 ---
 
 [Amazon image abuse](http://aaugh.com/imageabuse.html). How you can change Amazon images in practically every way that Amazon itself can.

@@ -3,7 +3,7 @@ date: "2023-08-31T09:46:57Z"
 categories:
   - linkedin
 description: "This webinar announcement pairs technical and domain perspectives to explore the practical, surprising, and risky implications of LLMs in pharma."
-keywords: ["LLMs", "pharma", "webinar", "use cases", "domain expertise", "Gramener"]
+tags: [llms, webinar, use-cases, gramener]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7102949878254751744/
 ---
 

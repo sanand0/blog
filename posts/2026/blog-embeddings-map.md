@@ -6,7 +6,7 @@ categories:
 - coding
 - how-i-do-things
 description: "Embedding maps can reveal the long-term evolution of a blog’s themes and eras, making decades of writing visually legible as clusters and transitions."
-keywords: [embeddings, UMAP, blog analysis, semantic map, writing history, visualization]
+tags: [embeddings, data-visualization]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7439154743433703424/
 ---
 

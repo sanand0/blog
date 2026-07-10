@@ -7,7 +7,7 @@ categories:
   - education
 wp_id: 4007
 description: "The fastest way to understand AI image generation is not theory but playful experimentation across replacements, stickers, interfaces, products, and environments."
-keywords: [AI image generation, experimentation, prompting, creative practice, ChatGPT images, learning by doing]
+tags: [image-generation, experimentation, prompting]
 ---
 
 ![Best way to learn AI image generation is by trying](/blog/assets/3ArgIxR.webp)

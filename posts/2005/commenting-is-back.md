@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 727
 description: I re-enabled comments on my blog after a temporary hiatus. I spent time troubleshooting initial bugs regarding frame issues and session persistence, eventually confirming that user names are saved via cookies rather than IP addresses.
-keywords: [commenting, blog maintenance, cookies, session persistence, debugging]
+tags: [blog-maintenance, debugging]
 ---
 
 I had disabled commenting for a while. It's back on.

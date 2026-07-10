@@ -3,7 +3,7 @@ date: "2022-05-04T09:45:08Z"
 categories:
   - linkedin
 description: "A colleague's remark about using every part of himself at Gramener becomes a short defense of generalists in an age that overvalues narrow specialization."
-keywords: ["generalists", "Gramener", "cross-disciplinary work", "skills", "career", "LinkedIn"]
+tags: [gramener, career, linkedin]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6927553692564934656/
 ---
 

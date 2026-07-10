@@ -4,7 +4,7 @@ date: "2009-02-19T18:42:02Z"
 lastmod: "2009-02-19T18:43:38Z"
 wp_id: 2202
 description: I pranked my classmate at IIT Madras in 1993 by digitally merging a photo of his crush with a topless shot of him using Autodesk Animator and CorelDRAW!, then mailed the result to his family home.
-keywords: [iit madras, image processing, autodesk animator, coreldraw, pranks, photography, 1990s]
+tags: [iit-madras, image-processing, pranks, photography]
 ---
 
 It began in our second year at IIT Madras (1993). Shiuli Ganguly was an M.Sc. mathematics student, and Anand Thomas Lee was my classmate. And Lee (along with a lot of other people) had a **rather high** opinion of the lady in question. (He still maintains it. I got a mail in December 1996 saying that he'd tracked her down). However, the same opinion was not held of my computer abilities (understandably so). He bet that there was no conceivable way I could get a photo of Lee and his sweetheart together - by means fair or otherwise. Actually, I lost the bet due to the time constraint, but I **did** have my revenge.

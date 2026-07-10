@@ -4,7 +4,7 @@ date: 2026-03-19T15:40:25+05:30
 categories:
   - tools
 description: Self-hosted search infrastructure like SearXNG can give LLM workflows cheap, privacy-preserving web search capabilities without depending on paid search APIs.
-keywords: [SearXNG, metasearch, privacy, self-hosting, LLM tools, research workflows]
+tags: [privacy, self-hosting, research-workflows]
 ---
 
 While exploring [resonant computing tools](https://claude.ai/share/a7ae0d69-8c56-49a2-b6f2-1e3f4cd32937), I discovered [SearXNG](https://searxng.org/), a self-hostable metasearch engine, which aggregates results from multiple search engines.

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 693
 description: I highlight Uncyclopedia, a satirical wiki that is surprisingly harder to maintain than Wikipedia. The real challenge is internal consistency—making sure all the jokes and fabricated facts align perfectly with every other lie on the site.
-keywords: [uncyclopedia, satire, wikipedia, wiki, humor, internal consistency]
+tags: [satire, wikipedia, humor]
 ---
 
 [Uncyclopedia](http://uncyclopedia.org/wiki/Main_Page). As [Arnab](http://www.arnab.org/blog/2005/03/29/miss-information) points out, this is much tougher than [Wikipedia](http://www.wikipedia.org/).

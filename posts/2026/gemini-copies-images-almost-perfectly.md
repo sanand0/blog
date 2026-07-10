@@ -4,7 +4,7 @@ date: '2026-01-22T09:33:02+05:30'
 categories:
 - llms
 description: High-fidelity image copying unlocks practical workflows like OCR cleanup, map restoration, and animation in-betweening, not just prettier images.
-keywords: [image copying, Gemini, OCR preprocessing, restoration, animation, computer vision]
+tags: [gemini, animation, computer-vision]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7420783049807798272/
 ---
 

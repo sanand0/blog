@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 491
 description: I found Canvascape, an impressive first-person shooter built using the Firefox 1.5 canvas tag. It demonstrates textured 3D environments rendered natively in the browser, highlighting the potential for early web gaming using new standards.
-keywords: [canvas tag, firefox 1.5, canvascape, 3d graphics, browser gaming, web standards]
+tags: [web-standards]
 ---
 
 Firefox 1.5's [canvas tag used to create games](http://www.abrahamjoffe.com.au/ben/canvascape/textures.htm). A first-player shooter type with textures. Impressive. (You need Firefox 1.5 to view this).

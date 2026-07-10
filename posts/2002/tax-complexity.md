@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1043
 description: I reflect on the Kelkar report's tax reform proposals and a Tom Clancy quote about the unnecessary industry created by complex tax codes, reconsidering my initial skepticism toward the idea that tax systems are unnecessarily convoluted.
-keywords: [tax complexity, kelkar report, tax reform, tom clancy, executive orders, revenue policy]
+tags: [tom-clancy]
 ---
 
 Interesting article on the [Kelkar report on tax reforms](http://www.outlookindia.com/full.asp?fodname=20021118&fname=Kelkar+Impact+%28F%29&sid=1). The point about simplifying tax and removing exemptions reminds me of a statement by George Winston in Tom Clancy's Executive Orders:

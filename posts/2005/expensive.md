@@ -5,7 +5,7 @@ categories:
   - london-2005
 wp_id: 647
 description: I compared clothing and grocery prices in London against costs in India to see how expensive the UK is. From chillies to suitcases, I found that London prices are consistently higher, sometimes by more than forty times.
-keywords: [london, india, cost of living, price comparison, groceries, retail prices, purchasing power]
+tags: [london, india, price-comparison]
 ---
 
 <p>Here's how expensive London is, in terms of clothing.</p>

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1404
 description: I shared a link about a man whistling a 2600Hz tone to hack phones while critiquing an intrusive floating ad format. I prefer Google's non-intrusive, search-based advertising over disruptive animations that force clicks.
-keywords: [phone phreaking, 2600hz, online advertising, intrusive ads, google ads]
+tags: [online-advertising]
 ---
 
 Read about the guy who hacked phones by [whistling a perfect 2600Hz tone](http://netsecurity.about.com/library/weekly/aa041299.htm) while watching the most intrusive ad format I've seen so far -- animations floating around in the background. This is the first ad that forced me to click on it. Result: I'm going to avoid such sites. I still like Google's concept: give ads only to those who ask for them -- and keep them seperate.

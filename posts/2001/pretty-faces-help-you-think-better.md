@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1568
 description: I highlight research showing that viewing attractive faces provides a cognitive boost. Visual stimulation from "pretty faces" activates the brain's reward circuitry, which can improve focus and mental performance during tasks.
-keywords: [facial attractiveness, reward circuitry, cognitive boost, mental performance, brain stimulation, visual perception]
+tags: [visual-perception]
 ---
 
 [Pretty faces help you think better](http://www.sciencenetlinks.com/sci_update.cfm?DocID=299).

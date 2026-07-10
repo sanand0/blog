@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 358
 description: I'm checking out Meet the Author, a collection of short videos on Google Video where authors like Richard Dawkins and James Surowiecki introduce their books. It covers a wide range of fiction and non-fiction titles.
-keywords: [meet the author, google video, richard dawkins, james surowiecki, authors, book promotion]
+tags: [google-video, richard-dawkins]
 ---
 
 [Meet the Author](http://www.meettheauthor.com/) releases short videos of authors introducing their books on [Google Video](http://video.google.com/videosearch?q=%22meet+the+author%22+duration%3Ashort). It covers fiction and non-fiction, like [James Surowiecki on The Wisdom of Crowds](http://video.google.com/videoplay?docid=-3245963984462339517), [Richard Dawkins on The Selfish Gene](http://video.google.com/videoplay?docid=-4097804265438884551), [Jeffrey Archer on False Impression](http://video.google.com/videoplay?docid=-8415347407182390932) and [Frederick Forsyth on The Avenger](http://video.google.com/videoplay?docid=4444135157434231857).

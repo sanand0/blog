@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1624
 description: I found an interesting Economist article identifying the specific business sectors and industries that saw economic growth or increased demand in the immediate aftermath of the September 11 attacks.
-keywords: [september 11, economics, defense industry, security industry, market analysis, the economist]
+tags: [september-11, economics, the-economist]
 ---
 
 [Interesting article](http://www.economist.com/business/displayStory.cfm?Story_ID=801246) on which industries have benefited from Sep 11th.

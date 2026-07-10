@@ -5,7 +5,7 @@ categories:
   - coding
 wp_id: 2393
 description: I found that inline form validation can reduce completion time by 40%. Key takeaways include validating on blur rather than keypress and focusing on uncertain fields like username availability instead of common personal information.
-keywords: [inline validation, web forms, ux design, usability, form completion, onblur]
+tags: [ux-design, usability]
 ---
 
 A List Apart's article on [Inline Validation](http://www.alistapart.com/articles/inline-validation-in-web-forms/) is one of the most informative I've read in a while — and it's backed by solid data.

@@ -4,7 +4,6 @@ date: 2026-03-22T00:00:00+00:00
 categories:
   - til
 description: I learned about design psychological operations like dimming lights for noise control, using AI to prep demos via Markdown, and leveraging SamGeo for geospatial vector extraction. I also explored Slint for declarative Linux apps and QR code technicalities.
-keywords: [slint, samgeo, pytorch tracing, lean prover, geospatial ai, psychological design, qr codes]
 ---
 
 This week, I learned:

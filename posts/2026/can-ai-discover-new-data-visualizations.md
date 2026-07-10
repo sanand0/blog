@@ -5,7 +5,7 @@ categories:
 - llms
 - visualisation
 description: Combining AI's chart generation, creativity, and persistence could turn it into a researcher for genuinely novel data visualizations.
-keywords: [data visualization, AI creativity, research, novelty, generative design, VizChitra]
+tags: [data-visualization, ai-creativity, research, vizchitra]
 ---
 
 Here's [my talk proposal](https://vizchitra.com/2026/submissions/can-ai-discover-new-data-visualizations-rgp55yp) for [VizChitra 2026](https://vizchitra.com/2026):

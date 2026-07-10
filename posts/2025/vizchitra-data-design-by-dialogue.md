@@ -3,7 +3,7 @@ date: "2025-06-29T04:20:23Z"
 categories:
   - linkedin
 description: "LLMs can support every stage of data storytelling when treated as dialog partners and code writers rather than as literal calculators."
-keywords: ["data storytelling", "LLMs", "dialogue", "visualization", "code generation", "VizChitra"]
+tags: [data-storytelling, llms, data-visualization, vizchitra]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7346738278248697856/
 ---
 

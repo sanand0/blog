@@ -4,7 +4,7 @@ date: 2023-12-10T00:00:00+00:00
 categories:
   - til
 description: I explored various LLM tools, including llamafile for single-executable local models and marker for PDF-to-markdown conversion. I also looked into RAG tuning strategies, PII detection libraries like Presidio, and intuitions regarding scaling and emergent model behaviors.
-keywords: [llamafile, rag, gguf, pii detection, marker, llama-cpp-python, presidio]
+tags: [rag]
 ---
 
 This week, I learned:

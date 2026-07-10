@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1435
 description: I found a helpful resource defining spyware and its impact on privacy in the early 2000s. This guide covers how these programs track user behavior and the general threat they posed to internet security at the time.
-keywords: [spyware, adware, privacy, malware, internet security, software history]
+tags: [privacy, malware, software-history]
 ---
 
 [Spyware](http://www.simplythebest.net/info/spyware.html).

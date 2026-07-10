@@ -5,7 +5,7 @@ categories:
   - llms
   - how-i-do-things
 description: I discovered hidden LLM capabilities by asking models like Claude to identify creative uses for their built-in tools. This led to generating stunning algorithmic videos using ffmpeg fractal filters, Python L-systems, and complex cellular automata.
-keywords: [llms, ffmpeg, claude, algorithmic art, fractals, tool-use]
+tags: [llms, ffmpeg, claude]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7415939924937379841/
 ---
 

@@ -5,7 +5,7 @@ categories:
   - visualisation
 wp_id: 207
 description: I used the Haversine formula in Excel to calculate branch distances and visualized hub coverage using X-Y scatter plots over a map, helping a bank identify regional gaps and justify new hub locations.
-keywords: [haversine formula, excel, data visualization, geospatial analysis, logistics, scatter plot, hub location]
+tags: [excel, data-visualization, logistics]
 ---
 
 > OK, we agree we need to centralise more. But do we really need additional hubs? If so, where?

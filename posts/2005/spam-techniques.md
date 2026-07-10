@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 704
 description: Explore common tactics used by spammers to bypass filters and deceive recipients, as illustrated by Scientific American. The graphic details technical maneuvers and psychological tricks employed in mass email campaigns during the mid-2000s.
-keywords: [spam, email security, scientific american, social engineering, filter evasion, cybersecurity]
+tags: [spam, email-security, scientific-american, social-engineering, cybersecurity]
 ---
 
 Spammer ploys. From the Scientific American.\

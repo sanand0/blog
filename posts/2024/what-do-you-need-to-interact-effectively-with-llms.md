@@ -6,7 +6,7 @@ categories:
   - links
 wp_id: 3629
 description: "The strongest recurring advice on using LLMs well is simple: provide context, iterate, verify, remember their limits, and treat prompting as a skill rather than a trick."
-keywords: [LLM usage, prompting, context, verification, best practices, Simon Willison]
+tags: [prompting, verification]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7241027914798931968/
 ---
 

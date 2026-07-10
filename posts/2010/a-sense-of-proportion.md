@@ -6,7 +6,7 @@ categories:
   - business-realities
 wp_id: 2511
 description: I struggle with business managers who treat one-in-a-trillion risks as likely events. DHH’s point about maintaining a sense of proportion is essential for avoiding nonsense and focusing on probabilities that actually matter in daily operations.
-keywords: [probability, risk management, business strategy, decision making, prioritization, david heinemeier hansson]
+tags: [probability, risk-management, business-strategy, decision-making, prioritization]
 ---
 
 A quote from [David Heinemeier Hansson](http://www.youtube.com/watch?v=YczGZCTPkRE#t=20m24s):

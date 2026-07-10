@@ -3,7 +3,7 @@ date: "2021-07-22T16:01:21Z"
 categories:
   - linkedin
 description: "A developer war story about technical debt doubles as a hiring post for tech leads who understand how today's shortcuts become tomorrow's humility."
-keywords: ["technical debt", "developer story", "hiring", "tech lead", "maintenance", "LinkedIn"]
+tags: [technical-debt, hiring, maintenance, linkedin]
 ---
 
 Is your code built to last? Mohammed Niyas P shares a developer war story.

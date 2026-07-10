@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 150
 description: I captured the thick fog that completely covered London this week, reducing visibility to just 200 feet outside my office. The scene in Jubilee Gardens was hypnotic, turning the familiar park into a surreal landscape.
-keywords: [london, fog, canary wharf, jubilee gardens, photography, weather]
+tags: [london, canary-wharf, photography]
 ---
 
 This is the park in front of my office in the evening. Fog completely covered London this week. Visibility: 200 ft. Hypnotic.

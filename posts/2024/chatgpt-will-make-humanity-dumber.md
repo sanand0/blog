@@ -3,7 +3,7 @@ date: "2024-03-04T12:07:15Z"
 categories:
   - linkedin
 description: "A brief Calvin-and-Hobbes response reframes the fear that ChatGPT will make humanity dumber as one more instance of offloading drudgery to machines."
-keywords: ["ChatGPT", "human intelligence", "automation", "Calvin and Hobbes", "education", "technology anxiety"]
+tags: [chatgpt, automation, calvin-and-hobbes, education]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7170389329444372480/
 ---
 

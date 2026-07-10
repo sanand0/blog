@@ -6,7 +6,7 @@ categories:
   - data
   - visualisation
 description: I discovered Wikipedia’s most repeated text, including a 213-word paragraph about minor planet names appearing in 418 articles. I found these patterns by using OpenAI Codex to analyze the structured Wikipedia dataset on Hugging Face.
-keywords: [wikipedia, hugging face, openai codex, minor planets, data mining, natural language processing]
+tags: [wikipedia, data-mining, natural-language-processing]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7465047314915540993/
 ---
 

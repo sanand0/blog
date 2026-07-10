@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: "At this moment on the cost-quality curve, Gemini appears to dominate across the full frontier, making Google the default rational choice until newer results land."
-keywords: [Gemini, cost-quality frontier, LLM pricing, LM Arena, model comparison, Google]
+tags: [gemini, llm-pricing, model-comparison, google]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7318984208171823106/
 ---
 

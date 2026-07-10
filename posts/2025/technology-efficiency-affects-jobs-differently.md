@@ -7,7 +7,7 @@ categories:
   - links
 wp_id: 4141
 description: "Technology can either destroy or grow jobs depending on demand elasticity, complements, regulation, and ecosystem effects, which matters for forecasting AI-era labor shifts."
-keywords: ["jobs", "technology change", "efficiency", "labor economics", "AI jobs", "demand elasticity"]
+tags: [efficiency, labor-economics]
 ---
 
 ![Technology efficiency affects jobs differently](/blog/assets/output-5.webp)

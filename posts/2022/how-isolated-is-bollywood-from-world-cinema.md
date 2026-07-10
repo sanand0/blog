@@ -7,7 +7,7 @@ categories:
   - visualisation
 wp_id: 3240
 description: "Actor-network clustering shows that Bollywood is one of the world's more isolated film ecosystems, though not as isolated as some smaller national clusters."
-keywords: ["Bollywood", "world cinema", "actor networks", "clustering", "film industry", "data analysis"]
+tags: [bollywood, actor-networks, clustering, film-industry, data-analysis]
 ---
 
 ![How isolated is Bollywood from world cinema?](/blog/assets/actor-network-0.5.webp)

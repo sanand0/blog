@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 653
 description: I shared a brief update while going on vacation. The comments captured discussions about improving my blog's sidebar layout, finding copies of Richard Feynman's books, and dealing with office web filters blocking the site.
-keywords: [vacation, blog layout, richard feynman, web filtering, personal update]
+tags: [vacation, richard-feynman, web-filtering, personal-update]
 ---
 
 I am on vacation.

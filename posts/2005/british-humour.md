@@ -5,7 +5,7 @@ categories:
   - london-2005
 wp_id: 618
 description: I experienced a quintessential moment of dry British humor at King's Cross station. When I mentioned having a zone 1-5 pass, the ticket agent's sarcastic 'Congratulations!' perfectly captured the local wit I'm learning to appreciate.
-keywords: [british humor, london, king's cross station, sarcasm, travel anecdote, public transport]
+tags: [london, sarcasm, travel-anecdote, public-transport]
 ---
 
 If it weren't happening to me, I'd appreciate the British sense of humour.

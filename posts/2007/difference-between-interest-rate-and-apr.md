@@ -6,7 +6,7 @@ categories:
   - simple-explanations
 wp_id: 134
 description: I explain the deceptive difference between APR and interest rates (IRR). Using a 10-year mortgage example, I show how APR averages total interest over the initial principal, making loans look cheaper than their actual declining balance interest.
-keywords: [annual percentage rate, internal rate of return, mortgage, interest rate, loan repayment, apr, irr]
+tags: [internal-rate-of-return, interest-rates]
 ---
 
 <p>When I moved to the UK, I was surprised to see mortgages advertised for 4.9%. ICICI Bank's HiSAVE account was offering 5.15% interest on savings. So if I borrowed at 4.9% and invested at 5.15%, I can make money for nothing!</p>

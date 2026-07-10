@@ -4,7 +4,7 @@ date: '2026-03-07T11:25:02+08:00'
 categories:
 - llms
 description: Image models can generate original physically impossible scenes, and evaluating those outputs surfaces what makes paradoxical images feel clever rather than merely strange.
-keywords: [image generation, visual paradox, Nano Banana, creative evaluation, AI art, impossible objects]
+tags: [image-generation]
 ---
 
 **STEP 1**: I asked Nano Banana 2 (via Gemini Pro) to:

@@ -4,7 +4,7 @@ date: "2025-09-28T04:25:22Z"
 lastmod: "2025-09-28T04:25:22Z"
 classes: wrap-code
 description: Enhance Marp slide decks by using this prompt to generate appendix slides from transcripts. Automatically create quizzes, find errata, research counterpoints, and get feedback on clarity to improve the educational value of your presentations.
-keywords: [marp, markdown, prompt engineering, slide decks, transcript analysis, quiz generation]
+tags: [marp, markdown, prompt-engineering, transcript-analysis]
 ---
 
 Add appendices to (Marp) slide decks from transcripts to improve quality and learning.

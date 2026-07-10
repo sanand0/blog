@@ -6,7 +6,7 @@ categories:
   - llms
   - games
 description: I explore how games like Baba Is You, Chess, and Mini Metro build mental muscles for the AI era. I found that manipulating in-game rules teaches meta-level thinking and helps me view complex systems as changeable.
-keywords: [baba is you, systems thinking, ai skills, meta-thinking, game-based learning, mini metro, strategy games]
+tags: [systems-thinking]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7418967092743364608/
 ---
 

@@ -5,7 +5,7 @@ categories:
   - top-10-lists
 wp_id: 2437
 description: I shared my curated list of portable applications that run without admin rights or installation. This collection includes tools like Firefox, VLC, and Notepad++ for media, development, and system utilities directly from a USB stick.
-keywords: [portableapps, usb applications, windows utilities, notepad++, vlc media player, xampp, cygwin, sysinternals]
+tags: [windows-utilities, notepad-plus-plus, xampp, cygwin]
 ---
 
 I’m totally hooked to [portable apps](http://en.wikipedia.org/wiki/Portable_application) now. You don’t need admin rights to install them. You can run them off a USB stick. They won’t make your machine slower. All the reasons not to install an application vanish.

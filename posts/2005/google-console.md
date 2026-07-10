@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 533
 description: I discovered the Google Admin Console and several obscure subdomains, speculating on the administrative access they might provide. It captures my curiosity regarding Google's early internal licensing systems and web infrastructure in 2005.
-keywords: [google admin console, google subdomains, google licensing, google adsense, web history]
+tags: [google-adsense, web-history]
 ---
 
 The [Google Admin Console](https://console.google.com/licensing/admin). Wonder what you can do if you have the password to this. [More Google subdomains](http://blog.outer-court.com/archive/2005-10-06-n57.html).

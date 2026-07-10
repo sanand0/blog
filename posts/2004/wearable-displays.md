@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 837
 description: I shared this Forbes piece on wearable displays and microdisplays from 2004, capturing a moment when head-mounted screens were transitioning from specialized gear to potential mainstream gadgets.
-keywords: [wearable displays, microdisplays, head-mounted displays, mobile hardware, consumer electronics, early wearables]
+tags: [consumer-electronics]
 ---
 
 [Wearable displays](http://www.forbes.com/technology/2004/05/07/cx_pp_0507microdisplay_ii.html). [via Anders Jacobsen](http://www.jacobsen.no/cgi-sys/cgiwrap/anders/MT/mt-tb.cgi/865)

@@ -5,7 +5,7 @@ categories:
 - llms
 classes: wrap-code
 description: Meeting transcripts can be repurposed by AI into sharper interview answers, making rewrite-based review faster than manual review alone.
-keywords: [transcripts, interviews, rewriting, AI writing, knowledge reuse, enterprise communication]
+tags: [transcripts, interviews]
 ---
 
 <!-- https://gemini.google.com/app/fc17155c3249516c -->

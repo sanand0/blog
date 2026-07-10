@@ -7,7 +7,7 @@ categories:
   - llms
 wp_id: 4150
 description: "Analyzing exported ChatGPT history shows that the author’s longest model reasoning bursts cluster around hard analytical prompts and top out near seven minutes."
-keywords: ["ChatGPT", "thinking time", "history export", "reasoning", "analytics prompts", "O3"]
+tags: [chatgpt, reasoning, o3]
 ---
 
 ![How long can I make ChatGPT think?](/blog/assets/ChatGPT-Image-Jun-29-2025-09_33_38-AM.webp)

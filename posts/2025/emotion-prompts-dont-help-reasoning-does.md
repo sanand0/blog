@@ -7,7 +7,7 @@ categories:
   - visualisation
 wp_id: 4138
 description: "Step-by-step reasoning is the only prompt tweak that mildly improves arithmetic performance; emotional, flattering, threatening, or persuasive rewrites mostly do nothing or hurt."
-keywords: ["prompt engineering", "reasoning", "emotion prompts", "math accuracy", "LLM evals", "arithmetic"]
+tags: [prompt-engineering, reasoning, llm-evals, arithmetic]
 ---
 
 ![Emotion Prompts Don't Help. Reasoning Does](/blog/assets/impact-scaled.webp)

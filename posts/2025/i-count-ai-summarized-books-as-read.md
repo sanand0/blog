@@ -4,11 +4,9 @@ date: 2025-12-27T02:54:41Z
 lastmod: 2026-04-11T13:52:35+08:00
 categories:
   - how-i-do-things
-tags:
-  - book
+tags: [book, claude, fact-checking, goodreads, llm-prompts, reading-habits]
 wp_id: 4262
 description: I use Claude to summarize and fact-check non-fiction books, reading them in an hour instead of twelve. By logging these as "read," I focus on actionable insights and personalized advice that actually changes how I work.
-keywords: [ai book summaries, claude, fact-checking, goodreads, personal knowledge management, llm prompts, reading habits]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7410515008419332096/
 ---
 

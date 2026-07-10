@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1684
 description: I've discovered Teoma and Wisenut, two new search engines competing with Google. I particularly like Teoma's expert links feature, which offers a promising way to find curated, high-quality information within specific subject domains.
-keywords: [teoma, wisenut, search engines, google, expert links, web search]
+tags: [search-engines, google, web-search]
 ---
 
 [Teoma](http://www.teoma.com) and [Wisenut](http://www.wisenut.com) are search engines [like google](http://investor.cnet.com/investor/news/newsitem/0-9900-1028-6985191-0.html). Teoma's "expert links" feature looks promising.

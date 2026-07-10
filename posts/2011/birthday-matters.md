@@ -6,7 +6,6 @@ categories:
   - business-realities
 wp_id: 2645
 description: I found that Tamil Nadu students born in September score up to 10% higher than June-born peers. This "relative age effect" stems from school cutoff dates making older students more mature than their younger classmates.
-keywords: [tamil nadu, academic performance, relative age effect, outliers, education statistics, birth month]
 ---
 
 Does it matter which month you’re born in?

@@ -5,7 +5,7 @@ categories:
   - visualisation
 wp_id: 213
 description: I upgraded from sorting UNIX du output to using WinDirStat for disk management. Treemaps help me visualize file sizes and types instantly, letting me identify exactly what’s taking up space on my hard drive at a single glance.
-keywords: [windirstat, treemaps, data visualization, disk usage, du, file management]
+tags: [data-visualization]
 ---
 
 <p><b>I have managed to fill hard disks of all capacities within a few months.</b> My first PC had 10MB of disk space, while I work on 140GB today (remember: that's 14 <i>thousand</i> times more capacity in 14 years). Both were filled within 2 months. (An aside: the <i>number</i> of files / folders hasn't growth by 14,000. The <i>files themselves</i> have grown in size. I have roughly the same number of files/folders today on my machine as I had 14 years ago.)</p>

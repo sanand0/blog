@@ -4,7 +4,7 @@ date: 2024-09-01T00:00:00+00:00
 categories:
   - til
 description: I learned about LLMs simulating Doom in real time via GameNGen, Val.town's dynamic image generation prompts, and Cursor's speculative edits. I also found that ChatGPT currently outperforms Flux.1 for creating consistent cartoons and comic strips.
-keywords: [gamengen, doom, val.town, cursor, speculative edits, image generation, llms, flux.1]
+tags: [cursor, image-generation, llms]
 ---
 
 This week, I learned:

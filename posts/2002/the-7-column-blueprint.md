@@ -5,7 +5,7 @@ categories:
   - mumbai
 wp_id: 1351
 description: While traveling in Mumbai, a stranger told me that real strategy is just a 7-column blueprint for assigning roles. This humorous encounter reminded me that business strategy means something very different depending on who you ask.
-keywords: [scenario planning, business strategy, mumbai, organizational design, 7-column blueprint, anecdote]
+tags: [scenario-planning, business-strategy, mumbai, anecdote]
 ---
 
 I was traveling from VT to Ullas Nagar to buy furniture. Since it's an hour-and-half, I had taken a printout of an article on [Scenario Planning](http://www.idongroup.com/assoc/stratscen1.html) to read. Being the gripping reading that it was, I'd fallen asleep on page 4, when I feel a gentle tap on my shoulder.

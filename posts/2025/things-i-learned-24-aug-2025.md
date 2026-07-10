@@ -4,7 +4,7 @@ date: 2025-08-24T00:00:00+00:00
 categories:
   - til
 description: I explore how LLMs compress professional roles and why I'm adopting spec-driven AI coding. This week's notes also cover Indian education policy, Obsidian workflows, the mechanics of LLM attention, and Kahnemann’s insights on behavior and decision-making.
-keywords: [llms, ai-coding, obsidian, prompt-engineering, foundational-literacy, dspy, behavioral-economics]
+tags: [llms, ai-coding, prompt-engineering, behavioral-economics]
 ---
 
 This week, I learned:

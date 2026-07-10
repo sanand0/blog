@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 634
 description: I shared a Kuro5hin article speculating on Google's future acquisitions during its early growth phase. It explores the company's expansion strategy and identifies potential startups or technologies that could fit into its rapidly evolving ecosystem.
-keywords: [google, acquisitions, kuro5hin, tech strategy, startups, mergers and acquisitions]
+tags: [google, acquisitions, kuro5hin, startups]
 ---
 
 [Who will Google buy next?](http://www.kuro5hin.org/story/2005/6/12/143721/743)

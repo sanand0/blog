@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1609
 description: I found Altervistas, a niche search engine dedicated to indexing strange and obscure websites. It offers a portal into the unconventional corners of the internet, helping users discover fringe content that mainstream engines might miss.
-keywords: [altervistas, search engines, weird web, obscure websites, internet curation]
+tags: [search-engines]
 ---
 
 [Altervistas](http://www.altervistas.com/) -- a search engine for strange sites.

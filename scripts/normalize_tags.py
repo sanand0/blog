@@ -56,6 +56,7 @@ MANUAL_ALIASES = {
     "visualization": "data-visualization",
     "data-visualisation": "data-visualization",
     "dataviz": "data-visualization",
+    "books": "book",
     "genai": "generative-ai",
     "gen-ai": "generative-ai",
 }

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1742
 description: I recommended Dipti Kamath's refreshing personal website in 2001. Since then, the post has unexpectedly transformed into a public archive where old acquaintances use the comment section to search for her and attempt to reconnect after many years.
-keywords: [dipti kamath, personal website, web design, blog comments, web archive, digital history]
+tags: [personal-website, web-design, digital-history]
 ---
 
 A refreshing personal website by [Dipti Kamath](http://www.diptikamath.net/).

@@ -7,7 +7,7 @@ categories:
   - how-i-do-things
 wp_id: 3453
 description: "This comic essay elevates food scraping into an art form, complete with material science, vessel selection, utensil strategy, and a deeply personal defense of getting every last bit."
-keywords: ["food habits", "scraping", "humor", "dessert", "efficiency", "manners"]
+tags: [humor, efficiency]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7124251423550185472/
 ---
 

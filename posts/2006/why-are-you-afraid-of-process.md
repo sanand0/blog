@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 342
 description: I reflect on why process is underrated, drawing on Seth Godin’s insight that systems are essential when intuition fails. In domains like IT consulting, process provides a reliable foundation for scaling efficiency and maintaining performance.
-keywords: [process, seth godin, efficiency, intuition, systems thinking, it consulting]
+tags: [seth-godin, efficiency, systems-thinking]
 ---
 
 [Why are you afraid of process](http://sethgodin.typepad.com/seths_blog/2006/04/why_are_you_afr.html)?

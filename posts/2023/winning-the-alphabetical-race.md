@@ -6,7 +6,7 @@ categories:
   - funny
 wp_id: 3473
 description: "A playful meditation on alphabetic luck asks whether anyone on LinkedIn can outrank a colleague named Aabhas in the lifelong race to be called first."
-keywords: ["alphabetical order", "names", "LinkedIn", "humor", "school", "recruitment"]
+tags: [linkedin, humor, recruitment]
 ---
 
 ![Winning the alphabetical race](/blog/assets/alphabetical-race.webp)

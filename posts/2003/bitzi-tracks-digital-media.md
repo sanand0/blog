@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 927
 description: I explored Bitzi, a community-driven catalog for identifying and tracking digital media files. It uses content-based signatures and user-contributed metadata to help organize files across various platforms and file-sharing networks.
-keywords: [bitzi, metadata, digital media, p2p, file identification, crowdsourcing]
+tags: [metadata, digital-media, p2p, crowdsourcing]
 ---
 
 [Bitzi](http://bitzi.com/). "The Free Universal Media Catalog".

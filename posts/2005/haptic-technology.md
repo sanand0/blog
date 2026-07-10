@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 760
 description: Learn how haptic technology enables users to touch and feel data via surgical simulations and mobile vibrations. Devices from companies like SensAble provide tactile feedback for gaming and professional use as costs continue to fall.
-keywords: [haptic technology, force feedback, vibetone, sensable, surgical simulation, tactile feedback]
 ---
 
 [Haptic technology](http://www.economist.com/science/tq/displayStory.cfm?story_id=3171347) lets you "touch and feel data".

@@ -5,7 +5,7 @@ lastmod: "2025-12-14T12:55:14Z"
 classes: wrap-code
 model: https://aistudio.google.com/prompts/new_chat
 description: I developed this prompt to transcribe talk recordings and Q&A sessions accurately. It removes verbal fillers, adds timestamps, translates non-English segments, and bolds key takeaways. For video, it includes instructions to describe screen activity changes.
-keywords: [transcription, llm prompts, video transcription, timestamps, speech-to-text, qa sessions, markdown]
+tags: [transcription, llm-prompts, speech-to-text, markdown]
 ---
 
 Transcribe talk recordings with Q&A.

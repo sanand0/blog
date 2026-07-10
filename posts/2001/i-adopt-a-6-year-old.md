@@ -5,7 +5,7 @@ categories:
   - chat-transcripts
 wp_id: 1726
 description: I shared a humorous 2001 Yahoo Messenger chat transcript where I "adopted" a six-year-old in a chat room. We bantered about secret emoticons, chocolate, and parenting rules while navigating the chaotic, nostalgic era of early internet messaging.
-keywords: [yahoo messenger, chat room, emoticons, roleplay, nostalgia, transcript]
+tags: [yahoo-messenger, chat-rooms, emoticons, nostalgia, transcripts]
 ---
 
 This is one of the funniest conversations I've had.\

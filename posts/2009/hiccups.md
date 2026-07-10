@@ -5,7 +5,7 @@ categories:
   - funny
 wp_id: 2297
 description: Watching an episode of Finley the Fire Engine reminded me of these classic Calvin & Hobbes strips. I revisited Calvin's attempts to cure hiccups through existential dread, sugar, and drinking water from the far side of the glass.
-keywords: [calvin & hobbes, comic strips, hiccups, finley the fire engine, bill watterson, humor]
+tags: [calvin-and-hobbes, comic-strips, bill-watterson, humor]
 ---
 
 This morning, I was watching an episode of [Finley the Fire Engine](http://www.bbc.co.uk/cbeebies/finleythefireengine/) in which one of the trucks had hiccups. Reminded me of this Calvin & Hobbes — especially Hobbes' remark in the second strip.

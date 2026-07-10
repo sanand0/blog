@@ -4,7 +4,7 @@ date: "2025-09-01T03:58:55Z"
 lastmod: "2025-09-21T11:44:00Z"
 classes: wrap-code
 description: I created a prompt to transform behavioral notes and post-mortems into actionable habit cards. It uses a structured pipeline—including fact-checking, ranking tactics, and role-play stress-testing—to turn vague reflections into robust, testable daily habits.
-keywords: [habit cards, prompt engineering, behavioral design, post-mortems, habit tracking, ai prompts]
+tags: [prompt-engineering]
 ---
 
 Generate habits to follow from reviews / post-mortems / notes.

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1105
 description: I respond to T N Ninan’s critique of IIT/IIM graduates. While he argues their value lies solely in the rigorous selection process, I believe the years of intense competition provide significant value, regardless of the curriculum's quality.
-keywords: [iit, iim, higher education, india, t n ninan, competitive exams, meritocracy]
+tags: [iit, iim, higher-education, india]
 ---
 
 [Tomorrow's leaders: opinion on IIT/IIM grads](http://www.business-standard.com/archives/2002/oct/50051002.049.asp) by T N Ninan at Business Standard. From his interviews for the Aditya Birla scholarships, and observes that there is a lack of awareness about India among them, and that the real value of the IITs/IIMs is in the selection process, not the education. I disagree on the latter. I think the 4+2 years of intense competition also adds value. The curriculum, however, may or may not.

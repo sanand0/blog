@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 200
 description: I shared a 2006 comparison of the top ten BitTorrent sites where BTJunkie was ranked first. However, personal testing and reader feedback led me to question the accuracy of the rankings compared to sites like TorrentSpy.
-keywords: [bittorrent, btjunkie, torrentspy, file sharing, search engines, torrentfreak]
+tags: [bittorrent, file-sharing, search-engines]
 ---
 
 A [comparison of the top 10 bittorrent sites](http://comparebt.blogspot.com/). [BTJunkie](http://crawl.btjunkie.org/) emerges the winner.

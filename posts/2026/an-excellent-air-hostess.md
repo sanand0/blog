@@ -5,7 +5,7 @@ categories:
   - interesting-experiences
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7473356100466155520/
 description: I highlight how proactive service—remembering a delayed tea order during turbulence and checking back with skipped passengers by name—elevates customer experience. It shows that attentiveness and memory are powerful tools in hospitality.
-keywords: [indigo airlines, customer service, hospitality, air travel, attentiveness, proactive service]
+tags: [customer-service, hospitality]
 ---
 
 ![](https://files.s-anand.net/images/2026-06-18-an-excellent-air-hostess.avif)

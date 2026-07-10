@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 520
 description: I explore how social network analysis is applied through an interview with InFlow's creators. For my own SNA projects, I have used a combination of Perl scripts and Excel rather than dedicated software.
-keywords: [social network analysis, inflow, perl, excel, network mapping]
+tags: [social-network-analysis, perl, excel, network-mapping]
 ---
 
 An interview with the creators of InFlow (a software to map social networks) shows [how social network analysis is used](http://www.infoworld.com/article/04/03/26/13FEsocialint_1.html).

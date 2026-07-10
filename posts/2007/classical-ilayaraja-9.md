@@ -5,7 +5,7 @@ categories:
   - classical-ilayaraja
 wp_id: 141
 description: I examine Ilayaraja’s controversial decision to alter Thyagaraja’s 'Mari Mari Ninne' for Sindhu Bhairavi. I analyze his use of Saramathi, Hindholam, and Chandrakauns raagams in cinema, highlighting how he adapts classical structures for popular audiences.
-keywords: [ilayaraja, carnatic music, thyagaraja, saramathi, hindholam, chandrakauns, sindhu bhairavi, film scores]
+tags: [ilayaraja, carnatic-music, sindhu-bhairavi, film-scores]
 ---
 
 > This is the 9th of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

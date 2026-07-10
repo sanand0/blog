@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1243
 description: I argue that Domino's new delivery fee is just a price hike. While I’m impressed by their ten-minute delivery speed, I found numerous spelling errors for Indian cities on their international store locator tool.
-keywords: [domino's pizza, delivery fees, customer service, fast food, store locator, spelling errors]
+tags: [customer-service]
 ---
 
 Domino's Pizza is trying to [charge for delivery](http://www.cnn.com/2002/US/08/10/pizza.delivery.ap/index.html). But I thought the whole point of Domino's was to deliver pizza, as opposed to eating it "there". They may as well hike the price -- which is what this effectively translates to.

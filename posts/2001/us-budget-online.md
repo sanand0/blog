@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1830
 description: Access the United States federal budget documents online through the Government Printing Office. This resource provides official fiscal data, economic reports, and budget projections directly from the historical digital archives of the US government.
-keywords: [us federal budget, government printing office, fiscal policy, public records, gpo, budget documents]
+tags: [fiscal-policy, public-records]
 ---
 
 The [US Budget](http://w3.access.gpo.gov/usbudget/index.html) is online.

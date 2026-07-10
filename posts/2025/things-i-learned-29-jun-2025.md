@@ -4,7 +4,7 @@ date: 2025-06-29T00:00:00+00:00
 categories:
   - til
 description: I explored Cloudflare sandboxes, learned why Vertical AI is a defensible moat, and refined my video workflow using ffmpeg. I also researched essential human skills like trust and taste that remain vital in an AI-driven economy.
-keywords: [cloudflare, ffmpeg, vertical ai, python, anthropic, git-smart-squash, llm-training]
+tags: [cloudflare, ffmpeg, python, anthropic]
 ---
 
 This week, I learned:

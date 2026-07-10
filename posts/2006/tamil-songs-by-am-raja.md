@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 318
 description: I built an interactive quiz focusing on 1960s and 70s Tamil songs by A.M. Raja. Test your film knowledge by identifying movies from classic tracks using this custom web-based tool with real-time feedback.
-keywords: [am raja, tamil cinema, music quiz, interactive quiz, kollywood, 1960s music]
+tags: [tamil-cinema, music-quiz, interactive-quiz, kollywood, 1980s-music]
 ---
 
 <p>More songs from the 60s and 70s. These are by <b>A&nbsp;M&nbsp;Raja</b>. Can you guess which <b>movie</b> they are from? (Some films appear <b>twice</b>)</p>

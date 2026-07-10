@@ -6,7 +6,6 @@ categories:
   - how-i-do-things
 wp_id: 2510
 description: I found that using GIMP’s 'Color to Alpha' tool is the simplest way to make an image background transparent while preserving anti-aliasing. I use the eyedropper to select the background color and instantly convert it to transparency.
-keywords: [gimp, color to alpha, transparency, image editing, background removal, anti-aliasing]
 ---
 
 This is the simplest way that I’ve found to make the background colour of an image transparent.

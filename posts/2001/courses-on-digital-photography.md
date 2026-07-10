@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1540
 description: I found several practical online courses on digital photography at ShortCourses.com. These guides cover digital camera basics, lenses, exposure, and lighting to help beginners master their equipment and improve their photo quality.
-keywords: [digital photography, shortcourses.com, online courses, digital cameras, lighting, exposure]
+tags: [digital-photography, digital-cameras]
 ---
 
 Several [useful courses](http://www.shortcourses.com) on digital photography.

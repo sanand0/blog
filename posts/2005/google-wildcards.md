@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 582
 description: I found that Google now supports wildcard search operators. Using an asterisk as a placeholder allows you to find complete phrases, quotes, or song lyrics when you cannot remember every specific word in your search query.
-keywords: [google, wildcards, search operators, asterisk, search queries]
+tags: [google, search-operators, search-queries]
 ---
 
 [Google supports wildcards](http://googleblog.blogspot.com/2005/08/fill-in-blanks.html)

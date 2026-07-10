@@ -4,7 +4,7 @@ date: "2025-09-21T11:44:00Z"
 lastmod: "2025-12-28T16:09:56Z"
 classes: wrap-code
 description: I share my iterative custom instructions for ChatGPT. I prioritize eloquent, conversational language over fragments, and push the AI to use systems thinking, inversion, and mental models to challenge my assumptions and blindspots.
-keywords: [chatgpt, custom instructions, prompt engineering, systems thinking, mental models, inversion, conversational ai]
+tags: [chatgpt, custom-instructions, prompt-engineering, systems-thinking, mental-models]
 ---
 
 Custom instructions for all my ChatGPT conversations.

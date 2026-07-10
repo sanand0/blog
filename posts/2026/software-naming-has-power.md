@@ -4,7 +4,7 @@ date: 2026-03-17T09:08:54+05:30
 categories:
   - tools
 description: Names influence how software feels and spreads, because a tool’s emotional and linguistic resonance can shape adoption as much as its functionality.
-keywords: [software naming, product design, branding, developer tools, adoption, language]
+tags: [product-design, branding, developer-tools, language]
 ---
 
 Software naming has power.

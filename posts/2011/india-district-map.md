@@ -7,7 +7,7 @@ categories:
   - visualisation
 wp_id: 2681
 description: I created an SVG map of India's 640 districts by tracing the 2011 census administrative PDF using Inkscape. This map allows for district-level data visualization, such as plotting historical temperature variations across the country.
-keywords: [india, svg, inkscape, data visualization, census 2011, geospatial]
+tags: [india, svg, data-visualization, geospatial]
 ---
 
 I put together a [district map of India in SVG](https://bitbucket.org/sanand0/districts/src/tip/districts.svg) this weekend.

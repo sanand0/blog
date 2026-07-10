@@ -6,7 +6,7 @@ categories:
   - llms
 wp_id: 4225
 description: I found that lowering GPT-5 Nano’s reasoning_effort to minimal caused hallucinated failures on a simple checklist task. Increasing it to medium restored accuracy but added 3,000 reasoning tokens, highlighting the hidden costs and power of reasoning-on-demand.
-keywords: [gpt-5 nano, reasoning_effort, llms.txt, reasoning tokens, llm pricing, prompt engineering]
+tags: [llm-pricing, prompt-engineering]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7380798995851509760/
 ---
 

@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 803
 description: I found Dave Archambault's portfolio of intricate paintings created exclusively using a standard ball-point pen. These works demonstrate how a common office tool can achieve remarkable detail and depth in professional fine art illustration.
-keywords: [dave archambault, ballpoint pen, ink art, fine art, illustration, pen drawing]
 ---
 
 [Dave Archambault's portfolio](http://www.davearchambault.com/portfolio.shtml) -- paintings using just a ball-point pen.

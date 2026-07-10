@@ -5,7 +5,7 @@ categories:
   - data
 wp_id: 2684
 description: I compared data processing speeds using Python, cut, and awk across different hardware. I discovered that choosing the right combination of tools and server environments can improve performance by over 250x compared to standard local scripting.
-keywords: [data processing, awk, python, unix command line, benchmarking, amazon ec2, performance optimization]
+tags: [data-processing, awk, python, benchmarking, amazon-ec2]
 ---
 
 <p>I’ve been playing with big data lately.</p> <p>The good part is, it’s easy to get interesting results. The data is so unwieldy that even average value calculations provoke a “Amazing! I didn’t know that,” response (No exaggeration. I heard this from two separate ~ $1bn businesses this month.)</p> <p>The bad part is that calculating even that simple average is slow.</p> <p>For example, take this <a href="https://files.s-anand.net/blog/a/school_10.rpt.bz2">40MB file</a> (380MB unzipped) and extract the first column.</p> <p>The simplest Python script to get the first column looks like this:</p>

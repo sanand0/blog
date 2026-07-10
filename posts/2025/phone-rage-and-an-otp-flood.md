@@ -6,7 +6,6 @@ categories:
   - funny
 wp_id: 4076
 description: "A minor phone misunderstanding spiraled into an OTP-bombing attack, revealing both how easy retaliation spam is and which consumer services are vulnerable to abuse."
-keywords: [OTP spam, phone harassment, security abuse, consumer apps, retaliation, digital vulnerabilities]
 ---
 
 ![Phone Rage and an OTP Flood](/blog/assets/Generated-Image-April-29-2025-3_50PM.webp)

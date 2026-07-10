@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 684
 description: I found tips for maximizing Flickr's free account. By organizing photos into sets, you can bypass the standard display limit for the most recent 200 images, making your entire library accessible without a Pro subscription.
-keywords: [flickr, photo management, sets, storage limits, free accounts]
+tags: [flickr, photo-management]
 ---
 
 [How to beat the free account limits in Flickr](http://anton.blogs.com/awesome/2005/02/_my_top_10_cool.html).

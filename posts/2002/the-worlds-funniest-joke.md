@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1112
 description: I explore the nature of humor by revisiting Isaac Asimov’s short story "Jokester." I reflect on why humans find dark subjects like adultery and murder funny, drawing on the search for the world's funniest joke.
-keywords: [isaac asimov, jokester, humor theory, dark comedy, psychology of humor]
+tags: [isaac-asimov]
 ---
 
 [The world's funniest joke](http://www.plastic.com/article.html?sid=02/10/03/18065651). The joke deals with a man getting shot. And when I think about it, I can't phrase is better than Asimov did in **Jokester**.

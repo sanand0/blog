@@ -3,7 +3,7 @@ date: "2021-06-23T14:14:05Z"
 categories:
   - linkedin
 description: "A brief tutorial announcement shows how a Harry Potter screen-time bar chart race was built in PowerPoint, proving again that the tool is stranger and more capable than people assume."
-keywords: ["PowerPoint", "bar chart race", "Harry Potter", "tutorial", "animation", "LinkedIn"]
+tags: [powerpoint, harry-potter, tutorials, animation, linkedin]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6813469199885840384/
 ---
 

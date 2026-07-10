@@ -5,7 +5,7 @@ categories:
   - interviews
 wp_id: 2175
 description: I recount my grueling two-round interview experience with Boston Consulting Group. Despite handling complex case studies on cement and food processing, I was ultimately rejected for a "lack of structure," a vital lesson for any aspiring consultant.
-keywords: [bcg, case interview, management consulting, recruitment, interview feedback, problem solving]
+tags: [bcg, case-interviews, management-consulting, recruitment, problem-solving]
 ---
 
 **First Round**

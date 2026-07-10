@@ -5,7 +5,7 @@ categories:
   - interviews
 wp_id: 62
 description: I leverage the implicit guarantees in puzzles and exams—such as the certainty of a unique solution—to solve problems using simple trial and error. I demonstrate how identifying even one valid case can reveal universal answers.
-keywords: [puzzles, problem solving, heuristics, martin gardner, trial and error, exam strategies, implicit information]
+tags: [puzzles, problem-solving, heuristics, exam-strategy]
 ---
 
 From what I've seen, puzzles and exam questions share two un-real-worldly characteristics. Firstly, **you are guaranteed that a solution exists**. Secondly, you are given that all the **information provided to you is relevant**. (Well, not always. Some case studies I've seen have had their share of contrived irrelevance. But that's often what it is, I think. People fill in the relevant stuff, and then try and distract by adding irrelevant material in the hope of making it more real-world-like. But that's just a guess).

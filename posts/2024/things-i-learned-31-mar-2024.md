@@ -4,7 +4,6 @@ date: 2024-03-31T00:00:00+00:00
 categories:
   - til
 description: I investigated binary embeddings, empathic AI with Hume.ai, and audio splitting with Spleeter. I failed at building a Rust-based Parquet server and noted distinct corporate attendance patterns while hosting workshops for Gramener and Straive.
-keywords: [binary embeddings, hume.ai, spleeter, rust, representational engineering, typesense, speaker diarization]
 ---
 
 This week, I learned:

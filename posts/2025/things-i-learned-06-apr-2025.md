@@ -4,7 +4,7 @@ date: 2025-04-06T00:00:00+00:00
 categories:
   - til
 description: I dive into customizable CSS select tags, mathematical paradoxes, and Ubuntu gesture hacks. I also share my streamlined process for publishing an Amazon eBook and review AI coding tools like Cursor, Windsurf, and Roo Code.
-keywords: [css, vitali set, ubuntu, cursor, kindle direct publishing, autonomous agents, windsurf, roo code]
+tags: [css, ubuntu, cursor, autonomous-agents]
 ---
 
 This week, I learned:

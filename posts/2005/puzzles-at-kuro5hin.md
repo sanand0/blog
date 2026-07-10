@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 770
 description: I recommend checking out the puzzle collection at kuro5hin.org and the extensive rec.puzzles archive. These resources are perfect for puzzle enthusiasts looking for a variety of brain teasers and logic challenges.
-keywords: [kuro5hin, rec.puzzles, puzzles, logic puzzles, brain teasers, puzzle archives]
+tags: [kuro5hin, puzzles, logic-puzzles]
 ---
 
 [Puzzles at kuro5hin.org](http://www.kuro5hin.org/story/2005/1/20/142742/948). If you're a puzzles freak, the [rec.puzzles](http://rec-puzzles.org/) archive is also recommended.

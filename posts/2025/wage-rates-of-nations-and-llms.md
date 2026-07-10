@@ -7,7 +7,7 @@ categories:
   - visualisation
 wp_id: 4129
 description: "Comparing national wages with model hourly costs suggests AI is becoming the cheapest worker globally, with especially disruptive implications for offshoring-heavy economies."
-keywords: ["LLM pricing", "wages", "global labor", "offshoring", "AI economics", "comparative costs"]
+tags: [llm-pricing, offshoring]
 ---
 
 ![Wage Rates of Nations and LLMs](/blog/assets/image-8.webp)

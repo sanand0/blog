@@ -4,7 +4,6 @@ date: 2026-01-22T21:56:30+05:30
 source: "https://gemini.google.com/u/2/app/083719d81361361b"
 build: { list: never, render: always }
 description: I explain the immune system using the universal locksmith and lottery ticket analogies. Learn how V(D)J recombination shuffles DNA to create a library of specialized superweapons capable of identifying every possible pathogen, even those not yet evolved.
-keywords: [v(d)j recombination, adaptive immunity, b cells, t cells, dendritic cells, innate immunity, somatic hypermutation, immunology]
 ---
 
 ## User

@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 1003
 description: I discovered that Herman Miller invented the cubicle in the 1950s. While often blamed for office misery, Robert Propst’s original design was modified after early prototypes caused psychological startle reflexes in workers. I secretly kind of like them.
-keywords: [herman miller, robert propst, cubicles, office design, furniture history, action office, startle reflex]
 ---
 
 [Who invented cubicles? Herman Miller, 1950s](http://www.cubesrus.com/itk/historic.shtml). Now we know whom to blame! (However, I must admit to a secret liking for cubicles.) [via MetaFilter](http://www.metafilter.com/mefi/22220)

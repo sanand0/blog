@@ -3,7 +3,7 @@ date: "2025-06-17T06:53:45Z"
 categories:
   - linkedin
 description: "Autocomplete suggestions across countries are an underrated social-research dataset that can reveal culture, anxiety, humor, and intent at scale."
-keywords: ["Google autocomplete", "social research", "search suggestions", "culture", "digital exhaust", "cross-country analysis"]
+tags: [digital-exhaust]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7340632732227538944/
 ---
 

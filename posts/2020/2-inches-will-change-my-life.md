@@ -7,7 +7,7 @@ categories:
   - how-i-do-things
 wp_id: 3002
 description: I analyzed 11 million steps from my last three years of walking to optimize my health and efficiency. By lengthening my stride by two inches, I aim to reach 5 km/hr and save eight minutes per 10k steps.
-keywords: [walking, stride length, data analysis, excel, health tracking, step count]
+tags: [data-analysis, excel]
 ---
 
 <h3><strong>I walked ~11 million steps in the last 3 years, at ~10K steps daily.</strong></h3>

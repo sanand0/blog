@@ -5,7 +5,7 @@ categories:
   - classical-ilayaraja
 wp_id: 140
 description: I explore the neurobiology of the mind through Ilayaraja’s genius for orchestration. I analyze his use of Vasantha, Hamsanandhi, and Ramapriya ragas, detailing how he blends Western classical structures with Carnatic melodies in tracks like 'Andhi Mazhai'.
-keywords: [ilayaraja, carnatic music, vasantha raga, hamsanandhi raga, orchestration, ramapriya raga]
+tags: [ilayaraja, carnatic-music]
 ---
 
 > This is the 10th of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

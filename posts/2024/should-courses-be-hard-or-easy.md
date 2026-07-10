@@ -7,7 +7,7 @@ categories:
   - links
 wp_id: 3721
 description: "Hard and easy courses each optimize for different students and institutional goals, which is why calibrating difficulty is less a solved science than a recurring teaching dilemma."
-keywords: [course difficulty, education, teaching philosophy, assessment, student feedback, learning design]
+tags: [education, assessment, student-feedback, learning-design]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7265628427708186624/
 ---
 

@@ -4,7 +4,7 @@ date: 2024-01-21T00:00:00+00:00
 categories:
   - til
 description: I compared quantized Mistral outputs, tuned ElevenLabs voice cloning, and explored Tim Ferriss’s writing constraints. I also learned about Lilac for data curation and why lungs have a high Hausdorff dimension of 2.97.
-keywords: [mistral, quantization, elevenlabs, lilac ml, hausdorff dimension, tim ferriss, writing, speech synthesis]
+tags: [elevenlabs, writing, speech-synthesis]
 ---
 
 This week, I learned:

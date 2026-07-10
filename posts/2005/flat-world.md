@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 679
 description: I explore Thomas Friedman's take on globalization, specifically how the fiber-optic overinvestment from the dot-com era turned cities like Bangalore into digital neighbors by slashing data transmission costs to nearly zero.
-keywords: [thomas friedman, globalization, fiber-optic cables, dot-com bubble, digital infrastructure, bangalore, telecommunications]
+tags: [thomas-friedman, globalization, dot-com-bubble, digital-infrastructure, bangalore, telecommunications]
 ---
 
 [It's a flat world after all](http://www.nytimes.com/2005/04/03/magazine/03DOMINANCE.html). Thomas Freidman on Globalization, Bangalore, ...

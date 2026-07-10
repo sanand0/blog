@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 3326
 description: "Ten years after imagining a modest company that might barely survive, the author reflects on Gramener crossing one meaningful threshold after another and still feeling both scared and grateful."
-keywords: ["Gramener", "entrepreneurship", "10 years", "milestones", "founder story", "growth"]
+tags: [gramener, entrepreneurship, milestones]
 ---
 
 ![10 years later](https://files.s-anand.net/images/2022-03-17-gramener-10-years-later.webp)

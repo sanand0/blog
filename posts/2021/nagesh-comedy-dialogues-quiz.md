@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 3055
 description: I compiled classic comedy dialogues from Nagesh’s films into an interactive quiz. Challenge your knowledge of Tamil cinema by guessing the movie titles based on his iconic lines—just type them as they sound to see if you're right.
-keywords: [nagesh, tamil cinema, comedy dialogues, film quiz, interactive quiz, kollywood]
+tags: [tamil-cinema, interactive-quiz, kollywood]
 ---
 
 ![Nagesh Comedy Dialogues Quiz](/blog/assets/nagesh.webp)

@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 56
 description: I argue that time management is actually about building habits and managing my moods. I prioritize choosing the right tasks over efficiency, using strategic procrastination and working only when I’m inspired to get things done faster.
-keywords: [time management, mood management, productivity, habits, procrastination, stephen covey]
+tags: [time-management, productivity, habits, procrastination]
 ---
 
 Some years ago, a friend asked me to write about how I manage my time. It seemed to him I was doing a good job of it, given that I had time to pursue my interests.

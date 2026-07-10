@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 4153
 description: "A midyear goals review shows a strong bias toward novelty and people-oriented goals, while stretch and wealth goals lag for lack of follow-through."
-keywords: ["goals", "quarterly review", "personal planning", "habits", "novelty", "self-tracking"]
+tags: [goals, personal-planning, habits, self-tracking]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7347459285057970176/
 ---
 

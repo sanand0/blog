@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 584
 description: I found a comprehensive archive of the complete scripts for the television show 'Friends'. It's a great resource for fans looking to revisit specific episodes or study the dialogue from the entire series.
-keywords: [friends, tv scripts, sitcoms, screenwriting, transcripts, television]
+tags: [transcripts, television]
 ---
 
 The complete ['Friends' scripts](http://www.livesinabox.com/friends/)

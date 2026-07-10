@@ -4,7 +4,7 @@ date: 2025-08-17T00:00:00+00:00
 categories:
   - til
 description: I share insights on Daniel Kahneman’s psychology, Git partial clones, and asset management. I also explore vibe-coding workflows, real-time LLM prompt refinement, and the shift toward computational action in programming education.
-keywords: [git, duckdb, vibe-coding, computational-thinking, large-language-models, daniel-kahneman, prompt-engineering, change-management]
+tags: [git, duckdb, vibe-coding, llms, prompt-engineering]
 ---
 
 This week, I learned:

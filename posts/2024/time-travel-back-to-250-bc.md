@@ -3,7 +3,7 @@ date: "2024-05-05T02:03:05Z"
 categories:
   - linkedin
 description: "The author would time-travel to 250 BC to overlap with both Ashoka and Archimedes, inspired by a visualization that makes historical simultaneity feel vivid."
-keywords: ["time travel", "250 BC", "Ashoka", "Archimedes", "history visualization", "Parallel Lives"]
+tags: [time-travel]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7192705335499882497/
 ---
 

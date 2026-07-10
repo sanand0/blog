@@ -5,7 +5,7 @@ categories:
   - mumbai
 wp_id: 1811
 description: I visited Samrat in Mumbai for Gujarati food, finding the corn bhel and makai nu shakh excellent. The service was impressively attentive yet unobtrusive, making it a high-value, clean spot for a meal near the Eros theatre.
-keywords: [samrat restaurant, mumbai, gujarati cuisine, corn bhel, makai nu shakh, eros theatre]
+tags: [mumbai]
 ---
 
 I'd been to the **Samrat restaurant** (near Eros theatre) with Vinod. A bright and clean place, serving Gujarati cuisine. Having decided to try only new items, We picked **corn bhel** and **fried baby corn** for starters, and **makai nu shakh** with **reshmi paratha** and **rumali roti** for the main course. Makai nu shakh is "cream corn, cooked in milk with coconut, coriander and green chillis". It tasted rather like **Au gratin**, and rather nice, in my opinion. Corn bhel was excellent -- just bhel, except corn was used instead of puffed rice. Figuring there was too much corn on the plate, we had onion rings (instead of fried baby corn) which taste the same pretty much everywhere, I suppose.

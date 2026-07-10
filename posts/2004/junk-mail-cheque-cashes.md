@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 798
 description: I found a case where a man successfully cashed a promotional junk mail cheque for $95,000 using an ATM. This 1995 experiment exposed significant vulnerabilities in automated banking systems and oversight regarding non-standard financial documents.
-keywords: [junk mail, atm, bank oversight, promotional mail, man 1 bank 0, automated processing]
+tags: [junk-mail]
 ---
 
 [Man 1 Bank 0](http://www.man1bank0.com/).

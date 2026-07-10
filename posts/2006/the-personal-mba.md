@@ -5,7 +5,7 @@ categories:
   - top-10-lists
 wp_id: 368
 description: I've shared Josh Kaufman's list of 42 essential books that comprise a "Personal MBA." Covering strategy, finance, and management, these readings offer a practical, low-cost alternative to formal business school through self-directed study and practice.
-keywords: [personal mba, josh kaufman, business books, management, self-education, strategy]
+tags: [management, strategy]
 ---
 
 [The Personal MBA](http://www.joshkaufman.net/personalmba/). John Kaufman says reading (**and practicing**) these 42 books should be as good as any MBA (and that an MBA is, perhaps excessively, expensive). Some of these books are worth a read in any case.

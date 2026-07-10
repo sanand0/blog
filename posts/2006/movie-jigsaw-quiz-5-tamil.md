@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 217
 description: I built an interactive Tamil movie quiz where you solve jigsaw puzzles made from Kamal Haasan film stills. Drag and reorder the jumbled blocks to reveal the image and identify each of the five movies.
-keywords: [tamil movies, kamal haasan, jigsaw puzzle, interactive quiz, film stills, kollywood]
+tags: [tamil-movies, jigsaw-puzzle, interactive-quiz, film-stills, kollywood]
 ---
 
 <p>These are stills from Kamal's movies. Each link points to a different movie. I have jumbled the images. You can <b>move the jumbled blocks around, like a jigsaw</b>. Can you guess the movie?</p>

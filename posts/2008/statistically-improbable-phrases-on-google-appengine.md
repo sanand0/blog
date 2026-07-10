@@ -7,7 +7,7 @@ categories:
   - tools
 wp_id: 54
 description: I ported my Perl script to Python to launch a Statistically Improbable Phrases tool on Google AppEngine. The app analyzes URL text against a custom corpus, generating tag clouds where font size and color represent word frequency and improbability.
-keywords: [google appengine, python, natural language processing, word frequency, tag cloud, statistically improbable phrases]
+tags: [google-appengine, python, natural-language-processing, statistically-improbable-phrases]
 ---
 
 I [read](http://googleappengine.blogspot.com/2008/04/introducing-google-app-engine-our-new.html) about [Google AppEngine](http://appengine.google.com/) early this morning, and applied for an invite. Google's issuing beta invites to the first 10,000 users. I was pretty convinced I wasn't among those, but turns out I was lucky.

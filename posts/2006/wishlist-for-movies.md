@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 160
 description: I built a program to automate my movie wishlist by scraping IMDb ratings and links. It helps me decide what to watch next and automatically tracks movies I've already seen across categories like Hitchcock, Pixar, and the Top 250.
-keywords: [imdb, web scraping, automation, movie wishlist, film tracking, hitchcock]
+tags: [imdb, web-scraping, automation]
 ---
 
 I watch a lot of movies. Over the last year, I've watched over 250 movies (and read 50 books, but that's another story). Other than making time to watch movies, **my biggest problem is figuring out what to watch next**.

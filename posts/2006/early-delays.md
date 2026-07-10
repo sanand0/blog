@@ -5,7 +5,7 @@ categories:
   - london-2005
 wp_id: 178
 description: After a brief hiatus, I share a humorous encounter on the London Underground. A Jubilee line train was held at North Greenwich specifically because it arrived sixty seconds early, prompting a paradoxical apology from the driver.
-keywords: [london underground, jubilee line, north greenwich, train delays, humorous announcements]
+tags: [london-underground, jubilee-line]
 ---
 
 I haven't been blogging the last 6-7 weeks. This is partly because I've been averaging 1 book or movie per day, but mostly because I ran out of things to say. I will start again soon. In the meantime, this is an announcement I heard when travelling on the Jubilee line. (The train had halted at North Greenwich.)

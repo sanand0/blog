@@ -6,7 +6,7 @@ categories:
   - coding
   - how-i-do-things
 description: Local MCP turns my laptop into an AI-readable context repository, letting Claude and ChatGPT combine chat memory, local files, shell tools, email, calendar, transcripts, and code into useful work.
-keywords: [local mcp, context engineering, ai agents, claude, chatgpt, bash tools, personal knowledge base, local files]
+tags: [local-mcp, context-engineering, ai-agents, claude, chatgpt]
 ---
 
 ![](https://files.s-anand.net/images/2026-05-16-how-i-use-local-mcp.avif)

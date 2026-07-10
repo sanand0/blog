@@ -6,7 +6,7 @@ categories:
   - interesting-experiences
 wp_id: 2701
 description: I identified the "Cheerful Mandolin 07" Apple Loop from GarageBand in A.R. Rahman's song "Phir Se Ud Chala" from the movie Rockstar. I recognized the sample after using it myself in a project on my iPad.
-keywords: [garageband, apple loops, a.r. rahman, rockstar, phir se ud chala, music production]
+tags: [a-r-rahman]
 ---
 
 A month ago, I was at the [theatre](http://www.myvue.com/home/cinema/stratford) watching [Ra.One](http://en.wikipedia.org/wiki/Ra.One). The movie was [terrible](http://www.thevigilidiot.com/2011/10/28/ra-one/), yet enjoyable. But I’m going to talk about something else – a song I heard that caught my imagination.

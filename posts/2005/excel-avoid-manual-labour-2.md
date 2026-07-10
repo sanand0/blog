@@ -5,7 +5,7 @@ categories:
   - excel-tips
 wp_id: 476
 description: 'I reconcile mismatched data by using dual VLOOKUPs to isolate #N/A results. I then sort the unmatched entries while maintaining the original order with sequential numbers, making it easy to visually catch spelling variations across different datasets.'
-keywords: [excel, vlookup, data reconciliation, sorting, data cleaning, spreadsheet tips]
+tags: [excel, vlookup]
 ---
 
 **Rule #3: Avoid manual labour (continued)**

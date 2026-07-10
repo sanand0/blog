@@ -6,7 +6,7 @@ categories:
   - simple-explanations
 wp_id: 251
 description: I share an iterative log-based formula for calculating the internal rate of return (IRR) when software lacks built-in functions. I used this method to calculate risk-weighted assets for bank leases under Basel 2 requirements.
-keywords: [internal rate of return, net present value, basel 2, risk-weighted assets, iterative calculation, financial modeling]
+tags: [internal-rate-of-return, financial-modeling]
 ---
 
 <p>Recently, I was helping a bank define <a href="http://en.wikipedia.org/wiki/Basel_2">Basel 2</a> requirements.</p>

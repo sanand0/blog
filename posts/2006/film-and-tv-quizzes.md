@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 229
 description: I found a collection of TV and film quizzes hosted in Excel spreadsheets and via Yahoo. These trivia sets are great for parties or office challenges, offering various formats to test your entertainment knowledge.
-keywords: [tv quizzes, film trivia, excel spreadsheets, yahoo entertainment, party games]
+tags: [film-trivia]
 ---
 
 Solve several [TV and film quizzes](http://www.arnodewever.com/quiz/indexOtherTV.html) in Excel. More at [Yahoo's online quizzes](http://uk.entertainment.yahoo.com/office-attachments/quizzes.html).

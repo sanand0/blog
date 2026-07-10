@@ -3,7 +3,7 @@ date: "2024-02-06T03:21:07Z"
 categories:
   - linkedin
 description: "This is an announcement for a Singapore talk aimed at helping non-technical audiences understand how LLMs work, fail, and can be visualized clearly."
-keywords: ["data visualization", "LLMs", "Singapore meetup", "hallucinations", "public talk", "education"]
+tags: [data-visualization, llms, hallucination, education]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7160472449992593409/
 ---
 

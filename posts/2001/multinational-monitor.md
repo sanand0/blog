@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 1945
 description: I found the Multinational Monitor’s list of the ten worst corporations of 2000. It catalogs global companies criticized for unethical practices, environmental neglect, and human rights violations during the preceding year.
-keywords: [multinational monitor, corporate accountability, unethical business, corporate social responsibility, human rights]
 ---
 
 [Multinational Monitor](http://www.essential.org/monitor/) features the [10 worst corporations](http://www.essential.org/monitor/mm2000/00december/enemies.html) of 2000.

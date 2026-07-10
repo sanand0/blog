@@ -5,7 +5,7 @@ categories:
   - funny
 wp_id: 67
 description: I noticed a striking similarity between a math problem scene in the movie Taare Zameen Par and Bill Watterson’s Spaceman Spiff strips. I found that Ishaan’s imaginative space collision to solve arithmetic mirrors Calvin’s iconic daydreaming style.
-keywords: [taare zameen par, calvin & hobbes, bill watterson, spaceman spiff, aamir khan, daydreaming]
+tags: [calvin-and-hobbes, bill-watterson]
 ---
 
 <p>Watch this segment of Taare Zameen Par.</p>

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 340
 description: I explore the Long Tail of information sharing, noting that a tiny fraction of users drive most Wikipedia content. I originally doubted organizational wikis could reach critical mass, but later found examples where scale made them work.
-keywords: [wikipedia, long tail, information sharing, internal wikis, user contribution, knowledge management]
+tags: [wikipedia, long-tail, knowledge-management]
 ---
 
 [The Long Tail of information sharing](http://www.roughtype.com/archives/2006/04/web_20s_numbsku.php). Even on Wikipedia, fewer than 2% have contributed over 100 articles. Over 85% have contributed fewer than 5 articles. A Wiki inside an organisation is unlikely to reach critical mass, left to itself.

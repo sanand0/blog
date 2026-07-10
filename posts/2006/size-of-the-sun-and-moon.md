@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 381
 description: I explore the psychological illusion of the Sun and Moon's size. By using a finger at arm's length as a two-degree scale, you can see that four moons actually fit behind your single fingertip.
-keywords: [sun, moon, moon illusion, angular diameter, psychological illusion, perception]
+tags: [perception]
 ---
 
 [The sun and moon look smaller than you think](http://www.shatters.net/forum/viewtopic.php?p=15079&highlight=#15079).

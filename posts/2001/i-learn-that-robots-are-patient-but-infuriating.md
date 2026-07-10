@@ -5,7 +5,7 @@ categories:
   - chat-transcripts
 wp_id: 1729
 description: I documented my circular conversation with Iniaes, an early chatbot. Despite its attempt to learn about my life in Bombay and Madras, its grammatical pedantry and repetitive logic loops eventually drove me to give up.
-keywords: [iniaes, chatbot, ai history, conversation transcript, chatterbot, natural language processing]
+tags: [chatbots, natural-language-processing]
 ---
 
 This is a chat with [Iniaes](http://iniaes.org/), a chat software. I mean, I was chatting **to a program**. The responses marked "Iniaes" are a program speaking to me.\

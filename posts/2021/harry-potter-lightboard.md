@@ -3,7 +3,7 @@ date: "2021-05-20T13:34:35Z"
 categories:
   - linkedin
 description: "The author's first lightboard-style video combines on-camera explanation, a PowerPoint bar-chart race, and OBS to make data storytelling feel more live and physical."
-keywords: ["lightboard", "Harry Potter", "data video", "PowerPoint", "OBS", "storytelling"]
+tags: [harry-potter, powerpoint, storytelling]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6801138072068214784/
 ---
 

@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 449
 description: I highlight Paul Graham's distinction between good and bad procrastination. By intentionally ignoring small tasks to focus on ambitious projects, you can leverage procrastination as a tool for high-impact work instead of viewing it as a simple character flaw.
-keywords: [procrastination, paul graham, productivity, focus, work habits, prioritization]
+tags: [procrastination, paul-graham, productivity, prioritization]
 ---
 
 [Good and bad procrastination](http://paulgraham.com/procrastination.html) by Paul Graham.

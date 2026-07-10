@@ -4,7 +4,7 @@ date: 2026-02-01T00:00:00+00:00
 categories:
   - til
 description: I explored using Socratic prompting for AI agents, Gwern’s iterative poetry workflow, and browser automation via HAR files. I also evaluated tools like exiftool for metadata extraction and Qwen3 TTS for local voice cloning.
-keywords: [socratic method, exiftool, restish, har files, qwen3 tts, zod, browser automation]
+tags: [socratic-method]
 ---
 
 This week, I learned:

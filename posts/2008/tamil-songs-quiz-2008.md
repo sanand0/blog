@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 34
 description: I built an interactive audio quiz featuring background music clips from 2008 Tamil films. Challenge yourself to identify the movies by their tracks and see if you can solve the famously difficult tenth question.
-keywords: [tamil cinema, movie quiz, kollywood, film music, bgm, '2008']
+tags: [tamil-cinema, movie-quiz, kollywood, film-music]
 ---
 
 <p>Here is the background music from some songs from 2008. Can you guess which <b>movie</b> they are from?</p>

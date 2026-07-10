@@ -6,7 +6,7 @@ categories:
   - london-2000
 wp_id: 2169
 description: I spent an afternoon navigating London's Oxford Street to buy my first suit for a BCG presentation. I shared my experience hunting for sales at Ciro Citterio and Marks & Spencer while learning the ropes of retail pricing.
-keywords: [london, oxford street, suit shopping, ciro citterio, marks & spencer, budget, bcg]
+tags: [london, oxford-street, bcg]
 ---
 
 After a group meeting, we went to 'The Biz', a restaurant inside LBS. They served some kind of rice with curry containing lots of vegetables. I ate rather well and found it quite edible, until I heard the price. 3.50 pounds, or about Rs. 233. Roughly what my sandwich cost in Tokyo. Very nice.

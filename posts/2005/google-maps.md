@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 753
 description: I analyze the launch of Google Maps, noting its superior web interface and intuitive routing. While limited to the US at start, I expect a global expansion following Google's acquisition of Keyhole for its geospatial data.
-keywords: [google maps, web applications, keyhole, gis, mapping, ui design]
+tags: [google-maps, web-applications, gis, mapping, ui-design]
 ---
 
 [Google Maps](http://maps.google.com/). Only has the US for now. But that may change, given that

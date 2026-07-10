@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 413
 description: I found this collection of O'Reilly Hacks, which provides community-sourced technical tips and creative workarounds for hardware and software. It is a valuable repository for discovering clever ways to optimize workflows and solve specific technical challenges.
-keywords: [o'reilly media, hacks, technical tips, workflow optimization, problem solving, software hacks]
+tags: [workflow-optimization, problem-solving]
 ---
 
 [O'Reilly hacks](http://hacks.oreilly.com/pub/q/all_hacks).

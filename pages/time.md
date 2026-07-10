@@ -4,7 +4,7 @@ date: "2022-03-20T05:46:21Z"
 lastmod: "2025-01-12T04:35:16Z"
 wp_id: 3333
 description: I maximize productivity by accepting limits and creating capacity through sleep, exercise, and meditation. I stay effective by using Markdown idea-lists, strict calendaring, and intentionality logs to manage my mood and focus throughout the day.
-keywords: [time management, productivity, calendaring, meditation, markdown, journaling]
+tags: [time-management, productivity, meditation, markdown]
 ---
 
 ![Time Management](/blog/assets/time-management-2059403_1280.webp)

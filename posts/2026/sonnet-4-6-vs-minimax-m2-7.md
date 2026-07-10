@@ -5,7 +5,7 @@ categories:
   - llms
   - coding
 description: Even when two models can complete the same task, they differ noticeably in narrative quality, visual ambition, and implementation details, so model choice meaningfully affects outcomes.
-keywords: [LLM comparison, Sonnet, MiniMax, evaluation, data stories, model capabilities]
+tags: [llm-comparison, evaluation, data-stories]
 ---
 
 Based on several (i.e. two) recommendations, I subscribed to [MiniMax](https://platform.minimax.io/). At $10/month, you get 1,500 requests every 5 hours and 15,000 every week. That's a LOT!

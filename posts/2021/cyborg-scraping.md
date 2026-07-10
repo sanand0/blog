@@ -7,7 +7,7 @@ categories:
   - how-i-do-things
 wp_id: 3142
 description: "Cyborg scraping mixes manual scrolling with tiny browser-console scripts to extract hard-to-scrape LinkedIn data quickly, cheaply, and imperfectly—but often fast enough to matter."
-keywords: ["web scraping", "LinkedIn", "browser console", "JavaScript", "manual automation", "workflow"]
+tags: [web-scraping, linkedin, javascript, workflow]
 ---
 
 ![Cyborg scraping](/blog/assets/linkedin-followers.webp)

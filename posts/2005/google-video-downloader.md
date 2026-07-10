@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 450
 description: I linked to a tool for downloading Google Video content during the platform's early days. The discussion touches on early predictions of a YouTube acquisition and my use of Windows Movie Maker for video editing.
-keywords: [google video, youtube, windows movie maker, video downloading, video editing]
+tags: [google-video, youtube, video-editing]
 ---
 
 [Google Video Downloader](http://dev2.traxio.net/projects/googlevideo/).

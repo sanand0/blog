@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 708
 description: Update your business listing on Google Local by editing details like categories and hours. After submission, Google mails a physical PIN to verify your address before the changes become live on the local search platform.
-keywords: [google local, business center, local search, pin verification, business listing, maps]
+tags: [local-search, maps]
 ---
 
 [Google Local Business Center](http://www.google.com/local/add).

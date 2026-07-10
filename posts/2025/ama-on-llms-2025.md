@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: "This is an invitation to one-on-one conversations meant both to share LLM use cases and to discover new ones from others."
-keywords: ["AMA", "LLMs", "use cases", "knowledge sharing", "consultation", "community"]
+tags: [llms, use-cases, community]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7342748269569110020/
 ---
 

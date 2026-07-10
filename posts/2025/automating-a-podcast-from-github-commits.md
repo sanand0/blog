@@ -8,7 +8,7 @@ categories:
   - tools
 wp_id: 4094
 description: "Version-control activity can be automatically transformed into narrative audio, turning raw commit trails into ambient technical documentation that changes how people write and review code."
-keywords: [GitHub commits, podcast generation, ambient documentation, activity traces, TTS, developer workflow]
+tags: [tts, developer-workflow]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7327550626060533760/
 ---
 

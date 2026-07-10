@@ -4,7 +4,7 @@ date: 2024-04-28T00:00:00+00:00
 categories:
   - til
 description: I tested LLMs using Caesar cipher prompts, compiled a list of cheap cloud GPU services like Runpod, and learned how JSR handles package documentation. I also found that averaging embeddings is useful for processing long document inputs.
-keywords: [caesar cipher, cloud gpus, jsr, mixture of experts, embeddings, deno]
+tags: [embeddings, deno]
 ---
 
 This week, I learned:

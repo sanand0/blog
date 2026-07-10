@@ -5,7 +5,6 @@ categories:
   - data
 wp_id: 2546
 description: I explore how to use Bayes' Theorem to update a probability distribution iteratively. Starting with a flat prior, I show how successive coin toss results refine the Beta distribution to better estimate unknown likelihoods.
-keywords: [bayes theorem, beta distribution, probability distribution, posterior update, prior distribution, inferential statistics]
 ---
 
 I’ve tried understanding [Bayes’ Theorem](http://en.wikipedia.org/wiki/Bayes'_theorem) several times. I’ve always managed to get confused. Specifically, I’ve always wondered why it’s better than simply using the average estimate from the past. So here’s a little attempt to jog my memory the next time I forget.

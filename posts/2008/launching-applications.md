@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 48
 description: I replaced memory-heavy application launchers with a custom Perl script called 'o'. It indexes specific directories and lets me search and open files or programs instantly from the command line using keyword matching and filtering.
-keywords: [perl, command line, application launcher, indexing, launchy, scripting, windows]
+tags: [perl, command-line, indexing, scripting, windows]
 ---
 
 Opening programs from the Start - All Programs menu is painful. For many years, I relied on the quick launch bar.

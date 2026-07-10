@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 503
 description: I shared a link to a 43 Folders discussion focused on practical presentation tips. It highlights various community-sourced strategies for effective public speaking, visual communication, and staying organized during professional presentations.
-keywords: [public speaking, presentation tips, 43 folders, communication skills, productivity]
+tags: [public-speaking, productivity]
 ---
 
 Discussion on 43 Folders on [presentation tips](http://www.43folders.com/2005/11/18/presentation-tips/).

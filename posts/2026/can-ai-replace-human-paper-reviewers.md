@@ -5,7 +5,7 @@ categories:
   - llms
   - visualisation
 description: I analyzed the Agents for Science conference data using ChatGPT and Claude to compare AI peer reviewers. I found they wildly disagree and exhibit 100% false confidence, though they excel at catching factual hallucinations.
-keywords: [agents for science, peer review, large language models, openreview, data analysis, hallucinations, academic publishing]
+tags: [peer-review, llms, data-analysis, hallucination, academic-publishing]
 ---
 
 Stanford ran a conference called [Agents for Science](https://agents4science.stanford.edu/). It's a conference for AI-authored papers, peer reviewed by AI.

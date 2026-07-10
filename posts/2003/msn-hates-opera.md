@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 968
 description: I link to evidence of MSN intentionally sabotaging the Opera browser by serving it malformed CSS. This anti-competitive browser sniffing forced Opera users into a broken layout to encourage switching to Internet Explorer.
-keywords: [msn, opera, browser sniffing, web standards, internet explorer, anti-competitive, css]
+tags: [msn, opera, web-standards, internet-explorer, css]
 ---
 
 [MSN's attempt to foil Opera](http://my.opera.com/dev/discussion/openweb/20030206/). [via andersja](http://www.jacobsen.no/anders/blog/archives/2003/02/07/msncom_plays_dirty_with_opera.html)

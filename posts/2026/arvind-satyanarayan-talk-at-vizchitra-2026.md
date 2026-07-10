@@ -6,7 +6,7 @@ categories:
   - llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7475339739600986112/
 description: I’m attending Arvind Satyanarayan’s talk at VizChitra 2026 to discuss how visualization grammars like Vega-Lite and GoFish evolve alongside LLMs, serving as structured frameworks for AI coding agents to generate precise, scalable charts.
-keywords: [arvind satyanarayan, vega-lite, gofish, vizchitra, grammar of graphics, ai coding agents]
+tags: [vizchitra, ai-coding-agents]
 ---
 
 ![](https://files.s-anand.net/images/2026-06-24-arvind-satyanarayan-talk-at-vizchitra-2026.avif)

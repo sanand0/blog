@@ -7,7 +7,7 @@ categories:
   - how-i-do-things
 wp_id: 3384
 description: "Eleven hours of Microsoft Speaker Coach data exposed the author's filler words, pacing habits, and “maybe”-driven hypotheses, turning speaking analytics into a self-improvement tool."
-keywords: ["public speaking", "Speaker Coach", "Teams", "filler words", "self-analysis", "communication"]
+tags: [public-speaking, self-analysis, communication]
 ---
 
 Microsoft ported its [PowerPoint Speaker Coach](https://support.microsoft.com/en-us/office/suggestions-from-speaker-coach-25e7d866-c895-4aa1-9b90-089b70a4ea38) to [Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-public-preview/now-in-public-preview-speaker-coach-in-microsoft-teams-meetings/m-p/3568697). Since September, it's given me suggestions covering 11 hours in 77 calls (I speak ~10 min/call.)

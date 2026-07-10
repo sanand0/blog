@@ -3,7 +3,7 @@ date: "2024-03-24T14:39:01Z"
 categories:
   - linkedin
 description: "Candidates who openly use help during interviews may signal ambition, resourcefulness, and poor concealment rather than straightforward unfitness for the role."
-keywords: ["hiring", "interviews", "cheating", "judgment", "resourcefulness", "recruitment"]
+tags: [hiring, interviews, judgment, recruitment]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7177675280877072384/
 ---
 

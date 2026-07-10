@@ -7,7 +7,7 @@ categories:
   - llms
 wp_id: 3825
 description: "Real usage data from an enterprise LLM playground shows that attaching local files and working with private context matter far more than flashy search or advanced model features."
-keywords: [LLM playground, feature usage, enterprise AI, local files, RAG, product analytics]
+tags: [enterprise-ai, rag]
 ---
 
 ![Features actually used in an LLM playground](/blog/assets/Picture1.webp)

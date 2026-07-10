@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 773
 description: I discovered a collection of parody ads and logos that satirize famous brands, including Microsoft. These "false advertising" examples use humor and graphic design to mock iconic corporate visual identities and marketing messaging.
-keywords: [microsoft, parody ads, logo satire, corporate branding, false advertising, graphic design]
+tags: [microsoft, graphic-design]
 ---
 
 [False advertising](http://parody.organique.com/009.html). Ads that make fun of famous ads / logos.

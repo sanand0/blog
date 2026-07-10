@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 541
 description: I integrated Google Adsense into my page to monetize it, but the ads being served are currently ridiculously irrelevant to my content. I am disappointed with how the contextual targeting is performing so far.
-keywords: [google adsense, monetization, contextual advertising, ad relevance, web development]
+tags: [google-adsense, monetization, web-development]
 ---
 
 I've put in [Google Adsense](https://www.google.com/adsense/) on my page. But the results are ridiculously irrelevant!

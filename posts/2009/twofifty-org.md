@@ -7,7 +7,7 @@ categories:
   - tools
 wp_id: 1
 description: I built a replacement for the defunct twofifty.org to track my progress through the IMDb Top 250 list. It lets you mark movies as seen, track your score, and view recent additions. I also open-sourced the code.
-keywords: [imdb top 250, twofifty.org, movie tracking, open source, google code, web application]
+tags: [movie-tracking, open-source, google-code, web-applications]
 ---
 
 It's been a good movie month for me, and I've managed to nudge closer to my target of watching the [IMDb Top 250](http://www.imdb.com/chart/top).

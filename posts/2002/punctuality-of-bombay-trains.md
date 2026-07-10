@@ -5,7 +5,7 @@ categories:
   - mumbai
 wp_id: 1350
 description: I share a personal anecdote about observing the surprising reputation for punctuality among Mumbai's local trains. While waiting at Bandra station at midnight, I watched passengers assume a delayed train had already left solely based on the clock.
-keywords: [mumbai, local trains, bandra station, churchgate, punctuality, public transport, suburban railway]
+tags: [mumbai, churchgate, public-transport]
 ---
 
 **12:05 Churchgate**

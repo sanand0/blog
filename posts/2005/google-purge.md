@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 565
 description: I shared a satirical report from The Onion where Google 'announces' plans to destroy any information it can't index. It’s a classic take on early internet-era anxieties about Google’s growing dominance over the world's data.
-keywords: [the onion, google, satire, information indexing, digital history]
+tags: [the-onion, google, satire, digital-history]
 ---
 
 [Google Purge](http://www.theonion.com/content/node/40076). Google Announces Plan To Destroy All Information It Can't Index.

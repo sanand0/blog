@@ -4,7 +4,7 @@ date: "2025-09-20T09:27:45Z"
 lastmod: "2025-12-07T12:16:08Z"
 classes: wrap-code
 description: I evaluate technologies using a rigorous rubric centered on popularity, momentum, cost, and documentation. My criteria prioritize CLI-first tools, open standards, and declarative configurations, ensuring I select the top three options backed by verified primary sources and benchmarks.
-keywords: [technology evaluation, software selection, cli tools, open source, benchmarking, llm evaluation, framework comparison]
+tags: [cli-tools, open-source, benchmarking, llm-evaluation]
 ---
 
 Evaluate technologies on criteria I care about.

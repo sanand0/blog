@@ -5,7 +5,7 @@ categories:
   - excel-tips
 wp_id: 463
 description: I automate complex Excel tasks using INDIRECT, OFFSET, and ADDRESS to avoid manual typing. I demonstrate how I summarized data from 300 sheets and built a dynamic interest income model using convolutional sumproducts and variable ranges.
-keywords: [excel, indirect, offset, address, financial modeling, spreadsheet automation, convolution]
+tags: [excel, financial-modeling, spreadsheet-automation]
 ---
 
 A **corollary of Rule 3: Never type the same formula twice**. Design the formula so that if you cut and paste it elsewhere, it works correctly. The $ symbol and the F4 key for cell references help in 90% of the cases. For complex requirements and large data, 5 functions come in handy: INDIRECT, OFFSET, ADDRESS, ROW and COLUMN.

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 929
 description: I am noting the closure of Caltiger, a pioneer in providing free internet access in India. Commenters share their nostalgia for the service, which served as the first point of web entry for many.
-keywords: [caltiger, india, isp, internet history, free internet, connectivity]
+tags: [india, isp, internet-history, connectivity]
 ---
 
 [Caltiger is dead](http://economictimes.indiatimes.com/cms.dll/html/uncomp/articleshow?msid=44203825).

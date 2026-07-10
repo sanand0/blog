@@ -5,7 +5,7 @@ categories:
   - coding
 wp_id: 2532
 description: I built a modular CSS library system using LessCSS to mix and match components like YUI3 grids and SenCSS vertical rhythm. By leveraging variables and mixins, I can selectively combine resets, font stacks, and color themes across my projects.
-keywords: [lesscss, css frameworks, web development, yui3, 960gs, sencss, frontend architecture]
+tags: [web-development]
 ---
 
 A fair number of the CSS frameworks I’ve seen – [Blueprint](http://www.blueprintcss.org/), [Tripoli](http://devkick.com/lab/tripoli/), [YUI](http://developer.yahoo.com/yui/3/), [SenCSS](http://sencss.kilianvalkhof.com/) – are monolithic. What I’d like is to be able to mix and match specific components of these.

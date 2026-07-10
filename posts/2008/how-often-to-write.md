@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 46
 description: I prioritize writing for myself to clarify thoughts and avoid burnout. Although my post frequency dropped, my total writing volume remains consistent as I focus on longer pieces and use micro-sabbaticals to maintain my enjoyment of the process.
-keywords: [blogging philosophy, micro-sabbaticals, writing habits, burnout prevention, content volume, personal blogging]
+tags: [personal-blogging]
 ---
 
 If you look at the number of entries I've written every month since 2005, there has been a clear decline. While I was averaging almost an entry a day in 2005 and 2006, that dropped to 2-3 entries a month since mid-2007.

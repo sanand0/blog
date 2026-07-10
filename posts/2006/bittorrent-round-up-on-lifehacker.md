@@ -5,7 +5,7 @@ categories:
   - top-10-lists
 wp_id: 312
 description: I compiled this round-up of BitTorrent guides from Lifehacker, covering everything from setting up Azureus and automating TV show downloads to improving speed, ensuring anonymity through encryption, and finding legal public domain movies.
-keywords: [bittorrent, azureus, file sharing, p2p, encryption, lifehacker, torrents]
+tags: [bittorrent, file-sharing, p2p, encryption, lifehacker]
 ---
 
 - [How To Set Up Azureus](http://www.lifehacker.com/software/azureus/how-to-set-up-azureus-129570.php)

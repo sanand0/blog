@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 1703
 description: I’m highlighting the English-language version of Pravda for readers interested in tracking Russian current events. This online resource provides a direct way to follow news and perspectives from Russia in English.
-keywords: [pravda, russia, russian media, online journalism, international news]
 ---
 
 To those who're curious about what's happening in Russia, [Pravda](http://english.pravda.ru/) has been online in English for a while.

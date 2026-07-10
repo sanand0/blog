@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 566
 description: I highlight the leaked features of Winamp 5.1, including 8x CD ripping in the free version and WMA support. I'm intrigued by the Predixis Smart Playlist Generator and its promise to mix tracks based on how they sound.
-keywords: [winamp 5.1, cd ripping, wma, predixis smart playlist generator, audio software, digital music]
+tags: [digital-music]
 ---
 
 [WinAmp 5.1 leaked](http://www.fluxiontech.com/?p=69). Actually, the features were. The good part is, we will have 8X CD ripping in the free version, and ability to create WMA files. Wonder how the Predixis Smart Playlist Generator works. (It says "Mix your tracks based on what they sound like!")

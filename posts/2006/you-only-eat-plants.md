@@ -5,7 +5,7 @@ categories:
   - interesting-experiences
 wp_id: 169
 description: While working at Honda R&D in Japan, I had to explain that being vegetarian meant no fish or chicken. The chef eventually realized I "only eat plants," serving me a simple meal of rice, broccoli, and pepper.
-keywords: [japan, utsunomiya, vegetarianism, honda r&d, dietary restrictions, food culture, travel anecdote]
+tags: [japan, food-culture, travel-anecdote]
 ---
 
 **UTSUNOMIYA, Japan, Dec 1998**. I was on a project with Honda R&D at [Utsunomiya](http://en.wikipedia.org/wiki/Utsunomiya%2C_Tochigi), Japan.

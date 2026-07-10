@@ -3,7 +3,7 @@ date: "2024-09-19T11:00:49Z"
 categories:
   - linkedin
 description: "This is a short joke about ChatGPT confidently rewriting the author’s own career history."
-keywords: [memory errors, ChatGPT, hallucination, personal history, humor, AI mistakes]
+tags: [chatgpt, hallucination, personal-history, humor]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7242487797792579584/
 ---
 

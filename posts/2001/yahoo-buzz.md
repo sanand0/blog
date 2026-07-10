@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1782
 description: Keep up with the latest internet trends and popular search terms using Yahoo Buzz. This service tracks what people are searching for, providing a real-time index of cultural interest and viral content online.
-keywords: [yahoo buzz, search trends, internet culture, trending topics, web history]
+tags: [search-trends, internet-culture, web-history]
 ---
 
 Keep up with Yahoo's [buzz](http://buzz.yahoo.com/).

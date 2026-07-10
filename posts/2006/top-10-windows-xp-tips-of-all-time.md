@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 346
 description: I curated a list of the ten best Windows XP tips for improving system performance and workflow. These essential tweaks help users optimize their OS, manage files more efficiently, and master forgotten power-user shortcuts.
-keywords: [windows xp, os optimization, system performance, productivity hacks, power user shortcuts, techweb]
+tags: [windows-xp, optimization]
 ---
 
 [Top 10 Windows XP tips of all time](http://www.techweb.com/wire/software/186500837).

@@ -2,7 +2,7 @@
 title: India data platforms
 date: 2026-01-25T11:39:28+05:30
 description: I researched and mapped the landscape of Indian data platforms, covering civic reporting, open data communities, and geospatial startups. This list details founding teams, business models, and financial health for key players like IndiaSpend, SatSure, and CivicDataLab.
-keywords: [india, open data, data journalism, civic tech, fact-checking, geospatial analytics, startups]
+tags: [india, open-data, data-journalism, fact-checking, startups]
 ---
 
 <!-- #TODO - Merge and check -->

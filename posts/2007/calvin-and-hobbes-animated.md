@@ -5,7 +5,7 @@ categories:
   - funny
 wp_id: 81
 description: I shared a YouTube video of a fan-made Calvin and Hobbes animation produced by Dadomani. This short clip brings Bill Watterson’s iconic comic strip characters to life, experimenting with how the classic artwork translates into a moving format.
-keywords: [calvin and hobbes, animation, dadomani, bill watterson, fan art, youtube]
+tags: [calvin-and-hobbes, animation, bill-watterson, youtube]
 ---
 
 <p>A <a href="http://www.youtube.com/watch?v=ajsWq5-yL_0">Calvin and Hobbes cartoon</a>, drawn by <a href="http://www.dadomani.com/">Dadomani</a>.</p>

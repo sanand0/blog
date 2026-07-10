@@ -6,7 +6,7 @@ categories:
 - how-i-do-things
 - llms
 description: Browser tabs can work as a lightweight slide deck, especially when combined with simple title and section pages to restore presentation flow.
-keywords: [presentations, browser tabs, slides, lightweight workflows, demos, public speaking]
+tags: [presentations, slides, public-speaking]
 ---
 
 My last two presentations used browser tabs as slides.

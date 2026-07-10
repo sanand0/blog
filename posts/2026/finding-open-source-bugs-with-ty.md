@@ -5,7 +5,7 @@ categories:
   - coding
   - llms
 description: I used Astral’s Ty type checker and ChatGPT to identify a real bug in tqdm's rich integration. After verifying the error, I used Gemini to find an existing unmerged pull request and bumped it for review.
-keywords: [ty, astral, python, tqdm, type checking, llms, chatgpt]
+tags: [python, llms, chatgpt]
 ---
 
 Astral released [Ty (Beta)](https://astral.sh/blog/ty) last month.

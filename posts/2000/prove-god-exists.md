@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 2072
 description: I examine philosophical proofs for God's existence, including Descartes' 'Cogito, ergo sum' and the Watchmaker Argument, but I find that I prefer relying on faith rather than logical proofs like those countered by Richard Dawkins.
-keywords: [descartes, watchmaker argument, richard dawkins, philosophy of religion, cogito ergo sum, the blind watchmaker]
+tags: [richard-dawkins]
 ---
 
 Prove God exists. [Descartes proved it](http://www.orst.edu/instruct/phl302/philosophers/descartes-god.html) by assuming that 'Cogito, ergo sum'. [ProofGodExists.com](http://www.proofgodexists.org/creator.html) uses what's called the Watchmaker Argument -- that there can be no watch without a watchmaker. [Richard Dawkins](http://www.world-of-dawkins.com/) countered that beautifully in [The Blind Watchmaker](http://www.world-of-dawkins.com/blind.htm). Now, I'm a religious guy and all that. But I'd rather take God on faith than proof, OK?

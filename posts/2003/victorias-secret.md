@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 890
 description: I shared a brief, playful update about browsing the Victoria's Secret website, jokingly suggesting I was up to no good. This post captures a casual moment of online distraction and link-sharing from my early blogging days.
-keywords: [victoria's secret, linklog, personal blog, fashion, web browsing]
+tags: [personal-blog]
 ---
 
 [![Near Victoria's Secret](/blog/assets/flickr-near-victorias-secret_24685648_o-jpg.webp)](/blog/assets/flickr-near-victorias-secret_24685648_o-jpg.webp)

@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 136
 description: I discovered an impressive periodic table of visualization methods that organizes 100 different graphs and diagrams into six functional groups. It covers everything from metro maps and treemaps to strategic metaphors and data-driven scatterplots.
-keywords: [data visualization, visual literacy, information design, infographics, diagrams, concept maps]
+tags: [data-visualization, information-design, infographics]
 ---
 
 [Periodic table of visualization methods](http://www.visual-literacy.org/periodic_table/periodic_table.html). 100 visualizations (graphs, diagrams, etc.) organised into 6 groups (data, information, concept, strategy, metaphor, compound), and arranged exactly like the periodic table. (This, in itself, is a lovely visualization.) It includes diverse visuals from the Metro Map (e.g. London Underground Map) and cartoons to scatterplots and treemaps. Just browse it. It's wonderful.

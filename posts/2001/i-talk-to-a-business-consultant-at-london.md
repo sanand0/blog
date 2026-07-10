@@ -5,7 +5,7 @@ categories:
   - chat-transcripts
 wp_id: 1916
 description: I chatted with a London-based consultant on Rediff while studying at IIM Bangalore in 2001. We shared updates on the Gujarat earthquake's impact on IIM Ahmedabad and discussed our professional experiences with IBM, Peoplesoft, and Lotus Notes.
-keywords: [rediff chat, iim bangalore, gujarat earthquake, peoplesoft, lotus notes, london business school, erp consulting]
+tags: [iim-bangalore, london-business-school]
 ---
 
 A chat with Business Consulting on chat.rediff.com as anand\_m26blr. Right through this conversation, Business Consulting keeps pumping in news about the world to everyone.\

@@ -4,11 +4,9 @@ date: "2008-02-22T12:00:00Z"
 lastmod: "2021-03-01T00:14:31Z"
 categories:
   - how-i-do-things
-tags:
-  - book
+tags: [book, ebooks, laptop, ergonomics, project-gutenberg]
 wp_id: 57
 description: I treat my laptop as a portable library, reading books and movie scripts in bed or on trains. I make the experience better by rotating the screen to portrait mode and using hibernation for instant bookmarking.
-keywords: [ebook, digital reading, laptop, portrait mode, ergonomics, project gutenberg, foxit reader]
 ---
 
 I have the habit of reading books on the screen. It's something that started from the early 90s, when I got a copy of [The MIT Guide to Lockpicking](http://www.google.com/search?q=mit+guide+to+lockpicking). Since I didn't have access to a printer, I'd spent hours poring over the document on the screen. And then I discovered [Project Gutenburg](http://www.google.com/search?q=project+gutenburg)...

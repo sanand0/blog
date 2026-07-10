@@ -4,7 +4,7 @@ date: 2024-03-24T00:00:00+00:00
 categories:
   - til
 description: I explored expanding mental models through inversion techniques like pre-mortems and red teaming. I also discovered Planka for project management, the Instructor library for structured JSON, and how real-time control vectors influence model responses.
-keywords: [mental models, inversion, oidc, planka, instructor library, control vectors, pre-mortem]
+tags: [mental-models, pre-mortem]
 ---
 
 This week, I learned:

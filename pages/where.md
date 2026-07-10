@@ -2,7 +2,7 @@
 title: Where
 date: 2026-01-17T18:26:06+05:30
 description: I maintain a log of my past and future travel dates across cities like Singapore, Chennai, and Hyderabad. I use a custom Python script to keep this itinerary updated as I move between international regions.
-keywords: [travel itinerary, location tracking, digital nomad, singapore, chennai, automation]
+tags: [singapore, chennai, automation]
 ---
 
 Here's my travel schedule.

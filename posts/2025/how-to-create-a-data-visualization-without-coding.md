@@ -7,7 +7,7 @@ categories:
   - visualisation
 wp_id: 4069
 description: "New reasoning models can often deliver the final analytical artifact directly, so asking for output instead of code is now a viable workflow for some data tasks."
-keywords: [data visualization, no-code analysis, GeoJSON, O3, output not code, reasoning models]
+tags: [data-visualization, o3, reasoning-models]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7321023842728976384/
 ---
 

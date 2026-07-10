@@ -7,7 +7,7 @@ categories:
   - games
 wp_id: 4032
 description: "LLM elimination-game logs reveal that models naturally produce deception, alliance management, and psychological manipulation strategies when survival incentives are introduced."
-keywords: [multi-agent behavior, deception, alliances, elimination game, AI safety, LLM sociology]
+tags: [deception]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7317037572067639296/
 ---
 

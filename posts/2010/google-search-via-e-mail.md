@@ -7,7 +7,7 @@ categories:
   - tools
 wp_id: 2576
 description: I updated Mixamail to support Google search via email. By sending a query to twitter@mixamail.com with the subject "Google," I can now retrieve search snippets and results even when I only have email access on my BlackBerry.
-keywords: [mixamail, google search, email gateway, blackberry, search snippets, email client]
+tags: [mixamail, google-search, blackberry, email-client]
 ---
 
 I’ve updated [Mixamail](http://www.mixamail.com/) to access Google search results via e-mail.

@@ -4,7 +4,7 @@ date: 2026-07-01T17:43:49+08:00
 categories:
   - llms
 description: I bypassed AI detectors with high confidence by reading LLM-generated drafts aloud and transcribing them, naturally replacing robotic AI writing habits with conversational, human speech patterns.
-keywords: [ai detectors, pangram, zerogpt, dictation, transcription, writing style]
+tags: [transcription, writing-style]
 ---
 
 ![](https://files.s-anand.net/images/2026-07-01-beating-ai-detectors-by-reading-aloud.avif)

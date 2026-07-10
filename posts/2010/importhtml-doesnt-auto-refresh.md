@@ -5,7 +5,7 @@ categories:
   - coding
 wp_id: 2487
 description: I found that Google Spreadsheets' importHtml function doesn't auto-refresh unless the document is open. My logging tests confirmed no background updates occur, making it unsuitable for automated RSS feeds. I recommend using YQL instead.
-keywords: [importhtml, google spreadsheets, web scraping, rss feeds, yql, data scraping]
+tags: [google-spreadsheets, web-scraping, rss-feeds, yql]
 ---
 
 A cool thing about [Google Spreadsheets](http://docs.google.com/) is that you can scrape websites using [external data functions](http://docs.google.com/support/bin/answer.py?hl=en&answer=75507) like importHtml. It’s really easy to use. The formula:

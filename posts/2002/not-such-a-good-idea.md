@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1308
 description: I shared a link questioning the practicality of notebook computers. This brief 2002 post points to an article suggesting that portable PCs might not be the revolutionary "good idea" everyone assumed at the time.
-keywords: [notebook computers, laptops, zdnet, computing history, portable computing, hardware trends]
+tags: [laptop, zdnet, computing-history, hardware-trends]
 ---
 
 Notebook computers are [not such a good idea](http://zdnet.com.com/2100-1107-937776.html) after all.

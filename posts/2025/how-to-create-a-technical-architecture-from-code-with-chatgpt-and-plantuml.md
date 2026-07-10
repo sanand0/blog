@@ -7,7 +7,7 @@ categories:
   - llms
 wp_id: 4126
 description: "Source code plus cloud icon libraries can be turned into useful PlantUML architecture diagrams through a prompt-driven workflow."
-keywords: ["PlantUML", "technical architecture", "code to diagram", "ChatGPT", "cloud diagrams", "developer tooling"]
+tags: [chatgpt]
 ---
 
 ![How to create a Technical Architecture from code with ChatGPT and PlantUML](/blog/assets/image-7.webp)

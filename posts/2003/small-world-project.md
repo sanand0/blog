@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 893
 description: I highlight findings from Columbia University’s Small World project, which reveals social networks are less hub-and-spoke than scale-free models predict and that favor requests are only fulfilled about a third of the time.
-keywords: [small world experiment, social networks, columbia university, network theory, six degrees of separation, scale-free networks]
+tags: [network-theory, scale-free-networks]
 ---
 
 [Small world](http://smallworld.columbia.edu) -- this project from Columbia University finds that while there are probably less than 6 degrees, the network entertains requests for favours only about a third of the time, and that it's not as hub-and-spoke as scale-free networks would have us imagine. [via NYTimes](http://www.nytimes.com/2003/08/12/science/12MAIL.html?pagewanted=2&ei=5062&en=a02eff2d6e9081f5&ex=1061265600)

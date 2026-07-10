@@ -6,7 +6,7 @@ categories:
   - llms
 wp_id: 3761
 description: "Sora is most creatively useful not when it perfectly follows your first idea, but when it nudges you into appreciating unexpected outputs and exploring impossible video concepts."
-keywords: [Sora, video generation, creativity, animation, prompting, imagination]
+tags: [idea-generation, creativity, animation, prompting]
 ---
 
 I got access to [SORA](https://sora.com/) today. My first attempts was typical.

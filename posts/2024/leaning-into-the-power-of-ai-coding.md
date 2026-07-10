@@ -6,7 +6,7 @@ categories:
   - links
 wp_id: 3656
 description: "Heavy use of Cursor broke multiple practical learning barriers by turning testing, refactoring, packaging, docs, and even blog writing into prompt-driven coding exercises."
-keywords: [Cursor, AI coding, testing, refactoring, npm packages, developer workflow]
+tags: [cursor, ai-coding, testing, refactoring, developer-workflow]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7252166602220019714/
 ---
 

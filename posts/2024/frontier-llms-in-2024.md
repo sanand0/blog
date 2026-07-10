@@ -3,7 +3,7 @@ date: "2024-05-09T07:36:35Z"
 categories:
   - linkedin
 description: "In May 2024, just four mainstream models appeared to define the practical frontier by jointly dominating both price and quality for most real-world use."
-keywords: ["frontier models", "LLMs", "cost vs quality", "Llama 3", "Claude 3 Haiku", "GPT-4o"]
+tags: [llms, gpt-4o]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7194238812766511105/
 ---
 

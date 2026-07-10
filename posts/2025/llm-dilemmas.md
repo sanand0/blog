@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: "LLMs can expose their own internal conflicts so vividly that even trivial tasks sometimes read like miniature moral dramas."
-keywords: [LLM behavior, instruction conflict, reasoning traces, tool overuse, humor, ChatGPT]
+tags: [llm-behavior, reasoning-traces, humor, chatgpt]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7330118437425369088/
 ---
 

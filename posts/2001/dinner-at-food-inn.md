@@ -5,7 +5,7 @@ categories:
   - mumbai
 wp_id: 1788
 description: I visited Food Inn in Mumbai and found ourselves the only diners surrounded by four strangely synchronized waiters. We joked it was a mafia meeting spot, but the suspicious atmosphere made us finish our North Indian meal quickly.
-keywords: [food inn, mumbai, north indian cuisine, restaurant experience, regal cinema]
+tags: [mumbai]
 ---
 
 After having been stood up on a dinner engagement, Amitabh and I walked from Regal to **Food Inn**, which looked fine from outside. We decided to have dinner in the AC section upstairs. I didn't notice anything, until Amitabh wondered: "Anand, why is it that there's no one in this whole place except us?"

@@ -3,7 +3,7 @@ title: Bets and pranks
 date: "2009-02-19T18:39:20Z"
 wp_id: 2195
 description: I share my recollections of various bets and pranks I've played, offering a lighthearted apology for any factual errors or offense caused. I genuinely enjoyed orchestrating these moments and hope they are remembered in the spirit of fun.
-keywords: [pranks, bets, recollections, personal anecdotes, social humor]
+tags: [pranks]
 ---
 
 > The contents of this page are recollections of the author. The author humbly apologizes for any factual error - they are unintentional. The author also apologizes to anyone whom this page inadvertently offends. All of it is in the interest of fun, and the author hopes you will magnanimously forget and forgive. He also thanks you in advance.

@@ -4,7 +4,7 @@ date: 2026-01-06T22:12:34+08:00
 categories:
   - llms
 description: I tested how Gemini and ChatGPT handle complex text in images by prompting for a Scrabble board. Both models failed with nonsensical spelling, incorrect point values, and broken board layouts, highlighting persistent issues in AI image generation.
-keywords: [scrabble, gemini, chatgpt, image generation, text rendering, llms, hallucination]
+tags: [gemini, chatgpt, image-generation, llms, hallucination]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7414972466193850369/
 ---
 

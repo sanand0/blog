@@ -5,7 +5,7 @@ categories:
   - mumbai
 wp_id: 1805
 description: I visited Just Around the Corner in Mumbai, a self-service restaurant with a nice ambiance. I navigated the menu's non-veg options and spent time deciphering clever food-themed celebrity posters featuring stars like Cindy Crawford and Brooke Shields.
-keywords: [mumbai, churchgate, restaurant review, celebrity posters, brooke shields, food puns, self-service]
+tags: [mumbai, churchgate]
 ---
 
 Kamdar's **Just Around The Corner** **is**, in fact, just around the corner opposite Churchgate. It's supposed to be [Raveena Tandon's favourite hangout](http://www.tringtring.com/fashion/bollywood/raveena.asp), so hopes ran high. Rajesh and I walked in, sat down, and started discussing the the hope that the man in a white chef hat sitting at the adjacent table would come over. After a few minutes, we figured that

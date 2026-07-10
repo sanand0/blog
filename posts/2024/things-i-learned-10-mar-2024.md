@@ -4,7 +4,7 @@ date: 2024-03-10T00:00:00+00:00
 categories:
   - til
 description: I reflected on why data licensing is the new business model for Reddit and StackOverflow, the impact of usability in developer tools, and the internal culture shift needed at Google following recent AI controversies.
-keywords: [data licensing, developer tools, google ai, usability, reddit, stack overflow]
+tags: [developer-tools, google-api, usability]
 ---
 
 This week, I learned:

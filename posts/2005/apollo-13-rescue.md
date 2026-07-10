@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 656
 description: This detailed account reveals how flight controllers solved the critical problem of powering up the Apollo 13 Lunar Module as a lifeboat, a technical challenge that was never part of the original mission design.
-keywords: [apollo 13, lunar module, nasa, flight control, engineering, space exploration]
+tags: [nasa, engineering, space-exploration]
 ---
 
 An incredibly detailed look into the [rescue of the Apollo 13 mission](http://www.spectrum.ieee.org/WEBONLY/wonews/apr05/0405napola.html).

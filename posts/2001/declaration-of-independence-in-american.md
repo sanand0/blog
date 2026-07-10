@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1529
 description: I shared a link to H.L. Mencken’s version of the Declaration of Independence written in the American vernacular. It translates the formal text into the colloquial slang of the early 20th century, highlighting the distinct evolution of American English.
-keywords: [h.l. mencken, declaration of independence, american vernacular, linguistics, slang, translation]
+tags: [linguistics, translation]
 ---
 
 The American declaration of independence [in American](http://www.bartleby.com/185/a1.html).

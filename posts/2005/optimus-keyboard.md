@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 608
 description: I examine the Optimus keyboard concept from Art. Lebedev Studio, featuring individual displays on every key. I find it a remarkable tool for visualizing shortcuts in complex software like Photoshop or mapping controls for gaming.
-keywords: [optimus keyboard, art. lebedev studio, oled keys, input devices, user interface design, hardware design]
+tags: [user-interface-design]
 ---
 
 [The Optimus keyboard](http://www.artlebedev.com/portfolio/optimus/). Every key of the Optimus keyboard is a stand-alone display showing exactly what it is controlling at this very moment. See it -- it's a remarkable concept.

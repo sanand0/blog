@@ -4,7 +4,7 @@ date: 2025-12-28T00:00:00+00:00
 categories:
   - til
 description: I dove into trauma recovery, the complex social structures of ants, and the history of genetics. On the tech side, I found useful tricks for GitHub Copilot, npm, xz compression, and uv inline script dependencies.
-keywords: [trauma, genetics, ants, immune system, github copilot, npm, uv, dopamine]
+tags: [genetics, github-copilot, npm, uv]
 ---
 
 This week, I learned:

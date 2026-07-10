@@ -7,7 +7,7 @@ categories:
   - education
 wp_id: 4183
 description: "Extremely hard problems may teach less broadly, but they can create disproportionately powerful moments of inspiration for the few who crack them."
-keywords: ["education", "hard problems", "student motivation", "inspiration", "teaching", "assessment design"]
+tags: [education, teaching, assessment-design]
 ---
 
 ![Problems that only one student can solve](/blog/assets/ChatGPT-Image-Aug-31-2025-03_55_11-PM.webp)

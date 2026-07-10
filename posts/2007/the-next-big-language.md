@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 115
 description: I explore Steve Yegge’s predictions for the next dominant programming language. While he hints at corporate backing for a new standard, community speculation strongly points toward JavaScript 2 as the likely candidate for widespread industry adoption.
-keywords: [steve yegge, programming languages, javascript 2, ecmascript 4, language design, google]
+tags: [programming-languages, javascript, google]
 ---
 
 Steve Yegge at Google talks about the [features of the Next Big Language](http://steve-yegge.blogspot.com/2007/02/next-big-language.html). He apparantly has inside information about the language corporates are likely to make a big push for. The comments seem to suggest [Javascript 2](http://developer.mozilla.org/presentations/xtech2006/javascript/).

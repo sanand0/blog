@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1735
 description: I discovered a resource offering audio recordings of various Sanskrit texts and traditional bhajans. These files provide an easy way to listen to and learn spiritual chants and literature in their original Sanskrit.
-keywords: [sanskrit, bhajans, audio recordings, spiritual chants, indian literature]
+tags: [sanskrit, audio-recording]
 ---
 
 [Sanskrit texts and bhajans](http://www.alkhemy.com/Sanskrit/links5_audio.html) are available as audio.

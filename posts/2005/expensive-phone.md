@@ -5,7 +5,7 @@ categories:
   - london-2005
 wp_id: 651
 description: I watched my payphone credit rapidly disappear while making a quick call to a London mobile number. It was a race against time as the display counted down a penny for every word I spoke.
-keywords: [london, payphone, telecommunications, mobile rates, travel, '2005']
+tags: [london, telecommunications, travel, '2005']
 ---
 
 <p>Time: early in the morning, waiting for office to open. <br />Location: public phone booth. <br />Situation: calling a mobile number in London.</p>

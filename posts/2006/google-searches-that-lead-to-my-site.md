@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 215
 description: I analyzed raw server logs to track specific keywords leading to my site, finding that Excel tips and IRR formulas drive the highest quality traffic compared to broader searches for Calvin and Hobbes or Indian torrents.
-keywords: [search traffic, log analysis, keywords, excel, calvin and hobbes, site analytics, web stats]
+tags: [excel, calvin-and-hobbes]
 ---
 
 I stopped using [Google Analytics](http://www.google.com/analytics/) when I redesigned my site. I track my own statistics. This gives me access to raw data, and I can do my own analyses.

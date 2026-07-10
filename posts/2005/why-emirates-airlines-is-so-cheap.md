@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 521
 description: I explore why Emirates Airlines maintains low fares, citing factors like zero taxation, government-guaranteed interest rates, and low staff costs without unions, making them a unique player in long-distance budget travel.
-keywords: [emirates airlines, low-cost carriers, aviation economics, subsidies, labor unions, taxation]
+tags: [labor-unions]
 ---
 
 The Economist explains [why Emirates Airlines is so cheap](http://www.economist.com/printedition/displayStory.cfm?story_id=5093506). It's not just the Government subsidy. Zero tax, low interest rates (Government-backed), and low staff cost without unions. Apparantly, they are the only low-fare long-distance flyer.

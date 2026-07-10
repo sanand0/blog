@@ -5,7 +5,7 @@ lastmod: '2026-03-19T20:01:24+05:30'
 categories:
 - tools
 description: General-purpose launchers like Rofi can beat more powerful keyboard remappers in day-to-day usefulness because simpler tools often fit real workflows better.
-keywords: [Rofi, Kanata, keyboard shortcuts, productivity, Linux tools, developer workflow]
+tags: [keyboard-shortcuts, productivity, developer-workflow]
 ---
 
 <!--

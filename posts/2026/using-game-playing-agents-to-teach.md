@@ -5,7 +5,7 @@ categories:
 - education
 - llms
 description: Game-playing agents can turn abstract concepts into interactive classroom experiences, making learning more exploratory, social, and memorable.
-keywords: [game-based learning, AI agents, education, interactive teaching, network games, classroom design]
+tags: [ai-agents, education]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7436422974435418113/
 ---
 

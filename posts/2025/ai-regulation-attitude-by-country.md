@@ -3,7 +3,7 @@ date: "2025-05-09T07:37:50Z"
 categories:
   - linkedin
 description: "Global opinion appears broadly pro-regulation on AI, with India standing out as a rare case where support for regulation is only a narrow minority-majority question."
-keywords: [AI regulation, public opinion, cross-country attitudes, India, AI policy, survey data]
+tags: [india]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7326510697838710784/
 ---
 

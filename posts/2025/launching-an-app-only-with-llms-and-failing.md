@@ -7,7 +7,7 @@ categories:
   - llms
 wp_id: 3817
 description: "Trying to build a mid-sized app entirely from LLM specs exposed the limits of both over-controlling specifications and one-shot code generation, pushing the author toward scaffold-and-refine workflows."
-keywords: [SPEC.md, Cursor, AI coding, app generation, failure case, scaffold and refine]
+tags: [cursor, ai-coding]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7282246445015965697/
 ---
 

@@ -7,7 +7,7 @@ categories:
   - how-i-do-things
 wp_id: 73
 description: I built a server that uses XPath to convert static web pages like the IMDb Top 250 into custom RSS feeds. I demonstrate how to target specific HTML elements to track updates when official feeds aren't provided.
-keywords: [xpath, rss feeds, web scraping, html parsing, yql, data extraction]
+tags: [xpath, rss-feeds, web-scraping, yql, data-extraction]
 ---
 
 <p>If a site doesn't have an RSS feed, your simplest option is to use <a href="http://www.page2rss.com/">Page2Rss</a>, which gives a feed of what's changed on a page.</p>

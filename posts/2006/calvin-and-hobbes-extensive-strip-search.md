@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 371
 description: I share Martijn's Calvin and Hobbes search engine, which indexes detailed strip descriptions. While his tool focuses on visual details and plot, I built a complementary engine for searching the specific dialogue and quotes from the comic.
-keywords: [calvin and hobbes, comic search, indexing, bill watterson, search engine, dialogue search]
+tags: [calvin-and-hobbes, comic-search, indexing, bill-watterson, search-engines]
 ---
 
 Martijn's [Calvin and Hobbes Extensive Strip Search](http://www.reemst.com/calvin_and_hobbes/stripsearch) is back. It doesn't let you search the quotes themselves, but a (pretty detailed) description of each cartoon instead. (Mine [searches Calvin and Hobbes quotes](/calvin/)).

@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: "Managing stronger intelligences is an old problem, and the right response is better evaluation design, not pretending humans must always outrank the system intellectually."
-keywords: ["AI governance", "evaluation", "expert oversight", "management", "verification", "smarter systems"]
+tags: [evaluation, management, verification]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7349648710995238913/
 ---
 

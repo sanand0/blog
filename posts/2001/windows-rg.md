@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1693
 description: I’m sharing a classic Flash parody called Windows RG. It's a satirical take on the instability of early Microsoft operating systems, featuring nonsensical error messages, glitchy windows, and the chaotic user experience of the era.
-keywords: [winrg, flash parody, microsoft windows, internet history, humor, albinoblacksheep]
+tags: [internet-history, humor]
 ---
 
 A spoof on Windows: [Windows RG](http://www.albinoblacksheep.com/flash/winrg.php)

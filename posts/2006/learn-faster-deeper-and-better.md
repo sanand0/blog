@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 170
 description: I recommend a curated list of 77 effective ways to learn faster and deeper. Although I usually prefer shorter lists, these specific tips provide high-quality, practical methods for hacking knowledge and improving your learning efficiency.
-keywords: [learning strategies, hacking knowledge, study tips, cognitive efficiency, speed learning, knowledge acquisition]
+tags: [learning-strategies]
 ---
 
 [Hacking Knowledge: 77 Ways to Learn Faster, Deeper, and Better](http://oedb.org/library/college-basics/hacking-knowledge). Normally, I don't like 77 tips (as opposed to just 7). But these are very good.

@@ -4,7 +4,7 @@ date: 2025-01-19T00:00:00+00:00
 categories:
   - til
 description: I explored audio diaries, switched from Brave to Edge for superior text-to-speech, and tested Gemini for manuscript formatting. I also discovered ModernBert for embeddings and Kokoro-TTS, a lightweight model topping the TTS Arena leaderboards.
-keywords: [modernbert, kokoro-tts, edge browser, gemini exp 1206, embeddings, text-to-speech, audio diaries]
+tags: [embeddings, text-to-speech]
 ---
 
 This week, I learned:

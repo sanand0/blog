@@ -3,7 +3,7 @@ date: "2021-06-07T03:39:51Z"
 categories:
   - linkedin
 description: "This webinar invites developers and designers to learn how open-source web components can help build data-driven infographics with minimal code."
-keywords: ["webinar", "developers", "designers", "infographics", "web components", "LinkedIn"]
+tags: [webinar, infographics, linkedin]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6807511520382197760/
 ---
 

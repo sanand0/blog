@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 247
 description: I highlight Jeff Atwood's essential requirements for developer productivity, covering dual monitors, fast hardware, ergonomic chairs, and quiet workspaces. These fundamental rights ensure programmers have the necessary tools and environment to work effectively.
-keywords: [programmer bill of rights, developer productivity, ergonomics, workplace environment, dual monitors, jeff atwood]
+tags: [developer-productivity, ergonomics]
 ---
 
 Jeff proposes a [Programmer's Bill of Rights](http://www.codinghorror.com/blog/archives/000666.html).

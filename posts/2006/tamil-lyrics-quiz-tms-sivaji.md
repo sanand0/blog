@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 205
 description: I built an interactive quiz where you can test your knowledge of classic Tamil cinema. Identify the movies for ten songs sung by T.M. Soundararajan for Sivaji Ganesan using specific lyric snippets from the middle of each track.
-keywords: [tamil cinema, t.m. soundararajan, sivaji ganesan, song lyrics, interactive quiz, movie trivia]
+tags: [tamil-cinema, song-lyrics, interactive-quiz, movie-trivia]
 ---
 
 <p>Here are words from the middle of 10 songs TMS has sung for Sivaji. Can you guess which <b>movie</b> they are from?</p>

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 315
 description: I explore how search engines favor their own properties in rankings, comparing this bias to Richard Feynman’s observations on scientific self-deception. I argue that favoring one's own results is often an unconscious failure of integrity rather than malice.
-keywords: [search engines, algorithmic bias, richard feynman, scientific integrity, self-deception, google answers, yahoo answers]
+tags: [search-engines, richard-feynman, google-answers]
 ---
 
 [Search engines rank their own sites better](http://www.roughtype.com/archives/2006/05/the_dog_that_di.php). Yahoo Answers ranks higher on Yahoo, but not on MSN or Google. Google Answers ranks high on Google, but not on Yahoo or MSN.

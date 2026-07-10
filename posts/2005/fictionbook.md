@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 728
 description: I found Fictionbook.lib to be a useful source for full-text fiction. Although the collection is primarily in Russian, it includes several English titles by popular authors that you can download and read for free.
-keywords: [fictionbook.ru, ebooks, russian literature, full-text fiction, digital library]
+tags: [ebooks, digital-library]
 ---
 
 [Fictionbook.lib](http://www.fictionbook.ru/en) is a nice source of fiction (full-text). Mostly Russian. But if you check out your favourite author, maybe they have a few books.

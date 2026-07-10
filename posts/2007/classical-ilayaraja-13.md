@@ -5,7 +5,7 @@ categories:
   - classical-ilayaraja
 wp_id: 119
 description: I explore the technicalities of Shruthi and shruthi-bedham, explaining how Ilayaraja and A.R. Rahman navigate raagams like Madhyamavathi and Mohanam. I analyze how shifting reference frequencies transforms a melody’s identity and discuss the fine line between influence and recycling.
-keywords: [shruthi-bedham, madhyamavathi, mohanam, ilayaraja, a.r. rahman, carnatic music, shruthi]
+tags: [ilayaraja, a-r-rahman, carnatic-music]
 ---
 
 > This is the 13th of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

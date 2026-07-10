@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 751
 description: I wonder what kind of inappropriate developer comments are hidden in Microsoft's proprietary code, as reports suggest that cleaning up such unprofessional remarks is one reason the company hesitates to open source more of its software.
-keywords: [microsoft, source code, open source, code comments, software development, proprietary software]
+tags: [microsoft, source-code, open-source, software-development]
 ---
 
 [Why is Microsoft not opening more source code](http://it.slashdot.org/article.pl?sid=05/02/10/005206&from=rss)?

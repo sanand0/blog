@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 567
 description: I shared a Lifehacker guide on creating grouped email addresses in Gmail, allowing users to manage mailing lists and contact groups more effectively through specific address formatting and label-based workarounds.
-keywords: [gmail, email groups, lifehacker, mailing lists, contact management, gmail hacks]
+tags: [gmail, lifehacker, mailing-lists]
 ---
 
 [Creating Groups on Gmail](http://www.lifehacker.com/software/gmail/grouped-email-addresses-in-gmail-122773.php).

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 763
 description: I explore mobile deception tools like SounderCover for fake background noise and services that trigger rescue calls. I'd personally value a feature that tells callers I'm unreachable rather than busy when I reject their incoming calls.
-keywords: [mobile phones, deception, soundercover, rescue ring, telecom, fake calls]
+tags: [mobile-phones, deception]
 ---
 
 The Economist talks about [how mobile phones are used for deception](http://www.economist.com/science/tq/displayStory.cfm?story_id=3423008).

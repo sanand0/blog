@@ -4,7 +4,7 @@ date: 2025-10-19T00:00:00+00:00
 categories:
   - til
 description: I explored Cloudflare's Sandbox feature, the HTML output element, and moreutils CLI tools like sponge. I also dug into SVG arc syntax, AI coding agents, and the 2025 State of AI Report's notes on reasoning models.
-keywords: [cloudflare workers, moreutils, html, svg, ai agents, gemini, uv]
+tags: [html, svg, ai-agents, gemini, uv]
 ---
 
 This week, I learned:

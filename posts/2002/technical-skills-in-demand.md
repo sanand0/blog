@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1022
 description: I highlight a search showing SQL, UNIX, and Oracle as the most in-demand technical skills, followed by C and Java. It is an intriguing snapshot of the core technologies driving the job market right now.
-keywords: [sql, unix, oracle, c, java, hiring, market trends]
+tags: [sql, unix, java, hiring, market-trends]
 ---
 
 [What technical skills are in demand](http://advogato.org/article/584.html)? Just a quick sketchy search by Keith. Intruiging that the top 3 technologies in demand are SQL, UNIX and Oracle, followed by C and Java.

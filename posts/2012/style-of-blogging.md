@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 2783
 description: I am transitioning my blogging style from long articles back to shorter, more frequent posts. Managing startup responsibilities has made deep writing unsustainable, so I'll be prioritizing consistent, brief updates over original long-form content.
-keywords: [blogging style, startups, writing frequency, content strategy, microblogging]
+tags: [startups, content-strategy]
 ---
 
 Until 2007, my blog was mostly just linking to stuff I found interesting on the Web. Since 2007, I’ve tried to write longer articles, mostly based on my own experiences.

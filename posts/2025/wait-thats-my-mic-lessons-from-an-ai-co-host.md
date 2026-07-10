@@ -7,7 +7,7 @@ categories:
   - talks
 wp_id: 3822
 description: "An AI co-host can be genuinely compelling on stage as expert, comedian, and conversational foil, but once it gets too good it risks stealing the show entirely."
-keywords: [AI co-host, public speaking, voice mode, panel discussion, humor, ChatGPT]
+tags: [public-speaking, humor, chatgpt]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7283309079685447682/
 ---
 

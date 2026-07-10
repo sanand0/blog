@@ -6,7 +6,7 @@ categories:
   - education
 wp_id: 4081
 description: "Student feedback suggests that the course’s difficulty, chaos, and open-endedness are precisely what make it unusually memorable and transformative."
-keywords: [student feedback, course design, difficulty, learning experience, Tools in Data Science, education]
+tags: [student-feedback, course-design, tools-in-data-science, education]
 ---
 
 When I feel completely useless, it helps to look at nice things people have said about my work.

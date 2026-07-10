@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 262
 description: I found that Donald Knuth has made pre-fascicles for Volume 4 of The Art of Computer Programming available for download. These drafts cover combinatorial algorithms and bitwise tricks before their final book publication.
-keywords: [donald knuth, the art of computer programming, combinatorial algorithms, algorithms, computer science, bitwise operations]
+tags: [algorithms, computer-science]
 ---
 
 [The Art of Computer Programming, Volume 4](http://www.cs.utsa.edu/~wagner/knuth/) by Donald Knuth. Pre-fascicles are available for download.

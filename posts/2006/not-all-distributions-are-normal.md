@@ -5,7 +5,7 @@ categories:
   - business-realities
 wp_id: 269
 description: I used to normalize everything from work performance to movie ratings, but I’ve realized that blindly assuming a normal distribution is often incorrect. Many real-life variables, like stock prices, violate the Central Limit Theorem’s requirements.
-keywords: [normal distribution, central limit theorem, statistics, probability, data normalization, power laws]
+tags: [normal-distribution, statistics, probability, power-laws]
 ---
 
 14 years ago, I was introduced to the process of normalising grades. Professors "fit" students' marks into a [normal distribution](http://en.wikipedia.org/wiki/Normal_distribution) and assign grades based on that. (I still don't know how they do it).

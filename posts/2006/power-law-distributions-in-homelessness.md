@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 402
 description: I share Malcolm Gladwell’s analysis of how homelessness follows a power law distribution. It highlights how focusing resources on a small percentage of chronically homeless individuals can be more effective and cheaper than traditional broad-based social services.
-keywords: [malcolm gladwell, power law distribution, homelessness, public policy, resource allocation, social services]
+tags: [malcolm-gladwell]
 ---
 
 Malcolm Gladwell on how [homelessness obeys the power law distribution](http://www.newyorker.com/fact/content/articles/060213fa_fact), and its implications.

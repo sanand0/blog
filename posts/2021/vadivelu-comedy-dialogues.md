@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 3095
 description: "This embedded quiz turns famous Vadivelu punchlines into a movie-guessing game that tolerates phonetic spelling and rewards memory rather than orthography."
-keywords: ["Vadivelu", "Tamil cinema", "quiz", "comedy dialogues", "movies", "interactive"]
+tags: [tamil-cinema, quiz, movies, interactive]
 ---
 
 ![Vadivelu Comedy Dialogues](/blog/assets/Actor_Vadivelu_in_Elis_Talking_Eli_App_Launch_Press_Meet.webp)

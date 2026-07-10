@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 969
 description: I shared a few classic cat jokes, specifically a dark humor piece about a kitty litter box and a collection of funny cat haiku that capture the peculiar and often hilarious nature of our feline friends.
-keywords: [cat humor, kitty litter, haiku, jokes, netfunny]
+tags: [haiku, jokes]
 ---
 
 A funny one about a [kitty litter box](http://www.netfunny.com/rhf/jokes/02/Dec/litter.html). "Curiosity kills the cat". (And while on the topics of cats, here's some [cat haiku](http://www.netfunny.com/rhf/jokes/02/Dec/haiku.html))

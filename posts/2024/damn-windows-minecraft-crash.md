@@ -3,7 +3,7 @@ date: "2024-11-04T11:28:41Z"
 categories:
   - linkedin
 description: "A tiny frustration post noting the annoyance of Windows crashing during Minecraft."
-keywords: [Windows crash, Minecraft, frustration, gaming, humor]
+tags: [minecraft, gaming, humor]
 ---
 
 Damn!

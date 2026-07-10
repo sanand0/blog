@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 174
 description: I put together an interactive quiz featuring famous dialogues from iconic English movies. Test your film knowledge by guessing the titles correctly, and remember to include the definite articles in your answers.
-keywords: [movie dialogues, film quotes, english cinema, trivia quiz, pop culture, cinema history]
+tags: [pop-culture, cinema-history]
 ---
 
 <p>Here are dialogues from famous English movies. Can you guess which <b>movie</b> they are from?</p>

@@ -5,7 +5,7 @@ categories:
   - coding
 wp_id: 44
 description: I hit CPU limits by serving dynamic pages, so I implemented a caching system using Apache .htaccess. By using mod_rewrite to check for existing files before triggering a generator script, I only regenerate content when necessary.
-keywords: [apache, mod_rewrite, .htaccess, caching, perl, 80-20 rule, web development]
+tags: [apache, htaccess, perl, web-development]
 ---
 
 I don't use any [blogging software](http://en.wikipedia.org/wiki/Blog_hosting_service) for my site. I just hand-wired it some years ago. When doing this, one of the **biggest problems was [caching](http://en.wikipedia.org/wiki/Caching)**.

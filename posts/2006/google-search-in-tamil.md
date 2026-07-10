@@ -7,7 +7,7 @@ categories:
   - tools
 wp_id: 190
 description: I built a Google gadget for Tamil search and transliteration to solve my spelling difficulties. I used the wisdom of crowds by comparing Google hit counts for different spellings and shared my phonetic mapping table for easy typing.
-keywords: [tamil, transliteration, google search, google gadget, phonetics, spell-checking]
+tags: [tamil, transliteration, google-search]
 ---
 
 <p>When I wrote my <a href="/blog/tamil-song-lyrics-quiz-2000s/">Tamil song lyrics quizzes</a>, I had two problems:</p><ol>

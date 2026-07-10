@@ -4,7 +4,7 @@ date: '2026-03-01T16:21:25+08:00'
 categories:
 - llms
 description: Coding agents can inspect repository-level cloud billing and uncover practical patterns for driving recurring infrastructure costs close to zero.
-keywords: [cloud costs, GitHub billing, cost optimization, coding agents, DevOps, automation]
+tags: [coding-agents, automation]
 ---
 
 <!--

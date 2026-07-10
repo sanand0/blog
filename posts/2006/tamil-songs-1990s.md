@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 327
 description: I created an interactive quiz where you identify 1990s Tamil movies from their background music. It highlights the decade's shift from Ilayaraja to A.R. Rahman. Listen to the clips and see how many films you can name.
-keywords: [tamil cinema, a. r. rahman, ilayaraja, music quiz, kollywood, film scores]
+tags: [tamil-cinema, a-r-rahman, ilayaraja, music-quiz, kollywood, film-scores]
 ---
 
 <p>In 1992, A R Rahman emerged. Ilayaraja may have scored more tunes until the first 3 years of the decade than Rahman did the whole decade. But the decade belonged to Rahman.</p>

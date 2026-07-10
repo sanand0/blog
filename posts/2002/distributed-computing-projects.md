@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1127
 description: I examine the rise of commercial distributed computing markets where companies buy idle retail processor time. This model dis-aggregates computing power, enabling resource-intensive initiatives like the Internet Movie Project to be crowdsourced using spare capacity.
-keywords: [distributed computing, idle cycles, bottomquark, internet movie project, computing markets, grid computing]
+tags: [distributed-computing, grid-computing]
 ---
 
 Bottomquark's [review of distributed computing projects](http://bottomquark.com/sections.php?op=viewarticle&artid=1). What's striking is that there are commercial distributed projects -- where companies pay for the use of your idle time. That's a powerful concept. Instead of buying computers from a vendor, or even computing time from a vendor, these projects are buying computing time **retail**.

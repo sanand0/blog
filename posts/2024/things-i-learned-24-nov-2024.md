@@ -4,7 +4,7 @@ date: 2024-11-24T00:00:00+00:00
 categories:
   - til
 description: I explored OpenAI's code environment, BM25 search mechanics, and dozens of Markdown-to-website converters. I also share LLM prompting tips, SVG generation with Recraft v3, and performance comparisons between Gemini and GPT-4o Mini for translation.
-keywords: [bm25, llm prompting, markdown converters, openai, recraft v3, duckdb, deno, accessibility]
+tags: [openai, duckdb, deno, accessibility]
 ---
 
 This week, I learned:

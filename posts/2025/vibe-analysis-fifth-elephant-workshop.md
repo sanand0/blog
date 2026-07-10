@@ -3,7 +3,7 @@ date: "2025-09-16T00:00:00Z"
 categories:
   - linkedin
 description: "LLM-driven “vibe analysis” can take participants from raw datasets to exploratory stories in a live workshop without needing traditional analysis workflows."
-keywords: ["vibe analysis", "data workshop", "LLMs", "data storytelling", "Hasgeek", "education"]
+tags: [llms, data-storytelling, education]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7373326580217143296/
 ---
 

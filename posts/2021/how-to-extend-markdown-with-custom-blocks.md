@@ -6,7 +6,6 @@ categories:
   - coding
 wp_id: 3059
 description: I use the markdown-customblocks library to extend Python Markdown for complex layouts. This allows me to create nested Bootstrap columns and custom tags, like audio players, directly within Markdown files without writing raw HTML code.
-keywords: [markdown-customblocks, python-markdown, bootstrap grid, custom blocks, markdown extension, html generation]
 ---
 
 One problem I've had in Markdown is rendering a content in columns.

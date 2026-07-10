@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 360
 description: I checked out the new Google Calendar release but found the initial loading performance to be quite slow. While the interface is functional once loaded, I also encountered some early bugs importing data in iCal format.
-keywords: [google calendar, performance, ical, data import, web apps]
+tags: [google-calendar, performance, web-apps]
 ---
 
 [Google Calendar](http://calendar.google.com/) is out. But for some reason, it's too slow for me.

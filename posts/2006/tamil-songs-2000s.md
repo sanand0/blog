@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 326
 description: I built an interactive quiz where you identify 2000s Tamil movies from their background music. It features hits by A.R. Rahman, Harris Jayaraj, and Yuvan Shankar Raja. See if you can score a perfect 25/25.
-keywords: [tamil songs, a.r. rahman, harris jayaraj, yuvan shankar raja, vidyasagar, movie quiz, film scores]
+tags: [tamil-songs, a-r-rahman, harris-jayaraj, movie-quiz, film-scores]
 ---
 
 <p>The 2000s saw the proliferation of music directors like Vidyasagar, Harris Jayaraj and Yuvan Shankar Raja, while Rahman still continued strong.</p>

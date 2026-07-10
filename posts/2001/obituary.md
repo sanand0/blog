@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1638
 description: I track the collapse of major dot-com era institutions like Industry Standard, Excite@Home, and Exodus. These obituaries mark a significant turning point in the early 2000s tech landscape, even as the underlying internet remains resilient.
-keywords: [dot-com bubble, industry standard, excite@home, exodus communications, bankruptcies, tech history, internet history]
+tags: [dot-com-bubble, bankruptcy, tech-history, internet-history]
 ---
 
 Obituary: [Industry Standard](http://www.thestandard.com/article/0,1902,29063,00.html), [Excite@Home](http://dailynews.yahoo.com/h/cn/20010928/tc/excite_home_files_for_bankruptcy_1.html), [Exodus](http://news.cnet.com/news/0-1004-200-7321191.html). Long live the Internet.

@@ -3,7 +3,7 @@ date: "2024-09-20T04:07:16Z"
 categories:
   - linkedin
 description: "XML tags are emerging as the most consistently recommended way to structure prompts across major LLM vendors, even if Markdown remains preferable for generated output."
-keywords: [prompt structure, XML, prompt engineering, Anthropic, OpenAI, Google]
+tags: [xml, prompt-engineering, anthropic, openai, google]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7242746112019722240/
 ---
 

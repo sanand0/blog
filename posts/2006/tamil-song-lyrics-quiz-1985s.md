@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 230
 description: I built this interactive quiz featuring lyrics from the middle of ten Tamil songs released between 1985 and 1989. Test your knowledge of 80s cinema by guessing the specific movies they appeared in.
-keywords: [tamil cinema, 1980s music, tamil song lyrics, movie quiz, kollywood, tamil songs]
+tags: [tamil-cinema, 1980s-music, song-lyrics, movie-quiz, kollywood, tamil-songs]
 ---
 
 <p>Here are words from the middle of 10 songs from 1985-1989. Can you guess which <b>movie</b> they are from? (Films are NOT repeated)</p>

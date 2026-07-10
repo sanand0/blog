@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 224
 description: I tested my hearing limits using Perl-generated frequency sweeps, finding a range from 40Hz to 14kHz. I also analyzed the harmonic structure of vowel sounds using spectrograms to explore the fundamentals of speech synthesis.
-keywords: [hearing range, frequency, spectrograms, speech synthesis, perl, audio analysis, vowels]
+tags: [speech-synthesis, perl, audio-analysis]
 ---
 
 Wikipedia says the human [voice frequency](http://en.wikipedia.org/wiki/Voice_frequency) for speech is between 85 to 155 Hz for men, and 165 to 255 Hz for women. That set me thinking.

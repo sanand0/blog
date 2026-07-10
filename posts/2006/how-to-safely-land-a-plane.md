@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 279
 description: I explore the bizarre physics in Superman Returns, where the hero safely lands a plane by shearing off one of its wings, a counterintuitive feat of cinematic disaster management highlighted by the blog Collision Detection.
-keywords: [superman returns, physics, aerodynamics, collision detection, cinema, disaster management]
+tags: [physics, cinema]
 ---
 
 [How to safely land a plane](http://www.collisiondetection.net/mt/archives/2006/06/how_to_safely_l.html) - by blowing one of its wings off.

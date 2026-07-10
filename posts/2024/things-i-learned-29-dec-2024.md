@@ -4,7 +4,7 @@ date: 2024-12-29T00:00:00+00:00
 categories:
   - til
 description: I explored using LLMs for educational games and market research, compared log storage costs across cloud providers, and tested document conversion tools. I also found that NumPy often outperforms HNSW indexing for similarity searches on datasets under 1M vectors.
-keywords: [llm, cloudflare, numpy, duckdb, vector search, software agents, prompt engineering, document conversion]
+tags: [llms, cloudflare, duckdb, prompt-engineering]
 ---
 
 This week, I learned:

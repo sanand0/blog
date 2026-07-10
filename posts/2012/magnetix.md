@@ -5,7 +5,7 @@ categories:
   - interesting-experiences
 wp_id: 2810
 description: I discovered that Magnetix magnets can form a chain that doesn't break under its own weight. I explored the theoretical cost and materials required to build a chain spanning one light-year.
-keywords: [magnetix, magnets, physics, structural integrity, light-year, scale]
+tags: [physics]
 ---
 
 I wasn’t entirely sure, but now I’m somewhat convinced: [Magnetix](http://en.wikipedia.org/wiki/Magnetix) magnets can form an infinite chain that won’t break due by its own weight.

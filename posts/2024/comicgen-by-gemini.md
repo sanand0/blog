@@ -3,7 +3,7 @@ date: "2024-11-16T13:27:37Z"
 categories:
   - linkedin
 description: "AI image tools are now good enough to recreate core Comicgen-style characters from prompt descriptions, bringing low-cost comic creation within reach of ordinary users."
-keywords: [Comicgen, Gemini, Recraft, comic characters, AI illustration, design automation]
+tags: [comicgen, gemini]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7263543236688785408/
 ---
 

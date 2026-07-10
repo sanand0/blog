@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1337
 description: I found a dedicated resource for learning the art of pen-spinning. This site provides tutorials and tips for mastering the skill of twirling pens around your fingers through various complex tricks and movements.
-keywords: [pen-spinning, tricks, dexterity, tutorials, object manipulation, pentix]
+tags: [tutorials]
 ---
 
 The art of [pen-spinning](http://pentix.modenstudios.com/). A site dedicated to teaching you about twirling pens on your fingers.

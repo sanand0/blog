@@ -5,7 +5,7 @@ categories:
   - funny
 wp_id: 2486
 description: I curated a collection of silent Calvin and Hobbes comic strips. Having spent six years manually transcribing every strip in the series, I filtered the database to highlight these wordless, visually expressive moments.
-keywords: [calvin and hobbes, bill watterson, comic strips, silent comics, transcription, curation]
+tags: [calvin-and-hobbes, bill-watterson, comic-strips, transcription, curation]
 ---
 
 ![](http://picayune.uclick.com/comics/ch/1986/ch860215.gif) ![](http://picayune.uclick.com/comics/ch/1987/ch870803.gif) ![](http://picayune.uclick.com/comics/ch/1988/ch880819.gif) ![](http://picayune.uclick.com/comics/ch/1989/ch890412.gif) ![](http://picayune.uclick.com/comics/ch/1990/ch900101.gif) ![](http://picayune.uclick.com/comics/ch/1990/ch900104.gif) ![](http://picayune.uclick.com/comics/ch/1991/ch910126.gif) ![](http://picayune.uclick.com/comics/ch/1991/ch910420.gif) ![](http://picayune.uclick.com/comics/ch/1992/ch920206.gif) ![](http://picayune.uclick.com/comics/ch/1992/ch921001.gif) ![](http://picayune.uclick.com/comics/ch/1993/ch930614.gif) ![](http://picayune.uclick.com/comics/ch/1995/ch951023.gif)

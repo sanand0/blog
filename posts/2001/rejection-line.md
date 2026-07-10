@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1590
 description: I discovered the Rejection Line, a humorous service providing a fake phone number to give out when declining unwanted advances. It's a wacky look into social awkwardness with a collection of cringe-worthy recorded messages.
-keywords: [rejection line, telephone humor, dating culture, prank calls, 2000s internet, audio messages]
+tags: [prank-calls]
 ---
 
 The [rejection line](http://www.rejectionline.com/). Yet another completely wacky idea. Listen to their [messages](http://www.rejectionline.com/listen.html).

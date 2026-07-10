@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 739
 description: I shared links to complete online archives of Calvin and Hobbes comic strips and compiled my own collection of typed quotes from the series. I also included a resource for humorous advice from Calvin's dad.
-keywords: [calvin and hobbes, bill watterson, comic strips, cartoon archives, humor, literary quotes]
+tags: [calvin-and-hobbes, bill-watterson, comic-strips, humor]
 ---
 
 [Complete Calvin and Hobbes](http://www.goonsquad.cx/misc/calvin_hobbes/index.htm) cartoons. Grab while the site lasts. (Alternate [Calvin and Hobbes](http://www1.stfunoob.com/calvin_hobbes/index.htm) collection. I've typed the [quotes](/calvin/).)

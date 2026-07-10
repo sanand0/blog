@@ -5,7 +5,7 @@ categories:
   - business-realities
 wp_id: 425
 description: I found that ATMs don't replace branch visits one-for-one. Since users withdraw half as much twice as often, breakeven requires double the expected transactions. In my analysis, only 4 out of 250 ATMs actually saved the bank money.
-keywords: [atm, banking, breakeven, unit economics, retail banking, customer behavior, financial modeling]
+tags: [banking, financial-modeling]
 ---
 
 Banks install ATMs to lower their branch costs, and to attract new customers. When working out the economics of ATMs, we found that lowering branch costs alone could not be a viable reason to install an ATM.

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 772
 description: I explore why Americans work more than Europeans, referencing Nobel Laureate Edward Prescott's findings that lower marginal tax rates drive higher labor supply. I also question how India compares to these tax-driven labor trends.
-keywords: [edward prescott, labor supply, marginal tax rates, economics, tax policy, work hours]
+tags: [economics]
 ---
 
 [Why do Americans work so much more than Europeans](http://www.google.co.in/search?q=cache:QMvNc7jWOxsJ:minneapolisfed.org/research/qr/qr2811.pdf&hl=en)? Because America has lower marginal tax, says [Prescott](http://nobelprize.org/economics/laureates/2004/), the 2004 Economics Nobel Laureate.

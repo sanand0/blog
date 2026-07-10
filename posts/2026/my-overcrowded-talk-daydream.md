@@ -4,7 +4,7 @@ date: 2026-06-16T18:39:40+05:30
 categories:
     - funny
 description: I recount how a recurring daydream of being locked out of my own overcrowded talk manifested during a Google Meet session that hit its participant limit, turning a technical glitch into a funny milestone.
-keywords: [google meet, participant limits, straive, public speaking, daydreaming, virtual meetings]
+tags: [straive, public-speaking]
 ---
 
 ![](https://files.s-anand.net/images/2026-06-16-my-overcrowded-talk-daydream.avif)

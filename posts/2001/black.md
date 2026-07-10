@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1627
 description: I'm testing a new black theme for my site and asking a visitor named kashmira for feedback on whether this aesthetic change is an improvement over the previous layout and style.
-keywords: [web design, blog theme, color scheme, kashmira, visual aesthetics, css]
+tags: [web-design, css]
 ---
 
 Well, "kashmira", is black any better?

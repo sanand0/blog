@@ -3,11 +3,9 @@ title: Dear Tesco, your books are expensive
 date: "2010-03-30T19:53:58Z"
 categories:
   - how-i-do-things
-tags:
-  - book
+tags: [book, amazon, price-comparison, retail]
 wp_id: 2498
 description: I compared book prices between Amazon and Tesco using 100 bestsellers and found that Tesco is significantly more expensive. Despite their low gadget prices, Tesco’s books cost 27% more on average, and only two titles were actually cheaper.
-keywords: [tesco, amazon, price comparison, books, bestsellers, retail, consumer savings]
 ---
 
 Dear Tesco,

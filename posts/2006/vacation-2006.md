@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 399
 description: I am taking a vacation from my blog and won't be posting updates until late March 2006. In the meantime, visitors are reacting to my recent site redesign, noting the improved color scheme and simpler layout.
-keywords: [vacation, personal update, site redesign, blogging history, '2006']
+tags: [vacation, personal-update, site-redesign, blogging-history]
 ---
 
 I am on vacation, and probably won't update until 20th March 2006.

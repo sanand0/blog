@@ -5,7 +5,7 @@ categories:
   - llms
   - funny
 description: I highlight a glaring error in Panchayat where the protagonist solves a mixture problem instead of the actual work-rate question shown. I compare this continuity blunder with ChatGPT's confusion when mapping numerical answers to multiple-choice labels.
-keywords: [panchayat, chatgpt, math, reasoning, continuity errors, llms]
+tags: [chatgpt, reasoning, llms]
 ---
 
 In [Panchayat](https://en.wikipedia.org/wiki/Panchayat_(TV_series)) Season 1 Episode 7 [Ladka Tez Hai Lekin...](https://www.imdb.com/title/tt12005118/), at around 17:00, Pradhan asks Abhishek to solve problem 42.

@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 304
 description: I found Taglines from Yahoo Research, an interactive timeline visualizing the evolution of Flickr tags. It offers a fascinating look at how popular topics and social metadata trends shifted across the platform over time.
-keywords: [flickr, taglines, data visualization, yahoo research, tagging, social metadata]
+tags: [flickr, data-visualization, tagging]
 ---
 
 [Taglines](http://research.yahoo.com/taglines/). A timeline of Flickr tags. I can't describe this one. Just see it.

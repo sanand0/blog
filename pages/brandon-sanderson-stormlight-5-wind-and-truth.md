@@ -2,7 +2,7 @@
 title: Brandon Sanderson - Stormlight 5 - Wind and Truth
 build: { list: never, render: always }
 description: I tracked the major revelations in Wind and Truth, from Shallan’s heritage as Chana’s daughter to the reformation of the Oathpact. My notes analyze the mechanics of the Fifth Ideals and Taravangian’s transformation into the Shard Retribution.
-keywords: [stormlight archive, brandon sanderson, cosmere, ba-ado-mishram, oathpact, dawnshard, deadeyes, retribution]
+tags: [brandon-sanderson]
 ---
 
 - To add somewhere: There were 7-8 Honorspren, 1 cultivationspren, 1-2 of both

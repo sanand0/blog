@@ -8,7 +8,7 @@ categories:
   - llms
 wp_id: 3518
 description: "Comparing his own writing with ChatGPT's made the author realize that AI nudges him toward patience, encouragement, broader framing, and more outcome-oriented thinking."
-keywords: ["ChatGPT", "writing style", "self-improvement", "communication", "AI influence", "confirmation bias"]
+tags: [chatgpt, writing-style, self-improvement, communication]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7176434651564036096/
 ---
 

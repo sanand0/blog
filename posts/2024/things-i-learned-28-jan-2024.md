@@ -4,7 +4,7 @@ date: 2024-01-28T00:00:00+00:00
 categories:
   - til
 description: I investigated OpenAI's tactics for system prompt compression and recursive book summarization. I also explored llm-guard for output validation and compared using Google Docs versus email for facilitating collaborative commentary on long-form essays.
-keywords: [openai, prompt engineering, recursive summarization, llm-guard, google docs, content validation]
+tags: [openai, prompt-engineering]
 ---
 
 This week, I learned:

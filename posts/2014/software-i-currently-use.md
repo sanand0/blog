@@ -6,7 +6,7 @@ categories:
   - top-10-lists
 wp_id: 2861
 description: I share my go-to Windows software toolkit, covering essentials like Sublime Text 3 and Console2 alongside specialized data science tools like Anaconda, RStudio, and Open Refine for analysis and visualization.
-keywords: [sublime text 3, anaconda, open refine, rstudio, autohotkey, cygwin, data science tools, windows software]
+tags: [cygwin, windows-software]
 ---
 
 Every few years, I review the software I use. Here are some of my [earlier](/blog/software-for-my-new-laptop-2/) [lists](/blog/software-for-my-new-laptop/).

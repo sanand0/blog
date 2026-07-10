@@ -4,7 +4,7 @@ date: '2026-02-02T21:25:25+08:00'
 categories:
 - visualisation
 description: Indian TV series now dominate the highest-rated recent IMDb titles, marking a real shift in where prestige storytelling is happening.
-keywords: [IMDb, Indian TV series, entertainment trends, ratings analysis, streaming, cultural shift]
+tags: [imdb, streaming]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7424751754933649408/
 ---
 

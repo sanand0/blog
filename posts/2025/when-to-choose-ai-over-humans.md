@@ -6,7 +6,7 @@ categories:
   - visualisation
 wp_id: 4242
 description: I mapped the OpenAI GDPVal paper to compare AI performance against human compensation. I share why I use AI for investment advice but stick to humans for taxes, focusing on factors like legal liability and subjectivity in decision-making.
-keywords: [gdpval, ai augmentation, openai, data visualization, personal finance, automation, labor economics]
+tags: [gdpval, openai, data-visualization, personal-finance, automation, labor-economics]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7388795644661985281/
 ---
 

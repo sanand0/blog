@@ -3,7 +3,7 @@ date: "2018-09-14T21:14:53Z"
 categories:
   - linkedin
 description: "I enjoyed watching Richie's impressive Excel work and expressed my anticipation for his next creative feat: animating a Michael Jackson dance sequence inside a spreadsheet. It's fascinating to see such unconventional uses of data software."
-keywords: [excel, spreadsheet art, animation, michael jackson, creative computing, data visualization]
+tags: [excel, animation, data-visualization]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6446476191858823168/
 ---
 

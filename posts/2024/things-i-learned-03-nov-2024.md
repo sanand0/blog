@@ -4,7 +4,7 @@ date: 2024-11-03T00:00:00+00:00
 categories:
   - til
 description: I discovered Indian labor laws requiring apprentices and explored virtual phone options like Textnow. I also found tools for deep cloning JS objects, vision embedding models for modeling, and the /llms.txt proposal for standardizing prompt sharing.
-keywords: [apprenticeship act, virtual phone number, llms.txt, vision embeddings, structuredclone, restic, voice cloning]
+tags: [voice-cloning]
 ---
 
 This week, I learned:

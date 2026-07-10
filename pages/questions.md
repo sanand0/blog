@@ -3,7 +3,7 @@ title: Questions
 date: "2021-03-22T16:32:50Z"
 lastmod: 2026-06-20T09:59:01+08:00
 description: I’ve compiled a field guide for asking better questions to spark discovery rather than influence. Use follow-up questions to signal care, frame tough inquiries with pessimistic assumptions, and use distancing techniques to evaluate problems from an outsider’s perspective.
-keywords: [inquiry, tim ferriss, active listening, introspection, discovery, communication tactics, curiosity]
+tags: [curiosity]
 ---
 
 # Ask Better Questions

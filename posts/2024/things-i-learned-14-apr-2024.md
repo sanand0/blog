@@ -4,7 +4,7 @@ date: 2024-04-14T00:00:00+00:00
 categories:
   - til
 description: I discovered new VS Code shortcuts, Copilot terminal integration, and the SQLime browser playground. I also explored Python's fsspec for filesystem protocols and learned why embracing inaction and subtraction can be a strategic advantage.
-keywords: [vs code, github copilot, fsspec, sqlime, sqlite, productivity]
+tags: [vs-code, github-copilot, sqlite, productivity]
 ---
 
 This week, I learned:

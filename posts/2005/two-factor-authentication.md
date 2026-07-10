@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 712
 description: I explore Bruce Schneier’s insight into why two-factor authentication fails against modern threats. Despite using tokens and passwords, systems remain vulnerable to man-in-the-middle and trojan attacks that hijack active, authenticated user sessions.
-keywords: [2fa, bruce schneier, man-in-the-middle, trojan, security tokens, authentication, session hijacking]
+tags: [bruce-schneier, authentication]
 ---
 
 Bruce Schneier on [The Failure of Two-Factor Authentication](http://www.schneier.com/blog/archives/2005/03/the_failure_of.html). [Two factor authentication](http://www.itsecurity.com/papers/rainbow2.htm) replaces passwords with two things: something you have (e.g. a security token that changes numbers every minute) and something you know (e.g. password). Bruce says this won't help against two new kinds of attacks we're seeing:

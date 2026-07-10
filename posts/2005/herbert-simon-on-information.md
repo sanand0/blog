@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 468
 description: I explore Herbert Simon’s insight that a wealth of information consumes recipient attention, creating scarcity. I compare this to the "tyranny of choice," where an overabundance of options leads to decision regret and decreased satisfaction.
-keywords: [herbert simon, attention economy, information overload, tyranny of choice, decision making, psychology]
+tags: [attention-economy, decision-making, psychology]
 ---
 
 Quote by [Herbert Simon on Information](http://radar.oreilly.com/archives/2005/12/herb_simon_on_attention.html):

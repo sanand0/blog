@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 78
 description: I built an interactive quiz featuring background music from hit Tamil movies released in 2006 and 2007. Test your knowledge by guessing the film titles based on these distinctive audio snippets.
-keywords: [tamil songs, kollywood, film music, interactive quiz, background score, 2006 movies, 2007 movies]
+tags: [tamil-songs, kollywood, film-music, interactive-quiz, background-score]
 ---
 
 <p>Here is the background music from some hit songs from 2006 and 2007. Can you guess which <b>movie</b> they are from?</p>

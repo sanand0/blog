@@ -7,7 +7,7 @@ categories:
   - llms
 wp_id: 4147
 description: "The recurring failure modes of coding agents are inconsistency, missed edge cases, and shallow debugging, which can be mitigated with stricter rules, fuller tests, and better logs."
-keywords: ["AI coding agents", "failure modes", "testing", "edge cases", "logging", "code quality"]
+tags: [ai-coding-agents, testing]
 ---
 
 ![Mistakes AI Coding Agents Make](/blog/assets/image-9.webp)

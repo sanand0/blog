@@ -3,7 +3,7 @@ date: "2021-07-28T03:03:35Z"
 categories:
   - linkedin
 description: "The Data Comicgen event is pitched as a fun, collaborative challenge that combines Google Sheets analysis with comics-based storytelling and public sharing."
-keywords: ["Data Comicgen", "event", "data storytelling", "Google Sheets", "comics", "LinkedIn"]
+tags: [data-storytelling, comics, linkedin]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6825984037384019968/
 ---
 

@@ -6,7 +6,6 @@ categories:
   - tools
 wp_id: 4260
 description: I compared my 1995 dream machine specs to my actual 2025 setup, finding that while RAM capacity increased 2000x, processor speeds grew modestly and my current monitor resolution is surprisingly lower than my 30-year-old wishlist target.
-keywords: [pc hardware, hardware evolution, computer specs, ram growth, monitor resolution, processor speed, retrocomputing]
 ---
 
 <p>In 1995, I wrote down the specs for my "dream machine". Comparing it against the machine I have today:</p>

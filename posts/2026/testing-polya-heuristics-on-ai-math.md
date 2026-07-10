@@ -6,7 +6,7 @@ categories:
   - education
   - coding
 description: Classic human problem-solving heuristics can be tested systematically on LLM math performance, turning mathematical wisdom into something measurable and benchmarkable.
-keywords: [Pólya, AI math, benchmarking, heuristics, LeanDojo, experimental design]
+tags: [benchmarking, heuristics]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7443178672846675968/
 ---
 

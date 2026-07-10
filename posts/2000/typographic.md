@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 2035
 description: I'm sharing Typographic, an extensive resource covering everything you ever wanted to know about fonts. It provides deep dives into type history, design principles, and font classifications for anyone working with digital or print media.
-keywords: [typography, fonts, type design, typeface history, rsub]
+tags: [typography]
 ---
 
 [typographic](http://typographic.rsub.com/). All you wanted to know about fonts.

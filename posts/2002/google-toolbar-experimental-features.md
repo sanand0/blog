@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1191
 description: I shared a link to the experimental features page for the Google Toolbar, highlighting early versions of browser integration tools that Google tested before their wider release to the general public.
-keywords: [google toolbar, web extensions, google experiments, early web, software testing]
+tags: [google-toolbar, early-web, software-testing]
 ---
 
 [Google toolbar: experimental features](http://toolbar.google.com/experimental).

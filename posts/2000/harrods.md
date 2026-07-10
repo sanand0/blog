@@ -5,7 +5,7 @@ categories:
   - london-2000
 wp_id: 2161
 description: I navigated Harrods in a sweatshirt and backpack, feeling out of place among suited shoppers. I hunted for the most expensive items, finding a £189,000 diamond watch and luxury wines like Montrachet Grand Cru before heading to Hyde Park.
-keywords: [harrods, london, luxury retail, diamond watch, window shopping, hyde park, grand cru]
+tags: [london, hyde-park]
 ---
 
 I had the courage to walk into [Harrod's](http://www.harrods.co.uk/) today. Rather silly of me, really, since I had about 250 pounds in my pocket, and was wearing an IIM-B jacket with my backpack.

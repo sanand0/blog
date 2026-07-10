@@ -5,7 +5,7 @@ categories:
   - coding
 wp_id: 2378
 description: I switched from a custom Perl script to Google Analytics event tracking for capturing JavaScript errors. This simple implementation allowed me to monitor client-side issues more effectively and fix several long-standing bugs within a single day.
-keywords: [javascript, error logging, google analytics, event tracking, debugging, web development]
+tags: [javascript, debugging, web-development]
 ---
 
 A quick note: I blogged earlier about [Javascript error logging](/blog/javascript-error-logging/), saying that you can wrap every function in your code (automatically) in a `try{} catch{}` block, and log the error message in the `catch{}` block.

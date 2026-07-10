@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 836
 description: I recommend Kevin Kelly's Cool Tools blog, where he curates reviews of practical hardware and software. It is an excellent resource for discovering functional, high-quality items that solve specific problems and work as advertised.
-keywords: [kevin kelly, cool tools, product reviews, hardware, software, curation, recommendations]
+tags: [hardware, curation, recommendations]
 ---
 
 [Kevin Kelly's cool tools blog](http://www.kk.org/cooltools).

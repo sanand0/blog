@@ -5,7 +5,7 @@ categories:
   - mumbai
 wp_id: 1345
 description: While waiting at Mumbai's Andheri station, I witnessed both cruelty and kindness toward a sleeping dog. I found a lost notebook filled with poetry and a workman's pass, but ultimately failed to return it, remaining a passive observer.
-keywords: [mumbai, andheri station, stray dogs, hindi poetry, social behavior, lost property]
+tags: [mumbai]
 ---
 
 I was waiting for Vandana and Prashasti at ticket counter of the Andheri (E) station. Mumbai is extremely warm these days, so I went in search of a fan to stand under. I found one, but the place under it was occupied.

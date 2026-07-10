@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 852
 description: I found Emdros, a specialized database engine that understands English grammar and lets you perform grammatical queries using MQL. I came across it while browsing an A-Z list of artificial intelligence applications.
-keywords: [emdros, mql, computational linguistics, grammar queries, natural language processing, text database]
+tags: [computational-linguistics, natural-language-processing]
 ---
 
 [Emdros](http://emdros.org/mql.html) can understand English grammer, and lets you query texts grammatically. Found it while browsing through an A-Z list of AI applications on the [AI FAQ](http://www.faqs.org/faqs/ai-faq/general/part1/index.html).

@@ -5,7 +5,7 @@ categories:
 - llms
 - education
 description: Coding agents can solve many online exams effectively, so exam design should be tested against agents both to validate questions and to understand where real difficulty lies.
-keywords: [online exams, coding agents, assessment design, AI in education, prompt attacks, evaluation]
+tags: [coding-agents, assessment-design, ai-in-education, evaluation]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-13-cracking-online-exams-with-coding-agents.avif) <!-- https://gemini.google.com/u/2/app/a6a6c341434ec848 -->

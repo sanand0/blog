@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 421
 description: I shared a curated list of top-rated content from Google Video in early 2006. It offers a snapshot of early viral internet culture and video sharing trends before YouTube became the dominant global platform.
-keywords: [google video, video sharing, viral media, internet history, digital archives, 2006 web]
+tags: [google-video, internet-history, digital-archives]
 ---
 
 [Best of Google video](http://homepage.mac.com/pockyrevolution/Personal25.html).

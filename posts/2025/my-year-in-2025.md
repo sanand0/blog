@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
   - interesting-experiences
 description: I hit 11 of my 20 goals in 2025, using AI to scale my reading, teaching, and data storytelling. My report card covers achievements in yoga and weight loss alongside failures in robotics and finance as I pivot to 2026.
-keywords: [goal setting, annual review, productivity, ai tools, vipassana, yoga, github, weight loss]
+tags: [goal-setting, productivity, vipassana, github, weight-loss]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7412078900375289856/
 ---
 

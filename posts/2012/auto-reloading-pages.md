@@ -5,7 +5,7 @@ categories:
   - coding
 wp_id: 2804
 description: Inspired by Bret Victor, I wrote a lightweight vanilla JavaScript snippet that auto-reloads pages by polling the Last-Modified header every 300ms. It works without external dependencies like LiveReload and requires only a local web server.
-keywords: [javascript, live reloading, bret victor, xmlhttprequest, web development, http headers]
+tags: [javascript, web-development]
 ---
 
 After watching [Bret Victor](http://worrydream.com/)’s [Inventing on Principle](http://www.youtube.com/watch?v=PUv66718DII), I just **had** to figure out a way of getting live reloading to work. I know about [LiveReload](http://livereload.com/), of course, and everything I’ve heard about it is good. But their Windows version is in alpha, and I’m not about to experiment just yet.

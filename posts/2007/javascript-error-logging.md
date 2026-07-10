@@ -6,7 +6,7 @@ categories:
   - coding
 wp_id: 69
 description: I catch client-side JavaScript errors by wrapping functions in try-catch blocks and sending logs to a Perl script via dummy image requests. This gives me instant feedback on where and why my code fails across different browsers.
-keywords: [javascript, error logging, exception handling, try-catch, debugging, client-side]
+tags: [javascript, debugging, client-side]
 ---
 
 > If something goes wrong with my site, I like to know of it. My top three problems are:

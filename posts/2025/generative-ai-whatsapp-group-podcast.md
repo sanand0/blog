@@ -3,7 +3,7 @@ date: "2025-07-01T04:07:38Z"
 categories:
   - linkedin
 description: "Long WhatsApp discussions become much easier to consume when scraped, scripted, voiced, and published as AI-generated podcasts."
-keywords: ["WhatsApp", "podcast generation", "TTS", "automation", "group chats", "NotebookLM"]
+tags: [whatsapp, tts, automation, notebooklm]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7348931489259999233/
 ---
 

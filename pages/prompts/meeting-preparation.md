@@ -3,7 +3,7 @@ title: Meeting Preparation
 date: 2026-05-13T08:00:00+08:00
 classes: wrap-code
 description: I use this system prompt to turn an AI into a Chief of Staff that prepares me for meetings. It uses Local MCP tools to analyze my calendar, emails, and transcripts, generating strategic briefing cards focused on leverage.
-keywords: [system prompt, mcp, meeting preparation, automation, bash, productivity, context window]
+tags: [system-prompt, mcp, automation, bash, productivity]
 ---
 
 <!-- https://claude.ai/chat/a8385dba-605d-4493-a7cc-4fb2c4c3d027 -->

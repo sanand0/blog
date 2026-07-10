@@ -5,7 +5,7 @@ categories:
   - chat-transcripts
 wp_id: 1621
 description: I share a 2001 chat transcript where I bond with an Indian student in Canada over Bollywood, consultant jokes, and childhood crushes. We end our cross-continental conversation by setting a virtual date for apple pie and ice cream.
-keywords: [chat transcripts, dil chahta hai, ubc, iim, apple pie, internet culture, virtual dating]
+tags: [chat-transcript, iim, internet-culture]
 ---
 
 Yet another one of those late night chats in which I set up a virtual date for apple pie and ice cream with a Canadian grad.\

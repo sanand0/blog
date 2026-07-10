@@ -5,7 +5,7 @@ categories:
   - funny
 wp_id: 2100
 description: I found a hilarious satire about Umashankar Dikshit, a Silicon Valley priest who performs Lakshmi poojas for tech startups. It’s a perfect look at the dotcom bubble’s absurdity, where priests receive stock options and VCs fund napkin-sketched business plans.
-keywords: [umashankar dikshit, silicon valley, dotcom bubble, startup culture, pujari, stock options, satire]
+tags: [silicon-valley, dot-com-bubble, satire]
 ---
 
 There's a whole series of articles on Umashankar Dikshit -- a Silicon Valley pujari. Not a bad idea -- epujari.com (which incidentally is [on sale](http://www.epujari.com/).) Following the articles on [Rediff](http://www.rediff.com/us/2000/may/09us8.htm) and [USA Today](http://www.usatoday.com/life/cyber/tech/cti021.htm), there's this really funny piece.

@@ -8,7 +8,7 @@ categories:
   - llms
 wp_id: 3500
 description: "Analyzing 600+ internal chats reveals that corporate ChatGPT usage clusters around data work, summarization, coding, OCR, and image generation, but overall daily volume remains surprisingly low."
-keywords: ["ChatGPT usage", "enterprise AI", "internal analysis", "coding", "OCR", "adoption"]
+tags: [chatgpt-usage, enterprise-ai, ocr]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7152200601123082240/
 ---
 

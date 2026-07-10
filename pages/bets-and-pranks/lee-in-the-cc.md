@@ -3,7 +3,7 @@ title: Lee in the CC
 date: "2009-02-19T18:41:26Z"
 wp_id: 2200
 description: I hacked my friend Lee's RS/6000 account at our Computer Center to win a high-stakes bet. I cheated by using a pre-installed SUID shell and a trojan horse to capture his passwords before the challenge even began.
-keywords: [rs/6000, suid shell, trojan horse, iitm, hacking, unix, password security]
+tags: [iitm, hacking, unix]
 ---
 
 I had lost and won some minor bets with Lee. It was time for a major coup. There was an RS/6000 installed at our Computer Center, and practically everyone had an account in it. So did Lee. (And so did Pavithra, but Jani told me to keep quiet about it, and besides, that's another story.) Lee was probably a bit irritated that I interfered with his talk sessions, and I was feeling too bored. We struck upon a bet. The deal was again a challenge on my computer abilities. I had to sneak into his ID within 15 days. The stakes were the crux of it. If I won, I'd get to photograph him with his arms around Pavithra (he didn't mind. Why would he?), and if **he** won...? Shom picked just the wrong time to walk by. If I lost, Lee would get to photograph me without anything on, with Shom holding my... (you get what I mean). The stakes **were** steep - for both of us.

@@ -5,7 +5,7 @@ categories:
   - london-2005
 wp_id: 652
 description: I recounted my grueling relocation from India to London, facing excessive baggage fees, repetitive security checks, a mandatory chest x-ray for immigration, and transportation mishaps on one of the longest days of my life.
-keywords: [relocation, travel logistics, immigration, london, airport security, excess baggage]
+tags: [london]
 ---
 
 **The longest day.**\

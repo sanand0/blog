@@ -7,7 +7,7 @@ categories:
   - tools
 wp_id: 2548
 description: I built Mixamail to use Twitter via email when I lacked mobile internet. Developed with Python on Google App Engine, it lets you tweet, read timelines, and reply to posts using simple email commands and daily digests.
-keywords: [twitter api, python, google app engine, email, blackberry, mixamail, oauth]
+tags: [python, google-appengine, email, blackberry, mixamail]
 ---
 
 Since I don’t have Internet access on my BlackBerry (because [I’m in prison](/blog/you-are-in-prison/)), I’ve had a pretty low incentive to use [Twitter](http://twitter.com/). Twitter’s really handy when you’re on the move, and over the last year, there were dozens of occasions where I really wanted to tweet something, but didn’t have anything except my BlackBerry on hand. Since T-Mobile doesn’t support [Twitter via SMS](http://support.twitter.com/articles/14226-how-to-find-your-twitter-short-code), e-mail is my only option, and I haven’t been able to find a decent service that does what I want it to do.

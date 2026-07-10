@@ -2,7 +2,7 @@
 title: What I don't post on LinkedIn
 date: 2026-06-06T11:55:10+05:30
 description: I explain why I filter my content for LinkedIn, omitting deep strategy, developer posts, and raw prompts. To bypass platform constraints, I’ve moved my complete, untrimmed blog to an email subscription via Google Groups.
-keywords: [linkedin, content strategy, google groups, email newsletter, blogging, developer content]
+tags: [linkedin, content-strategy, google-groups, blogging]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7468896023554199552/
 ---
 

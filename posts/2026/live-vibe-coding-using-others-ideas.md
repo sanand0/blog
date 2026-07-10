@@ -5,7 +5,7 @@ categories:
   - llms
   - talks
 description: AI-assisted talk preparation becomes far richer when you opportunistically incorporate live discoveries and other people’s ideas instead of over-planning everything in advance.
-keywords: [vibe coding, talk preparation, design festival, improvisation, idea synthesis, AI creativity]
+tags: [vibe-coding, ai-creativity]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7441306611098394624/
 ---
 

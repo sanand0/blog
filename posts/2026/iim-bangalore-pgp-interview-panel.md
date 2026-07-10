@@ -4,7 +4,7 @@ date: 2026-03-17T06:42:32+05:30
 categories:
   - education
 description: AI can help interviewers rapidly extract sharper questions from dense applicant materials, improving evaluation when time is too short for careful manual review.
-keywords: [interviews, admissions, AI assistance, question generation, evaluation, higher education]
+tags: [interviews, admissions, evaluation, higher-education]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7439864413735714816/
 ---
 

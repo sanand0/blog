@@ -6,7 +6,7 @@ categories:
   - coding
 wp_id: 2382
 description: I built a round button generator using the Python Image Library (PIL) after exploring various automation methods. My approach uses custom alpha masks and programmatic gradients to create transparent PNG sprites for cross-browser CSS buttons.
-keywords: [python, pil, python imaging library, css buttons, gradient generation, image manipulation]
+tags: [python, image-manipulation]
 ---
 
 After much hunting, I finally settled on [Hedger Wang’s simple round CSS links](http://www.hedgerwow.com/360/dhtml/css-round-button/demo.php) as the most acceptable cross-browser round button implementation. The minified CSS is about 2.5KB, and the syntax is very simple. To make an input button into a round button, just wrap it within a `<span class="button">`:

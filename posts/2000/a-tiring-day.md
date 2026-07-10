@@ -6,7 +6,7 @@ categories:
   - london-2000
 wp_id: 2162
 description: I documented an exhausting day at London Business School involving Diwali planning, consulting presentations from Booz-Allen and AT Kearney, a nasty lunch mishap, and falling asleep during guest lectures before a late-night finish.
-keywords: [london business school, lbs, booz-allen, at kearney, diwali, mba life, world economy]
+tags: [london-business-school, lbs, diwali]
 ---
 
 A rather tiring day.

@@ -6,7 +6,7 @@ categories:
   - llms
 wp_id: 4173
 description: "Randomly pairing logged ideas and asking an LLM to synthesize them is a practical way to generate novel, useful concepts for innovation work."
-keywords: ["idea generation", "innovation", "concept synthesis", "LLMs", "daily logs", "creative prompts"]
+tags: [idea-generation, innovation, llms]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7363146089996148738/
 ---
 

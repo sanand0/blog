@@ -3,7 +3,7 @@ title: About Updates
 date: 2026-06-30T19:27:24+08:00
 classes: wrap-code
 description: Update people summary pages based on transcripts every week
-keywords: [mcp, personal-crm, transcripts, system-prompt, markdown]
+tags: [mcp, transcripts, system-prompt, markdown]
 ---
 
 <!--

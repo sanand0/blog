@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 280
 description: I explore Paul Graham’s advice on picking college courses by evaluating the overlap between teachers and practitioners. Prioritize subjects where experts teach the material, favoring moderately interesting topics led by masters over fascinating subjects taught by amateurs.
-keywords: [paul graham, course selection, higher education, pedagogy, practitioners, skill acquisition, heuristics]
+tags: [paul-graham, higher-education, pedagogy, heuristics]
 ---
 
 In his article on [The Power of the Marginal](http://www.paulgraham.com/marginal.html), Paul Graham suggests (among other things) a way of picking courses at college.

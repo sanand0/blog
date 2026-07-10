@@ -5,7 +5,7 @@ categories:
 - llms
 - tools
 description: Letting Codex analyze your past Codex sessions is an effective way to discover underused features and improve how you use the tool itself.
-keywords: [Codex, self-improvement, session analysis, developer workflow, tooling, meta-learning]
+tags: [codex, self-improvement, developer-workflow, tooling]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-01-using-codex-to-improve-codex.avif) <!-- https://gemini.google.com/app/e32860c560c9df57 -->

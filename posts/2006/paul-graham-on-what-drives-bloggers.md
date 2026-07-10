@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 343
 description: I'm exploring Paul Graham’s idea that blogging is essentially "thinking out loud." He argues that the process of expressing thoughts to others actually creates those ideas, making the act of writing a generative tool for thinking.
-keywords: [blogging, paul graham, thinking out loud, writing process, idea generation, cognition]
+tags: [blogging, paul-graham, idea-generation, cognition]
 ---
 
 [What Drives Bloggers](http://paulgraham.infogami.com/blog/metablogics)?

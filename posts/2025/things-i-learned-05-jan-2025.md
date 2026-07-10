@@ -4,7 +4,7 @@ date: 2025-01-05T00:00:00+00:00
 categories:
   - til
 description: I explored management philosophies, reverse-engineered APIs with mitmproxy2swagger, and compared LLM observability tools like LiteLLM and LangFuse. I also tested speech-to-text options and gathered tools for converting local files into LLM-friendly prompt contexts.
-keywords: [mitmproxy, litellm, langfuse, git submodules, vector databases, assemblyai, management philosophy, deepseek]
+tags: [deepseek]
 ---
 
 This week, I learned:

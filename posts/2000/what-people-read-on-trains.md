@@ -5,7 +5,7 @@ categories:
   - london-2000
 wp_id: 2148
 description: I surveyed London Underground commuters, documenting people reading newspapers, chess problems, and HR policies. I share my theories about a man memorizing street names and my "hide and seek" note-taking game with a suspicious, androgynous passenger.
-keywords: [london underground, commuting, people watching, metro newspaper, chess, street names]
+tags: [london-underground, commuting, chess]
 ---
 
 I'm leaving for Scotland tonight, and will be back on Monday morning. Await interesting stories...

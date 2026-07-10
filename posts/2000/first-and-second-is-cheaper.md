@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 2126
 description: I compared book prices across Indian online retailers and found First and Second significantly cheaper than competitors like Fabmart and Rediff. The consistent price differences make me want to build a bot for automated comparison shopping.
-keywords: [first and second, fabmart, rediff, e-commerce, price comparison, shopping bots, bookstores]
+tags: [rediff, e-commerce, price-comparison, bookstores]
 ---
 
 [First and second](http://www.firstandsecond.com) looks much cheaper than [Fabmart](http://www.fabmart.com) or [Rediff](http://www.rediff.com). Compare Archer's "To cut a long story short", for example. Rediff: 167. Fabmart: 127. First and second: 105. Or "Built to last". Rediff: not available. Fabmart: 354. First and second: 274. Oh well, I'm going to need a [bot](http://www.botspot.com). Why can't I make one?

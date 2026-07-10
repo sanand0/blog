@@ -5,11 +5,9 @@ lastmod: "2021-12-30T06:23:22Z"
 categories:
   - how-i-do-things
   - top-10-lists
-tags:
-  - book
+tags: [book, reading-list, '2021', non-fiction, fantasy, recommendations]
 wp_id: 3233
 description: "This 2021 reading retrospective organizes fifty-two books by impact, recommending titles that most changed the author's thinking about wealth, habits, mortality, storytelling, and fantasy."
-keywords: ["books", "reading list", "2021", "non-fiction", "fantasy", "recommendations"]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6882214632828866560/
 ---
 

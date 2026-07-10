@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 306
 description: I reflect on why software is sold with bugs, noting that every fix risks introducing new errors. This challenges the assumption that code only improves with work, highlighting the accidental nature of regressions in the development process.
-keywords: [software quality, bug fixing, regressions, software engineering, development risks]
+tags: [software-quality, software-engineering]
 ---
 
 [Why we all sell code with bugs](http://technology.guardian.co.uk/weekly/story/0,,1781895,00.html).

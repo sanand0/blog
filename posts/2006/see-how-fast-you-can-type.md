@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 278
 description: I tested my typing speed and found I average 100 words per minute. I compare my performance to others and emphasize that consistent practice is the only way to reach high keystroke speeds.
-keywords: [typing speed, wpm, keystrokes, typing test, touch typing, cpm]
+tags: [cpm]
 ---
 
 [See how fast you can type](http://labs.jphantom.com/wpm/). I averaged 100 words per minute.

@@ -5,11 +5,9 @@ lastmod: "2025-04-03T07:48:34Z"
 categories:
   - how-i-do-things
   - llms
-tags:
-  - book
+tags: [book, pandoc, markdown, llms]
 wp_id: 4000
 description: "If the content already exists, modern tooling plus LLM assistance makes ebook publishing a mostly operational task that can be completed in about an hour."
-keywords: [ebook publishing, KDP, pandoc, Markdown, LLMs, self-publishing]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7315976837690544128/
 ---
 

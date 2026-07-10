@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 799
 description: I evaluated Netscape, Opera, and Mozilla but returned to Internet Explorer for its integration with the A9 toolbar and Google Desktop. These search tools solved my offline browsing needs better than Opera’s built-in features.
-keywords: [internet explorer, opera, mozilla, netscape, a9 toolbar, google desktop]
+tags: [internet-explorer, opera, mozilla, netscape, google-desktop]
 ---
 
 [A decade with Netscape](http://news.com.com/A+decade+on+the+Web+with+Netscape/2009-1032_3-5406640.html?tag=nl). I've been wavering between IE, Opera and Mozilla over the last few months, and have come a full circle.

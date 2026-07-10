@@ -6,7 +6,7 @@ categories:
   - tools
 wp_id: 2704
 description: I built Markdress to instantly render Markdown files from any URL—like Dropbox public links—into formatted HTML. I wanted a simple way to view and share my documents across my iPad and iPhone without needing extra accounts.
-keywords: [markdown, dropbox, html rendering, markdress, text processing, mobile editing, web tools]
+tags: [markdown, web-tools]
 ---
 
 This year, I’ve converted the bulk of my content into [Markdown](http://daringfireball.net/projects/markdown/) – a simple way of formatting text files in a way that can be rendered into HTML.

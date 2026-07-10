@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 404
 description: I found a practical way to keep headphone wires from getting tangled using a simple cable management trick from Lifehacker. It helps organize your audio cords and prevents messy knots when you're on the go.
-keywords: [headphone wires, cable management, lifehacker, cord organization, audio gear, tangles]
+tags: [lifehacker]
 ---
 
 [Keep headphone wires from getting tangled](http://www.lifehacker.com/software/life-hacks/keep-headphone-wires-from-getting-tangled-152499.php).

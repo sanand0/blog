@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: "The duration of a model’s reasoning block can be treated as a practical measure of its independence on longer tasks."
-keywords: ["ChatGPT", "thinking time", "reasoning duration", "model evaluation", "conversation history", "O3"]
+tags: [chatgpt, conversation-history, o3]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7348202933752053761/
 ---
 

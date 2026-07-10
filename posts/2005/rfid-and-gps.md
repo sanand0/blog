@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 743
 description: I’ve gathered a list of the incredible and sometimes scary ways RFID and GPS are used to track everything from soda cans and tires to kids and employees, highlighting the pervasive reach of modern surveillance technology.
-keywords: [rfid, gps, surveillance, privacy, tracking, location technology, asset tracking]
+tags: [surveillance, privacy]
 ---
 
 It's incredible what RFID and GPS are being used to track:

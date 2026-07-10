@@ -6,7 +6,7 @@ categories:
   - coding
 wp_id: 15
 description: I built a minimalist dashboard for InfyBLOGS following Tufte's design principles. I used a jQuery bookmarklet to scrape intranet data via IFRAMEs and visualized trends with Google Charts and sparklines, focusing on a high data-ink ratio.
-keywords: [infyblogs, jquery, bookmarklet, data visualization, google charts api, sparklines, data-ink ratio, 960.gs]
+tags: [jquery, bookmarklet, data-visualization]
 ---
 
 I just finished [Stephen Few](http://www.perceptualedge.com/)'s book on [Information Dashboard Design](http://www.amazon.com/Information-Dashboard-Design-Effective-Communication/dp/0596100167). It talks about what's wrong with the dashboards most Business Intelligence vendors ([Business Objects](http://www.sap.com/solutions/sapbusinessobjects/index.epx), [Oracle](http://www.oracle.com/), [Informatica](http://www.informatica.com/), [Cognos](http://www.cognos.com/), [Hyperion](http://www.oracle.com/hyperion/index.html), etc.), and brings [Tuftian](http://www.edwardtufte.com/) principles of chart design to dashboards.

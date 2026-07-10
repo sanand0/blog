@@ -5,7 +5,7 @@ categories:
 - llms
 - coding
 description: Careful ffmpeg tuning can compress short WEBM videos far more aggressively than online tools while preserving nearly all of the visual quality that matters.
-keywords: [video compression, WEBM, ffmpeg, optimization, AI workflow, media tooling]
+tags: [video-compression, webm, ffmpeg, optimization, ai-workflows]
 ---
 
 I recorded a short screen cast of a demo I built. It was ~900KB - way too large to publish as a thumbnail. So I asked ChatGPT:

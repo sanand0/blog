@@ -6,7 +6,7 @@ categories:
   - excel-tips
 wp_id: 237
 description: I show how to create Excel UDFs to detect cell background colors and bold formatting. By using Application.Volatile and array formulas, you can sum or filter data based on cell styles rather than just values.
-keywords: [excel, vba, udf, formatting, array formulas, application.volatile]
+tags: [excel, vba, array-formulas]
 ---
 
 Sometimes you want to check the colour of a cell, or whether a cell is bold. This can be easily done with user-defined functions (UDFs). (To create a UDF, press Alt-F11, Alt-I-M, and type the code below.)

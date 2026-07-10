@@ -7,7 +7,7 @@ categories:
   - how-i-do-things
 wp_id: 2431
 description: I bypass corporate web filters by tunneling traffic through an Amazon EC2 instance. I run SSH on port 443 to mimic HTTPS traffic, then use PuTTY as a local SOCKS proxy to access blocked sites like Facebook and YouTube.
-keywords: [ssh tunneling, amazon ec2, putty, socks proxy, web filters, port 443]
+tags: [ssh-tunneling, amazon-ec2]
 ---
 
 You can defeat most [web filters](http://www.google.co.in/search?q=web+filter) by spending ~~[around 8 cents/hr](http://aws.amazon.com/ec2/#pricing)~~ [0 cents/hr](http://aws.amazon.com/free/) on Amazon EC2. (It’s usually worth the money. It’s a fraction of the cost a phone call or a sandwich. And I usually end up wasting that money anyway on calling someone or eating my way out of the misery of corporate proxies.)

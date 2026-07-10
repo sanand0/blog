@@ -4,7 +4,7 @@ date: 2025-01-12T00:00:00+00:00
 categories:
   - til
 description: I explored measuring developer productivity with DX Core 4, experimented with smolagents and CLIProxyAPI for coding agents, and looked into modern Redis alternatives and the enduring dominance of SQL in the database landscape.
-keywords: [dx core 4, smolagents, cliproxyapi, valkey, sql, cloudflare tunnel, developer productivity]
+tags: [sql, developer-productivity]
 ---
 
 This week, I learned:

@@ -4,7 +4,7 @@ date: 2024-04-21T00:00:00+00:00
 categories:
   - til
 description: I gathered insights on GPT-4 prompting, structured LLM outputs via Outlines’ logit bias trick, and the browser's Shape Detection API. I also found that personal invitations and mandatory in-person sessions are crucial for driving engagement in online learning.
-keywords: [gpt-4, outlines, logit bias, shape detection api, marvin, llmsherpa, many-shot jailbreaking, stable audio 2.0]
+tags: [gpt-4o]
 ---
 
 This week, I learned:

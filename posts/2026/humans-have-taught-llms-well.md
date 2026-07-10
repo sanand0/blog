@@ -5,7 +5,7 @@ categories:
   - llms
   - funny
 description: I mapped human cognitive flaws—like bullshitting, zoning out, and overconfidence—to specific LLM technical failures including hallucinations, the reversal curse, and verbosity bias. It turns out models have learned our worst mental habits perfectly.
-keywords: [llms, cognitive bias, hallucination, sycophancy, reversal curse, verbosity bias, human behavior]
+tags: [llms, hallucination]
 ---
 
 ![](https://files.s-anand.net/images/2026-01-08-humans-have-taught-llms-well.webp)

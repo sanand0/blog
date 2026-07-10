@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 248
 description: I created an interactive quiz featuring lyrics from ten Tamil movie songs. Test your cinema knowledge by guessing the films; the interface provides instant feedback. It includes snippets from classics starring Kamal Haasan and other Kollywood hits.
-keywords: [tamil cinema, lyrics quiz, kollywood, interactive trivia, tamil songs, movie games]
+tags: [tamil-cinema, song-lyrics, kollywood, interactive, tamil-songs, movie-trivia]
 ---
 
 <p>Here are words from the middle of 10 songs. Can you guess which <b>movie</b> they are from? (Films are NOT repeated)</p>

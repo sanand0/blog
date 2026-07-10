@@ -5,7 +5,7 @@ categories:
   - top-10-lists
 wp_id: 177
 description: 'I plotted IMDb ratings against vote counts to find outliers. I discovered that popular movies with low ratings, like Titanic and Star Wars: Episode I, are almost always big-budget blockbusters, while high-rated unpopular entries are usually TV shows.'
-keywords: [imdb, movie ratings, data visualization, blockbusters, film statistics, titanic]
+tags: [imdb, movie-ratings, data-visualization]
 ---
 
 If you plot all movies by their number-of-votes on IMDb and their rating on IMDb, you get the chart below. Movies with more votes usually have a higher rating.

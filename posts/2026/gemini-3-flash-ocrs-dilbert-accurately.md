@@ -4,7 +4,7 @@ date: '2026-02-02T18:53:15+08:00'
 categories:
 - llms
 description: Gemini 3 Flash is accurate and cheap enough to make large-scale comic OCR practical, with a credible local-model fallback for offline use.
-keywords: [OCR, Gemini 3 Flash, Dilbert, comics, transcription, benchmark]
+tags: [ocr, gemini-flash, dilbert, comics, transcription]
 ---
 
 [Scott Adams](https://en.wikipedia.org/wiki/Scott_Adams), the author of [Dilbert](https://en.wikipedia.org/wiki/Dilbert), passed away last month. While his work will live on, I was curious about the best way to build a Dilbert search engine.

@@ -7,7 +7,7 @@ categories:
 wp_id: 2971
 excerpt: Python is still fast enough for HTML parsing.
 description: I benchmarked lxml against Node.js's htmlparser2 and discovered Python is actually faster for one-off HTML parsing tasks. lxml processed a 700KB page in 8.6ms, outperforming Node's 14.5ms initial results, so I'm keeping Python in my toolkit.
-keywords: [python, lxml, node.js, htmlparser2, html parsing, benchmarks]
+tags: [python, node-js]
 ---
 
 Given the blazing speed of [Node.js](https://nodejs.org/) these days, I expected HTML parsing to be faster on Node than on Python.

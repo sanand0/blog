@@ -3,7 +3,7 @@ date: "2021-06-23T04:54:02Z"
 categories:
   - linkedin
 description: "A Minecraft hotfix that restores diamond availability matters deeply when you have spent ten hours mining and still badly need Fortune III."
-keywords: ["Minecraft", "diamonds", "Fortune III", "gaming", "mining", "LinkedIn"]
+tags: [minecraft, gaming, linkedin]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6813328260290764800/
 ---
 

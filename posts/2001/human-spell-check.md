@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1856
 description: I highlight Human Spell Check, a site that exposes glaring spelling mistakes on major websites that should have known better. It’s a humorous look at corporate oversight, though I admit I don't use spell-check myself.
-keywords: [human spell check, typos, website errors, proofreading, spelling mistakes, web content]
+tags: [proofreading]
 ---
 
 [Human Spell Check](http://humanspellcheck.com/) tosses out some glaring spelling mistakes at famous websites -- which presumably would have run a spell-checking software on their site. Mind you, I personally do not.

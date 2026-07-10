@@ -3,7 +3,7 @@ date: "2022-09-12T11:41:52Z"
 categories:
   - linkedin
 description: "A comic mythological clip becomes a reflection on flattery as a real-world influence tactic, especially when asking experts to help with inconvenient problems."
-keywords: ["persuasion", "flattery", "mythology", "workplace influence", "humor", "advice"]
+tags: [persuasion, humor]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6975055900768174080/
 ---
 

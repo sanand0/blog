@@ -3,7 +3,7 @@ date: "2025-07-01T14:33:22Z"
 categories:
   - linkedin
 description: "A brief note announcing a 10-day silent meditation retreat as an experiment in stepping away from technology entirely."
-keywords: ["Vipassana", "meditation retreat", "digital detox", "silence", "personal experiment", "travel"]
+tags: [vipassana, travel]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7346051251400294401/
 ---
 

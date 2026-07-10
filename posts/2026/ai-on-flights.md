@@ -4,7 +4,6 @@ date: 2026-06-18T10:35:32+05:30
 categories:
     - llms
 description: I use Google Edge Gallery with Gemma-4-E2B-it to run LLMs locally on flights. It serves as a handy offline reference for identifying objects, defining niche terms, and brainstorming ideas when internet is unavailable.
-keywords: [google edge gallery, gemma-4-e2b-it, offline llm, on-device ai, mobile inference, travel tech]
 ---
 
 ![](https://files.s-anand.net/images/2026-06-18-ai-on-flights.avif)

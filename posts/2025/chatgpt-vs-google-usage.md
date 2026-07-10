@@ -6,7 +6,7 @@ categories:
   - linkedin
   - llms
 description: "Personal behavior suggests chat is increasingly substituting for search, raising deeper questions about how knowledge gets filtered, curated, and audited."
-keywords: ["ChatGPT", "Google Search", "search substitution", "usage trends", "knowledge interfaces", "information ecosystems"]
+tags: [chatgpt, google-search]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7354015077819142144/
 ---
 

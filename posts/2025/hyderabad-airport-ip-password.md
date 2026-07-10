@@ -3,7 +3,7 @@ date: "2025-05-06T07:59:32Z"
 categories:
   - linkedin
 description: "This is a humorous observation that an airport display accidentally revealed the sort of operational details that should obviously never be public."
-keywords: [security lapse, airport displays, operational security, passwords, IP address, humor]
+tags: [humor]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7325428997947883520/
 ---
 

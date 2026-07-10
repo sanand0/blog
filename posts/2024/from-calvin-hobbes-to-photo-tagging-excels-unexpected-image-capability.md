@@ -7,7 +7,7 @@ categories:
   - excel-tips
 wp_id: 3529
 description: "Excel on Windows can double as a simple image-tagging workstation by swapping pictures as you scroll rows, making bulk annotation surprisingly practical with only VBA and an ActiveX image control."
-keywords: ["Excel VBA", "image tagging", "photo annotation", "Windows", "Calvin and Hobbes", "workflow"]
+tags: [windows, calvin-and-hobbes, workflow]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7178234528652558336/
 ---
 

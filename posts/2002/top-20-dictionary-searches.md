@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1464
 description: I explored the top twenty dictionary searches from Cambridge, which lists 'serendipity' as the most-queried word. This term identifies the lucky tendency to find valuable things by chance, highlighting a popular interest in unexpected discovery.
-keywords: [cambridge dictionary, serendipity, word trends, vocabulary, lexicography, linguistics]
+tags: [serendipity, vocabulary, linguistics]
 ---
 
 The [top 20 dictionary searches](http://dictionary.cambridge.org/top20.htm) on Cambridge's dictionary puts [serendipity](http://dictionary.cambridge.org/define.asp?dict=B&key=serendipity*1+0) on top. It means "the lucky tendency to find interesting or valuable things just by chance."

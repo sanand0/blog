@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 2279
 description: I built an interactive musical tribute to A.R. Rahman featuring 25 interludes from his Tamil film songs. Test your knowledge by guessing the movies; the quiz uses phonetic matching to validate your answers as you type.
-keywords: [a r rahman, tamil cinema, music quiz, song interludes, interactive game, film score]
+tags: [a-r-rahman, tamil-cinema, music-quiz, interludes, interactive-game, film-scores]
 ---
 
 <p>A tribute to our <a href="http://en.wikipedia.org/wiki/81st_Academy_Awards_nominees_and_winners">Academy Award winner, A R Rahman</a>. Here are interludes from 25 Tamil songs of A R Rahman. Can you guess which <b>movie</b> they are from?</p>

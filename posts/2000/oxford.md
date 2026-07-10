@@ -5,7 +5,6 @@ categories:
   - london-2000
 wp_id: 2154
 description: I toured Oxford and Stratford-upon-Avon, visiting Christchurch college and the delightful Teddy Bear Museum. During a stop at McDonald's, I reflected on the Big Mac index for purchasing power parity and Thomas Friedman’s Golden Arches Theory of Conflict Prevention.
-keywords: [oxford university, stratford-upon-avon, teddy bear museum, big mac index, purchasing power parity, golden arches theory, christchurch college]
 ---
 
 We visited Oxford in the morning. It was a tour with the Indian YMCA. Though I slept through most of the beauty of the English country side, Oxford itself was a classic example. We went up a tower from which we could see most of Oxford. It was a small town, (about an hour-and-half from London) with lots of spires and quite an old architecture. The Oxford University is split into many colleges, Magdalen (pronounced Maud-len) being the most famous of the lot. Lewis Caroll (of Alice in Wonderland) and Tolkien (of Lord of the Rings) hailed from here. We went first to Christchurch college. I don't think I've ever seen anything as beautiful as the grass there, with the possible exception of Hampton Court Palace. From there, we took a walk along a river to Magdalen college.

@@ -5,7 +5,7 @@ categories:
   - llms
   - education
 description: A comparative review of university AI policies suggests that institutions vary widely in how thoughtfully they govern AI use, and some prominent universities lag more than expected.
-keywords: [AI policy, universities, higher education, benchmarking, governance, comparative analysis]
+tags: [higher-education, benchmarking, governance]
 ---
 
 I researched the [AI policies across 25 universities](https://sanand0.github.io/datastories/ai-policies/).

@@ -3,7 +3,7 @@ date: "2019-12-16T15:14:42Z"
 categories:
   - linkedin
 description: I saw Richie Lionell demonstrate how augmented reality integrates with comics and data storytelling at the Indian School of Business. The session was compelling enough to hook attendees who wandered in from nearby AI workshops.
-keywords: [augmented reality, comics, data storytelling, richie lionell, indian school of business, interactive media, visualization]
+tags: [augmented-reality, comics, data-storytelling, interactive-media, data-visualization]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6612359192051310592/
 ---
 

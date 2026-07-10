@@ -7,7 +7,7 @@ categories:
   - top-10-lists
 wp_id: 2996
 description: I list my essential 2020 tools, highlighting VS Code for notes and task management, Everything for fast file searches, and WSL for native Linux. I also share hardware finds like my Casio keyboard and budget earbuds.
-keywords: [visual studio code, wsl, powertoys, everything search, productivity software, hardware review, windows tools]
+tags: [powertoys, productivity-software]
 ---
 
 My most-used apps in 2020 were:

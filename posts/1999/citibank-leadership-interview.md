@@ -5,7 +5,7 @@ categories:
   - interviews
 wp_id: 2184
 description: I prepared for the Citibank Leadership award interview at IIM Bangalore while recovering from a fractured ankle. I found they prioritized well-rounded personalities, weighing personal experiences and communication skills heavily based on my written application and resume.
-keywords: [citibank leadership award, iim bangalore, interview preparation, leadership traits, mba interviews, personality assessment]
+tags: [iim-bangalore, interview-preparation]
 ---
 
 Citibank awards Rs. 50,000 to 2-3 candidates from IIM Bangalore based on leadership traits. We had to submit 'brief' writeups on what leardership is, why we're good leaders, what our social contributions and academic achievements are, etc., along with our resume. We also had to turn in a student and faculty nomination. Since I had lots of time (I was bedridden with a fractured ankle) I prepared quite well for this interview. 11 were shortlisted. The interviews were scheduled for 20 minutes each.

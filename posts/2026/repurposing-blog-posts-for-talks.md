@@ -5,7 +5,7 @@ categories:
 - llms
 - how-i-do-things
 description: Your past writing becomes a reusable knowledge base when LLMs can mine it for audience-specific talk ideas and examples.
-keywords: [content repurposing, talk preparation, blog posts, LLMs, personal knowledge base, audience adaptation]
+tags: [content-repurposing, llms]
 ---
 
 Recently, I've re-used my own writing / transcripts as context to LLMs. For example, I've used:

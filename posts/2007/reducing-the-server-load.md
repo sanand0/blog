@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 80
 description: I reduced my server's CPU load by 50% by switching from MySQL to flat files. I split blog content into alphabetized text files and used Unix grep for faster lookups, bypassing the overhead of Perl's DBI module.
-keywords: [mysql, flat files, perl, grep, performance optimization, cpu load, shared hosting]
+tags: [mysql, perl]
 ---
 
 I'm been using a shared hosting service with [100 WebSpace](http://www.100ws.com/) over the last 7 years. It's an ad-free account that offers 100MB of space and 3GB of bandwidth per month. Things were fine until two months ago, which was when my [song search engines](/hindi) started attracting an audience. I had anticipated that I might run out of bandwidth, so I used a [different server](http://www.freehostia.com/) (that has 5GB of bandwidth per month quota) for loading the songs. But what I didn't anticipate whas that **my server load would run over the allotted CPU limit**.

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 904
 description: I found a unique review of The Matrix Reloaded that evaluates the film based on spiritual and moral metrics. It performs poorly on their "WISDOM" scale, highlighting a specific, conservative religious critique of the blockbuster sequel.
-keywords: [the matrix reloaded, film criticism, spiritualism, cap alert, movie reviews, morality]
+tags: [movie-review]
 ---
 
 The most interesting [review of The Matrix Reloaded](http://www.capalert.com/capreports/matrixreloaded.htm) I've read, rating the film on spiritual grounds. Of course, the film does badly. Have a look at the "WISDOM" graph to the top-right of the page. The film barely makes a 'D' and half an 'M' on this scale.

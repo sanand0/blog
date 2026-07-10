@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 2855
 description: I’m moving away from rapid dieting toward a slow, sustainable weight loss plan. My approach focuses on losing 1kg monthly through mindful eating, stocking healthy foods, and incorporating simple habits like taking the stairs instead of the elevator.
-keywords: [weight loss, dieting, metabolism, mindful eating, fitness habits, stairs]
+tags: [weight-loss]
 ---
 
 A few years ago, I [ended up losting weight](/blog/my-weight-line/), mostly by dieting. That worked out rather well up to a point: I lost about 20kgs rapidly. But I ended up putting them back on almost as rapidly.

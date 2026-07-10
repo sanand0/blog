@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 2444
 description: I built a simple command-line alarm system for Windows using a tiny Visual Basic script. It takes a duration and message as arguments, then triggers a popup reminder to help me stay on schedule while working.
-keywords: [vbscript, command line, windows, automation, productivity, alarm]
+tags: [command-line, windows, automation, productivity]
 ---
 
 When I’m in front of my laptop, I usually forget the world around. Sadly, the world around has important things that need to get done on time. Like eating medicines, turning off the washing machine or the hob, etc.

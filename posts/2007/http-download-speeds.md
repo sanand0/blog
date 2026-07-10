@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 91
 description: I found that breaking files apart increases load times by over 50% due to latency. Unless users visit many pages, I recommend merging CSS and Javascript into the HTML to halve the initial page load time.
-keywords: [http latency, web performance, asset bundling, browser caching, file concatenation, load time, page load time]
+tags: [web-performance]
 ---
 
 In some of the Web projects I'm working on, I have a choice of **many small files vs few big files to download**.

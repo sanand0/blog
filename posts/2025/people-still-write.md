@@ -3,7 +3,7 @@ date: "2025-04-30T13:49:26Z"
 categories:
   - linkedin
 description: "This is a brief, ironic reminder that writing by hand now feels unusual enough to be worth noticing."
-keywords: [writing, handwriting, technology habits, attention, irony, observation]
+tags: [writing, attention, observation]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7323342725041246208/
 ---
 

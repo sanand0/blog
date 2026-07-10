@@ -7,7 +7,7 @@ categories:
   - data
 wp_id: 2789
 description: I prioritize restartability over parallelism in large-scale data processing. I explain how smart partitioning and UNIX commands like xargs allow me to handle massive datasets efficiently without ever needing complex frameworks like Hadoop.
-keywords: [data processing, parallelism, restartability, xargs, smart partitioning, hadoop, unix tools, scalability]
+tags: [data-processing, scalability]
 ---
 
 When processing data at a large scale, there are two characteristics that make a huge difference to my life.

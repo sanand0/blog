@@ -6,7 +6,7 @@ categories:
   - llms
 wp_id: 3983
 description: "Invented languages can act as cognitive tools because changing a language’s structure changes what concepts become natural, visible, or even thinkable."
-keywords: [invented languages, thought and language, alien language, cognition, lateral thinking, Gemini]
+tags: [cognition, lateral-thinking, gemini]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7312643618765189120/
 ---
 

@@ -5,7 +5,7 @@ categories:
   - linkedin
   - llms
 description: "Topic-modeling and deeper statistical analysis of search/chat history can surface surprising personal patterns, personas, and blind spots."
-keywords: ["topic modeling", "search history", "ChatGPT usage", "personal analytics", "personas", "self-knowledge"]
+tags: [search-history, chatgpt-usage, personal-analytics]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7355065649959784448/
 ---
 

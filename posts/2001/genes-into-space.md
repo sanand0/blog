@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1791
 description: I evaluate Encounter 2001’s service for launching hair and personal photos into space for a fee. I contrast this commercial venture with NASA’s free program to send names to Mars, which I joined to receive a certificate.
-keywords: [encounter 2001, dna, space exploration, nasa, mars, commercial spaceflight]
+tags: [dna, space-exploration, nasa]
 ---
 
 And now you can send out your [genes into space](http://www.encounter2001.com/). You write a poem on your photo, stick your hair on it, and they'll throw it into space. Read the [FAQ](http://www.encounter2001.com/faq.html). Oh, and by the way, it costs $50. If they can store 4.5 million submissions, and get $30 per submission (after discounts), they still make $135 million. Plus merchandise, advertising, etc. How much does it cost to launch a spacecraft? (NASA lets you send your [name to Mars](http://spacekids.hq.nasa.gov/2003/) for free, though. I signed up and got a [certificate](http://spacekids.hq.nasa.gov/2003/getcert3.cfm?uid=1786531).)

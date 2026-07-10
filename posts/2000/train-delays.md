@@ -5,7 +5,7 @@ categories:
   - london-2000
 wp_id: 2151
 description: I observed how a gale disrupted London's trains and ferries, and was struck by a young child earnestly reading a newspaper amid the chaos.
-keywords: [gale, train delays, london, observation, children]
+tags: [london, observation, children]
 ---
 
 The gale caused all kinds of trouble to the underground trains. When I got on at Newbury Park, there was an announcement that trains would be running slow today because there were trees on the track. It wasn't too far after that accident, and the British Rail was running slowly as it is. Looked like the underground would match it. Then there was another delay -- signal confusion this time.

@@ -6,7 +6,7 @@ categories:
   - diary
 wp_id: 2610
 description: I find smart recruits by searching GitHub for specific locations and skills like Node.js. I also look through comments on relevant industry blogs and use tracked email templates to measure my outreach success.
-keywords: [recruiting, github, sourcing, hiring, outreach, email templates]
+tags: [github, hiring]
 ---
 
 **Find people.**

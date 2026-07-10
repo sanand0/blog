@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1992
 description: I found the search engine at TFM Page's audio section very handy for locating Tamil film songs. It's a useful resource for quickly finding specific tracks and artists within the South Indian music scene.
-keywords: [tamil film music, tfm page, audio search, tamil songs, south indian cinema]
+tags: [audio-search, tamil-songs]
 ---
 
 If you're looking for Tamil songs, the search engine at [TFM Page's audio section](http://audio.tfmpage.com) comes in very handy.

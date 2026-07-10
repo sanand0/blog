@@ -4,7 +4,7 @@ date: 2024-09-22T00:00:00+00:00
 categories:
   - til
 description: I discovered E2E for cheap Indian GPU hosting, explored XML tags for better LLM prompting, and tested tools like Jupyter Lite and VoidEditor. I also learned about Ollama's concurrency and animating faces with Segmind's Hallo.
-keywords: [e2e, ollama, prompt engineering, cursor, jupyter lite, non-negative matrix factorization, voideditor, sarvam.ai]
+tags: [ollama, prompt-engineering, cursor]
 ---
 
 This week, I learned:

@@ -7,7 +7,7 @@ categories:
   - llms
 wp_id: 3478
 description: "Custom instructions let the author turn ChatGPT into a terser, more challenging, more curiosity-inducing collaborator that better matches his own preferred working style."
-keywords: ["ChatGPT", "custom instructions", "prompting", "communication style", "AI collaboration", "robopsychology"]
+tags: [chatgpt, custom-instructions, prompting]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7136563493184438272/
 ---
 

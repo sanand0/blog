@@ -6,7 +6,7 @@ categories:
   - links
 wp_id: 3619
 description: "LLMs can help experienced coders cross mental barriers by inventing state models, Mermaid flows, and implementation patterns they would normally avoid or over-control."
-keywords: ["LLMs", "coding workflow", "state machine", "Mermaid", "JavaScript", "manuscript workflow"]
+tags: [llms, javascript]
 ---
 
 ![Breaking mental coding barriers with LLMs](/blog/assets/mermaid.webp)

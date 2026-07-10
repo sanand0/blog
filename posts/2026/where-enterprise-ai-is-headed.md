@@ -5,7 +5,7 @@ categories:
   - llms
   - how-i-do-things
 description: I was asked eight podcast questions about enterprise AI - why pilots stall, where governance bites, what India-led capability centers add, and how to measure ROI. Here are my answers, grounded in actual client meetings.
-keywords: [enterprise AI, pilots, governance, knowledge infrastructure, capability centers, ROI, agents]
+tags: [enterprise-ai, governance, roi, agents]
 ---
 
 ![](https://files.s-anand.net/images/2026-05-23-where-enterprise-ai-is-headed.avif)

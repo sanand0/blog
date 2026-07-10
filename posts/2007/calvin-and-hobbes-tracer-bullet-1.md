@@ -5,7 +5,7 @@ categories:
   - funny
 wp_id: 84
 description: I've shared my favorite Calvin and Hobbes arc featuring Tracer Bullet, Calvin's hard-boiled private eye persona. This 1990 series parodies film noir tropes as Calvin transforms a simple math quiz into a gritty, high-stakes investigation.
-keywords: [calvin and hobbes, tracer bullet, bill watterson, film noir parody, comic strips, hard-boiled detective]
+tags: [calvin-and-hobbes, tracer-bullet, bill-watterson, comic-strips]
 ---
 
 My all-time favourite series from [Calvin and Hobbes](/calvin/).

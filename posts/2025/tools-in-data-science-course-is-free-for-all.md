@@ -6,7 +6,7 @@ categories:
   - education
 wp_id: 4083
 description: "The Tools in Data Science course is now openly auditable, offering a rigorous, tool-heavy, AI-aware curriculum that mirrors real-world data work more than traditional classroom theory."
-keywords: [Tools in Data Science, open course, IIT Madras, data tools, LLMs, curriculum]
+tags: [tools-in-data-science, iit-madras, llms]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7323681185937731584/
 ---
 

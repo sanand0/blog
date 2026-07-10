@@ -7,7 +7,7 @@ categories:
   - data
 wp_id: 3093
 description: "Geospatial AI helped the World Mosquito Program reduce release-planning time from weeks to hours by estimating population density from satellite imagery and targeting modified mosquitoes more precisely."
-keywords: ["World Mosquito Program", "geospatial AI", "satellite imagery", "public health", "Wolbachia", "release planning"]
+tags: [satellite-imagery, public-health]
 ---
 
 At [PyCon Indonesia](https://pycon.id/speaker/anand-s), I spoke about a project we worked on with the [World Mosquito Program](https://www.worldmosquitoprogram.org/).

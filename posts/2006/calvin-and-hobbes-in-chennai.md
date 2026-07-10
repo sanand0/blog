@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 392
 description: I found a series of charming doodles depicting Calvin and Hobbes exploring Chennai. The illustrations show the iconic duo enjoying local culture, such as eating idli and visiting Marina Beach, providing a unique South Indian twist to the characters.
-keywords: [calvin and hobbes, chennai, fan art, marina beach, doodles, idli]
+tags: [calvin-and-hobbes, chennai]
 ---
 
 [Calvin and Hobbes in Chennai](http://justdoodles.blogspot.com/). The posts between 10-13 March 2006 have (pretty good) doodles of Calvin & Hobbes eating idli and visiting the Marina beach.

@@ -4,7 +4,7 @@ date: 2026-05-10T00:00:00+00:00
 categories:
   - til
 description: I optimized xz compression using multiple threads, tested Zed and Tauon MusicBox, and integrated rtk to reduce LLM tokens. I also explored Claude Code routines and the emerging W3C standard for AI-generated content disclosure.
-keywords: [xz, claude code, rtk, zed editor, carbonyl, ubuntu, ai-disclosure, fuzzy finder]
+tags: [claude-code, ubuntu]
 ---
 
 This week, I learned:

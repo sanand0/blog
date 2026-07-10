@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1364
 description: I want to build a custom antenna or wireless device to experiment with DIY networking. This resource covers constructing hardware to improve signal and explore the technical side of wireless communications.
-keywords: [diy antenna, wireless networking, wifi hardware, o'reilly, hardware hacking]
+tags: [oreilly]
 ---
 
 Something else I'd like to do: [build an antenna](http://www.oreillynet.com/cs/user/view/wlg/448) (or any wireless device, for that matter).

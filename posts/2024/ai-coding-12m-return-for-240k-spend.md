@@ -6,7 +6,7 @@ categories:
   - links
 wp_id: 3623
 description: "AI coding tools may be a spreadsheet-scale productivity shift for developers, with modest license costs potentially offset by large savings, faster capability building, and stronger client work."
-keywords: ["AI coding", "developer productivity", "Cursor", "Copilot", "engineering strategy", "ROI"]
+tags: [ai-coding, developer-productivity, cursor, copilot, roi]
 ---
 
 **This is an email I sent to our leadership team a few minutes ago.**

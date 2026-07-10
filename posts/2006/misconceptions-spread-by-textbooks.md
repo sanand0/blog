@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 336
 description: Correct common scientific misconceptions found in textbooks, such as the fact that the ocean and sky are blue because water and air are inherently blue, and that clouds stay aloft due to internal warmth.
-keywords: [scientific misconceptions, textbook errors, atmospheric optics, cloud buoyancy, physics myths]
 ---
 
 [Misconceptions spread by textbooks](http://www.amasci.com/miscon/miscon4.html). This site lists the facts, contrary to what most textbooks say about them.

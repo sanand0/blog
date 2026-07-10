@@ -4,7 +4,7 @@ date: 2024-08-11T00:00:00+00:00
 categories:
   - til
 description: I explored Agentic RAG for complex retrieval, fine-tuning with LoRAX, and practical LLM strategies. Key takeaways include using N-shot prompting before scaling models, automating workflows via disposable apps, and leveraging context caching to significantly reduce inference costs.
-keywords: [agentic rag, llamaindex, lora, prompt engineering, llmops, text-to-sql, deepseek]
+tags: [prompt-engineering, deepseek]
 ---
 
 This week, I learned:

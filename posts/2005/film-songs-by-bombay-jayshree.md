@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 514
 description: I shared a link to Bombay Jayshree's film songs, noting personal favorites like Vaseegara, Narumugaye, and Ondra Renda. These tracks showcase her incredible transition from Carnatic music to becoming a legendary voice in Tamil cinema.
-keywords: [bombay jayshree, tamil film songs, vaseegara, narumugaye, playback singing, harris jayaraj]
+tags: [tamil-film-songs, harris-jayaraj]
 ---
 
 [Film songs by Bombay Jayshree](http://www.raaga.com/channels/tamil/artist/Bombay%5FJayashree.html). Vaseegara, Narumugaye and Ondra Renda being my favourites.

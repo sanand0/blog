@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1096
 description: I examine how high plagiarism rates in online courses highlight a conflict between academic originality and corporate report-writing needs, suggesting that the core objectives of online certifications may soon undergo a significant shift.
-keywords: [online education, plagiarism, academic integrity, corporate training, certification, pedagogy]
+tags: [plagiarism, academic-integrity, pedagogy]
 ---
 
 [Problems in online education](http://www.chicagotribune.com/templates/misc/printstory.jsp?slug=chi%2D0210010171oct01). David McGrath teach English online. He ends up ...

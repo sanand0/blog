@@ -5,7 +5,7 @@ categories:
   - excel-tips
 wp_id: 510
 description: I share why you should never manually type data into Excel. I use techniques like importing text files with delimiters, scraping web tables, leveraging OCR for paper, and specific PDF selection tools to automate data capture.
-keywords: [excel, data entry, ocr, text to columns, data import, pdf tables]
+tags: [excel, ocr]
 ---
 
 **Rule #2: Never type in data** in Excel.

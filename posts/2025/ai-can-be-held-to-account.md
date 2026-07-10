@@ -6,7 +6,6 @@ categories:
   - llms
 wp_id: 4253
 description: I argue that AI can be held legally accountable by citing precedents for corporations, ships, and rivers. Since we already grant personhood to non-human entities, we can apply similar frameworks to manage AI responsibility and deterrence.
-keywords: [ai accountability, legal personhood, corporate personhood, ai law, legal history, ethics]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7393784579528007680/
 ---
 

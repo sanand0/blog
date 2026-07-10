@@ -5,7 +5,7 @@ categories:
   - london-2005
 wp_id: 258
 description: I heard a witty London Underground driver on the Jubilee line at Stratford sarcastically exclude the person who pulled the passenger alarm at Westminster from his well-wishes for a pleasant evening.
-keywords: [london underground, jubilee line, stratford station, train announcements, humor, sarcasm]
+tags: [london-underground, jubilee-line, humor, sarcasm]
 ---
 
 I was travelling on the Jubilee line, just pulling into Stratford (the last stop), when I heard this announcement.

@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 106
 description: I discovered Scribd, a document-sharing platform that functions like a YouTube for books. I've used it to find technical titles such as On Lisp by Paul Graham and various software pattern guides for my reading list.
-keywords: [scribd, document sharing, on lisp, paul graham, software patterns, e-books]
+tags: [paul-graham, e-books]
 ---
 
 [Scribd](http://www.scribd.com/) is a document sharing site. Sort of like a YouTube for documents. In other words, a book-lover's paradise.

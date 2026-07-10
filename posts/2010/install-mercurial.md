@@ -5,7 +5,7 @@ categories:
   - open-source
 wp_id: 2527
 description: I explain why I prefer Mercurial and TortoiseHg over SVN for collaborative coding. I provide a quick video tutorial on installing TortoiseHg and committing code to Bitbucket to enable offline commits and better team collaboration.
-keywords: [mercurial, tortoisehg, bitbucket, version control, dvcs, open source]
+tags: [open-source]
 ---
 
 <p>If you’re jointly writing code with others, use <a href="http://tortoisehg.bitbucket.org/">Mercurial</a> or <a href="http://code.google.com/p/msysgit/">Git</a>. (Not SVN. <a href="http://www.youtube.com/watch?v=4XpnKHJAok8">Linus explains</a>, but the quick version is: you can’t commit offline.)</p> <p>Sites like <a href="http://bitbucket.org/">bitbucket</a>, <a href="http://github.com/">github</a> and <a href="http://code.google.com/hosting/">Google Code</a> let you maintain your code online with others editing it.</p> <p>My preference is for Mercurial via <a href="http://tortoisehg.bitbucket.org/">TortoiseHg</a>, which integrates well with Windows Explorer. (I use the command prompt, but people I collaborate with prefer this.)</p> <p>Here’s a 2-minute video explaining how to install TortoiseHg and commit your code onto bitbucket.</p> <p><object width="600" height="475"><param name="movie" value="http://www.youtube.com/v/_TYKMPcWV3k&amp;hl=en_GB&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_TYKMPcWV3k&amp;hl=en_GB&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="600" height="475"></embed></object></p>

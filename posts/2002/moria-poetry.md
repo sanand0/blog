@@ -5,7 +5,7 @@ categories:
   - games
 wp_id: 1247
 description: While searching for the text-based game Moria, I discovered an experimental poetry site. I found the verses comparable to Vogon poetry and realized that Lewis Carroll’s 'The Mouse's Tail' is still the only poem I actually enjoy.
-keywords: [moria, roguelike, vogon poetry, experimental poetry, lewis carroll, text games]
+tags: [moria, roguelike, lewis-carroll]
 ---
 
 The first link I found on Google when searching for "Moria" was [Moria poetry](http://www.moriapoetry.com/). Now, Moria is this [text-based game](http://www.piratehaven.org/~beej/moria/) that I used to play until day-before. I like it. I don't like poetry. Still, I gave it a shot, and before long, I [read stuff like](http://www.moriapoetry.com/stephens.html)

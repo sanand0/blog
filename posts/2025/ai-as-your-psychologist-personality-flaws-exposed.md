@@ -6,7 +6,7 @@ categories:
   - links
 wp_id: 4097
 description: "Chat memory allows LLMs to infer surprisingly specific personality flaws from long conversation histories, making them unexpectedly capable mirrors for self-examination."
-keywords: [AI psychologist, memory, personality flaws, self-analysis, ChatGPT, conversation history]
+tags: [memory, self-analysis, chatgpt, conversation-history]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7326546475335716866/
 ---
 

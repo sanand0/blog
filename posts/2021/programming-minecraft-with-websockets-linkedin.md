@@ -3,7 +3,7 @@ date: "2021-03-04T02:56:15Z"
 categories:
   - linkedin
 description: "Reverse-engineering Minecraft's websocket interface turned a private obsession into a public guide for building bots and tools in Bedrock without official documentation."
-keywords: ["Minecraft", "websockets", "reverse engineering", "programming", "guide", "LinkedIn"]
+tags: [minecraft, reverse-engineering, programming, linkedin]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6773073563542024192/
 ---
 

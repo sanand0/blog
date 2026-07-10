@@ -5,7 +5,7 @@ categories:
 - tools
 - llms
 description: Google's AI ecosystem is broad and uneven, so a practical tool map matters more than a comprehensive catalog.
-keywords: [Google AI, tools list, product landscape, Gemini, productivity, evaluation]
+tags: [google-api, gemini, productivity, evaluation]
 ---
 
 Google has released a huge number of AI tools. Not all are useful, but some are quite powerful. Here's a list of the tools [ChatGPT](https://chatgpt.com/share/6975a939-0398-8003-beea-2bc4c32f8ba8) could find.

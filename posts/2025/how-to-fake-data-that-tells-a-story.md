@@ -7,7 +7,7 @@ categories:
   - llms
 wp_id: 3954
 description: "Fake data becomes useful when it is generated around explicit hypotheses, because stories emerge from structured signal rather than uniform randomness."
-keywords: [synthetic data, fake data, hypothesis-driven data, data storytelling, ChatGPT, simulation]
+tags: [data-storytelling, chatgpt, simulation]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7304025897714495488/
 ---
 

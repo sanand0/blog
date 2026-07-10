@@ -6,7 +6,7 @@ categories:
   - chat-transcripts
 wp_id: 1771
 description: I share chat transcripts from 2001 highlighting the repetitive 'ASL' dance. I found that most guys in chat rooms had zero interest in talking to another man, leading to immediate disconnections once my gender was revealed.
-keywords: [chat rooms, asl, internet history, yahoo chat, social dynamics, 2000s culture]
+tags: [chat-rooms, internet-history, yahoo-chat]
 ---
 
 Guys want to speak to girls, not guys. (I'm root\_node)\

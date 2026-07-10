@@ -4,7 +4,7 @@ date: 2024-08-25T00:00:00+00:00
 categories:
   - til
 description: I discovered Hermes 3's special reasoning tokens, Lumentis for transcript documentation, and the 27% reuse threshold for Anthropic’s prompt caching. I also noted that LLMs write better code in Markdown than JSON and explored Copilot's system prompt.
-keywords: [hermes 3, prompt caching, anthropic, lumentis, cursor.ai, copilot, karya.in]
+tags: [anthropic, copilot]
 ---
 
 This week, I learned:

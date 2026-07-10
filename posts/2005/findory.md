@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 735
 description: I discovered Findory, a service that builds a personalized news homepage based on your reading habits without requiring a signup. It streamlines content discovery by learning your interests automatically as you click on articles that intrigue you.
-keywords: [findory, personalization, news aggregation, collaborative filtering, recommendation systems, web discovery]
+tags: [personalization, news-aggregation, recommendation-system]
 ---
 
 [Findory](http://findory.com/). Their site says:

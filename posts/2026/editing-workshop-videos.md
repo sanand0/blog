@@ -5,7 +5,7 @@ categories:
   - tools
   - coding
 description: I use ffmpeg to trim and compress workshop recordings from Zoom and Meet. I share my exact commands for fast, lossless trimming and high-efficiency VP9/Opus compression to host videos affordably on Cloudflare R2.
-keywords: [ffmpeg, vp9, opus, video compression, cloudflare r2, webm]
+tags: [ffmpeg, video-compression, cloudflare-r2, webm]
 ---
 
 I sometimes use [Google Meet](https://meet.google.com/), [Teams](https://teams.microsoft.com/), [Zoom](https://www.zoom.com/), etc. to record workshops and talks. These record the entire session, including _before_ and _after_ the actual talk, and save it as large MP4 files.

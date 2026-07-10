@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1270
 description: I learned mind mapping and compiled resources to explore this visual note-taking technique. It is a powerful method for organizing thoughts, brainstorming ideas, and improving information retention through structured, hierarchical diagrams.
-keywords: [mind mapping, visual note-taking, brainstorming, creativity, cognitive tools, information organization]
+tags: [brainstorming, creativity]
 ---
 
 I learnt [mind mapping](http://www.peterussell.com/mindmap1.html). Ref: [1](http://members.ozemail.com.au/~caveman/Creative/Mindmap/) [2](http://www.maps.jcu.edu.au/netshare/learn/mindmap/)

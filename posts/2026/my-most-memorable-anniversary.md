@@ -4,7 +4,7 @@ date: 2026-06-03T09:27:14+08:00
 categories:
   - llms
 description: I saved my 24th anniversary by using ChatGPT to analyze bank transaction data for gift ideas. I ended up spending the day finishing 24 tasks from my wife's to-do list, which she called her most memorable anniversary.
-keywords: [chatgpt, llms, data analysis, personal productivity, gift ideas, prompt engineering]
+tags: [chatgpt, llms, data-analysis, prompt-engineering]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7467813154660667392/
 ---
 

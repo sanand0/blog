@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 470
 description: Explore research showing that humans are hard-wired to imitate even unnecessary steps, while chimpanzees focus more efficiently on goals. This complex social learning likely evolved to help our ancestors master the use of sophisticated tools.
-keywords: [chimpanzees, human evolution, imitation, learning behavior, tool-making, psychology]
+tags: [psychology]
 ---
 
 Research suggests that [chimps learn differently from humans](http://www.nytimes.com/2005/12/13/science/13essa.html).

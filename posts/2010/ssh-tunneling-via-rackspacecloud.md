@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 2478
 description: I found Rackspace Cloud cheaper than EC2 for SSH tunneling at 1.5 cents an hour. I configured an Ubuntu server on port 443 and used Putty's dynamic port forwarding to bypass web filters via a SOCKS proxy.
-keywords: [rackspace cloud, ssh tunneling, putty, socks proxy, ubuntu, port forwarding, web filtering]
+tags: [ssh-tunneling, ubuntu, web-filtering]
 ---
 
 I wrote about [SSH Tunneling through web filters](/blog/ssh-tunneling-through-web-filters/) using [Amazon’s EC2](http://aws.amazon.com/ec2/) at 8 cents/hr. With [Rackspacecloud](http://www.rackspacecloud.com/cloud_hosting_products/servers), you can get that down to 1.5 cents/hr. This turns out to be a lot simpler than EC2 as well!

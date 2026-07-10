@@ -4,7 +4,7 @@ categories:
   - llms
   - linkedin
 description: I tested Nano Banano Pro to generate a professional poster for my Applied Vibe Coding workshop. The tool produced excellent, error-free text generation within the image when given specific details and my personal photograph.
-keywords: [nano banano pro, text generation, image synthesis, vibe coding, nptel, poster design]
+tags: [vibe-coding]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7398533321317769216/
 ---
 

@@ -7,7 +7,7 @@ categories:
   - experiments
 wp_id: 3559
 description: "Peer-review data from students reveals recognizable evaluator personas—lazy, angry, extremist, deviant, and balanced—showing that reviewers are often more psychologically diverse than their scores suggest."
-keywords: ["peer review", "student evaluation", "reviewer behavior", "education", "personas", "grading"]
+tags: [peer-review, education]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7208371130330476544/
 ---
 

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 725
 description: I'm highlighting the Kids with Cameras project, which empowers children by providing cameras and basic training. It's a fascinating way to see the world through their unique perspectives and captures moments adults often miss.
-keywords: [photography, kids with cameras, youth empowerment, visual storytelling, art education, documentary]
+tags: [photography, visual-storytelling, art-education]
 ---
 
 [Kids with cameras](http://www.kids-with-cameras.org/kidsgallery/). Give cameras to kids. Train them a bit. See what they see.

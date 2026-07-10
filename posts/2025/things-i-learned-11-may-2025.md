@@ -4,7 +4,7 @@ date: 2025-05-11T00:00:00+00:00
 categories:
   - til
 description: I discovered how double-checking LLM outputs can slash error rates and compared Anthropic's new search tool pricing. I also found snapdom for element capture, explored Gemini's prompt caching, and documented some prompt evaluation frameworks.
-keywords: [snapdom, gemini api, anthropic, prompt engineering, llm evals, microservices, web search api]
+tags: [gemini-api, anthropic, prompt-engineering, llm-evals]
 ---
 
 This week, I learned:

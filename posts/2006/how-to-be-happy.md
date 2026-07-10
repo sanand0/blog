@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 390
 description: Improve your well-being by embracing negative emotions, balancing pleasure with meaning, and simplifying your life. Focus on mindset over status, maintain your physical health, and practice regular gratitude for life’s small joys.
-keywords: [positive psychology, tal ben-shahar, happiness, gratitude, mind-body connection, emotional acceptance, simplicity, meaning]
+tags: [happiness, gratitude, simplicity]
 ---
 
 Advice from Tal Ben-Shahar, who teaches a Harvard class "Positive Psychology", or [how to get happy](http://www.npr.org/templates/story/story.php?storyId=5295168).

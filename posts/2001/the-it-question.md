@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1962
 description: I look into the mystery surrounding "IT," the code-named invention by Dean Kamen that dominated tech speculation in early 2001. This highly secretive project was eventually revealed to be the Segway personal transporter.
-keywords: [dean kamen, segway, project ginger, it question, invention, transportation technology]
+tags: [segway]
 ---
 
 What is [IT](http://www.theitquestion.com/)?

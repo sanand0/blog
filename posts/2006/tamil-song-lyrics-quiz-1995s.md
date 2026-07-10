@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 233
 description: I created an interactive quiz featuring lyrics from ten Tamil songs released between 1995 and 1999. Test your knowledge by guessing the movies based on specific lyric snippets; the input box turns green for correct phonetic spellings.
-keywords: [tamil cinema, song lyrics, 1990s music, kollywood, interactive quiz, movie trivia]
+tags: [tamil-cinema, song-lyrics, 1980s-music, kollywood, interactive-quiz, movie-trivia]
 ---
 
 <p>Here are words from the middle of 10 songs from 1995-1999. Can you guess which <b>movie</b> they are from? (Films are NOT repeated)</p>

@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 723
 description: I compiled a collection of early Google hacks, including methods to find MP3s, create image montages, add persistent searches to Gmail, and even find exposed credit card numbers through advanced search operators.
-keywords: [google hacks, gmail, search operators, mp3 search, dorking, desktop search]
+tags: [gmail, search-operators, desktop-search]
 ---
 
 [How to find MP3s using Google](http://www.geocities.com/my_haz_runs/).

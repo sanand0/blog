@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: "This is an event announcement for a meetup focused on analyzing data by having LLMs write code rather than perform calculations directly."
-keywords: [meetup, AI agents, data analysis, Hyderabad, LLMs, event]
+tags: [meetup, ai-agents, data-analysis, llms]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7304706489888190465/
 ---
 

@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 125
 description: I discovered my most bookmarked pages by analyzing web traffic with blank referrers. By combining referrer tracking with a visitor survey, I confirmed that the absence of referrer data reliably indicates bookmarks or direct URL entries.
-keywords: [web analytics, referrers, bookmarks, traffic analysis, data tracking, visitor behavior]
+tags: [web-analytics, bookmarks]
 ---
 
 These are the most bookmarked pages on my site:

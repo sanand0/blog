@@ -7,7 +7,7 @@ categories:
   - llms
 wp_id: 3990
 description: "Even careful pairwise evaluation can produce unstable rankings, showing how unreliable intuitive judgement is and why written evals matter more than taste alone."
-keywords: [evaluation, preference instability, self-deception, quote ranking, LLM comparison, written evals]
+tags: [evaluation, llm-comparison]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7314497086085910528/
 ---
 

@@ -7,7 +7,7 @@ categories:
   - visualisation
 wp_id: 2571
 description: I built a visualization system for student scores using Python and SVG to help teachers identify performance patterns. By plotting rankings against quartiles and using histograms for subject distributions, I made it easier to spot consistent performers and outliers.
-keywords: [data visualization, student performance, python, svg, education, histograms, quartiles, reportbee]
+tags: [data-visualization, student-performance, python, svg, education]
 ---
 
 I’ve been helping with visualising student scores for [ReportBee](http://www.reportbee.com/), and here’s what we’ve currently come up with.

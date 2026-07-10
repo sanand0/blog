@@ -5,7 +5,7 @@ categories:
 - coding
 - llms
 description: Improving container setup quality depends less on memorizing all best practices and more on having good tests, readable output, and agents that can iterate on both.
-keywords: [dev containers, testing, Copilot, Docker, developer environments, setup hardening]
+tags: [testing, copilot, docker]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-14-hardening-my-dev-container-setup.avif) <!-- https://gemini.google.com/app/9162b7c405fcd5ee -->

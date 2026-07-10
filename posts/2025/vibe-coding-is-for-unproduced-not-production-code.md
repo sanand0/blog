@@ -7,7 +7,7 @@ categories:
   - llms
 wp_id: 4161
 description: "Vibe coding is most valuable for cheap prototypes and non-expert empowerment, not for polished, durable production systems."
-keywords: ["vibe coding", "prototyping", "technical debt", "non-programmers", "software quality", "productivity"]
+tags: [vibe-coding, prototyping, technical-debt, non-programmers, software-quality, productivity]
 ---
 
 ![Vibe-coding is for unproduced, not production, code](/blog/assets/Gemini_Generated_Image_klq1ckklq1ckklq1-1.webp)

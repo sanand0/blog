@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1932
 description: I documented evidence of the 2001 recession by tracking massive layoffs and plant closures at major corporations, including General Motors, Boeing, WorldCom, and AOL, highlighting a broad economic downturn across tech and manufacturing.
-keywords: [recession, layoffs, dot-com bubble, 2001 economy, corporate downsizing, plant closures]
+tags: [recession, layoffs, dot-com-bubble]
 ---
 
 Recession?\

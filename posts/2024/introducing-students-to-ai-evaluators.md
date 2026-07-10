@@ -6,7 +6,7 @@ categories:
   - links
 wp_id: 3754
 description: "Having students both use an LLM for analysis and then convince another LLM to grade them well turns evaluation into a live lesson on orchestration, persuasion, and model failure modes."
-keywords: [AI evaluators, education, LLM grading, student projects, orchestration, prompting]
+tags: [education, llm-grading, prompting]
 ---
 
 ![Introducing Students to AI Evaluators](/blog/assets/calvin-alien.webp)

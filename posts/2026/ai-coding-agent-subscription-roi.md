@@ -5,7 +5,7 @@ categories:
   - llms
   - coding
 description: I tracked my coding agent usage with ccusage and found $20 subscriptions for Claude and ChatGPT offer massive ROI, sometimes yielding over $400 in API value. Individual subscriptions remain a bargain compared to the shift toward token-based enterprise pricing.
-keywords: [ccusage, claude pro, chatgpt plus, coding agents, api pricing, token usage, llm roi]
+tags: [coding-agents, api-pricing]
 ---
 
 I ran [`npx -y ccusage monthly --compact`](https://github.com/ryoppippi/ccusage) to get the following break-up of my AI coding agent costs.

@@ -4,7 +4,7 @@ date: 2025-11-30T00:00:00+00:00
 categories:
   - til
 description: I used tmux to run terminal agents, explored Anthropic's programmatic tool-calling features, and identified key human skills like taste and synthesis that grow more valuable as AI automates routine research and coding tasks.
-keywords: [tmux, anthropic, terminal, gpt-5, duckdb, causality, realtime-api]
+tags: [anthropic, gpt-5, duckdb]
 ---
 
 This week, I learned:

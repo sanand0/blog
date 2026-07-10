@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 747
 description: Explore predictions from leading scientists about the next great scientific revolution. Key areas of focus include understanding human consciousness, parallel universes, conscious machines, and genetic engineering, following the breakthroughs of Copernicus, Darwin, and Watson.
-keywords: [scientific revolutions, future of science, human consciousness, parallel universes, conscious machines, genetic engineering, steven pinker, michio kaku]
 ---
 
 [We are the final frontier](http://www.guardian.co.uk/life/feature/story/0,13026,1409019,00.html). The Guardian asks leading scientists what they think will be the next revolution in science. (It's almost a trend, spawning books like [The Next Fifty Years](http://www.amazon.com/exec/obidos/ASIN/0375713425/?tag=sanand-20).)

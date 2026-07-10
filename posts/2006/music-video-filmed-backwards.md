@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 226
 description: I'm sharing this music video for Beck's cover of "Everybody's Gotta Learn Sometime," which is filmed entirely in reverse. It's a striking example of using backwards cinematography to create a surreal and melancholic atmosphere.
-keywords: [beck, music video, reverse cinematography, filmmaking, visual effects]
+tags: [filmmaking]
 ---
 
 <p>This entire music video (set to the song "Everybody's Gotta Learn Sometime" by Beck) has been filmed backwards.</p>

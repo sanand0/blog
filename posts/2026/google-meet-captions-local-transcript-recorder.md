@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
   - llms
 description: A tiny Google Meet bookmarklet can stream live captions into local Markdown, making meeting transcripts agent-readable without waiting for platform exports.
-keywords: [google meet captions, bookmarklet, local transcripts, markdown, file system access api, agent-readable meetings]
+tags: [bookmarklet, markdown]
 ---
 
 ![](https://files.s-anand.net/images/2026-05-15-google-meet-captions-tool.avif)

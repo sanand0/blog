@@ -5,7 +5,7 @@ categories:
   - games
 wp_id: 1643
 description: I discovered Spaced Penguin, a neat online physics puzzle game where you launch a penguin through space. It's a fun challenge involving navigating gravitational fields and planetary orbits to reach the target across various levels.
-keywords: [spaced penguin, big idea, physics game, browser game, 3-2-1 penguins, puzzle game]
+tags: [browser-games]
 ---
 
 [Spaced penguin](http://www.bigidea.com/penguins/kids/k_spacedpenguin.htm): a neat online game.

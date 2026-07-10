@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1259
 description: I'm tracking how China surpassed Japan to become the world's second-largest PC and internet market. They already lead in mobile users, making their rapid growth across all digital platforms quite remarkable.
-keywords: [china, internet usage, pc market, mobile users, market share, technology trends]
+tags: [china, market-share, technology-trends]
 ---
 
 China, which anyway has the largest mobile user base, has now beaten Japan to the [second largest PC and Web base](http://story.news.yahoo.com/news?tmpl=story2&cid=569&ncid=738&e=1&u=/nm/20020731/tc_nm/tech_internet_china_dc_2) in the world. Wonder how they do it.

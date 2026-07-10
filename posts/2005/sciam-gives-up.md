@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 696
 description: "I highlight Scientific American's satirical apology for their \"one-sided\" coverage of evolution in favor of Intelligent Design. I initially missed the punchline: it was an April Fools' prank mocking the lack of detail in non-scientific theories."
-keywords: [scientific american, evolution, intelligent design, satire, april fools' day, charles darwin, creationism]
+tags: [scientific-american, evolution, satire, april-fools-day]
 ---
 
 [Scientific American gives up](http://mrbobhatesyou.blogspot.com/2005_03_01_mrbobhatesyou_archive.html#111147519912475081).

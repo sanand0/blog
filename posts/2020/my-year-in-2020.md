@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 3000
 description: I reviewed my 2020 progress on reading goals and daily walking while sharing my 2021 resolutions for weight loss, embracing failure, and calendar integrity. I also highlight the productivity impact of Landmark and Art of Living courses.
-keywords: [self-improvement, habit tracking, data storytelling, landmark forum, art of living, productivity, calendar management]
+tags: [self-improvement, data-storytelling, productivity]
 ---
 
 In 2020 I made 3 resolutions.

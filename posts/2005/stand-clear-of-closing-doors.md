@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 726
 description: I found a visualization comparing the iconic London Underground schematic to a geographically accurate version. It’s a great way to see how the traditional map distorts actual distances and station locations for better readability.
-keywords: [london underground, tube map, cartography, geography, data visualization, public transit]
+tags: [london-underground, cartography, geography, data-visualization]
 ---
 
 [Stand clear of closing doors](http://www.metafilter.com/mefi/40242).

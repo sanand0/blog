@@ -3,7 +3,6 @@ date: "2024-07-22T03:19:27Z"
 categories:
   - linkedin
 description: "A comic film monologue about language policing, offense, and changing social norms captures the confusion many people feel about what can still be said aloud."
-keywords: ["language politics", "social norms", "Hindi dialogue", "Rocky Aur Rani", "offense", "speech"]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7220990806172557313/
 ---
 

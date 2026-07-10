@@ -4,7 +4,7 @@ date: 2026-01-01T02:03:52Z
 categories:
   - coding
 description: I create small, optimized favicons by converting SVGs to PNGs with ImageMagick, compressing them via oxipng, and bundling them into a multi-layer ICO file using icotool to avoid the bloated files typical of online generators.
-keywords: [favicon, svg, imagemagick, oxipng, icotool, ico, png-compression]
+tags: [svg]
 ---
 
 ![Favicon PNG sizes](https://files.s-anand.net/images/2026-01-01-favicon-png-sizes.webp)

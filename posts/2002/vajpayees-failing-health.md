@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1306
 description: I've linked a Time magazine report on Atal Bihari Vajpayee's failing health, which triggered significant controversy and defensive responses from Indian officials and media outlets during his time as Prime Minister.
-keywords: [atal bihari vajpayee, time magazine, indian politics, political journalism, hindustantimes]
+tags: [time-magazine, indian-politics]
 ---
 
 An article in Time about [Vajpayee's failing health](http://www.time.com/time/asia/magazine/article/0,13673,501020617-260747,00.html) has provoked some [controversial responses](http://www.hindustantimes.com/nonfram/210602/dlnat74.asp).

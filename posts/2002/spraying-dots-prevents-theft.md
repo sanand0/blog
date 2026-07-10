@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 1401
 description: I highlight a technology that uses sprayed microscopic dots to prevent theft by marking property with unique identifiers. This forensic method offers a wide range of applications for tracking stolen items and protecting valuable assets.
-keywords: [theft prevention, microdots, forensic marking, asset tracking, security technology, property protection]
 ---
 
 [Spraying dots prevents theft](http://www.wired.com/news/technology/0,1282,50598,00.html). The range of application for the technology appears wide.

@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: "When model output costs are converted into hourly labor rates, AI is already cheaper than human work in many markets, weakening wage-arbitrage business models."
-keywords: ["LLM pricing", "hourly rates", "labor economics", "offshoring", "AI costs", "wage arbitrage"]
+tags: [llm-pricing, labor-economics, offshoring]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7332578726297145345/
 ---
 

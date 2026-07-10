@@ -4,7 +4,7 @@ date: 2024-02-18T00:00:00+00:00
 categories:
   - til
 description: I explored Docker memory footprints on WSL2, the economics of LLM fine-tuning, and techniques like two-pass generation for structured data. I also learned about CCTV-integrated alerts, graph databases, and why ad networks are ditching Vickrey auctions.
-keywords: [docker, wsl2, llm, fine-tuning, python, data-quality, ad-tech, graph-databases]
+tags: [docker, llms, fine-tuning, python]
 ---
 
 This week, I learned:

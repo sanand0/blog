@@ -7,7 +7,7 @@ categories:
 wp_id: 2945
 excerpt: I keep notes in hundreds of small Markdown files, synced on Dropbox.
 description: I moved from managing large, general text files to hundreds of specific micro-notes. Syncing Markdown via Dropbox and using the Everything search tool allows me to find and edit my notes instantly on both desktop and mobile.
-keywords: [markdown, dropbox, everything search, ia writer, note-taking, text files]
+tags: [markdown, note-taking]
 ---
 
 I maintain my (extensive) notes in text files. I've explored Evernote, Onenote, Google Keep, Apple Notes, and many other platforms. But text files work. I store them as Markdown and sync them on DropBox.

@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 225
 description: I prevent link rot by linking to Google search queries or 'I'm Feeling Lucky' results instead of static URLs. This ensures readers find relevant content even years later when original sites change their structure or move pages.
-keywords: [link rot, google search, url persistence, wayback machine, search operators]
+tags: [google-search, wayback-machine, search-operators]
 ---
 
 When you make a link, there's no guarantee that the link will work 5 years later. **Sites change their URL structure.** I'm finding that many of my blog entries from 2000 are invalid.

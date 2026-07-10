@@ -6,7 +6,7 @@ categories:
   - interesting-experiences
 wp_id: 3362
 description: "Three attempted OLX scams show how UPI fraudsters exploit buyer psychology with fake QR flows, tiny trust-building payments, and aggressive confidence—until experience turns the mark into the interviewer."
-keywords: ["OLX scam", "UPI fraud", "cybercrime", "QR code scam", "consumer safety", "story"]
+tags: [cybercrime]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6982380613815218176/
 ---
 

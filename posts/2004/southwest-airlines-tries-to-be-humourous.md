@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 808
 description: I shared a critique of Southwest Airlines' forced humor routines, highlighting how scripted jokes humiliate employees and fail to drive business compared to the company's actual competitive advantage of low fares.
-keywords: [southwest airlines, corporate culture, customer experience, employee morale, aviation]
+tags: [corporate-culture, user-experience, aviation]
 ---
 
 Southwest Airline's [effort to be humourous](http://www.kuro5hin.org/story/2004/8/26/1157/80793).

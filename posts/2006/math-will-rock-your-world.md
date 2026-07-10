@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 423
 description: I explore how mathematics is revolutionizing the global economy as businesses increasingly rely on algorithms and data science to drive decision-making and innovation across diverse sectors.
-keywords: [mathematics, algorithms, data science, economics, quantitative analysis, business strategy]
+tags: [mathematics, algorithms, data-science, economics, business-strategy]
 ---
 
 [It's a good time to be a mathematician](http://www.businessweek.com/magazine/content/06_04/b3968001.htm).

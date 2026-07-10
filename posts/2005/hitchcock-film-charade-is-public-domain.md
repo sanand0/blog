@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 527
 description: I found that classic films like Charade, His Girl Friday, and Dressed to Kill are available for free on Archive.org. Charade is often called the best Hitchcock film Hitchcock never made, though it’s actually by Stanley Donen.
-keywords: [charade, public domain, archive.org, alfred hitchcock, stanley donen, classic movies, copyright]
+tags: [public-domain, copyright]
 ---
 
 [Charade](http://www.archive.org/details/charade) starring Audrey Hepburn and Cary Grant is now in public domain (you can download it for free). So are some other classics like [His Girl Friday](http://www.archive.org/details/his_girl_Friday) and [Dressed to Kill](http://www.archive.org/details/dressed_to_kill). See [Archive.org's feature films](http://www.archive.org/details/feature_films). (Actually, it's not a Hitchcock film. But it's said to be the [best Hitchcock film Hitchcock never made](http://en.wikipedia.org/wiki/Charade).)

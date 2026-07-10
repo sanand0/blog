@@ -2,7 +2,7 @@
 title: Reading Styles
 date: 2026-01-06T12:19:46+08:00
 description: I map diverse reading styles using photography analogies like focus stacking, long exposure, and thermal imaging. I explore how AI transcends these visual metaphors to enable generative, dialogic, and non-linear interactions with text.
-keywords: [photography analogies, literary analysis, text analysis, hermeneutics, reading styles, focus stacking, thermal imaging]
+tags: [text-analysis]
 ---
 
 ## Analogies from Photography

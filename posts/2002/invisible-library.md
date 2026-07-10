@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1203
 description: I found the Invisible Library, a catalog of books that exist only within other books. It features imaginary titles from authors like Arthur Conan Doyle and Douglas Adams, though it could use more entries from Lewis Carroll.
-keywords: [invisible library, fictional books, metafiction, douglas adams, arthur conan doyle, literary tropes]
+tags: [douglas-adams]
 ---
 
 The [Invisible Library](http://www.invisiblelibrary.com). Has books that exist **only** inside other books. Neat stuff. Talks of various books by Holmes & Watson (Doyle) as well as Oolon Colluphid (Douglas Adams), though I was disappointed that too little of Lewis Caroll is mentioned.

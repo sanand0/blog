@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: "Walk-time coding with agents is hugely productive but creates debt through inconsistency, missed edge cases, weak experimentation, and insufficient observability."
-keywords: ["Codex", "Jules", "vibe coding", "technical debt", "coding agents", "debugging"]
+tags: [codex, vibe-coding, technical-debt, coding-agents, debugging]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7343469241997717504/
 ---
 

@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 376
 description: I used Excel to analyze the IMDb Top 250, identifying outliers in the correlation between ratings, vote counts, and release years. I found that popularity doesn't always match quality for classics like Seven Samurai or blockbusters like The Matrix.
-keywords: [imdb, data analysis, excel, movie ratings, correlation, outlier detection]
+tags: [imdb, data-analysis, excel, movie-ratings, correlation]
 ---
 
 On the [IMDb top 250](http://www.imdb.com/chart/top), you normally see a correlation between the number of votes and the rating for a movie. Better rated movies are more watched. The outliers are interesting.

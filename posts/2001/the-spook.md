@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1632
 description: I found The Spook, a high-quality online magazine that functions like a professional print publication. It represents an early effort to bring full-fledged, long-form magazine content and editorial depth to the digital space.
-keywords: [the spook, digital magazine, online publishing, editorial design, print media, long-form content]
+tags: [online-publishing]
 ---
 
 [The Spook](http://www.thespook.com/), a full-fledged online magazine. Almost a print magazine online, in fact.

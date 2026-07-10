@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 319
 description: I made an interactive quiz featuring background music from 1960s and 70s Tamil songs sung by P B Srinivas. Test your memory by guessing the movie names—if you spell it like it sounds, the box turns green.
-keywords: [p b srinivas, tamil songs, movie quiz, 1960s, 1970s, playback singers, interactive]
+tags: [tamil-songs, movie-quiz, interactive]
 ---
 
 <p>Playback singers ruled the day in the 60s and 70s. At least, I remember songs more by the singers than the music directors.</p>

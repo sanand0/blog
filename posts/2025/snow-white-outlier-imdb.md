@@ -5,7 +5,7 @@ categories:
   - visualisation
   - linkedin
 description: "Snow White (2025) is an unusually extreme IMDb negative outlier even among famously disliked popular films."
-keywords: ["IMDb", "movie ratings", "outliers", "Snow White", "film analysis", "popular culture"]
+tags: [imdb, movie-ratings, film-analysis]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7335893077913415681/
 ---
 

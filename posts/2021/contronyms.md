@@ -6,7 +6,7 @@ categories:
   - links
 wp_id: 3074
 description: "Contronyms are delightfully unstable words whose opposite meanings coexist in a single term, making them a compact source of linguistic wonder."
-keywords: ["contronyms", "language", "wordplay", "English", "meanings", "curiosity"]
+tags: [language, wordplay, curiosity]
 ---
 
 Contronyms are words that have two meanings that are the opposite of each other.

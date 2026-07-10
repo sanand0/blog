@@ -4,7 +4,7 @@ date: 2025-12-14T00:00:00+00:00
 categories:
   - til
 description: I learned why expert personas don't improve LLM accuracy, explored new AI insurance products, and developed a workflow to turn constraints into opportunities. I also looked into architecture advice processes and Zillow's algorithmic real estate failure.
-keywords: [llm prompting, ai insurance, zillow offers, constraints, pglite, software architecture, linguistics, machine learning]
+tags: [linguistics, machine-learning]
 ---
 
 This week, I learned:

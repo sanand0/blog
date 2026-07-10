@@ -5,11 +5,9 @@ lastmod: "2024-01-04T11:15:56Z"
 categories:
   - how-i-do-things
   - top-10-lists
-tags:
-  - book
+tags: [book, reading-list, fantasy, non-fiction]
 wp_id: 3493
 description: "The author's 2023 reading list mixes beloved fantasy re-reads, manga discoveries, and practical nonfiction, with clear preferences for gripping plots, rich systems, and useful mental models."
-keywords: ["books", "reading list", "2023", "fantasy", "manga", "non-fiction"]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7148634410051919872/
 ---
 

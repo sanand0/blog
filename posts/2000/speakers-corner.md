@@ -5,7 +5,7 @@ categories:
   - london-2000
 wp_id: 2157
 description: I navigated London’s eccentricities, from eating floor chocolate at the cinema to hearing absurdist rants at Speakers' Corner. I met characters like Tony Alien and Stewart the bunny-eared speaker while observing the city's unique religious debates and protests.
-keywords: [speakers' corner, hyde park, tony alien, shahnaz hussain, london, public speaking]
+tags: [hyde-park, london, public-speaking]
 ---
 
 OK, it's not in chronological order. So what?

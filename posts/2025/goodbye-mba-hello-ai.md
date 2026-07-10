@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: "MBA students should optimize for adaptability, verification, and AI-assisted learning because entry-level knowledge work is already being restructured by LLMs."
-keywords: ["MBA", "AI education", "future of work", "knowledge work", "adaptability", "LLMs"]
+tags: [mba, ai-education, future-of-work, llms]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7351849463713292290/
 ---
 

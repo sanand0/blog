@@ -5,7 +5,7 @@ categories:
   - coding
 wp_id: 2551
 description: 'I found Mark Pilgrim’s HTML5: Up and Running to be the best introduction to features like canvas, video, and storage. It intelligently covers history and feature detection using Modernizr, complemented by tools like HTML5 Boilerplate.'
-keywords: [html5, mark pilgrim, modernizr, html5 boilerplate, canvas, web development]
+tags: [web-development]
 ---
 
 ![](http://covers.oreilly.com/images/9780596806026/cat.gif) [HTML5: Up and Running](http://oreilly.com/catalog/9780596806026/) is the book version of Mark Pilgrim’s comprehensive introduction to HTML5 at [DiveIntoHTML5.org](http://diveintohtml5.org/). Whether you buy the book or read it online, it’s the best introduction to the topic you’ll find.

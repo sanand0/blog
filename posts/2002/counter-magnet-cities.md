@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1079
 description: I looked into counter magnet cities across India like Navi Mumbai and Gurgaon. These planned hubs aim to draw people and investment away from overcrowded metropolises, serving as strategic alternatives for urban expansion.
-keywords: [counter magnet cities, urban planning, india, navi mumbai, gurgaon, decentralization, urban development]
+tags: [urban-planning, india]
 ---
 
 [NCR Gwalior is a counter magnet city](http://www.ncrgwalior.com/counter.htm) to Gwalior. Like [Navi Mumbai](http://www.dypatil.com/navimumbai.htm) (Mumbai), [NIKIDA](http://www.upindia.org/nikida.html) (Lucknow), [Anandgarh](http://www.indiatoday.com/webexclusive/dispatch/20010407/vinayak.html) (Chandigarh), [Wadapally](http://www.fapcci.org/informationservices.html) (Hyderabad), [New Bangalore](http://www.indiatogether.org/campaigns/bmic/bmicfaq.htm) (Bangalore), [Gurgaon](http://www.techno-preneur.net/timeis/technology/Infrastructure.htm) (New Delhi), ... [via Nilesh](http://nilesh.org/weblog/2002/10/22/counter_magnet_cities.nc)

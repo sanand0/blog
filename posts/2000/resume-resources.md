@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 2120
 description: I gathered several helpful resume-writing resources from around the web, featuring curated links from Google’s directory, Quest Career, and Learn2 to assist with job applications and professional formatting.
-keywords: [resumes, job search, career advice, professional development, curated links]
+tags: [career-advice]
 ---
 
 Google has a bunch of [resume resources](http://directory.google.com/Top/Business/Employment/Resumes/Resume_Services/) that tell you how to write a resume. A good one to look at is [Quest Career](http://www.questcareer.com/tips.htm)'s, and another is at [Learn2](http://www.learn2.com/07/0768/0768.asp?fp=1).

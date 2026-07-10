@@ -4,7 +4,7 @@ date: 2024-12-08T00:00:00+00:00
 categories:
   - til
 description: I investigated Amazon Nova model costs, surveyed why employees avoid internal LLMs, and evaluated JavaScript text splitters. I also learned about Unicode characters in ChatGPT citations and how to install Docker on Windows without admin rights.
-keywords: [amazon nova, langchain, duckdb, docker, llm foundry, text splitting, arena hard, unicode]
+tags: [duckdb, docker, unicode]
 ---
 
 This week, I learned:

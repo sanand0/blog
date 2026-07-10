@@ -6,7 +6,7 @@ categories:
   - top-10-lists
 wp_id: 3482
 description: "A year-long experiment suggests that changing environments—especially people, workplaces, and gadgets—can materially reshape thinking, motivation, and creative output."
-keywords: ["environment design", "thinking", "experiments", "productivity", "gadgets", "extended mind"]
+tags: [experiments, productivity, gadgets]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7145666215909154816/
 ---
 

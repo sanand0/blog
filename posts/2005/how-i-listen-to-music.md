@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 477
 description: I rated my MP3 collection and created seven WinAmp SmartViews based on play counts, ratings, and recency to automate song selection. I also use the Pepper plugin to track listening history for more granular playlist logic.
-keywords: [winamp, mp3 management, smartviews, pepper plugin, automated playlists, music rating]
+tags: [winamp]
 ---
 
 I have a large MP3 collection (Tamil and Hindi films). I don't like selecting songs to listen to. Too much effort.

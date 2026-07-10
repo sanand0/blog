@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 958
 description: I'm experimenting with GeoURL to map my blog's location. It offers an interesting geographical perspective on blog usage, letting me see the physical distribution of the blogosphere and how sites cluster in different regions.
-keywords: [geourl, geolocation, blogging, geospatial, mapping, internet geography]
+tags: [geolocation, blogging, geospatial, mapping]
 ---
 
 Experimenting with [GeoURL](http://geourl.org). It also gives an interesting perspective of blog usage, geographically.

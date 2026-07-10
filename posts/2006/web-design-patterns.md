@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 414
 description: Explore Martijn van Welie's extensive library of web design patterns. This resource provides documented solutions for interaction design, navigation, and UI components to help you build consistent, user-friendly interfaces across different web platforms.
-keywords: [web design patterns, interaction design, user interface, ux design, martijn van welie, information architecture]
+tags: [interaction-design, user-interface, ux-design, information-architecture]
 ---
 
 [Web design patterns](http://www.welie.com/patterns/).

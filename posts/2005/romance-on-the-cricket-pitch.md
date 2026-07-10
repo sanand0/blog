@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 525
 description: I shared a clip of a fan proposing to cricketer Zaheer Khan on the pitch. The discussion highlights 2005-era regional restrictions on Google Video in India and Germany, requiring proxies for access.
-keywords: [zaheer khan, cricket, google video, regional restrictions, india, proxy servers]
+tags: [cricket, google-video, india]
 ---
 
 [Romance on the cricket pitch](http://video.google.com/videoplay?docid=4021460724772341941). Fan proposes. Zaheer Khan gracefully accepts. Watch it on Google Video.

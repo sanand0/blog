@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1135
 description: I found a neuroscience resource for kids with interactive brain games and learned how neuroscientific research is being used to decode the visual design and calming effects of Zen gardens.
-keywords: [neuroscience, zen gardens, brain games, visual perception, neurobiology, meditation]
+tags: [neuroscience, visual-perception, meditation]
 ---
 
 I found this site on [neuroscience (for kids)](http://faculty.washington.edu/chudler/neurok.html). Nice. Has lots of brain games (no -- not smart ones -- more like testing your reaction time, etc.) Actually I was reading up on neuroscience because of this article on [how neuroscience helped figure out the meaning behind a Zen garden](http://www.nature.com/nsu/020923/020923-8.html). [via missing matter](http://missingmatter.net/article.pl?sid=02/09/27/0225233)

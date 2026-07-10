@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 74
 description: I track over 50 feeds in Google Reader to read more while remembering less. I use search result RSS feeds for videos and photos and Page2RSS to monitor sites that don't provide native feed support.
-keywords: [google reader, rss feeds, page2rss, content discovery, flickr, slideshare, information management]
+tags: [google-reader, rss-feeds, content-discovery, flickr, information-management]
 ---
 
 I've stopped visiting websites.

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 2138
 description: I found the Internet Law Journal and dotcomfailures.com to be essential resources for my dot-com project. They provide detailed legal insights and case studies on failing companies during this period of internet startup volatility.
-keywords: [internet law journal, dotcomfailures.com, dot-com bubble, legal issues, internet startups]
+tags: [dot-com-bubble]
 ---
 
 The [Internet Law Journal](http://www.tilj.com/) has a lot of stuff on legal issues on the Net. It's going to come in handy for our [dot-com](http://202.41.106.14/~mahadev/) project. So is [dotcomfailures.com](http://www.dotcomfailures.com), which has details on failing dot-coms.

@@ -4,7 +4,7 @@ date: 2026-07-05T15:02:39+05:30
 categories:
   - visualization
 description: I discuss visualization grammars with Arvind Satyanarayan, exploring how GoFish uses Gestalt-based graphical relationships to help AI agents reason about design. I am experimenting with these grammars to improve AI visualization diversity and building automated verification systems.
-keywords: [arvind satyanarayan, gofish, visualization grammars, vega-lite, malleable software, ai agents]
+tags: [ai-agents]
 ---
 
 After [Arvind Satyanarayan's](https://www.csail.mit.edu/person/arvind-satyanarayan) [talk](https://vizchitra.com/2026/sessions/infinite-design-space) at [VizChitra 2026](https://vizchitra.com/2026), a group of us kept talking about machine learning, visualization grammars, creativity, software and education.

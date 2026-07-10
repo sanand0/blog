@@ -5,7 +5,7 @@ categories:
   - business-realities
 wp_id: 270
 description: I realized my movie ratings aren't normally distributed because I selectively watch good films. Forced ranking in companies or schools is inherently flawed because it ignores this sampling bias and unfairly penalizes high performers in selective environments.
-keywords: [normal distribution, sampling bias, performance appraisal, skewed distribution, forced ranking, selection bias]
+tags: [normal-distribution]
 ---
 
 <p>I rate movies on a scale of 1 (bad) to 5 (good). This is an absolute scale. Initially, I assumed that I would watch as many good movies as bad ones. So I'd have about as many 1s as 5s, and 2s as 4s. But, when I looked at my ratings for movies over the last year, I had far more 4s than 2s. <b>My movie ratings were not normal</b>.</p>

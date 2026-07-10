@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 2115
 description: I'm exploring the emerging landscape of online stock trading in India, tracking early pioneers like Geojit and ICICIDirect alongside newer platforms like Indiabulls. I'm planning to open my first online trading account soon.
-keywords: [online trading, india, geojit, icicidirect, indiabulls, stock market]
+tags: [india, stock-market]
 ---
 
 [Geojit securities](http://www.geojit.com/) was the first site where you could trade stocks online. [ICICIDirect](http://www.icicidirect.com/) followed. Now there's a whole bunch (based on a [Khoj search](http://www.khoj.com/bin/khoj_search?searchkey=online+broker)): [Abhipra](http://www.abhipra.com/), [Agroy](http://www.agroy.com/), [Ansec](http://www.anseconline.com/), [iBroking](http://www.ibroking.com/) [India bulls](http://www.indiabulls.com/), [Investment map](http://www.investmentmap.com/) and [Stock mantra](http://www.stockmantra.com/). I'm going to start an account soon.

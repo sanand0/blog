@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1922
 description: I'm observing massive layoffs at Disney, Amazon, and Daimler Chrysler as the 2001 recession takes hold. While job losses are tough, dot-coms might find relief as the costs of labor, real estate, and software begin to decline.
-keywords: [recession, layoffs, dot-com bubble, amazon, disney, daimler chrysler, economic cycles]
+tags: [recession, layoffs, dot-com-bubble, amazon, disney]
 ---
 
 **Recession**.\

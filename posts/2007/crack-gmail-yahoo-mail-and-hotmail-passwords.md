@@ -6,7 +6,7 @@ categories:
   - links
 wp_id: 94
 description: I found that MessenPass can recover passwords for Gmail, Yahoo Mail, and Hotmail by extracting saved credentials from desktop instant messenger clients like GTalk. It exploits the fact that these accounts often share the same login information.
-keywords: [messenpass, nirsoft, password recovery, gtalk, yahoo messenger, instant messaging]
+tags: [password-recovery, gtalk, yahoo-messenger, instant-messaging]
 ---
 
 [MessenPass](http://www.nirsoft.net/utils/mspass.html) recovers passwords for instant messengers -- GTalk, Yahoo Messenger and Windows Messenger included. These passwords are the same as their corresponding e-mails (GMail and Yahoo Mail at least). [via Amit](http://labnol.blogspot.com/2007/04/recover-gmail-aol-yahoo-or-windows-live.html).

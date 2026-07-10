@@ -4,7 +4,7 @@ date: 2024-10-27T00:00:00+00:00
 categories:
   - til
 description: I discovered LanceDB as a scalable ChromaDB alternative and explored Meta's image models. I also tested Gemini's code execution, analyzed audio diarization limitations, and compared AI development tools like Cursor, Bolt, and Replit for different skill levels.
-keywords: [lancedb, dinov2, imagebind, gemini api, claude 3.5 sonnet, audio diarization, cursor, vector databases]
+tags: [gemini-api, cursor]
 ---
 
 This week, I learned:

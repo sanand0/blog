@@ -5,7 +5,7 @@ categories:
 - llms
 - education
 description: AI helps build skills best when it gives directional critique on your work instead of simply doing the task for you.
-keywords: [skill building, AI critique, feedback loops, learning design, deliberate practice, education]
+tags: [learning-design, education]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7436927563740082176/
 ---
 

@@ -4,7 +4,7 @@ date: '2026-02-15T14:12:28+08:00'
 categories:
 - llms
 description: Taste and judgment become essential in the AI era because they improve slowly and depend on the kind of feedback environment you learn in.
-keywords: [taste, judgment, feedback loops, wicked learning environments, expertise, metacognition]
+tags: [taste, judgment]
 ---
 
 Developing taste & judgement are an essential skill in the AI era. [#](https://www.nber.org/system/files/working_papers/w24626/w24626.pdf) [#](https://arxiv.org/abs/2309.12338)

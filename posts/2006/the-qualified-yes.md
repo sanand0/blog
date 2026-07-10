@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 435
 description: I manage project requests by offering a 'qualified yes,' where I commit to specific hours or sessions rather than open-ended tasks. This helps set clear boundaries, values my time, and avoids the burden of unintentional long-term management.
-keywords: [qualified yes, time management, boundaries, project scoping, productivity, commitment management]
+tags: [time-management, productivity]
 ---
 
 [The qualified Yes](http://www.43folders.com/2006/01/06/modest-change-qualified-yes/). Somewhere between saying "no" to a new project or taking on something in an open-ended type of way, be clear from the start on what you can commit in concrete terms.

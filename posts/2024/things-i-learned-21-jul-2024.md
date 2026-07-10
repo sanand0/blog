@@ -4,7 +4,7 @@ date: 2024-07-21T00:00:00+00:00
 categories:
   - til
 description: I explored GPT functions for spreadsheets, Xata's free PostgreSQL API, and Nginx's least_conn load balancing. I also looked into GitHub Copilot's prompt construction and the importance of tracking evolving LLM capabilities and hardware-specific package managers.
-keywords: [gptforwork, xata, postgresql, miniforge, nginx, least_conn, github copilot, llm]
+tags: [github-copilot, llms]
 ---
 
 This week, I learned:

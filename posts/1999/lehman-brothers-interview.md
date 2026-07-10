@@ -6,7 +6,7 @@ categories:
   - interviews
 wp_id: 2185
 description: I reflect on my 1999 Lehman Brothers interview for Sales, Trading & Research, detailing how my IIT background and minimal preparation led to a Tokyo placement. I share tips on resume shortlisting, mock interviews, and tech stock valuation.
-keywords: [lehman brothers, investment banking, sales trading & research, iit madras, interview preparation, tech stock valuation]
+tags: [iit-madras, interview-preparation]
 ---
 
 Lehman Brothers was recruiting Sales, Trading & Research in Tokyo, and Investment Banking in New York. If that sounds like greek, read Vault's report on investment banking.

@@ -4,7 +4,7 @@ date: "2009-02-19T18:44:14Z"
 lastmod: "2022-01-26T09:30:56Z"
 wp_id: 2205
 description: I pranked my coworkers by claiming our new Windows XP laptops had 'transparent screens.' Despite the April Fool's date, my reputation for tech advice led colleagues to spend hours searching for non-existent settings and hardware cameras.
-keywords: [april fool's day, windows xp, bcg, transparent laptop, workplace humor, office pranks]
+tags: [april-fools-day, windows-xp, bcg]
 ---
 
 I had changed over the years, and had a sober reputation at BCG. I also had a reputation for giving solid advice about computers.

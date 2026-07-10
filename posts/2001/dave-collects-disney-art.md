@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1569
 description: I’ve shared a link to Dave’s extensive Disney art collection, which showcases a wide variety of animation cells and memorabilia. It’s a nostalgic look at classic character designs and collectible pieces from Disney's storied history.
-keywords: [disney art, animation cells, memorabilia, collecting, character design, vintage disney]
+tags: [character-design]
 ---
 
 [Dave](http://www.mindflare.com/disney/collect_art.htm) collects Disney art.

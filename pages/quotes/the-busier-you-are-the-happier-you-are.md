@@ -3,7 +3,7 @@ title: The busier you are, the happier you are
 date: 2026-01-02T16:20:00+08:00
 robotsNoIndex: true
 description: I explore the cynical beauty of the Japanese phrase '忙しいほど幸せ,' dissecting how 'busy' literally means 'the death of the heart' and why happiness is etymologically just one stroke away from total agony.
-keywords: [japanese language, kanji, etymology, linguistics, happiness, philosophy]
+tags: [etymology, linguistics, happiness, philosophy]
 ---
 
 > 忙しいほど幸せ sounds beautiful.

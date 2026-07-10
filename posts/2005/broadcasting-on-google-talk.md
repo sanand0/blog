@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 572
 description: I explored a hack to stream music and audio over Google Talk to friends. While I successfully heard a friend's broadcast, my own setup had technical issues, and the method only supports one-to-one streaming.
-keywords: [google talk, audio streaming, gtalk, voip, instant messaging, music broadcasting]
+tags: [google-talk, gtalk, voip, instant-messaging]
 ---
 
 [Broadcasting on Google Talk](http://www.twittv.com/googletalk.html).

@@ -7,7 +7,7 @@ categories:
   - visualisation
 wp_id: 2649
 description: I used The Hacker’s Diet principles to build an interactive visualization of calorie density versus price. Using Tesco data, I found that custards and jellies are surprisingly better high-volume snacks than most cereals.
-keywords: [hacker's diet, calorie density, tesco, jquery, data visualization, weight loss]
+tags: [jquery, data-visualization, weight-loss]
 ---
 
 A couple of years ago, I managed to <a href="/blog/my-weight-line/">lose a fair bit of weight</a>. At the start of 2010, I started putting it back on, and the trajectory continues. I’m at the stage where I seriously need to lose weight.

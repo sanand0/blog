@@ -5,7 +5,7 @@ categories:
   - visualisation
 wp_id: 65
 description: I used an unorthodox variwide chart to visualize the centralization of over 300 banking activities. Mapping these across branches and hubs showed that 55% of work remained decentralized, helping overcome organizational resistance to further centralization.
-keywords: [variwide chart, data visualization, centralization, operations, banking, organizational change]
+tags: [variwide-chart, data-visualization, banking, organizational-change]
 ---
 
 > Surely we don't have many activities to centralise? We already have a central hub for processing operations!

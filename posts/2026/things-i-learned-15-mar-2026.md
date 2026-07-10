@@ -4,7 +4,7 @@ date: 2026-03-15T00:00:00+00:00
 categories:
   - til
 description: I explored Timsort, switched to the moor pager, and experimented with CLI prompt prefixes for agents. I also looked into cognitive debt, Polya's problem-solving framework, and GitHub’s new agentic workflows for compiling Markdown files into actions.
-keywords: [timsort, moor, cognitive debt, squoosh, browserless, github agentic workflows, prompt engineering]
+tags: [prompt-engineering]
 ---
 
 This week, I learned:

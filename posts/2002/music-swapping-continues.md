@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1091
 description: I examine how music swapping persisted in 2002 despite Napster's shutdown. The RIAA's legal actions against KaZaa highlight the industry's struggle against shifting consumer habits and the rise of decentralized file-sharing networks.
-keywords: [riaa, napster, kazaa, p2p, file-sharing, digital music]
+tags: [riaa, napster, kazaa, p2p, file-sharing, digital-music]
 ---
 
 [Music-swapping continues](http://www.msnbc.com/news/820292.asp). An RIAA spokesman says,

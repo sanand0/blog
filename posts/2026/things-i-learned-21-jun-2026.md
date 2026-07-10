@@ -4,7 +4,7 @@ date: 2026-06-21T00:00:00+00:00
 categories:
   - til
 description: I share techniques for mental closure in conversations and steering AI agents mid-task. I also cover ug search shortcuts, VS Code fixes, and why harness engineering is the new bottleneck for AI quality.
-keywords: [ug, codex, harness engineering, mental closure, vs code, git, skill transfer]
+tags: [codex, vs-code, git]
 ---
 
 This week, I learned:

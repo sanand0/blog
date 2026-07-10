@@ -4,7 +4,7 @@ date: 2025-05-18T00:00:00+00:00
 categories:
   - til
 description: I explored storage options for data under 1GB, from GitHub Releases to MotherDuck. I also learned about encrypted LLM inference, Pandoc extensions for Markdown, and why you should always schedule data deletions instead of doing them live.
-keywords: [github releases, motherduck, pandoc, openalex, encrypted inference, uv, bootstrap, systemd]
+tags: [pandoc, uv]
 ---
 
 This week, I learned:

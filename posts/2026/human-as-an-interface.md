@@ -4,7 +4,7 @@ date: 2026-03-17T09:54:54+05:30
 categories:
   - llms
 description: Many people still use other humans as a wrapper around digital tools, which highlights that interface adoption is often a social and behavioral problem, not just a technical one.
-keywords: [human-computer interaction, AI adoption, search behavior, digital literacy, usability, social behavior]
+tags: [human-computer-interaction, ai-adoption, usability]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-17-human-as-an-interface.avif) <!-- https://gemini.google.com/u/2/app/ca0bd8439c95d2de -->

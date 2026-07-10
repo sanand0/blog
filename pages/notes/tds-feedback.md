@@ -2,7 +2,7 @@
 title: TDS Feedback
 date: 2026-05-30T17:23:35+08:00
 description: Things people have shared about my Tools in Data Science course
-keywords: [tools in data science, feedback, course]
+tags: [tools-in-data-science]
 ---
 
 ## 20 May 2026

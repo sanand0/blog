@@ -6,7 +6,7 @@ categories:
   - data
 wp_id: 3304
 description: "Analyzing actor co-star networks suggests that the easiest Chinese actors for Hollywood producers to discover are the ones already sitting closest to Hollywood through repeated cross-industry collaborations."
-keywords: ["Hollywood", "Chinese actors", "actor networks", "casting", "co-stars", "data analysis"]
+tags: [hollywood, actor-networks, data-analysis]
 ---
 
 ![How to find a Chinese actor to cast in Hollywood](/blog/assets/chinese-actors-1.webp)

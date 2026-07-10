@@ -3,7 +3,7 @@ date: "2025-06-18T10:37:40Z"
 categories:
   - linkedin
 description: "Interesting public code is a far stronger hiring signal than a CV for technical roles."
-keywords: ["hiring", "GitHub", "portfolios", "technical recruiting", "signals", "CVs"]
+tags: [hiring, github]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7341051471553077252/
 ---
 

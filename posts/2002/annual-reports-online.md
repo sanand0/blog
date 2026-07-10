@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 1358
 description: I found a site offering free annual reports for public companies online. This resource is helpful for researching financial statements and corporate history without the need for physical copies or paid databases.
-keywords: [annual reports, financial statements, public companies, investing, business research, investor relations]
 ---
 
 Free [annual reports](http://yahoo.ar.wilink.com/) online.

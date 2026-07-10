@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 469
 description: "I shared the movie trailers for The Da Vinci Code and discovered a clever anagram hidden in the film's del.icio.us tag: \"c i con thee david.\""
-keywords: [da vinci code, trailers, anagrams, delicious tags, movie marketing]
 ---
 
 [Da Vinci Code](http://www.imdb.com/title/tt0382625/) [trailers](http://www.apple.com/trailers/sony_pictures/da_vinci_code/).

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1663
 description: I've confirmed that all my friends and fellow alumni from IIMB, IITM, and VM currently in the United States are safe following the September 11 attacks, providing a brief status update for our community.
-keywords: [september 11, iimb, iitm, vm junta, alumni, safety update]
+tags: [september-11, iimb, iitm, alumni]
 ---
 
 All IIMB, IITM and VM junta in the US are safe, to my knowledge.

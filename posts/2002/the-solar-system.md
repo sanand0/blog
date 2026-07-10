@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1378
 description: I found NASA JPL's Solar System Simulator, an interactive tool for generating custom views of planets and moons from any location in space. It's a fascinating way to visualize celestial bodies and their relative positions.
-keywords: [solar system, nasa, jpl, astronomy, simulation, planets, visualization]
+tags: [nasa, astronomy, simulation, data-visualization]
 ---
 
 The [Solar System](http://space.jpl.nasa.gov/). From anywhere.

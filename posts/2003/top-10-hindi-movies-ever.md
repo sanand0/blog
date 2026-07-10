@@ -5,7 +5,7 @@ categories:
   - top-10-lists
 wp_id: 905
 description: I've ranked my top 10 Hindi movies of all time, featuring legendary classics like Sholay, Lagaan, and Anand. The list spans decades of Indian cinema, highlighting essential viewing for fans of Bollywood's iconic storytelling and musical heritage.
-keywords: [hindi movies, bollywood, sholay, lagaan, ddlj, anand, indian cinema, film lists]
+tags: [hindi-movies, bollywood, indian-cinema, film-lists]
 ---
 
 Inspired post by Aashish on the [top 10 hindi movies ever](http://ashforyou.rediffblogs.com/2003_04_05_ashforyou_archive.html#1052320812).

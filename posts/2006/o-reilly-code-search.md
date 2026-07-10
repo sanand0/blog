@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 246
 description: I found O'Reilly's tool for searching code across their entire book library. Use it to quickly find specific implementations, snippets, and technical examples from their authoritative programming guides and reference materials.
-keywords: [oreilly, code search, programming books, technical documentation, snippets, oreilly media]
+tags: [oreilly, technical-documentation]
 ---
 
 [Code search](http://labs.oreilly.com/code/) within O'Reilly books.

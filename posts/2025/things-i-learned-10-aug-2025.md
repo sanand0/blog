@@ -4,7 +4,7 @@ date: 2025-08-10T00:00:00+00:00
 categories:
   - til
 description: I explored OpenAI's custom tool types for DSL generation, new Node.js 2025 features like single-executable bundling, and Markdown directive syntax. I also shared my Claude Code usage costs and thoughts on vibe coding.
-keywords: [openai, node.js, claude code, markdown, ai-coding, dsl, biomejs, commonmark]
+tags: [openai, node-js, claude-code, markdown, ai-coding]
 ---
 
 This week, I learned:

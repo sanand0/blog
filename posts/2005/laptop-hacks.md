@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 602
 description: Optimize your laptop's performance and longevity with these practical tips for extending battery life, cleaning keys effectively, and saving web pages for offline viewing during travel or commutes.
-keywords: [laptop maintenance, battery optimization, keyboard cleaning, offline reading, mobile computing, hardware tips]
+tags: [mobile-computing]
 ---
 
 [Laptop hacks](http://www.lifehacker.com/software/laptop/laptop-hacks-113215.php). Includes extending battery life, cleaning the keyboard, and reading web pages offline.

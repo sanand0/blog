@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 810
 description: Explore the original Nature paper by Watson and Crick detailing the molecular structure of DNA. This landmark publication includes their famous observation that the specific base pairing suggests a fundamental copying mechanism for genetic material.
-keywords: [dna structure, watson and crick, nature magazine, molecular biology, genetic material, double helix]
+tags: [molecular-biology]
 ---
 
 [Watson and Crick's original paper on DNA](http://biocrs.biomed.brown.edu/Books/Chapters/Ch%208/DH-Paper.html) in Nature magazine.

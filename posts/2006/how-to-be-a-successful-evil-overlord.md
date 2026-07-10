@@ -5,7 +5,7 @@ categories:
   - funny
 wp_id: 363
 description: I discovered a funny guide for aspiring evil overlords. I’ll make my ventilation ducts too small to crawl through, avoid monologuing to captured heroes, and consult a five-year-old child to spot flaws in my implementation plans.
-keywords: [evil overlord list, trope subversion, villain cliches, movie tropes, parody]
+tags: [parody]
 ---
 
 [How to be a successful Evil Overlord](http://www.proft.org/tips/evil.html). Hilarious. Some excerpts:

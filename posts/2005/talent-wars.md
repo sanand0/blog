@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 515
 description: I highlight a 2005 Forbes insight where Bill Gates identifies Goldman Sachs as Microsoft's primary competitor for high-IQ talent. Google’s significantly higher revenue per employee suggests it has now overtaken Microsoft in the recruitment war.
-keywords: [talent war, bill gates, microsoft, google, goldman sachs, revenue per employee, hiring]
+tags: [bill-gates, microsoft, google, hiring]
 ---
 
 [Talent wars](http://www.forbes.com/forbes/2005/1031/045.html). The interesting part was the first three paragraphs.

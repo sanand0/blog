@@ -5,11 +5,9 @@ lastmod: "2023-01-11T03:20:40Z"
 categories:
   - how-i-do-things
   - top-10-lists
-tags:
-  - book
+tags: [book, goodreads, algorithms, serendipity]
 wp_id: 3398
 description: "The author expands his usual Goodreads-driven book selection method with algorithms, serendipity, awards, and reading challenges to deliberately escape his own taste bubble."
-keywords: ["books", "reading strategy", "Goodreads", "book selection", "algorithms", "serendipity"]
 ---
 
 ![Picking books to read](/blog/assets/book-hunter-1.webp)

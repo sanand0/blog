@@ -5,7 +5,7 @@ categories:
   - excel-tips
 wp_id: 506
 description: I automate repetitive Excel tasks by using find and replace inside formulas, locating external links with character searches, and applying conditional formatting. I also use Autofilter and sorting to quickly identify and delete unwanted rows or errors.
-keywords: [excel, automation, formulas, conditional formatting, find and replace, data cleaning, autofilter]
+tags: [excel, automation, formulas, conditional-formatting]
 ---
 
 **Rule #3: Avoid manual labour**. Use Excel to automate the task.

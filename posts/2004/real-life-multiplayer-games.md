@@ -5,7 +5,7 @@ categories:
   - games
 wp_id: 863
 description: I explore pervasive gaming and real-life multiplayer experiences like CTRL+SHIFT, highlighting how digital mechanics bridge the gap into urban play and interactive social games within physical spaces.
-keywords: [pervasive games, urban gaming, multiplayer, ctrl+shift, kottke, game design]
+tags: [game-design]
 ---
 
 Kottke on [real-life multiplayer games](http://www.kottke.org/04/04/ctrl-shift).

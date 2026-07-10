@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 286
 description: I used Microsoft adCenter Labs' demographics prediction tool to compare male and female interests in different body parts. My results showed strong female leanings for 'hair' and 'eyes,' while men surprisingly dominated searches related to 'toes.'
-keywords: [microsoft adcenter labs, demographics prediction, gender profiling, search behavior, web analytics, user demographics]
+tags: [web-analytics]
 ---
 
 <p>Microsoft adCenter Labs has a <a href="http://adlab.microsoft.com/DPUI/DPUI.aspx">demographics prediction engine</a>. Based on a person's search queries and web sites visited, it can predict their gender and age.</p>

@@ -6,7 +6,7 @@ categories:
   - diary
 wp_id: 2625
 description: I share random reflections on the freedom of blogging, the beauty of node.js documentation, and my typography preferences. I also discuss technical frustrations with git and a reminder for programmers to prioritize their physical health.
-keywords: [node.js, typography, git, programming health, georgia font, blogging]
+tags: [node-js, typography, git, blogging]
 ---
 
 The whole point of a blog is to be able to write what I want, isn't it? Without the need to be coherent. Intelligent. Useful.

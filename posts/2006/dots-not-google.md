@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 430
 description: I found a Java animation called 'dots not google' that features swarming behavior. It reminds me of the nanotech swarms in Michael Crichton's novel Prey, showcasing emergent complexity through simple interactive particles.
-keywords: [java animation, dots not google, michael crichton, prey, emergent behavior, particle simulation]
+tags: [michael-crichton, emergent-behavior]
 ---
 
 [dots not google](http://www.madmerv.com/portfolio/dotsnotgoogle/index.html). An interesting Java animation that reminds me of Michael Crichton's [Prey](http://www.amazon.com/gp/product/0061015725/?tag=sanand-20).

@@ -1,6 +1,6 @@
 ---
 description: I’ve curated a directory of India’s data visualization leaders across journalism, cartography, and generative art. This list features practitioners from Reuters, The Hindu, and CivicDataLab, focusing on specialists in GIS mapping, public data storytelling, and information design.
-keywords: [india, data visualization, data journalism, gis, information design, cartography, generative art, open data]
+tags: [india, data-visualization, data-journalism, gis, information-design, cartography, generative-art, open-data]
 ---
 
 # India Data Visualisation People

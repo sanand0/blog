@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1305
 description: I found a parody of PwC's controversial rebranding of its consulting arm to 'Monday.' This spoof mocks the 2002 marketing campaign and the bizarre corporate name change that was later abandoned after IBM's acquisition.
-keywords: [pwc, monday rebranding, corporate identity, spoof, consulting, marketing parody]
+tags: [consulting]
 ---
 
 Spoof on [Monday](http://www.monday.com) (PwC) at [introducingmonday.co.uk](http://www.introducingmonday.co.uk/).

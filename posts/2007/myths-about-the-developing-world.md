@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 111
 description: I explore Hans Rosling's talk on global development myths, highlighting his animated graphics that reveal hidden trends. He proves our misconceptions by showing that even experts often perform worse than random chance at identifying global statistics.
-keywords: [hans rosling, ted talks, data visualization, global development, population statistics, sir ken robinson]
+tags: [data-visualization]
 ---
 
 An excellent talk about the [myths we hold on the developing world](http://video.google.com/videoplay?docid=4237353244338529080), supported by the most amazing graphics I've seen in a while. Among other things, the speaker (Hans Rosling) proves that chimpanzees are much smarter than the top Swedish students, and are slightly better than Swedish professors when it comes to knowing the developing world.

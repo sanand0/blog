@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: "Hallucinations become much less dangerous when multiple cheap models check each other, because their mistakes overlap far less than their individual error rates suggest."
-keywords: [hallucinations, ensemble methods, double checking, LLM reliability, classification, automation quality]
+tags: [hallucination]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7328264048171540480/
 ---
 

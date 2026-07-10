@@ -4,7 +4,7 @@ categories:
   - llms
   - linkedin
 description: I used ChatGPT, Claude, and Gemini to determine a single composite metric for ranking India's greatest batsmen. The LLMs favored a 'Batting Average * log(Total Runs)' calculation, which I visualized to compare eras across cricket history.
-keywords: [cricket, data visualization, chatgpt, indian batsmen, composite metrics, batting average, claude, gemini]
+tags: [cricket, data-visualization, chatgpt, claude, gemini]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7402679838437744640/
 ---
 

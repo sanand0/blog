@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1018
 description: I'm looking at Scientific American's review of the Simputer, an early attempt at a low-cost handheld for developing countries. The central challenge remains whether people can afford a $250 device that isn't strictly essential.
-keywords: [simputer, scientific american, developing nations, digital divide, handheld computing]
+tags: [scientific-american, digital-divide]
 ---
 
 [Scientific American's review of the Simputer](http://www.sciam.com/article.cfm?articleID=000454AE-7675-1D7E-90FB809EC5880000&pageNumber=1).

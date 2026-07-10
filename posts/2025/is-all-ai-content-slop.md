@@ -5,7 +5,7 @@ categories:
   - linkedin
   - llms
 description: I used Claude to transform dense research and forum threads into engaging essays in the style of Malcolm Gladwell. I found that AI excels at inference and accessibility, potentially evolving from slop into a legitimate new art form.
-keywords: [ai slop, claude, malcolm gladwell, accessibility, hacker news, generative writing, automation]
+tags: [claude, malcolm-gladwell, accessibility, automation]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7393512679279210496/
 ---
 

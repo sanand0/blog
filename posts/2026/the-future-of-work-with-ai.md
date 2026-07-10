@@ -6,7 +6,7 @@ categories:
 - llms
 - how-i-do-things
 description: As intelligence gets cheaper, valuable work shifts toward framing, evaluation, context building, and delegating tasks to agents rather than executing every step manually.
-keywords: [future of work, AI agents, delegation, problem framing, evaluation, behavior change]
+tags: [future-of-work, ai-agents, evaluation]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-11-the-future-of-work-with-ai.avif) <!-- https://gemini.google.com/u/2/app/bad45f08e6f30526 -->

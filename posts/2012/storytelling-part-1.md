@@ -7,7 +7,7 @@ categories:
   - how-i-do-things
 wp_id: 2787
 description: I explore why data analysis fails when it lacks a narrative. Using my dry research on Indian meter readings and past jargon-filled reports, I argue that simplicity is essential for driving real-world understanding and action.
-keywords: [data storytelling, data analysis, jargon, communication, business reporting, simplicity]
+tags: [data-storytelling, data-analysis, communication, simplicity]
 ---
 
 In a number of sessions I’ve been to, people ask analysts to make their results more interesting – to tell stories with them. I’m co-teaching a [course](http://analysis.knofu.org/2012/08/02/thinking-with-data/), part of which involves telling stories with data. So this got me thinking: **what is a story?** How does one teach storytelling to, let’s say, an alien?

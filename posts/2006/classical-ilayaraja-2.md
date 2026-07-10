@@ -5,7 +5,7 @@ categories:
   - classical-ilayaraja
 wp_id: 159
 description: I examine how Ilayaraja adapted rare Carnatic raagas like Bhaavani and Hemavathi for Tamil cinema. By analyzing tracks from Guna and Salangai Oli, I highlight how his compositions serve as accessible references for complex vivaadi and Karaharapriya scales.
-keywords: [ilayaraja, carnatic music, bhaavani raaga, hemavathi, karaharapriya, sriranjani, tamil film songs]
+tags: [ilayaraja, carnatic-music, tamil-film-songs]
 ---
 
 > This is the second of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

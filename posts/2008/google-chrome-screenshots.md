@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 39
 description: I walk through my first impressions of Google Chrome's 2008 launch, highlighting the fast installation, the built-in task manager, and features like DNS pre-fetching and the Javascript console's autocompletion while noting some early rendering bugs.
-keywords: [google chrome, web browsers, developer tools, javascript console, task manager, dns pre-fetching, incognito mode]
+tags: [google-chrome, web-browsers, developer-tools]
 ---
 
 I went to the [Google Chrome](http://www.google.com/chrome) site.

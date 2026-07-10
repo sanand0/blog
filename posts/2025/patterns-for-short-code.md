@@ -4,7 +4,7 @@ date: 2025-11-26T00:00:00+05:30
 categories:
   - coding
 description: I used Claude Code to refactor my Unicoder tool, extracting thirteen principles for elegant, concise code. Key takeaways include replacing conditionals with data-driven structures, utilizing optional chaining, and using pattern arrays to eliminate repetitive logic.
-keywords: [javascript, refactoring, claude code, data-driven design, dry principle, clean code]
+tags: [javascript, refactoring, claude-code]
 ---
 
 I had [Claude Code](https://claude.ai/code/session_01V4vK6jAMmXqKzwz9dys8zw) create a [PR](https://github.com/sanand0/tools/pull/91) to update my [Unicoder tool](https://tools.s-anand.net/unicoder/). As part of that, I prompted it to repeatedly:

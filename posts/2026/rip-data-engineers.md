@@ -4,7 +4,7 @@ date: '2026-02-04T19:22:13+08:00'
 categories:
 - llms
 description: AI can already do large-scale SQL pattern analysis that exposes organizational blind spots, shrinking the need for some traditional data-engineering analysis work.
-keywords: [data engineering, SQL analysis, AI automation, analytics culture, role change, databases]
+tags: [data-engineering, self-analysis, ai-automation, databases]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7425754411886632961/
 ---
 

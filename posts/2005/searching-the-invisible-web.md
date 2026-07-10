@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 691
 description: I found a comprehensive guide to searching the invisible web, detailing how to access databases and scholarly resources that standard search engines miss. It’s an essential toolkit for finding information hidden from traditional crawlers.
-keywords: [invisible web, deep web, search engines, scholarly research, databases, information retrieval]
+tags: [search-engines, databases, information-retrieval]
 ---
 
 [Searching the invisible web](http://library.rider.edu/scholarly/rlackie/Invisible/Inv_Web_Main.html).

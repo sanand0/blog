@@ -5,7 +5,7 @@ categories:
   - visualisation
   - linkedin
 description: "A very simple eating rule change, not exercise, drove major weight loss, with AI used mainly to analyze and visualize the outcome."
-keywords: ["weight loss", "fasting", "health", "self-tracking", "data visualization", "Claude Code"]
+tags: [weight-loss, self-tracking, data-visualization, claude-code]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7336264532912218115/
 ---
 

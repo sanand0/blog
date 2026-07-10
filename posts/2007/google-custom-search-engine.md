@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 139
 description: I explored the power of Google Custom Search Engines to build niche tools for my own site, Calvin and Hobbes quotes, and Tamil media, while navigating current limitations regarding Google's supplemental index results.
-keywords: [google custom search engine, google coop, niche search, supplemental index, search customization]
+tags: [search-customization]
 ---
 
 I didn't realise the power of [Google Coop's custom search engines](http://www.google.com/coop/cse/) (CSE) until I watched [Scoble interviewing Google's Shashi Seth](http://www.podtech.net/scobleshow/technology/1266/googles-shashi-seth-has-your-custom-search-engine). In a nutshell, CSE lets you create a search engine that's focuses on specific sites, like [UK blogs](http://www.google.com/coop/cse?cx=014344395708352783254%3Aqyk2kmm852o) or [Photoshop sites](http://allynedmonds.com/tutorial-search/)

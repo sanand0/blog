@@ -6,7 +6,6 @@ categories:
   - visualisation
 wp_id: 2785
 description: I explore why RGB color spaces fail to match human perception and share the practical tools I use to pick colors, including Adobe Kuler, ColorBrewer, and the perceptually uniform HCL model for programmatic selection.
-keywords: [color spaces, rgb, hcl, human perception, colorbrewer, adobe kuler, hex triplets]
 ---
 
 In reality, a colour is a combination of light waves with frequencies between 400-700THz, just like sound is a combination of sound waves with frequencies from 20-20000Hz. Just like mixing various pure notes produces a new sound, mixing various pure colours (like from a rainbow) produces new colours (like white, which isn’t on the rainbow.)

@@ -5,7 +5,7 @@ categories:
   - mumbai
 wp_id: 1785
 description: I visited Indian Summer in Mumbai and highly recommend their Shahi shorba and methi tikki. Despite some service confusion, the meal was excellent, and I learned the proper etiquette for eating soup by moving the spoon away from myself.
-keywords: [mumbai, indian summer, shahi shorba, restaurant review, dining etiquette, indian cuisine]
+tags: [mumbai]
 ---
 
 Vishnu and I tried out **Indian Summer**, opposite to Gaylord. It looked like one of those 'classier' places, so I wasn't expecting the meal to be any good. The variety was impressive though, so sticking to my policy of ordering dishes I never had, we tried **Shahi shorba** (soup), **methi tikki** and **simla mirch besan ke sath**, with **makai roti** and **reshmi paratha**. For Rs. 550. I recommend every single dish -- especially the soup. The service was good, too, and I'd rate it as excellent, except for the fact that the waiter walked up to us and asked us if we'd ordered Shahi Shorba. True to my form, I stared at him cluelessly, looked around, and said, "Who me?"

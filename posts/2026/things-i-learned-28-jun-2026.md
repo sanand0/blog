@@ -4,7 +4,7 @@ date: 2026-06-28T00:00:00+00:00
 categories:
   - til
 description: 'I share weekly learnings: spotting AI writing via paragraph length, using `.git/info/exclude` for local-only Git ignores, and leveraging formal proof tools like Z3 and TLA+ to verify AI-generated code.'
-keywords: [git, z3, tla+, claude, deno-desktop, gpic]
+tags: [git, claude]
 ---
 
 This week, I learned:

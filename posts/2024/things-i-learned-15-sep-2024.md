@@ -4,7 +4,7 @@ date: 2024-09-15T00:00:00+00:00
 categories:
   - til
 description: I explored how LLMs like Pixtral and Hume transform coding workflows while potentially hindering student retention. I also looked into agent-driven automation for daily tasks and why it's best to delegate OAuth implementation to external providers.
-keywords: [hume, pixtral, oauth, agentic ai, sparse embeddings, prompt engineering, cursor, ocr]
+tags: [prompt-engineering, cursor, ocr]
 ---
 
 This week, I learned:

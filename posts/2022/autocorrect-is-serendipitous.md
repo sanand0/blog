@@ -3,7 +3,7 @@ date: "2022-09-16T05:16:24Z"
 categories:
   - linkedin
 description: "A single autocorrect from “habits” to “hobbits” becomes a reminder that language errors can create delight rather than just embarrassment."
-keywords: ["autocorrect", "serendipity", "hobbits", "language", "humor", "calendar invites"]
+tags: [serendipity, language, humor]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6976408426276937728/
 ---
 

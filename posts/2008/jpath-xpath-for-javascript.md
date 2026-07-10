@@ -5,7 +5,7 @@ categories:
   - coding
 wp_id: 50
 description: I built JPath to bring XPath-style navigation to JavaScript data structures. It uses abbreviated syntax to query deep objects or ragged arrays, replacing complex loops and mapping functions with simple strings like //title or para[0].
-keywords: [xpath, javascript, jpath, json navigation, data structures, query language]
+tags: [xpath, javascript]
 ---
 
 <p><a href="http://www.w3.org/TR/xpath">XPath</a> is a neat way of navigating deep XML structures. It's like using a directory structure. <code>/table//td</code> gets all the TDs somewhere below TABLE.</p>

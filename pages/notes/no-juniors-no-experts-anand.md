@@ -2,7 +2,7 @@
 title: No Juniors, No Experts
 date: 2026-07-01T18:03:15+08:00
 description: To solve the junior training bottleneck caused by AI, I stopped hiring beginners to code. Instead, I have them use AI agents to build solutions rapidly, shifting their role to verifying output and designing checks.
-keywords: [ai agents, junior developers, software engineering, irony of automation, workforce training]
+tags: [ai-agents, software-engineering, ironies-of-automation]
 ---
 
 Read out by Anand, who is not an AI. See [Beating Pangram and AI detectors](https://www.s-anand.net/blog/beating-pangram-and-ai-detectors/).

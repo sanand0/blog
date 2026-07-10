@@ -4,7 +4,7 @@ date: "2025-10-12T05:32:39Z"
 lastmod: "2025-11-10T08:00:37Z"
 classes: wrap-code
 description: I share a prompt for analyzing WhatsApp group exports in NDJSON format. It extracts the top twenty topics, maps conversation network centrality, and builds detailed persona profiles for the most active participants using jq and LLMs.
-keywords: [whatsapp-scraper, ndjson, social-network-analysis, jq, llm-prompts, data-mining]
+tags: [social-network-analysis, jq, llm-prompts, data-mining]
 ---
 
 <!--

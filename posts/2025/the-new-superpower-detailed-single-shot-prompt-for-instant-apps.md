@@ -7,7 +7,7 @@ categories:
   - llms
 wp_id: 4117
 description: "Writing detailed, implementation-ready prompts is becoming a high-leverage skill because strong models can now turn a good one-shot spec into a working app in minutes."
-keywords: [single-shot prompting, app generation, spec writing, one-shot apps, LLMs, developer productivity]
+tags: [llms, developer-productivity]
 ---
 
 ![The New Superpower: Detailed Single-Shot Prompt For Instant Apps](/blog/assets/image-5.webp)

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 332
 description: I examine why advertising agencies rarely use mainstream media to market themselves. I wonder if they prioritize niche B2B channels or if it's an industry quirk that those selling visibility for others often choose to remain invisible.
-keywords: [advertising agencies, self-promotion, b2b marketing, mainstream media, branding, marketing strategy]
+tags: [branding, marketing-strategy]
 ---
 
 [Why Don't Ad Agencies Advertise](http://sinekpartners.typepad.com/refocus/2006/05/why_dont_ad_age.html)?

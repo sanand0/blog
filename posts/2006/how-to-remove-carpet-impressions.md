@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 288
 description: Remove stubborn furniture indentations from your carpet by using a steam iron. Simply steam the flattened fibers to lift them back up and restore the rug's original texture and appearance without professional tools.
-keywords: [carpet care, furniture impressions, steam iron, home maintenance, cleaning tips]
 ---
 
 [How to remove carpet impressions](http://www.alohatony.com/Nav.aspx/Page=%2fPageManager%2fdefault.aspx%3fPageID%3d1856228). Just steam iron the carpet.

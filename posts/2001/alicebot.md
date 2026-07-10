@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1592
 description: I reflect on my interactions with Alicebot, the Loebner Prize winner, finding it more infuriating than intelligent. Despite the limitations of current conversational agents like Iniaes, I plan to download and build my own custom Alicebot.
-keywords: [alicebot, loebner prize, turing test, chatbots, natural language processing, aiml]
+tags: [turing-test, chatbots, natural-language-processing]
 ---
 
 [Alicebot](http://alicebot.org/) won the [Turing test contest](http://www.loebner.net/Prizef/loebner-prize.html). I've chatted with quite a few Alicebots, such as [Cybelle](http://www.agentland.com/), or the one on the [A.I. site](http://aimovie.warnerbros.com/). But they're not too smart, as my [conversation](/blog/i-learn-that-robots-are-patient-but-infuriating/) with [Iniaes](http://iniaes.org/iniaes/iniaes.html) reveals. [Other conversations](http://www.loebner.net/Prizef/2001_Contest/loebner-prize-2001.html) are pretty similar. I should try [downloading](http://www.alicebot.org/downloads/) and building my own version of an Alicebot.

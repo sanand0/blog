@@ -6,7 +6,7 @@ categories:
   - simple-explanations
 wp_id: 130
 description: I demonstrate how to calculate your actual interest rate (IRR) using Excel's RATE function. By combining your monthly EMI, loan duration, and principal amount, you can derive the annual rate directly without needing the official APR.
-keywords: [excel, rate function, irr, emi, loan calculation, finance formulas]
+tags: [excel, emi]
 ---
 
 If you don't know your interest rate (IRR), but only have your APR, there is a way of figuring out the actual interest rate on Excel.

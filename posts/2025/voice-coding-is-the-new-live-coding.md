@@ -7,7 +7,7 @@ categories:
   - llms
 wp_id: 4194
 description: "A voice-to-code CLI workflow makes LLM-assisted live coding faster, more engaging, and smoother for audiences than traditional typing-heavy demos."
-keywords: ["voice coding", "live coding", "CLI", "Gemini", "transcription", "developer workflows"]
+tags: [voice-cloning, cli, gemini, transcription, developer-workflow]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7376824026595278848/
 ---
 

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 774
 description: I successfully implemented a new commenting system on my blog to encourage reader interaction and feedback. This update marks my return to regular blogging, and I am inviting users to test the functionality and share their thoughts.
-keywords: [blogging, commenting system, javascript, feedback, web development]
+tags: [blogging, javascript, web-development]
 ---
 
 I've managed to get my commenting system to work. Feedback welcome.

@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 158
 description: I created an interactive jigsaw puzzle featuring five high-paid Hollywood actors. Drag the jumbled blocks to reconstruct the image, identify each performer, and name the movie they all appeared in.
-keywords: [hollywood, jigsaw puzzle, actors, interactive quiz, visual puzzle]
+tags: [hollywood, jigsaw-puzzle, interactive-quiz]
 ---
 
 <p>I've jumbled up pictures of 5 highly paid Hollywood actors. You can move the jumbled blocks around, like a jigsaw. Can you guess the actors and the movie?</p>

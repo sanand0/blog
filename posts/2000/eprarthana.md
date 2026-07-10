@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 2066
 description: I’m fascinated by ePrarthana, a site that lets you conduct pujas online. It offers true disintermediation by performing rituals on your behalf without a local pujari, bringing ancient religious practices into the digital age.
-keywords: [eprarthana, online puja, disintermediation, hinduism, digital rituals, spiritual technology]
+tags: [hinduism]
 ---
 
 [ePrarthana.com](http://www.eprarthana.com) lets you do your puja online. That's what I call true disintermediation. No pujari anymore -- they do the puja for you, and you get the benefit. More [details at CNET](http://india.cnet.com/news/2000/09/27/20000927ao.html).

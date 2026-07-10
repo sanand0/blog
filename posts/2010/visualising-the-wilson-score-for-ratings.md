@@ -5,7 +5,7 @@ categories:
   - visualisation
 wp_id: 2559
 description: I created a 3D visualization of the Wilson score confidence interval to better understand how it calculates ratings from positive and negative feedback, illustrating how it handles uncertainty and small sample sizes more effectively than simple averages.
-keywords: [wilson score, confidence interval, rating systems, data visualization, 3d plotting, reddit sorting]
+tags: [operating-systems, data-visualization]
 ---
 
 [Reddit](http://www.reddit.com/)’s [new comment sorting system](http://blog.reddit.com/2009/10/reddits-new-comment-sorting-system.html) (charmingly explained by [Randall Munroe](http://www.xkcd.com/)) uses what’s called a [Wilson score confidence interval](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html).

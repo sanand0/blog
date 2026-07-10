@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 365
 description: I found a useful directory of Windows XP command prompt commands. This reference covers terminal utilities and system tools essential for managing legacy Windows environments directly from the command line interface.
-keywords: [windows xp, command prompt, cli, terminal, system administration]
+tags: [windows-xp, cli]
 ---
 
 [Windows XP commands](http://www.networkclue.com/os/Windows/commands/index.aspx) for the command prompt.

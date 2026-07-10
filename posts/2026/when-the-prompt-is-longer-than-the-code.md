@@ -4,7 +4,7 @@ date: 2026-06-05T17:14:17+08:00
 categories:
   - llms
 description: I used Pi to build a tiny landing page where the prompts were longer than the 471-byte HTML output. This workflow helped me overcome starting friction and solve CSS centering while focusing on review over manual coding.
-keywords: [pi, llms, css, html, web development, prompt engineering]
+tags: [llms, css, html, web-development, prompt-engineering]
 ---
 
 I used [pi](https://pi.dev/) to create a compact home page for [media.s-anand.net](https://media.s-anand.net/) using these prompts:

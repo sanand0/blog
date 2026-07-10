@@ -4,7 +4,7 @@ date: 2025-12-21T00:00:00+00:00
 categories:
   - til
 description: I used demucs and ffmpeg for audio, tested Astral’s ty type checker, and updated my TTS cost analysis. I also explore AI personhood, model self-correction, and bizarre self-driving car mishaps involving the moon and wet cement.
-keywords: [demucs, ffmpeg, astral ty, tts, ai personhood, self-driving cars, gemini]
+tags: [ffmpeg, tts, gemini]
 ---
 
 This week, I learned:

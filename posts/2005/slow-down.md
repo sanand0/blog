@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 604
 description: I'm sharing a prompt to disconnect and slow down. Constant digital connectivity can be overwhelming, so it's vital to intentionally switch off your devices and step back from the technological noise to reclaim your time.
-keywords: [digital wellness, mental health, connectivity, technology, disconnection, attention economy]
+tags: [connectivity, technology, attention-economy]
 ---
 
 It's [time to switch off and slow down](http://news.bbc.co.uk/2/hi/technology/4682123.stm).

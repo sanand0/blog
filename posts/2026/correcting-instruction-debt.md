@@ -5,7 +5,7 @@ categories:
   - llms
   - how-i-do-things
 description: A small calendar bug ("avoid holidays") created hidden work and led me to use ChatGPT — grounded in my own agent logs — to find the pattern, cross-check it, and convert the fix into three lines of AGENTS.md instead of three new habits.
-keywords: [instruction debt, AGENTS.md, coding agents, fast and frugal heuristics, self-correction]
+tags: [agents-md, coding-agents]
 ---
 
 Here's another AI-generated post, with _**Anand**_ editor notes. But I've also added my own version of the post below.

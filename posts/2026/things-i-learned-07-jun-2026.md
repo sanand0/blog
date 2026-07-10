@@ -4,7 +4,7 @@ date: 2026-06-07T00:00:00+00:00
 categories:
   - til
 description: I discovered how verifiable environments speed up AI training, experimented with Gemma 4 12B and git subtree, and explored Claude Code’s agent teams. I also researched threshold concepts and the challenge of learning tacit knowledge.
-keywords: [resolvectl, gemma 4, git subtree, claude code, model context protocol, agent teams]
+tags: [claude-code, model-context-protocol]
 ---
 
 This week, I learned:

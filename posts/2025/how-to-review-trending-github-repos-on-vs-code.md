@@ -8,7 +8,7 @@ categories:
   - tools
 wp_id: 4217
 description: I automate tracking trending GitHub repos by piping gtrending data through jq and awk into a TSV. I scan and tag the list in VS Code using the Rainbow CSV extension for a fast, Excel-free review workflow.
-keywords: [gtrending, jq, awk, rainbow csv, tsv, github trending, vs code]
+tags: [jq, awk, vs-code]
 ---
 
 ![How to review trending GitHub repos on VS Code](/blog/assets/trending-repos.webp)

@@ -7,7 +7,7 @@ categories:
   - how-i-do-things
 wp_id: 3421
 description: "This comic confession defends licking plates, bowls, and leftovers as efficient, joyful, and nearly irresistible, while acknowledging the social protocols that make it taboo in public."
-keywords: ["food habits", "licking", "humor", "etiquette", "ice cream", "waste"]
+tags: [humor]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7033488550536876033/
 ---
 

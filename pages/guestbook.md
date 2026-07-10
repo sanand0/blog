@@ -4,7 +4,7 @@ date: "2009-02-19T15:47:32Z"
 lastmod: "2009-04-02T20:34:27Z"
 wp_id: 12
 description: I archived these comments from my original guestbook, spanning over a decade of feedback. They document early blog culture, my time at BCG, and interactions with fellow alumni from IIT, IIM, and Vidya Mandir.
-keywords: [guestbook, blogging history, iim, iit, bcg, alumni, reader feedback]
+tags: [blogging-history, iim, iit, bcg, alumni]
 ---
 
 Archive of comments about this site.

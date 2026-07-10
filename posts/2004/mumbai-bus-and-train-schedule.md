@@ -6,7 +6,7 @@ categories:
   - mumbai
 wp_id: 840
 description: I gathered the best resources for navigating Mumbai via public transport, including the IITB Mumbai Navigator for bus and train routes, visual train timetables from Alphonso, and detailed street maps from Google Maps and MapMyIndia.
-keywords: [mumbai, public transport, train schedules, bus routes, google maps, mapmyindia, iit bombay, navigation]
+tags: [mumbai, public-transport, google-maps, navigation]
 ---
 
 [Mumbai Navigator](http://www.cse.iitb.ac.in/navigator2/Main) from IITB tells you how to get from one place to another in Mumbai, using the local bus and train services. Also has maps. (Here's the [old Mumbai Navigator](http://www.cse.iitb.ac.in/navigator/index.html).)

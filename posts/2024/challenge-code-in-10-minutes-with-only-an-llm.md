@@ -6,7 +6,7 @@ categories:
   - links
 wp_id: 3653
 description: "A live 10-minute LLM-only coding challenge reveals that only a small minority adopt these tools early, but the best among them already produce surprisingly deployable apps."
-keywords: [LLM coding challenge, education, early adopters, student apps, deployment, AI coding]
+tags: [education, ai-coding]
 ---
 
 ![Challenge: code in 10 minutes with only an LLM](/blog/assets/calvin-llm-challenge-2.webp)

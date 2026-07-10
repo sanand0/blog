@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 632
 description: I compare Google's search history feature to A9 and evaluate its utility. I found it useful for retracing steps to find previously discovered links, mirroring the functionality of browser toolbar histories for personalized information retrieval.
-keywords: [google search history, a9, search engine personalization, information retrieval, web search logs]
+tags: [a9, information-retrieval]
 ---
 
 [Google search history](http://www.google.com/searchhistory/) is like [a9](http://a9.com/) -- it remembers your searches. But why is that useful?

@@ -7,7 +7,7 @@ categories:
   - education
 wp_id: 3934
 description: "Student engagement, measured through timing and frequency of page visits, correlates strongly with higher assignment performance even when the result is almost embarrassingly obvious."
-keywords: [student engagement, education data, scores, learning analytics, correlation, TDS]
+tags: [correlation]
 ---
 
 ![Students who are more engaged score more](/blog/assets/engagement-scores.webp)

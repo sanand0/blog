@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 2117
 description: I curated several insights from Strategy & Business magazine, covering Novell's reseller channel management, how traditional brick-and-mortar companies establish online brands, and the shifting dynamics of corporate culture within internet-driven organizations.
-keywords: [strategy & business, novell, reseller channels, digital branding, corporate culture, business strategy]
+tags: [corporate-culture, business-strategy]
 ---
 
 I found some interesting articles on [Strategy & Business](http://www.strategy-business.com/) magazine. How Novell manages their [reseller channel](http://www.strategy-business.com/bestpractice/96206/), how brick-and-mortar companies can [brand on the Internet](http://www.strategy-business.com/bestpractice/99207/) and [corporate culture](http://www.strategy-business.com/culture_change/00103) on the Internet.

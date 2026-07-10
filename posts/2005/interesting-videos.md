@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 504
 description: I curated a list of compelling videos from Google Video’s early library, featuring classic Honda and Nike ads. The most significant discovery is a deep-dive, five-hour Google factory tour exploring the company’s internal operations.
-keywords: [google video, honda, nike, google current, google factory tour, video advertising]
+tags: [google-video]
 ---
 
 Some interesting ads on Google video: [FotoPrix](http://video.google.com/videoplay?docid=-1804991734411445297): perfect pictures for an imperfect world. [Nike](http://video.google.com/videoplay?docid=-99822590543142403) ad in Lisbon. [Honda](http://video.google.com/videoplay?docid=-1758564280154798806) car assembly (a classic). Google Video also has [Google Current](http://video.google.com/videosearch?q=google+current&lv=1), which is a newsreel about Google's top searches. But the find was a 5-hour [Google factory tour](http://video.google.com/videoplay?docid=3383042311441257769).

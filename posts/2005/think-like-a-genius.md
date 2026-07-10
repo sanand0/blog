@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 629
 description: Adopt a productive mindset by visualizing problems from multiple perspectives, making novel connections between unrelated concepts, and prioritizing a high volume of ideas to uncover creative breakthroughs and innovative solutions.
-keywords: [creative thinking, problem solving, productive thinking, visualization, mental models, cognitive strategies]
+tags: [problem-solving, data-visualization, mental-models]
 ---
 
 [Think like a genius](http://www.studygs.net/genius.htm).

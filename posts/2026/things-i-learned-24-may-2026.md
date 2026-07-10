@@ -4,7 +4,7 @@ date: 2026-05-24T00:00:00+00:00
 categories:
   - til
 description: I built a scraper for Google Linked apps, tracked BitWarden’s pricing shifts, and benchmarked audio transcription models. I also explored space survival mechanics, Mars' moons etymology, and why children's vision is better for surprise than focus.
-keywords: [bitwarden, anthropic, qwen, google takeout, whisper, gemini, pax memoriae, meta ai]
+tags: [anthropic, qwen, whisper, gemini]
 ---
 
 This week, I learned:

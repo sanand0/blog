@@ -5,7 +5,7 @@ categories:
   - mumbai
 wp_id: 1798
 description: I missed seeing 'Someone Like You' at Sterling after failing to secure black market tickets as prices spiked. I explore why theaters don't capture these margins themselves before getting drenched in the Mumbai rain.
-keywords: [mumbai, sterling theater, movie tickets, black market, scalping, someone like you, just around the corner]
+tags: [mumbai]
 ---
 
 I missed seeing **Someone Like You** at **Sterling**. The show was to start at 10:45PM. At 10:30PM, four of us were deciding on a go/no-go for Rs.200 in black. We figured, having come all this way, may as well go for it, and hunted for the chap. Not to be found. In the meantime, there's another offer for Rs. 250. We spend a while over it. Finally, yes, it's probably worth it. We go hunt for him again. The guy says wait, and wanders around trying to buy tickets. That's crazy! But we waited. By which time it was 10:45, and the market rates rose to Rs. 300, and only two tickets were available.

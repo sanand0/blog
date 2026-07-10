@@ -6,7 +6,7 @@ categories:
   - llms
 wp_id: 4177
 description: "Local transcript analysis with coding agents can quantify conversational patterns, revealing when the author is interviewing lightly versus dominating advice/demo calls."
-keywords: ["transcript analysis", "conversation metrics", "local data", "Codex CLI", "speaking time", "self-analysis"]
+tags: [transcript-analysis, codex-cli, self-analysis]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7365268557162565635/
 ---
 

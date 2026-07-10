@@ -3,7 +3,7 @@ date: "2021-05-02T05:35:17Z"
 categories:
   - linkedin
 description: "Comicgen's new character builder creates an astonishing range of avatars, but the post honestly admits the harder problem is discovering who actually needs this flexibility and why."
-keywords: ["Comicgen", "avatars", "character design", "open source", "use cases", "LinkedIn"]
+tags: [comicgen, character-design, open-source, use-cases, linkedin]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6794494472328761344/
 ---
 

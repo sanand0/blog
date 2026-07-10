@@ -5,7 +5,7 @@ categories:
   - excel-tips
 wp_id: 453
 description: I make Excel models visually obvious by isolating one key input and one primary output. Using sliders linked to an index cell via VBA, I create interactive scenarios that help stakeholders understand trade-offs and reach decisions quickly.
-keywords: [excel, data visualization, vba, theory of constraints, interactive modeling, slider controls]
+tags: [excel, data-visualization, vba]
 ---
 
 Rule #4: Make your model **visually obvious.**

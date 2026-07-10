@@ -5,7 +5,7 @@ categories:
   - llms
   - coding
 description: By running programs through an AI coding agent like Codex rather than executing them directly, you create an agentic operating system that automatically installs dependencies, handles configuration changes, and debugs brittle scripts.
-keywords: [ai coding agents, agentic operating systems, automated debugging, codex, script maintenance, autonomous execution]
+tags: [ai-coding-agents, codex]
 ---
 
 Increasingly, I'm using Codex (or other AI coding agents) as the "operating system" to run programs. That is, rather than directly run programs, I have the coding agent run the program.

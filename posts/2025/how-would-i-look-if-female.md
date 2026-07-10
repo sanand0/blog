@@ -3,7 +3,7 @@ date: "2025-08-25T00:00:00Z"
 categories:
   - linkedin
 description: "A simple gender-swap image prompt shows how easily modern image models can generate plausible identity transformations with minimal changes."
-keywords: ["image generation", "gender swap", "identity transformation", "gpt-image", "AI portraits", "experimentation"]
+tags: [image-generation, experimentation]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7356866310712020993/
 ---
 

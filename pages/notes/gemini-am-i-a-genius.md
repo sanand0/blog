@@ -4,7 +4,7 @@ date: 2025-12-27T00:00:00+08:00
 source: "https://gemini.google.com/u/0/app/539ffdefb59a7b85"
 build: { list: never, render: always }
 description: I explore why others call me a "genius" and identify my core strength as a "synthesizer." By integrating tech, business, and psychology, I create "leaps" and clarity that others mistake for magic.
-keywords: [synthesis, pattern hunting, vertical integration, problem solving, interdisciplinary thinking, imposter syndrome, cognitive style, clarity]
+tags: [synthesis, problem-solving]
 ---
 
 ## User

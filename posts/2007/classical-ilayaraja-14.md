@@ -5,7 +5,7 @@ categories:
   - classical-ilayaraja
 wp_id: 118
 description: I explore Ilayaraja’s mastery of complex Carnatic rāgas like Reethigowlai and Chalanaatai. I analyze how he breaks cinematic conventions by integrating classical structures into popular film songs, while reflecting on the biological and philosophical nature of human desire.
-keywords: [ilayaraja, reethigowlai, carnatic music, chalanaatai, raga lakshanam, tamil film music, gambeera naatai, vakra raga]
+tags: [ilayaraja, carnatic-music]
 ---
 
 > This is the 14th of 15 articles titled [Classical Ilayaraja](http://tfmpage.com/ci/) appeared on [Usenet](http://groups-beta.google.com/groups/search?q=intitle%3Aclassical+intitle%3Ailayaraja%7Cillayaraja) in the 90s.\

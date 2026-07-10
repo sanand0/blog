@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 759
 description: Explore the online collection of Woodward and Bernstein papers at the University of Texas. These archives document the investigative reporting for the Washington Post that uncovered the Watergate scandal and led to President Nixon's resignation.
-keywords: [woodward and bernstein, watergate, investigative journalism, richard nixon, university of texas, washington post]
 ---
 
 The [Woodward and Bernstein papers](http://www.hrc.utexas.edu/exhibitions/online/woodstein/).

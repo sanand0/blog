@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 89
 description: I share the logic and Perl regex I use to split sentences into words. I address the challenges of ambiguous punctuation like hyphens, periods in abbreviations, and commas in numbers to ensure accurate tokenization without breaking URLs.
-keywords: [tokenization, perl, regex, natural language processing, punctuation, abbreviations]
+tags: [tokenization, perl, regex, natural-language-processing, punctuation]
 ---
 
 I often need to extract words out of sentences. It's one of the things I used to build the [Statistically Improbable Phrases for Calvin and Hobbes](/blog/statistically-improbable-phrases-2/). But splitting a sentence into words isn't as easy as you think.

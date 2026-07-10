@@ -6,7 +6,7 @@ categories:
   - funny
 wp_id: 83
 description: I've rounded up my favorite Calvin and Hobbes strips where Dad trolls Calvin with fake science. These classic comics explain why the world was once black and white and how bridge weight limits are "really" determined.
-keywords: [calvin and hobbes, bill watterson, comics, humor, parenting, fake science]
+tags: [calvin-and-hobbes, bill-watterson, comics, humor, parenting]
 ---
 
 ![Calvin and Hobbes Dad explains science](/blog/assets/Calvin-Dad-Explains-Science.webp)

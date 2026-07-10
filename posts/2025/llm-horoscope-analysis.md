@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: "Comparing horoscope predictions across sources exposes contradictions so stark that the exercise becomes an accidental satire of astrology."
-keywords: ["horoscopes", "Deep Research", "comparison", "astrology", "contradictions", "satire"]
+tags: [satire]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7340290072933539840/
 ---
 

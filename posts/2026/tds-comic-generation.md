@@ -6,7 +6,7 @@ categories:
 - education
 classes: wrap-code
 description: Consistent AI-generated comics can make coursework more engaging when reusable prompts and reference images preserve character continuity.
-keywords: [comics, education, Gemini, prompt design, character consistency, engagement]
+tags: [comics, education, gemini, prompt-design]
 ---
 
 I use comics to make my course more engaging. Each question has a comic strip that explains what question is trying to teach.

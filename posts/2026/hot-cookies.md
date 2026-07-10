@@ -4,7 +4,7 @@ date: '2026-01-31T20:36:03+08:00'
 categories:
 - how-i-do-things
 description: A tiny intervention like heating a cookie can transform the eating experience enough to feel like a genuine discovery.
-keywords: [food, cookies, texture, simple pleasures, experimentation, taste]
+tags: [food, experimentation, taste]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7423350500475088896/
 ---
 

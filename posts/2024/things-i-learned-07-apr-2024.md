@@ -4,7 +4,7 @@ date: 2024-04-07T00:00:00+00:00
 categories:
   - til
 description: I explored CSS nesting, AWS Lambda performance patterns, and how rain improved WiFi signals. I also learned about AI package hallucinations and summarized Paul Graham’s insights on using low standards and iteration to improve writing quality.
-keywords: [css nesting, aws lambda, package hallucination, video-llava, writing process, paul graham]
+tags: [paul-graham]
 ---
 
 This week, I learned:

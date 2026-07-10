@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 556
 description: I’ve shared my transcribed collection of Calvin and Hobbes quotes ahead of the release of the complete book series. I'm also looking for a searchable web archive containing every strip ever published.
-keywords: [calvin and hobbes, bill watterson, comic strips, quotes, book release]
+tags: [calvin-and-hobbes, bill-watterson, comic-strips, quotes]
 ---
 
 [The Complete Calvin and Hobbes](http://www.amazon.com/exec/obidos/ASIN/0740748475/?tag=sanand-20) will be released. (I've transcribed the [quotes](/calvin/).)

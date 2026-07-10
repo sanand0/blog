@@ -5,7 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 2377
 description: I indexed 15 years of Dilbert comics, totaling over 5,500 strips, through a collaborative crowdsourcing effort. I discovered that a few dedicated contributors are far more effective than the long tail for building large-scale content databases.
-keywords: [dilbert, search engine, crowdsourcing, long tail, indexing, comics]
+tags: [dilbert, search-engines, crowdsourcing, long-tail, indexing, comics]
 ---
 
 The [Dilbert search index](http://dilbert-search.appspot.com/) now carries 15 years worth of [Dilbert](http://www.dilbert.com/) comics — over 5,500 strips typed out. This is mainly due to the contributions of [BFMartin](http://www.bfmartin.ca/finder/) (over 6 years worth of strips) and [Paul Dorman](http://www.viscerallogic.com/paul/blog/) (over 3 years worth of strips), [myself](http://www.s-anand.net/) (over 3 years worth of strips) and a long tail of contributors.

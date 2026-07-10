@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 750
 description: I noted Amazon's 2005 entry into the blogging space through a strategic investment. The discussion captures the era's landscape, including the emergence of corporate blogging at Amazon India and the technical frustrations of mid-2000s web popups.
-keywords: [amazon, blogging, corporate blogs, india, web history, investment]
+tags: [amazon, blogging, india, web-history]
 ---
 
 [Amazon enters blogging](http://news.com.com/Amazon+invests+in+blogging+site/2100-1025_3-5570177.html).

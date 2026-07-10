@@ -4,7 +4,7 @@ categories:
   - linkedin
   - llms
 description: I updated my Tools in Data Science course and used LLMs to analyze student feedback from IIT Madras. I found that students actually value "desirable difficulty" and rigor, suggesting that high-pressure assessments can increase perceived educational value.
-keywords: [data science education, llm analysis, student feedback, desirable difficulty, iit madras, course design]
+tags: [film-analysis, student-feedback, iit-madras, course-design]
 ---
 
 Tools in Data Science Sep 2025 edition is live: https://tds.s-anand.net/. Major update: a new AI-Coding section and fresh projects.

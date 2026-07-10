@@ -5,7 +5,7 @@ categories:
   - london-2005
 wp_id: 611
 description: "I attended the London Marketing Soiree and met Leonard Payne. We discussed a Seth Godin analogy for web design: treat distracted visitors like monkeys wearing a 'Big Red Fez' and ensure they can quickly find the 'banana' they want."
-keywords: [london marketing soiree, seth godin, web design, user experience, marketing, leonard payne]
+tags: [seth-godin, web-design, user-experience, marketing]
 ---
 
 I met Leonard Payne, [The Priest](http://www.leonard-payne.com/blog/?p=19), [Andrea Casalotti](http://www.velorution.biz/) and Scott Caplan at the [London Marketing Soiree](http://perfectpath.co.uk/wiki/index.php/London_Marketing_Soiree_July_11th_2005). Quite a diverse bunch of people. Leonard quoted Seth Godin on something neither he nor I will never forget.

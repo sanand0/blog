@@ -4,10 +4,8 @@ date: 2026-01-06T11:03:07+08:00
 categories:
   - how-i-do-things
   - llms
-tags:
-  - book
+tags: [book, llms, summarization, fact-checking, style-transfer]
 description: I use AI to transform my reading experience through summarizing, fact-checking, and re-authoring books into different styles. I explore applying these LLM techniques to everything from single sentences to comparisons across multiple volumes for deeper insight.
-keywords: [llms, summarization, fact-checking, style transfer, reading comprehension, book analysis]
 ---
 
 I'm using AI to read books by:

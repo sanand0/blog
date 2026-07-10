@@ -7,7 +7,7 @@ categories:
   - how-i-do-things
 wp_id: 3344
 description: "Tagging a thousand songs by year revealed an unexpected 1960s spike, highlighting how family influence and digitization shape personal music archives across decades."
-keywords: ["music library", "old songs", "Tamil songs", "Hindi songs", "nostalgia", "data analysis"]
+tags: [tamil-songs, nostalgia, data-analysis]
 ---
 
 ![Old songs in my music library](/blog/assets/image-72.webp)

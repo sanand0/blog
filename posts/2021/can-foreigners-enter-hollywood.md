@@ -6,7 +6,7 @@ categories:
   - data
 wp_id: 3222
 description: "Co-star network analysis suggests that while breaking into Hollywood is hard for foreigners, Hollywood is still more internationally connected than most major film industries."
-keywords: ["Hollywood", "foreign actors", "actor networks", "film industry", "data analysis", "global cinema"]
+tags: [hollywood, actor-networks, film-industry, data-analysis]
 ---
 
 ![Can foreigners enter Hollywood?](/blog/assets/image-68.webp)

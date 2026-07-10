@@ -6,7 +6,7 @@ categories:
   - funny
 wp_id: 484
 description: 'I found a hilarious account of dealing with hotel bandwidth hogs: identifying the P2P user via Netbios, calling their room pretending to be an RIAA investigator, and watching the network speed recover as they panic.'
-keywords: [p2p, bandwidth, hotel wifi, riaa, netbios, social engineering, ntop]
+tags: [p2p, bandwidth, riaa, social-engineering]
 ---
 
 Hilarious post on [how to stop filesharers from stealing hotel bandwidth](http://www.signal15.com/articles/2005/12/06/how-to-stop-filesharers-from-stealing-hotel-bandwidth).

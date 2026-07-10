@@ -6,7 +6,7 @@ categories:
   - quizzes
 wp_id: 322
 description: I put together a quiz on hit Tamil songs from 1975 to 1980, featuring background music from the Ilayaraja and MS Viswanathan era. Test your knowledge by guessing which movies these classic snippets are from.
-keywords: [ilayaraja, m.s. viswanathan, tamil cinema, film music, bgm quiz, 1970s]
+tags: [ilayaraja, tamil-cinema, film-music]
 ---
 
 <p>Ilayaraja scored Annakkili in 1975, and ruled Tamil film music for 15 years as <i>isai gnaani</i>. He took the mantle from MSV, who continued to score great melodies until 1980.</p>

@@ -5,7 +5,7 @@ categories:
   - funny
 wp_id: 189
 description: I found Guy Kawasaki's TiECon 2006 talk on The Art of the Start surprisingly funny. He uses a "top 10" format to help audiences track progress, proving that keynotes don't have to suck to be informative.
-keywords: [guy kawasaki, the art of the start, tiecon, public speaking, entrepreneurship, keynote]
+tags: [public-speaking, entrepreneurship]
 ---
 
 [Video of Guy Kawasaki's talk on The Art of the Start](http://video.google.com/videoplay?docid=-3755718939216161559) at TiECon 2006.

@@ -4,7 +4,7 @@ date: 2025-11-02T00:00:00+00:00
 categories:
   - til
 description: I explore Gen AI superpowers and challenges for coding agents, implement Wilson’s Lower Bound for ranking, and review Codex workflows. I also cover no-code APIs, text-to-image benchmarks, and GPT-5 image generation via OpenRouter.
-keywords: [ai coding agents, wilson lower bound, codex, tvmaze api, gen ai, openrouter, llm routing]
+tags: [ai-coding-agents, codex, generative-ai]
 ---
 
 This week, I learned:

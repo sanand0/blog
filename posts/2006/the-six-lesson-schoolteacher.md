@@ -7,7 +7,7 @@ categories:
   - my-best-links
 wp_id: 148
 description: I explore John Taylor Gatto’s scathing critique of compulsory schooling, which argues that classrooms primarily teach obedience, surveillance, and dependency. These six "lessons" suggest that modern education functions more like a twelve-year jail sentence than a place for learning.
-keywords: [john taylor gatto, compulsory education, schooling, hidden curriculum, pedagogy, educational reform]
+tags: [pedagogy, education-reform]
 ---
 
 [The Six-Lesson Schoolteacher](http://www.cantrip.org/gatto.html), by John Taylor Gatto, New York State Teacher of the Year, 1991. (The first part of it is sarcastic. This man is speaking passionately of things he despises in the education system.)

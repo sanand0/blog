@@ -4,7 +4,7 @@ date: 2026-03-17T08:32:35+05:30
 categories:
   - llms
 description: AI can act as an on-the-spot cognitive starter, helping people recover fluency and structure when they are unexpectedly asked to speak.
-keywords: [public speaking, interviews, AI assistance, cognition, PyConf, conversational support]
+tags: [public-speaking, interviews, cognition]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-17-kick-starting-a-pyconf-panelist-interview.avif) <!-- https://gemini.google.com/u/2/app/554e1e5b5b389ba9#399609ff64950e1e -->

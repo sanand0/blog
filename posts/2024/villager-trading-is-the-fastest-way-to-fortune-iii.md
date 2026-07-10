@@ -7,7 +7,7 @@ categories:
   - llms
 wp_id: 3679
 description: "LLM-assisted strategy comparison shows that in Minecraft, villager trading dominates fishing and enchanting as the fastest path to a Fortune III enchantment."
-keywords: [Minecraft, Fortune III, villager trading, o1-preview, game strategy, optimization]
+tags: [minecraft, optimization]
 ---
 
 ![Villager trading is the fastest way to Fortune III](/blog/assets/calvin-minecraft-fortune-3.webp)

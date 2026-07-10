@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 3556
 description: "DuckDB's growing support for embeddings, remote parquet reads, Python UDFs, and vector search makes it a surprisingly strong tool for modern similarity workflows."
-keywords: ["DuckDB", "embeddings", "vector search", "parquet", "Python UDF", "data engineering"]
+tags: [duckdb, embeddings, parquet, data-engineering]
 ---
 
 This article on [Using DuckDB for Embeddings and Vector Search](https://blog.brunk.io/posts/similarity-search-with-duckdb/) by Sören Brunk shows a number of DuckDB features I wasn't aware of.

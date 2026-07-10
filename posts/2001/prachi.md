@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1639
 description: I discovered that Prachi has launched her personal website at prachideuskar.net. This brief post documents her move to a custom domain name, capturing a small moment in the history of independent personal blogging and digital ownership.
-keywords: [prachi deuskar, personal domains, web history, blogging history, internet archiving]
+tags: [web-history, blogging-history, internet-archive]
 ---
 
 [Prachi](http://www.prachideuskar.net/) has a domain name of her own.

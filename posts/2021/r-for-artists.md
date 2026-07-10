@@ -3,7 +3,7 @@ date: "2021-10-13T08:19:06Z"
 categories:
   - linkedin
 description: "This is an appreciative nod to a beautifully structured data-visualization course in R designed specifically for artists and designers."
-keywords: ["R", "data visualization", "artists", "designers", "course", "LinkedIn"]
+tags: [r, data-visualization, linkedin]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6853967305077063681/
 ---
 

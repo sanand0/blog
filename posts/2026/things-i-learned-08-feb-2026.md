@@ -4,7 +4,7 @@ date: 2026-02-08T00:00:00+00:00
 categories:
   - til
 description: I explored decentralized collaboration using git send-email and compared Deno’s module caching to uv. I also learned about Grok's character limits, safer git pushes with force-with-lease, and building dependency-free search indexes using docfind's WASM engine.
-keywords: [git send-email, force-with-lease, deno, uv, grok, docfind, shell scripting, wasm]
+tags: [deno, uv, shell-scripting, wasm]
 ---
 
 This week, I learned:

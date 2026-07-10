@@ -4,7 +4,7 @@ date: 2024-02-11T00:00:00+00:00
 categories:
   - til
 description: I explored building minimal Docker images from scratch, fine-tuned Mistral using Axolotl and Deepspeed, and studied communication strategies for winning hearts. I also practiced D3.js data visualization techniques and integrated Bard with my Google Workspace tools.
-keywords: [docker, axolotl, deepspeed, d3.js, llm fine-tuning, observable, bard, communication]
+tags: [docker, communication]
 ---
 
 This week, I learned:

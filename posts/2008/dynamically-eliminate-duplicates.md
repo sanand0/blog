@@ -5,7 +5,7 @@ categories:
   - excel-tips
 wp_id: 37
 description: Use the UNIQUE function in Google Spreadsheets to create dynamic lists and pivot-style summaries that update automatically. This method is much simpler than Excel's static advanced filters or complex, manual array formulas.
-keywords: [google spreadsheets, excel, unique function, duplicates, array formulas, pivot tables]
+tags: [google-spreadsheets, excel, array-formulas]
 ---
 
 > This is a series on what [Google Spreadsheets](http://docs.google.com/) can do that Excel can't

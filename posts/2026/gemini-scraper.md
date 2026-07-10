@@ -6,7 +6,7 @@ categories:
 - coding
 classes: wrap-code
 description: A simple bookmarklet can make Gemini conversations portable by exporting entire chats as Markdown.
-keywords: [Gemini, scraper, bookmarklet, Markdown export, chat archiving, browser tools]
+tags: [gemini, bookmarklet, browser-tools]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7419241498464100352/
 ---
 

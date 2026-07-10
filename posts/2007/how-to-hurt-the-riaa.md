@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 124
 description: I propose hurting the RIAA by referencing its member labels—Sony, Universal, and Warner—directly in negative articles. This strategy leverages brand damage to pressure specific companies into leaving the organization to protect their own reputations.
-keywords: [riaa, copyright enforcement, music industry, brand management, sony, universal music group, warner music group]
+tags: [riaa, copyright-enforcement, music-industry, sony]
 ---
 
 [How to hurt the RIAA](http://www.headenergy.com/the-riaa-aka-sony-virgin-philips-warner-bros-etc.html).

@@ -5,7 +5,7 @@ categories:
   - business-realities
 wp_id: 394
 description: I identified how two logical policies—offering many CV choices and locking submitted candidates—unintentionally paralyzed a firm's staffing process. By locking 75% of the bench in "limbo," these rules created artificial resource scarcity.
-keywords: [staffing, resource management, bench time, workflow optimization, utilization, business policies]
+tags: [workflow-optimization]
 ---
 
 A software services firm once asked us, "How come we are not able to staff projects quickly, even though we have a lot of people on the bench?"

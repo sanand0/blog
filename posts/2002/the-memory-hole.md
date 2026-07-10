@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1009
 description: I found The Memory Hole, a project dedicated to preserving and disseminating endangered information, suppressed documents, and obscure records. It serves as a vital digital archive for public data that is otherwise difficult to access or at risk of being lost.
-keywords: [archiving, information freedom, suppressed documents, digital preservation, public records, the memory hole]
+tags: [archiving, digital-preservation, public-records]
 ---
 
 "[The Memory Hole](http://www.thememoryhole.org/) exists to preserve and spread material that is in danger of being lost, is hard to find, or is not widely known." [via RobotWisdom](http://www.robotwisdom.com)

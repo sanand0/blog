@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 883
 description: I visited the corridor near Robert Engle's office shortly before he and Clive Granger won the Nobel Prize in Economics for developing ARCH models, marking the closest I've ever been to a Nobel laureate.
-keywords: [robert engle, clive granger, nobel prize, econometrics, arch models, stern school of business]
 ---
 
 [![Stern corridor, near Engle's office](/blog/assets/flickr-stern-corridor-near-engles-office_24685633_o-jpg.webp)](/blog/assets/flickr-stern-corridor-near-engles-office_24685633_o-jpg.webp)

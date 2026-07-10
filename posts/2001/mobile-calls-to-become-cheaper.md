@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1977
 description: With cellular call rates expected to drop, I am finally considering purchasing my first mobile phone. This shift in the Indian telecom market makes owning a handset much more affordable and practical for me.
-keywords: [mobile telephony, telecommunications, india, cellular rates, times of india]
+tags: [telecommunications, india]
 ---
 
 Cellular [calls will become cheaper](http://www.timesofindia.com/090101/09busi22.htm). I might buy a phone.

@@ -7,7 +7,7 @@ categories:
   - how-i-do-things
 wp_id: 2535
 description: I found a powerful visualization method in R where the default plot function generates a matrix of scatterplots. I'll use these small multiples as my first step for exploring new datasets to visualize correlations and distributions instantly.
-keywords: [r, scatterplots, small multiples, data visualization, exploratory data analysis, r programming]
+tags: [r, data-visualization, programming]
 ---
 
 I was browsing through [Beautiful Data](http://books.google.co.uk/books?id=zxNglqU1FKgC), and stumbled upon this gem of a visualisation.

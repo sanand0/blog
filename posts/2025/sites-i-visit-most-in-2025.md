@@ -3,7 +3,7 @@ date: "2025-10-02T00:00:00Z"
 categories:
   - linkedin
 description: I use ChatGPT as my primary knowledge source, Google AI Studio for transcription, and Squoosh for image compression. My most visited sites range from internal LLM gateways to Marp-based slide decks for my weekly AI talks.
-keywords: [chatgpt, google ai studio, squoosh, marp, webp, llm foundry]
+tags: [chatgpt, google-ai-studio, marp]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7379742000738312192/
 ---
 

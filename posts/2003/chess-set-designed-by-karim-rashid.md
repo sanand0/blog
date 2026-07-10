@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 875
 description: I found a chess set designed by Karim Rashid that is identical to a single piece I photographed recently. It confirms the origin of the minimalist set I encountered and highlights his distinctive industrial design style.
-keywords: [karim rashid, chess set, industrial design, minimalist, product design]
+tags: [industrial-design, product-design]
 ---
 
 [Chess Set designed by Karim Rashid](http://store.thetech.org/chessetdesby.html), next to the piece I photographed a couple of months ago. They're identical.

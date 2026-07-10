@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1905
 description: I analyzed layoff data and found that e-commerce leads in cuts, largely driven by cost-cutting. My calculations show layoffs increase when the NASDAQ or S&P 500 fall, though they oddly decrease when the Dow Jones drops.
-keywords: [layoffs, e-commerce, nasdaq, s&p 500, dow jones, cost-cutting]
+tags: [layoffs, e-commerce, nasdaq]
 ---
 
 I did some quick layoff calculations. It appears that

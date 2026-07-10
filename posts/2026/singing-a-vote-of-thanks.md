@@ -4,7 +4,7 @@ date: 2026-04-09T07:56:28+05:30
 categories:
   - llms
 description: Music-generation tools can personalize ceremonial communication in surprisingly effective ways, turning routine acknowledgments into memorable experiences.
-keywords: [Lyria, Gemini, AI music, ceremonies, personalization, creative AI]
+tags: [gemini, personalization]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7447869470989111296/
 ---
 

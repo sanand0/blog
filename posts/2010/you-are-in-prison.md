@@ -6,7 +6,7 @@ categories:
   - business-realities
 wp_id: 2518
 description: I compare Indian IT service firms to prisons where professionals endure physical searches, strict clock-ins, and restricted internet access. I share my survey results on corporate web freedom and discuss the industry's pervasive lack of trust.
-keywords: [indian it services, web freedom, workplace surveillance, corporate culture, internet censorship, professional trust]
+tags: [corporate-culture, internet-censorship]
 ---
 
 (I had intended to write this post sarcastically, a bit like my [web freedom survey](/blog/test-post/). But sarcasm’s confusing to read. So I’ll just be straight and mild.)

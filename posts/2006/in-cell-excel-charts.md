@@ -5,7 +5,7 @@ categories:
   - excel-tips
 wp_id: 261
 description: I created in-cell Excel charts and staffing plans using text formulas and conditional formatting instead of standard chart tools. This method aligns data perfectly by using thin cells and simple logic to visualize timelines and bars.
-keywords: [excel, conditional formatting, data visualization, staffing plan, gantt charts, formulas]
+tags: [excel, conditional-formatting, data-visualization, formulas]
 ---
 
 Juice analytics has some [Excel graphing](http://www.juiceanalytics.com/weblog/index.php?tag=excel) tips. You can make charts like below without using charts, using just text.

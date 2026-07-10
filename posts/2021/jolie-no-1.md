@@ -7,7 +7,7 @@ categories:
   - how-i-do-things
 wp_id: 3087
 description: "A hackathon team turned actor-network data into a playful mini-movie by asking how Govinda might plausibly connect to Angelina Jolie through the shortest chain of co-stars."
-keywords: ["Jolie No. 1", "actor networks", "Govinda", "Angelina Jolie", "data storytelling", "hackathon"]
+tags: [actor-networks, data-storytelling]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6770898199180931072/
 ---
 

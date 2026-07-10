@@ -3,7 +3,7 @@ date: "2021-12-21T13:39:09Z"
 categories:
   - linkedin
 description: "This short teaser frames Hollywood not as easy for foreigners, but as one of the least closed major film ecosystems compared with other national industries."
-keywords: ["Hollywood", "foreign actors", "film networks", "data analysis", "LinkedIn", "cinema"]
+tags: [hollywood, data-analysis, linkedin, cinema]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6879052612583464960/
 ---
 

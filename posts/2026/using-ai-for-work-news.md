@@ -5,7 +5,7 @@ categories:
 - business-realities
 - llms
 description: Workflow automation can turn scattered organizational signals into useful recurring newsletters that keep distributed teams aware of internal innovation.
-keywords: [work newsletters, organizational knowledge, Google Workspace Studio, automation, internal communication, AI]
+tags: [automation, ai]
 ---
 
 This week, [Namit](https://www.linkedin.com/in/namit-sureka-43ab89) and I met a Straive team that operates from a client office. One team member asked:

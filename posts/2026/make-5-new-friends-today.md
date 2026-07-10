@@ -4,7 +4,7 @@ date: 2026-06-13T21:04:54+05:30
 categories:
   - education
 description: I told IITM graduates that grades and jobs are depreciating assets. Focus instead on friendships—they are appreciating assets that grow more valuable over time. Make new friends today by simply talking to the people sitting right next to you.
-keywords: [iitm, networking, career advice, appreciating assets, social capital, relationship building]
+tags: [iitm, networking, career-advice]
 ---
 
 Here's my address to the graduating class the [IITM BS Program](https://study.iitm.ac.in/) today:

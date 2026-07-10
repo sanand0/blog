@@ -4,7 +4,7 @@ date: 2025-11-23T00:00:00+00:00
 categories:
   - til
 description: I discovered powerful CLI tools like vd and ugrep, learned why native SDKs currently beat abstractions for AI agents, and used Claude to fix Ubuntu bugs. I also noted that shortening LLM output matters more than input for latency.
-keywords: [visidata, ugrep, ai agents, llm latency, ubuntu troubleshooting, pandoc]
+tags: [ai-agents, pandoc]
 ---
 
 This week, I learned:

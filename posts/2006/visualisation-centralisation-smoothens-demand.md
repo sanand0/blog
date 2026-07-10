@@ -5,7 +5,7 @@ categories:
   - visualisation
 wp_id: 212
 description: I used bank data to show how centralizing operations reduces variance and smoothens demand. By visualizing load across hubs rather than using formulas, I made the mathematical benefits of consolidation instantly intuitive and easy to grasp.
-keywords: [centralization, variance, demand smoothing, data visualization, operations management, statistical variance]
+tags: [data-visualization]
 ---
 
 Often, presentations and documents make complex points. It's useful to convey these as a simple visual. It's worthwhile to make the effort and **do a simple visual for **every** slide or paragraph**.

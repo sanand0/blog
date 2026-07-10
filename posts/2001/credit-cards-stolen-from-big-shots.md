@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1896
 description: Review historical reports on significant hacking incidents, including the high-profile theft of credit card information from prominent figures such as Bill Gates, George Soros, and Yoshiro Mori.
-keywords: [cybercrime, credit card theft, bill gates, george soros, hacking history, yoshiro mori]
+tags: [cybercrime, bill-gates]
 ---
 
 The [greatest hacks](http://www.wired.com/news/technology/0,1282,41630,00.html) ever. And now, [credit cards stolen](http://www.independent.co.uk/news/Digital/Update/2001-02/cyber050201.shtml) from Bill Gates, George Soros and Yoshiro Mori.

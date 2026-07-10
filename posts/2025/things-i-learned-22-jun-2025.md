@@ -4,7 +4,7 @@ date: 2025-06-22T00:00:00+00:00
 categories:
   - til
 description: I explored multi-agent architectures, refined my AI coding workflows using MCP and Cursor, and experimented with GPT 4.1 prompting. I also learned handy uv and jq tricks while investigating application-specific LLM evaluations.
-keywords: [multi-agent systems, vibe-coding, mcp, gpt-4.1, pydantic-ai, llm evals, uv, css attr]
+tags: [multi-agent-systems, vibe-coding, mcp, llm-evals, uv]
 ---
 
 This week, I learned:

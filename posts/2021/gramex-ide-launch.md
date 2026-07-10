@@ -3,7 +3,7 @@ date: "2021-04-14T11:14:03Z"
 categories:
   - linkedin
 description: "The launch of Gramex IDE marks a low-code push to make advanced data visualization creation accessible to people who would otherwise need to write code."
-keywords: ["Gramex IDE", "low code", "data visualization", "product launch", "democratization", "LinkedIn"]
+tags: [data-visualization, product-launch, linkedin]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6788056742207995904/
 ---
 

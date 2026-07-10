@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 2118
 description: I found the Kleinman report to be an interesting monthly publication covering web developments and internet trends. It serves as a useful resource for tracking the early evolution of the web and digital media happenings.
-keywords: [kleinman report, web development, internet trends, digital media, web history, online publishing]
+tags: [web-development, digital-media, web-history, online-publishing]
 ---
 
 The [Kleinman report](http://www.kleinman.com/kreport/index.html) is another interesting (monthly) report on web happenings.

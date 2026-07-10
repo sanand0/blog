@@ -3,7 +3,7 @@ date: "2024-10-20T07:32:39Z"
 categories:
   - linkedin
 description: "This is a short pointer to a webinar follow-up showing how AI tools can summarize and repurpose recorded educational sessions."
-keywords: [webinar, AI in education, summarization, talk processing, LinkedIn, tooling]
+tags: [webinar, ai-in-education, summarization, linkedin, tooling]
 ---
 
 Arun Tangirala and I webinared on "AI in Education" yesterday."

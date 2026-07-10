@@ -3,7 +3,7 @@ title: Post-mortem of AI coding session
 date: 2026-03-23T07:24:09+05:30
 classes: wrap-code
 description: I run blameless post-mortems on AI coding sessions using this prompt to document successes, analyze failures, and identify root causes. This process helps me refine environment settings and prompt structures to prevent recurring errors.
-keywords: [ai coding, post-mortem, prompt engineering, root cause analysis, workflow optimization, llm feedback]
+tags: [ai-coding, prompt-engineering, workflow-optimization]
 ---
 
 ```markdown

@@ -5,7 +5,7 @@ categories:
   - chat-transcripts
 wp_id: 1750
 description: I document a brief, disjointed chat transcript from 2001. I try to decipher cryptic messages from a mysterious user, sonisha_jd, and suspect I might know their identity despite the sudden and unprovoked termination of our talk.
-keywords: [chat transcript, yahoo chat, online identity, personal blog, digital interaction, 2000s internet]
+tags: [chat-transcript, yahoo-chat, online-identity, personal-blog]
 ---
 
 **anand\_m26blr**: Hi Sonisha! How're you?\

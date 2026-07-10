@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 1622
 description: I suggest trying the StarOffice 6.0 beta as a free alternative to Microsoft Office. It serves as a cost-effective productivity suite for users looking to move away from expensive proprietary software options.
-keywords: [staroffice, office suites, sun microsystems, microsoft office alternative, beta software]
 ---
 
 Download [StarOffice 6.0b](http://www.sun.com/software/star/staroffice/6.0beta/) if you're looking for an alternative to Microsoft Office that's free (at least the beta is).

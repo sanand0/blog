@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1976
 description: Apple is launching Mac OS X, a major update built on a UNIX foundation. This transition brings advanced stability, memory management, and multitasking to the platform, replacing the aging classic Mac OS architecture.
-keywords: [mac os x, apple, unix, operating system, darwin, aqua]
+tags: [apple, unix, operating-systems]
 ---
 
 [Apple releases a UNIX-based operating system](http://dailynews.yahoo.com/h/nm/20010109/bs/tech_apple_dc_4.html) -- OS X.

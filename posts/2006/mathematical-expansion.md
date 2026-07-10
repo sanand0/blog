@@ -5,7 +5,6 @@ categories:
   - funny
 wp_id: 259
 description: I found a humorous take on mathematical expansion where a student interprets the instruction to 'expand' an algebraic expression by literally writing the terms further apart on the page instead of performing the binomial expansion.
-keywords: [algebra, math humor, mathematical expansion, binomial theorem, student joke]
 ---
 
 [![Mathematical expansion](/blog/assets/flickr-mathematical-expansion_219216879_o-jpg.webp)](/blog/assets/flickr-mathematical-expansion_219216879_o-jpg.webp)

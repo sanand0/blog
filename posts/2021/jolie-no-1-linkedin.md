@@ -3,7 +3,7 @@ date: "2021-02-26T02:52:07Z"
 categories:
   - linkedin
 description: "This teaser introduces a playful movie-network story in which Govinda supposedly reaches Angelina Jolie through surprisingly short paths in actor-collaboration graphs."
-keywords: ["Jolie No. 1", "Govinda", "Angelina Jolie", "actor networks", "data story", "LinkedIn"]
+tags: [actor-networks, data-stories, linkedin]
 ---
 
 Jolie No. 1

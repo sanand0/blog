@@ -6,7 +6,6 @@ categories:
   - education
 wp_id: 3725
 description: "Even when an exam is explicitly hackable and students are told so, very few exploit it, suggesting that trust, time pressure, norms, and risk culture matter more than raw technical possibility."
-keywords: [exam hacking, student behavior, risk culture, DevTools, education experiments, cheating]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7266397647157026816/
 ---
 

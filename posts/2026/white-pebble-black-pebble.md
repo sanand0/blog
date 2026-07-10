@@ -4,7 +4,7 @@ date: '2026-03-04T22:23:29+08:00'
 categories:
 - how-i-do-things
 description: A no-win situation can sometimes be transformed into a no-lose one simply by reframing the game.
-keywords: [reframing, problem solving, strategy, negotiation, decision making, stories]
+tags: [problem-solving, strategy, decision-making]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7434971051278708736/
 ---
 

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 769
 description: I discovered Simon Høegsberg's photography project that captures portraits of strangers in Copenhagen and New York alongside their immediate thoughts, creating a unique documentary record of internal monologues during chance encounters on the street.
-keywords: [simon høegsberg, street photography, portraits, the thought project, documentary photography, internal monologues]
+tags: [documentary-photography]
 ---
 
 [The Thought Project](http://www.simonhoegsberg.com/)

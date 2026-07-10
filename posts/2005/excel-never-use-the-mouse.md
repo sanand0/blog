@@ -5,7 +5,7 @@ categories:
   - excel-tips
 wp_id: 513
 description: I share four rules for building Excel models faster, focusing on why you should never use a mouse. I detail essential shortcuts like F2, F4, and Alt-menu navigation that can make your workflow ten times faster.
-keywords: [excel, keyboard shortcuts, financial modeling, alt shortcuts, productivity, data automation]
+tags: [excel, keyboard-shortcuts, financial-modeling, productivity]
 ---
 
 I spend a lot of time building models on Excel. I have 4 rules that help me get things done fast.

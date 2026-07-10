@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 227
 description: Understand how Linux file systems prevent fragmentation by intelligently spacing files across the disk. This proactive allocation strategy leaves room for expansion, ensuring high performance over time without the need for manual defragmentation tools.
-keywords: [linux, file systems, defragmentation, ext3, disk management, fragmentation, ext4]
+tags: [linux, risk-management]
 ---
 
 [Why Linux does not need defragmenting](http://geekblog.oneandoneis2.org/index.php/2006/08/17/why_doesn_t_linux_need_defragmenting) (via Google Operating System's article on [fast disk defragmenters](http://googlesystem.blogspot.com/2006/09/fast-disk-defragmenters.html).)

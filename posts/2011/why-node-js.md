@@ -6,7 +6,7 @@ categories:
   - coding
 wp_id: 2613
 description: I migrated from Python and Tornado to Node.js to simplify corporate recruitment and leverage its asynchronous performance. Node.js offers superior execution speed over Rhino, stable event-driven architecture similar to Nginx, and the ability to share codebases.
-keywords: [node.js, tornado, asynchronous programming, event-driven architecture, rhino, server-side javascript, python]
+tags: [node-js, python]
 ---
 
 I’ve moved from [Python](http://www.python.org/) to Javascript on the server side – specifically, [Tornado](http://www.tornadoweb.org/) to [Node.js](http://nodejs.org/).

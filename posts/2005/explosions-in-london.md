@@ -5,7 +5,7 @@ categories:
   - london-2005
 wp_id: 616
 description: I posted a brief status update during the July 7, 2005 London bombings to confirm my safety as reports of explosions emerged. The discussion quickly shifted to community members sharing resources for free e-books and BitTorrent clients.
-keywords: [london bombings, 7/7 attacks, july 2005, internet history, e-books, bittorrent]
+tags: [london-bombings, 7-7-attacks, internet-history, e-books, bittorrent]
 ---
 
 There are [explosions](http://news.google.com/?ncl=http://www.latimes.com/news/nationworld/world/wire/sns-ap-britain-explosion,1,4413338.story%3Fcoll%3Dsns-ap-world-headlines&hl=en&scoring=d) all over London. We are fine.

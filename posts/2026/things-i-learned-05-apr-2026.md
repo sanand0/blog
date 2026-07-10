@@ -4,7 +4,7 @@ date: 2026-04-05T00:00:00+00:00
 categories:
   - til
 description: I discovered useful Ubuntu window management shortcuts, compared jq and jaq for JSON formatting, and learned time-saving shell tricks. I also gained a clearer understanding of Diffie Hellman key exchange and observed GitHub Copilot's usage reset behavior.
-keywords: [ubuntu, jq, bash, diffie hellman, github copilot, linux]
+tags: [ubuntu, jq, bash, github-copilot, linux]
 ---
 
 This week, I learned:

@@ -5,7 +5,7 @@ categories:
   - education
   - llms
 description: The project was not just an assignment but a live experiment in how students perform on analytics versus design tasks in an AI era, revealing both strengths and gaps.
-keywords: [AI in education, project-based learning, design skills, analytics, student evaluation, experimentation]
+tags: [ai-in-education, analytics, experimentation]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7446017785836720128/
 ---
 

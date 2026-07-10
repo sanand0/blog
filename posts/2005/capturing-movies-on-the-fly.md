@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 497
 description: I shared a guide for capturing screen movies on the fly. While SnapZ is a popular Mac choice, I also discussed using VirtualDub for Windows video capture and compression based on community feedback.
-keywords: [screen recording, video capture, snapz, virtualdub, video compression, mac software, windows software]
+tags: [screen-recording, video-compression, windows-software]
 ---
 
 [Capturing movies on the fly](http://www.michaelhyatt.com/workingsmart/2005/11/capturing_movie.html).

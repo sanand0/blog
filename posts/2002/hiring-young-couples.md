@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1255
 description: I examine Sony Ericsson’s clever marketing tactic of hiring young couples to ask strangers in bars to take their photo. It's a smart way to get people to physically interact with and test their new camera phones.
-keywords: [sony ericsson, mobile phones, guerilla marketing, product promotion, camera phones, consumer engagement]
+tags: [mobile-phones]
 ---
 
 This is a smart one. Sony Ericsson makes these mobile phones with cameras. To promote them, they've [hired young couples](http://news.com.com/2100-1033-947705.html?tag=fd_top), who'll go to bars, etc and ask people to take a snap of them. If I were asked, I'd fiddle with the camera/phone a bit.

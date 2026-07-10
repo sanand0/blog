@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 793
 description: I examine Malcolm Gladwell’s analysis of US drug pricing and patent tactics like AstraZeneca’s chemical reengineering of Prilosec into Nexium. The article challenges the assumption that the domestic pharmaceutical industry is universally overpriced.
-keywords: [drug pricing, pharmaceuticals, astrazeneca, patents, malcolm gladwell, healthcare economics]
+tags: [patents, malcolm-gladwell]
 ---
 
 Malcolm Gladwell on [drug prices in the US](http://newyorker.com/critics/atlarge/?041025crat_atlarge).

@@ -5,7 +5,7 @@ categories:
   - open-source
 wp_id: 2524
 description: I created a short video guide on installing XAMPP for Windows to simplify setting up open-source software. Just download the installer, accept all defaults, and place your web applications in the htdocs folder.
-keywords: [xampp, apache, mysql, php, windows, htdocs]
+tags: [xampp, apache, mysql, php, windows]
 ---
 
 <p>I’ve been going around setting up open source software a fair bit recently. To minimise the pain of explaining it, I’m putting together a short videos that explain the process.</p> <p>Here’s the first, on <a href="www.apachefriends.org/en/xampp-windows.html">XAMPP</a>, which is a starting point for most open source applications. It bundles Apache (web server), MySQL (database), Perl and PHP.</p> <p>To install it, search and download “XAMPP for Windows”, and press enter for every question. Then install your application under C:\xampp\htdocs. That’s it.</p> <p><object width="600" height="475"><param name="movie" value="http://www.youtube.com/v/cT0LwR1WmM8&amp;hl=en_GB&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/cT0LwR1WmM8&amp;hl=en_GB&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="600" height="475"></embed></object></p>

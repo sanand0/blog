@@ -6,7 +6,7 @@ categories:
   - funny
 wp_id: 557
 description: I shared a classic IRC chat log where a user is tricked into revealing their password, 'hunter2,' believing the system automatically masks it with asterisks. It remains a legendary example of internet culture and social engineering humor.
-keywords: [irc, hunter2, password security, social engineering, bash.org, internet humor]
+tags: [social-engineering, internet-humor]
 ---
 
 A hilarious [chat on IRC about passwords](http://www.bash.org/?244321). More at [QDB](http://www.bash.org/?top). [via Dhar](http://sumitdhar.blogspot.com/2005/09/best-quotesconversations-from-irc.html)

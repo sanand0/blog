@@ -5,7 +5,7 @@ categories:
   - llms
   - coding
 description: I explore how OpenAgents baits AI bounty hunters into leaking system prompts and environment data. Observe the evolution of autonomous agents as they learn to detect fake bounties, mask their runtimes, and navigate a bizarre ecosystem of bot-driven interactions.
-keywords: [openagents, prompt injection, ai agents, github bounties, reverse turing test, autonomous agents, data leakage]
+tags: [prompt-injection, ai-agents, turing-test, autonomous-agents]
 ---
 
 ![](https://files.s-anand.net/images/2026-06-25-bounty-hunting-agent-ecosystem-2.avif)

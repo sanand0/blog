@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 806
 description: I curated a collection of resources exploring complexity science and networked systems. The links cover the twelve principles of the networked world, the nature of complex adaptive systems, and speculative 'what if' scenarios in artificial intelligence.
-keywords: [complexity science, complex adaptive systems, networked economy, artificial intelligence, systems theory]
+tags: [ai]
 ---
 
 Some interesting material on complexity that I found when hunting through the web.

@@ -5,7 +5,7 @@ categories:
   - mumbai
 wp_id: 1796
 description: I shared Pav Bhaji and Bhel Puri with Saurabh at Vittal, a small but excellent eatery in Mumbai. We then caught a screening of Miss Congeniality at the large, balcony-less New Excelsior theatre.
-keywords: [mumbai, vittal, pav bhaji, bhel puri, new excelsior, miss congeniality]
+tags: [mumbai]
 ---
 
 Saurabh and I had **Pav Bhaji** and **Bhel Puri** at **Vittal**. The place was a pretty small outfit, like the Kamaths or the Sagars. But the dishes were among the best that I've ever had. Not expensive -- we finished at Rs. 75 between us, including an extra pav bun.

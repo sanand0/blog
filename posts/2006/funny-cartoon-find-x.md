@@ -5,7 +5,7 @@ categories:
   - funny
 wp_id: 325
 description: I shared a classic math cartoon where a student literally points to the letter 'x' on a geometry diagram instead of solving for its value. It highlights how literal interpretations of exam instructions can be hilariously unexpected.
-keywords: [math humor, find x, geometry, cartoon, literal interpretation, jokes]
+tags: [jokes]
 ---
 
 [![Find X: Often, the simplest answer is the best answer](/blog/assets/flickr-find-x-often-the-simplest-answer-is-the-best-answer_143275911_o-gif.webp)](/blog/assets/flickr-find-x-often-the-simplest-answer-is-the-best-answer_143275911_o-gif.webp)

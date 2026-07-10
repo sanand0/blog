@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 777
 description: I'm tracking the early launch of Google Video, noting its potential to rival IMDb and search movie scripts once more content is added, though the service currently lacks relevance for mainstream users.
-keywords: [google video, imdb, video search, search engines, movie scripts, google weblog]
+tags: [google-video, imdb, search-engines, movie-scripts]
 ---
 
 [Google video](http://video.google.com/). Not very relevant yet, but probably will be, once movies are included. Could rival [IMDb](http://www.imdb.com/), maybe search movie scripts also.

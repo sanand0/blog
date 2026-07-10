@@ -6,7 +6,7 @@ categories:
   - links
 wp_id: 1049
 description: I found Omar Zabir's impressive web-based Windows XP simulation, which allows users to experience the OS interface and features through a browser. It is a clever piece of early 2000s programming that provides a functional desktop tour.
-keywords: [windows xp, simulation, web interface, omar zabir, os emulation]
+tags: [windows-xp, simulation]
 ---
 
 [Omar Zabir's portal](http://www.oazabir.com/). Let's you use Windows XP without having Windows XP. Well, actually, it's just a tour of Windows XP features, but you pretty much get to "use" XP. Quite a piece of programming! [via MetaFilter](http://www.metafilter.com/mefi/21580)

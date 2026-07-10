@@ -6,7 +6,7 @@ categories:
   - links
 wp_id: 3673
 description: "GPA appears more useful than JEE rank for broad recruiting because top entrance ranks predict a floor but not a ceiling, while strong GPAs appear across the rank spectrum."
-keywords: [recruiting, JEE rank, GPA, IIT, selection criteria, education analytics]
+tags: [iit, education]
 ---
 
 ![How to recruit based on IIT JEE Rank vs GPA](/blog/assets/iit-jee-rank-vs-gpa.webp)

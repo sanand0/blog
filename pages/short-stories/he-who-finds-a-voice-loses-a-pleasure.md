@@ -3,7 +3,7 @@ title: He Who Finds a Voice Loses A Pleasure
 date: "2009-02-19T15:39:08Z"
 wp_id: 6
 description: I share a humorous look back at my adolescent struggle with a high-pitched voice. After years of being called "madam" on the phone, my voice finally broke, only for callers to begin mistaking me for my father.
-keywords: [puberty, voice change, adolescence, personal essay, humor, telephone]
+tags: [humor]
 ---
 
 "Thank you, madam", and the phone went dead. Thirteen, I counted mentally. This was the thirteenth time I was called "madam" (and also my fourteenth telephone call to an unknown person). Every one of my numerous and heartbreakingly piteous appeals to my father, the telephone department and the Heavens above to change either my voice or the telephone were in vain. Often I wondered if it could be an International Conspiracy to insult me. Madam, indeed! Let me call one of those sweet voiced females "Sir" even once, and they would choke me with my own windpipe. But I (my noble, peace-loving and holy self), would do nothing more than moan over every millisecond of it. But worse was to come!

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1094
 description: Following Lawrence Lessig's Supreme Court hearing, the US Copyright Office is seeking public opinion on potential exceptions to the Digital Millennium Copyright Act, marking a significant step toward more rational digital copyright policy.
-keywords: [dmca, copyright law, us copyright office, lawrence lessig, digital rights, public policy]
+tags: [dmca, copyright-law, digital-rights]
 ---
 
 After Lessig's hearing at the Supreme Court, here's the [next step towards rationality on copyrights](http://zdnet.com.com/2100-1106-961783.html). The US Copyright Office is asking for public opinion on what could be considered an exception to the Digital Millenium Copyright Act. [via Scripting News](http://www.scriptingnews.com)

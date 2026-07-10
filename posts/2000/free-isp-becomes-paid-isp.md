@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 2014
 description: Jain Internet’s shift from a free to a paid model underscores the reality that selling services for less than they cost is unsustainable. Expect more ISPs to follow as they abandon the free-access strategy.
-keywords: [jain internet, isp, business models, internet access, revenue models, sustainability]
+tags: [isp, business-models, revenue-models]
 ---
 
 Jain Internet is the first to [move from a free ISP to a paid one](http://www.timesofindia.com/today/22busi20.htm). How long before the rest follow? LESSONS: It's NOT okay to sell products for less than what they cost ( [USA Today](http://www.usatoday.com/life/cyber/invest/ina394.htm)).

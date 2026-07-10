@@ -4,7 +4,7 @@ date: '2026-03-10T12:17:47+08:00'
 categories:
 - llms
 description: Prototype iterations should improve not just the interface but the narrative around it, because better storytelling can make exploratory tools far more understandable and useful.
-keywords: [prototyping, scrollytelling, data stories, vibe coding, UX narrative, visualization]
+tags: [prototyping, data-stories, vibe-coding, data-visualization]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7437312601035927552/
 ---
 

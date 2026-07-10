@@ -7,7 +7,7 @@ categories:
   - tools
 wp_id: 29
 description: I built a crowdsourced Dilbert search engine using Google AppEngine to make comic archives searchable by text. I invited readers to help transcribe strips, creating an exportable database for fans to find specific quotes and themes.
-keywords: [dilbert, google appengine, comic search, crowdsourcing, transcription, search engine]
+tags: [dilbert, google-appengine, comic-search, crowdsourcing, transcription, search-engines]
 ---
 
 **UPDATE: 13 Jan 2026**: [Scott Adams](https://en.wikipedia.org/wiki/Scott_Adams) passed away. RIP.

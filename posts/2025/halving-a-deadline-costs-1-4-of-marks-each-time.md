@@ -7,7 +7,7 @@ categories:
   - education
 wp_id: 3929
 description: "Later submissions correlate with lower scores in a smooth logarithmic pattern, suggesting that even pretending a deadline is earlier may be strategically useful."
-keywords: [deadlines, submission timing, scores, learning behavior, education analytics, time management]
+tags: [education, time-management]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7293881055843954688/
 ---
 

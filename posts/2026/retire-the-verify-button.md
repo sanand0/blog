@@ -4,7 +4,7 @@ date: 2026-05-30T16:25:35+08:00
 categories:
   - llms
 description: I explain why manual verification of LLM outputs doesn't scale. Instead of 100% inspection, I apply manufacturing principles like statistical sampling, stratified risk management, and model-based augmentation to build quality directly into the production pipeline.
-keywords: [statistical process control, w. edwards deming, llm evaluation, quality assurance, automated verification, sampling, model monitoring]
+tags: [llm-evaluation]
 ---
 
 ![](https://files.s-anand.net/images/2026-05-30-retire-the-verify-button.avif)

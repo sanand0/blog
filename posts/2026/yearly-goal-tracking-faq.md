@@ -4,7 +4,7 @@ date: 2026-01-08T12:35:37+08:00
 categories:
   - how-i-do-things
 description: I share my process for tracking yearly goals through public email updates. I answer questions on handling "soft" relationship goals, using public commitment for discipline, and why I prefer automatic tracking via Google Fit and GitHub over manual logs.
-keywords: [goal tracking, public commitment, habit formation, accountability, google fit, personal growth]
+tags: [habit-formation, personal-growth]
 ---
 
 ![](https://files.s-anand.net/images/2026-01-08-yearly-goal-tracking-faq.webp)

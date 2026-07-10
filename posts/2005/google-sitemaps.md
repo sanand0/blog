@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 643
 description: Google Sitemaps is an experimental tool to help crawlers index sites faster. I've highlighted Google’s official documentation alongside community discussions on alternate proposals and specific implementations for platforms like Movable Type.
-keywords: [google sitemaps, seo, web crawling, search engines, indexing, movable type]
+tags: [seo, web-crawling, search-engines, indexing]
 ---
 
 [Google Sitemaps](https://www.google.com/webmasters/sitemaps/).

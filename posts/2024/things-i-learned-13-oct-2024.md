@@ -4,7 +4,7 @@ date: 2024-10-13T00:00:00+00:00
 categories:
   - til
 description: I discovered how LLM planning time rivals massive parameter increases, compared text-to-speech pricing, and tested DuckDB's function chaining. I also explored Deno 2's Node compatibility, Marimo notebooks, and efficient Python Docker builds using uv.
-keywords: [duckdb, deno, marimo, text-to-speech, llm, uv, docker, pypi]
+tags: [duckdb, deno, marimo, text-to-speech, llms, uv, docker]
 ---
 
 This week, I learned:

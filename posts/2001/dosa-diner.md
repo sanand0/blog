@@ -5,7 +5,7 @@ categories:
   - mumbai
 wp_id: 1799
 description: I visited Dosa Diner in Mumbai, enjoying idiappam and rava dosa for about Rs. 300. While discussing entropy and free will, I found the restaurant's former-discotheque green tunnel entrance more memorable than the varied South Indian menu.
-keywords: [mumbai, dosa diner, south indian cuisine, idiappam, rava dosa, sheera]
+tags: [mumbai]
 ---
 
 Sumit & I had dinner at **Dosa Diner**. I was fairly absorbed in a discussion relating entropy, evolution and free will, hence did not pay much attention to the place or the menu. But what remains fresh in my mind is the long green tunnel you walk through to get to the place. It used to be a discotheque earlier, and the tunnel had been painted black completely. At least its brighter now, but green is almost as discotheque as black if you ask me. But then, at least I don't wear black nailpolish (as opposed to green ;-)

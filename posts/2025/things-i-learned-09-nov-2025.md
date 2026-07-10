@@ -4,7 +4,7 @@ date: 2025-11-09T00:00:00+00:00
 categories:
   - til
 description: I explored building community influence, Android data export for automation, and advanced coding agent tools like Claude Code and Gemini CLI. I also investigated fine-tuning ROI and mapped out OpenAI TTS costs and usage APIs.
-keywords: [til, llm-friendly, claude code, gemini cli, android automation, fine-tuning, openai tts, pmtiles]
+tags: [claude-code, gemini-cli, fine-tuning]
 ---
 
 This week, I learned:

@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1615
 description: This resource provides a compiled list of hoaxes, urban legends, and misinformation that emerged following the September 11 attacks, helping readers distinguish between factual events and viral fabrications or scares.
-keywords: [september 11, hoaxes, misinformation, urban legends, skepticism, csicop]
+tags: [september-11, hoaxes, misinformation, urban-legends, skepticism]
 ---
 
 A [list of hoaxes](http://www.csicop.org/hoaxwatch/) following Sep 11.

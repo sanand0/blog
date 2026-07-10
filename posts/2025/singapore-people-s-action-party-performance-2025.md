@@ -3,7 +3,7 @@ date: "2025-04-23T00:20:15Z"
 categories:
   - linkedin
 description: "LLMs make it practical for non-specialists to explore long-run election trends and move directly from scraping effort to interpretation and implication."
-keywords: [election analysis, Singapore, PAP, data journalism, LLMs, politics]
+tags: [singapore, data-journalism, llms]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7320603555780784130/
 ---
 

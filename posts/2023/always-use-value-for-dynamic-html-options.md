@@ -6,7 +6,7 @@ categories:
   - coding
 wp_id: 3447
 description: "HTML option text silently normalizes whitespace, so dynamic selects should always set explicit value attributes even when the displayed label and stored value look identical."
-keywords: ["HTML", "select options", "whitespace", "web development", "debugging", "forms"]
+tags: [html, web-development, debugging]
 ---
 
 ![Always use value= for dynamic HTML options](/blog/assets/html-code.webp)

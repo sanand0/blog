@@ -6,7 +6,7 @@ categories:
   - links
 wp_id: 4169
 description: "Using one coding model to refine prompts for another improves clarity, reduces review effort, and increases the chance of getting a usable one-shot result."
-keywords: ["meta prompting", "AI coding", "prompt refinement", "Codex", "Claude Code", "developer workflow"]
+tags: [ai-coding, codex, claude-code, developer-workflow]
 ---
 
 I'm "meta AI coding" -- using an AI code editor to create the prompt for an AI code editor.

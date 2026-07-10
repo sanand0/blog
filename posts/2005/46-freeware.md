@@ -5,7 +5,7 @@ categories:
   - my-best-links
 wp_id: 740
 description: I highlight a resource listing the 46 best freeware utilities and ask for your favorites. It covers essential system tools, with readers recommending software like FreeMind for organizing thoughts and notes.
-keywords: [freeware, utilities, freemind, productivity tools, open source, software recommendations]
+tags: [freeware, productivity-tools, open-source]
 ---
 
 The [46 best ever freeware utilities](http://www.techsupportalert.com/best_46_free_utilities.htm). What do **you** find useful?

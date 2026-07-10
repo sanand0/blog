@@ -4,7 +4,7 @@ date: 2026-01-04T00:00:00+00:00
 categories:
   - til
 description: I discovered new CLI tools like fselect and xxh, explored modern HTML attributes for mobile UX, and reviewed books on neuroscience and oncology. I also learned about Anthropic's custom skills and European day-fine systems.
-keywords: [cli tools, html attributes, neuroscience, oncology, anthropic api, day-fine system, product management]
+tags: [cli-tools, neuroscience]
 ---
 
 This week, I learned:

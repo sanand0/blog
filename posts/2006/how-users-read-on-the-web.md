@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 338
 description: I apply Jakob Nielsen’s research on web reading habits to my professional writing. By using scannable layouts, bullet points, and bolded keywords, I make my emails and reports easier for people to process quickly.
-keywords: [jakob nielsen, scannability, web usability, ux writing, content design, information architecture]
+tags: [jakob-nielsen, usability, information-architecture]
 ---
 
 Jakob Nielsen's old write-up on [how users read on the web](http://www.useit.com/alertbox/9710a.html). Actually, this is how people read **anything**. I write my e-mails, PowerPoint presentations, and Word reports this way.

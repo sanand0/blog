@@ -5,7 +5,7 @@ categories:
   - links
 wp_id: 1444
 description: I'm sharing a classic satirical piece from The Onion regarding the geopolitical friction between India and Pakistan. It captures the absurdity of their nuclear standoff and regional brinkmanship with sharp, characteristic wit.
-keywords: [indo-pakistan relations, the onion, satire, nuclear standoff, geopolitics, south asia]
+tags: [the-onion, satire, geopolitics, south-asia]
 ---
 
 The Onion on [Indo-Pakistan](http://www.theonion.com/onion3804/indo-pakistani_tensions.html) tensions.

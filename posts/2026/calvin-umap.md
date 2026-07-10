@@ -5,7 +5,7 @@ categories:
   - llms
   - coding
 description: Embedding maps are a powerful way to explore large creative corpora, and the same method used for blog posts can reveal structure in something like Calvin and Hobbes.
-keywords: [embeddings, UMAP, Calvin and Hobbes, semantic maps, visualization, corpus analysis]
+tags: [embeddings, calvin-and-hobbes, data-visualization]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-20-calvin-umap.avif)

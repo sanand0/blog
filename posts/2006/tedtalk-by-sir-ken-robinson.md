@@ -7,7 +7,7 @@ categories:
   - my-best-links
 wp_id: 161
 description: I highlight my favorite insights from Sir Ken Robinson’s TED Talk on education, focusing on how schools stifle creativity by prioritizing academic paths like university professorships and fail to prepare students for an unpredictable future.
-keywords: [sir ken robinson, ted talk, education reform, creativity, pedagogy, public education]
+tags: [education-reform, creativity, pedagogy]
 ---
 
 Sir Ken Robinson's [TED Talk on education](http://www.ted.com/tedtalks/tedtalksplayer.cfm?key=ken_robinson) is brilliant and funny. Some quotes that struck me:

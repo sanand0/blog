@@ -4,7 +4,7 @@ date: 2024-03-17T00:00:00+00:00
 categories:
   - til
 description: I found DuckDB significantly faster than Pandas and analyzed Claude 3's cost-effectiveness. I also learned about the Tavily search API, Vertex AI’s Model Garden, and how the isTrusted property prevents scraping on sites like Oracle Service Cloud.
-keywords: [duckdb, pandas, claude 3, tavily, istrusted, web scraping, vertex ai]
+tags: [duckdb, pandas, web-scraping]
 ---
 
 This week, I learned:

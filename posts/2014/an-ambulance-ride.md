@@ -5,7 +5,7 @@ categories:
   - bangalore
 wp_id: 2871
 description: I rode in an ambulance through Bangalore and noticed that while most drivers remarkably give way, delays usually happen because people are distracted by headphones, panic, or don't know how to yield safely without crashing.
-keywords: [bangalore, traffic management, ambulance, road safety, driver behavior, yielding]
+tags: [bangalore, road-safety]
 ---
 
 I rode in an ambulance yesterday.

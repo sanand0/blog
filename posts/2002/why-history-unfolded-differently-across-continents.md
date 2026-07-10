@@ -5,7 +5,6 @@ categories:
   - links
 wp_id: 1124
 description: I explore Jared Diamond’s insights on why human history followed different paths across continents. He emphasizes environmental and geographic factors over biological ones, as detailed in his book Guns, Germs, and Steel.
-keywords: [jared diamond, guns germs and steel, geographic determinism, human history, anthropology, environmental factors]
 ---
 
 Broad and insightful talk by Diamond on [why history unfolded differently across continents](http://www.edge.org/3rd_culture/diamond/diamond_p1.html). Note that he's talking about **why** and not **how**. Based on his book: [Guns, Germs and Steel](http://www.amazon.com/exec/obidos/tg/detail/-/0393317552/?tag=sanand-20).
