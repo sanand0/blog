@@ -1,0 +1,2141 @@
+generated_by: scripts/normalize_tags.py
+min_seed_count: 5
+canonical_tag_count: 496
+dropped_keyword_count: 9923
+tags:
+  india:
+    description: Posts about india.
+    aliases:
+    - yahoo india
+    count: 105
+  google:
+    description: Posts about google.
+    aliases:
+    - google answers
+    - google base
+    - google bombing
+    - google desktop
+    - google history
+    - google print
+    - google toolbar
+    - google zeitgeist
+    - google-bombing
+    count: 100
+  data-visualization:
+    description: Posts about data visualization.
+    aliases:
+    - 3d visualization
+    - visualization
+    count: 90
+  search-engines:
+    description: Posts about search engines.
+    aliases:
+    - search engine
+    count: 85
+  internet-history:
+    description: Posts about internet history.
+    aliases: []
+    count: 78
+  llms:
+    description: Posts about LLMs.
+    aliases:
+    - large language models
+    - large-language-models
+    - llm
+    count: 66
+  productivity:
+    description: Posts about productivity.
+    aliases:
+    - ai productivity
+    - productivity software
+    count: 58
+  humor:
+    description: Posts about humor.
+    aliases: []
+    count: 51
+  microsoft:
+    description: Posts about microsoft.
+    aliases:
+    - microsoft office
+    count: 50
+  chatgpt:
+    description: Posts about chatgpt.
+    aliases:
+    - ChatGPT usage
+    count: 49
+  prompt-engineering:
+    description: Posts about prompt engineering.
+    aliases:
+    - ai prompt engineering
+    count: 47
+  web-history:
+    description: Posts about web history.
+    aliases:
+    - weblog history
+    count: 45
+  blogging:
+    description: Posts about blogging.
+    aliases:
+    - personal blogging
+    count: 44
+  excel:
+    description: Posts about excel.
+    aliases: []
+    count: 38
+  python:
+    description: Posts about python.
+    aliases: []
+    count: 37
+  calvin-and-hobbes:
+    description: Posts about calvin and hobbes.
+    aliases:
+    - calvin & hobbes
+    count: 35
+  javascript:
+    description: Posts about javascript.
+    aliases:
+    - javascript 2
+    count: 35
+  linkedin:
+    description: Posts about linkedin.
+    aliases: []
+    count: 35
+  open-source:
+    description: Posts about open source.
+    aliases: []
+    count: 35
+  web-development:
+    description: Posts about web development.
+    aliases: []
+    count: 35
+  education:
+    description: Posts about education.
+    aliases:
+    - education analytics
+    count: 34
+  london:
+    description: Posts about london.
+    aliases:
+    - london bombings
+    count: 34
+  mumbai:
+    description: Posts about mumbai.
+    aliases: []
+    count: 34
+  gemini:
+    description: Posts about gemini.
+    aliases: []
+    count: 33
+  automation:
+    description: Posts about automation.
+    aliases: []
+    count: 29
+  satire:
+    description: Posts about satire.
+    aliases: []
+    count: 29
+  tamil-cinema:
+    description: Posts about tamil cinema.
+    aliases: []
+    count: 29
+  web-design:
+    description: Posts about web design.
+    aliases: []
+    count: 29
+  dot-com-bubble:
+    description: Posts about dot com bubble.
+    aliases:
+    - dot-com bubble
+    - dot-com era
+    - dotcom bubble
+    count: 27
+  ai-agents:
+    description: Posts about AI agents.
+    aliases: []
+    count: 26
+  claude:
+    description: Posts about claude.
+    aliases: []
+    count: 26
+  claude-code:
+    description: Posts about claude code.
+    aliases: []
+    count: 24
+  intellectual-property:
+    description: Posts about intellectual property.
+    aliases: []
+    count: 24
+  linguistics:
+    description: Posts about linguistics.
+    aliases: []
+    count: 23
+  photography:
+    description: Posts about photography.
+    aliases:
+    - film photography
+    count: 23
+  amazon:
+    description: Posts about amazon.
+    aliases: []
+    count: 22
+  data-analysis:
+    description: Posts about data analysis.
+    aliases: []
+    count: 22
+  gmail:
+    description: Posts about gmail.
+    aliases: []
+    count: 22
+  google-search:
+    description: Posts about google search.
+    aliases: []
+    count: 22
+  telecommunications:
+    description: Posts about telecommunications.
+    aliases:
+    - telecommunication
+    - telecommunications law
+    count: 22
+  user-interface:
+    description: Posts about user interface.
+    aliases:
+    - user interface design
+    - user interfaces
+    count: 22
+  ilayaraja:
+    description: Posts about ilayaraja.
+    aliases: []
+    count: 21
+  internet-culture:
+    description: Posts about internet culture.
+    aliases:
+    - internet future
+    count: 21
+  kollywood:
+    description: Posts about kollywood.
+    aliases: []
+    count: 21
+  privacy:
+    description: Posts about privacy.
+    aliases:
+    - data privacy
+    - digital privacy
+    count: 21
+  digital-media:
+    description: Posts about digital media.
+    aliases: []
+    count: 20
+  e-commerce:
+    description: Posts about e commerce.
+    aliases: []
+    count: 20
+  iim-bangalore:
+    description: Posts about iim bangalore.
+    aliases:
+    - iim
+    count: 20
+  weblogs:
+    description: Posts about weblogs.
+    aliases: []
+    count: 20
+  windows:
+    description: Posts about windows.
+    aliases:
+    - windows software
+    count: 20
+  yahoo:
+    description: Posts about yahoo.
+    aliases:
+    - yahoo mail
+    - yahoo!
+    count: 20
+  coding-agents:
+    description: Posts about coding agents.
+    aliases: []
+    count: 19
+  copyright-law:
+    description: Posts about copyright law.
+    aliases: []
+    count: 19
+  duckdb:
+    description: Posts about duckdb.
+    aliases: []
+    count: 19
+  information-retrieval:
+    description: Posts about information retrieval.
+    aliases: []
+    count: 19
+  interactive-quiz:
+    description: Posts about interactive quiz.
+    aliases:
+    - interactive
+    count: 19
+  psychology:
+    description: Posts about psychology.
+    aliases: []
+    count: 19
+  bill-watterson:
+    description: Posts about bill watterson.
+    aliases: []
+    count: 18
+  data-storytelling:
+    description: Posts about data storytelling.
+    aliases: []
+    count: 18
+  movie-quiz:
+    description: Posts about movie quiz.
+    aliases:
+    - movie trivia
+    count: 18
+  perl:
+    description: Posts about perl.
+    aliases: []
+    count: 18
+  rss:
+    description: Posts about RSS.
+    aliases: []
+    count: 18
+  carnatic-music:
+    description: Posts about carnatic music.
+    aliases: []
+    count: 17
+  file-sharing:
+    description: Posts about file sharing.
+    aliases: []
+    count: 17
+  kuro5hin:
+    description: Posts about kuro5hin.
+    aliases: []
+    count: 17
+  software-engineering:
+    description: Posts about software engineering.
+    aliases: []
+    count: 17
+  transcription:
+    description: Posts about transcription.
+    aliases: []
+    count: 17
+  ai-coding:
+    description: Posts about AI coding.
+    aliases: []
+    count: 16
+  animation:
+    description: Posts about animation.
+    aliases:
+    - animations
+    count: 16
+  geocities:
+    description: Posts about geocities.
+    aliases: []
+    count: 16
+  google-maps:
+    description: Posts about google maps.
+    aliases:
+    - google maps api
+    - google mars
+    count: 16
+  london-business-school:
+    description: Posts about london business school.
+    aliases:
+    - business school comparison
+    count: 16
+  markdown:
+    description: Posts about markdown.
+    aliases: []
+    count: 16
+  neuroscience:
+    description: Posts about neuroscience.
+    aliases: []
+    count: 16
+  physics:
+    description: Posts about physics.
+    aliases: []
+    count: 16
+  the-economist:
+    description: Posts about the economist.
+    aliases:
+    - economist
+    count: 16
+  vibe-coding:
+    description: Posts about vibe coding.
+    aliases: []
+    count: 16
+  web-scraping:
+    description: Posts about web scraping.
+    aliases: []
+    count: 16
+  blogging-history:
+    description: Posts about blogging history.
+    aliases: []
+    count: 15
+  bollywood:
+    description: Posts about bollywood.
+    aliases: []
+    count: 15
+  comics:
+    description: Posts about comics.
+    aliases: []
+    count: 15
+  consulting:
+    description: Posts about consulting.
+    aliases:
+    - management consulting
+    count: 15
+  flickr:
+    description: Posts about flickr.
+    aliases: []
+    count: 15
+  generative-ai:
+    description: Posts about generative AI.
+    aliases:
+    - gen ai
+    - generative art
+    - generative ui
+    count: 15
+  imdb:
+    description: Posts about imdb.
+    aliases: []
+    count: 15
+  infrastructure:
+    description: Posts about infrastructure.
+    aliases:
+    - it infrastructure
+    count: 15
+  p2p:
+    description: Posts about p2p.
+    aliases:
+    - p2p networks
+    count: 15
+  stock-market:
+    description: Posts about stock market.
+    aliases: []
+    count: 15
+  urban-legends:
+    description: Posts about urban legends.
+    aliases:
+    - urban legend
+    count: 15
+  windows-xp:
+    description: Posts about windows xp.
+    aliases: []
+    count: 15
+  business-strategy:
+    description: Posts about business strategy.
+    aliases:
+    - strategy
+    count: 14
+  cinema:
+    description: Posts about cinema.
+    aliases: []
+    count: 14
+  comic-strips:
+    description: Posts about comic strips.
+    aliases:
+    - comic strip
+    count: 14
+  hacking:
+    description: Posts about hacking.
+    aliases: []
+    count: 14
+  metafilter:
+    description: Posts about metafilter.
+    aliases: []
+    count: 14
+  networking:
+    description: Posts about networking.
+    aliases: []
+    count: 14
+  openai:
+    description: Posts about openai.
+    aliases: []
+    count: 14
+  prompting:
+    description: Posts about prompting.
+    aliases: []
+    count: 14
+  seo:
+    description: Posts about seo.
+    aliases: []
+    count: 14
+  user-experience:
+    description: Posts about user experience.
+    aliases:
+    - customer experience
+    count: 14
+  web-2-0:
+    description: Posts about web 2 0.
+    aliases:
+    - web 2.0
+    count: 14
+  codex:
+    description: Posts about codex.
+    aliases: []
+    count: 13
+  cybersecurity:
+    description: Posts about cybersecurity.
+    aliases: []
+    count: 13
+  decision-making:
+    description: Posts about decision making.
+    aliases: []
+    count: 13
+  economics:
+    description: Posts about economics.
+    aliases: []
+    count: 13
+  film-music:
+    description: Posts about film music.
+    aliases: []
+    count: 13
+  ibm:
+    description: Posts about ibm.
+    aliases: []
+    count: 13
+  iit-madras:
+    description: Posts about iit madras.
+    aliases:
+    - IIT
+    - iit
+    count: 13
+  indexing:
+    description: Posts about indexing.
+    aliases: []
+    count: 13
+  internet-explorer:
+    description: Posts about internet explorer.
+    aliases:
+    - internet explorer 6
+    count: 13
+  linux:
+    description: Posts about linux.
+    aliases: []
+    count: 13
+  metadata:
+    description: Posts about metadata.
+    aliases: []
+    count: 13
+  operating-systems:
+    description: Posts about operating systems.
+    aliases:
+    - operating system
+    - rating systems
+    count: 13
+  pedagogy:
+    description: Posts about pedagogy.
+    aliases: []
+    count: 13
+  software-development:
+    description: Posts about software development.
+    aliases: []
+    count: 13
+  chatbots:
+    description: Posts about chatbots.
+    aliases:
+    - chatbot
+    count: 12
+  corporate-culture:
+    description: Posts about corporate culture.
+    aliases: []
+    count: 12
+  data-science:
+    description: Posts about data science.
+    aliases: []
+    count: 12
+  digital-rights:
+    description: Posts about digital rights.
+    aliases:
+    - digital rights management
+    count: 12
+  ffmpeg:
+    description: Posts about ffmpeg.
+    aliases: []
+    count: 12
+  gramener:
+    description: Posts about gramener.
+    aliases: []
+    count: 12
+  image-generation:
+    description: Posts about image generation.
+    aliases:
+    - AI image generation
+    count: 12
+  indian-cinema:
+    description: Posts about indian cinema.
+    aliases:
+    - hindi cinema
+    count: 12
+  layoffs:
+    description: Posts about layoffs.
+    aliases: []
+    count: 12
+  lord-of-the-rings:
+    description: Posts about lord of the rings.
+    aliases: []
+    count: 12
+  natural-language-processing:
+    description: Posts about natural language processing.
+    aliases: []
+    count: 12
+  paul-graham:
+    description: Posts about paul graham.
+    aliases: []
+    count: 12
+  public-speaking:
+    description: Posts about public speaking.
+    aliases: []
+    count: 12
+  september-11:
+    description: Posts about september 11.
+    aliases: []
+    count: 12
+  tamil-songs:
+    description: Posts about tamil songs.
+    aliases:
+    - old tamil songs
+    count: 12
+  travel:
+    description: Posts about travel.
+    aliases: []
+    count: 12
+  usability:
+    description: Posts about usability.
+    aliases:
+    - web usability
+    count: 12
+  advertising:
+    description: Posts about advertising.
+    aliases: []
+    count: 11
+  ai:
+    description: Posts about AI.
+    aliases:
+    - artificial intelligence
+    count: 11
+  archives:
+    description: Posts about archives.
+    aliases:
+    - digital archives
+    count: 11
+  crowdsourcing:
+    description: Posts about crowdsourcing.
+    aliases: []
+    count: 11
+  developer-tools:
+    description: Posts about developer tools.
+    aliases: []
+    count: 11
+  developer-workflow:
+    description: Posts about developer workflow.
+    aliases:
+    - developer workflows
+    count: 11
+  dmca:
+    description: Posts about dmca.
+    aliases: []
+    count: 11
+  geopolitics:
+    description: Posts about geopolitics.
+    aliases: []
+    count: 11
+  harry-potter:
+    description: Posts about harry potter.
+    aliases: []
+    count: 11
+  iimb:
+    description: Posts about iimb.
+    aliases: []
+    count: 11
+  information-architecture:
+    description: Posts about information architecture.
+    aliases: []
+    count: 11
+  information-design:
+    description: Posts about information design.
+    aliases: []
+    count: 11
+  mapping:
+    description: Posts about mapping.
+    aliases:
+    - mapping software
+    count: 11
+  mathematics:
+    description: Posts about mathematics.
+    aliases: []
+    count: 11
+  mcp:
+    description: Posts about MCP.
+    aliases:
+    - local mcp
+    count: 11
+  recruitment:
+    description: Posts about recruitment.
+    aliases: []
+    count: 11
+  statistics:
+    description: Posts about statistics.
+    aliases: []
+    count: 11
+  storytelling:
+    description: Posts about storytelling.
+    aliases: []
+    count: 11
+  system-prompt:
+    description: Posts about system prompt.
+    aliases:
+    - system prompts
+    count: 11
+  uv:
+    description: Posts about uv.
+    aliases: []
+    count: 11
+  web-hosting:
+    description: Posts about web hosting.
+    aliases: []
+    count: 11
+  web-performance:
+    description: Posts about web performance.
+    aliases:
+    - performance
+    count: 11
+  web-search:
+    description: Posts about web search.
+    aliases:
+    - web research
+    count: 11
+  ai-in-education:
+    description: Posts about AI in education.
+    aliases:
+    - AI education
+    count: 10
+  anthropic:
+    description: Posts about anthropic.
+    aliases: []
+    count: 10
+  apple:
+    description: Posts about apple.
+    aliases: []
+    count: 10
+  archiving:
+    description: Posts about archiving.
+    aliases: []
+    count: 10
+  bangalore:
+    description: Posts about bangalore.
+    aliases: []
+    count: 10
+  bcg:
+    description: Posts about bcg.
+    aliases: []
+    count: 10
+  benchmarking:
+    description: Posts about benchmarking.
+    aliases: []
+    count: 10
+  consumer-electronics:
+    description: Posts about consumer electronics.
+    aliases:
+    - consumer electronics show
+    count: 10
+  copyright:
+    description: Posts about copyright.
+    aliases: []
+    count: 10
+  creativity:
+    description: Posts about creativity.
+    aliases: []
+    count: 10
+  cursor:
+    description: Posts about cursor.
+    aliases: []
+    count: 10
+  digital-art:
+    description: Posts about digital art.
+    aliases: []
+    count: 10
+  evaluation:
+    description: Posts about evaluation.
+    aliases: []
+    count: 10
+  fact-checking:
+    description: Posts about fact checking.
+    aliases: []
+    count: 10
+  hiring:
+    description: Posts about hiring.
+    aliases: []
+    count: 10
+  music-quiz:
+    description: Posts about music quiz.
+    aliases:
+    - quiz
+    count: 10
+  problem-solving:
+    description: Posts about problem solving.
+    aliases: []
+    count: 10
+  riaa:
+    description: Posts about riaa.
+    aliases: []
+    count: 10
+  security:
+    description: Posts about security.
+    aliases: []
+    count: 10
+  spam:
+    description: Posts about spam.
+    aliases: []
+    count: 10
+  svg:
+    description: Posts about svg.
+    aliases: []
+    count: 10
+  time-management:
+    description: Posts about time management.
+    aliases: []
+    count: 10
+  web-browsers:
+    description: Posts about web browsers.
+    aliases:
+    - web browser
+    count: 10
+  9-11:
+    description: Posts about 9 11.
+    aliases:
+    - 9/11
+    count: 9
+  a-r-rahman:
+    description: Posts about a r rahman.
+    aliases:
+    - a. r. rahman
+    - a.r. rahman
+    - ar rahman
+    count: 9
+  accessibility:
+    description: Posts about accessibility.
+    aliases: []
+    count: 9
+  acquisitions:
+    description: Posts about acquisitions.
+    aliases:
+    - acquisition
+    count: 9
+  bill-gates:
+    description: Posts about bill gates.
+    aliases: []
+    count: 9
+  books:
+    description: Posts about books.
+    aliases: []
+    count: 9
+  communication:
+    description: Posts about communication.
+    aliases: []
+    count: 9
+  cryptography:
+    description: Posts about cryptography.
+    aliases: []
+    count: 9
+  css:
+    description: Posts about CSS.
+    aliases: []
+    count: 9
+  digital-photography:
+    description: Posts about digital photography.
+    aliases: []
+    count: 9
+  ebooks:
+    description: Posts about ebooks.
+    aliases:
+    - ebook
+    count: 9
+  hardware:
+    description: Posts about hardware.
+    aliases: []
+    count: 9
+  hoaxes:
+    description: Posts about hoaxes.
+    aliases:
+    - hoax
+    count: 9
+  human-computer-interaction:
+    description: Posts about human computer interaction.
+    aliases:
+    - human-computer interaction
+    count: 9
+  journalism:
+    description: Posts about journalism.
+    aliases:
+    - digital journalism
+    count: 9
+  llm-evaluation:
+    description: Posts about LLM evaluation.
+    aliases: []
+    count: 9
+  monetization:
+    description: Posts about monetization.
+    aliases: []
+    count: 9
+  ocr:
+    description: Posts about ocr.
+    aliases: []
+    count: 9
+  pagerank:
+    description: Posts about pagerank.
+    aliases: []
+    count: 9
+  parody:
+    description: Posts about parody.
+    aliases: []
+    count: 9
+  satellite-imagery:
+    description: Posts about satellite imagery.
+    aliases: []
+    count: 9
+  science-fiction:
+    description: Posts about science fiction.
+    aliases: []
+    count: 9
+  search-algorithms:
+    description: Posts about search algorithms.
+    aliases:
+    - search algorithm
+    count: 9
+  search-engine-optimization:
+    description: Posts about search engine optimization.
+    aliases:
+    - search engine history
+    count: 9
+  startups:
+    description: Posts about startups.
+    aliases: []
+    count: 9
+  surveillance:
+    description: Posts about surveillance.
+    aliases: []
+    count: 9
+  tagging:
+    description: Posts about tagging.
+    aliases: []
+    count: 9
+  tamil:
+    description: Posts about tamil.
+    aliases: []
+    count: 9
+  tech-history:
+    description: Posts about tech history.
+    aliases: []
+    count: 9
+  typography:
+    description: Posts about typography.
+    aliases: []
+    count: 9
+  vba:
+    description: Posts about vba.
+    aliases: []
+    count: 9
+  visual-storytelling:
+    description: Posts about visual storytelling.
+    aliases: []
+    count: 9
+  voip:
+    description: Posts about voip.
+    aliases: []
+    count: 9
+  web-analytics:
+    description: Posts about web analytics.
+    aliases: []
+    count: 9
+  web-services:
+    description: Posts about web services.
+    aliases: []
+    count: 9
+  web-standards:
+    description: Posts about web standards.
+    aliases: []
+    count: 9
+  web-tools:
+    description: Posts about web tools.
+    aliases:
+    - web tool
+    count: 9
+  xpath:
+    description: Posts about xpath.
+    aliases: []
+    count: 9
+  algorithms:
+    description: Posts about algorithms.
+    aliases: []
+    count: 8
+  assessment-design:
+    description: Posts about assessment design.
+    aliases:
+    - assessment
+    count: 8
+  business-models:
+    description: Posts about business models.
+    aliases:
+    - business model
+    count: 8
+  cartography:
+    description: Posts about cartography.
+    aliases: []
+    count: 8
+  curation:
+    description: Posts about curation.
+    aliases: []
+    count: 8
+  debugging:
+    description: Posts about debugging.
+    aliases: []
+    count: 8
+  digital-library:
+    description: Posts about digital library.
+    aliases:
+    - digital libraries
+    count: 8
+  digital-music:
+    description: Posts about digital music.
+    aliases: []
+    count: 8
+  distributed-computing:
+    description: Posts about distributed computing.
+    aliases:
+    - grid computing
+    count: 8
+  domain-names:
+    description: Posts about domain names.
+    aliases: []
+    count: 8
+  early-web:
+    description: Posts about early web.
+    aliases: []
+    count: 8
+  ecommerce:
+    description: Posts about ecommerce.
+    aliases: []
+    count: 8
+  embeddings:
+    description: Posts about embeddings.
+    aliases: []
+    count: 8
+  ergonomics:
+    description: Posts about ergonomics.
+    aliases: []
+    count: 8
+  etymology:
+    description: Posts about etymology.
+    aliases: []
+    count: 8
+  experimentation:
+    description: Posts about experimentation.
+    aliases: []
+    count: 8
+  google-api:
+    description: Posts about google API.
+    aliases:
+    - Google AI
+    - google ai
+    count: 8
+  google-reader:
+    description: Posts about google reader.
+    aliases: []
+    count: 8
+  google-spreadsheets:
+    description: Posts about google spreadsheets.
+    aliases: []
+    count: 8
+  google-video:
+    description: Posts about google video.
+    aliases: []
+    count: 8
+  higher-education:
+    description: Posts about higher education.
+    aliases: []
+    count: 8
+  html:
+    description: Posts about HTML.
+    aliases: []
+    count: 8
+  innovation:
+    description: Posts about innovation.
+    aliases: []
+    count: 8
+  instant-messaging:
+    description: Posts about instant messaging.
+    aliases: []
+    count: 8
+  jigsaw-puzzle:
+    description: Posts about jigsaw puzzle.
+    aliases:
+    - visual puzzle
+    count: 8
+  knowledge-management:
+    description: Posts about knowledge management.
+    aliases: []
+    count: 8
+  llm-pricing:
+    description: Posts about LLM pricing.
+    aliases: []
+    count: 8
+  minecraft:
+    description: Posts about minecraft.
+    aliases: []
+    count: 8
+  news-aggregation:
+    description: Posts about news aggregation.
+    aliases: []
+    count: 8
+  opera:
+    description: Posts about opera.
+    aliases: []
+    count: 8
+  personal-update:
+    description: Posts about personal update.
+    aliases:
+    - personal updates
+    count: 8
+  powerpoint:
+    description: Posts about powerpoint.
+    aliases: []
+    count: 8
+  programming-languages:
+    description: Posts about programming languages.
+    aliases: []
+    count: 8
+  puzzles:
+    description: Posts about puzzles.
+    aliases:
+    - logic puzzles
+    count: 8
+  reading-list:
+    description: Posts about reading list.
+    aliases:
+    - reading lists
+    count: 8
+  rss-feeds:
+    description: Posts about RSS feeds.
+    aliases:
+    - rss feed
+    count: 8
+  song-lyrics:
+    description: Posts about song lyrics.
+    aliases:
+    - lyrics quiz
+    - tamil song lyrics
+    count: 8
+  text-analysis:
+    description: Posts about text analysis.
+    aliases: []
+    count: 8
+  tools-in-data-science:
+    description: Posts about tools in data science.
+    aliases:
+    - data tools
+    count: 8
+  translation:
+    description: Posts about translation.
+    aliases:
+    - translations
+    count: 8
+  ui-design:
+    description: Posts about UI design.
+    aliases:
+    - ux design
+    count: 8
+  web-applications:
+    description: Posts about web applications.
+    aliases:
+    - web application
+    count: 8
+  aviation:
+    description: Posts about aviation.
+    aliases: []
+    count: 7
+  blogger:
+    description: Posts about blogger.
+    aliases: []
+    count: 7
+  blogosphere:
+    description: Posts about blogosphere.
+    aliases:
+    - indian blogosphere
+    count: 7
+  book-reviews:
+    description: Posts about book reviews.
+    aliases:
+    - book review
+    count: 7
+  browser-wars:
+    description: Posts about browser wars.
+    aliases: []
+    count: 7
+  chennai:
+    description: Posts about chennai.
+    aliases: []
+    count: 7
+  demographics:
+    description: Posts about demographics.
+    aliases: []
+    count: 7
+  digital-cameras:
+    description: Posts about digital cameras.
+    aliases:
+    - digital camera
+    count: 7
+  digital-preservation:
+    description: Posts about digital preservation.
+    aliases: []
+    count: 7
+  dilbert:
+    description: Posts about dilbert.
+    aliases: []
+    count: 7
+  firefox:
+    description: Posts about firefox.
+    aliases: []
+    count: 7
+  flash:
+    description: Posts about flash.
+    aliases: []
+    count: 7
+  geography:
+    description: Posts about geography.
+    aliases: []
+    count: 7
+  geolocation:
+    description: Posts about geolocation.
+    aliases:
+    - ip geolocation
+    count: 7
+  geospatial:
+    description: Posts about geospatial.
+    aliases: []
+    count: 7
+  gis:
+    description: Posts about gis.
+    aliases: []
+    count: 7
+  github:
+    description: Posts about github.
+    aliases: []
+    count: 7
+  google-calendar:
+    description: Posts about google calendar.
+    aliases: []
+    count: 7
+  google-labs:
+    description: Posts about google labs.
+    aliases: []
+    count: 7
+  gpt-4o:
+    description: Posts about GPT 4o.
+    aliases:
+    - gpt-4
+    count: 7
+  history:
+    description: Posts about history.
+    aliases: []
+    count: 7
+  hollywood:
+    description: Posts about hollywood.
+    aliases: []
+    count: 7
+  interest-rates:
+    description: Posts about interest rates.
+    aliases:
+    - interest rate
+    count: 7
+  internet-humor:
+    description: Posts about internet humor.
+    aliases: []
+    count: 7
+  isp:
+    description: Posts about isp.
+    aliases: []
+    count: 7
+  lbs:
+    description: Posts about lbs.
+    aliases: []
+    count: 7
+  mental-models:
+    description: Posts about mental models.
+    aliases: []
+    count: 7
+  mit-media-lab:
+    description: Posts about mit media lab.
+    aliases: []
+    count: 7
+  movie-ratings:
+    description: Posts about movie ratings.
+    aliases: []
+    count: 7
+  mp3:
+    description: Posts about mp3.
+    aliases: []
+    count: 7
+  nasa:
+    description: Posts about nasa.
+    aliases: []
+    count: 7
+  network-security:
+    description: Posts about network security.
+    aliases: []
+    count: 7
+  non-fiction:
+    description: Posts about non fiction.
+    aliases: []
+    count: 7
+  oreilly:
+    description: Posts about oreilly.
+    aliases:
+    - o'reilly
+    count: 7
+  photojournalism:
+    description: Posts about photojournalism.
+    aliases: []
+    count: 7
+  probability:
+    description: Posts about probability.
+    aliases: []
+    count: 7
+  rag:
+    description: Posts about rag.
+    aliases: []
+    count: 7
+  self-improvement:
+    description: Posts about self improvement.
+    aliases: []
+    count: 7
+  source-code:
+    description: Posts about source code.
+    aliases: []
+    count: 7
+  text-to-speech:
+    description: Posts about text to speech.
+    aliases: []
+    count: 7
+  the-onion:
+    description: Posts about the onion.
+    aliases: []
+    count: 7
+  thermodynamics:
+    description: Posts about thermodynamics.
+    aliases: []
+    count: 7
+  tutorials:
+    description: Posts about tutorials.
+    aliases:
+    - tutorial
+    count: 7
+  visual-search:
+    description: Posts about visual search.
+    aliases: []
+    count: 7
+  webmail:
+    description: Posts about webmail.
+    aliases: []
+    count: 7
+  wikipedia:
+    description: Posts about wikipedia.
+    aliases: []
+    count: 7
+  wired-magazine:
+    description: Posts about wired magazine.
+    aliases: []
+    count: 7
+  year-in-review:
+    description: Posts about year in review.
+    aliases: []
+    count: 7
+  analytics:
+    description: Posts about analytics.
+    aliases: []
+    count: 6
+  augmented-reality:
+    description: Posts about augmented reality.
+    aliases: []
+    count: 6
+  bandwidth:
+    description: Posts about bandwidth.
+    aliases: []
+    count: 6
+  biotechnology:
+    description: Posts about biotechnology.
+    aliases: []
+    count: 6
+  bittorrent:
+    description: Posts about bittorrent.
+    aliases: []
+    count: 6
+  chat-rooms:
+    description: Posts about chat rooms.
+    aliases:
+    - chat room
+    count: 6
+  chat-transcript:
+    description: Posts about chat transcript.
+    aliases:
+    - chat transcripts
+    count: 6
+  content-strategy:
+    description: Posts about content strategy.
+    aliases: []
+    count: 6
+  cybercrime:
+    description: Posts about cybercrime.
+    aliases: []
+    count: 6
+  data-journalism:
+    description: Posts about data journalism.
+    aliases: []
+    count: 6
+  data-mining:
+    description: Posts about data mining.
+    aliases: []
+    count: 6
+  data-stories:
+    description: Posts about data stories.
+    aliases:
+    - data story
+    count: 6
+  decss:
+    description: Posts about decss.
+    aliases: []
+    count: 6
+  del-icio-us:
+    description: Posts about del icio us.
+    aliases:
+    - del.icio.us
+    count: 6
+  deno:
+    description: Posts about deno.
+    aliases: []
+    count: 6
+  developer-productivity:
+    description: Posts about developer productivity.
+    aliases: []
+    count: 6
+  docker:
+    description: Posts about docker.
+    aliases: []
+    count: 6
+  domain-registration:
+    description: Posts about domain registration.
+    aliases: []
+    count: 6
+  enron:
+    description: Posts about enron.
+    aliases: []
+    count: 6
+  entrepreneurship:
+    description: Posts about entrepreneurship.
+    aliases: []
+    count: 6
+  experiments:
+    description: Posts about experiments.
+    aliases:
+    - experiment
+    count: 6
+  fbi:
+    description: Posts about fbi.
+    aliases: []
+    count: 6
+  finance:
+    description: Posts about finance.
+    aliases: []
+    count: 6
+  financial-modeling:
+    description: Posts about financial modeling.
+    aliases: []
+    count: 6
+  fine-tuning:
+    description: Posts about fine tuning.
+    aliases: []
+    count: 6
+  git:
+    description: Posts about git.
+    aliases: []
+    count: 6
+  github-copilot:
+    description: Posts about github copilot.
+    aliases: []
+    count: 6
+  github-pages:
+    description: Posts about github pages.
+    aliases: []
+    count: 6
+  google-earth:
+    description: Posts about google earth.
+    aliases:
+    - google earth hacks
+    count: 6
+  google-news:
+    description: Posts about google news.
+    aliases: []
+    count: 6
+  graphic-design:
+    description: Posts about graphic design.
+    aliases: []
+    count: 6
+  hallucination:
+    description: Posts about hallucination.
+    aliases:
+    - hallucinations
+    count: 6
+  heuristics:
+    description: Posts about heuristics.
+    aliases: []
+    count: 6
+  information-management:
+    description: Posts about information management.
+    aliases:
+    - innovation management
+    count: 6
+  j-r-r-tolkien:
+    description: Posts about j r r tolkien.
+    aliases:
+    - j.r.r. tolkien
+    count: 6
+  jquery:
+    description: Posts about jquery.
+    aliases: []
+    count: 6
+  labor-economics:
+    description: Posts about labor economics.
+    aliases: []
+    count: 6
+  language:
+    description: Posts about language.
+    aliases: []
+    count: 6
+  lateral-thinking:
+    description: Posts about lateral thinking.
+    aliases: []
+    count: 6
+  learning:
+    description: Posts about learning.
+    aliases:
+    - e-learning
+    count: 6
+  llm-evals:
+    description: Posts about LLM evals.
+    aliases: []
+    count: 6
+  llm-prompts:
+    description: Posts about LLM prompts.
+    aliases: []
+    count: 6
+  mba:
+    description: Posts about mba.
+    aliases: []
+    count: 6
+  minimalism:
+    description: Posts about minimalism.
+    aliases: []
+    count: 6
+  movies:
+    description: Posts about movies.
+    aliases: []
+    count: 6
+  mozilla:
+    description: Posts about mozilla.
+    aliases: []
+    count: 6
+  napster:
+    description: Posts about napster.
+    aliases: []
+    count: 6
+  nostalgia:
+    description: Posts about nostalgia.
+    aliases: []
+    count: 6
+  o3:
+    description: Posts about o3.
+    aliases: []
+    count: 6
+  open-data:
+    description: Posts about open data.
+    aliases: []
+    count: 6
+  philosophy:
+    description: Posts about philosophy.
+    aliases: []
+    count: 6
+  presentations:
+    description: Posts about presentations.
+    aliases:
+    - it presentations
+    count: 6
+  public-domain:
+    description: Posts about public domain.
+    aliases: []
+    count: 6
+  rediff:
+    description: Posts about rediff.
+    aliases: []
+    count: 6
+  scientific-american:
+    description: Posts about scientific american.
+    aliases: []
+    count: 6
+  search-ranking:
+    description: Posts about search ranking.
+    aliases:
+    - search rankings
+    count: 6
+  search-tools:
+    description: Posts about search tools.
+    aliases:
+    - search tool
+    count: 6
+  search-trends:
+    description: Posts about search trends.
+    aliases: []
+    count: 6
+  social-bookmarking:
+    description: Posts about social bookmarking.
+    aliases: []
+    count: 6
+  social-engineering:
+    description: Posts about social engineering.
+    aliases: []
+    count: 6
+  sony:
+    description: Posts about sony.
+    aliases: []
+    count: 6
+  sqlite:
+    description: Posts about sqlite.
+    aliases: []
+    count: 6
+  transcripts:
+    description: Posts about transcripts.
+    aliases:
+    - transcript
+    count: 6
+  unix:
+    description: Posts about unix.
+    aliases: []
+    count: 6
+  usenet:
+    description: Posts about usenet.
+    aliases: []
+    count: 6
+  verification:
+    description: Posts about verification.
+    aliases: []
+    count: 6
+  video-compression:
+    description: Posts about video compression.
+    aliases: []
+    count: 6
+  vizchitra:
+    description: Posts about vizchitra.
+    aliases: []
+    count: 6
+  wordplay:
+    description: Posts about wordplay.
+    aliases: []
+    count: 6
+  wordpress:
+    description: Posts about wordpress.
+    aliases: []
+    count: 6
+  actor-networks:
+    description: Posts about actor networks.
+    aliases: []
+    count: 5
+  ai-coding-agents:
+    description: Posts about AI coding agents.
+    aliases: []
+    count: 5
+  altavista:
+    description: Posts about altavista.
+    aliases: []
+    count: 5
+  apache:
+    description: Posts about apache.
+    aliases: []
+    count: 5
+  api:
+    description: Posts about API.
+    aliases: []
+    count: 5
+  april-fools-day:
+    description: Posts about april fools day.
+    aliases:
+    - april fool's day
+    - april fools' day
+    count: 5
+  banking:
+    description: Posts about banking.
+    aliases: []
+    count: 5
+  bookmarklet:
+    description: Posts about bookmarklet.
+    aliases:
+    - bookmarklets
+    count: 5
+  branding:
+    description: Posts about branding.
+    aliases: []
+    count: 5
+  brandon-sanderson:
+    description: Posts about brandon sanderson.
+    aliases: []
+    count: 5
+  browser-games:
+    description: Posts about browser games.
+    aliases:
+    - browser game
+    - flash games
+    count: 5
+  career-advice:
+    description: Posts about career advice.
+    aliases: []
+    count: 5
+  character-design:
+    description: Posts about character design.
+    aliases: []
+    count: 5
+  chess:
+    description: Posts about chess.
+    aliases: []
+    count: 5
+  cli-tools:
+    description: Posts about cli tools.
+    aliases: []
+    count: 5
+  cnet:
+    description: Posts about cnet.
+    aliases: []
+    count: 5
+  cognitive-science:
+    description: Posts about cognitive science.
+    aliases: []
+    count: 5
+  comicgen:
+    description: Posts about comicgen.
+    aliases: []
+    count: 5
+  computer-graphics:
+    description: Posts about computer graphics.
+    aliases: []
+    count: 5
+  computer-vision:
+    description: Posts about computer vision.
+    aliases: []
+    count: 5
+  computing-history:
+    description: Posts about computing history.
+    aliases: []
+    count: 5
+  consumer-behavior:
+    description: Posts about consumer behavior.
+    aliases: []
+    count: 5
+  content-discovery:
+    description: Posts about content discovery.
+    aliases: []
+    count: 5
+  customer-service:
+    description: Posts about customer service.
+    aliases: []
+    count: 5
+  daypop:
+    description: Posts about daypop.
+    aliases: []
+    count: 5
+  digital-exhaust:
+    description: Posts about digital exhaust.
+    aliases: []
+    count: 5
+  digital-infrastructure:
+    description: Posts about digital infrastructure.
+    aliases: []
+    count: 5
+  digital-publishing:
+    description: Posts about digital publishing.
+    aliases: []
+    count: 5
+  easter-eggs:
+    description: Posts about easter eggs.
+    aliases:
+    - easter egg
+    count: 5
+  economic-times:
+    description: Posts about economic times.
+    aliases: []
+    count: 5
+  efficiency:
+    description: Posts about efficiency.
+    aliases: []
+    count: 5
+  email-security:
+    description: Posts about email security.
+    aliases: []
+    count: 5
+  emergent-behavior:
+    description: Posts about emergent behavior.
+    aliases: []
+    count: 5
+  fandom:
+    description: Posts about fandom.
+    aliases: []
+    count: 5
+  film-scores:
+    description: Posts about film scores.
+    aliases:
+    - film score
+    count: 5
+  flash-animation:
+    description: Posts about flash animation.
+    aliases: []
+    count: 5
+  free-software:
+    description: Posts about free software.
+    aliases: []
+    count: 5
+  free-speech:
+    description: Posts about free speech.
+    aliases: []
+    count: 5
+  gadgets:
+    description: Posts about gadgets.
+    aliases: []
+    count: 5
+  globalization:
+    description: Posts about globalization.
+    aliases: []
+    count: 5
+  graph-theory:
+    description: Posts about graph theory.
+    aliases: []
+    count: 5
+  gratitude:
+    description: Posts about gratitude.
+    aliases: []
+    count: 5
+  habit-formation:
+    description: Posts about habit formation.
+    aliases: []
+    count: 5
+  habits:
+    description: Posts about habits.
+    aliases: []
+    count: 5
+  ie6:
+    description: Posts about ie6.
+    aliases: []
+    count: 5
+  indian-railways:
+    description: Posts about indian railways.
+    aliases: []
+    count: 5
+  industrial-design:
+    description: Posts about industrial design.
+    aliases: []
+    count: 5
+  information-theory:
+    description: Posts about information theory.
+    aliases: []
+    count: 5
+  internet-law:
+    description: Posts about internet law.
+    aliases: []
+    count: 5
+  internet-memes:
+    description: Posts about internet memes.
+    aliases:
+    - internet meme
+    count: 5
+  internet-regulation:
+    description: Posts about internet regulation.
+    aliases: []
+    count: 5
+  interview-preparation:
+    description: Posts about interview preparation.
+    aliases: []
+    count: 5
+  ipo:
+    description: Posts about ipo.
+    aliases: []
+    count: 5
+  isaac-asimov:
+    description: Posts about isaac asimov.
+    aliases: []
+    count: 5
+  jakob-nielsen:
+    description: Posts about jakob nielsen.
+    aliases: []
+    count: 5
+  jurisdiction:
+    description: Posts about jurisdiction.
+    aliases: []
+    count: 5
+  kazaa:
+    description: Posts about kazaa.
+    aliases: []
+    count: 5
+  keyboard-shortcuts:
+    description: Posts about keyboard shortcuts.
+    aliases:
+    - shortcuts
+    count: 5
+  learning-strategies:
+    description: Posts about learning strategies.
+    aliases:
+    - learning strategy
+    count: 5
+  legislation:
+    description: Posts about legislation.
+    aliases: []
+    count: 5
+  llm-behavior:
+    description: Posts about LLM behavior.
+    aliases: []
+    count: 5
+  localization:
+    description: Posts about localization.
+    aliases: []
+    count: 5
+  logic:
+    description: Posts about logic.
+    aliases: []
+    count: 5
+  london-underground:
+    description: Posts about london underground.
+    aliases: []
+    count: 5
+  machine-learning:
+    description: Posts about machine learning.
+    aliases: []
+    count: 5
+  malcolm-gladwell:
+    description: Posts about malcolm gladwell.
+    aliases: []
+    count: 5
+  management:
+    description: Posts about management.
+    aliases: []
+    count: 5
+  market-trends:
+    description: Posts about market trends.
+    aliases: []
+    count: 5
+  marketing:
+    description: Posts about marketing.
+    aliases: []
+    count: 5
+  marp:
+    description: Posts about marp.
+    aliases: []
+    count: 5
+  mashups:
+    description: Posts about mashups.
+    aliases:
+    - mashup
+    count: 5
+  meditation:
+    description: Posts about meditation.
+    aliases: []
+    count: 5
+  memory:
+    description: Posts about memory.
+    aliases: []
+    count: 5
+  misinformation:
+    description: Posts about misinformation.
+    aliases: []
+    count: 5
+  mit:
+    description: Posts about mit.
+    aliases: []
+    count: 5
+  mobile-phones:
+    description: Posts about mobile phones.
+    aliases: []
+    count: 5
+  model-comparison:
+    description: Posts about model comparison.
+    aliases: []
+    count: 5
+  model-context-protocol:
+    description: Posts about model context protocol.
+    aliases: []
+    count: 5
+  multimedia:
+    description: Posts about multimedia.
+    aliases: []
+    count: 5
+  music-industry:
+    description: Posts about music industry.
+    aliases: []
+    count: 5
+  nanotechnology:
+    description: Posts about nanotechnology.
+    aliases: []
+    count: 5
+  new-york-city:
+    description: Posts about new york city.
+    aliases: []
+    count: 5
+  node-js:
+    description: Posts about node js.
+    aliases:
+    - node.js
+    count: 5
+  online-advertising:
+    description: Posts about online advertising.
+    aliases: []
+    count: 5
+  online-communities:
+    description: Posts about online communities.
+    aliases:
+    - online community
+    count: 5
+  organizational-culture:
+    description: Posts about organizational culture.
+    aliases: []
+    count: 5
+  pandoc:
+    description: Posts about pandoc.
+    aliases: []
+    count: 5
+  particle-physics:
+    description: Posts about particle physics.
+    aliases: []
+    count: 5
+  peer-review:
+    description: Posts about peer review.
+    aliases: []
+    count: 5
+  performance-tuning:
+    description: Posts about performance tuning.
+    aliases: []
+    count: 5
+  photo-sharing:
+    description: Posts about photo sharing.
+    aliases: []
+    count: 5
+  php:
+    description: Posts about php.
+    aliases: []
+    count: 5
+  prediction-markets:
+    description: Posts about prediction markets.
+    aliases: []
+    count: 5
+  s-anand:
+    description: Posts about s anand.
+    aliases:
+    - s.anand
+    count: 5
+  search-operators:
+    description: Posts about search operators.
+    aliases: []
+    count: 5
+  self-tracking:
+    description: Posts about self tracking.
+    aliases: []
+    count: 5
+  short-stories:
+    description: Posts about short stories.
+    aliases:
+    - short story
+    count: 5
+  simulation:
+    description: Posts about simulation.
+    aliases: []
+    count: 5
+  slashdot:
+    description: Posts about slashdot.
+    aliases: []
+    count: 5
+  sms:
+    description: Posts about sms.
+    aliases: []
+    count: 5
+  snopes:
+    description: Posts about snopes.
+    aliases: []
+    count: 5
+  software-industry:
+    description: Posts about software industry.
+    aliases: []
+    count: 5
+  static-sites:
+    description: Posts about static sites.
+    aliases:
+    - static site
+    count: 5
+  straive:
+    description: Posts about straive.
+    aliases: []
+    count: 5
+  style-transfer:
+    description: Posts about style transfer.
+    aliases: []
+    count: 5
+  subscription-models:
+    description: Posts about subscription models.
+    aliases:
+    - subscription model
+    count: 5
+  synthesis:
+    description: Posts about synthesis.
+    aliases: []
+    count: 5
+  teaching:
+    description: Posts about teaching.
+    aliases: []
+    count: 5
+  technology-trends:
+    description: Posts about technology trends.
+    aliases: []
+    count: 5
+  time-magazine:
+    description: Posts about time magazine.
+    aliases: []
+    count: 5
+  trivia:
+    description: Posts about trivia.
+    aliases: []
+    count: 5
+  unicode:
+    description: Posts about unicode.
+    aliases: []
+    count: 5
+  vacation:
+    description: Posts about vacation.
+    aliases: []
+    count: 5
+  vs-code:
+    description: Posts about vs code.
+    aliases: []
+    count: 5
+  web-directory:
+    description: Posts about web directory.
+    aliases:
+    - web directories
+    count: 5
+  weight-loss:
+    description: Posts about weight loss.
+    aliases: []
+    count: 5
+  wired:
+    description: Posts about wired.
+    aliases: []
+    count: 5
+  world-trade-center:
+    description: Posts about world trade center.
+    aliases: []
+    count: 5
+  yahoo-messenger:
+    description: Posts about yahoo messenger.
+    aliases: []
+    count: 5
+  zdnet:
+    description: Posts about zdnet.
+    aliases: []
+    count: 5
