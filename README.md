@@ -54,37 +54,14 @@ WIP commits are pushed to the `live` branch. The `prod` branch holds permanent c
 
 ## Keeping the site up to date
 
-Use this when adding posts/pages. It fills missing LLM-generated front matter, refreshes embeddings, rebuilds the static site, and runs the build-script tests. `summarize.py` is idempotent: files that already have the required fields are skipped unless you pass `--force`.
+Use this when adding posts/pages. It fills missing LLM-generated front matter, refreshes embeddings, rebuilds the static site, and runs the build-script tests. It assumes `GEMINI_API_KEY` is already loaded.
 
 ```bash
-#!/usr/bin/env bash
-set -euo pipefail
-
 cd ~/code/blog
-
-# Assumes GEMINI_API_KEY is already loaded.
-# Fill missing description + canonical tags. Existing metadata is skipped.
-mapfile -t markdown < <(find posts pages -name '*.md' -print | sort)
-uv run ~/code/scripts/summarize.py blog "${markdown[@]}" --workers 1
-
-# If summarize.py warns about proposed tags, either replace them with existing tags
-# or add approved new tags to metadata-tags.yml with a one-line description.
-# To intentionally regenerate metadata for specific files, rerun summarize.py
-# on those files with --force.
-
-# Refresh Gemini embeddings used by static related posts.
-# This is incremental; unchanged files are skipped.
-uv run analysis/embeddings/embeddings.py
-
-# Optional: refresh the embedding map published outside the main blog build.
-# just embeddings
-
-# Build Hugo, Pagefind search, corpus.jsonl, tags.json, llms.txt, and related posts.
-bash setup.sh
-
-# Verify the local build scripts.
-uv run --with pytest --with pyyaml --with typer --with numpy --with pandas --with pyarrow --with ruamel.yaml pytest -q scripts
+just update
 ```
+
+`summarize.py` is idempotent: files that already have `description` and `tags` are skipped unless you pass `--force`. To intentionally regenerate metadata for specific files, run `uv run ~/code/scripts/summarize.py blog path/to/file.md --force`.
 
 Recurring files:
 
