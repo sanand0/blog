@@ -1,5 +1,7 @@
 {{- $page := .page | default . -}}
 {{- $from := .from | default $page -}}
+{{- $showTags := .showTags | default false -}}
+{{- $showPermalink := .showPermalink | default false -}}
 {{- $segments := slice -}}
 
 {{- if not $page.Date.IsZero -}}
@@ -43,13 +45,17 @@
 {{- $segments = $segments | append (printf "<span class=\"post-meta-cats\">%s</span>" (delimit $cat_links ", ")) -}}
 {{- end -}}
 
-{{- $tags := $page.GetTerms "tags" -}}
+{{- $tags := cond $showTags ($page.GetTerms "tags") slice -}}
 {{- if $tags -}}
 {{- $tag_links := slice -}}
 {{- range $tags -}}
 {{- $tag_links = $tag_links | append (printf "<a href=\"%s\">%s</a>" (partial "rel_link.html" (dict "from" $from "to" .RelPermalink)) .LinkTitle) -}}
 {{- end -}}
 {{- $segments = $segments | append (printf "<span class=\"post-meta-tags\">%s</span>" (delimit $tag_links ", ")) -}}
+{{- end -}}
+
+{{- if $showPermalink -}}
+{{- $segments = $segments | append (printf "<span class=\"post-meta-permalink\"><a href=\"%s\">Permalink</a></span>" $page.Permalink) -}}
 {{- end -}}
 
 {{- with $segments -}}

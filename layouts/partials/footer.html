@@ -1,17 +1,62 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
     <div class="footer-columns">
+        {{- $main_sections := site.Params.mainSections | default (slice "posts") -}}
+        {{- $base_path := (urls.Parse site.BaseURL).Path | strings.TrimSuffix "/" -}}
+        {{- $posts := where site.RegularPages "Type" "in" $main_sections -}}
         <details class="footer-section" id="footer-categories" open>
             <summary>Categories</summary>
-            <ul></ul>
+            <ul>
+                {{- range site.Taxonomies.categories.ByCount }}
+                <li><a href="{{ partial "rel_link.html" (dict "from" $ "to" .Page.RelPermalink) }}"><span class="nav-name">{{ .Page.LinkTitle }}</span><span class="nav-count">{{ .Count }}</span></a></li>
+                {{- end }}
+            </ul>
         </details>
         <details class="footer-section" id="footer-archives" open>
             <summary>Archives</summary>
-            <ul></ul>
+            <ul>
+                {{- $byYear := $posts.GroupByDate "2006" -}}
+                {{- $latestYear := "" -}}
+                {{- if $byYear -}}{{- $latestYear = (index $byYear 0).Key -}}{{- end -}}
+                {{- range $posts.GroupByDate "2006-01" }}
+                    {{- $parts := split .Key "-" -}}
+                    {{- $year := index $parts 0 -}}
+                    {{- if eq $year $latestYear }}
+                    {{- $t := time.AsTime (printf "%s-01T00:00:00Z" .Key) -}}
+                    <li><a href="{{ partial "rel_link.html" (dict "from" $ "to" (printf "%s/%s/%s/" $base_path $year (index $parts 1))) }}"><span class="nav-name">{{ $t.Format "Jan 2006" }}</span><span class="nav-count">{{ len .Pages }}</span></a></li>
+                    {{- end }}
+                {{- end }}
+                {{- range $byYear }}
+                    {{- if ne .Key $latestYear }}
+                    <li><a href="{{ partial "rel_link.html" (dict "from" $ "to" (printf "%s/%s/" $base_path .Key)) }}"><span class="nav-name">{{ .Key }}</span><span class="nav-count">{{ len .Pages }}</span></a></li>
+                    {{- end }}
+                {{- end }}
+            </ul>
+        </details>
+        <details class="footer-section" id="footer-tags" open>
+            <summary>Tags</summary>
+            <ul>
+                {{- range first 24 site.Taxonomies.tags.ByCount }}
+                <li><a href="{{ partial "rel_link.html" (dict "from" $ "to" .Page.RelPermalink) }}"><span class="nav-name">{{ .Page.LinkTitle }}</span><span class="nav-count">{{ .Count }}</span></a></li>
+                {{- end }}
+            </ul>
         </details>
         <details class="footer-section" id="footer-pages" open>
             <summary>Pages</summary>
-            <ul></ul>
+            <ul>
+                {{- $sitePages := where site.Pages "Kind" "in" (slice "page" "section") -}}
+                {{- $sitePages = where $sitePages "Type" "not in" $main_sections -}}
+                {{- range sort $sitePages "Title" }}
+                    {{- $path := "" -}}
+                    {{- with .File -}}{{- $path = .Path -}}{{- end -}}
+                    {{- $path = strings.TrimPrefix "content/" $path -}}
+                    {{- $is_top := and (eq .Kind "page") (not (strings.Contains $path "/")) -}}
+                    {{- $is_section := and (eq .Kind "section") (strings.HasSuffix $path "/_index.md") -}}
+                    {{- if and $path (fileExists (printf "pages/%s" $path)) (or $is_top $is_section) }}
+                    <li><a href="{{ partial "rel_link.html" (dict "from" $ "to" .RelPermalink) }}"><span class="nav-name">{{ .LinkTitle }}</span></a></li>
+                    {{- end }}
+                {{- end }}
+            </ul>
         </details>
     </div>
 </footer>

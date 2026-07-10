@@ -1,0 +1,39 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }} <sup><strong>{{ len .Pages }}</strong></sup></h1>
+  {{- with .OutputFormats.Get "rss" }}
+  <p><a href="{{ partial "rel_link.html" (dict "from" $ "to" .RelPermalink) }}">RSS feed</a></p>
+  {{- end }}
+  {{- with .Description }}
+  <div class="post-description">{{ . }}</div>
+  {{- end }}
+</header>
+
+{{- $pages := .Pages.ByDate.Reverse -}}
+{{- range $pages.GroupByDate "2006" }}
+<section class="tag-year">
+  <h2>{{ .Key }} <sup>{{ len .Pages }}</sup></h2>
+  {{- range .Pages }}
+  <article class="post-entry tag-entry">
+    {{- partial "entry_thumb.html" . -}}
+    <header class="entry-header">
+      <h3 class="entry-hint-parent">{{ .Title }}</h3>
+    </header>
+    {{- if (ne (.Param "hideSummary") true) }}
+    <div class="entry-content">
+      <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    </div>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <footer class="entry-footer">
+      {{- partial "post_meta.html" (dict "page" . "from" $) -}}
+    </footer>
+    {{- end }}
+    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ partial "rel_link.html" (dict "from" $ "to" .RelPermalink) }}"></a>
+  </article>
+  {{- end }}
+</section>
+{{- end }}
+
+{{- end }}

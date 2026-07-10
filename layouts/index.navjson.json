@@ -8,6 +8,12 @@
   {{- $categories = $categories | append (dict "name" .Page.LinkTitle "url" .Page.RelPermalink "count" .Count) -}}
 {{- end -}}
 
+{{- /* Top tags sorted by count */ -}}
+{{- $tags := slice -}}
+{{- range first 24 site.Taxonomies.tags.ByCount -}}
+  {{- $tags = $tags | append (dict "name" .Page.LinkTitle "url" .Page.RelPermalink "count" .Count) -}}
+{{- end -}}
+
 {{- /* Archives: monthly links for latest year, yearly links for past years */ -}}
 {{- $archives := slice -}}
 {{- $byYear := $posts.GroupByDate "2006" -}}
@@ -44,4 +50,4 @@
     {{- $pages = $pages | append (dict "name" .LinkTitle "url" .RelPermalink) -}}
   {{- end -}}
 {{- end -}}
-{{ dict "categories" $categories "archives" $archives "pages" $pages | jsonify (dict "indent" "  ") }}
+{{ dict "categories" $categories "archives" $archives "tags" $tags "pages" $pages | jsonify (dict "indent" "  ") }}

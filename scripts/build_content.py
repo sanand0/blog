@@ -113,6 +113,25 @@ def load_metadata(path: Path) -> dict[str, Any]:
     return payload
 
 
+def load_tag_metadata(path: Path) -> list[dict[str, Any]]:
+    """Load canonical tag descriptions from metadata-tags.yml."""
+    if not path.exists():
+        return []
+    payload = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    tags = payload.get("tags") or {}
+    if not isinstance(tags, dict):
+        return []
+    return [
+        {
+            "slug": slug,
+            "name": slug,
+            "description": str(details.get("description") or "").strip(),
+        }
+        for slug, details in tags.items()
+        if isinstance(details, dict)
+    ]
+
+
 def write_index(path: Path, title: str, params: dict[str, Any] | None = None) -> None:
     """Write a simple _index.md with title and optional params."""
     data: dict[str, Any] = {"title": title}
@@ -140,7 +159,10 @@ def write_term_pages(
             continue
         seen.add(slug)
         name = (term.get(name_key) or "").strip() or slug
-        write_index(base_dir / slug / "_index.md", name)
+        params = {}
+        if term.get("description"):
+            params["description"] = term["description"]
+        write_index(base_dir / slug / "_index.md", name, params)
 
 
 def write_posts_index(content_dir: Path, author_login: str | None) -> None:
@@ -193,6 +215,7 @@ def write_archives(content_dir: Path, dates: list[datetime]) -> None:
 @app.command()
 def build(
     metadata_path: Path = Path("metadata.yml"),
+    tag_metadata_path: Path = Path("metadata-tags.yml"),
     posts_dir: Path = Path("posts"),
     pages_dir: Path = Path("pages"),
     content_dir: Path = Path("content"),
@@ -204,7 +227,7 @@ def build(
 
     metadata = load_metadata(metadata_path)
     categories = metadata.get("categories") or []
-    tags = metadata.get("tags") or []
+    tags = load_tag_metadata(tag_metadata_path) or metadata.get("tags") or []
     authors = metadata.get("authors") or []
 
     write_term_pages(content_dir, "categories", "Categories", categories)

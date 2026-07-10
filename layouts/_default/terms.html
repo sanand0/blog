@@ -12,9 +12,12 @@
 {{- end }}
 
 <ul class="terms-tags">
-    {{- range .Data.Terms.Alphabetical }}
+    {{- range .Data.Terms.ByCount }}
     <li>
         <a href="{{ partial "rel_link.html" (dict "from" $ "to" .Page.RelPermalink) }}">{{ .Page.LinkTitle }} <sup><strong><sup>{{ .Count }}</sup></strong></sup></a>
+        {{- with .Page.Description }}
+        <span class="term-description">{{ . }}</span>
+        {{- end }}
     </li>
     {{- end }}
 </ul>

@@ -214,6 +214,18 @@ footer.footer-meta {
   height: auto;
 }
 
+.term-description {
+  display: block;
+  margin-top: 0.2rem;
+  color: var(--secondary);
+  font-size: 0.85rem;
+}
+
+.tag-year h2 {
+  margin-top: 2rem;
+  border-bottom: 1px solid var(--border);
+}
+
 .video-embed {
   position: relative;
   padding-top: 56.25%;

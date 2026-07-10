@@ -24,6 +24,7 @@
       .then((nav) => {
         fillNav("#footer-categories ul", nav.categories, "name", "count");
         fillNav("#footer-archives ul", nav.archives, "label", "count");
+        fillNav("#footer-tags ul", nav.tags, "name", "count");
         fillNav("#footer-pages ul", nav.pages, "name", null);
       });
   }

@@ -21,7 +21,7 @@
     {{- end }}
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
-      {{- partial "post_meta.html" (dict "page" . "from" .) -}}
+      {{- partial "post_meta.html" (dict "page" . "from" . "showTags" true "showPermalink" true) -}}
     </div>
     {{- end }}
   </header>
