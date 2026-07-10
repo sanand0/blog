@@ -171,14 +171,7 @@ Fact-check and critically evaluate yours and theirs, take what's better, drop wh
 
 ## Core concepts
 
-```markdown
-What are the core concepts, i.e. top NON-INTUITIVE well-established lessons/principles, of **\_\_**, knowing which, most of the rest of the field is derivable?
-
-- Source comprehensively from authoritative sources.
-- Pick the 10 that are mentioned repeatedly, have the highest applicability and usefulness, while being non-obvious.
-- Fact-check each concept. Include references to authoritative sources.
-- Write as a bulleted point. Explain each concept in a few simple sentences (ELI15) that are easy to understand intuitively.
-```
+Migrated to [`~/code/blog/pages/prompts/core-concepts.md`](https://github.com/sanand0/blog/blob/24aa51c7c16a3b6432371571b9a4465edb4ec4d3/pages/prompts/core-concepts.md#version-2-31-mar-2026)
 
 ## Comic page
 
@@ -375,10 +368,19 @@ Summarize the transcript, along with action items, to share with the attendees.
 Write in the light style of Matt Levine reporting on this meeting.
 ```
 
-## Meeting transcript fact list
+## Meeting transcript ideas list
+
+<!-- Based on https://chatgpt.com/c/6a4ba6ff-da2c-83ec-9637-3c9dbaa860ab -->
 
 ```markdown
-List every learning / interesting fact from the transcript in sequence.
+List the top 40-60 learnings / interesting and reusable ideas from this transcript.
+Group under clear themes.
+Write as bullets combining the idea, its strongest supporting example, and a short verbatim quote where useful.
+Prioritize surprising mental models, useful distinctions, provocative questions, concrete applications, and memorable stories.
+Skip logistics, repetition, small talk, and facts that do not generalize.
+Lightly edit or paraphrase for brevity, but preserve distinctive wording.
+Add ⭐ to roughly the top 10–15%, ⭐⭐ to the top 3–5%, and ⭐⭐⭐ to 1-2 exceptional ideas.
+End with **Small gems** for memorable observations that do not fit the main themes.
 ```
 
 ## Photo coloring / upscaling
@@ -437,6 +439,15 @@ Use on press releases, contracts, policies.
 
 ```markdown
 Read between the lines and explore implications and trends
+```
+
+## Refactor smaller code
+
+```markdown
+Is this the smallest clean implementation of what we want? Or can we refactor to make it even smaller, keeping it readable and maintainable?
+List all such opportunities, prioritized.
+Which of these would you suggest I implement and why?
+Implement and test.
 ```
 
 ## Slide deck

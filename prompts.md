@@ -1,5 +1,14 @@
 # Prompts
 
+## Post meta, 08 Jul 2026
+
+<!--
+cd ~/code/blog
+dev.sh -- codex --yolo --model gpt-5.5 --config model_reasoning_effort=medium
+-->
+
+In the .post-meta line, minimally add a [Permalink](https://www.s-anand.net/blog/...) link that adds the permalink based on the `metadata.yaml` site.link base URL.
+
 ## TIL, 07 Jun 2026
 
 <!--
