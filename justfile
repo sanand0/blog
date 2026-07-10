@@ -8,7 +8,7 @@ update:
 
   # Assumes GEMINI_API_KEY is already loaded.
   mapfile -t markdown < <(find posts pages -name '*.md' -print | sort)
-  uv run ~/code/scripts/summarize.py blog "${markdown[@]}" --workers 1
+  uv run ~/code/scripts/summarize.py blog "${markdown[@]}" --model gemini-2.5-flash --workers 1
 
   # If summarize.py warns about proposed tags, replace them with existing tags
   # or add approved new tags to metadata-tags.yml with a one-line description.
