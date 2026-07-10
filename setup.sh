@@ -10,6 +10,7 @@ grep -E '^(summary|description|keywords):' posts/**/*.md pages/**/*.md | sort > 
 
 # Build
 mise x hugo -- hugo
+npx -y pagefind@1.5.2 --site public/blog
 
 # Add nofollow to comment links
 uv run scripts/postprocess_comments_nofollow.py

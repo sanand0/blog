@@ -3,7 +3,7 @@
 <article class="post-single{{ with .Params.classes }} {{ . }}{{ end }}">
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
-    <h1 class="post-title entry-hint-parent">
+    <h1 class="post-title entry-hint-parent" data-pagefind-body data-pagefind-meta="title">
       {{ .Title }}
       {{- if .Draft }}
       <span class="entry-hint" title="Draft">
@@ -15,7 +15,7 @@
       {{- end }}
     </h1>
     {{- if .Description }}
-    <div class="post-description">
+    <div class="post-description" data-pagefind-body data-pagefind-meta="description">
       {{ .Description }}
     </div>
     {{- end }}
@@ -41,7 +41,7 @@
   {{- end }}
 
   {{- if $content }}
-  <div class="post-content">
+  <div class="post-content" data-pagefind-body>
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" $content -}}
     {{- else }}{{ $content }}{{ end }}

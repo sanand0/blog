@@ -1,0 +1,39 @@
+{{- define "main" }}
+
+<header class="page-header pagefind-search-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <div class="post-description">{{ . }}</div>
+  {{- end }}
+</header>
+
+<style>
+  .pagefind-search {
+    --pagefind-ui-primary: var(--primary);
+    --pagefind-ui-text: var(--content);
+    --pagefind-ui-background: var(--theme);
+    --pagefind-ui-border: var(--border);
+    --pagefind-ui-tag: var(--entry);
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 6px;
+    --pagefind-ui-image-border-radius: 6px;
+    --pagefind-ui-font: inherit;
+  }
+
+  .pagefind-search .pagefind-ui__form::before {
+    background-color: var(--secondary);
+  }
+
+  .pagefind-search .pagefind-ui__search-input {
+    background: var(--entry);
+    color: var(--primary);
+  }
+</style>
+
+<div id="search" class="pagefind-search"></div>
+<noscript>
+  <p>Search needs JavaScript. Browse <a href="{{ partial "rel_link.html" (dict "from" . "to" "archives/") }}">archives</a> or <a href="{{ partial "rel_link.html" (dict "from" . "to" "categories/") }}">categories</a> instead.</p>
+</noscript>
+
+{{- end }}

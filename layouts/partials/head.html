@@ -29,6 +29,23 @@
 {{- if and $rawMarkdownBase $sourcePath }}
 <link rel="alternate" type="text/markdown" href="{{ printf "%s/%s" (strings.TrimSuffix "/" $rawMarkdownBase) $sourcePath }}">
 {{- end }}
+{{- with .Params.categories }}
+<meta data-pagefind-meta="categories[content]" content="{{ delimit . ", " }}">
+{{- range . }}
+<meta data-pagefind-filter="category[content]" content="{{ . }}">
+{{- end }}
+{{- end }}
+{{- with .Params.tags }}
+<meta data-pagefind-meta="tags[content]" content="{{ delimit . ", " }}">
+{{- range . }}
+<meta data-pagefind-filter="tag[content]" content="{{ . }}">
+{{- end }}
+{{- end }}
+{{- if not .Date.IsZero }}
+{{- $year := .Date.Format "2006" }}
+<meta data-pagefind-meta="year[content]" data-pagefind-filter="year[content]" content="{{ $year }}">
+<meta data-pagefind-meta="date[content]" content="{{ .Date.Format "2006-01-02" }}">
+{{- end }}
 {{- if site.Params.analytics.google.SiteVerificationTag }}
 <meta name="google-site-verification" content="{{ site.Params.analytics.google.SiteVerificationTag }}">
 {{- end }}
@@ -82,17 +99,24 @@
 
 {{- /* Search */}}
 {{- if (eq .Layout `search`) -}}
-<link crossorigin="anonymous" rel="preload" as="fetch" href="../index.json">
-{{- $fastsearch := resources.Get "js/fastsearch.js" | js.Build (dict "params" (dict "fuseOpts" site.Params.fuseOpts)) | resources.Minify }}
-{{- $fusejs := resources.Get "js/fuse.basic.min.js" }}
-{{- $license_js := resources.Get "js/license.js" }}
-{{- if not site.Params.assets.disableFingerprinting }}
-{{- $search := (slice $fusejs $license_js $fastsearch ) | resources.Concat "assets/js/search.js" | fingerprint }}
-<script defer crossorigin="anonymous" src="{{ partial "rel_link.html" (dict "from" . "to" $search.RelPermalink) }}" integrity="{{ $search.Data.Integrity }}"></script>
-{{- else }}
-{{- $search := (slice $fusejs $fastsearch ) | resources.Concat "assets/js/search.js" }}
-<script defer crossorigin="anonymous" src="{{ partial "rel_link.html" (dict "from" . "to" $search.RelPermalink) }}"></script>
-{{- end }}
+{{- $pagefind_css := printf "%s/pagefind/pagefind-ui.css" $base_path -}}
+{{- $pagefind_js := printf "%s/pagefind/pagefind-ui.js" $base_path -}}
+<link rel="stylesheet" href="{{ partial "rel_link.html" (dict "from" . "to" $pagefind_css) }}">
+<script src="{{ partial "rel_link.html" (dict "from" . "to" $pagefind_js) }}"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", () => {
+    new PagefindUI({
+      element: "#search",
+      showImages: false,
+      showSubResults: true,
+      pageSize: 10,
+      resetStyles: false,
+      excerptLength: 30,
+      openFilters: ["category", "tag", "year"],
+      translations: { placeholder: "Search the archive" }
+    });
+  });
+</script>
 {{- end -}}
 
 {{- /* Favicons */}}

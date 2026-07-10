@@ -41,3 +41,5 @@ Done means:
 
 - Started: inspected README, `setup.sh`, `hugo.toml`, and current script style.
 - Milestone 1: added focused tests for corpus export and implemented `scripts/export_corpus.py`; focused exporter tests pass.
+- Milestone 1 complete: committed `ee52d98` after full `bash setup.sh`, corpus integrity checks, script tests, and fresh sitemap diff with zero removals.
+- Milestone 2: added pinned Pagefind build, `/search/` page/layout, search-only Pagefind assets, Pagefind body/filter/meta attributes, header Search link, and generated-output tests. Full build reports 2,982 indexed pages and 3 filters; served browser smoke returns `Discussion with Arvind Satyanarayan` first for the GoFish phrase; sitemap diff vs Milestone 1 has zero removals and one added URL.

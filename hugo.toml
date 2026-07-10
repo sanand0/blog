@@ -85,6 +85,11 @@ cleanDestinationDir = true
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]
 
+[[menu.main]]
+  name = "Search"
+  url = "search/"
+  weight = 10
+
 [pagination]
   pagerSize = 20
   path = "page"
