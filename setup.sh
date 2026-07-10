@@ -21,6 +21,7 @@ uv run scripts/postprocess_feed_paths.py public/blog
 
 # Export canonical corpus
 uv run scripts/export_corpus.py
+uv run scripts/build_agent_exports.py
 
 # Copy special pages
 cp public/blog/s-anand/index.html public/   # From blog/pages/s-anand.md

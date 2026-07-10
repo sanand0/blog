@@ -35,6 +35,10 @@ To work with me on **projects**, please [send a pull request](https://github.com
 [**RSS** Feed](/blog/index.xml). Visit "Categories" at the bottom for category-specific feeds. \
 [**Email** Newsletter](https://groups.google.com/g/s-anand) via Google Groups.
 
+**FOR AI AGENTS**
+
+Start with [/llms.txt](/llms.txt), then use [/blog/tags.json](/blog/tags.json) and [/blog/corpus.jsonl](/blog/corpus.jsonl). Cite posts with their canonical URL from the corpus. Every HTML page links its raw Markdown source in the page head. This is a no-copyright/CC0-style archive; reuse is welcome.
+
 **RECENT POSTS**
 
 {{< post-calendar >}}

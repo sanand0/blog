@@ -133,3 +133,28 @@ Body
         assert "missing/index.html" in str(error)
     else:
         raise AssertionError("Expected missing public file to fail")
+
+
+def test_export_corpus_falls_back_to_humanized_slug_for_missing_title(tmp_path):
+    content = tmp_path / "content"
+    public = tmp_path / "public/blog"
+    write(
+        content / "posts/2026/missing-title.md",
+        """---
+slug: missing-title
+sourcePath: posts/2026/missing-title.md
+---
+
+Body
+""",
+    )
+    write(public / "missing-title/index.html", "<html></html>")
+
+    records = export_corpus.export_corpus(
+        content_dir=content,
+        public_dir=public,
+        base_url="https://www.s-anand.net/blog/",
+        raw_markdown_base="https://raw.githubusercontent.com/sanand0/blog/main",
+    )
+
+    assert records[0]["title"] == "Missing title"

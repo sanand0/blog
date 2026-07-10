@@ -152,6 +152,15 @@ def source_markdown_url(front_matter: dict[str, Any], raw_markdown_base: str) ->
     return f"{raw_markdown_base.rstrip('/')}/{source_path}"
 
 
+def title_for_doc(doc: MarkdownDoc) -> str:
+    """Return a non-empty title for agent-facing exports."""
+    title = str(doc.front_matter.get("title") or "").strip()
+    if title:
+        return title
+    slug = str(doc.front_matter.get("slug") or doc.path.stem).strip()
+    return slug.replace("-", " ").strip().capitalize()
+
+
 def record_for_doc(
     doc: MarkdownDoc, content_dir: Path, public_dir: Path, base_url: str, raw_markdown_base: str
 ) -> dict[str, Any]:
@@ -164,7 +173,7 @@ def record_for_doc(
     return {
         "slug": str(doc.front_matter.get("slug") or doc.path.stem),
         "url": url,
-        "title": str(doc.front_matter.get("title") or "").strip(),
+        "title": title_for_doc(doc),
         "date": serialize_date(doc.front_matter.get("date")),
         "lastmod": serialize_date(doc.front_matter.get("lastmod")),
         "categories": as_list(doc.front_matter.get("categories")),
