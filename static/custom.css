@@ -226,6 +226,30 @@ footer.footer-meta {
   border-bottom: 1px solid var(--border);
 }
 
+.related-posts {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.related-posts ul {
+  padding-inline-start: 1.2rem;
+}
+
+.related-posts li {
+  margin: 0.8rem 0;
+}
+
+.related-posts time {
+  color: var(--secondary);
+  font-size: 0.85rem;
+}
+
+.related-posts p {
+  margin: 0.2rem 0 0;
+  color: var(--secondary);
+}
+
 .video-embed {
   position: relative;
   padding-top: 56.25%;

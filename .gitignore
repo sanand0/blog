@@ -1,6 +1,7 @@
 # Generated content
 public/
 content/
+data/related-posts.json
 description.md
 .hugo_build.lock
 

@@ -48,6 +48,10 @@
   </div>
   {{- end }}
 
+  {{- if eq .Type "posts" }}
+  {{- partial "related_posts.html" . }}
+  {{- end }}
+
   <footer class="post-footer">
     {{- with .Params.linkedin }}
     <a class="linkedin-post-link" href="{{ . }}" target="_blank" rel="noopener noreferrer">

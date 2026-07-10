@@ -1,0 +1,21 @@
+{{- $sourcePath := .Params.sourcePath | default "" -}}
+{{- $relatedData := index site.Data "related-posts" -}}
+{{- with index $relatedData $sourcePath }}
+{{- if ge (len .) 3 }}
+<section class="related-posts">
+  <h2>Related</h2>
+  <ul>
+    {{- range first 5 . }}
+    {{- $page := site.GetPage .path }}
+    {{- if $page }}
+    <li>
+      <a href="{{ partial "rel_link.html" (dict "from" $ "to" $page.RelPermalink) }}">{{ .title }}</a>
+      {{- with .date }} <time datetime="{{ . }}">{{ . }}</time>{{- end }}
+      {{- with .description }}<p>{{ . }}</p>{{- end }}
+    </li>
+    {{- end }}
+    {{- end }}
+  </ul>
+</section>
+{{- end }}
+{{- end }}
