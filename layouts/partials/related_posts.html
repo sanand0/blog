@@ -1,17 +1,19 @@
-{{- $sourcePath := .Params.sourcePath | default "" -}}
 {{- $relatedData := index site.Data "related-posts" -}}
-{{- with index $relatedData $sourcePath }}
+{{- $pagesBySlug := partialCached "pages_by_slug.html" site "pages-by-slug" -}}
+{{- with index $relatedData .Slug }}
 {{- if ge (len .) 3 }}
 <section class="related-posts">
   <h2>Related</h2>
   <ul>
     {{- range first 5 . }}
-    {{- $page := site.GetPage .path }}
+    {{- $page := index $pagesBySlug . }}
     {{- if $page }}
     <li>
-      <a href="{{ partial "rel_link.html" (dict "from" $ "to" $page.RelPermalink) }}">{{ .title }}</a>
-      {{- with .date }} <time datetime="{{ . }}">{{ . }}</time>{{- end }}
-      {{- with .description }}<p>{{ . }}</p>{{- end }}
+      <a href="{{ partial "rel_link.html" (dict "from" $ "to" $page.RelPermalink) }}">{{ $page.Title }}</a>
+      {{- with $page.Date }}
+      <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ .Format "Mon, 2 Jan 2006" }}</time>
+      {{- end }}
+      {{- with $page.Description }}<p>{{ . }}</p>{{- end }}
     </li>
     {{- end }}
     {{- end }}

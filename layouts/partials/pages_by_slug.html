@@ -1,0 +1,5 @@
+{{- $pages := dict -}}
+{{- range site.RegularPages -}}
+  {{- $pages = merge $pages (dict .Slug .) -}}
+{{- end -}}
+{{- return $pages -}}
