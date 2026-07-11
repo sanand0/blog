@@ -5,6 +5,7 @@ categories:
   - london-2000
 wp_id: 2165
 description: I experienced a global classroom where students challenged the professor on national accounting and bankruptcy systems. Despite feeling intimidated by my classmates’ elite industry connections, I held my own during the Koito case discussion through independent research.
+tags: [london-business-school, globalization, higher-education, bankruptcy, music-industry, india, iim-bangalore, web-search]
 ---
 
 The reality of international interaction really came through today in the Mergers & MBOs class. Prof. Paulo Volpin commented that 'So, eefectively, ve see Germany has a pooor accounting seestem." To which, immediately, a German pounced up and said, "I don't go with this result," and proceeded on a defence of why the system was right for Germany. A few other Germans joined in. Poor Prof. Volpin had to make a hasty retreat. Later, when making a similar comment about Belgium, he first clarified: "Are there any Belgians in the class?"

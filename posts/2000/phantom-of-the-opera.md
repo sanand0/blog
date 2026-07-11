@@ -5,6 +5,7 @@ categories:
   - london-2000
 wp_id: 2159
 description: I saw The Phantom of the Opera at Her Majesty's Theatre in London. Despite cramped balcony seating, I was mesmerized by the live music and technical stagecraft, including the smoke-filled lake and massive, mobile set pieces.
+tags: [opera, london, classical-music, visual-storytelling, performance]
 ---
 
 There's a stall that sells theatre tickets for [half price at Leicester Square](http://www.officiallondontheatre.co.uk/booth.cfm), so I went there in the morning. It opened only at 12 noon, so rather than waiting, I just bought tickets for the balcony. 15.50 pounds didn't seem to much. The musical was "The Phantom of the Opera", running at Her Majesty's Theatre.

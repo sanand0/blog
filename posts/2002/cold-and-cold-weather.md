@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 1254
 description: I have a cold and'm highlighting that it isn't caused by cold weather, contrary to traditional beliefs. I've linked to resources debunking the connection between low temperatures and catching the common cold.
+tags: [public-health, '2002', blogging]
 ---
 
 I have a cold. And although some [Chinese may say otherwise](http://www.mindbodysoul.com/corpus/body/health/chinese/disease4.html), it has [nothing to do with cold weather](http://www.cf.ac.uk/biosi/associates/cold/info.html).

@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 544
 description: I highlight how framing uses specific vocabulary to embed worldviews into public discourse. By looking at examples like tax relief, I show how even opposing a statement can reinforce its underlying psychological and political frames.
+tags: [s-anand, '2005']
 ---
 
 [Framing](http://www.rockridgeinstitute.org/projects/strategic/simple_framing/view?searchterm=simple%20framing) - using words to build a frame of mind.

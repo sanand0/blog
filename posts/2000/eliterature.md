@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 2070
 description: I found eLiterature.org, a directory for electronic literature. Although the current listings are underwhelming, I think it has the potential to become a useful hub for tracking digital-born fiction, poetry, and hypermedia.
+tags: [web-directory, digital-publishing, literature, interactive-fiction, digital-culture]
 ---
 
 [eLiterature.org](http://www.eliterature.org) is a directory of electronic literature. Nothing great so far, but maybe, some day...

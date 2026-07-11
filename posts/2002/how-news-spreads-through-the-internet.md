@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 1323
 description: I explore Staci Kramer's analysis of how news about Turner Broadcasting's controversial stance on ad-skipping spread across the early internet, tracing its path through legal sites and personal blogs to illustrate digital information flow.
+tags: [internet-history, early-internet, internet-culture, journalism, blogs, copyright, digital-rights]
 ---
 
 Staci Kramer interviewed the CEO of Turner Broadcasting (who, among other things, said stuff like not watching ads is theft). Staci traces how news of this [spread through the Internet](http://www.ojr.org/ojr/kramer/1022087318.php) into sites like [top 10 copyright crimes](http://research.yale.edu/lawmeme/modules.php?name=News&file=article&sid=198) and "[But Daddy I need to go](http://www.onegoodmove.org/1gm/1gmarchive/000101.html)".

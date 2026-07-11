@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 337
 description: I highlight a video claiming the banana's ergonomic features prove God's existence. It's a classic example of a literal teleological argument, and I was struck by how serious the proponents seemed to be.
+tags: [online-video, humor, web-history, digital-media, the-onion, april-fools-day]
 ---
 
 [The banana proves God's existence](http://www.devilducky.com/media/44860/). I think they're serious.

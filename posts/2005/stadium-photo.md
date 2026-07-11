@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 731
 description: I shared a striking fisheye photograph of a stadium found on File Magazine. The wide-angle perspective captures the massive scale and unique architecture of the venue, evoking a visual style reminiscent of comic art.
+tags: ['2005', photo-sharing, digital-art, visual-storytelling, comic-strips, calvin-and-hobbes]
 ---
 
 [Fisheye photo of a stadium](http://www.filemagazine.com/thecollection/archives/2005/02/stadium.html).

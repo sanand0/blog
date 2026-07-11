@@ -6,6 +6,7 @@ categories:
   - llms
 wp_id: 4026
 description: "Browsing history plus LLM clustering can turn a fuzzy personal workflow problem into a practical workspace taxonomy, while voice chat makes the write-up almost frictionless."
+tags: [llms, web-browsers, productivity, ai-workflows, chatgpt, gemini]
 ---
 
 Here's an example of how I am using LLMs to solve a day-to-day workflow problem.

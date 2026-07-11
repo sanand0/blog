@@ -5,6 +5,7 @@ categories:
   - top-10-lists
 wp_id: 263
 description: I’ve compiled a list of high-quality educational video resources, including Berkeley course webcasts, Google TechTalks, and LongNow seminars. These links provide access to university lectures, science documentaries, and deep discussions on technology and long-term thinking.
+tags: [educational-resources, online-video, educational-technology, google-video, google, computer-history, history]
 ---
 
 - [Berkeley webcasts](http://webcast.berkeley.edu/courses/index.php) of their courses.

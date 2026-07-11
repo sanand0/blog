@@ -4,6 +4,7 @@ date: 2023-12-24T00:00:00+00:00
 categories:
   - til
 description: I compared Mixtral-8x7b to GPT-4, studied DPO for fine-tuning, and took notes on Jeff Bezos’ leadership principles. I also found tools like Whisper-standalone for Windows transcription and Token Tally for estimating LLM token and GPU costs.
+tags: [llms, fine-tuning, chatgpt, ai, developer-tools, speech-to-text, decision-making, productivity]
 ---
 
 This week, I learned:

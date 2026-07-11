@@ -4,6 +4,7 @@ date: 2025-11-26T00:00:00+05:30
 categories:
   - coding
 description: I investigated MapSCII’s terminal rendering pipeline, which uses Braille characters to achieve 2x4 pixel density per cell. Key techniques include polygon triangulation with Earcut and filling horizontal spans between edge points using Bresenham’s algorithm.
+tags: [ascii-art, unicode, computer-graphics, javascript, node-js, data-visualization, tutorials]
 ---
 
 I [asked Claude Sonnet 4.5 on GitHub Copilot](https://github.com/copilot/c/83dfdc9c-dbb5-4d8a-b16a-af25464bbec4):

@@ -4,6 +4,7 @@ date: 2026-03-29T00:00:00+00:00
 categories:
   - til
 description: I looked into "LLM Psychologist" job trends, OpenAI acquiring Astral, and the hedonic treadmill. I found new inference hardware hitting 30,000 tok/s and learned EARS syntax for better requirements engineering while experimenting with agentic git patterns.
+tags: [personal-update, ai-coding, technology-trends, vibe-coding, hardware-trends, ai-agents]
 ---
 
 This week, I learned:

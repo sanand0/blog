@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 1304
 description: I highlighted gatt.org, a clever spoof of the World Trade Organization website that the WTO openly dislikes. The project is an example of political satire and culture jamming, often associated with the activist group The Yes Men.
+tags: [satire, humor, internet-culture, web-culture, '2002', internet-history]
 ---
 
 While on the subject of spoofs, [gatt.org](http://www.gatt.org/) is a pretty good one on [wto.org](http://www.wto.org). WTO [doesn't like it](http://www.wto.org/english/news_e/pres99_e/pr151_e.htm), though.

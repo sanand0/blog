@@ -4,6 +4,7 @@ date: 2026-01-11T00:00:00+00:00
 categories:
   - til
 description: I explored diverse topics this week, from archiving software and NFL play-by-play data to the myths of learning styles. I also learned about Primo Levi’s chemistry analogies and how to use the HTML accesskey for keyboard shortcuts.
+tags: [learning, learning-strategies, psychology, keyboard-shortcuts, web-development, archiving]
 ---
 
 This week, I learned:

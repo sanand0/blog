@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 88
 description: I visited the Guangzhou Chen Family Temple and captured photos of incredible ivory sculptures. Some feature intricate nested spheres that seem impossible to carve, showcasing the extraordinary level of detail in traditional Chinese craftsmanship.
+tags: []
 ---
 
 Ivory sculptures at the Guangzhou Chen Family Temple. The first two, especially, have spheres within spheres within spheres... which looks impossible to carve.

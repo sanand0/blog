@@ -5,6 +5,7 @@ categories:
   - simple-explanations
 wp_id: 240
 description: I explore why certain "proofs" that 1=2 fail, focusing on the danger of rearranging non-absolutely convergent series like the log 2 expansion. I explain how the Riemann series theorem allows divergent series to sum to different values.
+tags: [mathematics, physics, reasoning, problem-solving]
 ---
 
 I've seen many proofs that 1=2. Here's a classic.

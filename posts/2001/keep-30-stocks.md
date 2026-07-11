@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 1911
 description: Reduce idiosyncratic risk in your portfolio by holding at least 30 different stocks. Recent research suggests that older diversification benchmarks are outdated, requiring a larger number of holdings to effectively manage market volatility and specific company risk.
+tags: [stock-market, risk-management, investment-research, research, '2001']
 ---
 
 "Studies have shown that..." idiosyncratic risk in stocks is higher. So, have [30 stocks in your portfolio](http://www.money.com/money/depts/investing/fundamentalist/archive/010130.html).

@@ -5,6 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 2830
 description: I show how to stream audio from a PC to iOS by turning VLC into a personal radio station. I configure the HTTP stream and MIME types so you can listen to music through Safari on an iPhone or iPad.
+tags: [streaming, digital-music, mp3, consumer-electronics]
 ---
 
 You can play a song on your PC and listen to it on your iPhone / iPad – converting your PC into a radio station. As with most things [VLC related](/blog/downloading-songs-from-youtube/), it’s tough to figure out but obvious in retrospect.

@@ -2,6 +2,7 @@
 title: Career Advice
 date: 2026-02-03T13:08:26+08:00
 description: I recommend sampling broadly early in your career, stacking rare skills, and over-using AI to discover new competencies. I also detail how to leverage boring tasks and find value in projects that never ship.
+tags: [career-advice, learning, ai, productivity, future-of-work, business-strategy, tech-industry]
 ---
 
 My answers to career advice people have asked me.

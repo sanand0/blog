@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 673
 description: Explore the Chemosphere, John Lautner's octagonal "most modern residence" perched on a steep Los Angeles slope. Built for an aerospace engineer and featured in Charlie's Angels 2, this architectural icon uses a unique central pedestal design.
+tags: ['2005', metafilter]
 ---
 
 [Chemosphere](http://images.google.com/images?q=chemosphere) is the world's most modern residence. Incidentally, [Charlie's Angels 2 was filmed here](http://www.seeing-stars.com/Locations/CA1/CharliesAngels2.shtml). [via MeFi](http://www.metafilter.com/mefi/41048)

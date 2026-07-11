@@ -5,6 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 201
 description: I reversed audio clips of music and instruments to see why backward sound is harder to recognize than backward video. By comparing asymmetric waveforms, I explored how our brains process temporal audio signals versus spatial visual data.
+tags: [s-anand, digital-music, mp3, audio-recording, 1980s-music, flickr]
 ---
 
 You can [play a video backwards](/blog/music-video-filmed-backwards/) and still recognise the scenes quite well. Can you do that with sound?

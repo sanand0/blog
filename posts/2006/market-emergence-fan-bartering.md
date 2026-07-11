@@ -5,6 +5,7 @@ categories:
   - business-realities
 wp_id: 437
 description: I investigated why a fan manufacturer's fixed wholesale pricing failed and discovered a secondary market in Lohar Chawl. Wholesalers used inventory bartering, territory poaching, and smuggling to bypass restrictions, showing how difficult it is to control free markets.
+tags: [management-consulting, business-strategy, market-trends, business-models, problem-solving, mumbai, s-anand]
 ---
 
 Over my last few years as a consultant, I've seen many interesting ways in which markets have emerged where they shouldn't have, creating havoc in pricing and scarcity. Fixed prices fluctuate, free goods acquire a value, and non-tradeable goods are traded. I'll share a few of these examples over the next few weeks.

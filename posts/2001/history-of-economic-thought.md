@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 1767
 description: I found the New School’s History of Economic Thought website to be an excellent resource for exploring contrasting viewpoints on business and economics, providing a deep dive into historical theories and diverse academic perspectives.
+tags: [economics, history, education, academic-publishing]
 ---
 
 New School's [History of Economic Thought](http://cepa.newschool.edu/het/home.htm) website is an excellent collection of contrasting viewpoints on business and economics.

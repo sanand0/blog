@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 617
 description: I share techniques for shooting at low shutter speeds without a tripod. This guide covers how to achieve sharper handheld photos in low light by focusing on stability, breathing, and camera handling to prevent motion blur.
+tags: [digital-cameras, search-history, google, del-icio-us, s-anand, '2005', web-search, use-cases]
 ---
 
 Taking pictures at [low shutter speeds without a tripod](http://sumitdhar.blogspot.com/2005/07/low-shutter-speeds-without-tripod.html).

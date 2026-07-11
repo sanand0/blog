@@ -8,6 +8,7 @@ categories:
 wp_id: 4045
 description: "Repeatedly telling a capable model to 'improve it' can evolve trivial code into surprisingly rich interactive apps, revealing iterative prompting as a creative search process."
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7318940432107728896/
+tags: [llms, llm-prompts, prompt-engineering, ai-coding, prompting, openai, llm-behavior]
 ---
 
 ![The Magic of Repeated ‘Improve It’ Prompts](/blog/assets/screenshot-1.webp)

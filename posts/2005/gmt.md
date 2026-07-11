@@ -5,6 +5,7 @@ categories:
   - london-2005
 wp_id: 605
 description: I live east of the Prime Meridian and cross into the western hemisphere daily during my commute through Stratford to Liverpool Street. I reflect on the geographical coordinates of my route and spots like Meridian Square.
+tags: [london, google-maps, maps, travel, '2005']
 ---
 
 I cross the prime meridien almost every day. I live 0 degrees 5 minutes east of the prime meridien. I travel to Liverpool Street usually, which is 0 degrees 5 minutes west of the prime meridien. The station closest to the meridien, on my route, is Stratford, which stretches from 7 seconds to 17 seconds west of the meridien.

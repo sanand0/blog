@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 955
 description: I am tracking the Indian budget’s update to allow electronic tax filing. I hope the Income Tax Department launches a portal this year, finally enabling the digital submission of returns in India.
+tags: [india, it-act]
 ---
 
 The most interesting part of [the budget](http://indiabudget.nic.in), for me, is the little line that reads "Electronic filing of returns". What that really means is that "the Income Tax Act is being amended to enable electronic filing of returns". Hope the [IT Department](http://www.incometaxindia.gov.in) puts this facility on their site by this year.

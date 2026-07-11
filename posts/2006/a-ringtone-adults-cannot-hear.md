@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 296
 description: Teenagers are using high-frequency ringtones that adults typically cannot hear due to age-related hearing loss. This allows students to receive alerts in class undetected, while shopkeepers use similar technology to drive away rowdy youth.
+tags: [technology, technology-trends, new-york-times, use-cases, educational-technology, telecommunications]
 ---
 
 [![Frequency chart by age](/blog/assets/flickr-frequency-chart-by-age_166343662_o-gif.webp)](/blog/assets/flickr-frequency-chart-by-age_166343662_o-gif.webp)

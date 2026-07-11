@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 1851
 description: I archived press clippings from the Deccan Herald and Indian Express covering my convocation from the Indian Institute of Management Bangalore (IIM-B), documenting the media attention I received during the graduation ceremony.
+tags: [iim-bangalore, '2001', s-anand, digital-media, education]
 ---
 
 Some press clippings about the IIM-B convocation (and me).

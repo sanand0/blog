@@ -20,7 +20,7 @@ You can't do more of something unless you do less of something else. In most pla
 
 The question pretty much remained unanswered. And with good reason. It's a tough question.
 
-\
+---
 
 Later, I got involved with a proposal. I wrote a few bits of it. (One page, actually.) Others wrote a few bits of it. And then some standard appendices were added to it. Finally, it ended up as a 180-page document.
 
@@ -32,7 +32,7 @@ I'm guessing no one at the client end did, because they'd have gotten 5 such doc
 
 So if we didn't read it and they didn't read it, **why did we put it in**?
 
-\
+---
 
 I think I know why. In my IBM days, I had to make a presentation to the management on productivity. I knew nothing of management or productivity. So I put in a report that had a lot of high-sounding words (you know... value-add, leverage, etc.) that looked reasonably impressive and had no basis in fact.
 

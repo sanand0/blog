@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 1820
 description: I met Cybelle, a virtual assistant on AgentLand that guides users through the site. She represents a novel, conversational approach to search engines, using a digital persona to help navigate information through direct interaction.
+tags: [search-engines, human-computer-interaction, information-retrieval, web-search, interaction-design, search-tools]
 ---
 
 Cybelle lives in [AgentLand](http://www.agentland.com/). She's 100% virtual (having admitted it, she asked if I was disappointed), and guides people through their site. It's a new and interesting way of having a search engine on a site.

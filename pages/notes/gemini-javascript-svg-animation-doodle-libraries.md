@@ -4,6 +4,7 @@ date: 2026-01-22T22:06:37+05:30
 source: "https://gemini.google.com/u/2/app/f8e5a6d49dff9f44"
 build: { list: never, render: always }
 description: I evaluate modern alternatives to Vivus for SVG path animation, recommending Motion One for performance and Anime.js for ease of use. I also provide a vanilla JS demo to create 30-second sequential hand-drawn effects using GSAP and Motion One.
+tags: [gemini, javascript, web-development, animation, web-performance, user-interface, user-experience, developer-tools]
 ---
 
 ## User

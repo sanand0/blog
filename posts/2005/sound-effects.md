@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 625
 description: I explore how Steven Spielberg’s sound designers created iconic movie sounds, like using jet takeoffs for Indy's whip, leather jackets for punches, and blending animal calls to produce the Tyrannosaurus's roar.
+tags: [movies, movie-trivia, audio-recording, animal-behavior, '2005']
 ---
 
 It's interesting how Steven Spielberg created his sound effects in movies. For example, in **Raiders of the Lost Ark**,

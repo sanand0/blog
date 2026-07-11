@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 352
 description: Exposure to angry or negative people can actively damage your cognitive health and brain function. Learn why protecting your mental state from emotional contagion is essential for maintaining productivity and overall psychological well-being.
+tags: [productivity, cognitive-science, cognitive-load]
 ---
 
 [Angry or negative people can be bad for your brain](http://headrush.typepad.com/creating_passionate_users/2006/04/angrynegative_p.html).

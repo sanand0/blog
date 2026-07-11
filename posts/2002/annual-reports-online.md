@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 1358
 description: I found a site offering free annual reports for public companies online. This resource is helpful for researching financial statements and corporate history without the need for physical copies or paid databases.
+tags: [corporate-finance, public-records, corporate-governance, online-publishing, history, yahoo, '2002']
 ---
 
 Free [annual reports](http://yahoo.ar.wilink.com/) online.

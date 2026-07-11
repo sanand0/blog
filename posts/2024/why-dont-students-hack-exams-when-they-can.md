@@ -7,6 +7,7 @@ categories:
 wp_id: 3725
 description: "Even when an exam is explicitly hackable and students are told so, very few exploit it, suggesting that trust, time pressure, norms, and risk culture matter more than raw technical possibility."
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7266397647157026816/
+tags: [hacking, education, iit-madras, developer-tools, client-side, s-anand, problem-solving]
 ---
 
 ![Why don't students hack exams when they can?](/blog/assets/calvin-tries-to-cheat-an-exam.webp)

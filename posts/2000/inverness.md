@@ -5,6 +5,7 @@ categories:
   - london-2000
 wp_id: 2146
 description: I visited Inverness and Loch Ness, learning about the real history of Macbeth and the numerous hoaxes behind the legendary monster. I toured the Urquhart Castle ruins and navigated the challenges of traveling through Scotland on a Sunday.
+tags: [hoaxes, fact-checking, history, j-r-r-tolkien, london]
 ---
 
 The next stop was Inverness. I didn't know Inverness had any history to it. It wasn't till we got there that I learnt that the Inverness castle was where Macbeth (of Shakespearean fame) ruled from. In fact, it turns out that Macbeth was a really nice king. There was this barbarian who fought him, lost, and turned to the English for help -- who of course were delighted, and they killed Macbeth. This barbarian stupidly signed a document saying that Scotland would pay tributes to England, and that's been the source of all the trouble.

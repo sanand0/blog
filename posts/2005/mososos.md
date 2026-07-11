@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 721
 description: I highlight the rise of MoSoSos (Mobile Social Software) through Dodgeball's early location-based alerts. The service helped users connect in real life by notifying them of nearby friends and crushes via text message.
+tags: ['2005', mobile-computing, mobile-phones, early-web, web-2-0, internet-culture]
 ---
 
 [MoSoSos](http://www.wired.com/news/culture/0,1284,66813,00.html): Mobile Social Software services.

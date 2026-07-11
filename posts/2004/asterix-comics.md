@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 804
 description: I found a resource for downloading Asterix comics via eMule and suggest reading them alongside OpenScroll's detailed annotations to better understand the clever cultural and linguistic references hidden throughout the series.
+tags: [comics, peer-to-peer, reading-list]
 ---
 
 [Comic Central](http://www.comic-central.cc/) offers comics downloads via eMule. This includes an Asterix collection (which is best read [annotated](http://openscroll.org/asterix/).

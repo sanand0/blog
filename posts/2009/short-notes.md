@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 2376
 description: I share notes on focusing on employee strengths rather than weaknesses, using the Google Analytics API for tracking events and error logs, and the proliferation of sandbox environments within Google’s developer ecosystem.
+tags: [api, web-analytics, developer-tools, google, web-development, developer-productivity, calvin-and-hobbes]
 ---
 
 I'm quite busy on a project right now, and don't get time to write long articles. So for a while, I'm going to stick to short notes on interesting stuff.

@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 1315
 description: I highlight a rare purple and crimson diamond cited as the most valuable object in the world by weight. The post links to reports on its unique coloring and immense market value per gram.
+tags: ['2002', yahoo, business-news, market-trends]
 ---
 
 This [purple and crimson diamond](http://story.news.yahoo.com/news?tmpl=story&u=/020613/168/1oq42.html) is supposed to be the [most valuable object in the world](http://www.news24.com/News24/World/Europe/0,1113,2-10-19_1199671,00.html). (Weight for weight.)

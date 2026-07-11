@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 339
 description: I explain why I avoid using registry cleaners, noting that these tools often cause more harm than good. Modern Windows versions rarely benefit from aggressive pruning, and the risk of system instability outweighs any potential performance gains.
+tags: [windows, windows-utilities, windows-software, performance-tuning, operating-systems]
 ---
 
 [Why I don't use a registry cleaner](http://www.edbott.com/weblog/archives/000643.html)

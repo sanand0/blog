@@ -4,6 +4,7 @@ date: 2025-02-23T00:00:00+00:00
 categories:
   - til
 description: I explored Python 3.13’s GIL-bypassing sub-interpreters, Caddy’s automatic SSL, and generated 50 Deep Research reports with ChatGPT Pro. I also compared Snowflake to Databricks and switched my default search engine to Perplexity for faster inference.
+tags: [llms, ai, model-context-protocol, tools-in-data-science, search-engines, productivity]
 ---
 
 This week, I learned:

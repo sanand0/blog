@@ -5,6 +5,7 @@ categories:
   - how-i-do-things
 wp_id: 17
 description: I documented my process for installing Ubuntu 8.10 on a USB flash drive for my Dell Latitude D420. I used the built-in USB creator, fixed wireless with Broadcom drivers, and navigated issues with hibernation and NTFS disk access.
+tags: [ubuntu, operating-systems, hardware, windows, free-software, software-update]
 ---
 
 Here's the fastest way I've found to install Ubuntu on a USB flash drive, for my Dell Latitude D420. ([Pendrivelinux.com](http://www.pendrivelinux.com) is a great resource for this sort of thing.)

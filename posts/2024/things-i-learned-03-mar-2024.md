@@ -4,6 +4,7 @@ date: 2024-03-03T00:00:00+00:00
 categories:
   - til
 description: I learned to stream HTML out of order using slots and studied Shane Parrish's mental frameworks. I also tested AI tools including MetaVoice for cloning, Qwen 1.5, and Demucs for splitting high-quality audio tracks.
+tags: [html, mental-models, llms, ai, generative-ai, voice-cloning, developer-tools, decision-making]
 ---
 
 This week, I learned:

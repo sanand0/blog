@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 1484
 description: I opted out of various popup advertisements by using a collection of specific links to test the underlying code. I wanted to see how well these opt-out mechanisms worked across different digital advertising platforms and networks.
+tags: ['2002', advertising, online-advertising, digital-privacy, digital-rights, internet-history, source-code]
 ---
 
 I [opted out of many popup ads](http://technoerotica.net/mylog/optouts.html). Not that I particularly mind them... I just wanted to test out the code.

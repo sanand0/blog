@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 702
 description: I shared Droogle, a database for drink recipes. I worked on fixing its XML feed and addressing layout clutter based on reader feedback to improve the search experience for various cocktails and beverages.
+tags: ['2005', xml, web-search, user-experience, bandwidth, apache, s-anand]
 ---
 
 [Droogle](http://www.droogle.ca/). Drink recipes.

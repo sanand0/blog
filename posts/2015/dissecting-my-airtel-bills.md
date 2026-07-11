@@ -6,6 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 2877
 description: I analyzed my Airtel postpaid bills to identify unused data quotas and expensive roaming charges. By optimizing my myPacks and switching to a cheaper myPlan, I reduced my monthly spending while increasing my roaming benefits.
+tags: [data-analysis, mobile-phones, data-extraction, data-processing]
 ---
 
 My monthly postpaid mobile bills have been in the Rs 2,000 – Rs 3,000 range for some time now, and I spent a few hours dissecting them yesterday.

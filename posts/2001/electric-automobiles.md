@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 1551
 description: Electric automobiles are becoming more affordable, with Ford offering leases for $199 a month. The market for personal electric transport is also diversifying to include cycles, scooters, and skis from companies like Aprilia and Fuseproject.
+tags: [market-trends, '2001']
 ---
 
 Electric automobiles are becoming affordable, with [Ford's car](http://www.thinkmobility.com) leasing at $199 a month, and electric [cycles](http://www.apriliaenjoy.com), [scooters](http://www.fuseproject.com) and [skis](http://www.powerski.com/) coming into the market.

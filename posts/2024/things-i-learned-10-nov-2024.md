@@ -4,6 +4,7 @@ date: 2024-11-10T00:00:00+00:00
 categories:
   - til
 description: I explored OpenFreeMap and Zapier Actions for GPTs, then researched LLM vision use cases in energy and manufacturing. I also looked into IBM's Docling for PDF conversion and Hamel Husain's framework for building effective LLM-as-a-judge systems.
+tags: [llms, ai-workflows, image-recognition, speech-to-text, ai-coding, productivity-tools, fine-tuning, open-source]
 ---
 
 This week, I learned:

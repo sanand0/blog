@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 1842
 description: I'm observing a significant crash in PC hardware prices. Open source hardware initiatives could potentially accelerate this market shift, leading to much cheaper components and a more accessible computing landscape for everyone.
+tags: [hardware, open-source, market-trends, '2001', computing-history]
 ---
 
 PC prices are crashing. [Open source hardware](http://www.zdnet.com/zdnn/stories/news/0,4586,5080214,00.html) could possibly accelerate that.

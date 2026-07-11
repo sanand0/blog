@@ -5,6 +5,7 @@ categories:
   - links
 wp_id: 1376
 description: I compiled a list of functional codes for my Nokia 3310, covering system menus, software versions, and battery-draining sound enhancements. I also included BPL Mobile USSD strings for managing various call divert settings.
+tags: [mobile-phones, mobile-networks, mobile-computing, software-update]
 ---
 
 <p>Nokia codes (works on my 3310)</p>
