@@ -1,7 +1,7 @@
 {{- define "main" }}
 
 <header class="page-header">
-  <h1>{{ .Title }} <sup><strong>{{ len .Pages }}</strong></sup></h1>
+  <h1>{{ .Title }} <span class="term-count-badge" aria-label="{{ len .Pages }} posts">{{ len .Pages }}</span></h1>
   {{- with .OutputFormats.Get "rss" }}
   <p><a href="{{ partial "rel_link.html" (dict "from" $ "to" .RelPermalink) }}">RSS feed</a></p>
   {{- end }}
@@ -13,7 +13,7 @@
 {{- $pages := .Pages.ByDate.Reverse -}}
 {{- range $pages.GroupByDate "2006" }}
 <section class="tag-year">
-  <h2>{{ .Key }} <sup>{{ len .Pages }}</sup></h2>
+  <h2>{{ .Key }} <span class="term-count-badge" aria-label="{{ len .Pages }} posts">{{ len .Pages }}</span></h2>
   {{- range .Pages }}
   <article class="post-entry tag-entry">
     {{- partial "entry_thumb.html" . -}}

@@ -4,7 +4,9 @@
   align-items: stretch;
   gap: 1.5rem;
   text-align: left;
-  padding: 3rem 1.5rem;
+  width: 100%;
+  max-width: none;
+  padding: 3rem clamp(1rem, 4vw, 3rem);
   border-top: 1px solid var(--border);
   background:
     linear-gradient(180deg, rgba(10, 10, 10, 0.04), transparent),
@@ -22,7 +24,15 @@ html[data-theme="dark"] .footer {
   display: grid;
   gap: 1.5rem;
   width: 100%;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  max-width: 1280px;
+  margin: 0 auto;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+}
+
+@media (min-width: 820px) {
+  .footer-columns {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
 }
 
 /* Footer section headers — always-visible heading on desktop, toggle on mobile */
@@ -160,21 +170,53 @@ footer.footer-meta {
 .nav {
   max-width: 100%;
   width: 100%;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: clamp(0.75rem, 2vw, 2rem);
   padding: 0 var(--gap);
 }
 
 .logo {
-  flex: 1 1 100%;
-  width: 100%;
-  justify-content: space-between;
-  gap: 1rem;
+  flex: 0 1 auto;
+  width: auto;
+  min-width: 0;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.6rem;
   margin: 0;
 }
 
+.logo > a {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.logo-switches {
+  flex-shrink: 0;
+}
+
 #menu {
-  flex-basis: 100%;
-  justify-content: flex-start;
-  margin: 0 var(--gap);
+  flex: 1 1 auto;
+  min-width: 0;
+  justify-content: flex-end;
+  margin: 0;
+  scrollbar-width: thin;
+}
+
+@media (max-width: 640px) {
+  .nav {
+    gap: 0.75rem;
+    padding: 0 0.75rem;
+  }
+
+  .logo a {
+    font-size: 20px;
+  }
+
+  #menu li + li {
+    margin-inline-start: 1rem;
+  }
 }
 
 .entry-thumb {
@@ -221,6 +263,30 @@ footer.footer-meta {
   font-size: 0.85rem;
 }
 
+.term-count-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.65em;
+  height: 1.65em;
+  padding: 0 0.45em;
+  margin-inline-start: 0.35em;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--entry);
+  color: var(--secondary);
+  font-size: 0.72em;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  vertical-align: 0.12em;
+}
+
+.terms-tags a {
+  display: inline-flex;
+  align-items: center;
+}
+
 .tag-year h2 {
   margin-top: 2rem;
   border-bottom: 1px solid var(--border);
@@ -241,6 +307,8 @@ footer.footer-meta {
 }
 
 .related-posts time {
+  display: inline-block;
+  margin-inline-start: 0.45rem;
   color: var(--secondary);
   font-size: 0.85rem;
 }

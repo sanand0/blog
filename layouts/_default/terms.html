@@ -14,7 +14,10 @@
 <ul class="terms-tags">
     {{- range .Data.Terms.ByCount }}
     <li>
-        <a href="{{ partial "rel_link.html" (dict "from" $ "to" .Page.RelPermalink) }}">{{ .Page.LinkTitle }} <sup><strong><sup>{{ .Count }}</sup></strong></sup></a>
+        <a href="{{ partial "rel_link.html" (dict "from" $ "to" .Page.RelPermalink) }}">
+            <span>{{ .Page.LinkTitle }}</span>
+            <span class="term-count-badge" aria-label="{{ .Count }} posts">{{ .Count }}</span>
+        </a>
         {{- with .Page.Description }}
         <span class="term-description">{{ . }}</span>
         {{- end }}

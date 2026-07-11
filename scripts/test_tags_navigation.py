@@ -20,6 +20,7 @@ def test_llms_tag_page_and_feed_exist_with_many_posts():
     assert (PUBLIC / "tag/llms/index.xml").is_file()
     assert "RSS feed" in html
     assert html.count('class="post-entry tag-entry"') > 50
+    assert 'class="term-count-badge"' in html
 
 
 def test_single_page_has_tags_and_matching_permalink():
@@ -41,6 +42,13 @@ def test_footer_links_render_without_javascript():
     assert 'id="footer-archives"' in html and "/blog/2026/" in html
     assert 'id="footer-tags"' in html and "/blog/tag/llms/" in html
     assert 'id="footer-pages"' in html and "/blog/about-me/" in html
+
+
+def test_tags_index_uses_count_badges_not_nested_superscripts():
+    html = (PUBLIC / "tags/index.html").read_text(encoding="utf-8")
+
+    assert 'class="term-count-badge"' in html
+    assert "<sup><strong><sup>" not in html
 
 
 def test_category_list_entries_do_not_gain_tag_or_permalink_meta():
