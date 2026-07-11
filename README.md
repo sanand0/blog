@@ -164,6 +164,28 @@ Optional:
 - `robotsNoIndex: true` adds a `<meta name="robots" content="noindex">` tag to the page header to prevent indexing by search engines.
 - `aliases: ["old-path"]` adds redirects from old-path to the current page using [Hugo Aliases](https://gohugo.io/content-management/urls/#aliases).
 
+## Media elements
+
+```html
+<audio controls preload="metadata">
+  <source src="https://example.com/audio.opus" type="audio/ogg; codecs=opus">
+  <a href="https://example.com/audio.opus">Audio</a>
+</audio>
+
+<video controls autoplay loop? muted? playsinline preload="metadata" width="1600" height="1200" style="max-width: 100%; height: auto;">
+  <source src="https://example.com/video.webm" type="video/webm">
+  <a href="https://example.com/video.webm">Video</a>
+</video>
+```
+
+Full-width embedded iframes: <!-- https://chatgpt.com/c/6a524c4f-2bb8-83e8-b014-39e1960f6b4b -->
+
+```html
+<div style="width: 100vw; margin-left: calc(50% - 50vw); width: min(100vw, 100rem); margin-left: calc(50% - min(50vw, 50rem)); margin-top: 1.5rem; margin-bottom: 2rem;">
+  <iframe src="https://example.com/" title="..." loading="lazy" referrerpolicy="strict-origin-when-cross-origin" style="display: block; width: 100%; height: 820px; height: min(56rem, 92svh); border: 0; background: #f5f1e6;"></iframe>
+</div>
+```
+
 ## AI-generated content
 
 Wrap AI-generated sections in:
