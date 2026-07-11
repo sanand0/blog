@@ -12,7 +12,6 @@
 # ///
 """Generate Gemini embeddings for blog pages and posts, stored in DuckDB + Parquet.
 
-embed_content() accepts multiple contents per call — we batch them for efficiency.
 DuckDB tracks which files are done (by content hash), so re-runs skip unchanged files
 automatically. Final results are exported to embeddings.parquet.
 
@@ -47,9 +46,10 @@ DB_PATH = ROOT / "analysis" / "embeddings" / "embeddings.duckdb"
 PARQUET_PATH = ROOT / "analysis" / "embeddings" / "embeddings.parquet"
 MODEL = "gemini-embedding-2"
 DIMENSIONS = 768     # 768 is sufficient and 4× cheaper storage than 3072
-CHUNK_SIZE = 20      # contents per embed_content call
+CHUNK_SIZE = 20      # vectors committed together after independent API requests
 MAX_CHARS = 20_000   # truncate each file before embedding
 EMBEDDING_INPUT_VERSION = "2026-03-15-strip-comments-prune-dumps-20k"
+CACHE_HASH_VERSION = "2026-07-11-independent-contents"
 
 console = Console()
 app = typer.Typer()
@@ -77,9 +77,13 @@ def get_db() -> duckdb.DuckDBPyConnection:
             path       TEXT PRIMARY KEY,
             hash       TEXT NOT NULL,
             embedding  FLOAT[{DIMENSIONS}],
+            hash_version TEXT,
             created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
         )
     """)
+    columns = {row[1] for row in conn.execute("PRAGMA table_info('embeddings')").fetchall()}
+    if "hash_version" not in columns:
+        conn.execute("ALTER TABLE embeddings ADD COLUMN hash_version TEXT")
     return conn
 
 
@@ -88,8 +92,9 @@ def get_db() -> duckdb.DuckDBPyConnection:
 # ---------------------------------------------------------------------------
 
 
-def sha256(path: Path) -> str:
-    payload = path.read_bytes() + b"\0" + EMBEDDING_INPUT_VERSION.encode("utf-8")
+def content_hash(path: Path) -> str:
+    """Hash exactly the text sent to Gemini, so metadata-only edits are free."""
+    payload = read_content(path).encode("utf-8") + b"\0" + EMBEDDING_INPUT_VERSION.encode("utf-8")
     return hashlib.sha256(payload).hexdigest()[:16]
 
 
@@ -155,12 +160,17 @@ def all_files() -> list[Path]:
     stop=stop_after_attempt(5),
 )
 def _embed_call(client, texts: list[str]) -> list[list[float]]:
-    result = client.models.embed_content(
-        model=MODEL,
-        contents=texts,
-        config={"task_type": "RETRIEVAL_DOCUMENT", "output_dimensionality": DIMENSIONS},
-    )
-    return [list(e.values) for e in result.embeddings]
+    vectors: list[list[float]] = []
+    for text in texts:
+        result = client.models.embed_content(
+            model=MODEL,
+            contents=text,
+            config={"task_type": "RETRIEVAL_DOCUMENT", "output_dimensionality": DIMENSIONS},
+        )
+        if len(result.embeddings) != 1:
+            raise RuntimeError(f"Expected one embedding for one document; received {len(result.embeddings)}")
+        vectors.append(list(result.embeddings[0].values))
+    return vectors
 
 
 def embed_with_backoff(client, texts: list[str]) -> list[list[float]]:
@@ -208,20 +218,29 @@ def main(
         cutoff = datetime.fromisoformat(since).astimezone(timezone.utc)
         console.print(f"Cutoff: {cutoff}")
 
-    # Load already-embedded path→hash from DuckDB.
-    existing: dict[str, str] = {}
+    # Load already-embedded path→(hash, hash_version) from DuckDB.
+    existing: dict[str, tuple[str, str | None]] = {}
     if not force:
-        existing = dict(conn.execute("SELECT path, hash FROM embeddings").fetchall())
+        existing = {
+            path: (hash_value, hash_version)
+            for path, hash_value, hash_version in conn.execute(
+                "SELECT path, hash, hash_version FROM embeddings"
+            ).fetchall()
+        }
 
     # Collect files that need embedding.
     to_embed: list[tuple[str, Path, str]] = []
     hash_hits = 0
+    migrated_hashes = 0
     for f in all_files():
         rel = str(f.relative_to(ROOT))
-        h = sha256(f)
-        if existing.get(rel) == h:
+        h = content_hash(f)
+        row = existing.get(rel)
+        if row and row[0] == h and row[1] == CACHE_HASH_VERSION:
             hash_hits += 1
-            continue  # hash unchanged — skip
+            continue  # content unchanged — skip
+        if row and row[1] != CACHE_HASH_VERSION:
+            migrated_hashes += 1
         if cutoff:
             mtime = datetime.fromtimestamp(f.stat().st_mtime, tz=timezone.utc)
             if mtime < cutoff:
@@ -235,6 +254,8 @@ def main(
     all_count = len(all_files())
     cap_note = f" (capped by --limit {limit}; {eligible} eligible)" if limit and limit < eligible else ""
     console.print(f"Files: {all_count} total, {hash_hits} hash-skipped, {len(to_embed)} to embed{cap_note}")
+    if migrated_hashes:
+        console.print(f"Invalidating {migrated_hashes} vectors created with an older embedding contract.")
 
     if not to_embed:
         console.print("Nothing new to embed.")
@@ -259,8 +280,8 @@ def main(
 
             for (rel, _, h), vec in zip(chunk, vectors):
                 conn.execute(
-                    "INSERT OR REPLACE INTO embeddings (path, hash, embedding) VALUES (?, ?, ?)",
-                    [rel, h, vec],
+                    "INSERT OR REPLACE INTO embeddings (path, hash, embedding, hash_version) VALUES (?, ?, ?, ?)",
+                    [rel, h, vec, CACHE_HASH_VERSION],
                 )
             progress.advance(task, len(chunk))
 
