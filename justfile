@@ -10,17 +10,18 @@ update:
   mapfile -t markdown < <(find posts pages -name '*.md' -print | sort)
   uv run ~/code/scripts/summarize.py blog "${markdown[@]}" --model gemini-2.5-flash --workers 1
 
-  # If summarize.py warns about proposed tags, replace them with existing tags
-  # or add approved new tags to metadata-tags.yml with a one-line description.
-
-  uv run analysis/embeddings/embeddings.py
   bash setup.sh
-  uv run --with pytest --with pyyaml --with typer --with numpy --with pandas --with pyarrow --with ruamel.yaml pytest -q scripts
+  uv run --with pytest --with pyyaml --with typer --with numpy --with pandas --with pyarrow --with ruamel.yaml --with scikit-learn pytest -q scripts
+tags-review:
+  uv run scripts/tag_proposals.py evaluate
+tags-promote tag description:
+  uv run scripts/tag_proposals.py promote "{{tag}}" --description "{{description}}"
 til:
   uv run scripts/til.py
 linkedin:
   uv run scripts/linkedin_blog_map.py
 embeddings:
+  # Optional analytical artifact. This deliberately re-embeds invalid legacy vectors.
   uv run analysis/embeddings/embeddings.py
   uv run analysis/embeddings/blogmap.py
   cp -R analysis/embeddings/blogmap ~/r2/files/blog/
