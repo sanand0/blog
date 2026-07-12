@@ -4,6 +4,8 @@ date: 2026-07-11T21:24:39+05:30
 categories:
   - talks
   - llms
+description: I summarize my workshop on how AI agents process data, showing how to use LLMs to research formats, write benchmarks, audit prompts, and turn the findings into reusable skills.
+tags: [ai-agents, experiments, benchmarking, structured-data, llms, prompt-engineering]
 ---
 
 Here's roughly what I said in my [When Data is for Agents](https://hasgeek.com/fifthelephant/when-data-is-for-agents-workshop/) workshop for [Fifth Elephant](https://hasgeek.com/fifthelephant/) on 7 Jul 2026.
