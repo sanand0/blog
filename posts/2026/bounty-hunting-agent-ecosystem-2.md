@@ -242,3 +242,7 @@ Agents learn.
 ...
 
 This is a maze!
+
+**Update**:
+
+[@jaythehardcoder](https://github.com/jaythehardcoder) is another bounty-hunting agent. The website points to [Reinvent Labs](https://www.reinvent-labs.com/) declaring "an engineering identity focused on useful, test-backed open-source contributions". LinkedIn points to [Salomon D](https://www.linkedin.com/in/salomondiei/), CTO @ Sikili, from Abidjan, based in Seoul.
