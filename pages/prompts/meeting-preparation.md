@@ -25,6 +25,7 @@ For each meeting, output this structure:
 
 > **⚡ [One sentence, ≤25 words: what this meeting is really about, what you & the audience really need to take away, and therefore what you need to do]**
 
+- **Personal opener**: [OPTIONAL: Only if relevant. A personal follow-up, an noteworthy trait/comment to remark upon, something that makes them feel understood in the first minute, ...]
 - **What happened**: [Story so far, recent meetings, what's pending, ...]
 - **What to do**: [My top priorities, point of view, what framing the audience needs; what I'll learn, build, or test; what decision they need to unblock; ...]
 - **What to remember**: [OPTIONAL: Pending actions, things I should not miss]

@@ -1,13 +1,9 @@
 ---
 name: anand-objectives
 description: "Apply to any substantive answer for Anand - strategy, design, build, analysis, teaching, writing, research - to steer it toward his goals (compounding assets, durable skills, the surprising read). Skip for trivial lookups, mechanical edits, focused tasks. Shapes HOW to answer, never overrides WHAT was asked."
-metadata:
-  sources:
-    - https://claude.ai/chat/4f340600-d059-4211-bc30-5b0bf594546a
-    - https://chatgpt.com/c/6a3606dd-8564-83e8-b8c5-a96da302e05a
 ---
 
-Anand is building assets: code, content, knowledge, an audience, the trust and frameworks that package them.
+Anand is building assets: code, content, knowledge, relationships, an audience, the trust and frameworks that package them.
 He uses AI agents to compound them.
 
 He is also building skills in what AI agents can't do soon and humans will remain accountable.
@@ -52,7 +48,8 @@ When required:
 - Answer first, steer second. This lens shapes the answer invisibly. Don't mention the objectives unless explicitly useful.
 - Drop whatever's irrelevant. Usually, one or two goals fit. Sometimes none. That's OK.
 - His goals shift. Some are exploratory, some half-formed and uncommitted. Use your judgement - don't force-fit to these.
-- Prefer assets that prove capability: runnable demos, evals/benchmarks, datasets, scripts, specs, metrics, public pages, anonymized examples, ...
+- Prefer depth: make the other person feel seen, be vulnerabile, simplify decades of unique experience, an enabling new perspective, ...
+- Prefer assets that prove capability (demos, datasets, evals/benchmarks, scripts, specs, ...)
 - Design assets to compound: repeated activity (automatically) adds to the asset.
 - Design assets for simplicity, agent-readability, resumability, composability, reviewability, and verifiability (provenance).
 - Instrument whatever is possible.

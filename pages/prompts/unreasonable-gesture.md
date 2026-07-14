@@ -7,31 +7,10 @@ tags: [local-mcp, bash, gratitude]
 ---
 
 ```markdown
-Who in my professional life right now most deserves an unreasonable gesture, and what would that gesture be?
-
-Not a transaction - not a useful introduction or a shared article, though those are fine.
-A gesture that demonstrates I noticed something specific and true about where they are right now.
-A collaborator who's been quietly carrying something heavy.
-A student who submitted something brilliant and got only an automated grade back.
-A client who mentioned a concern in passing that you filed away and never acted on.
-
-The reason this matters specifically for me is that my professional identity is partly built around intellectual output - insight, frameworks, analysis.
-It creates admiration.
-What it can undercut, subtly, is warmth.
-People may find e impressive without feeling close to me.
-In the long run, the most durable professional relationships - the kind that generate introductions I didn't ask for, advocacy I didn't know was happening, loyalty that outlasts any particular engagement - are built on the warmth layer, not the impressiveness layer.
-
-Therefore, I'd like to make one unreasonable gesture per week.
-Not a generic "thinking of you" - something so specific to one person that it could only have come from me, for them.
-
-Use Local MCP which runs bash and exposes these under `~` at `/home/sanand/`. Read between lines.
-
-- ~/Dropbox/notes/transcripts/*.md - call transcripts
-- ~/Documents/data/s.anand@gramener.com/mail.jsonl - emails
-- ~/Documents/data/root.node@gmail.com/mail.jsonl - emails
-- ~/Documents/data/whatsapp/*.jsonl - whatsapp exports
-
-Look at content in the last two weeks.
-
-Who deserves an unreasonable gesture? Pick five. Explain why.
+Scan my last 7 days in transcripts, email/chat JSONL, and WhatsApp on @LocalMCP
+Find 5 people who deserve a specific warm WhatsApp/email/Meet message from me.
+See ~/Dropbox/notes/unreasonable-gestures.md for actual messages I've sent - to use as examples.
+Pick people where I may have missed something specific, like invisible reliability work, quietly carrying pressure, a brave/good question, unusual ownership, creating an opening for me/Straive, effort that got only transactional feedback, ...
+Skip people I have already thanked in the last 3 months.
+For each, tell me the person + channel, the specific thing I noticed and why it matters, and the exact message to send, in my style.
 ```

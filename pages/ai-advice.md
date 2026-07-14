@@ -237,7 +237,32 @@ The Jevons Paradox applies here too: making cognitive work cheaper increases tot
 
 UPDATES:
 
+- 13 Jul 2026: https://chatgpt.com/c/6a54a20f-117c-83ee-8cf3-19a8e9379646 #TODO
 - 25 Apr 2026: https://claude.ai/chat/f4e096d6-eb76-4ef0-981f-29217514c209 + https://chatgpt.com/c/69ece318-6e30-83ea-b75e-872e52b8d2d7 + https://gemini.google.com/app/cf069ec2bffe4ce1
 - 15 Mar 2026: https://claude.ai/chat/01653f4d-39fe-4913-8b19-e94d3684163c + https://chatgpt.com/c/69b6121b-5548-839a-8a4f-73066cae406b
+
+PROMPT:
+
+Suggest updates to AI advice I provide.
+
+Use @LocalMCP bash to read `~/code/blog/pages/ai-advice.md` - this is the file I will be updating.
+
+Rigorously and diligently scan required summaries, transcripts, emails, chats since the last update, from:
+
+~/Dropbox/notes/questions-i-am-asked.md - FAQ-like summary based on the sources below
+~/Dropbox/notes/transcripts/*.md
+~/Documents/data/s.anand@straive.com/{mail,chat}.jsonl
+~/Documents/data/whatsapp/*.jsonl
+~/code/talks/*/transcript*.md
+
+Prioritize these based on the frequency, importance and generality of the advice across the documents.
+Flag any contradictions you find.
+Fact-check your suggestions online based on AI experts' recommendations and flag what diverges and aligns - include links to sources.
+
+Share what I should:
+
+- INSERT: What new advice am I giving that's not in AI advice?
+- UPDATE: What advice am I giving that's different from what's in AI advice?
+- DELETE: What AI advice am I no longer giving?
 
 -->

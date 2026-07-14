@@ -35,6 +35,7 @@ For group transcripts, update a person only if they made a meaningful contributi
 
 For each proposed note, write concise 1-line bullets.
 Each bullet should be useful later to Anand or an AI agent advising Anand.
+Write naturally, in simple language, active voice, conversational style.
 Use the right number of bullets as the relationship signal warrants, not a fixed count. 5-8 is fine when there's very rich information.
 Use more when the conversation materially changes how I should understand, work with, or follow up with the person.
 

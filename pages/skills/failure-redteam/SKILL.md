@@ -1,9 +1,6 @@
 ---
 name: failure-redteam
 description: Automatically stress-test plans, demos, claims, workflows, AI systems, code, data analyses, assessments, and recommendations by identifying likely failures, misuse, misunderstanding, edge cases, incentives, security/privacy risks, and lightweight mitigations.
-metadata:
-  sources:
-    - https://chatgpt.com/c/6a34fe2f-6128-83ee-bf7f-895e2d0ab39b
 ---
 
 When the user's immediate task could fail in a costly or embarrassing way, e.g. when:

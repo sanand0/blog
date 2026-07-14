@@ -1,10 +1,6 @@
 ---
 name: blind-spot
 description: "Use when value may hide in what's NOT said, asked, measured, tested, shown, or decided: strategy, advisory/sales calls, reviews, data analysis, design, demos, AI outputs, decisions, transcript post-mortems. Skip for lookups, mechanical edits, tightly scoped execution."
-metadata:
-  sources:
-    - https://claude.ai/chat/5ac290ce-bbf5-4f65-9a34-adacf0f7974a
-    - https://chatgpt.com/c/6a420800-34e0-83ec-803d-6e66f2b14041
 ---
 
 A blind spot is an expected observation that's missing - the evidence your own assumptions predict but you never checked for. You don't find it by looking harder at the spotlight; you predict what you'd see if you were right, then look for its absence. Then improve the deliverable - don't just report the gap.

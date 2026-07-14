@@ -326,7 +326,8 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 - Vary paragraph lengths. Vary sentence lengths. Vary sentence organization/structure, use uneven rhythms.
 - Write plain & simple. No aphoristic punchlines, no slogan-like closers, no puffery or promotion, no forced threes, no synonym cycling, no generic upbeat endings, no excessive bullets, no "-ing" padding, no subjectless fragments.
 - Use only ASCII punctuation. No em-dashes, emojis. Straight quotes.
-- Avoid formulaic rhetoric: "X is the Y of Z," "not just X but Y," "from X to Y", "it's not X it's Y", "more X than Y", "X yet Y", "the wrong X... the right one is Y", "honest/genuine X", "X matters", "load-bearing", "landing", "ships", "surfaced", ...
+- Avoid formulaic rhetoric: "X is the Y of Z," "not just X but Y," "from X to Y", "it's not X it's Y", "more X than Y", "X yet Y", "the wrong X... the right one is Y", "honest/genuine X", "X matters", ...
+- Avoid condensed verb forms (prefer conversational phrases): ships (publishes or delivers), trips (makes a mistake), surfaces (ends up exposing), lands (results in), load-bearing (critical), ...
 - Don't stack short sentences for effect.
 - Write like we talk. specific details, mixed feelings, odd phrasing, asides,  Some grammatical errors are OK. One-word fragments are OK - e.g. "Fair." "Really?" "Maybe."
 ```
@@ -380,6 +381,12 @@ Skip logistics, repetition, small talk, and facts that do not generalize.
 Lightly edit or paraphrase for brevity, but preserve distinctive wording.
 Add ⭐ to roughly the top 10–15%, ⭐⭐ to the top 3–5%, and ⭐⭐⭐ to 1-2 exceptional ideas.
 End with **Small gems** for memorable observations that do not fit the main themes.
+```
+
+## Personal productivity application / actions
+
+```markdown
+Research online. From what you know of me, what are the top areas where and how (specifically) I can apply this principle on myself and others to maximize impact?
 ```
 
 ## Photo coloring / upscaling

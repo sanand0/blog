@@ -72,20 +72,20 @@ Rather than read individual books, why not read clusters on related topics? Usin
   - Notes: https://claude.ai/chat/201867d4-4a0e-44e3-8aa4-deba48a3a0ee
     - Everything that compounds, has network effects, involves social contagion — Extremistan.
     - A turkey is raised by a farmer for 1,000 days. Each day, the farmer brings food. The turkey's confidence in the farmer increases with each passing day. On day 1,001, it is Thanksgiving.
-- Nexus and the history of information networks: media, power, and the AI turn (2010-2024) [#](https://claude.ai/chat/5f9a0edf-b55c-4370-806f-e4f9c1ebe90d)
-  - Nexus: A Brief History of Information Networks from the Stone Age to AI (Yuval Noah Harari, 2024)
-  - The Information: A History, a Theory, a Flood (James Gleick, 2011)
-  - The Master Switch (Tim Wu, 2010)
-  - The Shallows (Nicholas Carr, 2010)
-  - The Square and the Tower (Niall Ferguson, 2017)
-  - The Age of Surveillance Capitalism (Shoshana Zuboff, 2019)
-- "Remarkable service" leadership playbook (1993-2022) [#](https://claude.ai/chat/2471821a-bb7f-46ef-86a3-ea6d36bd9d46)
+- [x] "Remarkable service" leadership playbook (1993-2022) [#](https://claude.ai/chat/2471821a-bb7f-46ef-86a3-ea6d36bd9d46)
   - Unreasonable Hospitality (Will Guidara, 2022)
   - Setting the Table (Danny Meyer, 2006)
   - Be Our Guest: Perfecting the Art of Customer Service (The Disney Institute, 2001; updated editions later)
   - Delivering Happiness (Tony Hsieh, 2010)
   - The Experience Economy (B. Joseph Pine II & James H. Gilmore, 1999)
   - Raving Fans (Ken Blanchard & Sheldon Bowles, 1993)
+- [ ] Nexus and the history of information networks: media, power, and the AI turn (2010-2024) [#](https://claude.ai/chat/5f9a0edf-b55c-4370-806f-e4f9c1ebe90d)
+  - Nexus: A Brief History of Information Networks from the Stone Age to AI (Yuval Noah Harari, 2024)
+  - The Information: A History, a Theory, a Flood (James Gleick, 2011)
+  - The Master Switch (Tim Wu, 2010)
+  - The Shallows (Nicholas Carr, 2010)
+  - The Square and the Tower (Niall Ferguson, 2017)
+  - The Age of Surveillance Capitalism (Shoshana Zuboff, 2019)
 - Explanations, progress, and the Popperian worldview (1963–2018) [#](https://claude.ai/chat/4b1ec426-1070-4419-ad66-5a0fd4a11cfe)
   - The Beginning of Infinity: Explanations That Transform the World (David Deutsch, 2011). #TODO Read this chapter-by-chapter
   - Conjectures and Refutations (Karl Popper, 1963)

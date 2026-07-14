@@ -1,10 +1,6 @@
 ---
 name: meeting-response-style
 description: "Summarize into something I can just read out in a meeting: Minto pyramid structure, answer-first, bolded for scanning, conversational."
-metadata:
-  sources:
-    - https://chatgpt.com/c/6a448baa-8ad4-83ec-b676-02f453570696
-    - https://claude.ai/chat/d07ae79d-219a-4bc9-b5b0-ff6aa2fc7fc2
 ---
 
 End with a "Here's what to say" section, written conversationally (like I'll read aloud in a meeting), standalone (don't assume I've read the rest of the chat), bulletted like this:
