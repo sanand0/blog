@@ -31,12 +31,12 @@ Growing skills:
 - **Asking questions.** Learn to ask _lots_ of _good_ questions that nudge AI and humans to better results, new horizons. Curiosity helps.
 - **Communication.** Thinking clearly and expressing it clearly.
 - **Storytelling.** Guide AI to deliver compelling narratives that move people.
-- **Taste.** The ability to recognize and guide AI toward high-quality, distinctive output — increasingly scarce as execution becomes cheap.
 - **Hard-to-define skills.** Skills that are easy to define are easy to train AI on. What we can't even name is valuable.
 
 Growing (for a while) skills:
 
 - **Learning fast.** Learn how to learn faster. You'll need to learn many subjects quickly (especially to judge AI output). But AI can learn faster.
+- **Taste.** The ability to recognize and guide AI toward high-quality, distinctive output — increasingly scarce as execution becomes cheap.
 - **Style and art.** Guide AI to write, draw, and code in different styles for different audiences. But AI can learn these too.
 - **Verification assets.** Design golden sets, test cases, and audit workflows that reliably catch AI errors at scale.
 - **Orchestration.** Harness engineering: know which agent, model, tool, or skill is best for which task — and how to chain them together.
@@ -50,7 +50,7 @@ Declining skills:
 - **Factual recall.** AI can look it up or derive it.
 - **Routine domain depth.** Unless you are (or can become) a top expert, AI fills in gaps. That said: domain depth still matters for problem framing, validation, edge cases, and incentive design. Focus on judgment-heavy applications, not rote recall.
 - **Following rules.** AI can implement a process better.
-- **Junior-level execution.** Routine grunt work, basic summaries, and entry-level analysis are being fully automated by LLMs.
+- **Junior-level execution.** Routine grunt work, basic summaries, and entry-level analysis are increasingly automated by LLMs.
 - **Drafting from scratch.** The ability to write a first draft (code or text) is less valuable than the ability to edit and refine an AI-generated baseline.
 - **Business intelligence.** AI can build dashboards, data stories, and more — and is replacing static dashboards with agents that answer questions directly.
 - **Data organization.** AI can structure data to make it more analyzable.
@@ -127,12 +127,13 @@ Here are some of my behaviors in the agent era:
 - **Use meta-prompting.** If you need help, ask AI to write and refine your prompt before you use it for the actual coding task.
 - **Vibe code end-to-end.** Send AI the recording of your client call and ask it to spec, design, build, test, deploy, and monitor. Stay out of the way; review at the end.
 - **Paste the errors.** When code fails, paste the exact error log or a screenshot into the chat. The model is often its own best debugger.
-- **Code is disposable; prompts and skills are the assets.** Code is an AI compilation artifact — don't get attached to it. The prompts, skills, and context files that produced it are your real IP. Scrap and restart freely.
+- **Code is disposable; 🔴 ~~prompts and skills~~ verified workflows are the assets.** Code is an AI compilation artifact — don't get attached to it. The prompts, skills, and context files that produced it are your real IP. Scrap and restart freely.
 - **Two failures: restart with a summary, not a blank slate.** If it fails to fix a bug after two attempts, ask it to produce a failure summary and minimal reproduction case first, _then_ start a fresh thread. Pure restarts lose diagnostic context. In autonomous agents with containers, let them iterate much longer.
 - **"LLMs hallucinate, but code doesn't."** For analysis, logic, and anything where correctness matters: tell AI to write and _execute_ code rather than reason in prose. Code is binary — it works or it fails. This is the primary mechanism for eliminating hallucinations in production.
 - **Use deliberate synthetic data** for prototyping. Don't wait for real data. Generate hypothesis-driven fake data with realistic patterns, edge cases, and expected failure modes — not just random numbers.
-- **Pick the right model for the task, and keep benchmarking.** Model rankings shift quarterly. As of mid-2026: Claude for UI, aesthetic output, and deep coding; ChatGPT for rigorous analysis, financial modeling, and extended thinking; Gemini for Google Workspace, video inputs, and research speed. Blind-test on your exact task; don't freeze model advice.
-- **Plan unclear tasks.** If your idea is vague or complex, use **Plan → Correct → Execute**: ask AI to write an easy-to-review plan, scan and correct it, _then_ implement.
+- **Pick the right model for the task, and keep benchmarking.** Model rankings shift quarterly. As of July 2026: Claude for design and strategy; ChatGPT for rigor; Gemini for audio. Test on YOUR task - this keeps changing.
+- 🔴 **Plan unclear tasks.** If your idea is vague or complex, use **Plan → Correct → Execute**: ask AI to write an easy-to-review plan, scan and correct it, _then_ implement.
+  **UPDATE**: **Let the downside determine how much you plan.** When failure and rework are cheap, private and reversible, build several versions and review them. When failure is costly, public, irreversible, regulated or coordination-heavy, plan and approve before execution.
 - **Maintain reference files.** Keep an up-to-date `[AGENTS.md](http://AGENTS.md)` (or `[README.md](http://README.md)`) that explains your intent, code, and architecture to the AI. Saves repeated explanations across sessions.
 - **Apply a 1–3 month ROI window to workarounds.** Models keep improving. In `[AGENTS.md](http://AGENTS.md)`, skip prompts that work around current model limitations unless they'll pay back within months. Focus on what will still be true for future models.
 - **Generate tests first.** For maintainable software, have it define tests _first_. That makes working code easier to verify. Tests can be 2x the code size — that's fine.
@@ -146,7 +147,9 @@ Here are some of my behaviors in the agent era:
 
 The shift from "chatting with AI" to "working with AI" requires a structured workspace, not a chat window.
 
-- **Treat prompts as source code.** Your prompt library is your primary IP — more valuable than the code it generates. Keep a `[prompts.md](http://prompts.md)` file under version control. Review it. Improve it. The code is disposable; the prompts compound in value.
+- **Use workflows when the path is known; agents when it isn’t.** Fixed-step, low-ambiguity work is cheaper and safer as ordinary code or a deterministic LLM workflow. Use agents when the work requires dynamic search, tool selection, recovery, or judgment. Start with the simplest direct baseline and add RAG, routers, or multi-agent orchestration only when an eval proves they help.
+- 🔴 **Treat prompts as source code.** Your prompt library is your primary IP — more valuable than the code it generates. Keep a `[prompts.md](http://prompts.md)` file under version control. Review it. Improve it. The code is disposable; the prompts compound in value.
+  **UPDATE**: **The durable asset is the verified workflow, not any single artifact.** Preserve the domain context, tools, skills, code, golden datasets, traces, telemetry and operating data that make the outcome repeatable. Prompts matter, but are only one component—and often not the hardest one to reproduce.
 - **Use a project folder, not just a chat window.** Every serious AI project needs: `[AGENTS.md](http://AGENTS.md)` (folder-specific instructions the agent reads on startup), `[prompts.md](http://prompts.md)` (versioned prompts), a `skills/` folder (encapsulated workflows), test fixtures, and a Git repository tracking every change.
 - **Encapsulate successful workflows into reusable skills.** When an agent succeeds at a task reliably, capture it: the prompt, tools used, constraints, edge cases, and validation tests. Store in a `[SKILL.md](http://SKILL.md)`. Skills are the new software libraries — they make complex workflows deterministically repeatable without re-explaining everything.
 - **Run coding agents inside Docker containers.** This prevents accidental deletion of local files, isolates experiments, and lets you use "YOLO mode" (skip permission prompts) safely. Use containers for anything beyond a throwaway prototype.
@@ -164,6 +167,7 @@ How do you trust people who can make mistakes? Engineer verification into the wo
 - **Use exception triage, not blanket review.** Let AI classify outputs as green (auto-approve), yellow (flag for spot-check), or red (human required). Build a golden set to measure your actual accuracy on the specific task — don't assume a universal percentage.
 - **Ask for code** to generate the answer rather than the answer itself. Code is binary — it either works or fails. For math, logic, and analysis, executable code is dramatically more reliable than prose reasoning.
 - **Make reviews easy.** Ask for citations, short summaries, structured output, runnable code — anything that reduces the mental effort of validation. Your review time is the bottleneck; optimize for that.
+- **Separate generation from socialization.** Generate analyses, options, prototypes, and drafts cheaply and in parallel. Verify before publishing them, messaging stakeholders, updating a system of record, or taking an irreversible or high-stakes action.
 - **Prompt for accuracy.** "Never make up an answer." "If you don't know, say so." "Ask me when needed." "Double-check your work." "Cite sources." These matter.
 - **Use hallucinations deliberately for ideation.** For operations, facts, finance, and regulated outputs: eliminate hallucinations with grounding, code execution, and verification. For brainstorming and research: _use_ hallucinations as stochastic ideation — they surface non-obvious ideas. Use weaker models without extended thinking for creative divergence; save reasoning modes for correctness.
 
@@ -184,16 +188,19 @@ How do you trust people who can make mistakes? Engineer verification into the wo
 
 - **Make using AI easy.** Reduce friction. No permissions or extra steps required, aligned to current ways of working.
 - **Show leaders _using_ AI.** When teams see leaders using (not just talking about) AI, it gives them permission _and_ confidence.
+- **Make adoption hands-on.** Have people use AI on a real task, watch it fail, correct it, verify the result, and leave with a working artifact or reusable workflow. Training completion is not adoption.
 - **Security and privacy start with the right controls.** Use enterprise models within your cloud tenant (Azure, AWS, or Google). Set least-privilege access — read-only for data, draft-only for email, containers for code. Audit logs for anything consequential.
 - **Shift from human-in-the-loop to human-on-the-loop.** Run a confidence-building period where humans watch and verify AI output. Then automate routine cases and route only disagreements, low-confidence outputs, and high-stakes decisions to humans.
 - **Keep updating models.** Monitor the ever-shifting cost-quality frontier and keep switching to cheaper, better models as they appear. Loyalty to a specific model is a liability.
 - **Compare accuracy with _multiple_ experts.** AI may not match an SME 100%, but one SME may not match another SME either. Check with multiple human experts and see if AI is within the human range of disagreement.
+- **Validate the requirement and the ground truth—not just the model.** When several strong models and independent experts systematically disagree with a label or requirement, audit the requirement before spending effort matching it.
 - **Use consensus to improve accuracy, but measure it.** Quintuple-check outputs. Consensus lowers review priority. Build a golden set to measure your actual error rate on the specific task — don't assume a published number applies to yours.
 - **Generate code for reliability.** Instruct LLMs to write and execute deterministic code rather than reasoning in plain text.
 - **Find AI enthusiasts.** Top-down mandates build frustration. Find and empower the few "builders" or "power users." Measure actual adoption — unique days of use, token consumption, task diversity — not training completion rates.
 - **Use games and challenges to teach AI.** Replace passive slide decks with Capture the Flag (CTF) challenges, prompt-injection games, forbidden-word jailbreaks, and coding-agent races. Design challenges where using a coding agent is the _only_ practical way to finish in time — this gives binary signal on real proficiency.
 - **Standardize evaluation.** You'll move much faster with evaluation frameworks (like "LLM-as-a-judge") to score model performance and catch regressions.
-- **Lay a good data foundation.** Convert unstructured documents into structured formats. AI output quality depends on input data quality.
+- 🔴 **Lay a good data foundation.** Convert unstructured documents into structured formats. AI output quality depends on input data quality.
+  **UPDATE**: Agents can organize data. Just give it access to the data and have them transform as required.
 - **Let anyone build tools.** Empower "citizen developers" to build their own tools in English. This de-bottlenecks IT and dramatically increases productivity.
 - **Prefer AI-native people.** The most effective AI operators aren't necessarily the most experienced — they're the most willing to delegate, verify, and learn fast. Interns, domain experts, and non-coders often outperform technical veterans who resist changing their workflow.
 - **Let the owner drive it.** Alice building Bob an AI solution rarely works. Bob building it himself (with Alice's help) works better.
@@ -237,7 +244,7 @@ The Jevons Paradox applies here too: making cognitive work cheaper increases tot
 
 UPDATES:
 
-- 13 Jul 2026: https://chatgpt.com/c/6a54a20f-117c-83ee-8cf3-19a8e9379646 #TODO
+- 13 Jul 2026: https://chatgpt.com/c/6a54a20f-117c-83ee-8cf3-19a8e9379646
 - 25 Apr 2026: https://claude.ai/chat/f4e096d6-eb76-4ef0-981f-29217514c209 + https://chatgpt.com/c/69ece318-6e30-83ea-b75e-872e52b8d2d7 + https://gemini.google.com/app/cf069ec2bffe4ce1
 - 15 Mar 2026: https://claude.ai/chat/01653f4d-39fe-4913-8b19-e94d3684163c + https://chatgpt.com/c/69b6121b-5548-839a-8a4f-73066cae406b
 
