@@ -146,6 +146,22 @@ Based on my browsing history below, summarize what I did, grouping into logical 
 Ask me questions for whatever's unclear.
 ```
 
+## Claims half-life fact-check
+
+<!-- https://claude.ai/chat/e7d1e20f-b7b7-4e1a-9cd8-d6b40be16079 -->
+
+```markdown
+Research and categorize each claim's accuracy half-life with a concise (2-6, max 10 word) reason and next review time (if required) added inline. Categorize as:
+
+- ⚪ True: fact, not a claim requiring half life.
+- ⚫ No: insufficient evidence, unproven, or incorrect. Review now.
+- 🔴 Fluid: true now but can change quickly. Review in a few months.
+- 🟡 Stable: governed by a slow variable (regulation, cognitive limits, expertise pipelines, culture, infrastructure, coordination, fixed supply). Review in a few years.
+- 🟢 Durable: rests on science or human nature. Review not required.
+
+e.g. (⚪), (⚫ ... reason ...), (🔴 Model & methods change rapidly. Review Oct 2026), (🟡 ... reason. Review in 2027) (🟢 ... reason...)
+```
+
 ## Claude Code Chunk / Fragment data story
 
 ```markdown
@@ -329,7 +345,7 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 - Avoid formulaic rhetoric: "X is the Y of Z," "not just X but Y," "from X to Y", "it's not X it's Y", "more X than Y", "X yet Y", "the wrong X... the right one is Y", "honest/genuine X", "X matters", ...
 - Avoid condensed verb forms (prefer conversational phrases): ships (publishes or delivers), trips (makes a mistake), surfaces (ends up exposing), lands (results in), load-bearing (critical), ...
 - Don't stack short sentences for effect.
-- Write like we talk. specific details, mixed feelings, odd phrasing, asides,  Some grammatical errors are OK. One-word fragments are OK - e.g. "Fair." "Really?" "Maybe."
+- Write like we talk. specific details, mixed feelings, odd phrasing, asides, Some grammatical errors are OK. One-word fragments are OK - e.g. "Fair." "Really?" "Maybe."
 ```
 
 <!--
