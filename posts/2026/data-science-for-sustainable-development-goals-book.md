@@ -5,6 +5,8 @@ categories:
     - data
     - visualization
     - llms
+description: I reflect on my newly published open-access book chapter and how I used ChatGPT to dig through years of my email archives to piece together its forgotten history—only to discover I didn't recognize my own writing.
+tags: [book, open-access, academic-publishing, data-science, gramener, chatgpt, isaac-asimov]
 ---
 
 One of my goals this year is to [publish 2 books](https://www.s-anand.net/blog/my-year-in-2025/). One got published. Sort of.
@@ -71,6 +73,8 @@ So the next time I critique AI or a ghost-writer for not writing in my style, I 
 There's another story here: I remembered **none** of this. Not the original request, nor the chapters, nor who wrote what, nothing!
 
 All of this was excavated by ChatGPT with GPT 5.6 Sol on High, over 90 minutes, going through several gigabytes of my email archives. It found the entire story. Not just stuff I forgot, but stuff I _never knew_. (I don't read all my emails, certainly not fully.)
+
+<!-- https://chatgpt.com/c/6a55ef1b-5df0-83ee-add1-7cc32fe89194 -->
 
 This "email archeology" is powerful. Storing everything enables it (and that's going to become more common) but re-constructing history is amazing.
 
