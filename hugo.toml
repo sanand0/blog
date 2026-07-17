@@ -1,6 +1,6 @@
 baseURL = "https://www.s-anand.net/blog/"
 title = "S Anand"
-languageCode = "en-us"
+locale = "en-us"
 enableRobotsTXT = true
 # Enable aliases for redirects
 disableAliases = false

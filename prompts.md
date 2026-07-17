@@ -1,5 +1,16 @@
 # Prompts
 
+## Fix broken setup.sh, 17 Jul 2026
+
+<!--
+cd ~/code/blog
+dev.sh -- codex --yolo --model gpt-5.5 --config model_reasoning_effort=medium
+-->
+
+`setup.sh` fails. Fix it - minimally. Maybe the problem is with content, rather than code or config?
+
+<!-- codex resume 019f6f37-ed31-74a1-b0b8-0d8519362827 --yolo -->
+
 ## Upgrade search, tags, related posts, agent corpus, 10 Jul 2026
 
 <!--

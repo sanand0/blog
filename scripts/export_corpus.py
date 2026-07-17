@@ -107,10 +107,14 @@ def page_url(path: Path, content_dir: Path, base_url: str, front_matter: dict[st
     """Return the canonical URL Hugo emits for a generated content file."""
     base = base_url.rstrip("/") + "/"
     rel = path.relative_to(content_dir)
+    slug = str(front_matter.get("slug") or path.stem).strip()
     if rel.parts and rel.parts[0] == "posts":
-        slug = str(front_matter.get("slug") or path.stem).strip()
         return f"{base}{slug}/"
-    return f"{base}{rel.with_suffix('').as_posix().lower()}/"
+    if slug:
+        rel = rel.parent / slug
+    else:
+        rel = rel.with_suffix("")
+    return f"{base}{rel.as_posix().lower()}/"
 
 
 def public_file_for_url(url: str, public_dir: Path, base_url: str) -> Path:

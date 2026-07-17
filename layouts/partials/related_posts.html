@@ -1,4 +1,4 @@
-{{- $relatedData := index site.Data "related-posts" -}}
+{{- $relatedData := index hugo.Data "related-posts" -}}
 {{- $pagesBySlug := partialCached "pages_by_slug.html" site "pages-by-slug" -}}
 {{- with index $relatedData .Slug }}
 {{- if ge (len .) 3 }}
