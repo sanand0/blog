@@ -25,6 +25,7 @@ uv run scripts/build_agent_exports.py
 
 # Copy special pages
 cp public/blog/s-anand/index.html public/   # From blog/pages/s-anand.md
+cp public/blog/404.html public/             # GitHub Pages custom 404 page
 cp -R public/blog/calvin/ public/           # From blog/pages/calvin.md
 
 # Ideas for other pages that we could copy to public/ directly:

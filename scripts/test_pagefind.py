@@ -18,11 +18,13 @@ def test_search_page_loads_pagefind_bundle():
 
 def test_404_page_loads_search_with_path_query():
     html = (PUBLIC / "404.html").read_text(encoding="utf-8")
+    root_html = Path("public/404.html").read_text(encoding="utf-8")
 
     assert 'id="search"' in html
     assert "/blog/pagefind/pagefind-ui.js" in html
     assert "search.triggerSearch" in html
     assert "decodeURIComponent(location.pathname" in html
+    assert root_html == html
 
 
 def test_pagefind_index_covers_archive_pages():

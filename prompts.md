@@ -20,6 +20,10 @@ Instead, let's include the same search component on the page.
 Pre-populate it with the relevant part of the incorrect URL (e.g. https://www.s-anand.net/blog/innovation-team_methods/ might search for "innovation team methods").
 Keep changes minimal and elegant.
 
+---
+
+Make sure the 404 page will be used by GitHub Pages as the 404 page. (If already done, no action required.)
+
 <!-- codex resume 019f730d-b8e0-7980-9e85-424b94d8bd4b --yolo -->
 
 ## Fix broken setup.sh, 17 Jul 2026
