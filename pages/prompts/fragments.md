@@ -146,7 +146,19 @@ Based on my browsing history below, summarize what I did, grouping into logical 
 Ask me questions for whatever's unclear.
 ```
 
-## Claims half-life fact-check
+## Half-life fact check
+
+<!--- https://chatgpt.com/c/6a577f6d-7c98-83ee-b6ae-a7f13369caf1 -->
+
+```markdown
+Review the notes below. Output only claims needing #ForNow (likely to change within months) or #Wrong (false, unsupported, or incorrect) tags, quoting the shortest identifying fragment.
+For each ⚫, add a ≤6-word reason and correct obvious errors; omit everything else.
+
+Note: Stable things are likely governed by slow variables (regulation, cognitive limits, expertise pipelines, culture, infrastructure, coordination, fixed supply) or durable things (science, human nature).
+#ForNow things are true now but technology, fashion, geopolitics, popular opinions, etc. change quickly.
+```
+
+Older version:
 
 <!-- https://claude.ai/chat/e7d1e20f-b7b7-4e1a-9cd8-d6b40be16079 -->
 

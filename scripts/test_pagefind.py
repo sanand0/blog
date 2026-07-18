@@ -12,6 +12,17 @@ def test_search_page_loads_pagefind_bundle():
     assert "/blog/pagefind/pagefind-ui.js" in html
     assert 'new PagefindUI({' in html
     assert 'id="search"' in html
+    assert 'openFilters: ["category", "year"]' in html
+    assert "showEmptyFilters: false" in html
+
+
+def test_404_page_loads_search_with_path_query():
+    html = (PUBLIC / "404.html").read_text(encoding="utf-8")
+
+    assert 'id="search"' in html
+    assert "/blog/pagefind/pagefind-ui.js" in html
+    assert "search.triggerSearch" in html
+    assert "decodeURIComponent(location.pathname" in html
 
 
 def test_pagefind_index_covers_archive_pages():
@@ -20,6 +31,7 @@ def test_pagefind_index_covers_archive_pages():
 
     assert entry["version"] == "1.5.2"
     assert page_count > 2800
+    assert len(list((PUBLIC / "pagefind/filter").glob("*.pf_filter"))) == 2
 
 
 def test_non_search_pages_do_not_load_pagefind_or_fuse_payloads():

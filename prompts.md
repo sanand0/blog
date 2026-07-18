@@ -1,5 +1,27 @@
 # Prompts
 
+## Include search in 404, 18 Jul 2026
+
+<!--
+cd ~/code/blog
+dev.sh -- codex --yolo --model gpt-5.5 --config model_reasoning_effort=medium
+-->
+
+Modify the search component so that
+
+- Tags are not visible (there are too many), just categories and years.
+- ONLY if this is very easy to do (max 2 additional lines of code, preferably reducing lines of code):
+  - auto-hide empty categories/years/..., i.e. where the count is zero, as the results are updated
+  - override `gap: calc(20px * var(--pagefind-ui-scale))` on `.pagefind-ui__filter-group.svelte-1v2r7ls.svelte-1v2r7ls` to 1/4th of the current gap so that the categories, years, ... are closer together and take up less vertical space.
+  - The clear button `.pagefind-ui__search-clear.svelte-e9gkc3` has `padding: 0 calc(15px * var(--pagefind-ui-scale)) 0 calc(2px * var(--pagefind-ui-scale))` which means that the clear button is aligned to the left edge of the button - it should be centered.
+
+Also, currently the 404 page is a static HTML.
+Instead, let's include the same search component on the page.
+Pre-populate it with the relevant part of the incorrect URL (e.g. https://www.s-anand.net/blog/innovation-team_methods/ might search for "innovation team methods").
+Keep changes minimal and elegant.
+
+<!-- codex resume 019f730d-b8e0-7980-9e85-424b94d8bd4b --yolo -->
+
 ## Fix broken setup.sh, 17 Jul 2026
 
 <!--

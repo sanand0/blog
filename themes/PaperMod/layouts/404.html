@@ -1,3 +1,7 @@
 {{- define "main" }}
-<div class="not-found">404</div>
+<header class="page-header pagefind-search-header">
+  <h1>404</h1>
+  <div class="post-description">Page not found. Search the archive instead.</div>
+</header>
+{{ partial "pagefind_search.html" . }}
 {{- end }}{{/* end main */ -}}

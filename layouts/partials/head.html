@@ -37,9 +37,6 @@
 {{- end }}
 {{- with .Params.tags }}
 <meta data-pagefind-meta="tags[content]" content="{{ delimit . ", " }}">
-{{- range . }}
-<meta data-pagefind-filter="tag[content]" content="{{ . }}">
-{{- end }}
 {{- end }}
 {{- if not .Date.IsZero }}
 {{- $year := .Date.Format "2006" }}
@@ -98,23 +95,27 @@
 {{- end }}
 
 {{- /* Search */}}
-{{- if (eq .Layout `search`) -}}
+{{- if or (eq .Layout `search`) (eq .Kind `404`) -}}
 {{- $pagefind_css := printf "%s/pagefind/pagefind-ui.css" $base_path -}}
 {{- $pagefind_js := printf "%s/pagefind/pagefind-ui.js" $base_path -}}
 <link rel="stylesheet" href="{{ partial "rel_link.html" (dict "from" . "to" $pagefind_css) }}">
 <script src="{{ partial "rel_link.html" (dict "from" . "to" $pagefind_js) }}"></script>
 <script>
   window.addEventListener("DOMContentLoaded", () => {
-    new PagefindUI({
+    const search = new PagefindUI({
       element: "#search",
       showImages: false,
       showSubResults: true,
       pageSize: 10,
       resetStyles: false,
       excerptLength: 30,
-      openFilters: ["category", "tag", "year"],
+      showEmptyFilters: false,
+      openFilters: ["category", "year"],
       translations: { placeholder: "Search the archive" }
     });
+    {{- if eq .Kind `404` }}
+    search.triggerSearch(decodeURIComponent(location.pathname.replace(/^\/blog\/|\/$/g, "").replace(/[._/-]+/g, " ")).trim());
+    {{- end }}
   });
 </script>
 {{- end -}}
