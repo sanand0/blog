@@ -1,5 +1,30 @@
 # Prompts
 
+## Fix broken build, 18 Jul 2026
+
+<!--
+cd ~/code/blog
+dev.sh -- codex --yolo --model gpt-5.6-sol --config model_reasoning_effort=medium
+-->
+
+Fix this error reported by https://github.com/sanand0/blog/actions/runs/29627661213/job/88035125459:
+
+```
+Start building sites …
+hugo v0.156.0-9d914726dee87b0e8e3d7890d660221bde372eec linux/amd64 BuildDate=2026-02-18T16:39:55Z VendorInfo=gohugoio
+
+ERROR error building site: render: [en v1.0.0 guest] failed to render pages: render of "/" failed: "/home/runner/work/blog/blog/themes/PaperMod/layouts/_default/baseof.html:12:50": execute of template failed: template: list.html:12:50: executing "list.html" at <.Language.Direction>: can't evaluate field Direction in type *langs.Language
+Total in 2372 ms
+render of "/home/runner/work/blog/blog/content/1999/_index.md" failed: "/home/runner/work/blog/blog/themes/PaperMod/layouts/_default/baseof.html:12:50": execute of template failed: template: archive/list.html:12:50: executing "archive/list.html" at <.Language.Direction>: can't evaluate field Direction in type *langs.Language
+Error: Process completed with exit code 1.
+```
+
+--- <!-- steering -->
+
+On the margin, I prefer upgrading the Hugo version on local and GitHub Actions to the latest stable version, e.g. 0.163, and changing this accordingly.
+
+<!-- codex resume 019f7323-93c9-7063-bebe-ca8713033e89 --yolo -->
+
 ## Include search in 404, 18 Jul 2026
 
 <!--

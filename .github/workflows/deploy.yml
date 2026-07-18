@@ -54,7 +54,7 @@ jobs:
       - uses: jdx/mise-action@v3
         with:
           install: true
-          install_args: "hugo@0.156.0"
+          install_args: "hugo@0.164.0"
           # cache: true
 
       - name: Build site
