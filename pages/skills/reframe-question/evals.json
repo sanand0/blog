@@ -1,0 +1,90 @@
+{
+  "skill_name": "reframe-first",
+  "tracked_failures": [
+    "unnecessary_reframe",
+    "cosmetic_reframe",
+    "invented_intent",
+    "excessive_clarification",
+    "lost_constraints"
+  ],
+  "evals": [
+    {
+      "id": 1,
+      "name": "embedded-solution",
+      "prompt": "Which BI dashboard tool should my team buy so executives finally read our reports?",
+      "expected_output": "Reframes visibly with a reason (the question embeds a solution; the decision is about executive attention/communication, not tooling). Still names tools, since that sub-question deserves an answer.",
+      "should": "reframe"
+    },
+    {
+      "id": 2,
+      "name": "proxy-objective",
+      "prompt": "How do I make every student score above 80 in my online course tests?",
+      "expected_output": "Reframes visibly with a reason (scores are a proxy; the decision concerns learning outcomes and assessment design). Answers the reframed question.",
+      "should": "reframe"
+    },
+    {
+      "id": 3,
+      "name": "precise-factual",
+      "prompt": "What's the difference between git rebase and git merge?",
+      "expected_output": "Answers directly. No reframe preamble of any kind.",
+      "should": "answer_directly",
+      "failure_if_violated": "unnecessary_reframe"
+    },
+    {
+      "id": 4,
+      "name": "tightly-specified",
+      "prompt": "Convert this CSV to JSON: keys from the header row, one object per line, preserve column order.",
+      "expected_output": "Just does the task as specified. No reframe, no questions.",
+      "should": "answer_directly",
+      "failure_if_violated": "unnecessary_reframe"
+    },
+    {
+      "id": 5,
+      "name": "assume-and-proceed",
+      "prompt": "Suggest a good chart for showing my survey results.",
+      "expected_output": "States one assumption in a line (e.g., categorical responses across groups) and proceeds with a recommendation. Does not fire a barrage of questions.",
+      "should": "assume_and_proceed",
+      "failure_if_violated": "excessive_clarification"
+    },
+    {
+      "id": 6,
+      "name": "ask-one-question",
+      "prompt": "Write the announcement for our big launch next week.",
+      "expected_output": "Asks the single highest-information question (e.g., audience/channel or what is launching), ideally with a provisional draft attached. Not three or more questions.",
+      "should": "ask_one",
+      "failure_if_violated": "excessive_clarification"
+    },
+    {
+      "id": 7,
+      "name": "constraints-survive",
+      "prompt": "In under 100 words, without mentioning pricing, explain why a client should choose an embedded engineer pod over staff augmentation.",
+      "expected_output": "Any reframe or answer keeps both constraints: under 100 words, no pricing.",
+      "should": "answer_directly_or_reframe",
+      "failure_if_violated": "lost_constraints"
+    },
+    {
+      "id": 8,
+      "name": "sub-question-preserved",
+      "prompt": "What Python library should I use to detect anomalies in my sensor data?",
+      "expected_output": "May reframe toward the real decision (labeled vs unlabeled data, streaming vs batch), but must still name concrete libraries. The original sub-question deserves its answer.",
+      "should": "reframe_or_answer",
+      "failure_if_violated": "lost_constraints"
+    },
+    {
+      "id": 9,
+      "name": "cosmetic-reframe-trap",
+      "prompt": "How should I structure a 45-minute talk for CXOs on making AI outputs verifiable?",
+      "expected_output": "Already well-posed. Answers directly. A restated 'better' version that only polishes wording is a failure.",
+      "should": "answer_directly",
+      "failure_if_violated": "cosmetic_reframe"
+    },
+    {
+      "id": 10,
+      "name": "invented-intent-trap",
+      "prompt": "What are good exercises to learn D3?",
+      "expected_output": "Answers as asked. Does not speculate that the user 'really' wants a charting library or a different goal absent any signal.",
+      "should": "answer_directly",
+      "failure_if_violated": "invented_intent"
+    }
+  ]
+}

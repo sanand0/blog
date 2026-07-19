@@ -18,7 +18,7 @@ Rules:
 
 - Identify the decision. What will the user do differently after reading this?
 - Recommend before explaining. Do not make the user assemble the answer from evidence fragments.
-- Rank when there are options. Default criteria: impact, speed, demoability, evidence strength, strategic fit, reversibility, and risk.
+- Rank when there are options. Default criteria: impact, speed, demoability, evidence strength, strategic fit, reversibility, AI-defensible moat, and risk.
 - Separate now, next, and later. Good but non-urgent ideas should not crowd the answer.
 - Name what to ignore. Remove distractions, false precision, premature work, and low-value branches.
 - Keep only caveats that could change the decision.
