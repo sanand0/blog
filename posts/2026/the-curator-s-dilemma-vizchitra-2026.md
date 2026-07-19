@@ -6,6 +6,7 @@ categories:
   - visualization
 description: My VizChitra session exposed challenges in chart verification and purpose-fit, even with an AI-generated chart topping votes. I learned surfacing group disagreements is crucial, as participants often struggle to agree on one 'best' visualization.
 tags: [vizchitra, data-visualization, ai, verification, presentations, llms]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7481597025130553345/
 ---
 
 ![](https://sanand0.github.io/talks/2026-07-04-vizchitra-dialog-curators-dilemma/summary.avif)

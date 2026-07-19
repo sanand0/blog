@@ -152,6 +152,7 @@ Ask me questions for whatever's unclear.
 
 ```markdown
 Review the notes below. Output only claims needing #ForNow (likely to change within months) or #Wrong (false, unsupported, or incorrect) tags, quoting the shortest identifying fragment.
+Skip claims that already have a #ForNow or #Wrong tag - or this is clearly implied by the context.
 For each #Wrong add a ≤6-word reason and correct obvious errors; omit everything else.
 
 Note: Stable things are likely governed by slow variables (regulation, cognitive limits, expertise pipelines, culture, infrastructure, coordination, fixed supply) or durable things (science, human nature).

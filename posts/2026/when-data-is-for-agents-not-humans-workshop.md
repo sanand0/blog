@@ -6,6 +6,7 @@ categories:
   - llms
 description: Join my workshop to learn how to restructure datasets for LLM agents rather than humans. We'll test hands-on techniques like prioritizing functions over tables, leveraging logs over docs, and using agents to rebuild raw data.
 tags: [data-engineering]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7477379483147100160/
 ---
 
 For thirty years, we cleaned data for humans.
