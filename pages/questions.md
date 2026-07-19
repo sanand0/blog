@@ -18,6 +18,61 @@ Questions are powerful when you are curious. Questions are to discover. Not to i
 Drive more questions. It's under-used. Create a culture of curiosity.
 Questioning defines and structures what we don’t know.
 
+<!-- 18 Jul 2026: https://claude.ai/chat/20784d61-3ac1-45b3-bdc5-b02ea8d31d25 + https://chatgpt.com/c/6a5b3841-5eec-83ee-9b9e-d37ab73162fa -->
+
+## Openers
+
+- ⭐ What do you like most about what you're doing? How did you get into it?
+- What's interesting in your life recently?
+- How can I help?
+
+## Learn
+
+- ⭐ What do you know better than most people? → What are the top non-intuitive principles in that field?
+- What are things novices / outsiders generally miss?
+- What's something you thought about in a certain way but now think differently?
+- What's something you believe that very few people agree with you on?
+
+## Deepen / follow-up
+
+- Say more... / For example?
+- Why? Why does that matter?
+- ⭐ When else have you seen something like this?
+- Last time you mentioned [X]. What happened?
+
+## Diagnose
+
+- What prompted this call?
+- What happens if you solve that?
+- Who cares? Why? What if we ignore?
+- Where is the problem - and why do you think so?
+- When/where does this problem NOT happen? What's different there?
+- Who can help?
+
+## Challenge / expand
+
+- What would change your mind?
+- Pre-mortem: what would make this fail?
+- What would you tell a friend with this exact problem?
+- Who do you wish were here to solve this — and what would they do?
+
+## Commit
+
+- What's a tiny next step?
+- ⭐ Let's try now?
+- What do you want to commit to, and to whom?
+- When [likely obstacle] happens, what will you do?
+- (After a slip) What did you have in mind when you committed? → What system would prevent a repeat?
+
+## Calibrate
+
+- Could you summarize what you heard from me?
+- ⭐ What should I have asked you?
+
+---
+
+# Archive
+
 <!-- https://chatgpt.com/c/68084045-0a38-800c-9b40-c93732b80941 -->
 
 ## Improve time management
@@ -28,7 +83,7 @@ Questioning defines and structures what we don’t know.
 - Where are you holding back until you feel like you know something? Everyone is winging it
 - How would you spend your days differently if you didn't care so much about seeing your actions reach fruition? Process vs outcome
 
-## Ask Founders
+## Questions to ask founders
 
 - What are some small things your organization does really well, and you're proud of? I'd love to learn what you do and how it came about
 - What are the top 3 principles your company lives by? If you had to drop one, which two would you keep?
@@ -59,7 +114,7 @@ Questioning defines and structures what we don’t know.
 ## Discover contrarianism / independent thinking
 
 - Do you ever find there are things about you that people misunderstand?
-- What important truth do very few people agree with you on?
+- [x] What important truth do very few people agree with you on?
 - What's an accepted idea that you believe will turn out to be wrong?
 
 ## Introspection

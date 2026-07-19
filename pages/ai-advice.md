@@ -15,49 +15,49 @@ Here's AI advice I generally give people.
 [AI _will_ erode skills](https://link.springer.com/article/10.1007/s00146-025-02422-7) — but that's OK for some skills.
 
 - Learn what AI _won't_ do well even in the future. Practice manually, then use AI for critique and coaching.
+  - Hard to practice and vague to verify tasks are slow learning for AI.
 - Delegate _blindly_ what AI does well. Use saved time to learn new skills.
 
-Critical skills in the AI era:
+Critical skills AI might never learn or be allowed to.
 
 - **Relationship skills.** Empathy, bonding, trust, etc. Humans are wired to value humans.
 - **Accountability.** Giving a commitment, standing behind it, managing the risk that involves. Regulation & social norms reduce AI encroachment.
-- **Governance.** Values. Ethics. What _should_ we do? How do we decide? How do we make it happen?
-- **Problem selection.** Learn to quickly discover what's useful for yourself and others. AI can execute them fast.
-- **Validation.** AI works fast. Learn shortcuts to compare versions, find mistakes, and give feedback — in unfamiliar areas. (Consultants learn this skill well.)
+- **Governance.** Values. Ethics. What _should_ we do? How do we decide? How do we make it happen? Who/what represents or decides for us?
+- **Intuition.** Learn shortcuts to find mistakes and give feedback - even in unfamiliar areas. (Consultants learn this well.)
 
-Growing skills:
+Growing skills that AI might not learn easily.
 
 - **Management.** Shift from doing the work yourself to managing "teams" of AI agents and interns to handle execution. Learn problem breakdown, team organization, etc.
+- **Ownership.** Agency. Proactively seeking problems, making decisions no one asked for, getting things done, and continuously improving. AI may not be allowed to practice this freely.
+- **Problem selection.** Learn to quickly discover what's useful for yourself and others. AI can select fast but not test.
+
+Growing skills that AI is learning.
+
+- **Verification assets.** Design golden sets, test cases, and audit workflows that reliably catch AI errors at scale.
 - **Asking questions.** Learn to ask _lots_ of _good_ questions that nudge AI and humans to better results, new horizons. Curiosity helps.
+- **Learning fast.** Learn how to learn faster. You'll need to learn many subjects quickly (especially to judge AI output). But AI can learn faster.
+- **Taste.** The ability to recognize and guide AI toward high-quality, distinctive output (art, style, design, creativity).
 - **Communication.** Thinking clearly and expressing it clearly.
 - **Storytelling.** Guide AI to deliver compelling narratives that move people.
-- **Hard-to-define skills.** Skills that are easy to define are easy to train AI on. What we can't even name is valuable.
-
-Growing (for a while) skills:
-
-- **Learning fast.** Learn how to learn faster. You'll need to learn many subjects quickly (especially to judge AI output). But AI can learn faster.
-- **Taste.** The ability to recognize and guide AI toward high-quality, distinctive output — increasingly scarce as execution becomes cheap.
-- **Style and art.** Guide AI to write, draw, and code in different styles for different audiences. But AI can learn these too.
-- **Verification assets.** Design golden sets, test cases, and audit workflows that reliably catch AI errors at scale.
-- **Orchestration.** Harness engineering: know which agent, model, tool, or skill is best for which task — and how to chain them together.
+- **Orchestration.** Harness engineering: know which agent, model, tool, or skill is best for which task, and how to chain them together.
 - **Tooling.** Connect things — especially to agentic systems — to give them more execution power.
-- **Context engineering.** Know what data to feed AI and what to skip — including the right fragments like "ELI15" or specific persona-setting — for the best results.
+- **Context engineering.** Know what data to feed AI and what to skip - including the right fragments like "ELI15" or specific persona-setting - for the best results.
 - **Prototyping.** Build and iterate on the smallest working solution (using AI agents) ultra-rapidly.
 
-Declining skills:
+Declining skills that AI knows well.
 
-- **Coding syntax.** AI can write it.
-- **Factual recall.** AI can look it up or derive it.
+- **Coding.** AI can write, test and self-correct.
+- **Knowledge.** AI can look it up or derive it.
 - **Routine domain depth.** Unless you are (or can become) a top expert, AI fills in gaps. That said: domain depth still matters for problem framing, validation, edge cases, and incentive design. Focus on judgment-heavy applications, not rote recall.
-- **Following rules.** AI can implement a process better.
+- **Diligence.** AI can implement a process or rules better.
 - **Junior-level execution.** Routine grunt work, basic summaries, and entry-level analysis are increasingly automated by LLMs.
-- **Drafting from scratch.** The ability to write a first draft (code or text) is less valuable than the ability to edit and refine an AI-generated baseline.
+- **Drafting.** The ability to write a first draft (code or text) is less valuable than the ability to edit and refine an AI-generated baseline.
 - **Business intelligence.** AI can build dashboards, data stories, and more — and is replacing static dashboards with agents that answer questions directly.
 - **Data organization.** AI can structure data to make it more analyzable.
 - **Data wrangling.** AI can handle data engineering, modeling, analysis, and visualization.
 - **Tool expertise.** AI can use tools for you.
 - **Intermediation.** AI can translate between groups (e.g. business analysts).
-- **Originating ideas in isolation.** AI can brainstorm ideas. Focus on evaluating and selecting based on unique context.
+- **Ideation.** AI can brainstorm ideas. Focus on evaluating and selecting based on unique context.
 
 Here's how some industries have dealt with skill erosion:
 
