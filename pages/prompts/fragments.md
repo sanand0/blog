@@ -190,6 +190,41 @@ Also see ~/code/scripts/agents/AGENTS.md and ~/code/scripts/agents/{code,agent-f
 Align with these. Avoid duplication.
 ```
 
+## Cold inbound decision
+
+<!-- https://chatgpt.com/c/6a5deadb-a5b8-83ee-80f0-a9f67bfcf9ae + https://claude.ai/chat/e2e01959-fda1-468b-80e0-59294450a282 -->
+
+```markdown
+Help me decide what to do with this inbound message by researching the person, filtering for meaningful signals, and recommending the best low-commitment response.
+
+Assume the writing may be AI-polished. Ignore style, eloquence, personalized praise, etc. Evaluate the underlying facts and observable signals:
+
+- a specific shared context (not something agents can write from a transcript or find publicly)
+- demonstrated action, follow-through or ownership
+- a real artifact whose value goes beyond generating it: deployment, use, testing, evidence or maintenance
+- credible experience, role, reach or access relevant to my objectives
+- an unusual intersection with my current work
+- a clear reason to act now rather than later
+
+Do not manufacture strategic alignment or infer sincerity or motives.
+
+Research:
+
+1. Check @LocalMCP for the exact person, prior interaction and relevant context.
+2. Search public sources selectively for current work, first-party artifacts and evidence of agency.
+3. Stop when further research is unlikely to change the decision. Do not provide a generic biography.
+
+Prefer responses that offer one useful public artifact, reframing, tiny experiment or fire-and-forget request.
+Avoid calls, meetings, mentoring, introductions, reviews, collaboration or open-ended help unless the opportunity is exceptional.
+
+Output only:
+
+**Decision:** IGNORE / ACKNOWLEDGE 👍 / REPLY
+**Why:** The decisive signals found through research, in 1–2 sentences.
+**Best move:** The exact action and why it is better than the alternatives.
+**Reply:** Only if replying; concise and informal, normally under 60 words and never over 100. Create no implied follow-up commitment.
+```
+
 ## Compare models
 
 ```markdown
@@ -390,6 +425,28 @@ Skills are available via `head /home/sanand/code/scripts/agents/*/SKILL.md`.
 
 -->
 
+## Meeting transcript context
+
+<!-- https://claude.ai/chat/e876e5b6-e461-42f7-90a2-3f4023072fea + https://chatgpt.com/c/6a5c36f2-1d34-83ee-9be5-b0aaa3cd13a8 -->
+
+```markdown
+Below are Google Meet notes and a diarized transcript of a call. The speaker names and diarization are perfect. The transcript has phonetic errors.
+Another AI model will re-transcribe the audio and needs a short CONTEXT note to infer speaker names from what each person says.
+
+Write that CONTEXT note. Rules:
+
+1. The diarized transcript is the source of truth for who spoke and what they said. Use the attendee list only for correct name spellings. Use the AI summaries only as supporting evidence; ignore anything they add or contradict.
+2. Include every person who spoke, even briefly. A brief speaker gets one short identifying clue (e.g., "Ritesh mentioned being on PTO"). Omit only invitees with zero spoken turns.
+3. Refer to each speaker by FIRST name only — the first word of their listed name. No surnames or full names, with one exception: if two speakers share a first name, add a surname initial (e.g., "Aditya K").
+4. For each speaker, give the smallest set of distinctive topics, demos, questions, or decisions that would identify their turns in audio. Prefer concrete clues ("demoed a fan churn dashboard") over vague ones ("gave a presentation").
+5. If the transcript shows a speaker being addressed by a misheard or variant name (e.g., "Samir" for Saumya), note it briefly — spoken names are strong diarization clues and mishearings cause mislabels.
+6. Mention roles only when obvious and useful (e.g., who led the call).
+7. Consolidate all turns from the same speaker. Fix obvious phonetic errors when the meaning is clear, but never invent details.
+8. Order speakers by how much they spoke, most first.
+9. Be concise: about 30 words per 30 minutes of call, expanding only for longer calls, more speakers, or fragmented discussion. Write one compact paragraph, separating speakers with semicolons.
+10. Output ONLY the context note. No headings, bullets, or explanations.
+```
+
 ## Meeting transcript summary
 
 ```markdown
@@ -483,6 +540,16 @@ Is this the smallest clean implementation of what we want? Or can we refactor to
 List all such opportunities, prioritized.
 Which of these would you suggest I implement and why?
 Implement and test.
+```
+
+## Revision artifacts
+
+<!-- https://chatgpt.com/c/6a5ef5e3-f384-83ee-b2a3-99dc74efaa8f + https://claude.ai/chat/d7f7230b-8fbf-4d48-bde8-164566b82c7a -->
+
+```markdown
+Produce clean, standalone final documents for a first-time reader, as if no earlier draft or conversation exists.
+Integrate all corrections and new context directly, leaving no revision traces - no "previously," "originally," "now," revised headings, changelogs, or explanations of what changed.
+Put any requested change summary in the chat reply, not the document.
 ```
 
 ## Slide deck

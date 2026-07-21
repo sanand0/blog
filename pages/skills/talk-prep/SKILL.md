@@ -1,5 +1,5 @@
 ---
-name: talks-workshops
+name: talk-prep
 description: "Apply when preparing for talks or workshops"
 ---
 
