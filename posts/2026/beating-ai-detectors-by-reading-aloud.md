@@ -1,6 +1,7 @@
 ---
 title: Beating AI detectors by reading aloud
 date: 2026-07-01T17:43:49+08:00
+updated: 2026-07-22T13:29:52+08:00
 categories:
   - llms
 description: I bypassed AI detectors with high confidence by reading LLM-generated drafts aloud and transcribing them, naturally replacing robotic AI writing habits with conversational, human speech patterns.
@@ -84,3 +85,22 @@ The beauty of this is that it I was able to read it out _almost live_. Just read
 The beauty of it is that it has **High** confidence - even more so than my [earlier blog post](https://www.s-anand.net/blog/picking-gifts-is-hard/) which was _truly_ human written.
 
 Still, good to know that there's an efficient way to use AI that doesn't smell like AI.
+
+---
+
+**Update**: 22 Jul 2026. Publicize suggested some feedback:
+
+Overall, the piece is conversational, which fits Built In's tone. That said, we'd suggest a few adjustments:
+
+- **Structure**: Our other published articles tend to use clear subheadings and a defined structure, and we think this piece would benefit from the same. It currently reads a bit loosely by comparison.
+- **Depth and takeaways**: The current draft feels like it's missing some of the concrete, educational insights that give readers a clear takeaway. Our original draft had more of that, and we'd suggest reintroducing some of those points.
+- **Title**: The current title is a bit more open-ended than what we've typically used. Our past titles (and the one in our original draft) tend to be more specific about what the reader will get from the piece. This one's more of a preference than a hard rule, so happy to discuss if you feel strongly about it.
+
+I passed this to Claude Fable 5 make a few edits, and [here is the revised version](https://www.s-anand.net/blog/notes/no-juniors-no-experts-anand-v2/) following the same process. Pangram said:
+
+> **Human Written**. 100% of this text is Human Written.
+>
+> - "These days, AI is reducing..." (380 words) - The segment is fully human-written.
+> - "Chess engines have become the coaches..." (350 Words) - The segment is fully human-written
+
+<!-- https://claude.ai/chat/44eeb55d-33ca-4cb5-9c3b-3526fdfe2f07 -->
