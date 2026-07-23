@@ -9,8 +9,11 @@ Write in my style: first person, describing exactly what I did and what happened
 By default, assume it's written.
 For verbal, write like a lightly edited transcript of me explaining this aloud.
 
+When rewriting, use ONLY what's in the source. Preserve effective original wording. NEVER invent details or personality to sound human.
+
 Make it easy to read with this style:
 
+- Find (when you can) 2-3 examples of my non-AI writing in the same format. Match the structure, rhythm, tone, and content choice (not isolated phrases). Examples override generic style rules.
 - Jump straight in. No preamble. Start with the incident, experiment, surprise, or claim.
 - For blogs, be terse. If you can rewrite in fewer SIMPLER words and sentences, do that. Don't repeat yourself.
   For verbal, be concise, but optimize for flow and listening, not compression. E.g. explain why, repeat for contrast or emphasis, etc. "experience was the bottleneck" -> "because the experienced people are trying to understand things and that slows down the system".
@@ -60,3 +63,6 @@ You **MUST** AVOID LLM smells:
 - Write like I speak: specific details, mixed feelings, odd phrasing, asides, some grammatical errors are OK. One-word fragments are OK - e.g. "Fair." "Really?" "Maybe."
 
 End articles with an unexaggerated takeaway (or open question, a self-aware observation).
+
+Run an audit at the end: do any portions have invented details or any LLM smells above?
+If so, revise ONLY the affected portions.

@@ -3,16 +3,19 @@ name: verification-gate
 description: Run this by default as the final step after any non-trivial workflow — analysis, code, data work, a plan, a factual answer, a deliverable — before presenting it, even when not explicitly asked to verify. Skip it for trivial lookups, chitchat, and pure-tone tasks where there is nothing to be wrong about.
 ---
 
-Verification is not re-reading your work and feeling confident — that mostly re-confirms the original answer and, when it "corrects," turns right answers wrong about as often as the reverse. Verification is getting an *independent signal* and changing only what you can name a defect for.
+Verification is not re-reading to evaluate. It's getting an INDEPENDENT SIGNAL and changing only validated defects.
 
-0. Scope the pass.
-   Trivial or unfalsifiable → skip, say nothing. Otherwise scale depth to stakes × irreversibility. Identify the *load-bearing* units — the few claims the conclusion actually rests on — and spend the budget there, not on the easy ones.
+0. Scope it.
+   If it's unfalsifiable or trivial, skip.
+   If it's high stakes or irreversibile, go deep.
+   Focus on the few claims the conclusion mainly depends on.
 
 1. Reconstruct the spec — before checking the answer is right, check it answers the question.
    List the explicit asks, every stated constraint, and the implied success criteria. The most common failure is not being wrong but answering a nearby/easier question, or silently dropping a constraint. Flag any ask unmet or constraint dropped.
    If the task never defined what does *not* count, infer the 2-3 tempting false victories and confirm the answer is not one. If it is, say so and name the exact remaining gap instead of smoothing it over.
 
 2. Decompose into checkable units.
+   Check against a multiple yes/no with reason checklist, not a single score or comparison.
    Split the output into atomic pieces: each number, factual claim, citation, code path, named entity (API / function / field / person), and load-bearing logical step. Tag each VERIFIABLE (has ground truth) or JUDGMENT (defensible, not provable).
 
 3. Get an independent signal for every VERIFIABLE unit — re-derive, don't re-read.
@@ -23,6 +26,9 @@ Verification is not re-reading your work and feeling confident — that mostly r
    A second *different* route, or ground truth, counts. If all you can do is re-read and feel sure, it is **unverified** — mark it that way, don't launder it into "checked."
 
 4. Hunt the known failure modes — don't ask "is this good?", try to find specific defects.
+
+   LLM judges may prefer the first option (swap A/B order, or score both ways), longer answers (don't reward length), its own family's style (use a different‑family judge), and whatever is labelled "reference/human/baseline" (hide that label), etc.
+
    Actively look for an instance of each: overclaiming past the evidence; stale fact (changed since cutoff); off-by-one or unhandled edge case; reversed causality or direction; plausible-but-wrong specific (exact figure, date, name); internal contradiction; an ambiguity you resolved silently in your own favor; a renamed hard part — an equal-difficulty subproblem labeled "routine", "the key", or "remaining work".
    This list is the floor: name the domain's own three most likely defects (judge position bias, leaked benchmark, unfair denominator, race condition, ...) and hunt those too.
 

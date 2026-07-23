@@ -15,7 +15,7 @@ Here's AI advice I generally give people.
 [AI _will_ erode skills](https://link.springer.com/article/10.1007/s00146-025-02422-7) — but that's OK for some skills.
 
 - Learn what AI _won't_ do well even in the future. Practice manually, then use AI for critique and coaching.
-  - Hard to practice and vague to verify tasks are slow learning for AI.
+  - AI is slow at learning hard to practice and vague to verify tasks.
 - Delegate _blindly_ what AI does well. Use saved time to learn new skills.
 
 Critical skills AI might never learn or be allowed to.
