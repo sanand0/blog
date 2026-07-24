@@ -1,5 +1,7 @@
 ---
-name: talk-prep
+title: Talk Prep
+date: 2026-07-24T16:00:00+08:00
+classes: wrap-code
 description: "Prepare an announced talk, workshop, panel, or keynote - once the forum, audience, topic, and description are known. Use for audience research, session and exercise design, demos, page copy, announcement posts, pre-session engagement, scripts, and cheat sheets. Not for finding a topic (ideation-protocol) or after-session communication (workshop-followup)."
 tags: [s-anand, pre-mortem, learning, communication, productivity, research-workflows]
 ---

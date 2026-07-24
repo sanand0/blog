@@ -1,11 +1,13 @@
 ---
-name: email-reply
+title: Email Reply
+date: 2026-07-17T12:26:03+08:00
 description: Use to draft an email reply as me. Fetch the thread with gws, decide whether and how to respond, and write what I'd actually say in my voice, grounded in my recent positions. Skip for searching, reading, or summarizing email, and for net-new outreach written from scratch.
+classes: wrap-code
 tags: [ai-agents, ai-workflows, agents-md, local-mcp, productivity, writing-style]
 ---
 
 ```markdown
-Answer the most recent email from [SENDER]
+Answer the most recent email matching above.
 
 Draft the reply that I (Anand) would actually send - based mostly on things I said, decided, or did recently, adapted to this audience and situation. (Not a generic polished email that just resembles my writing.)
 

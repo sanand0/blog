@@ -1,5 +1,7 @@
 ---
-name: talk-event-scan
+title: Talk Event Scan
+date: 2026-07-24T12:00:00+08:00
+classes: wrap-code
 description: Scan for events I should speak at or attend, and update the registry of events.
 tags: [ai-workflows, prompt-engineering, chatgpt, public-speaking, productivity]
 ---

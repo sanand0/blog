@@ -1,5 +1,7 @@
 ---
-name: workshop-followup
+title: Workshop Follow-up
+date: 2026-07-16T11:21:00+08:00
+classes: wrap-code
 description: Use to follow up with attendees, send a recap or thank-you, decide what to send an audience after a session, or convert a session transcript into attendee communication.
 tags: [system-prompt, prompt-engineering, learning, communication, claude]
 ---
