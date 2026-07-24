@@ -1,6 +1,7 @@
 ---
 name: email-reply
 description: Use to draft an email reply as me. Fetch the thread with gws, decide whether and how to respond, and write what I'd actually say in my voice, grounded in my recent positions. Skip for searching, reading, or summarizing email, and for net-new outreach written from scratch.
+tags: [ai-agents, ai-workflows, agents-md, local-mcp, productivity, writing-style]
 ---
 
 ```markdown
@@ -16,8 +17,8 @@ Guardrails:
 - For external recipients, don't disclose what's not approved for them.
 
 0. **Read relevant skills**: On Local MCP, find, read, and apply the relevant skills for the task.
-   ~/code/scripts/agents/_/SKILL.md - coding + thinking skills
-   ~/code/blog/pages/skills/_/SKILL.md - thinking skills
+   `~/code/scripts/agents/*/SKILL.md` - coding + thinking skills
+   `~/code/blog/pages/skills/*/SKILL.md` - thinking skills
 
 1. **Fetch and understand**: Use `gws` on Local MCP. Find the thread by subject + sender, read all of it (format=full, decode base64url bodies). Determine:
    - Have I already replied? Has the request changed? Did someone else answer?
@@ -44,9 +45,9 @@ Guardrails:
    2. The thread, attachments, links.
    3. My recent sent mail: same person, same project, similar questions (also my best style anchor - imitate 3-5 replies of the same type).
    4. For project/client work, use gws (Google Drive). Search filenames, then full text; maybe broaden thereafter. Prefer recent files (<90d). Read only most likely authoritative files.
-   5. ~/Dropbox/notes/questions-i-am-asked.md (newest first)
-   6. ~/Dropbox/notes/transcripts/YYYY-MM-DD\*.md near the email date or with the sender
-   7. ~/code/blog/description.md, ~/code/til/README.md, ~/code/talks/README.md (find the piece, then read it); ~/Dropbox/notes/about/{Sender}.md if present
+   5. `~/Dropbox/notes/questions-i-am-asked.md` (newest first)
+   6. `~/Dropbox/notes/transcripts/YYYY-MM-DD*.md` near the email date or with the sender
+   7. `~/code/blog/description.md`, `~/code/til/README.md`, `~/code/talks/README.md` (find the piece, then read it); `~/Dropbox/notes/about/{Sender}.md` if present
    8. The web, only for current external facts (prices, models, dates, roles).
 
    When sources conflict, prefer the more authoritative and recent, direct, situation-specific one.

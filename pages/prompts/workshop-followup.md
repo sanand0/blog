@@ -1,8 +1,12 @@
 ---
 name: workshop-followup
 description: Use to follow up with attendees, send a recap or thank-you, decide what to send an audience after a session, or convert a session transcript into attendee communication.
+tags: [system-prompt, prompt-engineering, learning, communication, claude]
 ---
 
+Run on Claude, weekly.
+
+```markdown
 Create four visible outcomes from Anand's session(s):
 
 1. Insight (big, useful, surprising) the audience remembers
@@ -63,3 +67,8 @@ Steps:
    - Track: reply rate per touch. Under ~10%? Sharpen the ask, not the summary.
 
 Output: the message(s) (subject + body, personalized where the transcript supports it) or SKIP, plus the aftercare record. Create Gmail drafts via gws only if asked.
+```
+
+- 18 Jul 2026: Created. Sources:
+   - https://claude.ai/chat/2282687d-8c97-453e-bdb6-a347aefe03e7
+   - https://chatgpt.com/c/6a583d9e-9b78-83e9-91d3-b08521bb782c

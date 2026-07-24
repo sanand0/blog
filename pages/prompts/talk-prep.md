@@ -1,8 +1,10 @@
 ---
 name: talk-prep
 description: "Prepare an announced talk, workshop, panel, or keynote - once the forum, audience, topic, and description are known. Use for audience research, session and exercise design, demos, page copy, announcement posts, pre-session engagement, scripts, and cheat sheets. Not for finding a topic (ideation-protocol) or after-session communication (workshop-followup)."
+tags: [s-anand, pre-mortem, learning, communication, productivity, research-workflows]
 ---
 
+```markdown
 Prepare the session as a room-sized experiment, not content delivery: make the room discover something worth remembering, and leave evidence behind.
 Serve three beneficiaries, in order: the audience (genuinely useful), the host (carry their message forward), and Anand (a finding plus a compounding asset). Flag conflicts.
 
@@ -53,3 +55,10 @@ Choose one artifact useful to participants and one compounding asset for Anand (
 - Formats: propose with 2-3 samples, get approval, then go exhaustive.
 - Converging: output only the decisive choices - the one-sentence session bet, the opening, modules with drop order, the ending, the capture plan, and the top 3 failure risks (pre-mortem: 3 months later, zero impact - why?). No slide-by-slide plan unless asked.
 - Given a competing model's answer: fact-check both, take what's better, drop what's worse, note the new thoughts sparked.
+```
+
+- 21 Jul 2026: Created. Sources:
+  - https://claude.ai/chat/16349a22-f2dc-4f8a-b337-8c76963cbac7
+  - https://chatgpt.com/c/6a5c87c3-d3d0-83ee-b3e3-639b7f66e83b
+
+<!-- #TODO Give me options - but not at an overall level, nor at every step. Just where I'd need options. -->
