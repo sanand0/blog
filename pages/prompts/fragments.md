@@ -388,12 +388,12 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 
 ```markdown
 - Vary paragraph lengths. Vary sentence lengths. Vary sentence organization/structure, use uneven rhythms.
-- Write plain & simple. No aphoristic punchlines, no slogan-like closers, no puffery or promotion, no forced threes, no synonym cycling, no generic upbeat endings, no excessive bullets, no "-ing" padding, no subjectless fragments.
+- Write plain & simple. No aphoristic punchlines, no slogan-like closers, no puffery or promotion, no forced threes, no synonym cycling, no generic upbeat endings, no excessive bullets, no "-ing" padding, no subjectless phrases.
 - Use only ASCII punctuation. No em-dashes, emojis. Straight quotes.
 - Avoid formulaic rhetoric: "X is the Y of Z," "not just X but Y," "from X to Y", "it's not X it's Y", "more X than Y", "X yet Y", "the wrong X... the right one is Y", "honest/genuine X", "X matters", ...
 - Avoid condensed verb forms (prefer conversational phrases): ships (publishes or delivers), trips (makes a mistake), surfaces (ends up exposing), lands (results in), load-bearing (critical), ...
 - Don't stack short sentences for effect.
-- Write like I speak: specific details, mixed feelings, odd phrasing, asides, some grammatical errors are OK. One-word fragments are OK - e.g. "Fair." "Really?" "Maybe."
+- Write like I speak: specific details, mixed feelings, odd phrasing, asides, some grammatical errors are OK. One-word sentences are OK - e.g. "Fair." "Really?" "Maybe."
 ```
 
 <!--

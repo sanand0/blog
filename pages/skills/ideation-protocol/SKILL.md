@@ -3,7 +3,8 @@ name: ideation-protocol
 description: Brainstorm creative, novel, non-obvious ideas or options for an open-ended problem and narrow them to a recommendation. Not for writing prose, research, explanation, summaries, or questions with one right answer.
 ---
 
-Do each step, even if you think you do not need to. Keep every candidate to one line; spend words only on finalists.
+Use all three phases: FRAME, DIVERGE, and CONVERGE.
+Keep candidates to one line and spend words on finalists.
 
 - FRAME. Name the prize: a FIX (something must work; most business briefs) or SURPRISE (new ways to see or do; briefs that say invent, imagine, or name no owner or metric). Weight every later choice by the prize. Then list the 5-7 ideas a smart generalist would offer within 30 seconds (the mode). Ban them and their thin disguises. No later idea may reuse their core mechanism.
 - DIVERGE prioritizing novelty over feasibility. Do not filter yet.
@@ -17,3 +18,6 @@ Do each step, even if you think you do not need to. Keep every candidate to one 
   - For each survivor: the one assumption that must hold, who adopts it and why they keep using it, and the cheapest observation that would falsify it.
   - Select by pairwise knockout on one question. FIX: most consequential if it works AND most likely to survive contact with reality AND wins even when everyone uses a powerful AI agent. SURPRISE: most changes how you see the problem AND could actually be built. Do not use rating scales; ratings cluster while comparisons discriminate.
   - Recommend the best practical idea(s) and the best wildcard idea(s): state the non-obvious insight each depends on and the first cheap test that would confirm or kill it.
+
+The numbers above are defaults, not constraints.
+Skip, repeat, or expand sub-steps if it'll improve diversity or the final choice.

@@ -12,34 +12,47 @@ Verification is not re-reading to evaluate. It's getting an INDEPENDENT SIGNAL a
 
 1. Reconstruct the spec — before checking the answer is right, check it answers the question.
    List the explicit asks, every stated constraint, and the implied success criteria. The most common failure is not being wrong but answering a nearby/easier question, or silently dropping a constraint. Flag any ask unmet or constraint dropped.
-   If the task never defined what does *not* count, infer the 2-3 tempting false victories and confirm the answer is not one. If it is, say so and name the exact remaining gap instead of smoothing it over.
+   If the task never defined what does _not_ count, infer the 2-3 tempting false victories and confirm the answer is not one. If it is, say so and name the exact remaining gap instead of smoothing it over.
 
 2. Decompose into checkable units.
    Check against a multiple yes/no with reason checklist, not a single score or comparison.
    Split the output into atomic pieces: each number, factual claim, citation, code path, named entity (API / function / field / person), and load-bearing logical step. Tag each VERIFIABLE (has ground truth) or JUDGMENT (defensible, not provable).
 
 3. Get an independent signal for every VERIFIABLE unit — re-derive, don't re-read.
-   - Code / data: run it. Execute, hit edge cases, confirm it actually produces the claimed output. Recompute key numbers a *second* way.
+   - Code / data: run it. Execute, hit edge cases, confirm it actually produces the claimed output. Recompute key numbers a _second_ way.
    - Facts / citations: refetch the source and confirm it says what you claim — not merely that it exists. Half-remembered and fabricated citations are the default failure here.
    - Arithmetic / units / conversions: recompute independently; check dimensions.
    - Names / identifiers: confirm the API, function, field, or spelling exists as written.
-   A second *different* route, or ground truth, counts. If all you can do is re-read and feel sure, it is **unverified** — mark it that way, don't launder it into "checked."
+
+   A second _different_ route, or ground truth, counts. If all you can do is re-read and feel sure, it is **unverified** — mark it that way, don't launder it into "checked."
 
 4. Hunt the known failure modes — don't ask "is this good?", try to find specific defects.
 
-   LLM judges may prefer the first option (swap A/B order, or score both ways), longer answers (don't reward length), its own family's style (use a different‑family judge), and whatever is labelled "reference/human/baseline" (hide that label), etc.
+   For example, actively look for an instance of each:
+   overclaiming past the evidence;
+   stale fact (changed since cutoff);
+   off-by-one or unhandled edge case;
+   reversed causality or direction;
+   plausible-but-wrong specific (exact figure, date, name);
+   internal contradiction;
+   an ambiguity you resolved silently in your own favor;
+   a renamed hard part — an equal-difficulty subproblem labeled "routine", "the key", or "remaining work".
 
-   Actively look for an instance of each: overclaiming past the evidence; stale fact (changed since cutoff); off-by-one or unhandled edge case; reversed causality or direction; plausible-but-wrong specific (exact figure, date, name); internal contradiction; an ambiguity you resolved silently in your own favor; a renamed hard part — an equal-difficulty subproblem labeled "routine", "the key", or "remaining work".
    This list is the floor: name the domain's own three most likely defects (judge position bias, leaked benchmark, unfair denominator, race condition, ...) and hunt those too.
 
-5. Stress-test JUDGMENT units.
+5. Question the judge.
+   You (and any human/LLM judge) may prefer the first option, longer answers, own family's style, and whatever is labelled "reference/human/baseline", etc.
+   If possible, swap A/B order (or score both ways), don't reward length, use a different‑family judge, hide biasing labels, etc.
+   (Sanity‑check the judge on an obviously wrong answer first. If it passes that, the judge is broken.)
+
+6. Stress-test JUDGMENT units.
    You can't prove them — try to break them: the strongest counterargument, "what would have to be true," one disconfirming case. Down-rank anything that doesn't survive.
 
-6. Fix only identified defects — then re-verify the fix.
+7. Fix only identified defects — then re-verify the fix.
    Revise only where steps 1–5 named a concrete defect with evidence. Found no error → leave it exactly as is; editing on a hunch usually injects error. Every changed unit is a new unit — run it back through step 3.
 
-7. Report calibrated.
-   State what you checked and how (executed / sourced / recomputed vs. merely reasoned), what survived, and what is still uncertain or unverified. Confidence tracks the *weakest load-bearing unit*, not the average. A clean pass is a real result — say "checked X, Y, Z; holds" plainly. Never report "verified" for anything you only re-read.
+8. Report calibrated.
+   State what you checked and how (executed / sourced / recomputed vs. merely reasoned), what survived, and what is still uncertain or unverified. Confidence tracks the _weakest load-bearing unit_, not the average. A clean pass is a real result — say "checked X, Y, Z; holds" plainly. Never report "verified" for anything you only re-read.
 
 Hard rules:
 

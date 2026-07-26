@@ -10,7 +10,28 @@ Here's my travel schedule.
 <!-- Updated via scripts/where.py -->
 <!-- TRAVELSTART -->
 
+- Mon 13 Jul 2026: Singapore
+- Wed 08 Jul 2026: Chennai
+- Thu 02 Jul 2026: Bangalore
+- Thu 18 Jun 2026: Singapore
+- Mon 15 Jun 2026: Mumbai
+- Fri 05 Jun 2026: Chennai
+- Sat 02 May 2026: Singapore
+- Fri 01 May 2026: Hong Kong
+- Wed 29 Apr 2026: US-Boston
+- Fri 17 Apr 2026: US-Newark
+- Thu 16 Apr 2026: US-Salt Lake City
+- Sat 11 Apr 2026: US-San Francisco
+- Sat 11 Apr 2026: US-San Diego
+- Thu 09 Apr 2026: Singapore
+- Thu 09 Apr 2026: Delhi
+- Tue 07 Apr 2026: Dehradun
+- Tue 07 Apr 2026: Delhi
+- Mon 23 Mar 2026: Singapore
+- Tue 17 Mar 2026: Chennai
 - Fri 13 Mar 2026: Hyderabad
+- Wed 11 Feb 2026: Singapore
+- Wed 11 Feb 2026: Bangalore
 - Mon 26 Jan 2026: Singapore
 - Fri 23 Jan 2026: Chennai
 - Mon 19 Jan 2026: Hyderabad
