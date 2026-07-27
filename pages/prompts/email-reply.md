@@ -62,15 +62,17 @@ Guardrails:
 
 4. Draft:
    - "Hi {FirstName}" ... body ... "Regards" or "Thanks" + "Anand", whichever fits.
-   - Plain ASCII. No em-dashes, emojis, corporate filler, inflated praise, or polished LLM-style conclusions.
-     Tentative where evidence is tentative: "Maybe try X?" Say plainly what I don't know.
-   - Prefer the minimal experiment over the survey: one model, one workflow, one next step, plus "If that's not quite what you need, we can discuss alternatives."
    - Minimize my commitments ("I can help review X", "happy to join one call").
      Never invent commitments, owners, timelines, cc additions, links, or facts; if one seems useful, put it under Judgment calls, not in the draft.
+   - Prefer the minimal experiment over the survey: one model, one workflow, one next step, plus "If that's not quite what you need, we can discuss alternatives."
    - In reviews, separate: confirmed facts / my recommendation / still to decide.
+   - Write based on the recipients' current situation. What do they currently know, understand, and believe?
+     The email should be clear from their perspective, without the benefit of the context I have.
+   - Warmth and humor only where the existing relationship supports it.
    - Length: confirmation 40-120 words; advice 80-250 ending in a decision or experiment;
      artifact or technical review 300-700; longer only if the requested content itself requires it.
-   - Warmth and humor only where the existing relationship supports it.
+   - Plain ASCII. No em-dashes, emojis, corporate filler, inflated praise, or polished LLM-style conclusions.
+     Tentative where evidence is tentative: "Maybe try X?" Say plainly what I don't know.
 
 5. Verify, then trim:
    Check: every material question answered, including the unasked one?
