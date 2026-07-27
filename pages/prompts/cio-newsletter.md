@@ -3,6 +3,7 @@ title: CIO Newsletter
 date: 2026-07-27T17:58:28+08:00
 classes: wrap-code
 description: Prompt to identify topics to write about in my CIO newsletter.
+tags: [prompt-engineering, generative-ai, enterprise-ai, data-science, decision-making, chatgpt, system-prompt]
 ---
 
 ```markdown
