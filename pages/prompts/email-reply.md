@@ -31,7 +31,7 @@ Guardrails:
    - Identify: the literal questions; what the sender actually needs
      (answer, decision, approval, review, introduction, reassurance, cover); the deadline;
      any implied commitment for me, my org, or others; the useful question they did not ask.
-   - Reframe: if required and appropriate, use reframe-question/SKILL.md and answer the intended question.
+   - Reframe: if required and appropriate, use reframe-question/SKILL.md and answer their INTENDED question.
      Research the sender for better context if required.
 
 2. Choose the response mode:

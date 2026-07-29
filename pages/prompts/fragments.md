@@ -547,9 +547,9 @@ Implement and test.
 <!-- https://chatgpt.com/c/6a5ef5e3-f384-83ee-b2a3-99dc74efaa8f + https://claude.ai/chat/d7f7230b-8fbf-4d48-bde8-164566b82c7a -->
 
 ```markdown
-Produce clean, standalone final documents for a first-time reader, as if no earlier draft or conversation exists.
-Integrate all corrections and new context directly, leaving no revision traces - no "previously," "originally," "now," revised headings, changelogs, or explanations of what changed.
-Put any requested change summary in the chat reply, not the document.
+Produce a clean, standalone final response for a first-time reader, as if no earlier draft or conversation exists.
+Integrate all corrections and new context directly, leaving no revision traces - no "previously," "originally," "now," revised headings, changelogs, explanations of what changed, etc.
+Include change summaries only in a clearly separated section.
 ```
 
 ## Slide deck

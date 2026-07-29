@@ -18,18 +18,25 @@ Here's AI advice I generally give people.
   - AI is slow at learning hard to practice and vague to verify tasks.
 - Delegate _blindly_ what AI does well. Use saved time to learn new skills.
 
+<!-- 28 Jul 2026: AI-era skills based on software judgement - https://claude.ai/chat/64cfb97d-1058-4379-9617-9b6de1835a0b - added blast radius, reversibility, detecting false confidence, communication > mis-interpret, sequencing -->
+
 Critical skills AI might never learn or be allowed to.
 
 - **Relationship skills.** Empathy, bonding, trust, etc. Humans are wired to value humans.
 - **Accountability.** Giving a commitment, standing behind it, managing the risk that involves. Regulation & social norms reduce AI encroachment.
+  - Blast radius: What's the acceptable risk we can take?
+  - Reversibility: What parts can't we undo and what's the impact?
 - **Governance.** Values. Ethics. What _should_ we do? How do we decide? How do we make it happen? Who/what represents or decides for us?
 - **Intuition.** Learn shortcuts to find mistakes and give feedback - even in unfamiliar areas. (Consultants learn this well.)
+  - Detecting false confidence, especially for new ways in which AI can fail.
 
 Growing skills that AI might not learn easily.
 
 - **Management.** Shift from doing the work yourself to managing "teams" of AI agents and interns to handle execution. Learn problem breakdown, team organization, etc.
+  - Sequencing: Evals first? Clean data first? Infra first? Reversibility first?
 - **Ownership.** Agency. Proactively seeking problems, making decisions no one asked for, getting things done, and continuously improving. AI may not be allowed to practice this freely.
 - **Problem selection.** Learn to quickly discover what's useful for yourself and others. AI can select fast but not test.
+- **Communication.** Making a live audience understand, based on what they know and how they might mis-interpret.
 
 Growing skills that AI is learning.
 
@@ -37,11 +44,10 @@ Growing skills that AI is learning.
 - **Asking questions.** Learn to ask _lots_ of _good_ questions that nudge AI and humans to better results, new horizons. Curiosity helps.
 - **Learning fast.** Learn how to learn faster. You'll need to learn many subjects quickly (especially to judge AI output). But AI can learn faster.
 - **Taste.** The ability to recognize and guide AI toward high-quality, distinctive output (art, style, design, creativity).
-- **Communication.** Thinking clearly and expressing it clearly.
 - **Storytelling.** Guide AI to deliver compelling narratives that move people.
 - **Orchestration.** Harness engineering: know which agent, model, tool, or skill is best for which task, and how to chain them together.
 - **Tooling.** Connect things — especially to agentic systems — to give them more execution power.
-- **Context engineering.** Know what data to feed AI and what to skip - including the right fragments like "ELI15" or specific persona-setting - for the best results.
+- **Context engineering.** Know what data to feed AI and what to skip.
 - **Prototyping.** Build and iterate on the smallest working solution (using AI agents) ultra-rapidly.
 
 Declining skills that AI knows well.

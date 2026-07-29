@@ -16,9 +16,17 @@ For first-time meetings:
 
 For follow-up meetings, list:
 
-- What's pending or would have happened since that I should ask about? - Check past transcripts, emails, calendars, chats, etc. Prioritize most recent interactions. Older than 1 week is likely stale.
-- What'd be helpful / interesting for them that I should share? Research their needs and preferences, research my recent work or public news - both since the last meeting, find the intersection, share the top matches.
-- What should I explore? Research what they've shared that's helpful / interesting to me in the past (and public news if applicable) and suggest what I might ask / learn / leverage.
+- What's pending or would have happened since that I should ask about?
+  Check past transcripts, emails, calendars, chats, etc.
+  Prioritize most recent interactions. Older than 1 week is likely stale.
+- What'd be helpful / interesting for them that I should share?
+  Research their personality, questions, needs, preferences, etc. (`~/Dropbox/notes/{about,transcripts}/`, emails, chats, WhatsApp, public news, etc.)
+  Remember: people play multiple roles / personas that change over time.
+  Research my recent work and public news since our last meeting.
+  Find the intersection, share the top matches.
+- What should I explore?
+  Research what they've shared that's helpful / interesting to me in the past (and public news if applicable).
+  Suggest what I might ask / learn / leverage.
 
 Rules:
 

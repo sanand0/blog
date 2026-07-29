@@ -140,4 +140,4 @@ People will continue to ask people they trust. Now, _that_ person can become dra
 
 ---
 
-Incidentally, as a result, I hit inbox zero for the first time in years. And not by deleting emails. By actually answering them _all_, better than ever before.
+Incidentally, as a result, I hit inbox zero for the first time in years. And not by deleting emails. By actually answering them _all_, better (hopefully) than before.
