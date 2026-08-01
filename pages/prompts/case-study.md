@@ -3,6 +3,7 @@ title: Case Study
 date: 2026-07-29T11:03:15+08:00
 classes: wrap-code
 description: Create a training pack for analysts to build intuition
+tags: [data-science, data-analysis, ai-in-education, decision-making, evaluation, ai-agents]
 ---
 
 ```markdown

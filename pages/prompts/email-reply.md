@@ -62,17 +62,13 @@ Guardrails:
 
 4. Draft:
    - "Hi {FirstName}" ... body ... "Regards" or "Thanks" + "Anand", whichever fits.
-   - Minimize my commitments ("I can help review X", "happy to join one call").
-     Never invent commitments, owners, timelines, cc additions, links, or facts; if one seems useful, put it under Judgment calls, not in the draft.
+   - Minimize my commitments ("I can help review X", "happy to join one call"). Never invent commitments, owners, timelines, cc additions, links, or facts; if one seems useful, put it under Judgment calls, not in the draft.
    - Prefer the minimal experiment over the survey: one model, one workflow, one next step, plus "If that's not quite what you need, we can discuss alternatives."
    - In reviews, separate: confirmed facts / my recommendation / still to decide.
-   - Write based on the recipients' current situation. What do they currently know, understand, and believe?
-     The email should be clear from their perspective, without the benefit of the context I have.
+   - Write based on the recipients' current situation. What do they currently know, understand, and believe? The email should be clear from their perspective, without the benefit of the context I have.
    - Warmth and humor only where the existing relationship supports it.
-   - Length: confirmation 40-120 words; advice 80-250 ending in a decision or experiment;
-     artifact or technical review 300-700; longer only if the requested content itself requires it.
-   - Plain ASCII. No em-dashes, emojis, corporate filler, inflated praise, or polished LLM-style conclusions.
-     Tentative where evidence is tentative: "Maybe try X?" Say plainly what I don't know.
+   - Length: confirmation 40-120 words; advice 80-250 ending in a decision or experiment; artifact or technical review 300-700; longer only if the requested content itself requires it.
+   - Plain ASCII. No em-dashes, emojis, corporate filler, inflated praise, or polished LLM-style conclusions. Tentative where evidence is tentative: "Maybe try X?" Say plainly what I don't know.
 
 5. Verify, then trim:
    Check: every material question answered, including the unasked one?
@@ -88,8 +84,7 @@ Recommendation: REPLY / REPLY BRIEFLY / DISCUSS LIVE / FOLLOW UP / NO REPLY
 Status: pending or already replied (with date if replied)
 Draft: <ready-to-paste body only>
 Why: up to 3 bullets on the decisive choices
-Process: bulleted reasoning steps including hypotheses considered, alternatives rejected, why searches widened or narrowed, branches followed or abandoned, why retrieval stopped.
-Sources: List meaningful sources and retrieval steps actually used during drafting: `query, command, or action -> findings (citing exact file:line, message id, or URL) -> effect on draft`.
+Process: bulleted reasoning steps including hypotheses considered, alternatives rejected, why searches widened or narrowed, branches followed or abandoned, why retrieval stopped. List meaningful sources and retrieval steps used (if any) in the step: `query, command, or action -> findings (citing exact file:line, message id, or URL)`.
 Judgment calls: up to 3 decisions only I can make - your pick, why, alternatives, and why I might differ, what evidence would change the decision.
 Gaps: anything unread or unverified, specific knowledge Anand may have that can alter the answer, e.g. undocumented discussions, relationship history, verbal commitments, stale sources, better alternatives, political or operational constraints, etc.
 ```

@@ -5,6 +5,7 @@ categories:
   - education
 description: I told IITM graduates that grades and jobs are depreciating assets. Focus instead on friendships—they are appreciating assets that grow more valuable over time. Make new friends today by simply talking to the people sitting right next to you.
 tags: [iitm, networking, career-advice]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7488449996892282881/
 ---
 
 Here's my address to the graduating class the [IITM BS Program](https://study.iitm.ac.in/) today:

@@ -518,6 +518,38 @@ List any shortcuts taken, corners cut, or ways you optimized for appearing corre
 What did I actually want vs what you provided?
 ```
 
+## Prompt improvement
+
+Usually, I run this on Claude to improve prompts:
+
+<!-- Source: https://claude.ai/chat/c565d179-43e9-4126-affe-74a247938021 + https://chatgpt.com/c/6a699c24-cfe0-83ec-8724-5214d74f2083 -->
+
+```markdown
+Help me improve the prompt below.
+Infer the prompt's objective and how it'll be used.
+State that in a line.
+
+Check:
+
+- Are there any contradictions or internal frictions in what I've framed?
+- What could be worded better, and why?
+- What am I missing - tactically and strategically?
+
+Rank what you flag by what would actually change the prompt's output.
+
+Then give me the revised prompt. When rewriting:
+
+- Keep the writing close to my original prompt.
+- Prefer my words and phrases unless you can name the defect a change fixes.
+- Question every change to the original prompt with: "Is this really required? How can we be minimal?"
+
+Use relevant skills.
+
+The prompt is everything below.
+
+---
+```
+
 ## Question unclear
 
 ```markdown
