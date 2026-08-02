@@ -3,6 +3,8 @@ title: LLM Model Cost Capability Strategy
 date: 2026-08-01T09:43:46+08:00
 categories:
     - llms
+description: I track LLM cost vs. capability using my LLM Pricing tool and LMSYS Leaderboard data. This post analyzes the strategic evolution of Claude, Gemini, and OpenAI models, revealing their distinct approaches to the cost-capability frontier over time.
+tags: [llms, llm-pricing, model-comparison, business-strategy, claude, gemini, openai]
 ---
 
 I track the cost vs capability of LLMs at [LLM Pricing](https://sanand0.github.io/llmpricing/) - the rough cost to read all Harry Potters (~1M tokens) vs the intelligence level on the [LMSYS Leaderboard](https://lmarena.ai/) - over time.

@@ -3,6 +3,8 @@ title: The Falling Cost of Intelligence
 date: 2026-08-01T22:03:50+08:00
 categories:
     - llms
+description: This post highlights the dramatic fall in LLM intelligence costs. College-junior level intelligence dropped 500x in 1.5 years. Tenured-professor level intelligence is now $2/MTok, making advanced AI increasingly accessible and affordable.
+tags: [llms, llm-pricing, ai, gemini, gemini-flash, llm-comparison]
 ---
 
 It's amazing to watch the cost of intelligence falling.

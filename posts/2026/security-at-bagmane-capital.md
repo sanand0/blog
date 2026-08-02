@@ -5,6 +5,7 @@ categories:
     - interesting-experiences
 description: My interactive map story illustrates how Bagmane Capital's stringent security transformed a simple 14-minute walk into an hour-long ordeal. I detail the frustrations of navigating complex campus access, leading to delays and a missed lunch.
 tags: [security, maps, data-stories, data-visualization, interactive]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7489537979796008961/
 ---
 
 <p>
