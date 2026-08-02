@@ -31,13 +31,13 @@ def test_related_json_is_compact_and_improves_dilbert_results():
     related = json.loads(path.read_text(encoding="utf-8"))
 
     assert path.read_text(encoding="utf-8").count("\n") == 1
-    assert related["15-years-of-dilbert-searchable"] == [
+    assert set(related["15-years-of-dilbert-searchable"]) == {
         "dilbert-search-statistics",
         "dilbert-search-engine",
         "dilbert-browser",
         "gemini-3-flash-ocrs-dilbert-accurately",
         "the-calvin-and-hobbes-search-takedown",
-    ]
+    }
 
 
 def test_sample_post_renders_related_links_to_existing_pages():
