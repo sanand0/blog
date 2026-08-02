@@ -59,7 +59,4 @@ I no longer link the blog on LinkedIn: link posts get throttled. So we'll rewrit
 
 Feedback loop - run this first each month
 
-Check which of last month's 5 picks I actually posted, and pull their metrics from the current dump. Report the hit rate and any pattern that over- or under-performed the multipliers above. If a pattern misses by more than 2x on 3+ posts, say the model needs re-deriving. Otherwise leave it alone.
-
-
--->
+> Check which of last month's 5 picks I actually posted, and pull their metrics from the current dump. Report the hit rate and any pattern that over- or under-performed the multipliers above. If a pattern misses by more than 2x on 3+ posts, say the model needs re-deriving. Otherwise leave it alone.

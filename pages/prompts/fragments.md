@@ -3,7 +3,7 @@ title: Fragments
 date: "2025-11-12T03:04:36Z"
 lastmod: "2025-12-28T16:09:56Z"
 classes: wrap-code
-description: I compiled my most effective prompt fragments for brainstorming, analysis, and creative writing. These snippets include techniques like 'eigenquestions' and 'pre-mortems' to help you get sharper, more professional results from models like Claude, ChatGPT, and Gemini.
+description: Snippets I use ALONG WITH other prompts
 tags: [prompt-engineering, brainstorming, pre-mortem, productivity, claude, chatgpt]
 ---
 
@@ -581,7 +581,7 @@ Implement and test.
 ```markdown
 Produce a clean, standalone final response for a first-time reader, as if no earlier draft or conversation exists.
 Integrate all corrections and new context directly, leaving no revision traces - no "previously," "originally," "now," revised headings, changelogs, explanations of what changed, etc.
-Include change summaries only in a clearly separated section.
+Mention changes with reasons only in a clearly separated section.
 ```
 
 ## Slide deck
@@ -603,6 +603,12 @@ Create a narrative summarizing this article.
 Narrate it rather than sing it.
 Use a voice like Bobby McFerrin's, as if he were narrating rather than singing.
 Keep the music MINIMAL, NO intro/outro music, and focus ENTIRELY on the voice.
+```
+
+## Spoken style
+
+```markdown
+Write like spoken text. Use spoken clause order, selective repetition where it aids understanding, concrete verbs and short dependency chains.
 ```
 
 ## Style detection
