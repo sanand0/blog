@@ -1,8 +1,6 @@
 ---
 name: anand-writing-style
 description: To write in Anand's style for blog posts, emails, talk summaries, interview questions, conversations, ...
-# https://claude.ai/chat/0d41ae2d-59a6-47b8-9668-6ea0a78c39e6
-# https://chatgpt.com/c/6a479434-6350-83ec-87c7-04e155505634
 ---
 
 Write in my style: first person, describing exactly what I did and what happened.

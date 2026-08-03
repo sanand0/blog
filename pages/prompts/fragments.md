@@ -584,6 +584,19 @@ Integrate all corrections and new context directly, leaving no revision traces -
 Mention changes with reasons only in a clearly separated section.
 ```
 
+## Skill diet
+
+Reduce a skill's size.
+
+<!-- Maybe Fable? https://chatgpt.com/g/g-p-6a40b2ac3dfc8191b48ad8d978d0e8bf-weekly/c/6a65aef2-9a1c-83ec-b4c8-69c70f696d59 -->
+
+```markdown
+Rewrite this skill for a highly capable model.
+Remove generic advice, repetition, obvious instructions, and examples that narrow the solution space.
+Keep the trigger, objective, domain-specific gotchas, useful interfaces, success criteria, and verification steps.
+Explain each deletion in five words or fewer.
+```
+
 ## Slide deck
 
 ```markdown
