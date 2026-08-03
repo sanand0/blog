@@ -350,6 +350,15 @@ Style:
 
 <!-- Evaluated on GPT 5.5 High - 17 Jun 2026. https://chatgpt.com/c/6a32b2d0-6a3c-83e8-ab4c-334bfe093759 -->
 
+## Hotel preference
+
+```markdown
+Recommend hotels in CITY (FROM - TO).
+Pick the most happening location, e.g. Connaught Place in Delhi, Brigade Road in Bangalore. Where walking the streets at night will be a delight.
+Find the cheapest hotels (preferably not shared rooms, capsules are fine), preferably unusual.
+Give me multiple location options with a few hotels in each, explaining why the location AND hotel.
+```
+
 ## Interactive explanation
 
 Inspired by [Simon Willison's interactive explanations](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/):
@@ -439,7 +448,7 @@ Write that CONTEXT note. Rules:
 2. Include every person who spoke, even briefly. A brief speaker gets one short identifying clue (e.g., "Ritesh mentioned being on PTO"). Omit only invitees with zero spoken turns.
 3. Refer to each speaker by FIRST name only — the first word of their listed name. No surnames or full names, with one exception: if two speakers share a first name, add a surname initial (e.g., "Aditya K"). Disambiguate further if needed.
 4. For each speaker, give the smallest set of distinctive topics, demos, questions, or decisions that would identify their turns in audio. Prefer concrete clues ("demoed a fan churn dashboard") over vague ones ("gave a presentation").
-5. If the transcript shows a speaker being addressed by a misheard or variant name (e.g., "Samir" for Saumya), note it briefly — spoken names are strong diarization clues and mishearings cause mislabels.
+5. If the transcript shows a speaker being addressed by a misheard or variant name (e.g., "Samir" for Saumya), ignore it. The other AI model will use this summary to avoid mis-naming.
 6. Mention roles only when obvious and useful for diarization (e.g., who led the call).
 7. Consolidate all turns from the same speaker. Fix obvious phonetic errors when the meaning is clear, but never invent details, and avoid what's uncertain.
 8. Order speakers by how much they spoke, most first.
