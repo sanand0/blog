@@ -1,3 +1,7 @@
+---
+description: I share my workflow for auditing, pruning, and leveraging my digital assets using AI assistants, ensuring my skills and resources stay lean, organized, and highly adaptable.
+tags: [digital-assets, productivity, ai-workflows, generative-ai, ai]
+---
 
 - 20 Jun 2026. Created. Sources:
   - https://claude.ai/chat/4f340600-d059-4211-bc30-5b0bf594546a
