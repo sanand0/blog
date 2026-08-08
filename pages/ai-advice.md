@@ -27,6 +27,7 @@ Critical skills AI might never learn or be allowed to.
   - Blast radius: What's the acceptable risk we can take?
   - Reversibility: What parts can't we undo and what's the impact?
 - **Governance.** Values. Ethics. What _should_ we do? How do we decide? How do we make it happen? Who/what represents or decides for us?
+- **Noticing.** Spotting important stuff before anyone asks for it.
 - **Intuition.** Learn shortcuts to find mistakes and give feedback - even in unfamiliar areas. (Consultants learn this well.)
   - Detecting false confidence, especially for new ways in which AI can fail.
 
@@ -67,7 +68,9 @@ Declining skills that AI knows well.
 
 Here's how some industries have dealt with skill erosion:
 
-- **Autopilots** eroded flying skills — which is dangerous. So we **enforce** flight simulators. Same for surgical knots (robotic surgery), celestial navigation (navy), manual dosing (nurses).
+- **Autopilots** eroded monitoring skills — which is dangerous.
+  - So we **enforce** flight simulators. Same for surgical knots (robotic surgery), celestial navigation (navy), manual dosing (nurses).
+  - So we **instrument** machines to alert: ground proximity warnings, smoke alarms, linters.
 - **Spreadsheets** eroded calculation skills. We **leveled up** from sums to strategy. Same for CAD, electronic trading, spell-check.
 - **Photography** eroded painting skills. We **switched** value to impressionism, cubism, etc. Same for vinyl records, luxury watches, craft coffee.
 - **GPS** eroded navigation skills. We **accepted** this and don't care much. Same for phone numbers, spelling, mental math.
