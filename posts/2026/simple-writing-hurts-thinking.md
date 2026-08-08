@@ -9,7 +9,7 @@ tags: [llms, chatgpt, prompt-engineering, writing-style, benchmarking, ai, s-ana
 
 ![](https://files.s-anand.net/images/2026-08-01-simple-writing-hurts-thinking.avif)
 
-As agents get smarter, and when we asking questions outside our expertise, it's pretty hard to understand what they're saying.
+As agents get smarter, and when we ask questions outside our expertise, it's pretty hard to understand what they're saying.
 
 Andrew Carr [uses](https://x.com/andrew_n_carr/status/2081534245370314816) "only report to me in ASD-STE100 Simplified Technical English" to simplify their writing.
 Ben Sehl [suggested](https://x.com/benjaminsehl/status/2082158002958741746) making this a permanent instruction.

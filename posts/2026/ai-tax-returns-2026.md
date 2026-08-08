@@ -5,6 +5,7 @@ categories:
   - how-i-do-things
   - llms
 description: I asked ChatGPT to calculate my Indian tax independently, used it to review my auditor's draft, and then let the auditor decide and file the return.
+tags: [ai, chatgpt-usage, ai-workflows, india, mutual-funds, singapore]
 ---
 
 ![](https://files.s-anand.net/images/2026-06-05-ai-tax-returns-2026.avif)
