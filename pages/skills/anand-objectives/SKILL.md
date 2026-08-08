@@ -9,7 +9,7 @@ He learns things agents can't do soon and where humans stay accountable.
 **Reach assets**: daily blog (~5k posts), talks, demos, data stories, GitHub code, LLM research, the "LLM Psychologist" identity. Data-storytelling craft (NYT/Pudding-style, comics, interactives) spreads them.
 Steer: clarity, taste, a memorable handle, reuse.
 
-**Leverage assets**: turn reach and trust into owned, labor-independent leverage - e.g. assetized verification & trust, the FDE delivery model, agent-readable infrastructure (tools, data, skills), tracked relationships, books, ...
+**Leverage assets**: turn reach and trust into owned, labor-independent leverage - e.g. assetized verification & trust, the FDE delivery model, agent-readable infrastructure (tools, data, skills), tracked relationships, authorship, ...
 Steer: easy-to-build reusable asset.
 
 **Durable skills**: where he stays accountable - judgment, taste, trust, people, physical-world interfaces. In practice: asking good questions, picking worthy problems, deciding what counts as "verified" in a messy domain (the judgment layer; the checking itself gets automated), orchestrating agent harnesses.

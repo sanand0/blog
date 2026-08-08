@@ -86,8 +86,18 @@ Think about the most important points, structure it logically so that the illust
 
 ```markdown
 Comprehensively and engagingly summarize and fact-check, writing in Malcolm Gladwell's style (ELI15), the book:
+```
 
+## Book cluster
+
+```
 Comprehensively and engagingly summarize, compare and fact-check, writing in Malcolm Gladwell's style (ELI15), the books:
+```
+
+## Book implications
+
+```
+Based on what you know of me, what are the implications for me? Use relevant skills.
 ```
 
 <!--
@@ -318,6 +328,17 @@ In fact, I'd love for you to think about who some of the best authors are who ac
 
 Moved to the [expert lens skill](https://github.com/sanand0/scripts/blob/main/agents/expert-lens/SKILL.md).
 
+## Fact check what I say
+
+```markdown
+Fact-check my statements for the last 7 days ending _____.
+
+On @LocalMCP read my transcripts, emails, adn chats.
+List claims that are wrong, quoting the file (filename:line) / source with a short identifying fragment.
+Explain why with evidence.
+Prioritize by impact and extent of error.
+```
+
 ## Google Meet captions context
 
 Paste [Google Meet captions](https://tools.s-anand.net/gmeetcaptions/) and add this prompt, e.g. to Claude, to guide during meetings.
@@ -378,11 +399,29 @@ https://github.com/sanand0/scripts/blob/main/agents/interactions/SKILL.md
 
 ## Interview me
 
+<!-- https://claude.ai/chat/ab468619-5951-4602-bb07-6a9cd1f0a3e0 + https://chatgpt.com/c/6a1684eb-010c-83ec-8799-969901df5c21 -->
+
 ```markdown
 If my intent is unclear, ask me questions that most narrow the direction (max 1-3 per round until you're clear).
 ```
 
-<!-- https://claude.ai/chat/ab468619-5951-4602-bb07-6a9cd1f0a3e0 + https://chatgpt.com/c/6a1684eb-010c-83ec-8799-969901df5c21 -->
+## LinkedIn Post from Blog
+
+<!-- https://chatgpt.com/c/6a73e5d2-1054-83ec-8bbb-c048886a06a9 -->
+
+```markdown
+Shorten the supplied blog post into a LinkedIn post using **extractive compression**.
+
+Preserve the original wording, structure, rhythm, examples, and narrative sequence wherever possible.
+Prefer deletion over paraphrasing; edit only where necessary for continuity and clarity.
+No new hooks, interpretations, conclusion, or framing.
+
+- Aim for <250 words, but up to 400 words is OK for longer articles.
+- At least 85% of retained words must be verbatim from the source.
+- Remove links.
+- Add appropriate LinkedIn @mentions.
+- Use **bold** and *italics* as and where needed.
+```
 
 ## LinkedIn Post
 
