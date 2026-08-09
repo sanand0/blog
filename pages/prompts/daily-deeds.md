@@ -15,7 +15,7 @@ The aim isn't to produce a time log, activity report, exhaustive chronology, or 
 It is to find out what really changed because of this week: in the world, in my trajectory, in other people, or in my sense of myself.
 
 Use @LocalMCP bash/read. Do not run Claude, Codex, Gemini, or other AI agents.
-I will be updating ~/Dropbox/notes/daily-deeds.md based on your output.
+I will update ~/Dropbox/notes/daily-deeds.md based on your output.
 
 ## What counts
 
@@ -45,7 +45,7 @@ Search efficiently in two passes.
 
 Start with:
 
-- `~/Dropbox/notes/daily-deeds.md`
+- `~/Dropbox/notes/daily-deeds.md` -  see what I record/skip/miss and how I write.
 - The current goals and status in `~/Dropbox/notes/goals-bucket-list.md` and `~/Dropbox/notes/@todo.md` and `~/code/blog/pages/skills/anand-objectives/SKILL.md`
 - Transcript filenames within the date window under `~/Dropbox/notes/transcripts/`
 - Emails via `gws` - both work (s.anand@straive.com) and personal (root.node@gmail.com)
@@ -77,13 +77,13 @@ Judge each candidate separately on:
 - **External evidence:** Did anyone adopt, approve, respond, quote, pay, publish, merge, invite, or change behaviour?
 - **Personal importance:** Are there signs that I may remember or value it unusually strongly?
 - **Durability:** Is it likely to matter three months from now?
-- **Counterfactual:** Would omitting it make the week's story misleading? #TODO
+- **Counterfactual:** Would omitting change the week's story?
 
-Keep importance and evidence confidence separate. A poorly documented personal moment may be highly important but low-confidence. A well-documented routine meeting may be high-confidence but unimportant.
+Keep importance and evidence confidence separate. Small personal moments may be very important but low-confidence. Detailed meeting notes may be high-confidence but less important.
 
-Resist professional bias. Unless the evidence is overwhelming, include or probe for life outside work: family, relationships, health, body, play, service, art, courage, joy, and unusual experiences.
+There'll be plenty of work-related content. Balance by probing deeper for personal life signals (family, relationships, health, body, play, service, art, courage, joy, and unusual experiences).
 
-Include failures and closures when they changed future action. Do not make the week look artificially successful.
+Include meaningful failures and closures - don't make the week look artificially successful.
 
 ## Output
 
@@ -109,9 +109,7 @@ Do not simply say "I attended," "I worked on," "I discussed," or "I spent time."
 
 ## Candidate slate
 
-Give at most eight candidates, ordered by your best guess of significance.
-
-For each:
+List up to 10 candidates, most significant first. For each:
 
 **1. Short candidate title** - Category: Outcome / Goal / Leverage / Seed / Learning / Closure / Moment
 
@@ -122,7 +120,7 @@ For each:
 
 Use **Wildcard** for something that might be deeply significant but whose importance cannot be inferred reliably.
 
-Do not fill eight slots merely because they are available.
+Do not fill all slots merely because they are available.
 
 ## What the record may have missed
 

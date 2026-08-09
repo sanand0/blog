@@ -86,6 +86,12 @@ Rather than read individual books, why not read clusters on related topics? Usin
   - The Shallows (Nicholas Carr, 2010)
   - The Square and the Tower (Niall Ferguson, 2017)
   - The Age of Surveillance Capitalism (Shoshana Zuboff, 2019)
+- [x] The Great Nerve (Kevin Tracey) https://chatgpt.com/c/6a710f32-ae90-83ec-a35c-03db8acf145c. #ACTION Before sleep, meetings: breathe 5–6 times/min for five minutes. Exhale slower than you inhale.
+- [x] Employment is Dead (Deborah Perry Pscione and Josh Drean). https://claude.ai/chat/bffc37f8-0019-4c7f-a51d-cf6e8f0fd79f #LEARNING Underlying causes are slower moving variables than treatments / solutions.
+- [x] Once Upon A Stranger (Gillian Sandstrom). https://claude.ai/chat/e2ffc1a9-5509-4a1c-81fe-8d31b0a39fc0 #ACTION Set up a TDS AMA. Add a "Talk to me" workshop slide. Predict interaction results.
+- [x] 21 Lessons for the 21st Century (Yuval Noah Harari). https://claude.ai/chat/4888e581-0f99-47c9-8d7d-7dc8ad7c9118 #ACTION Fact-check talks and important transcripts. Also, where do I change my message based on audience? Run predictions on my blog archive - what I got wrong.
+- [x] The Next Conversation (Jefferson Fischer). https://claude.ai/chat/6d221a3e-5935-45f5-8c53-cbed48ba3a40 #ACTION Predict how conversatios will go before the conversation.
+- [x] Hidden Potential (Adam Grant). https://claude.ai/chat/e3a265e5-73f4-4b10-8ee0-971ca559496c #LEARNING Find gold in trash - what got filtered out? Build benchmarks for more skills. Analyze TDS.
 - Explanations, progress, and the Popperian worldview (1963–2018) [#](https://claude.ai/chat/4b1ec426-1070-4419-ad66-5a0fd4a11cfe)
   - The Beginning of Infinity: Explanations That Transform the World (David Deutsch, 2011). #TODO Read this chapter-by-chapter
   - Conjectures and Refutations (Karl Popper, 1963)

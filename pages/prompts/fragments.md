@@ -273,17 +273,7 @@ Convey the INTENT of the point. An apt analogy that visually communicates instan
 Keep it funny. The strip itself should make readers laugh.
 ```
 
-## Demo explanation
-
-Copy-paste content from an application to demo as Markdown. Then add this.
-
-```markdown
-Given this content from an application, how should I demo it and what should I point out as specific examples. Use concise bullets.
-```
-
-<!-- Example: https://gemini.google.com/app/cb939e416e331490 -->
-
-## Draw Comic using Suggestion
+## Comic suggestions
 
 ```markdown
 Give me ideas for a single panel comic that VISUALLY communicates the spirit of (or the central or key message of) the content below.
@@ -293,6 +283,16 @@ It doesn't have to involve AI, robots, tech, etc. Simple, relatable analogies em
 Funny is good.
 DO NOT DRAW. Just give me simple, funny ideas.
 ```
+
+## Demo explanation
+
+Copy-paste content from an application to demo as Markdown. Then add this.
+
+```markdown
+Given this content from an application, how should I demo it and what should I point out as specific examples. Use concise bullets.
+```
+
+<!-- Example: https://gemini.google.com/app/cb939e416e331490 -->
 
 ## Draw Infographic poster
 
