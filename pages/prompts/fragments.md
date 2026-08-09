@@ -333,7 +333,7 @@ Moved to the [expert lens skill](https://github.com/sanand0/scripts/blob/main/ag
 ```markdown
 Fact-check my statements for the last 7 days ending _____.
 
-On @LocalMCP read my transcripts, emails, adn chats.
+On @LocalMCP read my transcripts, emails, and chats.
 List claims that are wrong, quoting the file (filename:line) / source with a short identifying fragment.
 Explain why with evidence.
 Prioritize by impact and extent of error.

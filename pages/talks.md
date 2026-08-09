@@ -9,8 +9,8 @@ tags: [data-science, ai, data-storytelling, public-speaking]
 
 Since 2011, I've been speaking about data & AI at events & organizations.
 
-[My Talks YouTube playlist](https://www.youtube.com/playlist?list=PLHCH16htawZbR_-mIqfGmYbhE5S2UckOh) videos of public talks.
 [My Talks slides page](https://sanand0.github.io/talks/) has recent talk content and transcripts.
+[My Talks YouTube playlist](https://www.youtube.com/playlist?list=PLHCH16htawZbR_-mIqfGmYbhE5S2UckOh) has videos of (older) public talks.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/videoseries?list=PLHCH16htawZbR_-mIqfGmYbhE5S2UckOh" title="YouTube playlist" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -44,13 +44,15 @@ You may use any pictures of me and here are some:
 
 ## Logistics
 
-- **Presentation**: I don't have presentations to share. Often, I present interactive demos.
+- **Presentation**: I don't have slides to share. I usually present interactive demos.
 - **Laptop**: I use my laptop (Lenovo, Ubuntu, HDMI + USB3) to present. No audio. I need my laptop near the podium to type.
 - **Aspect ratio**: I can work with 16:9, 16:10, or 4:3 screens. Please check if circles look like perfect circles, not ovals.
 - **Internet**: My demos need Internet. I can use mobile data but if the venue network is bad, please help with WiFi.
-- **Security**: I don't carry ID. If security requires one, I'd appreciate an escort to take me through with my phone and laptop.
+- **Security**: I don't carry ID. If security requires one, please escort me in with my phone & laptop.
 - **Attire**: I wear round-neck T-shirts, jeans, and open sandals. Please allow this.
-- **Recording**: I encourage you to record my talk. Please share the recording with me.
+- **Badges**: On wearable badges, please print my name on BOTH sides (it tends to flip) in LARGE letters.
+- **Agenda**: Please share the agenda (other speakers' sessions) so I can attend and tweak my talk based on those.
+- **Recording**: Please record my talk (video + audio + screen) and share publicly - or at least with me.
 
 ## Fee / honorarium
 

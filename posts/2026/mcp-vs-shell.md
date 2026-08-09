@@ -3,6 +3,8 @@ title: MCP vs Shell
 date: 2026-08-08T07:02:28+05:30
 categories:
   - llms
+description: I compared ChatGPT's Gmail plugin against a local MCP server running command-line tools. While the plugin was faster, the CLI-based MCP handled complex tasks much better by leveraging the agent's ability to loop and run code.
+tags: [mcp, local-mcp, cli-tools, chatgpt, gmail, ai-agents]
 ---
 
 ![](https://files.s-anand.net/images/2026-08-08-mcp-vs-shell.avif)
