@@ -239,7 +239,8 @@ Output only:
 
 ```markdown
 Here's another answer from ChatGPT/Gemini/Claude.
-Fact-check and critically evaluate yours and theirs, take what's better, drop what's worse, explore any new thoughts this leads you to, and revise your response based on that.
+Fact-check and critically evaluate yours and theirs - only the parts that'll change the outcome and where there's disagreement.
+Take what's better, drop what's worse, explore any new thoughts this leads you to, and revise your response based on that.
 ```
 
 ## Core concepts

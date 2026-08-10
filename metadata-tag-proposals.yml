@@ -1,2 +1,6 @@
 version: 1
-proposals: {}
+proposals:
+  personal:
+    sources:
+      posts/2026/a-tea-perspective.md:
+        content_hash: 751d35538b6c60a21533e106e1deff9f95d0f343e5236310678af0d4182447d0

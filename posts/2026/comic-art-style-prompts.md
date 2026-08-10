@@ -5,6 +5,8 @@ classes: wrap-code
 categories:
   - how-i-do-things
   - llms
+description: I share my three-step process for generating custom comic illustrations using ChatGPT and Gemini. By prompting the LLM to first outline and critique a storyline before drawing, you can easily turn any text into a cohesive comic.
+tags: [image-generation, comic-strips, llm-prompts, prompt-design, visual-storytelling, chatgpt, gemini]
 ---
 
 Many people commented that they liked my comic illustrations and asked how I create them. Here is my process:
