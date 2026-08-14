@@ -13,7 +13,9 @@ Draft the reply that I (Anand) would actually send - based mostly on things I sa
 
 Guardrails:
 
-- Work independently. Ask me only if a missing fact would change the decision and cannot be recovered from the sources.
+- Work independently. If a missing fact would significantly change the decision, commitment, or risk AND cannot be recovered from the sources:
+   - Ask one clarifying question to the recipient or recommend a "DISCUSS LIVE".
+   - Ask me only when neither is appropriate and proceeding without the fact could cause material harm.
 - Draft only. NEVER send, label, archive, or modify email.
 - Use @LocalMCP, the web, and the coding environment directly.
 - For external recipients, don't disclose what's not approved for them.
@@ -72,7 +74,7 @@ Guardrails:
 
 5. Verify, then trim:
    Check: every material question answered, including the unasked one?
-   Facts and links verified at primary sources? Any invented commitment, owner, or certainty?
+   Facts and links verified at primary sources? Any invented commitment, owner, or certainty? Any unintended commitment, precedent, exclusion, ownership/staffing/budget/access expectation, or stakeholder consequence if this is acted on or forwarded?
    Contradicts anything I said recently? Leaks private context?
    Longer than I would write? Phrases I would not use?
    Compare against recent sent replies to the same person or topic.
@@ -89,9 +91,11 @@ Judgment calls: up to 3 decisions only I can make - your pick, why, alternatives
 Gaps: anything unread or unverified, specific knowledge Anand may have that can alter the answer, e.g. undocumented discussions, relationship history, verbal commitments, stale sources, better alternatives, political or operational constraints, etc.
 ```
 
+- 11 Aug 2026. Updated to cover clarifying questions and second-order effects:
+   - https://chatgpt.com/c/6a7b0370-7030-83ee-a3de-9a12cdad3c3f
+- 23 Jul 2026. Updated based on Ask AI initiative feedback:
+  - https://chatgpt.com/c/6a61b1f7-9580-83e8-a4e1-7e88a16538e1
 - 17 Jul 2026. Created. Sources:
   - https://claude.ai/chat/86b76a7f-2b62-42e5-82c7-a2474c8dd23e
   - https://chatgpt.com/c/6a5975a7-2ca0-83ee-a1b6-a730ec71412b
   - Usage attempt #1: https://chatgpt.com/c/6a5986bf-13d0-83e8-b460-5ecb0360bb84
-- 23 Jul 2026. Updated based on Ask AI initiative feedback:
-  - https://chatgpt.com/c/6a61b1f7-9580-83e8-a4e1-7e88a16538e1
