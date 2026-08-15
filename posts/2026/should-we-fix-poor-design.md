@@ -3,6 +3,8 @@ title: Should we fix poor design
 date: 2026-08-14T10:09:23+05:30
 categories:
     - how-i-do-things
+description: I explore whether frustrating design flaws—unmixed sweetness, awkward cups, and delayed chocolate—should be fixed, or whether the struggle creates delight, play, anticipation, and a uniquely human experience AI may lack.
+tags: [game-design, calvin-and-hobbes, humor, decision-making, ai]
 ---
 
 Sugar (or condensed milk) in tea I get often stays unmixed at the bottom. I forget to stir it.
@@ -12,7 +14,7 @@ Or is the steadily increasing sweetness of the tea a brilliant feature?
 
 Anyway, I therefore lick the bottom of the cup to get every last bit of sweetness.\
 But this cup is so deep that my tongue can _just_ about reach the bottom.\
-And I _can't_ reach the botom near the handle, because my nose is in the way.
+And I _can't_ reach the bottom near the handle, because my nose is in the way.
 
 ![](https://files.s-anand.net/images/2026-08-14-should-we-fix-poor-design-tea-cup.webp)
 

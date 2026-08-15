@@ -9,3 +9,4 @@ tags: [digital-assets, productivity, ai-workflows, generative-ai, ai]
 - 02 Aug 2026. Shortened with a skill diet. https://claude.ai/chat/575d9144-0237-4f04-a339-5cf113223eb9
 - 03 Aug 2026. I need to LEVERAGE these assets. https://claude.ai/chat/d3688073-4052-4fa1-bcd0-8e63f846545f
 - 03 Aug 2026. My assets might change. https://chatgpt.com/c/6a705bb4-49bc-83ec-b4db-24b5e9809690
+- 15 Aug 2026. My goals might change. https://claude.ai/chat/21ab34cd-8179-4d70-9ab2-4b23a2809ca2

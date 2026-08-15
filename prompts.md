@@ -1,5 +1,9 @@
 # Prompts
 
+## TODO
+
+- 15 Aug 2026: Could we change the skills URL from https://www.s-anand.net/blog/skills/anand-objectives/skill/ to https://www.s-anand.net/blog/skills/anand-objectives/, which would display the README.md _and_ SKILL.md?
+
 ## Fix broken build, 18 Jul 2026
 
 <!--
