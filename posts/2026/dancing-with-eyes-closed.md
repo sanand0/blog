@@ -20,7 +20,7 @@ Then my mind voice went, "Screw this. Just f\*\*\*ing dance. Don't worry about l
 I closed my eyes. I danced to the beat.
 
 <video controls playsinline preload="metadata" width="1600" height="1200" style="max-width: 100%; height: auto;">
-  <source src="https://example.com/video.webm" type="video/webm">
+  <source src="https://media.s-anand.net/2026-07-04-vizchitra-dance.webm" type="video/webm">
   <a href="https://media.s-anand.net/2026-07-04-vizchitra-dance.webm">Here's the video</a>
 </video>
 
