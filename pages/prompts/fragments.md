@@ -332,7 +332,7 @@ Moved to the [expert lens skill](https://github.com/sanand0/scripts/blob/main/ag
 ## Fact check what I say
 
 ```markdown
-Fact-check my statements for the last 7 days ending Saturday ___.
+Fact-check my statements for the last 7 days until yesterday.
 
 On @LocalMCP read my transcripts, emails, and chats.
 List claims that are wrong, quoting the file (filename:line) / source with a short identifying fragment.

@@ -7,7 +7,7 @@ tags: [local-mcp, bash, gratitude]
 ---
 
 ```markdown
-Scan my last 7 days in transcripts, email/chat JSONL, and WhatsApp on @LocalMCP
+Scan my transcripts, email/chat JSONL, and WhatsApp on @LocalMCP for the last 7 days until yesterday.
 Find 5 people who deserve a specific warm WhatsApp/email/Meet message from me.
 See ~/Dropbox/notes/unreasonable-gestures.md for actual messages I've sent - to use as examples.
 Pick people where I may have missed something specific, like invisible reliability work, quietly carrying pressure, a brave/good question, unusual ownership, creating an opening for me/Straive, effort that got only transactional feedback, ...
