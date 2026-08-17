@@ -3,6 +3,8 @@ title: Things I Learned - 16 Aug 2026
 date: 2026-08-16T00:00:00+00:00
 categories:
   - til
+description: I share practical discoveries about AI verification costs, Claude and ChatGPT behavior, VS Code dictation, JavaScript promises, fish shell, browser-based GIS, tool installation, and keeping personal logs simple and portable.
+tags: [ai, claude, chatgpt, vs-code, javascript, developer-tools, gis, productivity]
 ---
 
 This week, I learned:

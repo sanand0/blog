@@ -36,6 +36,9 @@ I think I'm pretty confident that the answer is Paris. But just to double-check,
 
 The capital of France is Paris.
 
-![](https://files.s-anand.net/images/2025-05-03-vadivelu-crying-linkedin.gif)
+<video controls autoplay loop muted playsinline preload="metadata" width="498" height="280" style="max-width: 100%; height: auto;">
+  <source src="https://files.s-anand.net/images/2025-05-03-vadivelu-crying-linkedin.webm" type="video/webm">
+  <a href="https://files.s-anand.net/images/2025-05-03-vadivelu-crying-linkedin.webm">Video</a>
+</video>
 
 [LinkedIn](https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7324476347219632129)
