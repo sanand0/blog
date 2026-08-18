@@ -61,12 +61,8 @@ def split_front_matter(path: Path) -> MarkdownDoc:
 
 
 def regular_content_files(content_dir: Path) -> list[Path]:
-    """Return generated regular content pages, excluding section/taxonomy indexes."""
-    return sorted(
-        path
-        for path in content_dir.rglob("*.md")
-        if path.is_file() and path.name != "_index.md"
-    )
+    """Return generated Markdown files; source-backed indexes are filtered later."""
+    return sorted(path for path in content_dir.rglob("*.md") if path.is_file())
 
 
 def is_public_doc(doc: MarkdownDoc, today: date | None = None) -> bool:
@@ -110,7 +106,9 @@ def page_url(path: Path, content_dir: Path, base_url: str, front_matter: dict[st
     slug = str(front_matter.get("slug") or path.stem).strip()
     if rel.parts and rel.parts[0] == "posts":
         return f"{base}{slug}/"
-    if slug:
+    if path.name == "_index.md":
+        rel = rel.parent
+    elif slug:
         rel = rel.parent / slug
     else:
         rel = rel.with_suffix("")
@@ -208,7 +206,8 @@ def export_corpus(
     docs = [
         doc
         for doc in (split_front_matter(path) for path in regular_content_files(content_dir))
-        if is_public_doc(doc, today)
+        if (doc.path.name != "_index.md" or doc.front_matter.get("sourcePath"))
+        and is_public_doc(doc, today)
     ]
     records = [
         record_for_doc(doc, content_dir, public_dir, base_url, raw_markdown_base) for doc in docs

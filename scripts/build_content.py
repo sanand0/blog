@@ -240,6 +240,11 @@ def build(
     if authors and isinstance(authors, list):
         author_login = (authors[0].get("login") or "").strip()
     write_posts_index(content_dir, author_login or None)
+    write_index(
+        content_dir / "skills" / "_index.md",
+        "Skills",
+        {"description": "Reusable AI agent skills for reasoning, verification, writing, ideation, and workflows."},
+    )
 
     post_dates: list[datetime] = []
     post_files = sorted(path for path in posts_dir.rglob("*.md") if path.is_file())
@@ -261,10 +266,31 @@ def build(
 
     page_files = sorted(path for path in pages_dir.rglob("*.md") if path.is_file())
     for path in page_files:
-        rel_path = path.relative_to(pages_dir)
+        source_rel_path = path.relative_to(pages_dir)
+        rel_path = source_rel_path
+        is_skill = len(rel_path.parts) >= 3 and rel_path.parts[0] == "skills"
+        if is_skill and path.name == "SKILL.md" and path.with_name("README.md").exists():
+            continue
         slug = derive_slug(rel_path)
         doc = split_front_matter(path.read_text(encoding="utf-8"))
-        source_path = (Path("pages") / rel_path).as_posix()
+        if is_skill and path.name in {"README.md", "SKILL.md"}:
+            skill = split_front_matter(path.with_name("SKILL.md").read_text(encoding="utf-8"))
+            skill_name = skill.front_matter["name"]
+            slug = skill_name
+            doc.front_matter["title"] = skill_name
+            doc.front_matter["description"] = skill.front_matter["description"]
+            doc.front_matter["summary"] = skill.front_matter["description"]
+            doc.front_matter["aliases"] = [
+                f"/skills/{skill_name}/skill/",
+                f"/skills/{skill_name}/{skill_name}/",
+            ]
+            doc.front_matter["description"] = skill.front_matter["description"]
+            doc.front_matter["summary"] = skill.front_matter["description"]
+            if path.name == "README.md":
+                doc.body = skill.body.rstrip() + "\n\n" + doc.body.lstrip()
+                source_rel_path = source_rel_path.with_name("SKILL.md")
+            rel_path = rel_path.with_name("_index.md")
+        source_path = (Path("pages") / source_rel_path).as_posix()
         write_markdown(content_dir / rel_path, doc, slug, source_path)
 
     write_archives(content_dir, post_dates)

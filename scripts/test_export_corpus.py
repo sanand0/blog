@@ -56,23 +56,16 @@ About *plain* text.
 """,
     )
     write(
-        content / "skills/example/SKILL.md",
+        content / "skills/example/_index.md",
         """---
-title: Skill
-slug: SKILL
+title: example
+summary: Skill description
+description: Skill description
+slug: example
 sourcePath: pages/skills/example/SKILL.md
 ---
 
 Skill text.
-""",
-    )
-    write(
-        content / "skills/example/README.md",
-        """---
-title: Skill readme
-slug: example
-sourcePath: pages/skills/example/README.md
----
 
 Skill readme text.
 """,
@@ -92,8 +85,7 @@ Not public yet.
     )
     write(public / "example-post/index.html", "<html></html>")
     write(public / "about/index.html", "<html></html>")
-    write(public / "skills/example/skill/index.html", "<html></html>")
-    write(public / "skills/example/example/index.html", "<html></html>")
+    write(public / "skills/example/index.html", "<html></html>")
 
     records = export_corpus.export_corpus(
         content_dir=content,
@@ -104,19 +96,22 @@ Not public yet.
     )
 
     lines = (public / "corpus.jsonl").read_text(encoding="utf-8").splitlines()
-    assert len(lines) == 4
-    assert len(records) == 4
+    assert len(lines) == 3
+    assert len(records) == 3
     parsed = [json.loads(line) for line in lines]
     assert [record["url"] for record in parsed] == [
         "https://www.s-anand.net/blog/about/",
         "https://www.s-anand.net/blog/example-post/",
-        "https://www.s-anand.net/blog/skills/example/example/",
-        "https://www.s-anand.net/blog/skills/example/skill/",
+        "https://www.s-anand.net/blog/skills/example/",
     ]
     assert parsed[1]["source_markdown_url"].endswith("/posts/2026/example.md")
     assert parsed[1]["word_count"] == 10
     assert "body text with a link and code" in parsed[1]["text"]
     assert parsed[0]["text"] == "Alt text About plain text."
+    assert parsed[2]["title"] == "example"
+    assert parsed[2]["description"] == "Skill description"
+    assert parsed[2]["source_markdown_url"].endswith("/pages/skills/example/SKILL.md")
+    assert parsed[2]["text"] == "Skill text. Skill readme text."
     assert (public / "corpus.schema.json").is_file()
 
 
