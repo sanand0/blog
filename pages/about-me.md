@@ -10,7 +10,7 @@ tags: [s-anand, gramener, iim-bangalore, iit-madras, data-science, data-visualiz
 You may know me as **S Anand**. You may also know me as **Prof or Stud** at the [Indian Institute of Management, Bangalore](https://www.iimb.ernet.in), as **Anand Subramanian** at [IBM India](https://www.ibm.com/in), **Bhalla** at [Alakananda hostel](https://ccw.iitm.ac.in/viewHostel?hid=1), [IIT Madras](https://www.iitm.ac.in/), and **Bal** at [Vidya Mandir](https://www.vidya-mandir.edu.in/).
 
 - [LinkedIn](https://www.linkedin.com/in/sanand0/)
-- [CV (2024)](https://files.s-anand.net/cv/S_Anand_2024.pdf)
+- [CV (2026)](https://files.s-anand.net/cv/S_Anand_2026.html) - [PDF](https://files.s-anand.net/cv/S_Anand_2026.pdf)
 
 ### History
 
