@@ -3,6 +3,8 @@ title: Pleasures of a bus ride
 date: 2026-08-19T17:54:02+08:00
 categories:
     - interesting-experiences
+description: 'I savor the little conveniences that make a bus ride delightful: seamless transit payments, a front-row view, quick phone-to-laptop transfers, tiny AV1 videos, and instant publishing over fast Wi-Fi.'
+tags: [digital-cameras, ffmpeg, video-compression, webm, cloudflare, online-video]
 ---
 
 There are some small pleasures in life, not worth mentioning by themselves, but sometimes they come together so well. Like:

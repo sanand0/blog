@@ -50,7 +50,7 @@ That division worked rather well, I think.
 
 <!--
 Source chats:
-- https://chatgpt.com/c/6a5eb53c-a954-83e8-bab1-effbcb70ced2
-- https://chatgpt.com/c/6a6ae0bf-ff18-83ec-83dd-962a126bb6b8
-- https://chatgpt.com/c/6a706237-a2c4-83ec-aa51-ea6fed960b50
+- https://chatgpt.com/c/6a5eb53c-a954-83e8-bab1-effbcb70ced2 Anand Tax AY2026-27 Calculation
+- https://chatgpt.com/c/6a6ae0bf-ff18-83ec-83dd-962a126bb6b8 Anand Tax AY2026-27 Calculation v2
+- https://chatgpt.com/c/6a706237-a2c4-83ec-aa51-ea6fed960b50 Tax Filing Sequence Analysis
 -->
