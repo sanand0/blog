@@ -1,8 +1,8 @@
 ---
 title: When LLM prices fall 10x every year
 date: '2026-02-20T09:25:45+08:00'
-description: If frontier-model quality keeps getting 10x cheaper every year, many assumptions about AI product design, access, and value creation will break quickly.
-tags: [llm-pricing, forecasting, technology-trends]
+description: 'I explore what happens if LLM prices keep falling 10x every 11-12 months: within two years, models could be 100x cheaper, enabling faster, more reliable automated coding workflows.'
+tags: [forecasting, llm-pricing, ai-coding, ai-workflows]
 ---
 
 <!--

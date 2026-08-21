@@ -2,9 +2,9 @@
 title: Things I Learned - 25 Jan 2026
 date: 2026-01-25T00:00:00+00:00
 categories:
-  - til
-description: I explored IndieWeb syndication methods like POSSE, discovered DuckDB’s Vortex extension for remote querying, and researched how disengagement triggers "aha" moments. I also learned about limited email support for animated AVIF and using git-filter-repo for history rewriting.
-tags: [behavioral-economics, neuroscience, avif]
+- til
+description: I learned about POSSE, why stepping back can precede insight, animated AVIF's limited email support, and git-filter-repo for removing files from history while preserving commit details.
+tags: [web-syndication, duckdb, neuroscience, behavioral-economics]
 ---
 
 This week, I learned:

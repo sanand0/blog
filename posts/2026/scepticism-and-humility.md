@@ -1,7 +1,7 @@
 ---
 title: Scepticism and Humility
 date: '2026-02-18T22:52:35+08:00'
-description: Different combinations of scepticism and humility produce distinct thinking styles, each useful in some contexts and damaging in others.
+description: I map scepticism and humility into four ways of deciding, from testing carefully like a scientist to acting confidently under uncertainty. Each mode helps in some situations and harms in others.
 tags: [decision-making, judgment]
 ---
 

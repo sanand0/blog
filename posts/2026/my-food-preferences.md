@@ -2,11 +2,11 @@
 title: My food preferences
 date: 2026-04-24T14:09:36-04:00
 categories:
-  - llms
-  - how-i-do-things
-description: Using ChatGPT to conduct a targeted interview and analyze a daily food log generates a concise, AI-readable specification of dining preferences to improve automated restaurant recommendations.
+- llms
+- how-i-do-things
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7453512626417975296/
-tags: [chatgpt, llms, personal-update, chatgpt-usage, use-cases]
+description: I used ChatGPT to interview me about my food preferences, combine them with my daily food log, and create a compact profile that helps AI agents recommend restaurants and dishes I’ll enjoy.
+tags: [chatgpt, ai-agents]
 ---
 
 I use ChatGPT to recommend which restaurant I should eat at and what food I should eat. So often that I decided to share a profile of my eating preferences.

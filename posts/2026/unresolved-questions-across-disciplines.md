@@ -2,10 +2,10 @@
 title: Unresolved questions across disciplines
 date: 2026-05-07T20:45:58+08:00
 categories:
-  - links
-description: I used Claude to identify substantive, unresolved debates across disciplines like physics, finance, and biology. These prompts helped me map the frontiers of knowledge by uncovering deep disagreements that go beyond mere semantics.
-tags: [claude, prompt-engineering]
+- links
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7458151462246731777/
+description: I asked Claude to identify unresolved, substantive questions across disciplines. The results span mathematics, physics, biology, psychology, and more, offering a quick way to explore the frontiers of knowledge.
+tags: [claude, physics, computer-science]
 ---
 
 I asked Claude: "What are the most effective and impactful ways you can help me?" One of its ideas was to ask it:

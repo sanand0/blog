@@ -2,9 +2,9 @@
 title: Calvin and Hobbes Tracer Bullet 2
 date: 2026-07-12T16:59:07+05:30
 categories:
-  - funny
-description: I'm sharing the second arc of the "Tracer Bullet" Calvin and Hobbes comic strips, 19 years after posting the first. These classic comics are my all-time favorite for their brilliant humor and distinctive wordplay.
-tags: [calvin-and-hobbes, tracer-bullet, comics, comic-strips, bill-watterson, wordplay]
+- funny
+description: I finally share the second arc of Calvin and Hobbes' Tracer Bullet strips, discovered after a 19-year gap following the first. The noir parody remains a favorite, especially for its sharp wordplay.
+tags: [calvin-and-hobbes, tracer-bullet, comic-strips, wordplay]
 ---
 
 In 2007, I extracted the first arc of the [Tracer Bullet strips](https://www.s-anand.net/blog/calvin-and-hobbes-tracer-bullet-1/). I didn't realize I never shared the second arc. So, 19 years later, here it is. It remains my all-time favourite series from [Calvin and Hobbes](/calvin/).

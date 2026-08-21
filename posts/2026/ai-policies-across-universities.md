@@ -2,10 +2,10 @@
 title: AI policies across universities
 date: 2026-04-03T23:35:09+08:00
 categories:
-  - llms
-  - education
-description: A comparative review of university AI policies suggests that institutions vary widely in how thoughtfully they govern AI use, and some prominent universities lag more than expected.
-tags: [higher-education, benchmarking, governance]
+- llms
+- education
+description: I compared AI policies across 25 universities and found Ashoka, IIT Madras, and SUTD ranked lowest. I had conducted sessions at all three, a reminder that correlation does not imply causation.
+tags: [ai-in-education, higher-education, governance, benchmarking]
 ---
 
 I researched the [AI policies across 25 universities](https://sanand0.github.io/datastories/ai-policies/).

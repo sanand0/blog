@@ -5,8 +5,8 @@ lastmod: '2026-06-18T14:23:18+05:30'
 categories:
 - how-i-do-things
 - llms
-description: Browser tabs can work as a lightweight slide deck, especially when combined with simple title and section pages to restore presentation flow.
-tags: [presentations, slides, public-speaking]
+description: I use browser tabs as slides, moving between live examples with Ctrl+PgDn. I also built a URL-configured single-page slide tool for titles, section breaks, and richer AI presentations.
+tags: [presentations, browser-tools]
 ---
 
 My last two presentations used browser tabs as slides.

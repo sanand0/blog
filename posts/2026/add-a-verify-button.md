@@ -2,9 +2,9 @@
 title: Add a Verify Button
 date: 2026-05-30T11:39:10+08:00
 categories:
-  - llms
-description: I explain how adding a 'Verify' button to my AI-generated data cards builds trust with journalists. I share four ways to implement verification, including searchable strings, SQL queries, and step-by-step checklists to validate LLM outputs.
-tags: [ai-agents, fact-checking, data-journalism, verification, llms, sql]
+- llms
+description: I built a Verify button for AI-generated news cards that explains claims, sources, and checks. It helps journalists cheaply inspect numbers and signals that the newspaper is willing to be checked.
+tags: [fact-checking, llms, data-journalism]
 ---
 
 ![](https://files.s-anand.net/images/2026-05-30-add-a-verify-button.avif)

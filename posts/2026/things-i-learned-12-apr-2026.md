@@ -2,9 +2,9 @@
 title: Things I Learned - 12 Apr 2026
 date: 2026-04-12T00:00:00+00:00
 categories:
-  - til
-description: I learned to optimize hardware via sequential memory access and refined my AI agent workflows using context anchoring and visual brainstorming. I also enabled CloudFlare’s client-side security and explored text-measurement tools like pretex and terminal logging with script.
-tags: [cloudflare]
+- til
+description: I learned practical lessons about AI coding agents, including visual planning and deterministic checks; explored Cloudflare's new security and caching tools; and collected useful Linux, Git, and browser utilities.
+tags: [learning, ai-agents, software-engineering, security-vulnerability]
 ---
 
 This week, I learned:

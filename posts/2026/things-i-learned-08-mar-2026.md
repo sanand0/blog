@@ -2,9 +2,9 @@
 title: Things I Learned - 08 Mar 2026
 date: 2026-03-08T00:00:00+00:00
 categories:
-  - til
-description: I increased Claude Code's output limit to 64k, adopted agent-friendly CLI practices with Google Workspace, and switched to the 'just' task runner. I've also stopped manual code formatting now that AI handles most of my development.
-tags: [claude-code, prompt-engineering]
+- til
+description: This week I learned how to raise Claude Code’s output limit for large data stories, use Google Workspace through one agent-friendly CLI, handle mise’s deprecated ubi backend, and rethink code formatting for AI-written code.
+tags: [claude-code, ai-coding-agents, cli-tools, prompt-engineering]
 ---
 
 This week, I learned:

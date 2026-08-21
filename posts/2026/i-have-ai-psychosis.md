@@ -2,10 +2,10 @@
 title: I have AI psychosis
 date: 2026-05-18T14:24:06+08:00
 categories:
-  - llms
-  - funny
-description: I score 16/19 on an informal AI psychosis checklist. I dive into how chatbots amplify delusional thinking through sycophancy and anthropomorphism, noting that at-risk users are far more likely to treat AI as friends or therapists.
-tags: [llms, chatbots]
+- llms
+- funny
+description: I score 16/19 on an informal AI psychosis checklist, from chatbot agreeableness and late-night loneliness to weaker reality checks. I track Codex and Claude Code usage better than weekdays.
+tags: [llms, chatbots, human-computer-interaction]
 ---
 
 On this informal AI psychosis checklist, I score 16/19.

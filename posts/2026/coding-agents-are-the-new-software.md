@@ -2,10 +2,10 @@
 title: Coding agents ARE the new software
 date: 2026-03-23T16:03:18+05:30
 categories:
-  - llms
-  - coding
-description: Software is shifting from fixed reusable tools toward agent-driven execution, where coding agents increasingly become the interface through which software is created and operated.
-tags: [coding-agents, ai-workflows, automation, developer-tools]
+- llms
+- coding
+description: I increasingly use coding agents to build one-off tools and run reusable software, from UMAP visualizations to receipt classification. I think agents will become both software's users and its universal wrapper, reshaping familiar developer roles.
+tags: [forecasting, ai-coding-agents, agentic-workflows]
 ---
 
 Increasingly, **I use coding agents instead of writing software**. For example, I built a [Blog UMAP](https://files.s-anand.net/blog/blogmap/). Then, I built [Calvin UMAP](https://files.s-anand.net/blog/calvinmap/). And more. But instead of building re-usable software, I just ran Claude with prior context.

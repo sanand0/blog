@@ -4,9 +4,9 @@ date: '2026-03-08T19:06:03+08:00'
 categories:
 - education
 - llms
-description: Game-playing agents can turn abstract concepts into interactive classroom experiences, making learning more exploratory, social, and memorable.
-tags: [ai-agents, education]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7436422974435418113/
+description: I built three API games—Labyrinth, Detective, and Signal—for my Tools in Data Science students to practice using AI coding agents for graph traversal, data analysis, and multi-step planning.
+tags: [ai-in-education, ai-agents, ai-coding-agents]
 ---
 
 After an early morning beach walk with a classmate, I realized I hadn't taken my house keys. My daughter would be sleeping, so I wandered with my phone.

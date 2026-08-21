@@ -2,6 +2,8 @@
 title: Extrovert or introvert
 date: 2026-08-21T12:47:02+08:00
 source: http://localhost:8080/sessions/pi%3A01a00f16-9425-7f0c-9952-9c3f7e7cab9d
+description: 'I explore why someone who starts intrusive, talkative conversations may still identify as an introvert: social behavior and social energy are different, with ambiversion as one possible explanation.'
+tags: []
 ---
 
 ## User

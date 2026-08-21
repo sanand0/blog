@@ -3,8 +3,8 @@ title: Gemini Enterprise Business
 date: '2026-02-19T10:35:09+08:00'
 categories:
 - llms
-description: The main value of Gemini's business offering is not better intelligence but enterprise defaults around privacy, admin control, and legal protection.
-tags: [enterprise-ai, privacy]
+description: I tried Gemini Enterprise Business after Google offered a 30-day trial. It costs $21/user/month afterward and adds default data privacy, admin controls, and copyright indemnification—but appears identical to Gemini Pro through my work account.
+tags: [enterprise-ai, data-privacy, copyright-law]
 ---
 
 <!-- https://gemini.google.com/u/2/app/6b03ad8fde0c15b5 -->

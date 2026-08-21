@@ -3,10 +3,10 @@ title: Beating AI detectors by reading aloud
 date: 2026-07-01T17:43:49+08:00
 updated: 2026-07-22T13:29:52+08:00
 categories:
-  - llms
-description: I bypassed AI detectors with high confidence by reading LLM-generated drafts aloud and transcribing them, naturally replacing robotic AI writing habits with conversational, human speech patterns.
-tags: [transcription, writing-style]
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7478039160474386432/
+description: I tested ChatGPT and Claude articles with Pangram, then read one aloud in my own conversational style. The rewritten version passed as human-written with high confidence, unlike the original AI drafts.
+tags: [llms, transcription, writing-style]
 ---
 
 ![](https://files.s-anand.net/images/2026-07-01-beating-ai-detectors-by-reading-aloud.avif)

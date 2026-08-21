@@ -2,9 +2,9 @@
 title: Things I Learned - 05 Jul 2026
 date: 2026-07-05T00:00:00+00:00
 categories:
-  - til
-description: I built an offline RSS archiving pipeline using monolith and feed2exec, tested the minimal coding agent Tau, set up Claude Code path-specific rules, and studied the psychology behind LLM role confusion attacks.
-tags: [claude-code]
+- til
+description: I learned that practice beats explanation in teaching, attachment builds connection, and Claude Code rules and sub-agents can improve workflows. I also tested offline archiving and noted new AI tools, models, and MCP features.
+tags: [llms, coding-agents, rss-feeds, prompt-injection]
 ---
 
 This week, I learned:

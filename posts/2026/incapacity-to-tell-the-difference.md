@@ -2,10 +2,10 @@
 title: Incapacity to tell the difference
 date: 2026-06-26T13:17:41+08:00
 categories:
-    - funny
-description: "Amidst the chaos of the AI era, I find comfort in Calvin's chaotic twist on the Serenity Prayer: praying for the incapacity to tell the difference between what I can and can't change."
-tags: [calvin-and-hobbes, ai, humor]
+- funny
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7476143234553966592/
+description: I share Calvin's prayer about changing what we can, accepting what we can't, and being unable to tell the difference - a fitting joke for the age of AI psychosis.
+tags: [humor, calvin-and-hobbes, ai]
 ---
 
 In this age of AI psychosis, I think we have all been blessed with Calvin's prayer.

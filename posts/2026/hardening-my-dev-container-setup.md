@@ -4,8 +4,8 @@ date: '2026-03-14T12:30:35+05:30'
 categories:
 - coding
 - llms
-description: Improving container setup quality depends less on memorizing all best practices and more on having good tests, readable output, and agents that can iterate on both.
-tags: [testing, copilot, docker]
+description: I hardened my Docker dev-container setup by having Copilot update and run its tests, then fixed host/container confusion, conflicting mounts, and missing package paths. Readable test output made debugging easier.
+tags: [ai-coding-agents, docker, software-testing]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-14-hardening-my-dev-container-setup.avif) <!-- https://gemini.google.com/app/9162b7c405fcd5ee -->

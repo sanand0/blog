@@ -4,8 +4,8 @@ date: '2026-02-20T18:09:04+08:00'
 categories:
 - llms
 classes: wrap-code
-description: Meeting transcripts can be repurposed by AI into sharper interview answers, making rewrite-based review faster than manual review alone.
-tags: [transcripts, interviews]
+description: I used meeting transcripts and Google Drive material with Gemini to draft and refine interview answers, turning technical discussions into concise, evocative responses about AI architecture, reliability, and production safeguards.
+tags: [llms, prompt-engineering, transcripts, technical-writing]
 ---
 
 <!-- https://gemini.google.com/app/fc17155c3249516c -->

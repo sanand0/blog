@@ -3,8 +3,8 @@ title: Finding old friends with Gemini
 date: '2026-02-12T10:34:00+08:00'
 categories:
 - llms
-description: AI search can uncover biographical and status information that ordinary keyword search misses, making it unexpectedly useful for rediscovering people.
-tags: [gemini, search, personal-history, research]
+description: 'I used Gemini to find what happened to my former mridangam teacher and a BCG colleague: it uncovered a death and a surname change that Google searches missed, showing how useful people research can be.'
+tags: [information-retrieval, gemini]
 ---
 
 I was taking a bus past [Mandaveli](https://en.wikipedia.org/wiki/Mandaveli) in Chennai, which reminded me of where I learnt mrdangam from Mr Melakaveri K Krishnamurthi between 1993-1996. So, after a few futile Google searches trying to find his whereabouts, I asked Gemini: <!-- https://gemini.google.com/app/93ce87ee6034080a -->

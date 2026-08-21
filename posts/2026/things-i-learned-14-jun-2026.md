@@ -2,9 +2,9 @@
 title: Things I Learned - 14 Jun 2026
 date: 2026-06-14T00:00:00+00:00
 categories:
-  - til
-description: I used rdt-cli to access Reddit via browser cookies and learned how DNA codon redundancy functions as biological error-correction. I also compared AI subscription values to API costs and tested ChatGPT’s new "Check in" feature.
-tags: [information-theory, api-pricing, claude, chatgpt]
+- til
+description: This week I learned that rdt-cli can use logged-in browser cookies, Claude and ChatGPT subscriptions bundle substantial API value, codon wobble limits errors, and ChatGPT offers work-in-progress answers.
+tags: [cli-tools, llm-pricing, information-theory, chatgpt]
 ---
 
 This week, I learned:

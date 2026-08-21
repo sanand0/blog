@@ -4,9 +4,9 @@ date: '2026-02-18T10:02:56+08:00'
 categories:
 - how-i-do-things
 - llms
-description: Browser history is an overlooked personal memory system that can reconstruct days, interests, and unfinished thoughts when other logs miss them.
-tags: [memory, self-tracking, digital-exhaust]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7430573964684382208/
+description: I use Datasette and SQL to export my browser history, then ask Gemini to summarize my day and clarify gaps. It has become a useful memory aid for reconstructing recent work.
+tags: [self-tracking, personal-data, llms]
 ---
 
 I have a bad memory. (I need to write about that. I k eep forgetting to.)

@@ -2,12 +2,12 @@
 title: Baba Is You
 date: 2026-01-19T14:50:40+05:30
 categories:
-  - how-i-do-things
-  - llms
-  - games
-description: I explore how games like Baba Is You, Chess, and Mini Metro build mental muscles for the AI era. I found that manipulating in-game rules teaches meta-level thinking and helps me view complex systems as changeable.
-tags: [systems-thinking]
+- how-i-do-things
+- llms
+- games
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7418967092743364608/
+description: I am playing Baba Is You, a puzzle game where rearranging words changes the rules and reveals new ways to solve problems. It feels like useful practice for AI-era systems thinking.
+tags: [problem-solving, systems-thinking, self-improvement]
 ---
 
 I have this feeling that the skills we need for the AI era might be found in video games.

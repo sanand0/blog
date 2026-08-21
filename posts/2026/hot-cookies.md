@@ -3,9 +3,9 @@ title: Hot cookies
 date: '2026-01-31T20:36:03+08:00'
 categories:
 - how-i-do-things
-description: A tiny intervention like heating a cookie can transform the eating experience enough to feel like a genuine discovery.
-tags: [food, experimentation, taste]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7423350500475088896/
+description: I discovered that microwaving a caramel cashew cookie for 30 seconds makes it crumbly, chewy, gooey, and far more delicious. Heat boosts its aroma, sweetness, and buttery texture.
+tags: [food, taste, experimentation]
 ---
 
 I ordered a [Caramel Cashew Cookie - Soft & Chewy](https://www.cookiemanindia.com/products/caramel-cashew-cookies-soft-chewy) at the Chennai airport, an hour before my flight.

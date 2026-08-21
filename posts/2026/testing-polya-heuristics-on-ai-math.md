@@ -2,12 +2,12 @@
 title: Testing Pólya heuristics on AI Math
 date: 2026-03-27T13:20:25+08:00
 categories:
-  - llms
-  - education
-  - coding
-description: Classic human problem-solving heuristics can be tested systematically on LLM math performance, turning mathematical wisdom into something measurable and benchmarkable.
-tags: [benchmarking, heuristics]
+- llms
+- education
+- coding
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7443178672846675968/
+description: I tested Polya heuristics on LeanDojo math problems with multiple LLMs. Different heuristics helped different problem types and models, showing which advice improves or harms automated proofs.
+tags: [llms, llm-evaluation, benchmarking, problem-solving]
 ---
 
 [Terence Tao said](https://www.dwarkesh.com/p/terence-tao), "We haven't done many experiments ... large-scale studies where we take a thousand problems and just test them."

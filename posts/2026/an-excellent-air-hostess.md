@@ -2,10 +2,10 @@
 title: An excellent air hostess
 date: 2026-06-18T10:49:16+05:30
 categories:
-  - interesting-experiences
+- interesting-experiences
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7473356100466155520/
-description: I highlight how proactive service—remembering a delayed tea order during turbulence and checking back with skipped passengers by name—elevates customer experience. It shows that attentiveness and memory are powerful tools in hospitality.
-tags: [customer-service, hospitality]
+description: I recount how Indigo air hostess Sharadha noticed I had been missed, remembered my masala chai, and helped during turbulence. Small acts of checking and remembering made her exceptional at customer service.
+tags: [customer-service, hospitality, memory]
 ---
 
 ![](https://files.s-anand.net/images/2026-06-18-an-excellent-air-hostess.avif)

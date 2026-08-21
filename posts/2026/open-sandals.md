@@ -2,12 +2,12 @@
 title: Open sandals
 date: 2026-01-03T09:18:21+08:00
 categories:
-  - how-i-do-things
-  - funny
-  - interesting-experiences
-description: I've worn the same ₹500 sandals for eight years, prioritizing comfort over formal dress codes. This preference recently cost me entry to a fancy Singapore rooftop and required changing a meeting venue at the Bangalore Club.
-tags: [dress-code, minimalism, lifestyle]
+- how-i-do-things
+- funny
+- interesting-experiences
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7413034862275694592/
+description: My open sandals are comfortable, cheap, durable, and a near-daily choice, but strict dress codes twice kept me from venues in December—including a New Year party where I watched fireworks outside.
+tags: [dress-code, lifestyle, personal-update]
 ---
 
 My sandals landed me in trouble twice in December. And that's not uncommon.

@@ -2,11 +2,11 @@
 title: How I use Local MCP
 date: 2026-05-16T22:24:32+08:00
 categories:
-  - llms
-  - coding
-  - how-i-do-things
-description: Local MCP turns my laptop into an AI-readable context repository, letting Claude and ChatGPT combine chat memory, local files, shell tools, email, calendar, transcripts, and code into useful work.
-tags: [local-mcp, context-engineering, ai-agents, claude, chatgpt]
+- llms
+- coding
+- how-i-do-things
+description: I use a local MCP server with one bash tool to let Claude and ChatGPT search my files, emails, calendar, and transcripts for meeting prep, relationship insights, and blog ideas, under supervision.
+tags: [local-mcp, context-engineering, ai-agents]
 ---
 
 ![](https://files.s-anand.net/images/2026-05-16-how-i-use-local-mcp.avif)

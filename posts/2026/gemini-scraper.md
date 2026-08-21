@@ -5,9 +5,9 @@ categories:
 - llms
 - coding
 classes: wrap-code
-description: A simple bookmarklet can make Gemini conversations portable by exporting entire chats as Markdown.
-tags: [gemini, bookmarklet, browser-tools]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7419241498464100352/
+description: I built a bookmarklet that scrapes an entire Gemini conversation as Markdown and copies it to the clipboard, making chats easy to save, share, or pass to another LLM.
+tags: [gemini, bookmarklet, web-scraping]
 ---
 
 [Gemini](https://gemini.google.com/) lets you copy individual responses as Markdown, but not an entire conversation.

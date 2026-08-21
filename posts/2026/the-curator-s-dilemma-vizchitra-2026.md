@@ -2,11 +2,11 @@
 title: The Curator's Dilemma - VizChitra 2026
 date: 2026-07-11T11:56:37+05:30
 categories:
-  - llms
-  - visualization
-description: My VizChitra session exposed challenges in chart verification and purpose-fit, even with an AI-generated chart topping votes. I learned surfacing group disagreements is crucial, as participants often struggle to agree on one 'best' visualization.
-tags: [vizchitra, data-visualization, ai, verification, presentations, llms]
+- llms
+- visualization
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7481597025130553345/
+description: I ran a VizChitra dialogue where groups judged six charts, critiqued each other's verdicts, and exposed hidden disagreement. The top-voted chart was AI-generated, underscoring how little we know about verifying charts.
+tags: [verification, data-visualization, vizchitra]
 ---
 
 ![](https://sanand0.github.io/talks/2026-07-04-vizchitra-dialog-curators-dilemma/summary.avif)

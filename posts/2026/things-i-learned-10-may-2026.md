@@ -2,9 +2,9 @@
 title: Things I Learned - 10 May 2026
 date: 2026-05-10T00:00:00+00:00
 categories:
-  - til
-description: I optimized xz compression using multiple threads, tested Zed and Tauon MusicBox, and integrated rtk to reduce LLM tokens. I also explored Claude Code routines and the emerging W3C standard for AI-generated content disclosure.
-tags: [claude-code, ubuntu]
+- til
+description: I learned how to speed up xz, move Ubuntu windows between monitors, and use Claude Code routines. I also tested rtk, a CLI proxy that cut token use by about half.
+tags: [productivity, coding-agents, claude-code, llms]
 ---
 
 This week, I learned:

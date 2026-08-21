@@ -2,10 +2,10 @@
 title: AI advice for teams
 date: 2026-04-25T12:17:03-04:00
 categories:
-  - llms
-description: Shift from individual AI tips to team-scale operations in the agent era by building structured agentic workspaces, treating prompts as durable assets, and relying on executable code and exception routing to verify outputs.
-tags: [coding-agents]
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7454167466433282048/
+description: I updated my AI Advice page by mining two months of call transcripts with Gemini, Claude, and ChatGPT. The advice now covers how people, teams, and organizations operate in the agent era.
+tags: [agentic-workflows, enterprise-ai, prompt-engineering, verification]
 ---
 
 I updated my [AI Advice](/blog/ai-advice/) page by:

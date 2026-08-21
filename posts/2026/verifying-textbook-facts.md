@@ -4,8 +4,8 @@ date: '2026-01-23T13:36:50+05:30'
 categories:
 - education
 - llms
-description: LLMs are especially useful for fact-checking textbooks because even occasional successes can uncover high-value errors at scale.
-tags: [fact-checking, llms, verification, education]
+description: 'I found a practical use for LLMs: fact-checking textbooks page by page. A scan of 56 NCERT pages flagged 45 claims, including the questionable claim that only useless objects were discarded.'
+tags: [fact-checking, llms, education]
 ---
 
 Using LLMs to find errors is fairly hallucination-proof.

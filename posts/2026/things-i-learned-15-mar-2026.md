@@ -2,9 +2,9 @@
 title: Things I Learned - 15 Mar 2026
 date: 2026-03-15T00:00:00+00:00
 categories:
-  - til
-description: I explored Timsort, switched to the moor pager, and experimented with CLI prompt prefixes for agents. I also looked into cognitive debt, Polya's problem-solving framework, and GitHub’s new agentic workflows for compiling Markdown files into actions.
-tags: [prompt-engineering]
+- til
+description: I learned that Timsort is remarkably fast, moor replaces bat for wrapping via keyboard shortcuts, --help is a useful agent prompt prefix, and Claude Opus 4.6 solved a problem Knuth studied.
+tags: [ai-agents, agentic-workflows, problem-solving, web-browsers]
 ---
 
 This week, I learned:

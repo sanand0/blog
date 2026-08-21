@@ -2,10 +2,10 @@
 title: Correcting instruction debt
 date: 2026-05-25T16:30:02+08:00
 categories:
-  - llms
-  - how-i-do-things
-description: A small calendar bug ("avoid holidays") created hidden work and led me to use ChatGPT — grounded in my own agent logs — to find the pattern, cross-check it, and convert the fix into three lines of AGENTS.md instead of three new habits.
-tags: [agents-md, coding-agents]
+- llms
+- how-i-do-things
+description: I learned to recognize instruction debt when a calendar rule hid a useful day. After analyzing my coding-agent logs, I replaced 60 lines of guidance with three practical rules for AGENTS.md.
+tags: [ai-coding-agents, agents-md, prompt-engineering]
 ---
 
 Here's another AI-generated post, with _**Anand**_ editor notes. But I've also added my own version of the post below.

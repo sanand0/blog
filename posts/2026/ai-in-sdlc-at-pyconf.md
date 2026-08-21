@@ -2,11 +2,11 @@
 title: AI in SDLC at PyConf
 date: 2026-03-19T14:58:26+05:30
 categories:
-  - llms
-  - coding
-description: The strongest use of AI in software development is not isolated prompting but embedding models across the entire development loop from discovery to deployment and postmortem learning.
-tags: [software-engineering, coding-agents, developer-workflow]
+- llms
+- coding
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7440334290044788736/
+description: 'I share advice on using AI across the SDLC: recording client calls, building and deploying with agents, asking for reviewable output, learning from failures, and starting in new, low-risk projects while developers remain accountable.'
+tags: [ai-coding-agents, agentic-workflows, ai-adoption, software-development]
 ---
 
 I was at a panel on [AI in SDLC](https://2026.pyconfhyd.org/) at PyConf. Here's the summary of my advice:

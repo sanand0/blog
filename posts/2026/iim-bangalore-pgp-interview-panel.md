@@ -2,10 +2,10 @@
 title: IIM Bangalore PGP Interview Panel
 date: 2026-03-17T06:42:32+05:30
 categories:
-  - education
-description: AI can help interviewers rapidly extract sharper questions from dense applicant materials, improving evaluation when time is too short for careful manual review.
-tags: [interviews, admissions, evaluation, higher-education]
+- education
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7439864413735714816/
+description: I used Claude and GitHub Copilot during IIM Bangalore PGP interviews to suggest probing questions, evaluate 18 candidates afterward, and compare ratings. The review exposed my blind spots and showed where AI helps most.
+tags: [ai-in-education, evaluation, claude, iim-bangalore]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-17-iim-bangalore-pgp-interview-panel.avif) <!-- https://gemini.google.com/u/2/app/2ff4c1dd6c10b1d7 -->

@@ -2,8 +2,8 @@
 title: Read Tamil on TV with Gemini
 date: 2026-03-25T21:32:50+08:00
 categories:
-  - llms
-description: Gemini can turn casual screenshots into instant OCR-and-translation aids, making it a practical companion for reading text embedded in everyday media.
+- llms
+description: I used Gemini's OCR and translation on a screenshot of Tamil text in an Iru Dhuruvam TV scene. It identified Thirukkural 674 and its warning about unfinished actions and enemies, making the scene clear.
 tags: [gemini, ocr, translation, tamil]
 ---
 

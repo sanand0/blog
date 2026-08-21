@@ -2,9 +2,9 @@
 title: Things I Learned - 22 Feb 2026
 date: 2026-02-22T00:00:00+00:00
 categories:
-  - til
-description: I explored tree-sitter for incremental parsing, Cloudflare's Markdown for Agents, and using esbuild to compile CSS for older browsers. I also configured custom commit message instructions for GitHub Copilot in VS Code using my own prompt templates.
-tags: [github-copilot, webm]
+- til
+description: I learned how tree-sitter handles malformed code, Cloudflare's Markdown for Agents serves HTML as Markdown, WebM can compress better than animated WebP, and Copilot can customize commit messages.
+tags: [developer-tools, programming-languages, github-copilot, prompt-engineering]
 ---
 
 This week, I learned:

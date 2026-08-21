@@ -3,8 +3,8 @@ title: The Nano Banana Paradox
 date: '2026-03-07T11:25:02+08:00'
 categories:
 - llms
-description: Image models can generate original physically impossible scenes, and evaluating those outputs surfaces what makes paradoxical images feel clever rather than merely strange.
-tags: [image-generation]
+description: I asked Nano Banana 2 to create six photorealistic impossible images, then had Claude review them. The Anchored Arc stood out, while three woodshop variations exposed the model's creative repetition.
+tags: [optical-illusion, image-generation, model-comparison]
 ---
 
 **STEP 1**: I asked Nano Banana 2 (via Gemini Pro) to:

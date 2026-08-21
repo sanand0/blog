@@ -4,8 +4,8 @@ date: '2026-02-28T09:18:56+08:00'
 categories:
 - llms
 - coding
-description: Careful ffmpeg tuning can compress short WEBM videos far more aggressively than online tools while preserving nearly all of the visual quality that matters.
-tags: [video-compression, webm, ffmpeg, optimization, ai-workflows]
+description: I used ChatGPT and Claude to test ffmpeg compression settings for a WEBM screencast, reducing it from 912KB to a visually acceptable 23KB with AV1, lower frame rates, and higher CRF.
+tags: [video-compression, ffmpeg, ai-coding-agents, prompt-engineering]
 ---
 
 I recorded a short screen cast of a demo I built. It was ~900KB - way too large to publish as a thumbnail. So I asked ChatGPT:

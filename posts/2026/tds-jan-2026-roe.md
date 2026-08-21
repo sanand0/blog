@@ -2,10 +2,10 @@
 title: TDS Jan 2026 ROE
 date: 2026-04-05T19:04:37+08:00
 categories:
-  - llms
-  - education
-description: In an AI-rich exam environment, question difficulty depends less on traditional rigor and more on whether tasks are designed to resist trivial delegation to models.
-tags: [ai-in-education, assessment-design, tools-in-data-science, academic-integrity]
+- llms
+- education
+description: 'I ran a Tools in Data Science remote exam with AI assistance and found a surprising gap: ChatGPT solved many questions easily, yet students scored poorly while collaboration remained the hardest challenge.'
+tags: [assessment-design, ai-in-education, llms]
 ---
 
 [Tools in Data Science](https://tds.s-anand.net/) has a remote online exam (ROE). It has a tough reputation. We conducted one today.

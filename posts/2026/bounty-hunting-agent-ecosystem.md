@@ -2,11 +2,11 @@
 title: Bounty-Hunting Agent Ecosystem
 date: 2026-06-24T13:56:24+08:00
 categories:
-  - llms
-  - coding
+- llms
+- coding
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7475457228137918464/
-description: Maintainers should be aware of autonomous bounty-hunting agents. I analyze their behavior, from nudging bots to honeytraps like agent-playground. Watch for PRs with payment links or missing tests as signs of automated, low-quality "farming."
-tags: [github, ai-agents, open-source]
+description: I followed an autonomous bounty-hunting agent across GitHub, where it filed pull requests for paid issues, fell into honeypot repositories, and interacted with other bots urging maintainers to merge.
+tags: [ai-coding-agents, open-source]
 ---
 
 ![](https://files.s-anand.net/images/2026-06-24-bounty-hunting-agent-ecosystem.avif)

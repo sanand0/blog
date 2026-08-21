@@ -2,9 +2,9 @@
 title: Yearly Goal Tracking FAQ
 date: 2026-01-08T12:35:37+08:00
 categories:
-  - how-i-do-things
-description: I share my process for tracking yearly goals through public email updates. I answer questions on handling "soft" relationship goals, using public commitment for discipline, and why I prefer automatic tracking via Google Fit and GitHub over manual logs.
-tags: [habit-formation, personal-growth]
+- how-i-do-things
+description: 'I answer questions about my yearly goal tracking: publishing and emailing goals, using public commitment and automatic or daily tracking, and handling soft goals, failures, ambition, and changing plans.'
+tags: [goals, personal-planning, habit-formation]
 ---
 
 ![](https://files.s-anand.net/images/2026-01-08-yearly-goal-tracking-faq.webp)

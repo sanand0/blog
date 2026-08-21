@@ -2,10 +2,10 @@
 title: AI tax returns 2026
 date: 2026-08-04T05:48:31+08:00
 categories:
-  - how-i-do-things
-  - llms
-description: I asked ChatGPT to calculate my Indian tax independently, used it to review my auditor's draft, and then let the auditor decide and file the return.
-tags: [ai, chatgpt-usage, ai-workflows, india, mutual-funds, singapore]
+- how-i-do-things
+- llms
+description: I used ChatGPT to independently check my Indian tax return from raw financial documents. It caught a tax-credit error and found treaty support for exempt mutual-fund gains, which my auditor verified before filing.
+tags: [ai-workflows, llms, india]
 ---
 
 ![](https://files.s-anand.net/images/2026-06-05-ai-tax-returns-2026.avif)

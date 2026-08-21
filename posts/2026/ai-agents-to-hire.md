@@ -2,12 +2,12 @@
 title: AI agents to hire
 date: 2026-01-06T17:26:39+08:00
 categories:
-  - how-i-do-things
-  - llms
+- how-i-do-things
+- llms
 source: https://claude.ai/chat/b09c0847-9325-46d1-bf1d-b40ab6824643
-description: Based on GDPval benchmarks showing AI agents outperform experts in niche tasks, I 'hire' Claude for roles like relationship architect, diplomat, and epistemologist. These high-leverage prompts help me manage personal networks, stress-test beliefs, and curate my aesthetic taste.
-tags: [gdpval, ai-agents, claude, scenario-planning]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7414249386639126528/
+description: I use GDPval to see where AI agents outperform experts, then use ChatGPT and Claude for investing while keeping an accountant for taxes. I also explore less-obvious hires like historians, scenario planners, and bodyguards.
+tags: [ai-agents, prompt-engineering, llms]
 ---
 
 [GDPval](https://sanand0.github.io/datastories/gdpval/) is a benchmark that compares how well AI does (vs experts without AI) on useful real-world tasks.

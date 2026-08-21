@@ -2,9 +2,9 @@
 title: My Overcrowded Talk Daydream
 date: 2026-06-16T18:39:40+05:30
 categories:
-    - funny
-description: I recount how a recurring daydream of being locked out of my own overcrowded talk manifested during a Google Meet session that hit its participant limit, turning a technical glitch into a funny milestone.
-tags: [straive, public-speaking]
+- funny
+description: I daydreamed about being locked out of my own overcrowded talk; then Google Meet filled its 250-person limit during Straive's AI Conversations, and Kathleen squeezed me in.
+tags: [public-speaking]
 ---
 
 ![](https://files.s-anand.net/images/2026-06-16-my-overcrowded-talk-daydream.avif)

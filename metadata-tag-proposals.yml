@@ -1,6 +1,176 @@
 version: 1
 proposals:
-  personal:
+  ai-detection:
+    sources:
+      posts/2026/beating-ai-detectors-by-reading-aloud.md:
+        content_hash: 3be5cd416ba060ae55e677d415e759831383aa8d93f9bdb75f84db0c3a6d7877
+  ai-governance:
+    sources:
+      posts/2026/where-enterprise-ai-is-headed.md:
+        content_hash: 15be4c424c139541a01eb4ea1c1fb2d15887565f3bbf2ea509c611f0d1eddcb8
+  ai-limitations:
+    sources:
+      posts/2026/what-can-ai-not-do.md:
+        content_hash: c0a35b3004490510f08993fe07515ae96b70a6f3999465b5042d596797c710ad
+  ai-psychosis:
+    sources:
+      posts/2026/i-have-ai-psychosis.md:
+        content_hash: 54b699d17c6ebb8ef71cafbd9a264aca32656292efdc0cbb8179512c0766db7a
+  ai-search:
+    sources:
+      posts/2026/finding-old-friends-with-gemini.md:
+        content_hash: 7f54f4473f7d951b7b65c7694da52107ba77081dd42c7485a1c1a53a986c9498
+  ambiversion:
+    sources:
+      pages/notes/extrovert-or-introvert.md: &id001
+        content_hash: 67236b09ecf974ae95552a96f28642940aede4b84ce4669d25cfc67bf1df3aad
+  aws-partyrock:
+    sources:
+      posts/2026/aws-partyrock.md:
+        content_hash: 8a4b8c13c1bd42197a5c1e5cb491956ce7408567038d8dc31d4877870e6f6dbb
+  cloud-finops:
+    sources:
+      posts/2026/analaizing-cloud-costs.md:
+        content_hash: c6e1473e8618fd7f624976014adb92a66a20986da46bb2d0fa26938b4ef26e19
+  dance:
+    sources:
+      posts/2026/dancing-with-eyes-closed.md:
+        content_hash: 62e06d4b49f6ecdfb0e8fc1347f8ac2b05ebc73ad68f59bf8d3132945051637b
+  data-quality:
+    sources:
+      posts/2026/agents-answer-small-questions-from-big-data.md:
+        content_hash: fabd29afae6168978868e4379dbaf4a98eec70d02587c81341b29507d4274866
+  discrete-geometry:
+    sources:
+      posts/2026/erdos-unit-distance-problem.md:
+        content_hash: 28177b5f0ba80b7740a29fd8af82cccad5611a70950483dfa21c0cf0f2d2fe4d
+  energy-efficiency:
+    sources:
+      posts/2026/llms-are-as-energy-efficient-as-brains.md:
+        content_hash: bf8c8326f34af94e7ba4e374adf4852d6e6f39704c6dd6795ce4d04d30119973
+  favicon:
+    sources:
+      posts/2026/creating-a-favicon-from-svg.md:
+        content_hash: 60078d47222f38a2c59be0a7d4aad56e1f5dc379efd65e87266583de6eb8bb70
+  formal-verification:
+    sources:
+      posts/2026/proving-code-works-with-z3.md:
+        content_hash: 085cd162a96104d34f030df3133cfe1b460f5f848eb9bc428b85ad73adf1e57b
+      posts/2026/things-i-learned-28-jun-2026.md:
+        content_hash: 9146245a82dca7d0436aa26e246b9aea8ad0e8c77684bf94828a1770f7351588
+  google-meet:
+    sources:
+      posts/2026/my-overcrowded-talk-daydream.md:
+        content_hash: edc76a787a5bce187da9997b3ce84bf50c5b270a28942037f3c3db9aa1ca4801
+  harness-engineering:
+    sources:
+      posts/2026/things-i-learned-21-jun-2026.md:
+        content_hash: 8cdba5c32bf05e48222eb7602f915a2a44ce548b21898acc8af8ebf77d85e149
+  hugo:
+    sources:
+      posts/2026/migrating-my-blog-from-wordpress-to-hugo.md:
+        content_hash: 12b60318a09a41026db199a85c62936d09e8622e24d29ff999e714d717319ff6
+  ilaiyaraaja:
+    sources:
+      posts/2026/ilaiyaraaja-mridangam-songs.md:
+        content_hash: 989d65ba414fa32c8993c81f28164d6c43ae3517dc2700429658a127ab482750
+  indian-tv-series:
+    sources:
+      posts/2026/rise-of-the-indian-tv-series.md:
+        content_hash: 2485e84d54ed9698ac967d23d58d8d17f70f4fb843b4f09e97139a748550b320
+  interactive-explainers:
+    sources:
+      posts/2026/interactive-explainers.md:
+        content_hash: 8305bc214e6cc0e93d9bc28d24e77e5d9f77a8bf2e1abdb73b555bbad1354417
+  internal-communications:
+    sources:
+      posts/2026/using-ai-for-work-news.md:
+        content_hash: 58940c7daf68f79aca99f26dc199b57826898bc25156633d3d0007cc24caa6a2
+  introversion-extroversion:
+    sources:
+      pages/notes/extrovert-or-introvert.md: *id001
+  kanata:
+    sources:
+      posts/2026/rofi-vs-kanata.md:
+        content_hash: fc32a877ddaa3ca53614517ed0d27bee3297422748f0e590b1761fd843a71de6
+  latex:
+    sources:
+      posts/2026/openai-prism-for-latex.md:
+        content_hash: 07442970071a3be18a6d16112f2dfa519200bcebb2d8f6a9e7c0e69759ff27d2
+  learning-analytics:
+    sources:
+      posts/2026/how-i-use-ai-to-teach.md:
+        content_hash: 11aa893be954c612ffd1470d4b017b03bcc807877f9ce9a38176ee50f43fd627
+  linked-data:
+    sources:
+      posts/2026/things-i-learned-17-may-2026.md:
+        content_hash: 9265f160c377ee0e120beba6ad88212eba0bbb983d3b4b3948415543bb4d4a96
+  meaning-of-life:
+    sources:
+      posts/2026/the-meaning-of-life.md:
+        content_hash: dec73324d62da2589839d885168bbc99272bab2336454cbdd3fe18c9a4fe4850
+  mridangam:
+    sources:
+      posts/2026/ilaiyaraaja-mridangam-songs.md:
+        content_hash: 989d65ba414fa32c8993c81f28164d6c43ae3517dc2700429658a127ab482750
+  music-generation:
+    sources:
+      posts/2026/singing-a-vote-of-thanks.md:
+        content_hash: dd0f746ffc923abd4676dabeb4a6497b05cae46d9d3d0a8b4e37ea2716d31497
+  offline-ai:
+    sources:
+      posts/2026/ai-on-flights.md:
+        content_hash: 8aa4bd1b01dab9bcc4285615aabcfc2039714af2f3263f02290ab06cc1f11413
+  open-questions:
+    sources:
+      posts/2026/unresolved-questions-across-disciplines.md:
+        content_hash: d9a57826abb15e4f5ba0a8f392aa1f758f17ac735bdd7156458faa8e31504b46
+  people-skills:
+    sources:
+      posts/2026/people-skills-with-ai.md:
+        content_hash: 572b1eefe0e5e6450c745587c3db4de7bd3adddb5eaabe584a04847f081786e2
+  personality-psychology:
+    sources:
+      pages/notes/extrovert-or-introvert.md: *id001
+  recurring-meetings:
+    sources:
+      posts/2026/time-bound-recurring-meetings.md:
+        content_hash: 857df8bed926fd576db790502f87e9c2258f146b18887584091a2e6d399e12dd
+  restaurant-recommendations:
+    sources:
+      posts/2026/my-food-preferences.md:
+        content_hash: a4aa01352abcae9e0902f985d7d8c0bfcbd504299886470278e085451eb4e53d
+  rofi:
+    sources:
+      posts/2026/rofi-vs-kanata.md:
+        content_hash: fc32a877ddaa3ca53614517ed0d27bee3297422748f0e590b1761fd843a71de6
+  startup-postmortems:
+    sources:
+      posts/2026/learnings-from-building-babbage-insight.md:
+        content_hash: c03c9f99235f66df9c8e913c20cc1527cf82a79860c59e1a626e3dbc16ca9cc1
+  taxation:
+    sources:
+      posts/2026/ai-tax-returns-2026.md:
+        content_hash: f2eca00444d8593e60e93a6cdcfbd7b254aa489c6573bf907baf90a03eea9b86
+  tea:
     sources:
       posts/2026/a-tea-perspective.md:
-        content_hash: 751d35538b6c60a21533e106e1deff9f95d0f343e5236310678af0d4182447d0
+        content_hash: c0f04fa4147ba74004e33957cff7ec116e31959bc9e9dd14447e5860866d21bc
+  travel-hacks:
+    sources:
+      posts/2026/watching-videos-with-a-phone-case.md:
+        content_hash: 32862c74edc7c9968455f3493695e33be907ca014be83ef949116a484c8e7eef
+      posts/2026/watching-videos-with-a-plastic-cover.md:
+        content_hash: cfe16e95e63c3c71133d7cb19989e0c9e6a886e2c2f9ef1f041acda6a52ca698
+  weather:
+    sources:
+      posts/2026/rainy-seasons-on-schedule.md:
+        content_hash: 8b5c134f5dfbd38a59fc5848b3c82c8571f930a7cb46499005b4c2d809ba62db
+  webassembly:
+    sources:
+      posts/2026/things-i-learned-19-apr-2026.md:
+        content_hash: ec545ec1c262245780be83b39a438cbc4a0dcc0369ac7936069412c503401061
+  z3:
+    sources:
+      posts/2026/proving-code-works-with-z3.md:
+        content_hash: 085cd162a96104d34f030df3133cfe1b460f5f848eb9bc428b85ad73adf1e57b

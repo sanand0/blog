@@ -2,11 +2,11 @@
 title: Self-discover LLM capabilities
 date: 2026-01-10T11:40:00+08:00
 categories:
-  - llms
-  - how-i-do-things
-description: I discovered hidden LLM capabilities by asking models like Claude to identify creative uses for their built-in tools. This led to generating stunning algorithmic videos using ffmpeg fractal filters, Python L-systems, and complex cellular automata.
-tags: [llms, ffmpeg, claude]
+- llms
+- how-i-do-things
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7415939924937379841/
+description: 'I found a useful way to discover AI agent capabilities: ask them what they can do, then have them try. Claude used FFmpeg and Python to create a stunning compilation of 10 algorithmic visualizations.'
+tags: [llms, ai-agents, ffmpeg, generative-ai]
 ---
 
 Q: "How do we learn what we can do with AI agents?"

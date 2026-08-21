@@ -2,9 +2,9 @@
 title: Things I Learned - 05 Apr 2026
 date: 2026-04-05T00:00:00+00:00
 categories:
-  - til
-description: I discovered useful Ubuntu window management shortcuts, compared jq and jaq for JSON formatting, and learned time-saving shell tricks. I also gained a clearer understanding of Diffie Hellman key exchange and observed GitHub Copilot's usage reset behavior.
-tags: [ubuntu, jq, bash, github-copilot, linux]
+- til
+description: This week I learned Ubuntu window-moving shortcuts, faster JSON pretty-printing with jq or jaq, that Copilot premium requests do not reset at 12 am UTC, and how Diffie–Hellman creates a shared secret.
+tags: [ubuntu, jq, shell-scripting, github-copilot]
 ---
 
 This week, I learned:

@@ -2,9 +2,9 @@
 title: Dancing with eyes closed
 date: 2026-08-09T11:55:44+05:30
 categories:
-    - how-i-do-things
-description: I took a step toward my goal of learning to dance by volunteering on stage at VizChitra. By closing my eyes and ignoring how I looked, I reconnected with the joy of dancing.
-tags: [personal-blog, goals, vizchitra, ilayaraja]
+- how-i-do-things
+description: I volunteered to dance at VizChitra, then closed my eyes and followed the beat despite feeling awkward. For a few minutes, it felt like dancing alone to Ilayaraja in my hostel room.
+tags: [personal-growth, goal-setting]
 ---
 
 One of my [goals this year](https://www.s-anand.net/blog/my-year-in-2025/) is to learn to dance.

@@ -2,9 +2,9 @@
 title: Tacit is just un-instrumented
 date: 2026-07-13T20:43:33+08:00
 categories:
-  - llms
-description: Tacit knowledge is just un-instrumented data. Use a simple framework comparing the cost of trial against the speed of verification to identify which skills and roles in your organization are most vulnerable to AI automation.
-tags: [automation, ai-automation, future-of-work, management, generative-ai]
+- llms
+description: 'A hotel key-card trick makes me question whether tacit skill is truly AI-proof: once we instrument what happens, cheap experiments and clear verification can turn it into training data.'
+tags: [ai-automation, enterprise-ai, knowledge-management]
 ---
 
 At [The Curzon Hotel](https://maps.app.goo.gl/VKT8FiANmzsehMHJA), my key card didn't work. But every time I went to the reception, they'd send a bellboy who would use the _same_ key card, jiggle it a bit, pull it in and out a few times, and the door would open.

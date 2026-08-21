@@ -2,10 +2,10 @@
 title: Calvin UMAP
 date: 2026-03-20T21:42:38+05:30
 categories:
-  - llms
-  - coding
-description: Embedding maps are a powerful way to explore large creative corpora, and the same method used for blog posts can reveal structure in something like Calvin and Hobbes.
-tags: [embeddings, calvin-and-hobbes, data-visualization]
+- llms
+- coding
+description: I created an embedding map of Calvin & Hobbes using the same process as my blog-post map, revealing how the comic strips group together visually.
+tags: [data-visualization, embeddings, calvin-and-hobbes]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-20-calvin-umap.avif)

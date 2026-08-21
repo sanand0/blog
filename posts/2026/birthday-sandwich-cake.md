@@ -4,9 +4,9 @@ date: '2026-02-27T12:27:16+08:00'
 categories:
 - how-i-do-things
 - llms
-description: AI creativity is surprisingly useful under domestic constraints, turning ordinary pantry ingredients into a meaningful birthday celebration.
-tags: [ai-creativity, family]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7433009768656683008/
+description: I asked Claude how to celebrate my daughter’s birthday with bread, Nutella, peanut butter, and jam, then made a surprisingly convincing sandwich cake surrounded by tealight candles.
+tags: [ai-creativity, claude]
 ---
 
 It's not every day your daughter turns 20.

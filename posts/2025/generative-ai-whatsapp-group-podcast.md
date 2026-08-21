@@ -1,4 +1,5 @@
 ---
+title: Generative AI WhatsApp Group Podcast
 date: "2025-07-01T04:07:38Z"
 categories:
   - linkedin

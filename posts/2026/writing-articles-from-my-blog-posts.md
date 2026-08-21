@@ -3,8 +3,8 @@ title: Writing articles from my blog posts
 date: '2026-02-16T18:03:12+08:00'
 categories:
 - llms
-description: A personal blog archive can be turned into publishable audience-specific articles when AI handles outlet research, topic selection, and drafting in your voice.
-tags: [content-repurposing, blog-archive]
+description: I used Gemini to research Built In, find a topic in my blog archive, and assemble an article from my words. After two poor drafts, a fresh chat produced a mostly authentic edit.
+tags: [content-repurposing, llms, writing-style, gemini]
 ---
 
 You can use AI to submit not just [talk proposals](/blog/submitting-an-ai-ded-vizchitra-proposal/) but entire articles from your past work.

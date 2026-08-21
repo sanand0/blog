@@ -2,9 +2,9 @@
 title: Things I Learned - 21 Jun 2026
 date: 2026-06-21T00:00:00+00:00
 categories:
-  - til
-description: I share techniques for mental closure in conversations and steering AI agents mid-task. I also cover ug search shortcuts, VS Code fixes, and why harness engineering is the new bottleneck for AI quality.
-tags: [codex, vs-code, git]
+- til
+description: I learned that harness design now matters more than prompt design, how Codex's new controls improve agent work, why mental closure helps intense conversations, and a faster way to search files.
+tags: [ai-agents, codex-cli, productivity]
 ---
 
 This week, I learned:

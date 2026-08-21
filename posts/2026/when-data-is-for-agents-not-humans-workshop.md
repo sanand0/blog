@@ -2,11 +2,11 @@
 title: When Data is for Agents Not Humans Workshop
 date: 2026-06-29T18:00:00+08:00
 categories:
-  - talks
-  - llms
-description: Join my workshop to learn how to restructure datasets for LLM agents rather than humans. We'll test hands-on techniques like prioritizing functions over tables, leveraging logs over docs, and using agents to rebuild raw data.
-tags: [data-engineering]
+- talks
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7477379483147100160/
+description: I’m running a hands-on Fifth Elephant workshop on 7 July 2026 to test how agents use data, rebuild a dataset for them, and use agents to improve it.
+tags: [ai-agents, data-engineering, llms]
 ---
 
 For thirty years, we cleaned data for humans.

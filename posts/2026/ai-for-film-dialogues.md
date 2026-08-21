@@ -3,9 +3,9 @@ title: AI for film dialogues
 date: '2026-03-01T19:13:05+08:00'
 categories:
 - llms
-description: AI tools can extract, translate, and reinterpret film dialogue quickly enough to make cinema analysis more accessible across languages.
-tags: [translation, transcription]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7436077764690075648/
+description: I used ffmpeg, AI Studio, and Gemini to transcribe, translate, and improve a Telugu dialogue from Vasu, replacing weak examples with Prakash Padukone–Deepika Padukone and R. Madhavan–Vedaant.
+tags: [llms, cinema, translation, transcription]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-01-ai-for-film-dialogues.avif) <!-- https://gemini.google.com/u/2/app/75cbc8e4441ae701 -->

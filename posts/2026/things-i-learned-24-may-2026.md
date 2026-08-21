@@ -2,9 +2,9 @@
 title: Things I Learned - 24 May 2026
 date: 2026-05-24T00:00:00+00:00
 categories:
-  - til
-description: I built a scraper for Google Linked apps, tracked BitWarden’s pricing shifts, and benchmarked audio transcription models. I also explored space survival mechanics, Mars' moons etymology, and why children's vision is better for surprise than focus.
-tags: [anthropic, qwen, whisper, gemini]
+- til
+description: I learned that Bitwarden may be heading toward a private-equity sale, Andrej Karpathy joined Anthropic, Qwen models trail the frontier, and I built a scraper to list Google-linked apps.
+tags: [llms, google, transcription, open-source]
 ---
 
 This week, I learned:

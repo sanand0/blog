@@ -2,12 +2,12 @@
 title: Data Stories with AI Workshop
 date: 2026-06-08T16:26:32+05:30
 categories:
-    - llms
-    - education
-    - visualization
-description: Join my workshop on June 13 to master data storytelling using ChatGPT and Claude. You'll learn to find datasets, extract insights, and create visualizations, regardless of your technical background or journalism experience.
-tags: [data-storytelling, data-visualization, llms, data-journalism]
+- llms
+- education
+- visualization
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7470074745900802048/
+description: I conducted a practical online workshop where participants used ChatGPT and Claude to find data, analyze it, and turn insights into visual stories, with lessons on prompting, checking, coding, and feedback.
+tags: [data-storytelling, data-visualization, llms]
 ---
 
 On Sat 13 Jun 2026 at 3 pm, I conducted an online workshop on [Data Stories with AI](https://sanand0.github.io/talks/2026-06-13-data-stories-with-ai/).

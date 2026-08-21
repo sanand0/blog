@@ -2,9 +2,9 @@
 title: LLM Deprecations and Price Changes
 date: 2026-05-21T14:02:10+08:00
 categories:
-  - llms
-description: I analyze how LLM providers like Google and OpenAI are shifting from cheap customer acquisition to value extraction. To manage rising costs and deprecations, I recommend using multi-tier routing and evaluating models based on completed-task costs.
-tags: [llm-pricing, gemini-flash, gpt-5]
+- llms
+description: I examine how Gemini, GPT, and Claude model prices change as capabilities improve, why deprecations can raise costs and latency, and how routing and completed-task benchmarks help enterprises adapt.
+tags: [llm-pricing, enterprise-ai, llm-evaluation]
 ---
 
 A colleague told me a near-miss horror story.

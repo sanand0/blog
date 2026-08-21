@@ -2,9 +2,9 @@
 title: Things I Learned - 02 Aug 2026
 date: 2026-08-02T00:00:00+00:00
 categories:
-  - til
-description: I learned about efficient video codecs, compared AI transcription costs, and explored Ruff's new rules. I also reflected on AI's impact on software engineering, open-sourcing knowledge work, and the human role in curating AI-generated content.
-tags: [llms, ai-automation, software-engineering, transcription, gemini, claude, open-source, video-processing]
+- til
+description: I learned that WebM can compress 38 PNGs far smaller than animated image formats, transcription costs vary across Gemini models, and good AI benchmarks should be easy to verify.
+tags: [llms, ai-agents, software-engineering, open-source]
 ---
 
 This week, I learned:

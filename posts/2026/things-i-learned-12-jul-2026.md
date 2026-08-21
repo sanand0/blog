@@ -2,9 +2,9 @@
 title: Things I Learned - 12 Jul 2026
 date: 2026-07-12T00:00:00+00:00
 categories:
-  - til
-description: I learned about AI's accelerating pace, new business models like neofirms and AI rollups, and the shift from AI-generated commit messages. Discoveries included Smart TVs scraping data, Claude Code's steganography, and using Kaggle CLI via Codex for problem-solving.
-tags: [llms, ai-agents, business-models, software-engineering, data-collection, claude, cli-tools]
+- til
+description: This week's notes cover applied AI engineering, why AI-generated commit messages feel less helpful, a subtle Cloudflare race bug, and smart TVs quietly serving data-collection networks.
+tags: [llms, business-models, claude-code, ai-agents]
 ---
 
 This week, I learned:

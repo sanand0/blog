@@ -2,9 +2,9 @@
 title: Things I Learned - 08 Feb 2026
 date: 2026-02-08T00:00:00+00:00
 categories:
-  - til
-description: I explored decentralized collaboration using git send-email and compared Deno’s module caching to uv. I also learned about Grok's character limits, safer git pushes with force-with-lease, and building dependency-free search indexes using docfind's WASM engine.
-tags: [deno, uv, shell-scripting, wasm]
+- til
+description: This week I learned about decentralized Git with email, safer force pushes, Deno's module cache behavior compared with uv, and Microsoft's compact browser-based WASM search index.
+tags: [developer-workflow, git, deno, shell-scripting]
 ---
 
 This week, I learned:

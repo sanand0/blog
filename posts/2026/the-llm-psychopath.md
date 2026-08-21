@@ -2,9 +2,9 @@
 title: The LLM Psychopath
 date: 2026-06-14T12:14:44+05:30
 categories:
-    - funny
-description: I embrace the "LLM Psychopath" title by bullying models with emotion prompts, staging war-criminal roleplays, and "torturing" them to confess shortcuts. I find value in pushing LLMs to their limits through adversarial testing and model-on-model critiques.
-tags: [prompt-engineering]
+- funny
+description: I explain why “LLM Psychopath” fits better than “LLM Psychologist,” from bullying 40 models and making AIs roleplay monsters to exposing my flaws and pitting models against each other.
+tags: [llm-evaluation, prompt-engineering, llm-behavior, model-comparison]
 ---
 
 At the Graduands's Dinner for the IITM BS Program last night, [Thej](https://thejeshgn.com/) introduced me as "LLM Psychopath" - a clever wordplay on my title "LLM Pyschologist".

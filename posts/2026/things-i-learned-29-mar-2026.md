@@ -2,9 +2,9 @@
 title: Things I Learned - 29 Mar 2026
 date: 2026-03-29T00:00:00+00:00
 categories:
-  - til
-description: I looked into "LLM Psychologist" job trends, OpenAI acquiring Astral, and the hedonic treadmill. I found new inference hardware hitting 30,000 tok/s and learned EARS syntax for better requirements engineering while experimenting with agentic git patterns.
-tags: [personal-update, ai-coding, technology-trends, vibe-coding, hardware-trends, ai-agents]
+- til
+description: I learned about Meta and YouTube's addictive-design fines, the growing “LLM psychologist” job title, OpenAI's Astral acqui-hire, faster AI chips, and practical patterns for AI coding agents.
+tags: [personal-update, llms, ai-coding-agents, hardware-trends]
 ---
 
 This week, I learned:

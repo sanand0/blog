@@ -2,10 +2,10 @@
 title: IIM Alumni AI Workflows Workshop
 date: 2026-06-21T13:01:47+08:00
 categories:
-    - llms
-description: 'I shared six AI workflows: use Google AI Studio for transcripts, transform text into visual stories, verify risky claims with certainty flags, build reusable skills, force creative range during brainstorming, and automate personal relationship nudges.'
-tags: [google-ai-studio, transcription, verification]
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7474328099581513729/
+description: 'I ran an IIM Alumni workshop in Singapore on AI tools and workflows: transcribing recordings with Google AI Studio, verifying claims across models, and building reusable skills.'
+tags: [ai-workflows, ai-agents, google-ai-studio, productivity]
 ---
 
 The theme of yesterday's workshop for the IIM Alumni at Singapore was **Tools and Workflows** was:

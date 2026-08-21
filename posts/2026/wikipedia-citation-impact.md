@@ -2,12 +2,12 @@
 title: Wikipidia Citation Impact
 date: 2026-05-28T10:00:58+08:00
 categories:
-  - visualisation
-  - data
-  - llms
-description: I analyzed Wikipedia citation data to identify the most critical domains. While the Internet Archive is cited most often, niche sites like Statistics Poland or sports-reference.com are the sole references for tens of thousands of unique pages.
-tags: [wikipedia, data-visualization, internet-archive, web-archiving]
+- visualisation
+- data
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7465584910683189248/
+description: 'I analyzed which domains would most damage Wikipedia if they disappeared: Statistics Poland is the sole source for over 45,000 pages, while Internet Archive appears on 2.9 million.'
+tags: [data-analysis, data-visualization, wikipedia]
 ---
 
 Imagine you're an information anarchist. You undermine Wikipedia pages by nuking references.

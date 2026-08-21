@@ -2,10 +2,10 @@
 title: Using Codex as my OS
 date: 2026-04-23T21:06:28-04:00
 categories:
-  - llms
-  - coding
-description: By running programs through an AI coding agent like Codex rather than executing them directly, you create an agentic operating system that automatically installs dependencies, handles configuration changes, and debugs brittle scripts.
-tags: [ai-coding-agents, codex]
+- llms
+- coding
+description: 'I use Codex as an operating system: it installs and runs programs, then debugs configuration failures itself. When my WhatsApp scraper broke after a UI change, Codex found and fixed the parser.'
+tags: [operating-systems, ai-coding-agents, codex, agentic-workflows]
 ---
 
 Increasingly, I'm using Codex (or other AI coding agents) as the "operating system" to run programs. That is, rather than directly run programs, I have the coding agent run the program.

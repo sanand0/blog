@@ -2,9 +2,9 @@
 title: Things I Learned - 03 May 2026
 date: 2026-05-03T00:00:00+00:00
 categories:
-  - til
-description: I found LiteParse for PDF parsing and explored GPT 5.5's high pricing. I learned about eigenquestions, tracking Claude usage via local OAuth tokens, and why AI agents change which parts of organizational ontology matter most.
-tags: [gpt-5-5, claude-code, prompt-engineering, llm-pricing]
+- til
+description: This week I learned about LiteParse for PDFs, GPT-5.5's doubled pricing, querying Claude Code usage, and why defining eigenquestions and customer terms matters more than exhaustive ontologies.
+tags: [llms, llm-pricing, claude-code, ai-agents]
 ---
 
 This week, I learned:

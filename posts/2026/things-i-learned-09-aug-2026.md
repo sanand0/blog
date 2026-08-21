@@ -2,9 +2,9 @@
 title: Things I Learned - 09 Aug 2026
 date: 2026-08-09T00:00:00+00:00
 categories:
-  - til
-description: AI agents are evolving rapidly, showing expert capabilities in business cases and data structuring. Understand their limitations (e.g., plugin interactions, adoption challenges) and how to design verifiable systems with specific permissions to leverage their full potential.
-tags: [ai-agents, llms, automation, ai-adoption, chatgpt, use-cases, systems-thinking, enterprise-ai]
+- til
+description: 'I learned that reliable agents need explicit exit criteria, drift correction, narrow permissions, and benchmarks. AI adoption is also jagged: many organizations still limit users to weaker tools and capabilities.'
+tags: [ai-agents, ai-adoption, verification]
 ---
 
 This week, I learned:

@@ -2,9 +2,9 @@
 title: Get this blog via email on Google Groups
 date: 2026-01-05T17:50:35+08:00
 categories:
-  - how-i-do-things
-description: I’m bringing back email subscriptions for my blog via a Google Group. I developed a Python script using Claude, markdown2, and premailer to format and send my posts as HTML emails through the Gmail API.
-tags: [google-groups, python]
+- how-i-do-things
+description: I created a Google Group for email updates whenever I publish new blog posts. I’ll post updates manually at first, then automate them using a Python script.
+tags: [google-groups, email, google-api, python]
 ---
 
 **TL;DR**: [Join this Google Group](https://groups.google.com/g/s-anand) to get my blog updates via email.

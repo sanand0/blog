@@ -2,10 +2,10 @@
 title: People skills with AI
 date: 2026-05-17T22:45:57+08:00
 categories:
-  - llms
-description: I built a WhatsApp export script and used Claude via my Local MCP connector to identify people deserving of thanks. The AI helped me discover hidden support for my workshops, teaching me how to be more human.
-tags: [whatsapp, claude, local-mcp, automation, scripting, gratitude]
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7461792828352811008/
+description: I exported my WhatsApp conversations, asked Claude who deserved an unreasonable thank-you, and discovered Nayana Jain’s unseen work promoting my AI workshops. AI helped me notice and appreciate someone I had overlooked.
+tags: [llms, claude, local-mcp]
 ---
 
 ![](https://files.s-anand.net/images/2026-05-17-iim-alumni-singapore-workshop-poster.avif)

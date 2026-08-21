@@ -2,9 +2,9 @@
 title: Creating a favicon from SVG
 date: 2026-01-01T02:03:52Z
 categories:
-  - coding
-description: I create small, optimized favicons by converting SVGs to PNGs with ImageMagick, compressing them via oxipng, and bundling them into a multi-layer ICO file using icotool to avoid the bloated files typical of online generators.
-tags: [svg]
+- coding
+description: I show how to turn a tiny SVG favicon into a compact, PNG-compressed favicon.ico using ImageMagick, oxipng, and icotool, producing a 4.6K file without changing HTML.
+tags: [svg, web-development]
 ---
 
 ![Favicon PNG sizes](https://files.s-anand.net/images/2026-01-01-favicon-png-sizes.webp)

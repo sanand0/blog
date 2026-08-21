@@ -2,11 +2,11 @@
 title: How I use AI to teach
 date: 2026-03-20T07:12:47+05:30
 categories:
-  - education
-  - llms
-  - how-i-do-things
-description: AI can reshape teaching most effectively when it changes the structure of learning and assessment, not just the speed of content creation.
-tags: [ai-in-education, assessment, pedagogy, tools-in-data-science, experimentation]
+- education
+- llms
+- how-i-do-things
+description: "I share how I've used AI in my Tools in Data Science course: teaching through exams and prompts, designing assessment to make cheating pointless, building course content, and analyzing learning data."
+tags: [ai-in-education, assessment-design, ai-agents]
 ---
 
 I've been using AI in my [Tools in Data Science](https://tds.s-anand.net/) course for over two years - to teach AI, _and_ using AI to teach.

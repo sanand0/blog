@@ -2,9 +2,9 @@
 title: First 4 words of 2026
 date: 2026-01-03T10:02:39+08:00
 categories:
-  - funny
-description: I encountered a 2026 mantra word puzzle and surprisingly spotted 'WORK' first, even though it was jumbled. My other findings included self-care, family, and breakthrough, setting a lighthearted tone for the year ahead.
-tags: [humor]
+- funny
+description: I saw WORK first in a jumbled WhatsApp “first four words” mantra puzzle for 2026, despite its letters appearing as O-R-W-K. A small, funny start to the year.
+tags: [humor, jigsaw-puzzle]
 ---
 
 It's amazing that the first word I saw in this alphabet soup was "WORK" - even though it was jumbled up!

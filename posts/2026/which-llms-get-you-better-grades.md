@@ -4,9 +4,9 @@ date: '2026-03-06T19:26:47+08:00'
 categories:
 - education
 - llms
-description: Students using different LLMs perform differently enough that model choice appears to have a real impact on grades.
-tags: [llm-comparison, education, student-performance]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7435669110027489280/
+description: I analyzed 333 students’ results and found Perplexity and Claude users scored about 11 and 9 points more than ChatGPT users. Model choice mattered; timing did not significantly change the effect.
+tags: [llm-comparison, ai-in-education, student-performance, data-analysis]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-06-which-llm-get-you-better-grades.avif) <!-- https://gemini.google.com/app/72f962e80615e800 -->

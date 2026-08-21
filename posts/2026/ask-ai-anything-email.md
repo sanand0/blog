@@ -2,10 +2,10 @@
 title: Ask AI Anything Email
 date: 2026-08-10T09:57:31+05:30
 categories:
-    - llms
-    - how-i-do-things
-description: I connected an AI agent to my personal context—emails, calendar, notes, and code—to answer questions. It often beats me in speed. Email askai@s-anand.net by August 31, 2026, to test it out.
-tags: [ai-agents, experiments, productivity, s-anand, ai-automation, knowledge-management]
+- llms
+- how-i-do-things
+description: I ran an experiment where an AI agent answered colleagues' questions using my knowledge and connected email, Drive, calendar, notes, and code. It often outperformed me, but sometimes missed human nuance.
+tags: [ai-agents, personal-data, knowledge-management]
 ---
 
 I ran, an experiment in Straive. I asked my colleagues to mail me any questions or tasks that they had. I'd use my agents + my knowledge as context and reply based on that.

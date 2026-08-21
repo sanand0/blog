@@ -2,9 +2,9 @@
 title: Should we fix poor design
 date: 2026-08-14T10:09:23+05:30
 categories:
-    - how-i-do-things
-description: I explore whether frustrating design flaws—unmixed sweetness, awkward cups, and delayed chocolate—should be fixed, or whether the struggle creates delight, play, anticipation, and a uniquely human experience AI may lack.
-tags: [game-design, calvin-and-hobbes, humor, decision-making, ai]
+- how-i-do-things
+description: I wonder whether unmixed sweetness, a hard-to-reach tea cup, and chocolate after abstinence are poor design—or delightful friction that turns ordinary experiences into games, as Calvin and Hobbes understood.
+tags: [user-experience, product-design]
 ---
 
 Sugar (or condensed milk) in tea I get often stays unmixed at the bottom. I forget to stir it.

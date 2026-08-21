@@ -3,8 +3,8 @@ title: When to use which Gemini mode
 date: '2026-02-02T08:15:16+08:00'
 categories:
 - llms
-description: Fast, Thinking, and Pro are best treated as task-specific Gemini modes rather than generic quality tiers, because each one fits a different kind of job.
-tags: [gemini, prompting, productivity, ai-workflows]
+description: I use Gemini's Fast mode for simple tasks, Thinking for multi-step reasoning, and Pro for huge inputs or high-stakes problems. If Pro runs out, Thinking handles most jobs well.
+tags: [gemini, llms]
 ---
 
 I continue to be impressed by Gemini 3 and it's become my default agent. It writes in simpler language than ChatGPT (almost as eloquent as Claude), has much larger limits, and, of course, is [unbeaten at generating images](https://www.s-anand.net/blog/gemini-copies-images-almost-perfectly/).

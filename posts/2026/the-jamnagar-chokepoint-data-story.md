@@ -2,12 +2,12 @@
 title: The Jamnagar Chokepoint - Data Story
 date: 2026-01-01T03:14:11Z
 categories:
-  - llms
-  - data
-  - visualisation
+- llms
+- data
+- visualisation
 classes: wrap-code
-description: I used Codex for rigorous data analysis and Claude for narrative visualization to build a 'The Verge' style data story about Indian trade. My workflow highlights identifying high-impact patterns like the Jamnagar export chokepoint.
-tags: [codex, claude, india, data-storytelling, parquet, data-visualization]
+description: I used Codex to investigate an Indian export-import dataset, then had Claude turn the findings into an interactive data story about the Jamnagar chokepoint, with prompts and analysis.
+tags: [data-analysis, data-storytelling, india, llms]
 ---
 
 [![The Jamnagar Chokepoint](https://sanand0.github.io/datastories/exim/screenshot.webp)](https://sanand0.github.io/datastories/exim/)

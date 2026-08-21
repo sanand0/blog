@@ -4,8 +4,8 @@ date: '2026-03-01T18:26:13+08:00'
 categories:
 - llms
 - tools
-description: Letting Codex analyze your past Codex sessions is an effective way to discover underused features and improve how you use the tool itself.
-tags: [codex, self-improvement, developer-workflow, tooling]
+description: I asked Codex to analyze my sessions against its latest features. It found I was underusing parallel execution and permissions, then added practical guidance to my AGENTS.md so Codex could optimize itself.
+tags: [self-analysis, codex, developer-workflow]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-01-using-codex-to-improve-codex.avif) <!-- https://gemini.google.com/app/e32860c560c9df57 -->

@@ -4,8 +4,8 @@ date: '2026-03-08T17:08:54+08:00'
 categories:
 - coding
 - llms
-description: Public repositories leak surprising numbers of API keys, and the patterns of leakage reveal as much about developer behavior and incentives as about security hygiene.
-tags: [github, security, education]
+description: I scanned about 5,000 student GitHub accounts with TruffleHog and found many leaked API keys. Google had revoked most Gemini keys, but ten public keys and other service keys still worked.
+tags: [security, data-analysis, gemini-api]
 ---
 
 It's impressive how easy it is to find leaked API keys in public repositories. I asked Codex to run [trufflehog](https://github.com/trufflesecurity/trufflehog) on ~5,000 student GitHub accounts and (so far, after a few hours, 15% coverage), it found quite a few.

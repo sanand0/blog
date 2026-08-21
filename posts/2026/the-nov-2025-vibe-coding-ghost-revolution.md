@@ -2,11 +2,11 @@
 title: The Nov 2025 Vibe Coding Ghost Revolution
 date: 2026-03-23T11:21:42+05:30
 categories:
-  - coding
-  - llms
-description: The much-hyped return of dormant programmers through vibe coding appears far smaller in observable public data than the narrative suggests.
-tags: [vibe-coding, github, ai-adoption]
+- coding
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7442006434013261825/
+description: I checked GitHub activity for about 1,700 developers and found exactly ten dormant returners after the November 2025 AI releases. The broader increase seems driven more by newcomers than returning developers.
+tags: [data-analysis, vibe-coding, github]
 ---
 
 ![](https://sanand0.github.io/datastories/github-usage-increase/sketchnote.avif)

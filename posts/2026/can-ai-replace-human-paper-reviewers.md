@@ -2,10 +2,10 @@
 title: Can AI Replace Human Paper Reviewers?
 date: 2026-01-13T09:55:45+05:30
 categories:
-  - llms
-  - visualisation
-description: I analyzed the Agents for Science conference data using ChatGPT and Claude to compare AI peer reviewers. I found they wildly disagree and exhibit 100% false confidence, though they excel at catching factual hallucinations.
-tags: [peer-review, llms, data-analysis, hallucination, academic-publishing]
+- llms
+- visualisation
+description: I analyzed 315 AI-authored papers reviewed by three AI systems and humans. The AIs often disagreed, overstated confidence, and scored papers more generously, but caught obvious factual problems.
+tags: [data-analysis, peer-review, llms, hallucination]
 ---
 
 Stanford ran a conference called [Agents for Science](https://agents4science.stanford.edu/). It's a conference for AI-authored papers, peer reviewed by AI.

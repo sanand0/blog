@@ -2,9 +2,9 @@
 title: Things I Learned - 07 Jun 2026
 date: 2026-06-07T00:00:00+00:00
 categories:
-  - til
-description: I discovered how verifiable environments speed up AI training, experimented with Gemma 4 12B and git subtree, and explored Claude Code’s agent teams. I also researched threshold concepts and the challenge of learning tacit knowledge.
-tags: [claude-code, model-context-protocol]
+- til
+description: This week I learned why easy verification accelerates AI, explored Claude Code’s agent teams and background agents, and found practical notes on MCP’s simplification, Gemma 4 12B, and git subtree.
+tags: [ai-agents, claude-code, model-context-protocol, learning]
 ---
 
 This week, I learned:

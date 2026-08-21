@@ -2,10 +2,10 @@
 title: ChatGPT is about FIDE 1600
 date: 2026-05-28T16:04:51+08:00
 categories:
-  - llms
-description: I tested ChatGPT against Stockfish to measure its chess strength. By prompting it to analyze moves specifically, GPT-5.5 defeated Stockfish Level 6, suggesting a FIDE rating of approximately 1600 despite no specialized training.
-tags: [chatgpt, gpt-5-5, chess]
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7465941236084961281/
+description: 'I had GPT-5.5 play Stockfish: after losing at level 5 and above with a fixed policy, it analyzed each move and beat level 6, suggesting roughly 1600 FIDE strength.'
+tags: [llms, chatgpt, gpt-5-5, chess]
 ---
 
 I asked ChatGPT to play chess with [Stockfish](https://stockfishchess.org/). Stockfish is a "strong open-source chess engine". It has 8 levels of difficulty, which [roughly maps to these FIDE levels](https://share.google/aimode/yA9NvnPcsZ1TFtmna):

@@ -2,11 +2,11 @@
 title: NPTEL Applied Vibe Coding Workshop
 date: 2026-01-11T22:53:28+08:00
 categories:
-  - llms
-  - coding
-  - education
-description: I summarize my NPTEL workshop on vibe coding, sharing over thirty lessons on building apps via natural language. I cover practical prompt frameworks, iterative workflows, and security frameworks like Simon Willison's 'lethal trifecta' for AI development.
-tags: [vibe-coding, prompt-engineering, llms, software-development]
+- llms
+- coding
+- education
+description: I shared the video, summary, transcript, and lessons from my NPTEL Applied Vibe Coding Workshop, covering practical AI-assisted app building, personal data analysis, prompting, security, and learning by doing.
+tags: [vibe-coding, prompt-engineering, ai-education, computer-security]
 ---
 
 For those who missed my [Applied Vibe Coding Workshop](https://elearn.nptel.ac.in/shop/iit-workshops/ongoing/computer-science/applied-vibe-coding-workshop/) at NPTEL, here's the video:

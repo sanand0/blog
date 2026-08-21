@@ -2,9 +2,9 @@
 title: An email interface to AI
 date: 2026-07-27T20:01:34+08:00
 categories:
-  - llms
-description: I turned my email into an AI agent, "Ask Anand's AI," to answer internal questions using my personal data and tools. This improves responsiveness, provides better answers, and helps nudge organizational AI adoption by leveraging trusted human interfaces.
-tags: [email-client, ai-agents, ai-adoption, productivity, automation, personal-data, llms, research-workflows]
+- llms
+description: I turned my email address into an AI interface, connecting ChatGPT to my email, files, transcripts, and tools. It answered colleagues' questions, found forgotten presentations, fixed a PowerPoint issue, and helped me reach inbox zero.
+tags: [ai-agents, email-client, personal-data, ai-adoption]
 ---
 
 ![](https://files.s-anand.net/images/2026-07-27-an-email-interface-to-ai.avif)

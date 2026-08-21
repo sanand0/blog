@@ -2,9 +2,9 @@
 title: Things I Learned - 17 May 2026
 date: 2026-05-17T00:00:00+00:00
 categories:
-  - til
-description: I used AI to develop intentional communication habits, explored standard taxonomies for linked data, and tested the BitWarden CLI. I also experimented with flipbook.page's generative UI and measured Lenovo Thinkpad charging speeds with high-wattage adapters.
-tags: [prediction-markets, generative-ai]
+- til
+description: I learned to ask what others and I must take away from conversations; linked data and AI make taxonomies useful; Bitwarden’s CLI avoids plaintext passwords; flipbook.page offers visual exploration.
+tags: [generative-ai, ai-coding-agents, prediction-markets]
 ---
 
 This week, I learned:

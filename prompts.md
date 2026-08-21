@@ -1,5 +1,10 @@
 # Prompts
 
+## Improve summarization, 21 Aug 2026
+
+<!-- https://chatgpt.com/c/6a87fc22-51d0-83ee-8381-200ce9144a72 updated justfile and ~/code/scripts/summarize.py -->
+
+
 ## Fix skills URL, 18 Aug 2026
 
 <!--
@@ -270,7 +275,7 @@ Also, Improve the UI for:
 
 - the search link location. Currently, .nav is on one line, with the .logo inside it, which includes a .logo-switches containing the dark mode; the #menu is on the next line. This doesn't look nice. Put it on one line, elegantly.
 - .footer has 3 .footer-columns in one row, and then the fourth dangling - in desktop view. I'd like to see all 4 columns in one row to the extent possible. I don't mind .footer being wider. Do ensure resonsiveness.
-- The design of `<sup>` doesn't look nice. Is there a better UI to indicate the number of posts in /blog/tag/*/? E.g. as a small circle with the number inside it, or something else? It doesn't have to be a `<sup>` tag - use whatever is semantic.
+- The design of `<sup>` doesn't look nice. Is there a better UI to indicate the number of posts in /blog/tag/\*/? E.g. as a small circle with the number inside it, or something else? It doesn't have to be a `<sup>` tag - use whatever is semantic.
 - The `<time>` in `.related-posts` is YYYY-MM-DD. I prefer something like `Wed, 3 Jul 2002`.
 
 ---
@@ -289,7 +294,7 @@ If we're committing, I'd like the related posts to be more compact, e.g. just th
 Also, if we're committing, maybe partitioning the file, e.g. by year or something, might help keep the git objects from bloating too much.
 Of course, I'm not convinced this is a good idea in the first place.
 
-----
+---
 
 Commit everything, including my changes (prompts.md, blog posts), in logical groups.
 

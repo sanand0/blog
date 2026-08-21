@@ -2,10 +2,10 @@
 title: Local context repositories for AI
 date: 2026-03-20T07:12:47+05:30
 categories:
-  - llms
-  - how-i-do-things
-description: AI agents become much more useful when they can access curated personal context repositories, because better local context leads to better idea selection and recommendations.
-tags: [context-engineering, ai-agents, developer-workflow]
+- llms
+- how-i-do-things
+description: I use read-only Docker mounts to give AI coding agents local access to my blog, notes, and transcripts, then ask them to scan the content, use sub-agents, and return structured JSON.
+tags: [context-engineering, ai-agents, ai-coding-agents, personal-data]
 ---
 
 When people ask me for connections, I share my [LinkedIn data](https://www.linkedin.com/mypreferences/d/download-my-data) and ask them to pick.

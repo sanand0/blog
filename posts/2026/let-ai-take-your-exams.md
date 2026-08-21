@@ -2,11 +2,11 @@
 title: Let AI take your exams
 date: 2026-06-12T08:10:56+05:30
 categories:
-  - llms
-  - education
-description: Join my workshop to watch AI tackle real IITM exams live. I’ll show you how to move beyond answer-seeking to using LLMs as Socratic sparring partners for catching errors and deepening your actual learning.
-tags: [iitm, coding-agents, socratic-method, exam-strategy]
+- llms
+- education
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7471031411936874496/
+description: 'I ran a workshop at IIT Madras showing Codex solve a real exam live. My takeaway: delegate what AI can do, and learn to catch what it gets wrong.'
+tags: [ai-in-education, ai-agents, learning-strategies]
 ---
 
 At 2 pm IST today (Fri 12 Jun 2026), I conducted a workshop at [Paradox, IITM](https://www.iitmparadox.org/workshops) - at [DOMS 101](https://doms.iitm.ac.in/).

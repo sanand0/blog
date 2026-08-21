@@ -3,8 +3,8 @@ title: AnalAIzing Cloud Costs
 date: '2026-03-01T16:21:25+08:00'
 categories:
 - llms
-description: Coding agents can inspect repository-level cloud billing and uncover practical patterns for driving recurring infrastructure costs close to zero.
-tags: [coding-agents, automation]
+description: I asked Codex to audit my $6.71 GitHub bill and found I was far below the free Actions limit. It also uncovered minute-floor billing, Copilot workflows, and a cheaper blog deployment.
+tags: [coding-agents, data-analysis, forecasting]
 ---
 
 <!--

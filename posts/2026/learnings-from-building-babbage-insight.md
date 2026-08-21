@@ -4,8 +4,8 @@ date: '2026-01-19T18:50:19+05:30'
 categories:
 - links
 - business-realities
-description: Shutdown postmortems are valuable because they preserve startup lessons that would otherwise disappear inside transient social platforms.
-tags: [linkedin]
+description: "I found Karthik Shashidhar's candid lessons from shutting down Babbage Insight: data-warehouse access turned every sale into enterprise sales, and poor hiring drained time from building the business."
+tags: [startups, hiring, enterprise-ai]
 ---
 
 Here's a [great post](https://www.linkedin.com/pulse/learnings-from-building-babbage-insight-karthik-shashidhar-6k3xc/) by [Karthik Shashidhar](https://www.linkedin.com/in/karthikshashidhar/) on why they shut down Babbage Insight, and the learnings from the experience.

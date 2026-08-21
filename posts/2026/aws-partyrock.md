@@ -4,8 +4,8 @@ date: '2026-01-22T21:22:31+05:30'
 categories:
 - tools
 - llms
-description: No-code AI app builders can generate decent interfaces quickly, but they may hide weak implementations behind repeated model calls instead of real software.
-tags: [vibe-coding]
+description: I compared Codex and AWS PartyRock on a CSV-to-HTML table converter. Codex built working code; PartyRock repeatedly uses an LLM but offers editable, movable UI components, trading flexibility for robustness.
+tags: [vibe-coding, llms, ai-coding]
 ---
 
 I tried vibe-code a CSV to colored HTML table converter using [this prompt](https://github.com/sanand0/tools/blob/09ad622f1bfb662a5203593836ef765b99839e8a/colortable/prompts.md).

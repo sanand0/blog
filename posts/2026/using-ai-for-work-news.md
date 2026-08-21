@@ -4,8 +4,8 @@ date: '2026-02-14T14:32:16+08:00'
 categories:
 - business-realities
 - llms
-description: Workflow automation can turn scattered organizational signals into useful recurring newsletters that keep distributed teams aware of internal innovation.
-tags: [automation, ai]
+description: I set up Google Workspace Studio and Gemini to scan client news each week, then email and save a Malcolm Gladwell-style newsletter to Google Drive—an automated internal reporter.
+tags: [ai-automation, ai-workflows, gemini]
 ---
 
 This week, [Namit](https://www.linkedin.com/in/namit-sureka-43ab89) and I met a Straive team that operates from a client office. One team member asked:

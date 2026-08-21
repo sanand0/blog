@@ -5,9 +5,9 @@ categories:
 - llms
 - coding
 - how-i-do-things
-description: "Embedding maps can reveal the long-term evolution of a blog’s themes and eras, making decades of writing visually legible as clusters and transitions."
-tags: [embeddings, data-visualization]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7439154743433703424/
+description: I created an interactive embedding map of my blog, where similar posts cluster together. It makes the blog's evolution from link-blogging to LLMs since 1999 visibly clear.
+tags: [data-analysis, data-visualization, embeddings, blogging-history]
 ---
 
 I created an [embedding map of my blog posts](https://files.s-anand.net/blog/blogmap/).

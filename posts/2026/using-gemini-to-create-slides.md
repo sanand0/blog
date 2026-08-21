@@ -4,8 +4,8 @@ date: '2026-01-26T16:24:03+05:30'
 categories:
 - business-realities
 - llms
-description: Connecting Gemini to Drive and Gmail lets it assemble slide-ready client and proposal context directly from your working corpus.
-tags: [gemini, slides, gmail]
+description: Our client-facing teams connected Gemini to Drive and email, used it to find proposals and client material, then turned that research into editable slide decks in about 30 minutes.
+tags: [ai-automation, gemini, presentations, google]
 ---
 
 On Friday, our data & analytics client-facing teams connected [Gemini](https://gemini.google.com/) to their [Drive](https://drive.google.com/) and [Email](https://mail.google.com/):

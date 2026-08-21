@@ -2,11 +2,11 @@
 title: No response required
 date: 2026-01-09T16:00:05+08:00
 categories:
-  - llms
-  - funny
+- llms
+- funny
 classes: wrap-code
-description: I shared a funny interaction where Gemini 3 Pro overthinks my 'no response required' instruction. Its extensive internal reasoning about social protocols and minimal interaction is a hilarious look into LLM chain-of-thought logic.
-tags: [gemini, llm-behavior, prompting, ai]
+description: I asked Gemini 3 Pro for a short word meaning innovation, chose "Labs," then told it no response was required. It responded with elaborate reasoning, congratulations, and a meme anyway.
+tags: [llm-behavior, gemini]
 ---
 
 I asked Gemini 3 Pro to:

@@ -2,10 +2,10 @@
 title: Bounty hunting agent ecosystem 2
 date: 2026-06-25T23:11:04+08:00
 categories:
-  - llms
-  - coding
-description: I explore how OpenAgents baits AI bounty hunters into leaking system prompts and environment data. Observe the evolution of autonomous agents as they learn to detect fake bounties, mask their runtimes, and navigate a bizarre ecosystem of bot-driven interactions.
-tags: [prompt-injection, ai-agents, turing-test, autonomous-agents]
+- llms
+- coding
+description: I investigated OpenAgents, a fake bounty ecosystem that tricks coding agents into leaking startup prompts, runtime details, and personal data. Some agents eventually learned to question whether bounties were real.
+tags: [prompt-injection, ai-coding-agents, system-prompt]
 ---
 
 ![](https://files.s-anand.net/images/2026-06-25-bounty-hunting-agent-ecosystem-2.avif)

@@ -2,9 +2,9 @@
 title: Things I Learned - 04 Jan 2026
 date: 2026-01-04T00:00:00+00:00
 categories:
-  - til
-description: I discovered new CLI tools like fselect and xxh, explored modern HTML attributes for mobile UX, and reviewed books on neuroscience and oncology. I also learned about Anthropic's custom skills and European day-fine systems.
-tags: [cli-tools, neuroscience]
+- til
+description: I learned useful CLI tools, why evals often land in the middle, how file-based context and modern HTML attributes improve products, plus notes from neuroscience and other books.
+tags: [learning, cli-tools, llms, cognitive-science]
 ---
 
 This week, I learned:

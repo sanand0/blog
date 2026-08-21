@@ -2,9 +2,9 @@
 title: Watching videos with a phone case
 date: 2026-08-17T18:19:49+05:30
 categories:
-    - interesting-experiences
-description: I spot a clever passenger on my Singapore-to-Chennai flight using an airline headrest cover and phone case as a hands-free video holder—and learn a surprisingly simple travel hack.
-tags: [personal-blog, singapore, chennai, india, humor]
+- interesting-experiences
+description: I saw a passenger on an IndiGo flight from Singapore to Chennai use his phone case and the seat's headrest cover to hang his phone for hands-free video watching.
+tags: [travel-anecdote]
 ---
 
 Two months ago, I was impressed at the ingenuity of a lady who used a [plastic cover to watch videos](https://www.s-anand.net/blog/watching-videos-with-a-plastic-cover/) on a flight.

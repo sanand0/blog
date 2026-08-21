@@ -2,11 +2,11 @@
 title: TDS Project 1 was an experiment
 date: 2026-04-03T16:05:24+08:00
 categories:
-  - education
-  - llms
-description: The project was not just an assignment but a live experiment in how students perform on analytics versus design tasks in an AI era, revealing both strengths and gaps.
-tags: [ai-in-education, analytics, experimentation]
+- education
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7446017785836720128/
+description: 'I used TDS Project 1 as a research and social experiment: students tested analytics and design, contributed to open source, and began collaborating, with five making a real difference.'
+tags: [ai-in-education, assessment-design, open-source, experimentation]
 ---
 
 [TDS Project 1](https://sanand0.github.io/datastories/tds-2026-01-p1/) wasn't just a student project. It was a research and social experiment, too.

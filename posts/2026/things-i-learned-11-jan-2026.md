@@ -2,9 +2,9 @@
 title: Things I Learned - 11 Jan 2026
 date: 2026-01-11T00:00:00+00:00
 categories:
-  - til
-description: I explored diverse topics this week, from archiving software and NFL play-by-play data to the myths of learning styles. I also learned about Primo Levi’s chemistry analogies and how to use the HTML accesskey for keyboard shortcuts.
-tags: [learning, learning-strategies, psychology, keyboard-shortcuts, web-development, archiving]
+- til
+description: This week I learned that Software Heritage archives Git repositories, HTML accesskey adds keyboard shortcuts, effective learning needs testing and spacing, and discomfort can build freedom.
+tags: [learning, learning-strategies, psychology, digital-archives]
 ---
 
 This week, I learned:

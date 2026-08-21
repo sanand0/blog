@@ -3,8 +3,8 @@ title: Chrome Enterprise Premium access
 date: '2026-01-24T15:26:27+05:30'
 categories:
 - business-realities
-description: Heavy enterprise browser controls can unintentionally change work habits in ways that may reduce distraction as much as they reduce freedom.
-tags: [productivity]
+description: Straive enabled Chrome Enterprise Premium on my browser, blocking extensions, DevTools, downloads, copying, printing, and incognito mode while sending pages, pasted text, and attachments to admins. I now use Chrome only when office work requires it.
+tags: [productivity, google-chrome, browser-extensions, organizational-change]
 ---
 
 Straive turned on [Chrome Enterprise Premium](https://chromeenterprise.google/products/chrome-enterprise-premium/) on my browser. This means:

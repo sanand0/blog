@@ -5,8 +5,8 @@ categories:
 - how-i-do-things
 - llms
 classes: wrap-code
-description: Large transcript archives can be distilled into reusable advice by combining cheap long-context models for extraction with stronger models for final synthesis.
-tags: [transcripts, synthesis, gemini-flash, claude]
+description: I extracted AI advice from 400 call transcripts with Gemini Flash, combined the summaries, and used Gemini 3 Pro to synthesize them into a useful personal productivity guide for about $1.
+tags: [llms, transcripts, text-analysis]
 ---
 
 This weekend, two people asked me, roughly "How do I use AI better?"

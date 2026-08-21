@@ -2,10 +2,10 @@
 title: Tracking redirects minimally
 date: 2026-05-07T16:28:22+08:00
 categories:
-  - coding
-  - tools
-description: I use static HTML files with meta refresh tags and GoatCounter to track redirects minimally. Hosting these on CloudFlare R2 provides a fast, free alternative to shortener services like Bitly without the risk of vendor lock-in.
-tags: [cloudflare-r2, analytics]
+- coding
+- tools
+description: I built a simple tracking URL shortener with static HTML redirects, GoatCounter analytics, and personalized query parameters. It runs cheaply on Cloudflare R2 and avoids dependence on redirect services.
+tags: [web-analytics, static-sites, cloudflare-r2]
 ---
 
 Everyone needs a tracking URL shortener.

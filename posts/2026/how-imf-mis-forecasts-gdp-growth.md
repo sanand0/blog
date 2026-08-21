@@ -2,11 +2,11 @@
 title: How IMF mis-forecasts GDP growth
 date: 2026-06-22T10:41:30+08:00
 categories:
-  - data
-  - visualization
-  - llms
-description: I used LLMs to audit IMF GDP forecasts, revealing a systematic optimistic bias for future growth. You can use AI to fact-check institutional datasets, identify specific country-level errors, and generate interactive visualizations to expose hidden patterns.
-tags: [data-visualization, llms]
+- data
+- visualization
+- llms
+description: 'I used Claude and ChatGPT to analyze IMF GDP forecasts and built an interactive dot chart: current-year forecasts tend low, while next-year and later forecasts tend high.'
+tags: [forecasting, fact-checking, data-visualization, llms]
 ---
 
 The IMF forecasts GDP growth every year. Their forecasts for the current year are slightly low. Their forecasts for the next year are slightly high. After that, it remains high.

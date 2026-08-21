@@ -5,8 +5,8 @@ categories:
 - education
 - llms
 - how-i-do-things
-description: As intelligence gets cheaper, valuable work shifts toward framing, evaluation, context building, and delegating tasks to agents rather than executing every step manually.
-tags: [future-of-work, ai-agents, evaluation]
+description: 'I asked Claude to predict how AI changes work. It suggests execution becomes cheap, shifting value toward trust, presence, and direction: framing, evaluating, and taking responsibility.'
+tags: [future-of-work, ai-agents, forecasting]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-11-the-future-of-work-with-ai.avif) <!-- https://gemini.google.com/u/2/app/bad45f08e6f30526 -->

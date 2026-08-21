@@ -2,9 +2,9 @@
 title: Software Naming Has Power
 date: 2026-03-17T09:08:54+05:30
 categories:
-  - tools
-description: Names influence how software feels and spreads, because a tool’s emotional and linguistic resonance can shape adoption as much as its functionality.
-tags: [product-design, branding, developer-tools, language]
+- tools
+description: I reflect on how software names shape the pleasure of using tools, from typing “Win” in Windows 3 to saying “just” before commands like `just lint` and `just test`.
+tags: [branding, developer-tools]
 ---
 
 Software naming has power.

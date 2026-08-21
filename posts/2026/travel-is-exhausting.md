@@ -2,9 +2,9 @@
 title: Travel is exhausting
 date: 2026-04-16T10:11:40-07:00
 categories:
-  - links
-description: Though travel feels passive, constant physical micro-adjustments, sensory load, noise, and poor circulation make it tiring, and simple habits and supportive gear help reduce the drain.
-tags: [ergonomics]
+- links
+description: 'I explain why travel exhausts us even when we sit still: constant motion, sensory input, noise, restricted blood flow, and dry airplane air all take a toll. I share simple ways to feel better.'
+tags: [travel, ergonomics, cognitive-load]
 ---
 
 This is surprising because... well, we're just sitting and the vehicle's doing the work, right?

@@ -4,8 +4,8 @@ date: '2026-02-14T15:15:52+08:00'
 categories:
 - llms
 - visualisation
-description: Combining AI's chart generation, creativity, and persistence could turn it into a researcher for genuinely novel data visualizations.
-tags: [data-visualization, ai-creativity, research, vizchitra]
+description: I propose an exhibition where AI agents search for data visualizations that are novel, useful, and beautiful, then present their discoveries while I narrate and critique the results.
+tags: [data-visualization, llms, ai-creativity]
 ---
 
 Here's [my talk proposal](https://vizchitra.com/2026/submissions/can-ai-discover-new-data-visualizations-rgp55yp) for [VizChitra 2026](https://vizchitra.com/2026):

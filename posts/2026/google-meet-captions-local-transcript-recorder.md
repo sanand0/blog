@@ -2,11 +2,11 @@
 title: Google Meet captions as a local transcript recorder
 date: 2026-05-16T13:32:06+08:00
 categories:
-  - coding
-  - how-i-do-things
-  - llms
-description: A tiny Google Meet bookmarklet can stream live captions into local Markdown, making meeting transcripts agent-readable without waiting for platform exports.
-tags: [bookmarklet, markdown]
+- coding
+- how-i-do-things
+- llms
+description: I built a Google Meet bookmarklet that records live captions as local Markdown files. It stabilizes changing speaker turns before saving them, without a server, extension, login, or API.
+tags: [transcripts, browser-tools, context-engineering, google]
 ---
 
 ![](https://files.s-anand.net/images/2026-05-15-google-meet-captions-tool.avif)

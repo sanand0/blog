@@ -2,10 +2,10 @@
 title: Humans have taught LLMs well
 date: 2026-01-08T14:29:56+08:00
 categories:
-  - llms
-  - funny
-description: I mapped human cognitive flaws—like bullshitting, zoning out, and overconfidence—to specific LLM technical failures including hallucinations, the reversal curse, and verbosity bias. It turns out models have learned our worst mental habits perfectly.
-tags: [llms, hallucination]
+- llms
+- funny
+description: 'I compare familiar human flaws with LLM failure modes: bullshitting becomes hallucination, people-pleasing becomes sycophancy, zoning out becomes “lost in the middle,” and one-way memories become the reversal curse.'
+tags: [llms, llm-behavior, cognitive-science, hallucination]
 ---
 
 ![](https://files.s-anand.net/images/2026-01-08-humans-have-taught-llms-well.webp)

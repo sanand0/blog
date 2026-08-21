@@ -2,9 +2,9 @@
 title: How to use AI for research
 date: 2026-04-04T23:30:53+08:00
 categories:
-  - llms
-description: AI research works much better when you specify failure modes, define validation criteria, and guide the system with concrete examples instead of vague requests.
-tags: [prompting, validation, research-workflows, synthesis]
+- llms
+description: I used ChatGPT to research universities' AI policies and found that reliable results require concrete failure examples, explicit error-finding, and small batches rather than vague requests to double-check.
+tags: [research-workflows, prompt-engineering, fact-checking, llms]
 ---
 
 <!-- https://chatgpt.com/c/69cf42a9-ed04-839b-bdf1-e010677d81c7 -->

@@ -2,10 +2,10 @@
 title: Make 5 new friends today
 date: 2026-06-13T21:04:54+05:30
 categories:
-  - education
-description: I told IITM graduates that grades and jobs are depreciating assets. Focus instead on friendships—they are appreciating assets that grow more valuable over time. Make new friends today by simply talking to the people sitting right next to you.
-tags: [iitm, networking, career-advice]
+- education
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7488449996892282881/
+description: 'I told IITM graduates to make three new friends today: unlike grades and classroom learning, college friendships can keep growing in value, especially in the AI era.'
+tags: [career-advice, networking, higher-education]
 ---
 
 Here's my address to the graduating class the [IITM BS Program](https://study.iitm.ac.in/) today:

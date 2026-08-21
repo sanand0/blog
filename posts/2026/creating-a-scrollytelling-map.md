@@ -2,10 +2,10 @@
 title: Creating a scrollytelling map
 date: 2026-07-12T16:25:50+05:30
 categories:
-  - visualization
-  - llms
-description: I built a scrollytelling map using Claude Code, other AI agents, and MapLibre GL JS for GitHub Pages. My workflow involved Google Maps and MyMaps KML routes, highlighting AI's surprising ability to suggest useful map authoring mode features.
-tags: [ai-coding-agents, ai-agents, claude-code, github-pages, google-maps, data-visualization, mapping, llms]
+- visualization
+- llms
+description: I used Claude Code and Fable to build a self-contained scrollytelling map of my Bangalore walk, capturing routes in Google My Maps, exporting KML, and rendering them with MapLibre and OpenFreeMap. Coding agents can also suggest useful authoring features.
+tags: [data-visualization, mapping, ai-coding-agents, google-maps]
 ---
 
 I had Claude Code with Fable create a small scrollytelling map for my [14-minute walk](https://sanand0.github.io/datastories/security-at-bagmane-capital/) experience at [Bagmane Capital](https://www.s-anand.net/blog/security-at-bagmane-capital/) in Bangalore.

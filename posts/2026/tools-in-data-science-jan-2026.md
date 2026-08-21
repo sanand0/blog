@@ -5,9 +5,9 @@ categories:
 - education
 - data
 - llms
-description: A modern AI course should drop static content, foreground AI failure modes, and teach orchestration, debugging, and evaluation instead.
-tags: [ai-education, pedagogy, tools-in-data-science, evaluation]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7422424019657781249/
+description: "I've updated my Tools in Data Science course for 2026: it now provides questions instead of teaching content, uses AI to answer them, and focuses on prompting, debugging, tool use, and evaluating where AI fails."
+tags: [tools-in-data-science, ai-in-education, llm-evaluation]
 ---
 
 My [Tools in Data Science course](https://tds.s-anand.net/) is available publicly, with a few changes from last year.

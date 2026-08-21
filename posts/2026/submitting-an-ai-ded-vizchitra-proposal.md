@@ -5,9 +5,9 @@ categories:
 - how-i-do-things
 - visualisation
 - llms
-description: AI can help not just draft a conference proposal but also analyze the submission landscape immediately after filing it, which sharpens positioning.
-tags: [gemini, vizchitra]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7428649582768693248/
+description: I used Gemini to turn VizChitra's submission HTML into structured data, then had Gemini, Claude, and ChatGPT develop and rank topics before editing Claude's draft for a new proposal.
+tags: [generative-ai, prompt-engineering, data-visualization, ai-agents]
 ---
 
 ![](https://files.s-anand.net/images/2026-02-15-submitting-an-ai-ded-vizchitra-proposal.avif)

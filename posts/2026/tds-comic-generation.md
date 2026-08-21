@@ -5,8 +5,8 @@ categories:
 - llms
 - education
 classes: wrap-code
-description: Consistent AI-generated comics can make coursework more engaging when reusable prompts and reference images preserve character continuity.
-tags: [comics, education, gemini, prompt-design]
+description: 'I use AI-generated comic strips to make course questions more engaging: GitHub Copilot drafts prompt ideas, then Gemini 3 Pro creates the comics. I manually choose, edit, and review each one.'
+tags: [ai-education, comic-strips, image-generation, prompt-engineering]
 ---
 
 I use comics to make my course more engaging. Each question has a comic strip that explains what question is trying to teach.

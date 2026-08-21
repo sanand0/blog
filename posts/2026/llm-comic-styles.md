@@ -4,9 +4,9 @@ date: '2026-03-10T19:24:58+08:00'
 categories:
 - llms
 classes: wrap-code
-description: A reusable gallery of comic-style prompts makes AI image generation more systematic, letting you apply distinct visual storytelling styles on demand.
-tags: [image-generation, visual-storytelling, style-transfer]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7437646071616557057/
+description: I added a comic-style category to my LLM art gallery, with about 30 prompts ranging from silver-age to Indian mythological styles. A cat pushing a mug compares them consistently.
+tags: [image-generation, prompt-engineering, comic-strips, copyright-law]
 ---
 
 I maintain an [LLM art style gallery](https://sanand0.github.io/llmartstyle/) - prompts to style any image I generate.

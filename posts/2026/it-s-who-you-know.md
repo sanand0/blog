@@ -2,11 +2,11 @@
 title: It's who you know
 date: 2026-06-02T09:47:12+08:00
 categories:
-  - llms
-  - funny
-description: I highlight how AI converts client transcripts into software, shifting the focus from coding to interviewing and stakeholder management. As AI automates these skills, personal networks and "who you know" become the final competitive advantage.
-tags: [generative-ai, networking]
+- llms
+- funny
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7467435009361129472/
+description: I reflect on an AI-built app from client transcripts, and how better interviewing may shift hiring toward stakeholder judgment, people-reading, trust, and ultimately who you know.
+tags: [ai-coding, hiring, networking]
 ---
 
 [Dharmendra Singh](https://www.linkedin.com/in/dharmendrasingh17/) shared how they built an app with AI.

@@ -2,12 +2,12 @@
 title: Dynamic board games with LLMs
 date: 2026-01-13T11:38:01+05:30
 categories:
-  - llms
-  - games
-build: { list: never, render: always }
+- llms
+- games
+build: {list: never, render: always}
 robotsNoIndex: true
-description: I found an LLM app that instantly builds Monopoly-style board games for any topic. It generates thematic tiles and questions, transforming complex strategy sessions like policy simulations into addictive, interactive workshops through rapid game prototyping.
-tags: [llms, educational-technology]
+description: I found an addictive LLM app that turns any topic into a Monopoly-style learning game, with generated tiles and questions. It also suggests how workshops could use simulations to explore strategy.
+tags: [llms, game-design, educational-technology]
 ---
 
 In December, [Ritesh](https://github.com/ritesh17rb/) built a surprisingly addictive LLM app called [Strategy Board Game](https://ritesh17rb.github.io/board-game/).

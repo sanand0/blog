@@ -4,9 +4,9 @@ date: '2026-03-09T16:54:11+08:00'
 categories:
 - llms
 - education
-description: AI helps build skills best when it gives directional critique on your work instead of simply doing the task for you.
-tags: [learning-design, education]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7436927563740082176/
+description: 'I learned to give AI coding agents directional feedback: describe the audience, desired experience, and taste, then trust the agent’s expertise instead of prescribing every specific fix.'
+tags: [ai-in-education, ai-coding-agents, data-storytelling]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-09-directional-feedback-for-ai.avif)

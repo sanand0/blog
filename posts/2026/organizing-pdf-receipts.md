@@ -6,8 +6,8 @@ categories:
 - coding
 - llms
 classes: wrap-code
-description: Coding agents can automate the tedious middle step of matching downloaded PDF receipts to expenses, making finance workflows much easier to manage.
-tags: [codex, workflow]
+description: I automated organizing PDF receipts with Codex and a Python renaming script, and partly automated Google Pay receipt creation with a browser script. Concur submission remains manual for now.
+tags: [ai-coding-agents, finance, python]
 ---
 
 One of my [goals this year](/blog/my-year-in-2025/) is to "Automate finance + tax". Today, I took a baby step by organizing my expenses.

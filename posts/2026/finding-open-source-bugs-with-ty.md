@@ -2,10 +2,10 @@
 title: Finding open source bugs with Ty
 date: 2026-01-11T11:55:19+08:00
 categories:
-  - coding
-  - llms
-description: I used Astral’s Ty type checker and ChatGPT to identify a real bug in tqdm's rich integration. After verifying the error, I used Gemini to find an existing unmerged pull request and bumped it for review.
-tags: [python, llms, chatgpt]
+- coding
+- llms
+description: I used Astral's Ty and ChatGPT to find and verify a genuine bug in tqdm's Rich integration, then discovered an unmerged fix from 2022 and bumped its pull request.
+tags: [software-testing, open-source, llms, python]
 ---
 
 Astral released [Ty (Beta)](https://astral.sh/blog/ty) last month.

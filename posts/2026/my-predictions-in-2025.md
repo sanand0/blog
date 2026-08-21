@@ -2,10 +2,10 @@
 title: My predictions in 2025
 date: 2026-08-17T09:20:33+05:30
 categories:
-  - how-i-do-things
-  - llms
-description: I audit my 2025 AI predictions against 2026 evidence, separating directional hits from overconfident failures and identifying prediction-auditing as an emerging research and business opportunity.
-tags: [year-in-review, llms, ai, llm-evaluation, ai-agents, agentic-workflows, business-models]
+- how-i-do-things
+- llms
+description: I asked ChatGPT to audit 440 claims I made in 2025. Directional predictions about CLIs, shadow apps, verification, and solo founders held up; extreme replacement predictions did not, suggesting prediction-auditing businesses may grow.
+tags: [forecasting, fact-checking, llms]
 ---
 
 In 2025, I made a number of predictions on this blog. (Not intentionally. I just said stuff.)

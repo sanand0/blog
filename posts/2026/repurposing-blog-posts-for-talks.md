@@ -4,8 +4,8 @@ date: '2026-02-22T22:09:49+08:00'
 categories:
 - llms
 - how-i-do-things
-description: Your past writing becomes a reusable knowledge base when LLMs can mine it for audience-specific talk ideas and examples.
-tags: [content-repurposing, llms]
+description: I reuse my blog posts and transcripts with LLMs to find practical, field-specific AI use cases and build talks for any audience, not just technical communities.
+tags: [content-repurposing, llms, ai-workflows]
 ---
 
 Recently, I've re-used my own writing / transcripts as context to LLMs. For example, I've used:

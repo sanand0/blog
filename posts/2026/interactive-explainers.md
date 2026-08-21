@@ -2,10 +2,10 @@
 title: Interactive Explainers
 date: 2026-03-17T13:57:54+05:30
 categories:
-  - education
-  - llms
-description: Since LLMs can now generate working interactive explainers easily, explanation itself can become more exploratory, visual, and learnable than static text allows.
-tags: [llms, education, data-visualization]
+- education
+- llms
+description: I asked Gemini to create an interactive animated explainer for adversarial validation, a concept I had struggled to understand. The result made it intuitive and memorable, showing how LLMs can help educators explain difficult ideas.
+tags: [ai-in-education, llms]
 ---
 
 Given how easy it is to create interactive explainers with LLMs, we should totally do more of these!

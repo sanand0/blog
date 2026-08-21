@@ -2,9 +2,9 @@
 title: SearXNG and Vane
 date: 2026-03-19T15:40:25+05:30
 categories:
-  - tools
-description: Self-hosted search infrastructure like SearXNG can give LLM workflows cheap, privacy-preserving web search capabilities without depending on paid search APIs.
-tags: [privacy, self-hosting, research-workflows]
+- tools
+description: I found SearXNG, a self-hostable metasearch engine with a simple JSON API, and Vane, a self-hosted Perplexity clone. Vane handled multi-hop questions and false premises but missed my latest blog post.
+tags: [web-search, self-hosting, llms, privacy]
 ---
 
 While exploring [resonant computing tools](https://claude.ai/share/a7ae0d69-8c56-49a2-b6f2-1e3f4cd32937), I discovered [SearXNG](https://searxng.org/), a self-hostable metasearch engine, which aggregates results from multiple search engines.

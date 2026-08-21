@@ -2,9 +2,9 @@
 title: Things I Learned - 01 Mar 2026
 date: 2026-03-01T00:00:00+00:00
 categories:
-  - til
-description: I discovered unidown for LinkedIn formatting and codespelunker for fast code searching. I also explored Sangeeta Talwar’s Maggi marketing strategy, the strategic value of shadow IT, and how to track coding agent usage limits.
-tags: [coding-agents, marketing-strategy]
+- til
+description: This week I found unidown for LinkedIn formatting, codespelunker for fast code search, a case for treating Shadow IT as unpaid R&D, and new usage pages for coding agents.
+tags: [cli-tools, marketing-strategy, business-strategy, ai-coding-agents]
 ---
 
 This week, I learned:

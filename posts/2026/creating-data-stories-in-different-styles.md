@@ -2,12 +2,12 @@
 title: Creating data stories in different styles
 date: 2026-01-09T17:20:00+08:00
 categories:
-  - experiments
-  - llms
-  - visualisation
+- experiments
+- llms
+- visualisation
 classes: wrap-code
-description: I used Claude and GPT to generate data visualizations in distinct expert styles, like the Wall Street Journal and Shirley Wu. Prompting AI for multiple style transfers is a powerful shortcut for finding the best way to tell a data story.
-tags: [data-visualization, llms, style-transfer, claude, prompt-engineering, data-storytelling]
+description: I show how asking an AI agent to create the same data story in several expert styles can produce better options than requesting one output, using Linux Foundation data as an example.
+tags: [style-transfer, data-visualization, llms, data-storytelling]
 ---
 
 **TL;DR**: Don't ask AI agents for _one_ output. Ask for a **dozen**, each in the _style_ of an **expert**. Share what works best.

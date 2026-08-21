@@ -4,9 +4,9 @@ date: '2026-02-01T14:58:28+08:00'
 categories:
 - education
 - llms
-description: AI-era education should stop preserving old constraints and instead teach around the new freedoms and failure modes that AI creates.
-tags: [education, ai, pedagogy]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7423904243796922368/
+description: I’m redesigning my course for the AI age by teaching students to ask dumb questions, use AI freely, fail, change direction, and challenge broken problems.
+tags: [ai-in-education, pedagogy, llms]
 ---
 
 Several educators have AI-enabled their courses, like:

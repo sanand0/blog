@@ -3,8 +3,8 @@ title: AI Palmistry
 date: '2026-03-15T23:08:55+05:30'
 categories:
 - llms
-description: "AI is much better at agreeing about a person’s chat-based patterns than at inferring meaningful truths from palm photos, even when multiple agents seem to converge."
-tags: [self-analysis, claude, skepticism]
+description: I shared a photo of my palm with three AI agents, compared their readings, and found mostly generic claims about my personality. AI analyzes my chats much better than my hand.
+tags: [model-comparison, ai-agents, llms]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-15-ai-palmistry.avif) <!-- https://gemini.google.com/u/2/app/292d5bacc0f9306c -->

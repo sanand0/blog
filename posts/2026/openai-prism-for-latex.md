@@ -4,8 +4,8 @@ date: '2026-01-29T14:52:00+08:00'
 categories:
 - llms
 - tools
-description: AI-native LaTeX editors like Prism dramatically lower the friction of scientific writing, though their document conversion still needs work.
-tags: [openai]
+description: I tried OpenAI Prism, an AI LaTeX IDE, by converting a paper image into LaTeX. I first thought its many odd-looking formulas were wrong; experts showed it had actually read them correctly.
+tags: [openai, llms, academic-publishing]
 ---
 
 OpenAI launched [Prism](https://openai.com/prism/) - an AI LaTeX IDE.

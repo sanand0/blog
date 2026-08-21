@@ -2,9 +2,9 @@
 title: Things I Learned - 31 May 2026
 date: 2026-05-31T00:00:00+00:00
 categories:
-  - til
-description: I signed files with OIDC using cosign, queried Wikipedia as Parquet with DuckDB, and explored the PRAGMA model's tabular data tokenization. I also set up local MCP in ChatGPT Developer Mode for unmetered AI coding.
-tags: [duckdb, parquet, mcp, tokenization]
+- til
+description: This week I learned how to query Wikipedia's 35 GB Parquet dump with DuckDB, sign files with cosign, tokenize tabular data, and use ChatGPT memory with local MCP.
+tags: [developer-workflow, ai-coding, duckdb, local-mcp]
 ---
 
 This week, I learned:

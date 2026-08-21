@@ -2,10 +2,10 @@
 title: My most memorable anniversary
 date: 2026-06-03T09:27:14+08:00
 categories:
-  - llms
-description: I saved my 24th anniversary by using ChatGPT to analyze bank transaction data for gift ideas. I ended up spending the day finishing 24 tasks from my wife's to-do list, which she called her most memorable anniversary.
-tags: [chatgpt, llms, data-analysis, prompt-engineering]
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7467813154660667392/
+description: I asked ChatGPT for a last-minute anniversary idea, then spent 24 hours completing 24 items from my wife's to-do list. She called it our most memorable anniversary.
+tags: [anniversary, chatgpt, personal-update]
 ---
 
 At 9:30 pm, I checked my calendar for tomorrow's appointments, alt-tabbed frantically into ChatGPT, and started typing:

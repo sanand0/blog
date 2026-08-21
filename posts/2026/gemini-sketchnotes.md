@@ -2,9 +2,9 @@
 title: Gemini Sketchnotes
 date: 2026-04-11T16:11:22+08:00
 categories:
-  - llms
-description: Gemini can turn pasted or attached content into rich sketchnotes with a very simple prompt, making visual summarization much more accessible than before.
-tags: [gemini, sketchnotes, prompt-design, note-taking]
+- llms
+description: I use Gemini's image mode and a single prompt to turn articles, presentations, books, talks, and workflows into colorful sketchnotes that make complex content easier to notice and follow.
+tags: [gemini, summarization, prompt-engineering, image-generation]
 ---
 
 I use this prompt to generate sketchnotes on Gemini:

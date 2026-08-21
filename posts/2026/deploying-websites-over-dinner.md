@@ -2,9 +2,9 @@
 title: Deploying websites over dinner
 date: 2026-04-27T16:30:50-04:00
 categories:
-  - tools
-description: I successfully deployed a custom website over dinner using only a mobile phone. By combining ChatGPT dictation, GitHub Mobile for hosting, and Cloudflare for DNS, we registered a domain and published a site without leaving the table.
-tags: [github-pages, gemini, chatgpt, dns]
+- tools
+description: 'I helped deploy a static website from a phone over dinner: using GitHub Pages for hosting, Cloudflare Registrar for the domain, and mobile DNS setup, rexgattu.com went live without touching a computer.'
+tags: [web-hosting, github-pages, domain-names, dns]
 ---
 
 Over dinner with [Nishka](https://www.linkedin.com/in/nishka-gattu-32133b339/), we were trying to deploy a website. The challenge was: How can we deploy this website, just on mobile, **without getting up from the dinner table**?

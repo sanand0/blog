@@ -2,12 +2,12 @@
 title: Longest repeated paragraph on Wikipedia
 date: 2026-05-26T22:20:17+08:00
 categories:
-  - llms
-  - data
-  - visualisation
-description: I discovered Wikipedia’s most repeated text, including a 213-word paragraph about minor planet names appearing in 418 articles. I found these patterns by using OpenAI Codex to analyze the structured Wikipedia dataset on Hugging Face.
-tags: [wikipedia, data-mining, natural-language-processing]
+- llms
+- data
+- visualisation
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7465047314915540993/
+description: "I found Wikipedia's most repeated paragraph: 213 words about naming minor planets, copied into 418 articles. A Slovakia census note appears across 2,920 pages, revealing more quirks in Wikipedia's shared text."
+tags: [data-analysis, data-mining, wikipedia, codex]
 ---
 
 What is the most frequently occurring sentence in Wikipedia? ANS: A 213-word paragraph about [how minor planets are named](https://en.wikipedia.org/wiki/Meanings_of_minor-planet_names), which appears in 418 Wikipedia articles, word-for-word!

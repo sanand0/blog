@@ -3,8 +3,8 @@ title: Memorable explanations
 date: '2026-02-21T13:58:58+08:00'
 categories:
 - simple-explanations
-description: Explanations stick better when they are structured around memory-friendly elements like faces, places, stories, contrast, and vivid imagery.
-tags: [memory, teaching, communication, storytelling, cognitive-science]
+description: 'I show how to make explanations stick using eight memory cues: Face, Place, Tale, Scale, Touch, Feel, Chunk, and Beat, grouped into structure and delivery.'
+tags: [cognitive-science, communication, prompting]
 ---
 
 Our brains remember some things better. Explaining that way makes it stick.

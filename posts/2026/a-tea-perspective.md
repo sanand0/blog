@@ -2,9 +2,9 @@
 title: A Tea Perspective
 date: 2026-08-09T11:49:12+05:30
 categories:
-  - funny
-description: I once judged my schoolteachers for spending their breaks obsessing over staff room tea. Decades later, I find myself doing the exact same thing, anxiously hoping the right person makes my daily cup.
-tags: [s-anand, humor, education]
+- funny
+description: I once thought teachers spent staff-room time discussing students; then I discovered their serious debate over tea. Years later, I became a tea drinker, choosing between Ya Kun Kaya Toast staff members’ sweeter or bitter brews.
+tags: [humor]
 ---
 
 When I was at school, I assumed that teachers in the staff room would mostly be discussing students, teaching, how to improve things, etc.

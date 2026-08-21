@@ -5,8 +5,8 @@ categories:
 - education
 - coding
 - llms
-description: In an AI-enabled course, released assignments remain fluid because real-world breakage and exploits force rapid iteration even after publication.
-tags: [ai-in-education, assessment-design]
+description: I released Tools in Data Science GA1, due 15 February 2026, with some questions changed to fix broken instructions and APIs. I explain why it may still be worth starting early.
+tags: [assessment-design, tools-in-data-science, ai-in-education]
 ---
 
 [Graded Assignment 1 (GA1)](https://exam.sanand.workers.dev/tds-2026-01-ga1) for the [Tools in Data Science](https://tds.s-anand.net/) course is released and is due Sun 15 Feb 2026. See <https://exam.sanand.workers.dev/tds-2026-01-ga1>

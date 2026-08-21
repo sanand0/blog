@@ -2,10 +2,10 @@
 title: Sonnet 4.6 vs MiniMax M2.7
 date: 2026-03-24T17:06:02+08:00
 categories:
-  - llms
-  - coding
-description: Even when two models can complete the same task, they differ noticeably in narrative quality, visual ambition, and implementation details, so model choice meaningfully affects outcomes.
-tags: [llm-comparison, evaluation, data-stories]
+- llms
+- coding
+description: I compared Claude Sonnet 4.6 and MiniMax M2.7 on the same data story. Sonnet won on quality, while MiniMax's low cost suits simple, small, verifiable tasks.
+tags: [llm-comparison, claude-code, coding-agents]
 ---
 
 Based on several (i.e. two) recommendations, I subscribed to [MiniMax](https://platform.minimax.io/). At $10/month, you get 1,500 requests every 5 hours and 15,000 every week. That's a LOT!

@@ -2,9 +2,9 @@
 title: Agent Experience is the new User Experience
 date: 2026-08-01T10:24:31+08:00
 categories:
-    - llms
-description: Agent Experience (AX) is emerging as the new User Experience (UX). Agents are increasingly the primary consumers and operators of digital artifacts like documentation, code, software, and websites, driving the need for agent-centric design and protocols.
-tags: [agents, ai-agents, user-experience, llms, software-development, model-context-protocol, ai-automation, developer-workflow]
+- llms
+description: 'I argue that Agent Experience (AX) is becoming the new User Experience: systems increasingly need to be readable, operable, and discoverable by AI agents, from docs like llms.txt to MCP tools.'
+tags: [ai-agents, user-experience, agentic-workflows]
 ---
 
 Agents are increasingly the consumers of things that used to be made for humans: <!-- https://chatgpt.com/c/6a6c7803-d62c-83ec-8144-15cf74b3219c -->

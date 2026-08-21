@@ -5,8 +5,8 @@ categories:
 - llms
 - coding
 - education
-description: AI-assisted migration makes it feasible for non-experts to move course sites across stacks quickly, reducing dependence on LMSs and specialized coding knowledge.
-tags: [migration, codex, educational-technology, static-sites]
+description: I migrated my Tools in Data Science course site from Docsify to Hugo with Codex, adding course-specific sidebars, sidebar-ordered navigation, a dark/light toggle, and GitHub Pages deployment.
+tags: [ai-coding, static-sites, ai-in-education, codex]
 ---
 
 This morning, I migrated my [Tools in Data Science course page](https://tds.s-anand.net/) from [Docsify](https://docsify.js.org/) to [Hugo](https://gohugo.io/) using [Codex](https://openai.com/codex/).

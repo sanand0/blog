@@ -2,10 +2,10 @@
 title: Editing Workshop Videos
 date: 2026-06-14T08:27:16+05:30
 categories:
-  - tools
-  - coding
-description: I use ffmpeg to trim and compress workshop recordings from Zoom and Meet. I share my exact commands for fast, lossless trimming and high-efficiency VP9/Opus compression to host videos affordably on Cloudflare R2.
-tags: [ffmpeg, video-compression, cloudflare-r2, webm]
+- tools
+- coding
+description: I use ffmpeg to trim workshop recordings and compress them to speech-friendly VP9/Opus WebM files, then serve them cheaply from Cloudflare R2 with a standard HTML video tag.
+tags: [video-editing, video-compression, ffmpeg, cloudflare-r2]
 ---
 
 I sometimes use [Google Meet](https://meet.google.com/), [Teams](https://teams.microsoft.com/), [Zoom](https://www.zoom.com/), etc. to record workshops and talks. These record the entire session, including _before_ and _after_ the actual talk, and save it as large MP4 files.

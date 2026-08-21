@@ -2,12 +2,12 @@
 title: Agents answer small questions from big data
 date: 2026-06-18T20:12:04+08:00
 categories:
-  - llms
-  - data
-build: { list: never, render: always }
+- llms
+- data
+build: {list: never, render: always}
 robotsNoIndex: true
-description: I use AI agents to reconcile messy customer data in minutes, slashing timelines from weeks to seconds. When analysis becomes this cheap, you can skip massive projects and solve specific data quality issues by asking small, one-off questions.
-tags: [ai-agents]
+description: I used a ChatGPT agent to reconcile three messy customer sources in 6 minutes 32 seconds, finding that cheap, reviewable data questions can replace weeks-long projects and move the bottleneck from AI to data.
+tags: [ai-agents, data-analysis]
 ---
 
 **OK, so agents can analyze data crazily fast.**

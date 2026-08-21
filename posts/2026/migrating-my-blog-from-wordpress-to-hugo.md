@@ -2,10 +2,10 @@
 title: Migrating my blog from WordPress to Hugo
 date: 2026-01-02T12:30:00+08:00
 categories:
-  - coding
+- coding
 classes: wrap-code
-description: I used AI coding agents to migrate my WordPress blog to Hugo. Key strategies included maintaining a PLAN.md, generating actionable exception reports, and delegating asset optimization and verification tasks to the agent.
-tags: [wordpress, ai-agents, migration, markdown]
+description: I migrated my blog from WordPress to Hugo with Codex and Claude Code, using plans, small commits, data analysis, exception reports, and verification to preserve URLs and deploy via GitHub Pages.
+tags: [ai-coding-agents, static-sites, developer-workflow]
 ---
 
 In 2009, I migrated from a self-made Perl static site generator to [WordPress](https://www.wordpress.org/) because it was slow, WordPress was dynamic and rapidly growing in features, and I wanted to write rather than code. (Also, I had _plenty_ of time in 2009 for such things!)

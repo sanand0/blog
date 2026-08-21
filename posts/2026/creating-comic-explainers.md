@@ -2,10 +2,10 @@
 title: Creating comic explainers
 date: 2026-05-24T16:48:58+08:00
 categories:
-  - llms
-description: I share my ChatGPT prompt for generating Scott McCloud-style comic explainers to create more engaging, differentiated content. By moving from sketchnotes to sequential storytelling, I use visual metaphors and cause-and-effect panels to simplify complex AI concepts.
-tags: [sketchnotes, chatgpt, prompt-engineering, visual-storytelling]
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7464246787395125249/
+description: I adapted my sketchnote prompt with ChatGPT to create colorful comic explainers with visual metaphors and cause-and-effect storytelling. AI may standardize slides while creative teams use it for more original formats.
+tags: [visual-storytelling, prompt-engineering, image-generation]
 ---
 
 [Lori Silverstein](https://www.linkedin.com/in/lori-silverstein-b9baa03/) shared a [post from Quickplay](https://www.linkedin.com/feed/update/urn:li:activity:7462864729913503744/) that featured a comic explainer, mentioning that "this could be a very impactful way for us to start being more creative ... and differentiate our value proposition."

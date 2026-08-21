@@ -2,10 +2,10 @@
 title: The Periodic Table by Primo Levi and Randall Munroe
 date: 2026-01-12T15:32:26+08:00
 categories:
-  - how-i-do-things
-  - llms
-description: I used an LLM to rewrite Primo Levi’s The Periodic Table in Randall Munroe's style chapter by chapter. This iterative style transfer made the difficult text accessible and emotionally resonant, helping me engage with literature I otherwise wouldn't have read.
-tags: [style-transfer, llms, claude]
+- how-i-do-things
+- llms
+description: I read Primo Levi's The Periodic Table through a chapter-by-chapter Claude rewrite in Randall Munroe's style. The playful experiment grew grayer and more affecting, leaving me thinking about AI narration, authorship, and why I write.
+tags: [style-transfer, llms, literature]
 ---
 
 I read [The Periodic Table](https://www.goodreads.com/book/show/427282.The_Periodic_Table) by Primo Levi, written in Randall Munroe's style.

@@ -2,9 +2,9 @@
 title: Things I Learned - 19 Jul 2026
 date: 2026-07-19T00:00:00+00:00
 categories:
-  - til
-description: I learned to identify human tasks as depreciating assets if AI can easily verify them. The value of creating AI agent skills is immense, potentially leading to a 'Wikipedia of skills' for adapting to this AI-first world.
-tags: [personal-update, learning, ai-agents, future-of-work, model-comparison, prompt-engineering, chatgpt, gemini]
+- til
+description: I share what I learned about writing versus typing, AI tasks that may become depreciating assets, model and prompt benchmarking, and reviewing AI-generated Python code.
+tags: [ai-agents, prompt-engineering, future-of-work, learning]
 ---
 
 This week, I learned:

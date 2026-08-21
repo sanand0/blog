@@ -2,9 +2,9 @@
 title: Things I Learned - 26 Jul 2026
 date: 2026-07-26T00:00:00+00:00
 categories:
-  - til
-description: I learned that AI agent effectiveness hinges on access to personal data like transcripts and blogs. I'm now successfully using AI for email replies after providing context. Key insights from Claude Code development include using fewer examples, constraints, and tools for better results.
-tags: [ai-agents, llms, prompt-engineering, productivity, claude, chatgpt, coding-agents, learning]
+- til
+description: This week I learned how context makes AI email replies useful, why Claude Code benefits from fewer examples and tools, and how agents can turn documents, videos, and datasets into practical skills.
+tags: [ai-agents, claude-code, prompt-engineering, personal-data]
 ---
 
 This week, I learned:

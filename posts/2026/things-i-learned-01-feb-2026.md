@@ -2,9 +2,9 @@
 title: Things I Learned - 01 Feb 2026
 date: 2026-02-01T00:00:00+00:00
 categories:
-  - til
-description: I explored using Socratic prompting for AI agents, Gwern’s iterative poetry workflow, and browser automation via HAR files. I also evaluated tools like exiftool for metadata extraction and Qwen3 TTS for local voice cloning.
-tags: [socratic-method]
+- til
+description: I learned to use Socratic questions with AI agents, export media metadata with exiftool, run bursty workloads in checkpointable containers, and treat skeptical verification as central to AI adoption.
+tags: [ai-agents, prompt-engineering, browser-tools, voice-cloning]
 ---
 
 This week, I learned:

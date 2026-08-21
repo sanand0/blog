@@ -4,8 +4,8 @@ date: '2026-03-13T15:37:19+08:00'
 categories:
 - llms
 - education
-description: Coding agents can solve many online exams effectively, so exam design should be tested against agents both to validate questions and to understand where real difficulty lies.
-tags: [coding-agents, assessment-design, ai-in-education, evaluation]
+description: I use coding agents to test whether my online exam questions are well designed and whether they challenge students. When Codex tackled a PyConf challenge, it found a bug and bypassed front-end level locks.
+tags: [assessment-design, ai-coding-agents, llm-evaluation]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-13-cracking-online-exams-with-coding-agents.avif) <!-- https://gemini.google.com/u/2/app/a6a6c341434ec848 -->

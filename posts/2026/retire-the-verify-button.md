@@ -2,9 +2,9 @@
 title: Retire the Verify Button
 date: 2026-05-30T16:25:35+08:00
 categories:
-  - llms
-description: I explain why manual verification of LLM outputs doesn't scale. Instead of 100% inspection, I apply manufacturing principles like statistical sampling, stratified risk management, and model-based augmentation to build quality directly into the production pipeline.
-tags: [llm-evaluation]
+- llms
+description: I argue that scaling AI output requires retiring the verify button in favor of measured defect rates, risk-based sampling, and independent validation - while keeping human review where accuracy demands it.
+tags: [llm-evaluation, risk-management, software-testing, llms]
 ---
 
 ![](https://files.s-anand.net/images/2026-05-30-retire-the-verify-button.avif)

@@ -2,10 +2,10 @@
 title: Mapping The Red Headed League
 date: 2026-01-11T10:41:06+08:00
 categories:
-  - links
-  - visualisation
-description: I explored Aman Bhargava's reconstruction of Sherlock Holmes's "The Red Headed League" in London. I discovered historical mapping techniques and new geo-tools like OpenFreeMap, Protomaps, and gpx.studio for creating custom 3D visualizations.
-tags: [cartography]
+- links
+- visualisation
+description: I found a fascinating reconstruction of the places in Arthur Conan Doyle's The Red-Headed League, using historical records and Ordnance Survey maps. It also introduced me to several useful mapping tools.
+tags: [mapping, cartography, data-visualization, web-tools]
 ---
 
 [Mapping The Red Headed League](https://aman.bh/blog/2026/mapping-the-red-headed-league) is a fascinating reconstruction of the actual places mentioned (or hinted at) by Arthur Conan Doyle's [The Red Headed League](https://en.wikipedia.org/wiki/The_Red-Headed_League) by [Aman Bhargava](https://aman.bh/).

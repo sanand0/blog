@@ -2,9 +2,9 @@
 title: Editing images with code and AI
 date: 2026-06-06T11:32:47+05:30
 categories:
-  - llms
-tags: [svg, 3d-modeling]
-description: Focus on generating visual assets as code rather than pixels to enable iterative improvement. Use SVG for 2D UI and Blender scripts or USD for 3D modeling, leveraging agents like VIGA for editable, precise graphics.
+- llms
+description: 'I found an argument that visual AI is more powerful when it generates code: render, inspect, and revise editable SVGs, interfaces, animations, or 3D scenes instead of static pixels.'
+tags: [generative-ai, 3d-modeling, svg, ai-agents]
 ---
 
 [Andreessen Horowitz](https://a16z.com/) published an interesting article titled [The Next Frontier of Visual AI Is Code](https://www.a16z.news/p/the-next-frontier-of-visual-ai-is). Here's the summary.

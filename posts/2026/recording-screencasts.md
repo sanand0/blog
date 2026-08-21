@@ -4,8 +4,8 @@ date: '2026-03-11T10:48:01+08:00'
 categories:
 - coding
 - how-i-do-things
-description: A lightweight recording and compression workflow can produce high-quality screencasts cheaply enough to make video a practical medium for demos, teaching, and documentation.
-tags: [webm, ffmpeg, developer-tools]
+description: I record screencasts with automated browser scrolling or AI coding agents, then compress them to efficient WebM files with a fish script. Here are the scripts and settings I use.
+tags: [screen-recording, video-compression, ai-coding-agents, ffmpeg]
 ---
 
 ![](https://files.s-anand.net/images/2026-03-11-recording-screencasts.avif) <!-- https://gemini.google.com/u/2/app/6cf35e0e4b2a90da -->

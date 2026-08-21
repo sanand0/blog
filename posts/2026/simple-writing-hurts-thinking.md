@@ -2,9 +2,9 @@
 title: Simple writing hurts thinking
 date: 2026-08-01T14:00:27+08:00
 categories:
-  - llms
-description: I tested if asking ChatGPT to simplify its writing using ASD-STE100 hurts its thinking. My experiment showed simplification reduces source checking and output quality. Let AI think complexly first, then ask for a simple explanation.
-tags: [llms, chatgpt, prompt-engineering, writing-style, benchmarking, ai, s-anand]
+- llms
+description: I tested asking ChatGPT to answer in ASD-STE100 Simplified Technical English across six tasks. The simpler writing reduced thinking quality, so I suggest simplifying answers only after the model has reasoned.
+tags: [prompt-engineering, llm-evals, llms]
 ---
 
 ![](https://files.s-anand.net/images/2026-08-01-simple-writing-hurts-thinking.avif)

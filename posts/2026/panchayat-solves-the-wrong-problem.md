@@ -2,10 +2,10 @@
 title: Panchayat solves the wrong problem
 date: 2026-04-26T19:02:18-04:00
 categories:
-  - llms
-  - funny
-description: I highlight a glaring error in Panchayat where the protagonist solves a mixture problem instead of the actual work-rate question shown. I compare this continuity blunder with ChatGPT's confusion when mapping numerical answers to multiple-choice labels.
-tags: [chatgpt, reasoning, llms]
+- llms
+- funny
+description: "I examine Panchayat's flawed math scene: Abhishek solves a milk-and-water problem instead of question 42, while ChatGPT gives the right answer with the wrong option. Who made the bigger mistake?"
+tags: [fact-checking, problem-solving, chatgpt]
 ---
 
 In [Panchayat](https://en.wikipedia.org/wiki/Panchayat_(TV_series)) Season 1 Episode 7 [Ladka Tez Hai Lekin...](https://www.imdb.com/title/tt12005118/), at around 17:00, Pradhan asks Abhishek to solve problem 42.

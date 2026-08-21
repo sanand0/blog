@@ -2,9 +2,9 @@
 title: Flight Mode Emotions
 date: 2026-04-07T11:03:05+08:00
 categories:
-  - how-i-do-things
-description: Modern travel creates a strange mix of emotions because convenience, connectivity, rest, and productivity keep pulling in different directions at once.
-tags: [productivity]
+- how-i-do-things
+description: At the airport, I discovered that Flight Mode cuts my laptop's battery use from 1% to 0.3%, letting me read offline for longer. Now I plan two hours a week.
+tags: [travel-anecdote, productivity, reading-habits, connectivity]
 ---
 
 At Changi Airport, I arrived 2.5 hours early and was **worried** that the flight was boarding on time - because I wanted to charge my laptop so it would work longer on a 6-hour flight to Delhi.

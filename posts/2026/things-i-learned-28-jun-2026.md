@@ -2,9 +2,9 @@
 title: Things I Learned - 28 Jun 2026
 date: 2026-06-28T00:00:00+00:00
 categories:
-  - til
-description: 'I share weekly learnings: spotting AI writing via paragraph length, using `.git/info/exclude` for local-only Git ignores, and leveraging formal proof tools like Z3 and TLA+ to verify AI-generated code.'
-tags: [git, claude]
+- til
+description: I learned how Substack RSS feeds can reveal my reading, why Claude answers more briefly on mobile, how Cloudflare enables agent trial accounts, and how Git can ignore files outside .gitignore.
+tags: [learning, ai-agents, python]
 ---
 
 This week, I learned:

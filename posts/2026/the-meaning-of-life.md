@@ -3,8 +3,8 @@ title: The meaning of life
 date: '2026-01-22T19:29:55+05:30'
 categories:
 - how-i-do-things
-description: Personal meaning evolves across life stages, moving from happiness to balance to self-chosen purpose rather than any single fixed answer.
-tags: [philosophy, happiness]
+description: I trace how my view of life’s meaning changed from happiness to pleasure, meaning, and many competing lenses. I now believe meaning is not intrinsic, and that good and bad depend on the lens.
+tags: [philosophy, psychology]
 ---
 
 As a teenager, I asked my mother "What is the aim of life?" She said, "To be happy and to make others happy." This was my gospel for a decade. It made sense. It even aligned with my name (Anand = happiness).

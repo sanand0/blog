@@ -3,9 +3,9 @@ title: White Pebble Black Pebble
 date: '2026-03-04T22:23:29+08:00'
 categories:
 - how-i-do-things
-description: A no-win situation can sometimes be transformed into a no-lose one simply by reframing the game.
-tags: [problem-solving, strategy, decision-making]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7434971051278708736/
+description: I revisit the white-pebble story, where a farmer's daughter drops her chosen pebble and uses the remaining black one to prove she picked white, escaping both marriage and debt.
+tags: [problem-solving, decision-making]
 ---
 
 When I was in class 8 or 9, our English teacher told us a story I'll never forget.

@@ -2,9 +2,9 @@
 title: A cynical view of WhatsApp's Advanced Privacy
 date: 2026-06-08T14:13:47+05:30
 categories:
-  - business-realities
-description: I explain how WhatsApp’s Advanced Privacy features may be strategic tools for Meta to bypass AI regulations and prevent platform migration. Be aware that blocking exports and media saving effectively increases vendor lock-in under the guise of security.
-tags: [whatsapp, data-privacy, interoperability]
+- business-realities
+description: "I take a cynical view of WhatsApp's Advanced Privacy mode: its restrictions on Meta AI, chat exports, and automatic media saving could protect Meta from regulation while making it harder to leave."
+tags: [business-strategy, data-privacy, whatsapp]
 ---
 
 WhatsApp has an [Advanced privacy mode](https://faq.whatsapp.com/715385484388016/) they [launched in Apr 2025](https://blog.whatsapp.com/introducing-advanced-chat-privacy). People in the chat:

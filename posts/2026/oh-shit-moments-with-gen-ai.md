@@ -2,9 +2,9 @@
 title: Oh Shit moments with Gen AI
 date: 2026-06-07T20:13:01+05:30
 categories:
-  - links
-tags: [generative-ai, llms, automation, reverse-engineering, productivity]
-description: Explore 24 real-world examples of GenAI's power, from reverse engineering firmware and automating legal appeals to finding math counterexamples and building digital twins. These Hacker News highlights demonstrate high-leverage automation in coding, security, and specialized research.
+- links
+description: I found a Hacker News thread collecting GenAI “oh shit” moments, from analyzing data and modernizing old code to reverse-engineering hardware, finding a two-year counterexample, and enabling dangerous security exploits.
+tags: [generative-ai, automation, ai-agents, ai-coding]
 ---
 
 Hacker News has a lively thread asking [What was your "oh shit" moment with GenAI?](https://news.ycombinator.com/item?id=48406174).

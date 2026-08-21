@@ -6,9 +6,9 @@ update:
   #!/usr/bin/env bash
   set -euo pipefail
 
-  # Assumes GEMINI_API_KEY is already loaded.
+  # summarize.py loads OPENAI_API_KEY from ~/code/scripts/.env.
   mapfile -t markdown < <(find posts pages -name '*.md' -print | sort)
-  uv run ~/code/scripts/summarize.py blog "${markdown[@]}" --model gemini-2.5-flash --workers 1
+  uv run ~/code/scripts/summarize.py blog "${markdown[@]}" --provider openai --model gpt-5.6-luna --workers 8
 
   bash setup.sh
   uv run --with pytest --with pyyaml --with typer --with numpy --with pandas --with pyarrow --with ruamel.yaml --with scikit-learn pytest -q scripts

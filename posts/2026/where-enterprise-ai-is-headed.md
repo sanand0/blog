@@ -2,10 +2,10 @@
 title: Where Enterprise AI is headed
 date: 2026-05-23T08:24:19+08:00
 categories:
-  - llms
-  - how-i-do-things
-description: I was asked eight podcast questions about enterprise AI - why pilots stall, where governance bites, what India-led capability centers add, and how to measure ROI. Here are my answers, grounded in actual client meetings.
-tags: [enterprise-ai, governance, roi, agents]
+- llms
+- how-i-do-things
+description: I used ChatGPT and Claude to mine six months of transcripts for podcast answers, then edited the result. It argues enterprise AI succeeds through delivery, telemetry, knowledge infrastructure, governance, and human accountability.
+tags: [forecasting, enterprise-ai, ai-adoption]
 ---
 
 ![](https://files.s-anand.net/images/2026-05-23-where-enterprise-ai-is-headed.avif)

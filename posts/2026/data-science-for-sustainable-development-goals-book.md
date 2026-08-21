@@ -2,11 +2,11 @@
 title: Data Science for Sustainable Development Goals Book
 date: 2026-07-14T15:18:33+08:00
 categories:
-    - data
-    - visualization
-    - llms
-description: I reflect on my newly published open-access book chapter and how I used ChatGPT to dig through years of my email archives to piece together its forgotten history—only to discover I didn't recognize my own writing.
-tags: [book, open-access, academic-publishing, data-science, gramener, chatgpt, isaac-asimov]
+- data
+- visualization
+- llms
+description: I share an open-access data science book chapter I forgot writing, then use ChatGPT to excavate years of emails and discover my own past as an AI-like ghostwriter.
+tags: [chatgpt, archives, writing-style, open-access]
 ---
 
 One of my goals this year is to [publish 2 books](https://www.s-anand.net/blog/my-year-in-2025/). One got published. Sort of.

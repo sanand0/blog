@@ -3,9 +3,9 @@ title: Protyping the prototypes
 date: '2026-03-10T12:17:47+08:00'
 categories:
 - llms
-description: Prototype iterations should improve not just the interface but the narrative around it, because better storytelling can make exploratory tools far more understandable and useful.
-tags: [prototyping, data-stories, vibe-coding, data-visualization]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7437312601035927552/
+description: I added a scrollytelling narrative to my LLM Pricing chart, making AI's three-year evolution easier to explore. Vibe-coded over two iterations, it shows how prototypes can help me discover what I want.
+tags: [prototyping, vibe-coding, data-storytelling, llm-pricing]
 ---
 
 I added a narrative story to my [LLM Pricing chart](https://sanand0.github.io/llmpricing/). That makes it easier for me _and_ others to tell the story of AI's evolution in the last three years.
