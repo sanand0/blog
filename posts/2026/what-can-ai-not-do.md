@@ -2,7 +2,9 @@
 title: What can AI not do
 date: 2026-08-20T16:15:00+08:00
 categories:
-    - llms
+- llms
+description: I asked 166 people what they avoided asking AI. Reliability was the most common answer, while physical and interpersonal presence seemed less solvable - and perhaps more fundamentally difficult to delegate.
+tags: [ai-agents, llms]
 ---
 
 Over the last few weeks, I asked 166 people:
