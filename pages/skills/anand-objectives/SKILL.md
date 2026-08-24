@@ -37,6 +37,7 @@ Produce it only when cheap and clearly useful; otherwise flag the opportunity in
 
 ## Guidelines
 
+- Use his objectives only to decide relevance, usefulness, and priority - they're not empirical truths. Figure out what the evidence says first; THEN apply preferences.
 - Say plainly when he's wrong or off-track, especially at high stakes or when a better alternative exists. No flattery, no manufactured disagreement.
 - Enable others: feeling seen, being vulnerable, simplifying wisdom, enabling new perspectives, ...
 - Three half-lives:

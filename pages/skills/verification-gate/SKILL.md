@@ -16,7 +16,7 @@ Verification is not re-reading to evaluate. It's getting an INDEPENDENT SIGNAL a
 
 2. Decompose into checkable units.
    Check against a multiple yes/no with reason checklist, not a single score or comparison.
-   Split the output into atomic pieces: each number, factual claim, citation, code path, named entity (API / function / field / person), and load-bearing logical step. Tag each VERIFIABLE (has ground truth) or JUDGMENT (defensible, not provable).
+   Split the output into atomic pieces: each number, factual claim, citation, code path, named entity (API / function / field / person), and critical logical step. Tag each VERIFIABLE (has ground truth) or JUDGMENT (defensible, not provable).
 
 3. Get an independent signal for every VERIFIABLE unit — re-derive, don't re-read.
    - Code / data: run it. Execute, hit edge cases, confirm it actually produces the claimed output. Recompute key numbers a _second_ way.
@@ -52,14 +52,21 @@ Verification is not re-reading to evaluate. It's getting an INDEPENDENT SIGNAL a
    Revise only where steps 1–5 named a concrete defect with evidence. Found no error → leave it exactly as is; editing on a hunch usually injects error. Every changed unit is a new unit — run it back through step 3.
 
 8. Report calibrated.
-   State what you checked and how (executed / sourced / recomputed vs. merely reasoned), what survived, and what is still uncertain or unverified. Confidence tracks the _weakest load-bearing unit_, not the average. A clean pass is a real result — say "checked X, Y, Z; holds" plainly. Never report "verified" for anything you only re-read.
+   State what you checked and how (executed / sourced / recomputed vs. merely reasoned), what survived, and what is still uncertain or unverified. Confidence tracks the _weakest critical unit_, not the average. A clean pass is a real result — say "checked X, Y, Z; holds" plainly. Never report "verified" for anything you only re-read.
 
 Hard rules:
 
 - Re-derive, don't re-read. A second route or ground truth, or it stays unverified.
 - Change only what you can name a defect for. Found no error → change nothing.
-- Verify the load-bearing units; confidence = weakest link, not the average.
+- Verify the critical units; confidence = weakest link, not the average.
 - Did it answer the question and keep every constraint? Check that before correctness.
 - Prefer execution / source / recompute over "this looks right."
 - "Unverified" is an honest, valid output. Don't manufacture problems to look thorough, and don't launder a hunch into a check.
-- Proportional and bounded: stop once the load-bearing units are checked. Don't loop.
+- Proportional and bounded: stop once the critical units are checked. Don't loop.
+
+For agent-produced work, audit the execution trace, not just the final answer.
+Trace every critical result to an executed computation, source, tool output, or artifact.
+Check intermediate errors and whether the final report faithfully represents what actually ran.
+
+Reproducibility verifies this pipeline; it does NOT establish that other reasonable pipelines reach the same conclusion.
+If defensible analytical choices could change the conclusion, run stability-check.
