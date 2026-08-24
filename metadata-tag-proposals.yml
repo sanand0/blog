@@ -22,7 +22,7 @@ proposals:
         content_hash: 7f54f4473f7d951b7b65c7694da52107ba77081dd42c7485a1c1a53a986c9498
   ambiversion:
     sources:
-      pages/notes/extrovert-or-introvert.md: &id001
+      pages/notes/extrovert-or-introvert.md:
         content_hash: 67236b09ecf974ae95552a96f28642940aede4b84ce4669d25cfc67bf1df3aad
   aws-partyrock:
     sources:
@@ -88,7 +88,8 @@ proposals:
         content_hash: 58940c7daf68f79aca99f26dc199b57826898bc25156633d3d0007cc24caa6a2
   introversion-extroversion:
     sources:
-      pages/notes/extrovert-or-introvert.md: *id001
+      pages/notes/extrovert-or-introvert.md:
+        content_hash: 67236b09ecf974ae95552a96f28642940aede4b84ce4669d25cfc67bf1df3aad
   kanata:
     sources:
       posts/2026/rofi-vs-kanata.md:
@@ -131,7 +132,8 @@ proposals:
         content_hash: 572b1eefe0e5e6450c745587c3db4de7bd3adddb5eaabe584a04847f081786e2
   personality-psychology:
     sources:
-      pages/notes/extrovert-or-introvert.md: *id001
+      pages/notes/extrovert-or-introvert.md:
+        content_hash: 67236b09ecf974ae95552a96f28642940aede4b84ce4669d25cfc67bf1df3aad
   recurring-meetings:
     sources:
       posts/2026/time-bound-recurring-meetings.md:

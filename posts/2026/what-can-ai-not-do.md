@@ -54,3 +54,5 @@ That's in order of decreasing frequency - but also increasing correctness, I thi
 4. Presence: This feels like one of those things which, almost by definition, seems hard to delegate.
 
 ![](https://files.s-anand.net/images/2026-08-20-what-can-i-not-do.avif)
+
+**My prediction**: By the end of the year, people will realize that agents are far more reliable, have far more reach, and the percentage citing these problems will fall below 25% and 15%. Presence will be the bigger problem AI cannot solve.
