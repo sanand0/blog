@@ -40,7 +40,7 @@ Here's the approach it took (comments are mine): <!-- AgentsView http://localhos
 # List my blog posts - which showed this: https://github.com/sanand0/blog/tree/main/posts
 ls ~/code/blog/posts/
 
-# Search for "BCG" - which returned 63 results, NONE of which was the post I needed!
+# Search for "BCG" - which returned 63 results, NONE of which were the post I needed!
 grep -r -i "BCG" ~/code/blog/posts/
 
 # Read the most likely first candidate
@@ -118,4 +118,4 @@ What impressed me about _both_ agents is that:
    - ChatGPT realized I might have _multiple_ blog posts about this.
    - Both updated search terms to use based on the results. For example, ChatGPT learnt I was at Infosys from the search results and _added_ that as a search term!
 
-So, I've reached a mental tipping point. **Local agents are good enough in an emergency**. They're slow, but they can my work done if needed.
+So, I've reached a mental tipping point. **Local agents are good enough in an emergency**. They're slow, but they can get my work done if needed.

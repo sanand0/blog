@@ -15,7 +15,7 @@ tags: [mcp, transcripts, system-prompt, markdown]
 -->
 
 ```markdown
-For the week ending Saturday ------ midnight (SGT), share updates to `~/Dropbox/notes/about/*.md` reading from @LocalMCP (without modifying files):
+For the last 7 days ending Saturday midnight (SGT), share updates to `~/Dropbox/notes/about/*.md` reading from @LocalMCP (without modifying files):
 
 - `~/Dropbox/notes/transcripts/**/*.md`
 - `~/Documents/data/s.anand@straive.com/{mail,calendar,chat}.jsonl`

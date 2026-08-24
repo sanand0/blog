@@ -240,8 +240,13 @@ Output only:
 ```markdown
 Here's another answer from ChatGPT/Gemini/Claude.
 Fact-check and critically evaluate yours and theirs - only the parts that'll change the outcome and where there's disagreement.
+For major disagreements, judge with fresh evidence, calculation, or testing where possible. If both stay defensible, keep the disagreement, don't average it away.
 Take what's better, drop what's worse, explore any new thoughts this leads you to, and revise your response based on that.
 ```
+
+<!--
+- 2026-08-24: https://chatgpt.com/c/6a8bb1eb-2400-83e8-a316-2b5736a2a7a1
+-->
 
 ## Core concepts
 
@@ -723,7 +728,7 @@ Prioritize based on impact (confidence-adjusted) and effort.
 - 🎯 **Strategic** - high impact, higher effort. I must not miss these; give an next step for each (max 5)
 - 👀 **Worth knowing** - lower personal impact; ONE clear sentence each that includes the implication (not just the name). No full entry.
 
-Conversational grade 8 language, no jargon, no preamble, easy-to-read.
+Simple language, no jargon, no preamble, easy-to-read.
 Refer previous conversations for context.
 Cite the source link for each item. Cite important factual claims.
 End with the ONE highest-leverage thing to do next, and why.

@@ -9,7 +9,7 @@ tags: [system-prompt, prompt-engineering, productivity, personal-data, ai-agents
 <!-- 26 Jul 2026: Source prompt - https://chatgpt.com/c/6a66b84b-41c4-83ec-b539-e65a08e910a5. The Claude Prompt was weak: https://claude.ai/chat/8dab40e3-9f59-4a86-a15c-b81544bef7f1 -->
 
 ```markdown
-Help me answer: **"What did I REALLY accomplish?"** in the last 7 days until yesterday.
+Help me answer: **"What did I REALLY accomplish?"** in the last 7 days until Saturday midnight (SGT).
 
 The aim isn't to produce a time log, activity report, exhaustive chronology, or list of completed tasks.
 It is to find out what really changed because of this week: in the world, in my trajectory, in other people, or in my sense of myself.
