@@ -6,7 +6,7 @@ categories:
   - how-i-do-things
 wp_id: 2283
 aliases:
-  - /blog/no-comments/
+  - /no-comments/
 description: I released my website content and code under the WTFPL because default copyright is too restrictive. Even Creative Commons Attribution felt like a constraint; I’d rather have my work used and modified freely without requiring any credit or permission.
 tags: [copyright, open-source]
 ---

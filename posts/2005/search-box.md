@@ -6,7 +6,7 @@ categories:
   - links
 wp_id: 705
 aliases:
-  - /blog/added-search-box/
+  - /added-search-box/
 description: I added a search box to the top of my blog that allows users to search through posts using regular expressions. The feature is implemented entirely with JavaScript, providing a fast and simple filtering method.
 tags: [javascript]
 ---
