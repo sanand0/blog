@@ -8,7 +8,7 @@ tags: [data-science, ai-automation, future-of-work, vibe-coding, analytics]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7364307983037579266/
 ---
 
-Slides for my DataHack Summit talk (controversially) titled **RIP Data Scientists** are at https://sanand0.github.io/talks/2025-08-21-rip-data-scientists/
+Slides for my DataHack Summit talk (controversially) titled **RIP Data Scientists** are at https://talks.s-anand.net/2025-08-21-rip-data-scientists/
 
 **Summary**: as data scientists we explore, clean, model, explain, deploy, and anonymize datasets. I live-vibe-coded _each_ step with DGCA data in 35 minutes using ChatGPT.
 

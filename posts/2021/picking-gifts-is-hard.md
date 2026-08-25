@@ -30,7 +30,7 @@ I went through some [popular](https://www.buzzfeed.com/alifacc/gift-for-someone-
 
 ... and the lists go on.
 
-But most gifts I receive [for my talks](/blog/talks/) are promotional.
+But most gifts I receive [for my talks](https://talks.s-anand.net/) are promotional.
 
 - **Plaques or certificates**. Some people put these up in their cabin. I don't have a cabin.
 - **Branded photo frames**. I don't have photos either.
@@ -39,6 +39,6 @@ But most gifts I receive [for my talks](/blog/talks/) are promotional.
 
 If they're wrapped in bubble wrap, I throw away the gift and [pop the bubble wrap with my daughter](https://twitter.com/sanand0/status/483925112509317120).
 
-So I just added a section to [my talks page](/blog/talks/).
+So I just added a section to [my talks page](https://talks.s-anand.net/).
 
 **"If you want to send gifts, I only accept dry fruits."**

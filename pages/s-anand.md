@@ -24,7 +24,7 @@ tags: [s-anand, gramener, iit-madras, iim-bangalore, bcg, data-science, consulti
 
 **WORKING WITH ME**
 
-To invite me to **speak**, please see my [talks page](/blog/talks/).
+To invite me to **speak**, please see my [talks page](https://talks.s-anand.net/).
 
 For **advice**, see [time management](/blog/time/), [career](/blog/career-advice/) or [AI advice](/blog/ai-advice/). Else mail me.
 

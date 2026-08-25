@@ -10,23 +10,23 @@ tags: [llm-comparison, claude-code, coding-agents]
 
 Based on several (i.e. two) recommendations, I subscribed to [MiniMax](https://platform.minimax.io/). At $10/month, you get 1,500 requests every 5 hours and 15,000 every week. That's a LOT!
 
-Using the [same prompt](https://sanand0.github.io/talks/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/prompts.md) I had [Claude Code](https://platform.minimax.io/docs/token-plan/claude-code) generate two data stories:
+Using the [same prompt](https://talks.s-anand.net/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/prompts.md) I had [Claude Code](https://platform.minimax.io/docs/token-plan/claude-code) generate two data stories:
 
-<a href="https://sanand0.github.io/talks/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/index.html">
+<a href="https://talks.s-anand.net/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/index.html">
   <figure>
     <img src="https://files.s-anand.net/images/2026-03-24-rob-data-story-claude.avif" alt="In July 2025, in the heavy morning warmth of Thiruvananthapuram, the opening talk at the TeX User Group annual conference began with a crayon drawing. Not a polished diagram. Not a carefully curated slide. A hand-drawn family tree on crumpled paper, made by a six-year-old girl named Emily, who had a problem to solve. She had told her teacher she had seven grandmothers. The teacher declared it impossible. Emily went home and built a proof." />
     <figcaption>The first paragraph, by Claude Sonnet 4.6</figcaption>
   </figure>
 </a>
 
-<a href="https://sanand0.github.io/talks/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/minimax.html">
+<a href="https://talks.s-anand.net/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/minimax.html">
   <figure>
     <img src="https://files.s-anand.net/images/2026-03-24-rob-data-story-minimax.avif" alt="There is a drawing by a six-year-old girl in Amsterdam that contains more wisdom about data quality than three decades of enterprise content architecture. In it, seven figures stand in a family tree — each grandmother numbered with a circle, each grandfather conspicuously absent. The girl is Rob Schrauwen's granddaughter. She was asked to prove she had seven grandmothers; she drew them all, labeled them carefully, and in doing so invented continuous data quality, unique identifiers, and a knowledge graph — all before she learned to spell &quot;Hetty.&quot;" />
     <figcaption>The first paragraph, by MiniMax M2.7</figcaption>
   </figure>
 </a>
 
-Here's my comparison of the two. It's partly based on [Claude Opus 4.6's comparison](https://sanand0.github.io/talks/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/comparison.md) but I felt the same way.
+Here's my comparison of the two. It's partly based on [Claude Opus 4.6's comparison](https://talks.s-anand.net/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/comparison.md) but I felt the same way.
 
 | Dimension               | Sonnet 4.6                                  | MiniMax M2.7                |
 | ----------------------- | ------------------------------------------- | --------------------------- |
@@ -47,7 +47,7 @@ In other words, Sonnet 4.6 is a _clear_ winner on nearly every dimension.
 
 But the cost factor is _too_ big a difference to ignore. It feels like a 10x difference. So the question probably is: what can I do with a _reasonably_ good model that can generate 10X the quantity at the same price?
 
-(To be fair, [GPT 5.4 Mini at 75c/MTok](https://openrouter.ai/openai/gpt-5.4-mini) and [Gemini 3 Flash at 50c/MTok](https://openrouter.ai/google/gemini-3-flash-preview) are not far from [MiniMax M2.7 at 30c/MTok](https://openrouter.ai/minimax/minimax-m2.7) - but their [code quality](https://arena.ai/leaderboard/code) seems lower. I generated a [Codex - GPT 5.4 Mini version](https://sanand0.github.io/talks/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/gpt-5.4-mini-xhigh.html) and while it has fewer errors it has even less visual style and narrative quality.)
+(To be fair, [GPT 5.4 Mini at 75c/MTok](https://openrouter.ai/openai/gpt-5.4-mini) and [Gemini 3 Flash at 50c/MTok](https://openrouter.ai/google/gemini-3-flash-preview) are not far from [MiniMax M2.7 at 30c/MTok](https://openrouter.ai/minimax/minimax-m2.7) - but their [code quality](https://arena.ai/leaderboard/code) seems lower. I generated a [Codex - GPT 5.4 Mini version](https://talks.s-anand.net/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/gpt-5.4-mini-xhigh.html) and while it has fewer errors it has even less visual style and narrative quality.)
 
 **Computer use** feels like a candidate. I used [Rodney](https://github.com/simonw/rodney) to research what drives my LinkedIn reach & engagement, and update my [SKILL.md](https://github.com/sanand0/scripts/blob/f08ffd11e221c5a9ef58d5da814aaad9985bd422/agents/linkedin-cdp/SKILL.md).
 

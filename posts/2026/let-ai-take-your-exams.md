@@ -17,13 +17,13 @@ My core message is: "AI can solve exams and help you learn. Delegate what AI can
   <source src="https://media.s-anand.net/2026-06-12-let-ai-take-your-exam.webm" type="video/webm; codecs=&quot;vp9, opus&quot;">
 </video>
 
-[My talks page for "Let AI take your exams"](https://sanand0.github.io/talks/2026-06-12-let-ai-take-your-exams/) includes:
+[My talks page for "Let AI take your exams"](https://talks.s-anand.net/2026-06-12-let-ai-take-your-exams/) includes:
 
-- [The full story + transcript + audio](https://sanand0.github.io/talks/2026-06-12-let-ai-take-your-exams/story.html)
-- [How Codex solved a real exam, live](https://sanand0.github.io/talks/2026-06-12-let-ai-take-your-exams/codex.html)
-- [My collection of AI-learning techniques](https://sanand0.github.io/talks/2026-06-12-let-ai-take-your-exams/techniques.html) - which was not covered in the workshop, but is a useful reference
+- [The full story + transcript + audio](https://talks.s-anand.net/2026-06-12-let-ai-take-your-exams/story.html)
+- [How Codex solved a real exam, live](https://talks.s-anand.net/2026-06-12-let-ai-take-your-exams/codex.html)
+- [My collection of AI-learning techniques](https://talks.s-anand.net/2026-06-12-let-ai-take-your-exams/techniques.html) - which was not covered in the workshop, but is a useful reference
 
-Here are the [takeaways from the workshop](https://sanand0.github.io/talks/2026-06-12-let-ai-take-your-exams/story.html):
+Here are the [takeaways from the workshop](https://talks.s-anand.net/2026-06-12-let-ai-take-your-exams/story.html):
 
 1. **AI is more capable than you think — and getting smarter.** Recalibrate constantly what it can and can't do. Note down what it can't, because that is precisely where your value lives.
 2. **Delegate first; learn the rest.** Give everything to AI. Focus your learning on what it can't yet do — that's where the value will be. It's a moving filter; revisit it every quarter.
@@ -36,7 +36,7 @@ Here are the [takeaways from the workshop](https://sanand0.github.io/talks/2026-
 9. **Learn from peers.** Multiple people trying things is how you discover what works. Non-transactional relationships are the rising currency of the AI era.
 10. **Apply the scientific method to everything.** Form a hypothesis, hunt for evidence, try to falsify yourself. And when a system blocks you unfairly — hack it, then publish what you learned.
 
-Here are the [takeaways from how Codex solved the exam](https://sanand0.github.io/talks/2026-06-12-let-ai-take-your-exams/codex.html):
+Here are the [takeaways from how Codex solved the exam](https://talks.s-anand.net/2026-06-12-let-ai-take-your-exams/codex.html):
 
 1. **An agent operates the environment; a chatbot answers the question.** Codex read source, ran code, clicked Check, and looped on feedback. That's why it beat copy-paste — the exam was full of affordances a chatbot can't touch.
 2. **Verifiable environments favour AI.** The more checkable the exam — validators, error strings, downloadable files, a live Check button — the more it helped the agent, not the student. "AI-proof" and "feedback-rich" are opposites.

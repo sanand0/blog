@@ -81,7 +81,7 @@ Here are a few examples (and they're _good_ ones):
 
 ---
 
-When I delivered the [Society for Clinical Data Management keynote](https://sanand0.github.io/talks/2025-12-05-scdm-keynote/), they audience was surprised how much I knew about their field because I spoke about [Informed Consent Forms](https://sanand0.github.io/talks/2025-12-05-scdm-keynote/#4) and [Extracting Schedule of Assessments](https://sanand0.github.io/talks/2025-12-05-scdm-keynote/#13) and so on. Truth is, I know _nothing_ about these. Claude created the slides. I asked it to explain enough so I can talk through it.
+When I delivered the [Society for Clinical Data Management keynote](https://talks.s-anand.net/2025-12-05-scdm-keynote/), they audience was surprised how much I knew about their field because I spoke about [Informed Consent Forms](https://talks.s-anand.net/2025-12-05-scdm-keynote/#4) and [Extracting Schedule of Assessments](https://talks.s-anand.net/2025-12-05-scdm-keynote/#13) and so on. Truth is, I know _nothing_ about these. Claude created the slides. I asked it to explain enough so I can talk through it.
 
 I didn't get the implication then, but I think I do now, and the implication is stunning. I now have material to deliver a talk to _any_ audience.
 

@@ -7,7 +7,7 @@ description: 'I explain why I sometimes speak deliberately under-prepared: ad-li
 tags: [public-speaking, generative-ai, gemini, chatgpt]
 ---
 
-I deliver about [3-5 talks a month](https://sanand0.github.io/talks/) and usually prepare for them.
+I deliver about [3-5 talks a month](https://talks.s-anand.net/) and usually prepare for them.
 
 Thanks to AI (but even otherwise), I have a steady stream of new content. So, I just to assemble the story.
 
@@ -19,9 +19,9 @@ So, often, I ad-lib. Impromptu. Deliberately under-prepared. (Panels are good pr
 
 This has a surprising benefit. In the pressure of the moment, inspiration can strike.
 
-![Like it strikes Calvin](https://sanand0.github.io/talks/2026-04-06-innovation-as-a-frontier-straive/calvin-last-minute-panic.webp)
+![Like it strikes Calvin](https://talks.s-anand.net/2026-04-06-innovation-as-a-frontier-straive/calvin-last-minute-panic.webp)
 
-For example, yesterday, at an [internal Straive fireside chat](https://sanand0.github.io/talks/2026-04-06-innovation-as-a-frontier-straive/), I went completely off-script and answered a question on the chat about the benefits of [Gemini](https://gemini.google.com/).
+For example, yesterday, at an [internal Straive fireside chat](https://talks.s-anand.net/2026-04-06-innovation-as-a-frontier-straive/), I went completely off-script and answered a question on the chat about the benefits of [Gemini](https://gemini.google.com/).
 
 > The sort of things that you can do with Gemini is amazing. And what I do ... is to poke ... what can I do here? What's in here? What's in here? Recently, I saw that it can create music. And some of this music is stunning!
 
@@ -34,7 +34,7 @@ Then, inspiration struck!
 I went to ChatGPT and asked it to create a _personalized_ jingle for the talk I was delivering, providing it my name, title, talk topic, etc. - something the L&D team could replace their stock jingle with. And it was pretty good, actually.
 
 <audio controls preload="metadata">
-  <source src="https://sanand0.github.io/talks/2026-04-06-innovation-as-a-frontier-straive/where-the-paths-thrive.opus" type="audio/ogg; codecs=opus">
+  <source src="https://talks.s-anand.net/2026-04-06-innovation-as-a-frontier-straive/where-the-paths-thrive.opus" type="audio/ogg; codecs=opus">
 </audio>
 
 That's a novel _and_ a useful idea - something _many_ people can use!

@@ -67,7 +67,7 @@ def regular_content_files(content_dir: Path) -> list[Path]:
 
 def is_public_doc(doc: MarkdownDoc, today: date | None = None) -> bool:
     """Return whether Hugo publishes this regular content page by default."""
-    if doc.front_matter.get("draft") is True:
+    if doc.front_matter.get("draft") is True or doc.front_matter.get("redirect"):
         return False
     date_value = doc.front_matter.get("date")
     if isinstance(date_value, datetime):

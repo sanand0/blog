@@ -11,7 +11,7 @@ tags: [presentations, browser-tools]
 
 My last two presentations used browser tabs as slides.
 
-For my talk last week titled [Your _Chotu_ Is Smarter Than You Think](https://sanand0.github.io/talks/2026-02-11-amat-dt-day/), I planned to show a series of examples. I loaded them all in a browser window as tabs like this:
+For my talk last week titled [Your _Chotu_ Is Smarter Than You Think](https://talks.s-anand.net/2026-02-11-amat-dt-day/), I planned to show a series of examples. I loaded them all in a browser window as tabs like this:
 
 1. [How I use AI to navigate toilets](https://www.s-anand.net/blog/llm-escapades-in-a-toilet/)
 2. [How I use AI for food recommendation](https://chatgpt.com/share/698c125b-c4b0-800c-8006-9c92a24c4e9e)

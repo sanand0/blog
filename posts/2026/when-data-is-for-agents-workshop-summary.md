@@ -10,7 +10,7 @@ tags: [ai-agents, benchmarking, prompt-engineering]
 
 Here's roughly what I said in my [When Data is for Agents](https://hasgeek.com/fifthelephant/when-data-is-for-agents-workshop/) workshop for [Fifth Elephant](https://hasgeek.com/fifthelephant/) on 7 Jul 2026.
 
-Or you can read the [detailed AI-generated version](https://sanand0.github.io/talks/2026-07-07-when-data-is-for-agents-fifth-elephant/) if you prefer - it has all the prompts, links, results, etc.
+Or you can read the [detailed AI-generated version](https://talks.s-anand.net/2026-07-07-when-data-is-for-agents-fifth-elephant/) if you prefer - it has all the prompts, links, results, etc.
 
 ---
 
@@ -53,4 +53,4 @@ OK, folks, my takeaways:
 
 ---
 
-![](https://sanand0.github.io/talks/2026-07-07-when-data-is-for-agents-fifth-elephant/summary.avif)
+![](https://talks.s-anand.net/2026-07-07-when-data-is-for-agents-fifth-elephant/summary.avif)

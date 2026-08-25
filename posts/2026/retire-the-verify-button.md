@@ -28,7 +28,7 @@ His process tells us what to do with a verify button as volume climbs.
 
 Also, it's best to avoid overreacting to defects. Deming called this (re-tuning the process after every defect) *tampering*. It makes the variation worse. It's worth collecting data and finding the real causes before changing the process.
 
-That's what [Ankor](https://www.linkedin.com/in/ankorrai) calls the [future of verifiable autonomy](https://sanand0.github.io/talks/2026-03-18-verifiable-agents/). It starts with:
+That's what [Ankor](https://www.linkedin.com/in/ankorrai) calls the [future of verifiable autonomy](https://talks.s-anand.net/2026-03-18-verifiable-agents/). It starts with:
 
 > we are going to have to move beyond testing correctness to standard testing… if we test the pipeline once before deployment, we can trust that every single output produced by that pipeline, unless we make any adjustment to it, can be trusted.
 

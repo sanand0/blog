@@ -38,7 +38,7 @@ Each panel's image should support and strengthen its caption - and reinforcing p
 
 Example:
 
-[![](https://sanand0.github.io/talks/2026-08-07-data-hack-summit/comic-page.avif)](https://sanand0.github.io/talks/2026-08-07-data-hack-summit/)
+[![](https://talks.s-anand.net/2026-08-07-data-hack-summit/comic-page.avif)](https://talks.s-anand.net/2026-08-07-data-hack-summit/)
 
 [Comic _strip_ prompt fragment](https://github.com/sanand0/blog/blob/d51ff28c1573e62d5d9dcff7caf04f1ffdd7ce85/pages/prompts/fragments.md#comic-strip):
 

@@ -23,8 +23,8 @@ This week, I flipped that. I wrote slides **after** the talk. I call them **Afte
 
 Here are a few AfterSlides from AMAs at:
 
-GALE: https://sanand0.github.io/talks/2025-09-15-llm-ama-gale/\
-BI Worldwide: https://sanand0.github.io/talks/2025-09-18-llm-ama-bi-worldwide/
+GALE: https://talks.s-anand.net/2025-09-15-llm-ama-gale/\
+BI Worldwide: https://talks.s-anand.net/2025-09-18-llm-ama-bi-worldwide/
 
 I see potential for this in:
 

@@ -20,15 +20,15 @@ My workshop process is designed to benefit me first.
 
 **I pick topics I want to learn**, not stuff useful to the audience. Example: I picked DuckDB for my [PyCon India 2025 talk](https://github.com/sanand0/talks/tree/main/2025-09-13-duckdb-is-the-new-pandas) to learn it.
 
-**I experiment on the audience**. Example: I tried [voice-vibe-modeling](https://youtu.be/xZpdwLHW40o?t=1538) in my [RIP Data Scientists talk](https://sanand0.github.io/talks/2025-08-21-rip-data-scientists/). Experiments fail often, e.g. vibe-coding Minecraft in PyCon IN 2023.
+**I experiment on the audience**. Example: I tried [voice-vibe-modeling](https://youtu.be/xZpdwLHW40o?t=1538) in my [RIP Data Scientists talk](https://talks.s-anand.net/2025-08-21-rip-data-scientists/). Experiments fail often, e.g. vibe-coding Minecraft in PyCon IN 2023.
 
-**I learn from the audience**. Example: [Rakesh Roshan's K-fetish is statistically significant](https://sanand0.github.io/talks/2025-09-16-vibe-analysis/#13), via my [Vibe Analysis workshop](https://sanand0.github.io/talks/2025-09-16-vibe-analysis/).
+**I learn from the audience**. Example: [Rakesh Roshan's K-fetish is statistically significant](https://talks.s-anand.net/2025-09-16-vibe-analysis/#13), via my [Vibe Analysis workshop](https://talks.s-anand.net/2025-09-16-vibe-analysis/).
 
 **I collect data** from the audience. Example: [How student copy](https://sanand0.github.io/tds-2024-sep-project-2-results/similar.html).
 
-**I gather ideas**. Example: [skills AI will replace](https://youtu.be/sSyBUSuLduQ?t=1251), from my [IITM DOMS commencement talk](https://sanand0.github.io/talks/2025-07-13-goodbye-mba-hello-ai/).
+**I gather ideas**. Example: [skills AI will replace](https://youtu.be/sSyBUSuLduQ?t=1251), from my [IITM DOMS commencement talk](https://talks.s-anand.net/2025-07-13-goodbye-mba-hello-ai/).
 
-**I publish these**, too, with [recordings and transcripts](https://sanand0.github.io/talks/).
+**I publish these**, too, with [recordings and transcripts](https://talks.s-anand.net/).
 
 LLMs let me do **more** such stuff:
 

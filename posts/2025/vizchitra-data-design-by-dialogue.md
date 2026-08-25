@@ -32,7 +32,7 @@ Main **takeaways**:
 
 ---
 
-- Slides: https://sanand0.github.io/talks/2025-06-27-data-design-by-dialogue/
+- Slides: https://talks.s-anand.net/2025-06-27-data-design-by-dialogue/
 - Video: https://youtu.be/hPH5_ulHtno
 - Transcript: https://github.com/sanand0/talks/blob/main/2025-06-27-data-design-by-dialogue/transcript.md
 

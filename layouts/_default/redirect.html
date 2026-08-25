@@ -1,0 +1,18 @@
+<!doctype html>
+<!-- GitHub Pages cannot emit HTTP redirects; use an edge 301/308 in production. This is the static fallback. -->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} moved | {{ site.Title }}</title>
+  <link rel="canonical" href="{{ .Params.redirect }}">
+  {{- with .Params.sourcePath }}
+  <link rel="alternate" type="text/markdown" href="{{ printf "%s/%s" (strings.TrimSuffix "/" site.Params.github.rawMarkdownBase) . }}">
+  {{- end }}
+  <script>location.replace({{ .Params.redirect | jsonify | safeJS }} + location.hash)</script>
+  <meta http-equiv="refresh" content="0; url={{ .Params.redirect }}">
+</head>
+<body data-pagefind-ignore="all">
+  <p>This page has moved permanently to <a href="{{ .Params.redirect }}">{{ .Params.redirect }}</a>.</p>
+</body>
+</html>

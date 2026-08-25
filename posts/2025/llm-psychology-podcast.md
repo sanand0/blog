@@ -16,7 +16,7 @@ But it's also fascinating to see how much SECONDARY content you can generate fro
 
 Do you prefer sketch-notes? See Nano Banana Pro's version below.
 
-Or are you a slides person? https://sanand0.github.io/talks/2025-11-06-llm-psychology/
+Or are you a slides person? https://talks.s-anand.net/2025-11-06-llm-psychology/
 
 How about a Malcolm Gladwell article? https://github.com/sanand0/talks/raw/refs/heads/main/2025-11-06-llm-psychology/mind-readers.docx
 

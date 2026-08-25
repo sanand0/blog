@@ -29,7 +29,7 @@ Funny bits
 
 ---
 
-- Slides: https://sanand0.github.io/talks/2025-07-13-goodbye-mba-hello-ai/
+- Slides: https://talks.s-anand.net/2025-07-13-goodbye-mba-hello-ai/
 - Transcript: https://github.com/sanand0/talks/blob/main/2025-07-13-goodbye-mba-hello-ai/transcript.md
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/sSyBUSuLduQ" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

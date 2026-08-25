@@ -10,7 +10,7 @@ tags: [generative-ai, gemini, communication]
 
 Lyria (Gemini's new "Create Song" feature) is helping me in new ways. Earlier this week, it [created a jingle for my talk](/blog/speaking-unprepared/).
 
-Yesterday I ran an [AI Workshop for IAS officers](https://sanand0.github.io/talks/2026-04-08-ai-workshop-lbsnaa/). As part of that, I asked [Gemini](https://gemini.google.com/share/7a8f5e3c8ca9):
+Yesterday I ran an [AI Workshop for IAS officers](https://talks.s-anand.net/2026-04-08-ai-workshop-lbsnaa/). As part of that, I asked [Gemini](https://gemini.google.com/share/7a8f5e3c8ca9):
 
 > Create a soulful vote of thanks (with patriotic Indian music playing in the background) naming each of these people.
 

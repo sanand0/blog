@@ -35,6 +35,6 @@ I was at a panel on [AI in SDLC](https://2026.pyconfhyd.org/) at PyConf. Here's 
 - Create safe spaces where hallucinations don't matter and run experiments there to learn what AI can do.
 - Plan for where AI'll be a year later. It's growing _very_ rapidly.
 
-The full details of the panel discussion are at [Who Owns the Commit?](https://sanand0.github.io/talks/2026-03-15-pyconf-ai-in-sdlc/)
+The full details of the panel discussion are at [Who Owns the Commit?](https://talks.s-anand.net/2026-03-15-pyconf-ai-in-sdlc/)
 
-![](https://sanand0.github.io/talks/2026-03-15-pyconf-ai-in-sdlc/sketchnote.avif)
+![](https://talks.s-anand.net/2026-03-15-pyconf-ai-in-sdlc/sketchnote.avif)

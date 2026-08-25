@@ -10,7 +10,7 @@ tags: [llms, data-engineering, data-analysis, organizational-culture]
 
 As AI marches along, another role at risk is the data engineer / database administrator.
 
-([Data scientists](https://sanand0.github.io/talks/2025-08-21-rip-data-scientists/) are already feeling the heat.)
+([Data scientists](https://talks.s-anand.net/2025-08-21-rip-data-scientists/) are already feeling the heat.)
 
 A common task for data engineers is to analyze SQL queries - to optimize and standardize.
 

@@ -14,7 +14,7 @@ The 11 sites I visit most:
 3. **WhatsApp**. It's my default phone + messaging app. A fair bit of my work communication happens here, too.
 4. **Prime Video**. I mainly watch The Mentalist. Totally love Patrick Jane!
 5. **Google AI Studio**. Mostly for transcription. It's better than Gemini on UI, ability to handle uploads, file-formats, etc. It's also free (though the data is used for training.)
-6. **My Talks page**: https://sanand0.github.io/talks/. I give 1-1.5 talks a week, mostly on AI/ML topics. I use Marp to render Markdown slides and publish it here.
+6. **My Talks page**: https://talks.s-anand.net/. I give 1-1.5 talks a week, mostly on AI/ML topics. I use Marp to render Markdown slides and publish it here.
 7. **Google Chat**. It's Straive's social channel. I can't use it from my phone, so I log in only if I need to check if I missed something.
 8. **LinkedIn**. It's where I post by default. I don't use it for networking and only connect with people I've met and know well.
 9. **YouTube**. Mostly for movie clips over dinner. I occasionally watch educational content.

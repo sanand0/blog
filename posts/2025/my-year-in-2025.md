@@ -28,8 +28,8 @@ Let's dive into what worked.
 1. **Better husband**. I asked my wife "Was I a better husband in 2025 than 2024?". "You set a goal right? (Long pause.) Yeah... (sigh)".
 2. **Interview 10 experts**. I went way over 20. The key learning is that transcription + AI analysis mines insights from normal conversations, so expertise amplifies.
 3. **50 books**. I stopped after 6 books in Feb. But I learnt how [AI can remix books](/blog/i-count-ai-summarized-books-as-read/) so I ["read" the rest](/blog/books-in-2025/) last week of the year. Same learning, less time.
-4. **Teach 5,000 students**. I did a rough count. ~1,500 students x 3 terms at [IIT Madras](https://tds.s-anand.net/) plus 10-300 people in my ~30-40 [talks/workshops](https://sanand0.github.io/talks/) this year. I'm ahead.
-5. **Run a course only with AI**. The earliest was a [Vibe Coding workshop @ SETU](https://youtu.be/ODXSDbY12dg). Just me and AI, no prep. Many followed, e.g. [Mining Digital Exhaust, Dec 2025](https://sanand0.github.io/talks/2025-12-06-mining-digital-exhaust/).
+4. **Teach 5,000 students**. I did a rough count. ~1,500 students x 3 terms at [IIT Madras](https://tds.s-anand.net/) plus 10-300 people in my ~30-40 [talks/workshops](https://talks.s-anand.net/) this year. I'm ahead.
+5. **Run a course only with AI**. The earliest was a [Vibe Coding workshop @ SETU](https://youtu.be/ODXSDbY12dg). Just me and AI, no prep. Many followed, e.g. [Mining Digital Exhaust, Dec 2025](https://talks.s-anand.net/2025-12-06-mining-digital-exhaust/).
 6. **20 data stories**. Since coding agents generate data stories better and faster than I can, this goal was easy. I created over 50 data stories, many of which are at [published here](https://sanand0.github.io/datastories/).
 7. **300 days of GitHub**. As of 25 Dec 2025, I was active on [GitHub](https://github.com/sanand0/) for 300 days this year. Last year, I was only coding. This year, 12% was reviewing PRs, thanks to AI coding agents.
 8. **Co-present with an AI**. I co-presented with ChatGPT at [The Hindu webinar on AI](https://youtu.be/pbRFDUGby3o) and twice after that. Unfortunately, it stole the show! So, I'm exploring balance.

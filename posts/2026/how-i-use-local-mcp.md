@@ -90,7 +90,7 @@ Here, I'm asking "What am I missing?" and the answer depends on recency, relatio
 I used Local MCP to ask what I should blog about. It scanned all my content and found themes I haven't really thought about, like:
 
 - [Google Meet captions](https://www.s-anand.net/blog/google-meet-captions-local-transcript-recorder/) - a code commit I recently made. I wrote about it.
-- [Agents are the new software](https://sanand0.github.io/talks/2026-05-15-gramener-all-hands/) - a theme I've been talking a lot about. I wrote about it.
+- [Agents are the new software](https://talks.s-anand.net/2026-05-15-gramener-all-hands/) - a theme I've been talking a lot about. I wrote about it.
 - Local MCPs - that's this post
 
 ... and half a dozen topics I should be writing about soon.

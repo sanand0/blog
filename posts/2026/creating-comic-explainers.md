@@ -36,9 +36,9 @@ It gave me a prompt which I've iterated on a few times. This is the [comic page 
 
 Some examples of the output:
 
-[What Your AI Doesn't Know About You](https://sanand0.github.io/talks/2026-05-23-ai-unboxed-context-engineering/)
+[What Your AI Doesn't Know About You](https://talks.s-anand.net/2026-05-23-ai-unboxed-context-engineering/)
 
-[![](https://sanand0.github.io/talks/2026-05-23-ai-unboxed-context-engineering/comic-page.avif)](https://sanand0.github.io/talks/2026-05-23-ai-unboxed-context-engineering/)
+[![](https://talks.s-anand.net/2026-05-23-ai-unboxed-context-engineering/comic-page.avif)](https://talks.s-anand.net/2026-05-23-ai-unboxed-context-engineering/)
 
 [Where Enterprise AI is Headed](https://www.s-anand.net/blog/where-enterprise-ai-is-headed/)
 

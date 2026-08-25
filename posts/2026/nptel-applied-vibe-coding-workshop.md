@@ -15,7 +15,7 @@ For those who missed my [Applied Vibe Coding Workshop](https://elearn.nptel.ac.i
 
 You can also:
 
-- [Read this summary of the talk](https://sanand0.github.io/talks/2026-01-11-nptel-vibe-coding-workshop/)
+- [Read this summary of the talk](https://talks.s-anand.net/2026-01-11-nptel-vibe-coding-workshop/)
 - [Read the transcript](https://github.com/sanand0/talks/blob/main/2026-01-11-nptel-vibe-coding-workshop/transcript.md)
 
 ![Sketchnote of the talk](https://raw.githubusercontent.com/sanand0/talks/refs/heads/main/2026-01-11-nptel-vibe-coding-workshop/sketchnote.avif)

@@ -15,7 +15,7 @@ I spoke about vibe coding at [SETU School](https://setuschool.com/) last week.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ODXSDbY12dg" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-**Transcript**: <https://sanand0.github.io/talks/#/2025-05-10-vibe-coding/>
+**Transcript**: <https://talks.s-anand.net/2025-05-10-vibe-coding/>
 
 Here are the top messages from the talk:
 

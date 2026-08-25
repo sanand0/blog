@@ -22,12 +22,12 @@ How? A fairly straight-forward process:
 
 Models are super smart, but everyone has equal access to them. Your personal data is unique. Combine them to get something **powerful**.
 
-Workshop summary: https://sanand0.github.io/talks/2025-12-06-mining-digital-exhaust/
+Workshop summary: https://talks.s-anand.net/2025-12-06-mining-digital-exhaust/
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/rVACVezdDxc" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Organized by Hasgeek at the Sahaj Software office in Bangalore.
 
-![](https://sanand0.github.io/talks/2025-12-06-mining-digital-exhaust/sketchnote.webp)
+![](https://talks.s-anand.net/2025-12-06-mining-digital-exhaust/sketchnote.webp)
 
 [LinkedIn](https://www.linkedin.com/posts/sanand0_in-my-mining-digital-exhaust-workshop-on-activity-7403991793068892160-ix31)

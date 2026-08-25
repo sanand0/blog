@@ -30,7 +30,7 @@ Here're 6 stories completed _during_ the 3-hour workshop:
 
 The material is online. Try it!
 
-Slides: https://sanand0.github.io/talks/2025-06-28-prompt-to-plot/
+Slides: https://talks.s-anand.net/2025-06-28-prompt-to-plot/
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/SdDulR-1bBM" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

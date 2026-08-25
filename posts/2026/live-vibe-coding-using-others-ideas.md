@@ -9,7 +9,7 @@ description: I prepared a short Chennai Design Festival talk by listening to oth
 tags: [vibe-coding, ai-creativity, idea-generation]
 ---
 
-I spoke today on [Design in the Age of Infinite Generativity](https://sanand0.github.io/talks/2026-03-21-design-in-the-age-of-infinite-generativity/) at the [Chennai Design Festival](https://www.chennaidesignfestival.com/).
+I spoke today on [Design in the Age of Infinite Generativity](https://talks.s-anand.net/2026-03-21-design-in-the-age-of-infinite-generativity/) at the [Chennai Design Festival](https://www.chennaidesignfestival.com/).
 
 You can read about the talk in the link about. This post is about my preparation.
 
@@ -26,14 +26,14 @@ You can read about the talk in the link about. This post is about my preparation
 
 - 3:40 pm. [Asked Claude for more ideas like Senthil's](https://claude.ai/share/f9f8bce9-bb29-4795-b5c1-8faa7eca4dfe). It looked fine and I could read it later, but what if... maybe... I **presented these ideas**!?
 - 3:45 pm. [Ask Gemini to draw the first idea - a Modular Kolam Mat](https://gemini.google.com/share/c201f58b95b3). The results look _fantastic_!
-  ![](https://sanand0.github.io/talks/2026-03-21-design-in-the-age-of-infinite-generativity/modular-kolam-1.avif)
+  ![](https://talks.s-anand.net/2026-03-21-design-in-the-age-of-infinite-generativity/modular-kolam-1.avif)
 - 3:50 pm. Now I'm going ga-ga over the idea. I generate images for 3 more ideas: a growth chart kurta, seed library sari border, and recipe towel.
 - 4:15 pm. [Narendra](https://www.linkedin.com/in/narendraghate/) shares a bunch of cool PsychOps design hacks like:
   - When lights are dimmed people speak softer. So, dimming lights reduces sound levels in noisy offices.
   - Rather than reduce the size of shampoo sachets (which customers and business both hate), include 2 shampoos in one sachet, tearable in the middle.
   - Price saches at 95p with a 5p deposit for the sachet - which rag-pickers can collect and return to the retailer.
 - 4:20 pm. [Ask Claude for more ideas like Narendra's](https://claude.ai/share/74c27359-7710-463e-8488-60fef2df6bfc). The results are _just as fantastic_!
-  ![](https://sanand0.github.io/talks/2026-03-21-design-in-the-age-of-infinite-generativity/expired-medication-color.avif)
+  ![](https://talks.s-anand.net/2026-03-21-design-in-the-age-of-infinite-generativity/expired-medication-color.avif)
 - 4:30 pm. I now have images for his ideas too. Now, I start deleting my more boring links.
 
 In fact, these ideas ended up being _so_ good that the bulk of my talk was just about ideas derived from their work. (I'm obviously a big fan of plagiarism!)

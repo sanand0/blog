@@ -12,7 +12,7 @@ tags: [ai-agents, data-analysis]
 
 **OK, so agents can analyze data crazily fast.**
 
-At the [EQT India AI & Cyber Summit](https://sanand0.github.io/talks/2026-06-16-eqt-data-stack-for-agents/), I asked 15 CIOs how long a customer-master reconciliation would take across 3 messy sources with different IDs, columns, spellings, missing fields, no common key, etc. [See the dataset](https://files.s-anand.net/pages/customer-masters-data/).
+At the [EQT India AI & Cyber Summit](https://talks.s-anand.net/2026-06-16-eqt-data-stack-for-agents/), I asked 15 CIOs how long a customer-master reconciliation would take across 3 messy sources with different IDs, columns, spellings, missing fields, no common key, etc. [See the dataset](https://files.s-anand.net/pages/customer-masters-data/).
 
 "A week to a month" was the median response.
 
@@ -64,6 +64,6 @@ Please try analyzing _any_ data - and do let me know if it fails!
 
 ---
 
-You can [see the summary, transcript, audio, and data](https://sanand0.github.io/talks/2026-06-16-eqt-data-stack-for-agents/) from the session.
+You can [see the summary, transcript, audio, and data](https://talks.s-anand.net/2026-06-16-eqt-data-stack-for-agents/) from the session.
 
-![](https://sanand0.github.io/talks/2026-06-16-eqt-data-stack-for-agents/summary.avif)
+![](https://talks.s-anand.net/2026-06-16-eqt-data-stack-for-agents/summary.avif)

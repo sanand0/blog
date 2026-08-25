@@ -10,7 +10,7 @@ description: I conducted a practical online workshop where participants used Cha
 tags: [data-storytelling, data-visualization, llms]
 ---
 
-On Sat 13 Jun 2026 at 3 pm, I conducted an online workshop on [Data Stories with AI](https://sanand0.github.io/talks/2026-06-13-data-stories-with-ai/).
+On Sat 13 Jun 2026 at 3 pm, I conducted an online workshop on [Data Stories with AI](https://talks.s-anand.net/2026-06-13-data-stories-with-ai/).
 
 **Registration link: <https://forms.gle/dNkUxtJ2PVqNMNcE9>**
 
@@ -34,7 +34,7 @@ It's on **Google Meet: <https://meet.google.com/qzt-obnb-cgp>**.
 </video>
 
 
-[Here are the takeaways from the workshop](https://sanand0.github.io/talks/2026-06-13-data-stories-with-ai/story.html):
+[Here are the takeaways from the workshop](https://talks.s-anand.net/2026-06-13-data-stories-with-ai/story.html):
 
 1. **Delegate the prompt, not just the task.** Don't write the brief — hand the model your examples and ask, "What prompt should I give you to do this?" Meta-prompting is laziness turned into method.
 2. **Treat "stuck" as a prompt.** Write down exactly where you're stuck and paste it in. You either get unstuck, or you get stuck on something new. You never _stay_ stuck — the bottleneck keeps shifting.

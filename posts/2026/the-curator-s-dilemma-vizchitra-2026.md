@@ -9,7 +9,7 @@ description: I ran a VizChitra dialogue where groups judged six charts, critique
 tags: [verification, data-visualization, vizchitra]
 ---
 
-![](https://sanand0.github.io/talks/2026-07-04-vizchitra-dialog-curators-dilemma/summary.avif)
+![](https://talks.s-anand.net/2026-07-04-vizchitra-dialog-curators-dilemma/summary.avif)
 
 Last week at VizChitra, I ran a "Dialogue" session. A new format for me.\
 I usually speak 80% in my workshops.\
@@ -45,7 +45,7 @@ We don't really know how to verify charts.\
 We don't agree on whether a given chart fits a given purpose.\
 We don't often see disagreement, especially since we often ask for ONE opinion.
 
-Full story: https://sanand0.github.io/talks/2026-07-04-vizchitra-dialog-curators-dilemma/
+Full story: https://talks.s-anand.net/2026-07-04-vizchitra-dialog-curators-dilemma/
 
 ---
 

@@ -52,4 +52,4 @@ But finally, at least for LLMs, we can measure. We can find out _which_ heuristi
 
 Or maybe not.
 
-![As Calvin says, ""Given the pace of technology, I propose we leave the math to the machines and go play outside."](https://sanand0.github.io/talks/2026-03-21-design-in-the-age-of-infinite-generativity/calvin-play-outside.avif)
+![As Calvin says, ""Given the pace of technology, I propose we leave the math to the machines and go play outside."](https://talks.s-anand.net/2026-03-21-design-in-the-age-of-infinite-generativity/calvin-play-outside.avif)

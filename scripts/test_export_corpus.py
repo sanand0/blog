@@ -115,6 +115,34 @@ Not public yet.
     assert (public / "corpus.schema.json").is_file()
 
 
+def test_redirect_pages_are_not_exported_to_agent_corpus(tmp_path):
+    content = tmp_path / "content"
+    public = tmp_path / "public/blog"
+    write(
+        content / "talks.md",
+        """---
+title: Talks
+redirect: https://talks.s-anand.net/
+slug: talks
+sourcePath: pages/talks.md
+---
+
+This page moved.
+""",
+    )
+
+    records = export_corpus.export_corpus(
+        content_dir=content,
+        public_dir=public,
+        base_url="https://www.s-anand.net/blog/",
+        raw_markdown_base="https://raw.githubusercontent.com/sanand0/blog/main",
+        today=date(2026, 8, 25),
+    )
+
+    assert records == []
+    assert (public / "corpus.jsonl").read_text(encoding="utf-8") == ""
+
+
 def test_export_corpus_fails_when_a_url_has_no_public_file(tmp_path):
     content = tmp_path / "content"
     public = tmp_path / "public/blog"

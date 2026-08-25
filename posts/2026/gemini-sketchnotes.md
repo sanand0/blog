@@ -39,7 +39,7 @@ This sketchnote summarizes Morgan House's book [Same as Ever](https://www.goodre
 
 This sketchnote summarizes a [talk](https://youtu.be/XGO5ushzXMA?is=tsgd05UvRUb_oGM9) by [Rob Schrauwen](https://www.linkedin.com/in/robschrauwen) of Elsevier. He really liked the sketchnote too!
 
-![Sketchnote](https://sanand0.github.io/talks/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/sketchnote.avif)
+![Sketchnote](https://talks.s-anand.net/2025-07-18-tug-true-but-irrelevant-rob-schrauwen/sketchnote.avif)
 
 **Explain a workflow**. Pick from any slide, architecture diagram, process document, or paper sketches.
 

@@ -34,7 +34,7 @@ I've been blogging since 1999 and over time, my posts have evolved.
 
 ---
 
-[I used Codex and GitHub Copilot + Claude Sonnet 4.6 to create this visualization](https://github.com/sanand0/blog/blob/main/analysis/embeddings/prompts.md). It was [vibe coded](https://github.com/sanand0/blog/tree/main/analysis/embeddings/) in the background while I was vibe-coding my [PyConf Hyderabad talk](https://sanand0.github.io/talks/2026-03-15-how-students-learn-python/). The rough process was:
+[I used Codex and GitHub Copilot + Claude Sonnet 4.6 to create this visualization](https://github.com/sanand0/blog/blob/main/analysis/embeddings/prompts.md). It was [vibe coded](https://github.com/sanand0/blog/tree/main/analysis/embeddings/) in the background while I was vibe-coding my [PyConf Hyderabad talk](https://talks.s-anand.net/2026-03-15-how-students-learn-python/). The rough process was:
 
 - Extract the blog posts and pages (stripping out comments, adding titles).
 - Use Gemini Embedding 2 Preview to generate 768-dimentional embeddings for un-embedded content.

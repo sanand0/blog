@@ -11,7 +11,7 @@ Tomorrow, we'll be vibe-analyzing data at a Hasgeek Fifth Elephant workshop.
 
 It's a follow-up to my DataHack Summit talk "RIP Data Scientists". I showed how it's possible to automate many data science tasks. In this workshop, the audience will be doing that.
 
-Slides: https://sanand0.github.io/talks/2025-09-16-vibe-analysis/ (minimal because... well, it's "vibe analysis". We'll code as we go.)
+Slides: https://talks.s-anand.net/2025-09-16-vibe-analysis/ (minimal because... well, it's "vibe analysis". We'll code as we go.)
 
 Here are datasets I'll suggest to the audience:
 

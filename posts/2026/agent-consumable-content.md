@@ -30,7 +30,7 @@ Two, I **log** / **generate** more content. For example:
 - **[Things I learnt](https://til.s-anand.net/)** and **[blog posts](https://www.s-anand.net/blog/)** I write.
 - **[Prompts](https://github.com/sanand0/blog/blob/live/pages/prompts/)** I use frequently.
 - **[Trending GitHub repos](https://tools.s-anand.net/trending-repos/)** I want to evaluate.
-- **[Talks](https://sanand0.github.io/talks/)** I deliver and **[data stories](https://sanand0.github.io/datastories/)** I write.
+- **[Talks](https://talks.s-anand.net/)** I deliver and **[data stories](https://sanand0.github.io/datastories/)** I write.
 - **[Demos](https://sanand0.github.io/llmdemos/)** I build and **[code](https://sanand0.github.io/)** I write.
 - **[Weight](https://www.s-anand.net/blog/i-lost-22-kg-in-22-weeks/)** and other fitness data.
 - **[Teaching material](https://tds.s-anand.net/)**, **[assessments](https://exam.sanand.workers.dev/tds-2026-05-ga0)** and **[evaluations](https://sanand0.github.io/datastories/tds-2026-01-p1/)** and **[analysis](https://sanand0.github.io/tds-2024-sep-project-2-results/similar.html)**.

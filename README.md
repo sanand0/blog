@@ -163,6 +163,7 @@ Optional:
 - `build: { list: never, render: always }` ensures that posts/pages are not listed _anywhere_ blog index but are still rendered.
 - `robotsNoIndex: true` adds a `<meta name="robots" content="noindex">` tag to the page header to prevent indexing by search engines.
 - `aliases: ["old-path"]` adds redirects from old-path to the current page using [Hugo Aliases](https://gohugo.io/content-management/urls/#aliases).
+- For an external move, use `layout: redirect`, `redirect: https://...`, and `build: { list: never, render: always }`. This emits a canonical + JS/meta-refresh fallback and excludes the stub from agent exports; use an edge 301/308 in production when available.
 
 ## Media elements
 
