@@ -1,7 +1,32 @@
 {{- define "main" }}
 <header class="page-header pagefind-search-header">
-  <h1>404</h1>
-  <div class="post-description">Page not found. Search the archive instead.</div>
+  <h1>Page not found</h1>
+  <div class="post-description">I searched the archive for words in the URL instead.</div>
 </header>
+<style>
+  #search.pagefind-search {
+    --pagefind-ui-scale: .99;
+    --pagefind-ui-border: color-mix(in srgb, var(--secondary) 20%, var(--theme));
+  }
+
+  #search.pagefind-search :is(.pagefind-ui__search-input, .pagefind-ui__message, .pagefind-ui__result-title, .pagefind-ui__filter-name) {
+    font-weight: 600;
+  }
+
+  #search.pagefind-search fieldset {
+    border: 0;
+  }
+
+  #search.pagefind-search .pagefind-ui__result-tag {
+    padding: .15em .55em;
+    border: 1px solid var(--pagefind-ui-border);
+    font-size: calc(15px * var(--pagefind-ui-scale));
+    color: var(--secondary);
+  }
+
+  .pagefind-search .pagefind-ui__results-area {
+      order: -1;
+  }
+</style>
 {{ partial "pagefind_search.html" . }}
 {{- end }}{{/* end main */ -}}

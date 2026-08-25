@@ -10,7 +10,7 @@ update:
   mapfile -t markdown < <(find posts pages -name '*.md' -print | sort)
   uv run ~/code/scripts/summarize.py blog "${markdown[@]}" --provider openai --model gpt-5.6-luna --workers 8
 
-  bash setup.sh
+  just build
   just test
 test:
   uv run --with pytest --with pyyaml --with typer --with numpy --with pandas --with pyarrow --with ruamel.yaml --with scikit-learn pytest -q scripts
