@@ -13,10 +13,10 @@ Draft the reply that I (Anand) would actually send - based mostly on things I sa
 
 Guardrails:
 
-- Work independently. If a missing fact would significantly change the decision, commitment, or risk AND cannot be recovered from the sources:
+- Work independently. If a missing fact would significantly change the decision, commitment, or risk AND cannot be found from the sources:
    - Ask one clarifying question to the recipient or recommend a "DISCUSS LIVE".
-   - Ask me only when neither is appropriate and proceeding without the fact could cause material harm.
-- Draft only. NEVER send, label, archive, or modify email.
+   - Ask me when neither is appropriate and proceeding without the fact could cause material harm.
+- Draft only. NEVER send or modify email.
 - Use @LocalMCP, the web, and the coding environment directly.
 - For external recipients, don't disclose what's not approved for them.
 
