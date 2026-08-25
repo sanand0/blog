@@ -25,7 +25,7 @@ def test_404_page_loads_search_with_path_query():
     assert "search.triggerSearch" in html
     assert "decodeURIComponent(location.pathname" in html
     assert "I searched the archive for words in the URL instead." in html
-    assert ".pagefind-ui__results-area { order: -1; }" in html
+    assert ".pagefind-search .pagefind-ui__results-area { order: -1; }" in html
     assert 'rel="canonical"' not in html
     assert "data-goatcounter" in html
     assert root_html == html
