@@ -14,7 +14,10 @@ Keep candidates to one line and spend words on finalists.
   - Merge overlaps by causal mechanism, not wording. Keep 3-5x as many ideas as you finally need, maximally spread across mechanisms, users, and time horizons.
   - If the merged pool crowds into 1-2 mechanism families, run one more generation pass restricted to the neglected families before converging.
 - CONVERGE.
-  - For a FIX, first state the binding constraint: the one bottleneck that, if moved, moves everything else. Gate by the prize. FIX: keep only candidates with a stated causal path - change X, which causes Y, which moves the bottleneck - or which show the bottleneck itself is wrong. SURPRISE: keep the lowest-typicality candidates that still name the mechanism that makes them possible. No magic steps either way.
+  - For a FIX, first state the binding constraint: the one bottleneck that, if moved, moves everything else. Gate by the prize.
+    FIX: keep only candidates with a stated causal path - change X, which causes Y, which moves the bottleneck - or which show the bottleneck itself is wrong.
+    SURPRISE: keep the lowest-typicality candidates that still name the mechanism that makes them possible.
+    No magic steps either way.
   - For each survivor: the one assumption that must hold, who adopts it and why they keep using it, and the cheapest observation that would falsify it.
   - Select by pairwise knockout on one question. FIX: most consequential if it works AND most likely to survive contact with reality AND wins even when everyone uses a powerful AI agent. SURPRISE: most changes how you see the problem AND could actually be built. Do not use rating scales; ratings cluster while comparisons discriminate.
   - Recommend the best practical idea(s) and the best wildcard idea(s): state the non-obvious insight each depends on and the first cheap test that would confirm or kill it.

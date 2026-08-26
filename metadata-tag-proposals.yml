@@ -150,6 +150,10 @@ proposals:
     sources:
       posts/2026/learnings-from-building-babbage-insight.md:
         content_hash: c03c9f99235f66df9c8e913c20cc1527cf82a79860c59e1a626e3dbc16ca9cc1
+  talks:
+    sources:
+      pages/talks.md:
+        content_hash: 3d321093f9261d05ef93bff03970b614ba94c96bc0d4f0e29337b7383b4e94b0
   taxation:
     sources:
       posts/2026/ai-tax-returns-2026.md:

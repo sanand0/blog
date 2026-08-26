@@ -15,17 +15,17 @@ Here are the eight things, most important first, that help you:
 
 **Structure explanations memorably**:
 
-1. **Face.** _You_ remember faces before facts. So cast characters: "Imagine you're a courier carrying a packet." Prefer archetypes to real names — less baggage, more imagination.
-2. **Place.** You're reading _down_ a list now — and the _top_ feels more important. That's spatial wiring. Turn any concept into a map. Use higher, deeper, nearer, inside, ...
+1. **Face.** _You_ remember faces before facts. So cast characters: "Imagine you're a courier carrying a packet." Prefer archetypes to real names - less baggage, more imagination.
+2. **Place.** You're reading _down_ a list now - and the _top_ feels more important. That's spatial wiring. Turn any concept into a map. Use higher, deeper, nearer, inside, ...
 3. **Tale.** You read #1 and #2 first _because_ they came first. Your brain built a cause from that sequence. Time creates cause for free. "Because" makes anything believable.
-4. **Scale.** "Two feet tall" lands instantly. "60 cm" forces you to convert. Your brain doesn't measure — it _compares_. Give it reference objects, not just numbers.
+4. **Scale.** "Two feet tall" lands instantly. "60 cm" forces you to convert. Your brain doesn't measure - it _compares_. Give it reference objects, not just numbers.
 
 **Deliver explanations memorably**:
 
 5. **Touch.** Face. Place. Tale. Scale. Each is a thing you can "grasp" or "hold" in your head. We learn literally by grasping. Make abstractions touchable.
 6. **Feel.** Everyone ignores you because you forget these eight. Did that sting? That's loss framing. Fear, surprise, and reward are memorable.
 7. **Chunk.** There are 8 items here - already past our ~4 chunk working memory limit. We've chunked them into two logical sets of four.
-8. **Beat.** Face, Place, Tale, Scale. Touch, Feel, Chunk, Beat. Two groups of four. Say them aloud — the rhythm is already doing the remembering for you.
+8. **Beat.** Face, Place, Tale, Scale. Touch, Feel, Chunk, Beat. Two groups of four. Say them aloud - the rhythm is already doing the remembering for you.
 
 ---
 

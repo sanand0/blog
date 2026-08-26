@@ -9,6 +9,7 @@ redirect: https://talks.s-anand.net/
 build:
   list: never
   render: always
+tags: [slides, transcripts, s-anand]
 ---
 
 This page has moved permanently to [talks.s-anand.net](https://talks.s-anand.net/).
