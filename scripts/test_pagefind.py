@@ -24,6 +24,8 @@ def test_404_page_loads_search_with_path_query():
     assert "/blog/pagefind/pagefind-ui.js" in html
     assert "search.triggerSearch" in html
     assert "decodeURIComponent(location.pathname" in html
+    assert 'location.pathname.startsWith("/@")' in html
+    assert "https://sanand0.github.io/${location.pathname.slice(2)}${location.search}${location.hash}" in html
     assert "I searched the archive for words in the URL instead." in html
     assert ".pagefind-search .pagefind-ui__results-area { order: -1; }" in html
     assert 'rel="canonical"' not in html

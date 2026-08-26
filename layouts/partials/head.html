@@ -103,6 +103,10 @@
 <link rel="stylesheet" href="{{ partial "rel_link.html" (dict "from" . "to" $pagefind_css) }}">
 <script src="{{ partial "rel_link.html" (dict "from" . "to" $pagefind_js) }}"></script>
 <script>
+  {{- if eq .Kind `404` }}
+  if (location.pathname.startsWith("/@"))
+    location.replace(`https://sanand0.github.io/${location.pathname.slice(2)}${location.search}${location.hash}`);
+  {{- end }}
   window.addEventListener("DOMContentLoaded", () => {
     const search = new PagefindUI({
       element: "#search",
