@@ -497,7 +497,7 @@ Write that CONTEXT note. Rules:
 6. Mention roles only when obvious and useful for diarization (e.g., who led the call).
 7. Consolidate all turns from the same speaker. Fix obvious phonetic errors when the meaning is clear, but never invent details, and avoid what's uncertain.
 8. Order speakers by how much they spoke, most first.
-9. Be concise: about 30 words per 30 minutes of call, expanding only for longer calls, more speakers, or fragmented discussion. Write one compact paragraph, separating speakers with semicolons.
+9. Be concise: about 30-40 words per 30 minutes of call, expanding only for longer calls, more speakers, or fragmented discussion. Write one compact paragraph, separating speakers with semicolons.
 10. Output ONLY the context note. No headings, bullets, or explanations.
 ```
 
@@ -684,6 +684,27 @@ Write like spoken text. Use spoken clause order, selective repetition where it a
 Think about whose style of writing would be the most engaging and informative to write the following content.
 List options, mentioning their style, why they're suitable, and pick the best, with reason.
 Then rewrite it in their style.
+```
+
+## Talk topic suggestions
+
+```markdown
+Suggest prioritized talk topics aligned with the conference, not overlapping with other talks.
+
+I use talks to push myself to learn something new, test ideas live, learn from the audience, give them a useful surprise, and build compounding assets before/during/after.
+
+Infer what I'm exploring from memory, chat history, then @LocalMCP - unresolved questions, emerging ambitions, changed beliefs, recurring interests, recent surprises, and connections across unrelated work. Prefer recent choices, excitements, what I keep returning to.
+
+Find questions I genuinely don’t know the answer to (I might not even know they're worth pursuing),
+that solve a REAL, frequent audience need,
+that they may not learn elsewhere (novel),
+that I can demo/test live - even failure should teach something,
+that can produce a reusable asset,
+and leave them knowing what to do differently.
+
+Share the title, what I'd learn, why they care, the live experiment/surprise, reusable asset.
+
+Prefer what makes me think, "I don't know, this is a great place to find out."
 ```
 
 ## Trending repos
