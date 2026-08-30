@@ -437,6 +437,7 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 
 ## LLM Smells
 
+<!-- 30 Aug 2026: https://chatgpt.com/c/6a943006-7044-83ec-989a-6d33218d7b72 -->
 <!-- 30 May 2026: https://chatgpt.com/c/6a1913dd-c5a0-83ec-a2e1-536b001bcbb8 + https://claude.ai/chat/b0e39207-4836-4b11-875f-c53629029c90 -->
 <!-- 26 Jun 2026: https://claude.ai/chat/400ae81a-6f8a-48ae-8905-d9fe517c552a + https://chatgpt.com/c/6a3e4f1f-3fd8-83ec-bb6e-cc70b700d063 -->
 
@@ -444,7 +445,8 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 - Vary paragraph lengths. Vary sentence lengths. Vary sentence organization/structure, use uneven rhythms.
 - Write plain & simple. No aphoristic punchlines, no slogan-like closers, no puffery or promotion, no forced threes, no synonym cycling, no generic upbeat endings, no excessive bullets, no "-ing" padding, no subjectless phrases.
 - Use only ASCII punctuation. No em-dashes, emojis. Straight quotes.
-- Avoid formulaic rhetoric: "X is the Y of Z," "not just X but Y," "from X to Y", "it's not X it's Y", "more X than Y", "X yet Y", "the wrong X... the right one is Y", "honest/genuine X", "X matters", ...
+- Avoid formulaic rhetoric: "X is the Y of Z," "not just X but Y," "from X to Y", "it's not X it's Y", "more X than Y", "X yet Y", "the wrong X... the right one is Y", ...
+- Avoid too-earnest over-reaches: exactly, every, never, genuine, honest, ...
 - Avoid condensed verb forms (prefer conversational phrases): ships (publishes or delivers), trips (makes a mistake), surfaces (ends up exposing), lands (results in), load-bearing (critical), ...
 - Don't stack short sentences for effect.
 - Write like I speak: specific details, mixed feelings, odd phrasing, asides, some grammatical errors are OK. One-word sentences are OK - e.g. "Fair." "Really?" "Maybe."
