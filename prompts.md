@@ -1,5 +1,16 @@
 # Prompts
 
+## Calendarmap bug, 30 Aug 2026
+
+<!--
+cd ~/code/blog
+dev.sh -- codex --yolo --model gpt-5.6-luna --config model_reasoning_effort=medium
+-->
+
+I think there'sa bug in the calendar-graph. It shows the weekday as Monday against Sundays, etc.
+
+<!-- codex resume 01a05012-cae2-7c63-a925-21567d91a9db --yolo -->
+
 ## Improve summarization, 21 Aug 2026
 
 <!-- https://chatgpt.com/c/6a87fc22-51d0-83ee-8381-200ce9144a72 updated justfile and ~/code/scripts/summarize.py -->
