@@ -47,10 +47,8 @@
     {
       "@type": "ListItem",
       "position": {{ add 1 $index  }},
-      "item": {
-        "@id": {{ partial "rel_link.html" (dict "from" $ "to" $bc_pg.RelPermalink) | safeHTML }},
-        "name": {{ $bc_pg.Name }}
-      }
+      "name": {{ $bc_pg.Name | default ($element | humanize) }},
+      "item": {{ $bc_pg.Permalink | safeHTML }}
     }
     {{- end }}
 
@@ -60,10 +58,8 @@
     {
       "@type": "ListItem",
       "position": {{len $bc_list}},
-      "item": {
-        "@id": {{ partial "rel_link.html" (dict "from" $ "to" .RelPermalink) | safeHTML }},
-        "name": {{ .Name }}
-      }
+      "name": {{ .Name | default (.Params.slug | humanize) }},
+      "item": {{ .Permalink | safeHTML }}
     }
   ]
 }
