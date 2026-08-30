@@ -13,7 +13,7 @@ tags: [s-anand, gramener, iit-madras, iim-bangalore, bcg, data-science, consulti
 **aliases**: Anand, Bal, Bhalla, Stud, Prof.\
 [Vidya Mandir](https://www.vidya-mandir.edu.in/). [IITM](https://www.iitm.ac.in/). [IBM](https://www.ibm.com/in-en). [IIMB](https://www.iimb.ac.in/). [LBS](http://www.london.edu/).\
 [Lehman](https://en.wikipedia.org/wiki/Lehman_Brothers). [BCG](https://www.bcg.com/). [Infy Consulting](https://www.infosys.com/services/consulting.html). [Gramener](https://gramener.com/). [Straive](https://straive.com/).\
-[More about me](/blog/about-me/).
+[CV / Resume](https://files.s-anand.net/cv/S_Anand_2026.html). [More about me](/blog/about-me/).
 
 **CONTACT ME**
 
