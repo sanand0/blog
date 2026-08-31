@@ -13,3 +13,10 @@ This week, I learned:
 - There is a psychological phenomenon where we "overlay" old images of people we haven't seen in decades onto their current selves, making it hard to distinguish between someone who is 30 and someone who is 70. [Gemini](https://gemini.google.com/share/1348ea514d1e)
 - Most modern `ls` tools like [`eza --icons`](https://github.com/eza-community/eza) or [`lsd`](https://github.com/lsd-rs/lsd) support icons if the terminal font supports icons, like [Nerd Fonts](https://www.nerdfonts.com/). For example, this: `` shows up as a GitHub icon and `󰌻` as a LinkedIn icon. The [Nerd Fonts Cheat Sheet](https://www.nerdfonts.com/cheat-sheet) is a good place to search for these. You may need to download a [supporting font](https://www.nerdfonts.com/font-downloads).
 - I just replaced [Fira Code](https://github.com/tonsky/FiraCode) with [Maple Mono](https://font.subf.dev/en/) as my default font on VS Code. Like Fira Code, the ligatures are great, but there are extra ligatures like [TODO] or [ERROR], _connected italics_, nerd font support, variable font weights, and more. Via [lobste.rs](https://lobste.rs/s/ahca9t/maple_mono_open_source_monospace_font). (**Update**: Maple Mono is _much_ harder to read than Fira Code, so I switched back. But it's a nice idea.)
+
+## Questions I was asked
+
+[Week ending 15 Feb 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-02-15)
+
+- **Question**: You found it easy to make the shift from coding to management and back - but was it?\
+  **Answer**: Yes, had expected it; coding was his love but couldn't say no to IIM or BCG when offers came.

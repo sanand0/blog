@@ -43,3 +43,32 @@ This week, I learned:
 - I installed the [Claude Code Usage](https://extensions.gnome.org/extension/9231/claude-code-usage/) widget to further my token psychosis. Now all I need is enough tasks to use those tokens.
 - Stacking triggers of any kind helps. For example, I just updated my tabnotes repo to fix a bug while restoring after Edge crashes. That's because I had a visible and immediate need. But I also used this to fix other features I wanted, like loading tabnotes as a page instead of a sidepanel. One trigger led to a related feature getting implemented. This requires a bucket of related ideas to be ready, so a good practice is to **jot down annoying things**. <!-- https://claude.ai/chat/41501fc8-dd10-4ae9-9cf4-2d883396180a -->
 - "Maybe that is what the “research mathematicians” of the future should do: make a selection from a vast sea of AI-generated mathematics and write a book about it in such a way that other mathematicians can read the book and feel the kind of enrichment that we feel when we get to grips with an area of mathematics." - [Thoughts about the Leiden Declaration, Timothy Gowers](https://gowers.wordpress.com/2026/07/26/thoughts-about-the-leiden-declaration/). An interesting perspective. We've seen this in the past when something becomes abundant - like chemists' discoveries organized by Mendeleev, drug makers' evidence organized by Cochrane, lawyers' case laws commented by Blackstone and organized by West, knowledge prioritized and organized by Wikipedia, hip-hop DJs, Linnaeus' taxonomy, etc. <!-- https://chatgpt.com/c/6a66cc30-729c-83ec-8ba3-f38d27e8bc3e + https://claude.ai/chat/9d6caa91-dfb4-49bb-928e-9d1300c24a6d -->
+
+## Questions I was asked
+
+[Week ending 02 Aug 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-08-02)
+
+- **Question**: How much time and resources does an AI engagement require?\
+  **Answer**: Don't onboard first since that takes time and budget. Onboard our team only when repeated opportunities exceed your bandwidth. Start with two hours of co-working and build something useful first.
+- **Question**: How do we know whether our LLM cost-reduction measures actually worked?\
+  **Answer**: Compare like-for-like cost per accepted output, including quality, turnaround time and human effort. Run it weekly for four weeks before deciding.
+- **Question**: How do we improve an AI workflow from 89% quality to 95%?\
+  **Answer**: Don't try ad hoc prompt combinations. Build a benchmark, separate retrieval failures from verification failures, change one variable at a time, and route uncertain cases to humans.
+- **Question**: How should I prompt coding agents so they understand the outcome and constraints?\
+  **Answer**: Define what "done" means - the outcome, constraints, how to test. Quiz its plans, approach, and tests.
+- **Question**: What should I do when a coding agent gets stuck in a loop?\
+  **Answer**: Stop quickly. Have it document a post-mortem. Start afresh with a failing test.
+- **Question**: How should AI-generated software be tested?\
+  **Answer**: Give every requirement an automated test. Test against real usage, convert bugs into regression tests, and ask a fresh agent what is unsafe or untested.
+- **Question**: How is your Ask AI agent architected?\
+  **Answer**: I trigger ChatGPT manually to read my emails via a Local MCP connector using `gws` and read my emails, notes, transcripts, etc. and answer in my style. I review and paste the answer back in the reply.
+- **Question**: Why not fully automate an email-answering AI agent?\
+  **Answer**: I'll watch first, and automate when I'm confident.
+- **Question**: How do we create benchmarks and automatically improve prompts?\
+  **Answer**: Create benchmarks from past usage data/logs. Keep a holdout dataset, make one change at a time, and add production failures back as tests.
+- **Question**: What should a central team measure to understand AI adoption?\
+  **Answer**: Join usage logs to the employee reporting tree over time. Organizations can action top-down and you need insights rolled up the org tree.
+- **Question**: How should a central AI team start tracking and controlling AI costs?\
+  **Answer**: Log everything. Preserve raw logs to make sure you can do any analysis later.
+- **Question**: Does it matter that the newest models and agent features reach enterprise platforms late?\
+  **Answer**: Usually less than it appears. Model gaps are small, manageable, and close within weeks. Access to real data, permissions, feedback and a running workflow are the bigger constraints.

@@ -28,3 +28,14 @@ This week, I learned:
 - I'm evaluating [rtk](https://github.com/rtk-ai/rtk) - a CLI proxy to reduce tokens. For example `rtk ls` or `rtk git status` shows agent-friendly compact output. I just added one like to my AGENTS.md: "Always prefix shell commands with `rtk`. Examples: `rtk git status`, `rtk pytest -q`, etc." instead of using `rtk init -g`. I am testing it out, so I don't know the impact, but it seems harmless. (Based on 2 days' usage, across 216 commands, it saved ~50% of 37K tokens. Not much, but harmless.)
 - The emerging convention to mark a section of HTML / Markdown as AI generated content is to wrap it in:
   - `<section ai-disclosure="ai-generated" data-ai-model="claude-sonnet-4.6" data-ai-provider="Anthropic">` ([W3C AI Content Disclosure Community Group](https://www.w3.org/community/ai-content-disclosure/)).
+
+## Questions I was asked
+
+[Week ending 10 May 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-05-10)
+
+- **Question**: What is the "service-as-software" model?\
+  **Answer**: Act as the AI yourself first - take the JD, run it through your system, hand them the result - don't make it self-serve until you've proven value.
+- **Question**: How can outcomes be sold - I constantly struggle with this?\
+  **Answer**: Outcome pricing works when you control the inputs and can measure the output precisely; start with small provable outcomes and expand.
+- **Question**: Can you suggest courses to experiment with vibe coding?\
+  **Answer**: By the time courses are released models have moved forward; practice and asking AI to teach you are your two best approaches.

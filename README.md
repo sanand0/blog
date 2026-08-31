@@ -113,6 +113,47 @@ uv run scripts/til.py --all
 This derives the covered weeks from the source files and skips empty weeks. Review existing-file diffs before rerunning
 with `--all --force`.
 
+## Questions I was asked
+
+[`scripts/questions.py`](scripts/questions.py) publishes the question log from `~/Dropbox/notes/questions-i-am-asked.md`.
+Run:
+
+```bash
+just questions
+```
+
+Source rows use:
+
+```markdown
+- DD Mon YYYY. Name (Organization): #PUBLIC Question text #ANS Answer text
+- DD Mon YYYY. Name: #PRIVATE Question text #ANS Answer text
+```
+
+Every dated row must parse cleanly and contain exactly one `#PUBLIC` or `#PRIVATE`. `#PUBLIC` means the complete
+question and answer are safe to publish after removing the speaker, organization, and exact date. If parsing fails,
+the command warns and writes nothing.
+
+The command regenerates `pages/questions-i-am-asked.md` from all public questions, grouped by week, and updates the
+matching existing `Things I Learned` posts. It does not create missing historical TIL posts. Each generated TIL section
+starts after an empty line with a heading whose text is `Questions I was asked` (case-insensitive), and runs until the
+next Markdown heading or end of file. This lets the section be moved manually without hidden marker comments. Duplicate
+matching headings are treated as an error.
+
+Generated Q&A uses:
+
+```markdown
+## Questions I was asked
+
+[Week ending 30 Aug 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-08-30)
+
+- **Question**: Question text\
+  **Answer**: Answer text
+```
+
+The process is deterministic and resumable: it recomputes desired output from the source, updates moved/edited/retagged
+questions, removes questions made private or deleted, preserves everything outside the generated TIL section, and writes
+only files whose bytes changed. An unchanged rerun should therefore do no work beyond parsing/scanning.
+
 ## LinkedIn Blog Map
 
 Run [`scripts/linkedin_blog_map.py`](scripts/linkedin_blog_map.py) whenever you post on LinkedIn:

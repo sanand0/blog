@@ -29,3 +29,22 @@ This week, I learned:
 - [Browserless](https://github.com/browserless/browserless) lets you run browsers via an API. Useful when you don't want the overhead of setting up a browser infrastructure, or for multiple browsers in parallel. Scraping, testing, web app automation, PDF/screenshot/video generation, etc. are all possible. [Gemini](https://gemini.google.com/share/3c547e57030b)
 - OpenAI has a [Websocket mode](https://developers.openai.com/api/docs/guides/websocket-mode/)
 - [GitHub Agentic Workflows](https://github.github.com/gh-aw/setup/creating-workflows/) lets you "compile" a Markdown file into an agentic GitHub action. Useful as a sceptical reviewer, issue-to-prototype builder, data to story generator, automated code migrator, etc. [Gemini](https://gemini.google.com/share/d604275d42d7) [Claude](https://claude.ai/share/e4beeed2-e49e-49be-99bd-d6ce5678a7a7)
+
+## Questions I was asked
+
+[Week ending 15 Mar 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-03-15)
+
+- **Question**: How do you share insights during the learning phase - how do you write your blog?\
+  **Answer**: Writing is not only for others; the big benefit is clarifying your own thinking; start by putting notes on GitHub.
+- **Question**: Who motivates you to do all these workshops?\
+  **Answer**: I do it for self-learning; I commit to talks on topics I don't know - the commitment forces the learning.
+- **Question**: AGI - within 3-5 years, do you think we'll see it?\
+  **Answer**: "I talk to it like a human - that is AGI; we got there last year."
+- **Question**: What's the "LLM Psychologist" title about?\
+  **Answer**: Nothing to do with psychology formally; Andrej Karpathy coined the term in 2023, it sounded cool, called HR: "Do you have any problem if I call myself LLM Psychologist?"
+- **Question**: Starting AI in first year - is it like giving a calculator before learning tables? Won't students become dullards?\
+  **Answer**: It's like learning how to use the internet; whoever gets there early has an edge; the bigger risk is underuse, not overuse.
+- **Question**: I want to build my own CRM. Is it doable with no coding experience?\
+  **Answer**: Why build a CRM at all - upload your Excel to ChatGPT, tell it who to chase, you already have a CRM.
+- **Question**: If somebody wanted to build Gramener 2.0 today with LLMs, how would you rebuild it?\
+  **Answer**: Moats are based on taste and judgment now; regulation remains; custom software renaissance means services beat SaaS.

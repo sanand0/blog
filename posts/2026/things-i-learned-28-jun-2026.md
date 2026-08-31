@@ -34,3 +34,62 @@ This week, I learned:
 - Computational thinking = Decomposition + Abstraction + Algorithm design + Pattern recognition.
   In AI, that translates to = Framing + Context engineering + Orchestration (harness engineering?) + Verification design. Maybe I'd add Assetization / Systems.
   <!-- https://claude.ai/chat/a4beee77-d7a3-4ee5-9b57-cea2a85f1e6d + https://chatgpt.com/c/6a38a93b-6f98-83ee-b61a-e74d427c405f -->
+
+## Questions I was asked
+
+[Week ending 28 Jun 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-06-28)
+
+- **Question**: Why is building invoice generation the wrong next step after finding reconciliation errors?\
+  **Answer**: Fix the wrong number inside the existing workflow. Don’t replace a working accounting system with new software just because you can generate a PDF.
+- **Question**: In enterprise AI delivery, should the reusable accelerator be the large part and client customization the small part?\
+  **Answer**: No. The common layer is usually thin; customization is the larger part because client environments and workflows vary.
+- **Question**: Why not automatically send every prompt to ChatGPT and Claude in parallel?\
+  **Answer**: Don’t remove all friction. Prompting is cheap; reading is the bottleneck. A tiny copy-paste cost stops me from generating outputs I will never review.
+- **Question**: What are the most common corporate pushbacks to implementing AI?\
+  **Answer**: Security, hallucinations, and cost—in that order.
+- **Question**: Do forward deployed engineers need to be onsite?\
+  **Answer**: No. They need access to the client environment and stakeholders; physical location is secondary.
+- **Question**: Why ask the agent to solve the problem directly instead of first researching existing models?\
+  **Answer**: Start direct. If it fails, break it into chunks. It saves time and tests whether the model has become smart enough to handle broader delegation.
+- **Question**: What best practices should non-coders follow when vibe-coding enterprise products?\
+  **Answer**: Don’t optimize the old software workflow. State the business goal, let the agent build whatever is needed, and review the output hard.
+- **Question**: For a high-stakes EMS, should we deliver software or the decisions it produces?\
+  **Answer**: Deliver decisions. Software, agent, and human together are the stack; price the outcome, not the code, tokens, or FTE effort.
+- **Question**: How can we guarantee decisions if humans cannot be right every 15 minutes?\
+  **Answer**: Treat it like a warranty. If the decision is wrong, don’t pay me; if it is right, pay X. Price in the error margin.
+- **Question**: Should a high-stakes EMS use a deterministic mathematical model with an agentic layer on top?\
+  **Answer**: Yes. What you know for sure goes into the program; what you don’t know stays with the agent or human. Benchmark both on the outcome.
+- **Question**: How do you get yourself out of the loop instead of becoming the bottleneck?\
+  **Answer**: Keep an AI bottleneck log. Every time I am stuck, I ask AI how to remove that bottleneck; “interview me” and “assetize this” are surprisingly effective.
+- **Question**: In AI hiring, who should we hire when specific skills keep getting commoditized?\
+  **Answer**: Hire flexibility, not fixed skill. The “best” data scientist, engineer, or product manager can become legacy in months.
+- **Question**: How do we train sales and delivery leaders to speak credibly about AI solutions?\
+  **Answer**: Don’t run classroom AI training. Run live solution labs where leaders use AI on a real workflow, build the first output, and draft what they will take to the client.
+- **Question**: Can AI help me structure client pitches without depending on internal experts?\
+  **Answer**: Yes. Feed it the messy conversation, files, links, and prior context. It won’t be identical to an expert, but it can produce above-average analyst output at scale.
+- **Question**: What attitude helps people start using AI every day?\
+  **Answer**: Don’t take AI too seriously. Its job is to serve you; give rough instructions, ask it to interview you when you’re unclear, and iterate.
+- **Question**: Is clicking “Ask AI” a good signal that students are struggling?\
+  **Answer**: Not by itself. Smart students may click it to save time. Combine it with performance and behavior data before deciding intervention.
+- **Question**: Do forward deployed engineers just produce “insights on steroids,” or should they deploy AI into workflows?\
+  **Answer**: They should move through stages: identify use cases, solve like an analyst, drive action, then embed it into production. Insight is only the first useful step.
+- **Question**: How do we move from after-the-fact AI analytics to AI that prevents workflow errors?\
+  **Answer**: Put the check where the data enters. Let the agent inspect current controls, propose guardrails or code, and turn recurring insights into monitored workflow.
+- **Question**: Will enterprise AI deployments mostly live inside existing platforms rather than custom infrastructure?\
+  **Answer**: Yes. Most deployments will happen where the data and workflow already live. Master the platform harnesses instead of building everything from scratch.
+- **Question**: What do I do when I don’t even know the problem in a broad domain like rights?\
+  **Answer**: That is the problem. Give the context to an agent and ask it to find, rank, validate, and build the easy use cases.
+- **Question**: If clients can also use AI agents, what value do I add as a media expert?\
+  **Answer**: If they could do it, they would have. Your value is harnessing agents with private data, schemas, validation code, skills, and test cases they don’t yet have.
+- **Question**: Should we position our R&D product-plus-service offering as AI?\
+  **Answer**: Maybe don’t. Use AI to serve more clients better and faster, but sell the outcome. The client neither cares nor needs the AI story.
+- **Question**: What should I not do in GTM while selling AI plus services?\
+  **Answer**: Don’t fight with your co-founder. Put someone in the US. Don’t be dogmatic: it is okay to do what the business needs.
+- **Question**: Is there a case for building small language models for industry-specific process knowledge?\
+  **Answer**: Use case, yes. SLM as default solution, no. Put a modern agent on the problem and let it choose tools; SLMs are usually expensive, depreciating, and behind frontier agents.
+- **Question**: Is adding AI sentiment and renewal probability into CRM enough?\
+  **Answer**: It is only half a step. Don’t give reps another signal; use bulk data to create watchlists, proactive calls, and specific actions.
+- **Question**: Is a quick AI-built sponsorship visualization valuable for a new executive?\
+  **Answer**: Useful once, but not enough. Executives need decisions: who pays most, what expires, what action to take, and how much money is at stake.
+- **Question**: As a GenAI engineer, do I need deep ML knowledge?\
+  **Answer**: Not as the main bet. If it is teachable and testable, AI will do it. Learn to define the problem, test the output, and use the model’s expertise.

@@ -48,3 +48,24 @@ This week, I learned:
 - On a flight, I tried `ollama launch pi --model gemma4:e4b-it-qat`. It's a reasonably sensible model. Power consumption is high, though. I was at about 8 watts with ~7 hours of battery life. While running, power spiked to ~50W (1.5h) and settled down to ~12W (4h) when idle. The `llama-server` process consumes some CPU/GPU even when idle, but I couldn't get it back to the ~8W even after `ollama stop`. (It eventually _did_ return to 8W after an hour. Not sure why.) When I tried again on 21 Aug, it went up from 8W (8h life) to 28W (3h life) and back to 8W, so looks like when idle, it _doesn't_ consume power. I look forward to using local LLMs more!
 - Pain is good. Struggle is good. Stretch is good. Not new. But worth reminding, worth seeking.
 - [T3 Code](https://t3.codes/) is a coding agent orchestrator. It lets you "remote control" multiple coding agent sessions across systems. The ecosystem of tools _around_ coding agents is growing. Observability, e.g. [AgentsView](https://github.com/kenn-io/agentsview), is one such area.
+
+## Questions I was asked
+
+[Week ending 23 Aug 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-08-23)
+
+- **Question**: How do I safely let an agent modify my files when it could get things wrong?\
+  **Answer**: Make backups and let it work on a copy. Try it five or ten times; once it repeatedly earns your trust, gradually remove the safety net.
+- **Question**: When should I turn an ad-hoc agent workflow into automation?\
+  **Answer**: If I run it once every two months, I don't mind the agent writing the code again. If it's every two weeks or two days, save the script and automate it.
+- **Question**: How do we decide which agents to train when client problems keep changing?\
+  **Answer**: Decouple the agent from the skill. Keep the skill intelligence agnostic - it's not about correcting agent errors but about transferring context it won't have. Keep a central folder of skills with one-line descriptions; whichever agent people use can scan it and pick the relevant skills.
+- **Question**: Which part of the current agentic AI narrative is overhyped?\
+  **Answer**: GraphRAG is definitely overhyped. Prompt engineering is outdated; harnesses and agentic loops are not overhyped yet.
+- **Question**: To make agentic software development scalable, do we need a standard framework or just give everyone Cursor and let them figure it out?\
+  **Answer**: Install Cursor for everyone and let them figure it out. Share lightweight enterprise guidelines as skills, but give every instruction an expiry date and a small benchmark so you can remove it as agents learn to handle it themselves.
+- **Question**: If frontier video models fail on physics and action scenes, how should we fine-tune them with our proprietary video data?\
+  **Answer**: Don't solve the physics problem; solve a much narrower action-block problem. Build reusable filtering and fine-tuning pipelines so the next frontier model can replace the base model and you train only on what it still cannot do; no manual annotations.
+- **Question**: Will AI take all the tech jobs in the next five to six years?\
+  **Answer**: Yes. And so what? AI will take a significant number of existing jobs, and we'll create new ones because our desires and competition don't disappear; figure out which new work takes you further before your neighbor does.
+- **Question**: How did you come up with this conceptual clarity about what to do?\
+  **Answer**: I didn't. Pretend to have clarity, ask AI everything and use its answers, then do it so often and fail repeatedly that you get a feel for what works. Quantity beats quality like crazy.

@@ -54,3 +54,16 @@ This week, I learned:
   - **REQ-003** (Event): When the application reconnects, the system shall synchronize locally stored updates with the server.
   - **REQ-004** (Unwanted): If synchronization conflicts occur, then the system shall display a resolution dialog to the user.
 - As of now, avoid using Claude.ai to create (large) visualizations. It runs forever and exhausts credits without generating anything. Claude Code works much better for this.
+
+## Questions I was asked
+
+[Week ending 29 Mar 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-03-29)
+
+- **Question**: When I run out of tokens and Claude says "compress now" - does performance go down?\
+  **Answer**: The model writes a summary as notes and starts again; you lose something but it may not be important.
+- **Question**: Hallucination as creativity - had you thought of that?\
+  **Answer**: "Hallucinations are my best source of ideas quite often." Use a weaker model without extended thinking for creative tasks - "Overthinking is for correctness. Speak without thinking is for creativity."
+- **Question**: If the AI future is framed positively, will people actively move toward it rather than fear it?\
+  **Answer**: Yes - constraint is humans' ability to absorb discomfort, not the technology itself.
+- **Question**: Do we really need programming languages anymore?\
+  **Answer**: "High-level programming languages have fallen to the level of machine languages. We don't care about the machine language the compiler writes - these are just compilers at a different level."

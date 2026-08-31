@@ -51,3 +51,38 @@ This week, I learned:
   - "Based on my usage patterns and objectives, which of these have the highest impact (provides highest uplift to my chats) x frequency (relevance)?"
   - "Review all my skills. See what applies where. Filter what has HIGH impact. Draft the full diffs for the relevant skill files."
 - GPT 5.6 Sol attempted the [Cycle Double Cover Conjecture](https://mathworld.wolfram.com/CycleDoubleCoverConjecture.html). An interesting learning from [the prompt](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_prompt.pdf) is how they listed tempting outputs that APPEAR to satisfy this request, but would not actually, and told it to avoid them: "Use adversarial agents throughout: every candidate proof must be checked for exact-two multiplicity, repeated-edge closed trails masquerading as cycles, ..."
+
+## Questions I was asked
+
+[Week ending 26 Jul 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-07-26)
+
+- **Question**: How do we protect our computers when agents download files and run commands?\
+  **Answer**: Sandbox and give the least access required, e.g. using containers. Where required, use auto mode in Claude Code / Codex - they're pretty good these days.
+- **Question**: Should we learn to create AI skills or buy skills others sell?\
+  **Answer**: No, unless a cheap skill solves an immediate problem. Skills are mostly reusable prompts - and they depreciate. Try it, use it if it clearly helps or a benchmark shows you that it does. Buy if you're convinced of a gap and can't bridge it yourself.
+- **Question**: Do AI interns need hard skills or a degree like BS Mathematics?\
+  **Answer**: No. Hire for high agency—people who act without being told. The rest is trainable; the real bottlenecks are access to AI, access to data, and a manager with business sense.
+- **Question**: How do you train capable AI builders to stop waiting for assigned work?\
+  **Answer**: Repeatedly ask, “What did you do that nobody asked you to do?” Have them research stakeholders, deliver small outputs, track what gets ignored or used, and iterate until useful work becomes self-directed.
+- **Question**: How is connecting an agent to Google Drive and email different from pasting documents into it?\
+  **Answer**: The connector adds discovery, not just access. It can find new, forgotten, or previously unknown context across files, email, calendars, and transcripts, then revise priorities as that context changes.
+- **Question**: Can we tell whether a CLI is agent-friendly just by asking the agent?\
+  **Answer**: No. Have agents use it on diverse tasks and measure errors, correctness, time, tokens, and output quality; then improve the skill from the execution logs and retest.
+- **Question**: Why is your "Ask AI" email agent better than asking Claude or ChatGPT directly?\
+  **Answer**: The model is not the difference. My agent is connected to my transcripts, notes, blog, emails, search tools, and my style of answering. That context is the difference.
+- **Question**: If you built an AI company today, what would you focus on?\
+  **Answer**: Don't start with a generic platform. Pick one workflow, deliver ten accepted outputs, and assetize every correction into tests, verifiers, skills, connectors, and context; if output ten is much cheaper, faster, or better than output one, it could be my next company.
+- **Question**: How do I build credibility for an AI product role before I have the title?\
+  **Answer**: Do the job before asking for the role. Pick one repeated workflow, deliver the actual output on approved data, have the owner review it, and show measured improvement; a stakeholder saying "we use this" beats courses and polished demos. This is what an FDE does.
+- **Question**: As AI takes over analytics and visualization craft, will organizations still need analytics people?\
+  **Answer**: Yes, but analytics people must become AI-conversant. Intead of producing charts, focus on what comes before and after: problem framing, domain context, communication, and decisions.
+- **Question**: How do you use Claude and other AI tools for thought work?\
+  **Answer**: Use AI for thought work, not just chat. Delegate all thinking as a practice, then do the parts it fails at that you can catch.
+- **Question**: How do we benchmark whether an AI skill actually improves performance?\
+  **Answer**: Define “better” and construct the rubric independently of the skill. Compare baseline versus skill across diverse unseen tasks, use independent judges, and watch for models preferring their own outputs.
+- **Question**: Should an AI evaluation checklist be short or comprehensive?\
+  **Answer**: Comprehensive for the agent; concise for the human. Keep the full machine-readable checklist, then show reviewers only the failures and decisions.
+- **Question**: How do we make an AI hackathon useful for non-developers?\
+  **Answer**: Ask for the output, not the code. Let people use any tool and judge working demos by usefulness; code can be allowed without making it the entry barrier.
+- **Question**: What should I proactively build and show my manager?\
+  **Answer**: Have an agent research the manager's goals and propose useful prototype options, pick one, build it, and ask for feedback. Delegate the blank-page problem, not the choice.

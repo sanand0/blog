@@ -30,3 +30,28 @@ This week, I learned:
   - Extract the shape of all lakes across the years to find out how they're changing.
 - Terence started Foundation for Science and AI Research (SAIR) to use AI in science research. Verifiable proofs (e.g. [LEAN](https://lean-lang.org/)) are a big part of this.
 - Since AI needs to run on phones and that needs GPUs, a lot of phones might need replacement in the next few years.
+
+## Questions I was asked
+
+[Week ending 22 Mar 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-03-22)
+
+- **Question**: If I outsource all my creative decisions to AI, am I becoming a lesser version of myself?\
+  **Answer**: Cognitive offloading is real - but each generation trades old skills for new ones. Rickshaw pullers were replaced by machines; many found other work.
+- **Question**: We must have considered the long-term impact of AI when developing it, right?\
+  **Answer**: "No. Who considers long-term impact over money? Or fame? Or power?"
+- **Question**: Do you have any critique of this technology - is it all sunshine?\
+  **Answer**: "I don't have a problem dying. I'm having fun. If AI wants to kill me, it can. Just shoot me in the back."
+- **Question**: Do we have a direction for how to use AI in HR?\
+  **Answer**: AI is like a very smart intern with no hands or legs. If you can find a use for an intern in HR, you can find a use for AI.
+- **Question**: I've been using NotebookLM to summarize things before reading - am I cheating?\
+  **Answer**: Learning comes from effort, not the tool. If your brain is as tired after using the LLM as without it, the learning is there.
+- **Question**: For making presentations, which is best - Gemini, Claude, or ChatGPT?\
+  **Answer**: Claude makes the best presentations; Gemini does the best research (Google access); ChatGPT does the best analysis.
+- **Question**: Is AI change management consulting scalable as a business?\
+  **Answer**: Scales only as large as your trusted relationships; relationships become more valuable as AI commoditizes the rest; scalability through product defeats the entire premise.
+- **Question**: What is the profile of a person to hire to build a retail AI solution?\
+  **Answer**: Any engineer qualifies; the less experience the better; test them live: "sit down, build this solution, one hour."
+- **Question**: Who owns the commit - the AI or the developer?\
+  **Answer**: Humans know how to assign responsibility for companies, ships, gods, rivers; we haven't learned yet how to do it for agents.
+- **Question**: What is the biggest blocker to having AI as part of SDLC?\
+  **Answer**: The people - "I am a coder. If AI is going to do my code, what am I?"

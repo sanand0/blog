@@ -22,3 +22,30 @@ This week, I learned:
   - 🔴 LESS: Completeness and rigor: agents tolerate uncertainty.
   - 🔴 LESS: Proprietary: agents can reverse-engineer.
 - There are several industries / markets that MBA case studies rarely cover ([ChatGPT](https://chatgpt.com/share/69efcf7a-6bf0-83ea-86dd-36e115e7540c)): Kirana stores; Care (child care, elder care, domestic work); Faith (finance, food, media, education); Remittances; Gambling (lottery, sports betting, gacha); Scams & organized fraud; Counterfeiting; ... <!-- https://chatgpt.com/c/69efa7bb-f918-83ea-9bc5-e3f7231c75da + https://gemini.google.com/app/dc5ac9f4a4f44cf0 -->
+
+## Questions I was asked
+
+[Week ending 03 May 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-05-03)
+
+- **Question**: You're a teacher - what is your role now that AI can do so much?\
+  **Answer**: Role has shifted to designing conditions for learning: crafting prompts for students, designing agentic assessments, collecting data on how students learn.
+- **Question**: How is this not just students using AI to produce answers?\
+  **Answer**: Outcome-based evaluation - if the prompt must produce working code that passes a test, students have to understand enough to iterate.
+- **Question**: Who's getting education AI right?\
+  **Answer**: Community colleges - career-focused, can't afford to wait for philosophical consensus on AI policy.
+- **Question**: You've surveyed university AI policies - how does Harvard compare?\
+  **Answer**: Harvard ranks 4th from the bottom among ~30 universities for comprehensiveness; University of Helsinki was at the top.
+- **Question**: What are the most underrated skills employers are looking for?\
+  **Answer**: Communication - specifically the ability to reach out, make connections, and have substantive conversations.
+- **Question**: You're hiring interns - what are you looking for?\
+  **Answer**: People who can get the job done without knowing the domain - smart people from tier-2 Indian towns using AI to punch far above their weight.
+- **Question**: How do I develop my expertise so I can be like a top data scientist? I feel I can never get there.\
+  **Answer**: Don't try to match an expert's knowledge base - AI has commoditized that. Develop judgment: knowing what question to ask, what answer to trust, when to push back.
+- **Question**: How do I judge AI quality without expert knowledge - is this the death of expertise?\
+  **Answer**: Expertise is not dead but changing: the valuable skill is now knowing enough to ask the right question and recognize a bad answer.
+- **Question**: Are you teaching the agent to teach students, or teaching students to use agents?\
+  **Answer**: Teaching students to use agents to teach themselves. I'm creating a learning environment, not delivering content.
+- **Question**: My team doesn't know what questions to ask AI - how do we help people get comfortable with prompting?\
+  **Answer**: Hands-on workshops, competitions, and peer sharing via Slack. Having senior leaders use AI visibly is the biggest accelerator.
+- **Question**: How do you manage AI sprawl and shadow AI across an organization?\
+  **Answer**: Start with use cases where ROI is clearest, let organic adoption happen, then standardize after seeing what actually sticks.

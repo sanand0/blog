@@ -61,3 +61,12 @@ This week, I learned:
   - `script --timing=time.txt session.log` logs the timing, which you can replay with `scriptreplay --timing=time.txt session.log`. Similar to asciinema.
   - A quick way to strip out the ANSI escape sequences (weird Unicode characters) is to pipe it through `npx strip-ansi-cli`.
 - Google has an [Edge Gallery](https://github.com/google-ai-edge/gallery) app that runs Gemma 4 on mobile. The main advantage is that you can use it on a flight. It's not too bad as a model either. Transcription quality is average. It doesn't run in the background, only one chat at a time, etc. So, it's useful only as a last resort.
+
+## Questions I was asked
+
+[Week ending 12 Apr 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-04-12)
+
+- **Question**: Hallucination is creativity, at some level?\
+  **Answer**: In humans we don't call it hallucination, we call it agency or autonomy. Exactly.
+- **Question**: How is 25 years into a job mid-career?\
+  **Answer**: Feels like starting over - AI is resetting the playing field for everyone regardless of experience.

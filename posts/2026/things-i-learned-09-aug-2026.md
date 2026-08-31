@@ -44,3 +44,18 @@ This week, I learned:
 - [BusinessCaseBench](https://business-ai-benchmark.github.io/) solved over 238 business cases with AI agents and they're doing well and improving #ForNow. Not surprising. [Frontier AI performance across the business disciplines](https://arxiv.org/pdf/2607.16057v2)
 - [OpenAI Presence](https://openai.com/index/introducing-openai-presence/) shows a pathway for deploying agents. Deploy for a **specific job**, with **only required access** to knowledge and systems, company defined **policies** for approval, agent periodically **reviews logs** & escalations and **proposes updates** for testing and approval.
 - A lot of work people are doing on ChatGPT is OUTSIDE their area of work. "... a substantial part of work-related ChatGPT use is from users expanding their role." [OpenAI](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/)
+
+## Questions I was asked
+
+[Week ending 09 Aug 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-08-09)
+
+- **Question**: Is this (Email AI with LocalMCP plugin) just search on steroids?\
+  **Answer**: Yes. Search on steroids is not a bad mental model. The deeper capability is the ability to loop like crazy - keep hitting a problem with tools until it actually gets solved.
+- **Question**: How do you build enough trust to let agents take multiple steps without constant approval?\
+  **Answer**: Don't try to convert everyone. Leave the early adopters alone; show the middle working examples and let them try carefully. When the middle moves, the rest will catch up themselves.
+- **Question**: If AI accelerators become outdated in two weeks, how do you keep up?\
+  **Answer**: Build accelerators for accelerators. Instead of investing in a benchmark, build a benchmark-builder from production logs; leapfrog one step and plan for agents to automate today's specification and verification work.
+- **Question**: How do we govern all the AI apps employees are creating?\
+  **Answer**: First ask, "Does this need governing?" Personal use: do whatever you want. Shared apps: review them. Don't say, "You cannot do X unless it is governed."
+- **Question**: Where do you stand on "code with AI, code without review"?\
+  **Answer**: Usually review it, with AI helping find problems. But for throwaway code, or code agents write for themselves, or incidental to a business output you can verify, validate the outcome instead.

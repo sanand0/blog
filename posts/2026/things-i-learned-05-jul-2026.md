@@ -44,3 +44,26 @@ This week, I learned:
 - `date -d (date +-%wday) +%F` is the most compact way to round down to the nearest Sunday. Avoid `date -d "last sunday" +%F` which, on a Sunday, returns the _previous_ Sunday, not today. [ChatGPT](https://chatgpt.com/share/6a40788f-c904-83ec-8750-6f507e37b9bc) <!-- https://chatgpt.com/c/6a407687-43b4-83ec-8307-1935ea28182a -->
 - A useful way of controlling AI verbosity is word count. To do that, I need an intuitive sense of how much to ask for. Here's my rule of thumb: one page of paragraph text on ChatGPT is 200-300 words. 150-200 if it's mostly bullets. I can typically read 1-2 pages of output. So, 300-600 words is my limit.
 - Google Labs launched a [DESIGN.md](https://github.com/google-labs-code/design.md) spec to guide agents on a consistent design. The good part is that it aligns with the proposed [W3C design tokens spec](https://www.designtokens.org/). But beyond that, I'm not convinced of the benefit. Atlassian's [DESIGN.md](https://atlassian.design/DESIGN.md) had [mixed results](https://www.atlassian.com/blog/how-we-build/atlassians-design-md-is-here-what-we-learned-testing-portable-design-context-in-practice).  [Claude](https://claude.ai/share/2a64a7fe-1939-46b4-af32-e5efdc03fb70) feels it could go either way. I'll give this a miss for now.
+
+## Questions I was asked
+
+[Week ending 05 Jul 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-07-05)
+
+- **Question**: What skills are AI-proof?\
+  **Answer**: Don’t memorize a fixed list. Delegate maximally and watch what remains; today relationships and accountability are strongest, while taste, judgment, and verification are temporary advantages.
+- **Question**: When should we kill an AI-generated chart rather than fix it?\
+  **Answer**: Kill it if the chart could cause harm, is fundamentally wrong for the audience, or needs to be recreated from scratch. Curation includes refusing to publish, not just polishing.
+- **Question**: How does a junior learn and grow if AI does most of the execution?\
+  **Answer**: Pair them with experts and real clients; let them produce artifacts fast, absorb feedback, and build specification, taste, synthesis, and verification. Don’t make them rehearse every manual step AI already does.
+- **Question**: What form should AI engagement assets take so another team can actually reuse them?\
+  **Answer**: Store them as recombinable atoms—domain context, tools, skills, golden datasets, and telemetry. The platform assembles, verifies, deploys, and learns from them for each new engagement.
+- **Question**: How do we make this the way teams work, not a one-off experiment?\
+  **Answer**: Ask, “Show me where you’ve done this.” Requiring visible evidence creates the behavior; the strongest teams deliver and the rest learn from them.
+- **Question**: What does “Improve” mean after an AI workflow is deployed?\
+  **Answer**: Monitor whether it still works as new data arrives. Then improve the model, add better data, or change the downstream workflow—automatically where verification allows.
+- **Question**: Is loop engineering just putting agents in a loop to build an app?\
+  **Answer**: No. Give a continuously running agent loop one operational goal; it can build apps, create artifacts, use budgets, and optimize the workflow as needed.
+- **Question**: How should technical interviews change now that AI can do the coding?\
+  **Answer**: Replace at least one coding exercise with a direct business-output exercise. Let candidates use AI and public data; judge whether they can produce something useful, not whether they typed the code.
+- **Question**: What do we do when AI gives us a hundred words for a one-word question and becomes a firehose?\
+  **Answer**: Treat it like a verbose person. Stop it, ask for two sentences, or ask, “What do you want me to do?”

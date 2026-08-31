@@ -20,6 +20,8 @@ tags-promote tag description:
   uv run scripts/tag_proposals.py promote "{{tag}}" --description "{{description}}"
 til:
   uv run scripts/til.py
+questions:
+  uv run scripts/questions.py
 linkedin:
   uv run scripts/linkedin_blog_map.py
 embeddings:

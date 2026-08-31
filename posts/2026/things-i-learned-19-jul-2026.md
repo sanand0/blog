@@ -43,3 +43,20 @@ This week, I learned:
 - [ChatGPT Work](https://learn.chatgpt.com/docs/get-started-with-work) lets you run for longer, faster, install plugins and skills, host a website, etc #ForNow. It's somewhere between Chat and Codex. It consumes Codex limits - something to watch for (since chat limits are quite generous).
 - Codex temporarily removed the 5-hour usage limit. [Tibo](https://x.com/thsottiaux/status/2076365965915467978). So, since I have 3 banked rate-limit resets #ForNow, I can, in theory, use 4 full weeks of Codex usage at one go. Reality: I don't have problems large enough for a SINGLE week's consumption!
 - From what I see of the [State of AI Design](https://stateofaidesign.com/chapters/tools) and [State of Prototyping](https://survey.uxtools.co/spring-2026), Figma is _way_ ahead of competition #ForNow, e.g. Adobe, with [Figma Make](https://www.figma.com/make/) and [Weave](https://weave.figma.com/). I was also surprised how popular Cursor is (#2 behind Claude Code #ForNow). It's also interesting that designers are coding directly #ForNow, using Figma just for edits / steering. But many _research_ tools (note takers, survey analysis/research, etc.) will likely get eaten up by AI coding agents #ForNow, given how much designers are building their own tools.
+
+## Questions I was asked
+
+[Week ending 19 Jul 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-07-19)
+
+- **Question**: What if proactive AI-generated work gets no stakeholder feedback?\
+  **Answer**: Keep sending small experiments and log what gets a response. Once one works, compare it with the misses and ask the stakeholder what made the difference.
+- **Question**: How should autonomous agents that plan, decide, and act be introduced into customer experiences?\
+  **Answer**: Increase autonomy step-by-step: advise first, act after confirmation next, then act within explicit limits. Start read-only, enforce access, spending, and safety boundaries with logs and human escalation, measure failures, then add transactions.
+- **Question**: What would success in this GenAI Architect role look like after one month, six months, and two years?\
+  **Answer**: One month: clients ask for you. Six months: delivery teams ask you to rescue difficult projects. Two years: clients ask for more people you trained.
+- **Question**: What AI spending limit should we set for each developer?\
+  **Answer**: Don't set equal per-person limits. Set a team budget against committed outcomes, allocate it to whoever produces the most value per dollar, and review spend against delivered value every month.
+- **Question**: Is improving a prompt itself a reusable skill?\
+  **Answer**: Yes. Build a benchmark first, test multiple prompt variants against it, then use the same loop to auto-improve entire skills.
+- **Question**: How should a data visualization course change now that AI can generate charts?\
+  **Answer**: Teach the invariants: problem formulation, selection, critique, verification, uncertainty, and accountability. Delegate chart generation and routine data preparation to AI.

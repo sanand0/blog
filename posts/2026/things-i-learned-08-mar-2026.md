@@ -22,3 +22,12 @@ This week, I learned:
 - With AI now writing almost all of my code, I don't see much need to format it. Code formatters like `ruff`, `dprint`, `biome`, etc. are not relevant when AI will be reading and writing the code, not humans. I just format the prompts in Markdown.
 - Salt is the duct tape of food ingredients. Lemon juice, vinegar, butter/oil, onion/garlic, etc. are runners-up. [Claude](https://claude.ai/share/8a783928-e726-439c-8415-3bc673ff4645)
 - Claude's [prompt to import memory](https://claude.com/import-memory) from other AI providers doesn't seem to work with Claude's free account: ["No memories or stored context found."](https://claude.ai/share/fc8b9173-b47c-4ebd-a8f7-b87b03433706)
+
+## Questions I was asked
+
+[Week ending 08 Mar 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-03-08)
+
+- **Question**: If the output is HTML, how do you edit it?\
+  **Answer**: You tell it what changes to make - you no longer edit documents, you manage the intelligence that writes them.
+- **Question**: What are the invariants that won't change as AI reduces the cost of intelligence?\
+  **Answer**: Regulation is a big one; that doesn't change easily.

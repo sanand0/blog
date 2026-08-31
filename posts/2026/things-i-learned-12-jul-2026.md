@@ -34,3 +34,60 @@ This week, I learned:
 - The 7-day week emerged from the Hellenistic planetary week and the Jewish week (not astronomy based), which Rome adopted, then spread by several routes to India, China, and worldwide. Unlike the astronomical year and month, the week is just a convention. Egypt, China, and Athens grouped days in tens; Etruria and Rome used 8-day market cycles; West Africa used varied cycles; Java used five days; Mesoamerica used 13- and 20-day cycles. [Gemini](https://share.gemini.google/DPWeYqx3RIGn) <!-- https://gemini.google.com/app/9223b933d8e12403 + https://chatgpt.com/c/6a4a35f3-0904-83ec-b9de-1855ae57c2bd -->
 - I met an ex-photographer and learned that photography is another profession where technology (mobile cameras) squeezed the middle. Generation (taking good pictures) became cheap. Value moved upstream (direction), downstream (selection, editing, album design), and into niches (forensic, industrial, sport/event photography). <!-- https://chatgpt.com/c/6a48f8b1-8c80-83ec-b42e-8b9bfae9b194 -->
 - Looks like Claude favors Claude Code. Might not be intentional, and just a result of training more on Claude Code data, but it does look like a network effect that could weaken open harnesses. [Armin Rocher](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
+
+## Questions I was asked
+
+[Week ending 12 Jul 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-07-12)
+
+- **Question**: How should we handle data quality in research (especially when using AI for research)?\
+  **Answer**: Start with a human sanity filter: fix bad source data or kill the idea. Then use LLM-as-a-judge to scale. Where accuracy matters a lot, simulate them in a verifiable environment.
+- **Question**: What effort is needed to train the model on our branding guidelines?\
+  **Answer**: Don't train it. Generate the content separately, then apply branding deterministically through code or templates; non-deterministic models should not own brand compliance.
+- **Question**: How should I explain what these five reusable AI asset types do in an engagement?\
+  **Answer**: Plan, Connect, Do, Verify, Log. Domain context plans; connectors and tools connect; skills, hooks, and agents do; golden datasets and benchmarks verify; telemetry and observability log so the system improves.
+- **Question**: How do real reusable AI assets get manufactured from past project work?\
+  **Answer**: Let agents mine the actual exhaust—code, transcripts, Jira, design artifacts, standards, and contracts—into small reusable files that explain domain context, schemas, gotchas, and playbooks without being client-specific. Future agents should consume those assets.
+- **Question**: Before ingesting and chunking 30,000 documents, what should we try?\
+  **Answer**: Start minimally: point Claude Code at the folder and ask the real question. Benchmark that direct baseline before building indexing or RAG.
+- **Question**: When context evolves, how do I make the agent treat the latest version as the truth?\
+  **Answer**: Prepend updates; don’t append them. Put the latest truth first and preserve dated history below, because agents and tools often inspect the head of a file before the tail.
+- **Question**: Can AI help a teacher understand 160 students individually?\
+  **Answer**: Yes. It may not know 40 students better than an attentive teacher, but it can remember and personalize for 160, 1,000, or 100,000; use it where human memory stops scaling.
+- **Question**: Can AI release teachers from correcting answer sheets so they can spend more time on creative teaching?\
+  **Answer**: Not automatically. If correction takes half the time, teachers may simply give twice as many tests; unless we deliberately reallocate the gain, productivity becomes more work rather than better teaching.
+- **Question**: Can AI replace a counselor’s personal touch?\
+  **Answer**: No, not when a trusted counselor is available. Use it like a teddy bear—one more source of support when the human is unavailable, while learning the risks of dependence.
+- **Question**: How safe is it to put sensitive data into ChatGPT or Claude?\
+  **Answer**: Use the same trust boundary as cloud storage. If I would put it in Google Drive, Dropbox, or OneDrive, I may put it into a frontier AI service; if not, I won’t.
+- **Question**: Can I upload an answer key and student answer sheets and have AI evaluate them?\
+  **Answer**: Yes. Let it grade in parallel with you, compare disagreements, and expand delegation only where it proves reliable; do not delegate judgment before you have built confidence.
+- **Question**: How should we prioritize which AI skills to build?\
+  **Answer**: Prioritize skills that face customers, solve a common problem, and compound—something reusable that accelerates future work or becomes IP. Don’t assetize every clever prompt.
+- **Question**: If a skill already has its own rubric, why evaluate it separately?\
+  **Answer**: The author and evaluator should not be the same system. Treat the skill’s rubric as internal control and a separate evaluator as external audit; keep a human on revisions so it does not overfit one test set.
+- **Question**: How should we choose an AI use case and rubric for a competition?\
+  **Answer**: Pick a use case with objective ground truth, synthetic data you can generate, and hidden cases that separate a demo from a working system. Use a tiered rubric: happy path, hidden exceptions, then traceability to evidence.
+- **Question**: Are we doing premature optimization by benchmarking quality, speed, and cost on manufactured generic data?\
+  **Answer**: Yes, if we treat the result as universal. Re-run the benchmark on the actual domain, corpus, task, and technique; general rules are a bonus, not a substitute for local evidence.
+- **Question**: If AI produces a plausible result quickly, when should we share it?\
+  **Answer**: Generation is cheap; socialization is the risky part. Share low-stakes findings quickly, but hold revenue, forecasting, or other consequential claims until the right owner verifies them.
+- **Question**: Is AI research just regurgitating what is already on the internet?\
+  **Answer**: Often, yes—and that is still useful for breadth. Where I am an expert, ask it what I missed; where I am not, use it to generate candidates and benchmark before trusting them.
+- **Question**: Should every agent output be forced into a strict schema?\
+  **Answer**: For intermediate outputs consumed by machines, usually yes. For the final human-facing answer, allow flexibility—or add a final conversion layer.
+- **Question**: How can I verify agent work when I do not know the domain well enough to judge it?\
+  **Answer**: Manage agents like a hiring panel: have several propose benchmarks, have others attack them, and use deterministic checks where possible. Curate the test and escalate uncertainty rather than pretending to be the domain expert.
+- **Question**: What useful open-source problem should AI developers build next?\
+  **Answer**: Build observability that reads agent logs, finds failure patterns, and turns them into better prompts, tools, and harnesses. Self-improvement needs execution evidence, not reflection alone.
+- **Question**: What should an organization prioritize before investing in AI tools or models?\
+  **Answer**: Don’t begin with an AI strategy. Begin with experiments on real workflows, accept failures, compare multiple approaches, and scale only what produces evidence.
+- **Question**: How much verification should an AI workflow have?\
+  **Answer**: Match it to risk and repetition. Low-stakes one-offs need little; high-stakes one-offs need human review; repeated tasks need automated judges, with disagreements escalated to a human.
+- **Question**: Why does AI sound generic, verbose, and unlike me?\
+  **Answer**: Because you hired a brilliant post-doc and spent zero minutes onboarding it. Give it your context, examples, style, and feedback; don’t expect personalization without training the workflow.
+- **Question**: Why is content and knowledge infrastructure critical for enterprise AI?\
+  **Answer**: Models cannot compensate for fragmented, stale, or inaccessible source systems. Fix access, provenance, and freshness; otherwise AI will fail like a human or hallucinate.
+- **Question**: How do we prove our AI methodology and platform are real rather than marketing?\
+  **Answer**: Show a coverage matrix across actual engagements, assets, and reuse, with clickable evidence from code, logs, and transcripts. Platform claims need usage numbers and visible gaps, not architecture slides.
+- **Question**: Can we standardize on one coding agent across the enterprise?\
+  **Answer**: Internally, mostly; across clients, no. Client environments dictate the allowed model and tools, so standardize the workflow and reusable assets, not the vendor.

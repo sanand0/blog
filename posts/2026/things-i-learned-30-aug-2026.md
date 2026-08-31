@@ -29,3 +29,16 @@ This week, I learned:
   - I also did a rough calculation to see if the _$18 GLM subscription_ offers more than $20 ChatGPT Plus. Short answer: No, for my usage, Codex offers ~1.8x more value #ForNow. [ChatGPT](https://chatgpt.com/share/6a8bbfde-4a3c-83ee-ac80-c31630021fbf)
 - Anthropic's Skill Creator Skill [now includes evals and A/B testing](https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills) #ForNow to check if a skill actually does better. I've been doing this the hard way, e.g. with [impact of simple writing on thinking](https://github.com/sanand0/research/tree/main/simplification-prompt), [optimizing my ideation prompt](https://github.com/sanand0/research/tree/main/ideation-protocol-optimization), [optimizing my summarization prompt](https://github.com/sanand0/scripts/commit/7b1c11fd56c726cb796abfababfe31f9a9a2ec9f), etc.
 - I switched from [markitdown](https://github.com/microsoft/markitdown) to [anydoc](https://github.com/firecrawl/anydoc) as my default PDF to Markdown converter. AnyDoc handles tables and other kinds of structures in PDF _much_ better #ForNow.
+
+## Questions I was asked
+
+[Week ending 30 Aug 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-08-30)
+
+- **Question**: How hard was it to adapt your personal AI workflow to work?\
+  **Answer**: I didn't try solving work problems. Rather, I took what I was solving personally with agents and tried finding where at work I can apply it. "I have a hammer, let me find all the nails."
+- **Question**: If agents can do the coding, how do we teach the foundational blocks?\
+  **Answer**: We don't care if they learn FastAPI, etc. Routing, authentication, interfaces, ... - THAT is more useful. So give them tasks that forces them to learn FUTURE foundational blocks FROM agents.
+- **Question**: How do you monitor whether people are actually using reusable AI skills?\
+  **Answer**: Read the agent session logs. A small script over Claude, Codex and Copilot histories can tell you which skills were actually used and how often.
+- **Question**: How are you determining which AI spend is dumb?\
+  **Answer**: Start with the highest-cost users and inspect the obvious outliers. Give the raw logs to an agent, ask why someone spent that much, tell users to make obvious optimizations, etc. before attempting sophisticated optimization.

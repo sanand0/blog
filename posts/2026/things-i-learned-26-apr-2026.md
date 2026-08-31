@@ -36,3 +36,16 @@ This week, I learned:
   After a `git clone` it reported `HTML document detected. Please install python-bs4 and python-readability`.
   These are easy to fix, but I wasn't inclined.
 - Creating an authenticated [MCP Server for ChatGPT](https://developers.openai.com/api/docs/mcp) is complex. It requires OpenID Connect (for which library support is weak and requires a provider like Auth0), dynamic client registration (which is hard to implement though Auth0 supports it), and after half a day of experiments, I still couldn't connect. An easier option is to run temporary tunnels with `cloudflared` or `ngrok` or `localtunnel`.
+
+## Questions I was asked
+
+[Week ending 26 Apr 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-04-26)
+
+- **Question**: How should I look at my career for the next 5-10 years given where AI is going?\
+  **Answer**: Focus on skills AI cannot do - judgment, communication, knowing what question to ask - and use AI aggressively for everything else.
+- **Question**: What change are you seeing in how kids approach the world differently from how we did?\
+  **Answer**: Kids are far less inhibited with AI - they ask weird, creative questions naturally, without the guardrails adults impose on themselves.
+- **Question**: How do kids today relate to the concept of truth?\
+  **Answer**: Truth has always been a social construct - shaped by village elders, then science, then social media, now AI. It's a shift in authority, not a unique collapse.
+- **Question**: Is judging quality of a prompt useful for running a Prompt-a-thon?\
+  **Answer**: Evaluating prompts against outcome-based tests is more robust than subjective scoring, which is trivially gamed.

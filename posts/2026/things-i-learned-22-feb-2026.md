@@ -20,3 +20,14 @@ This week, I learned:
 - esbuild can compile CSS files to support old browsers, e.g. nested rules, custom properties, etc. Usage: `esbuild input.css --target=chrome90 --outfile=output.css`. [Julia Evans](https://jvns.ca/til/esbuild-can-build-css/)
 - New jargon I learnt: [Human-On-The-Loop](https://tools.s-anand.net/askai/?q=What+is+Human+On+The+Loop+vs+Human+In+The+Loop%3F+Give+it+to+me+in+a+sentence.). [Treasure In Treasure Out](https://tools.s-anand.net/askai/?q=What%27s+Treasure+In+Treasure+Out+-+as+opposed+to+Garbage+In+Garbage+Out%3F+Give+it+to+me+in+a+sentence.)
 - VS Code's GitHub Copilot extension supports a `github.copilot.chat.commitMessageGeneration.instructions` setting that lets you add a `[{"text": ...}]` or `[{"file": "path/to/file.ext"}]` prompt to the commit message generation. I've pointed this to my [`git-commit.md`](https://github.com/sanand0/scripts/blob/main/agents/custom-prompts/git-commit.md) custom prompt.
+
+## Questions I was asked
+
+[Week ending 22 Feb 2026](https://www.s-anand.net/blog/questions-i-am-asked/#week-ending-2026-02-22)
+
+- **Question**: I'm thinking of a Digital Board Member - an AI who participates in board meetings. What do you think?\
+  **Answer**: Great idea in 3-4 years; today LLM latency makes live participation very hard.
+- **Question**: How do you build taste?\
+  **Answer**: "I can't tell you."
+- **Question**: Where will all these people get absorbed when AI takes over their work?\
+  **Answer**: Three paths - some go down the economic ladder, some switch to adjacent roles, some move into new roles that didn't exist before.
