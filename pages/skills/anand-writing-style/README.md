@@ -1,3 +1,8 @@
+---
+description: Please provide the blog post text or link so I can write an accurate metadata description.
+tags: [writing-style, prompt-engineering]
+---
+
 # Anand Writing Style
 
 - 30 Aug 2026. Revised based on https://louisabraham.github.io/load-bearing/

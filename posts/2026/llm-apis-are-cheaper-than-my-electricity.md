@@ -3,6 +3,8 @@ title: LLM APIs are cheaper than my electricity
 date: 2026-08-30T13:38:31+08:00
 categories:
   - llms
+description: I benchmarked a local Gemma 4 model on my RTX 2000 at 60 tokens per second. Electricity costs less than API calls, but Cloudflare and OpenRouter make running locally uneconomic.
+tags: [llms, llm-pricing, model-comparison]
 ---
 
 Last week, I saw that [local agents are good but slow](https://www.s-anand.net/blog/local-agents-are-good-but-slow/).

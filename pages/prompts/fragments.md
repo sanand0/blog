@@ -426,7 +426,7 @@ No new hooks, interpretations, conclusion, or framing.
 - At least 85% of retained words must be verbatim from the source.
 - Remove links.
 - Add appropriate LinkedIn @mentions.
-- Use **bold** and *italics* as and where needed.
+- Use **bold** and _italics_ as and where needed.
 ```
 
 ## LinkedIn Post
@@ -446,7 +446,7 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 - Write plain & simple. No aphoristic punchlines, no slogan-like closers, no puffery or promotion, no forced threes, no synonym cycling, no generic upbeat endings, no excessive bullets, no "-ing" padding, no subjectless phrases.
 - Use only ASCII punctuation. No em-dashes, emojis. Straight quotes.
 - Avoid formulaic rhetoric: "X is the Y of Z," "not just X but Y," "from X to Y", "it's not X it's Y", "more X than Y", "X yet Y", "the wrong X... the right one is Y", ...
-- Avoid too-earnest over-reaches: exactly, every, never, genuine, honest, ...
+- Avoid too-earnest over-reaches: exactly, every, never, genuinely, honestly, materially, ...
 - Avoid condensed verb forms (prefer conversational phrases): ships (publishes or delivers), trips (makes a mistake), surfaces (ends up exposing), lands (results in), load-bearing (critical), ...
 - Don't stack short sentences for effect.
 - Write like I speak: specific details, mixed feelings, odd phrasing, asides, some grammatical errors are OK. One-word sentences are OK - e.g. "Fair." "Really?" "Maybe."
@@ -755,4 +755,40 @@ Simple language, no jargon, no preamble, easy-to-read.
 Refer previous conversations for context.
 Cite the source link for each item. Cite important factual claims.
 End with the ONE highest-leverage thing to do next, and why.
+```
+
+## WhatsApp Scanner
+
+<!-- 31 Aug 2026: https://chatgpt.com/c/6a9510da-8b04-83ec-810d-d8ad4409ceef -->
+
+```markdown
+Scan the latest ~20 messages in these WhatsApp groups:
+Agents & Harnesses
+The Generative AI Group
+VizChitra
+IIMBians in Singapore
+Hasgeek
+IITM 96
+
+Find 0-3 messages worth replying to. Silence is better than a mediocre reply.
+
+Look mainly at the last day, but go back ~2 days if the thread is still relatively uncrowded.
+
+Recommend a reply only when:
+
+- someone has a real unresolved need,
+- existing replies are clearly inadequate, and
+- I can add clearly differentiated value from something I've done or learnt (and can verify with strong evidence)
+  OR primary-source evidence that significantly improves/corrects the discussion
+
+For promising candidates, use @LocalMCP to search my notes, transcripts, blog, code, past WhatsApp messages, ...
+Use `anand-writing-style`. Verify current claims online. Strongly prefer including 1-2 useful evidence links.
+
+For each, give:
+**Group - Person**
+**They said:** ...
+**Why me:** ...
+**Reply:** copy-pastable WhatsApp message, usually 40-140 words, including evidence links where useful.
+
+If nothing clears the bar, say **No reply worth sending today.**
 ```

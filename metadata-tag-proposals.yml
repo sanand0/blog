@@ -106,6 +106,10 @@ proposals:
     sources:
       posts/2026/things-i-learned-17-may-2026.md:
         content_hash: 9265f160c377ee0e120beba6ad88212eba0bbb983d3b4b3948415543bb4d4a96
+  local-llms:
+    sources:
+      posts/2026/llm-apis-are-cheaper-than-my-electricity.md:
+        content_hash: 5ec605cc75ff15ceef469d25615164f681f3e0a7c56948377f0f25792648a9c7
   meaning-of-life:
     sources:
       posts/2026/the-meaning-of-life.md:
@@ -126,6 +130,13 @@ proposals:
     sources:
       posts/2026/unresolved-questions-across-disciplines.md:
         content_hash: d9a57826abb15e4f5ba0a8f392aa1f758f17ac735bdd7156458faa8e31504b46
+  password-management:
+    sources:
+      posts/2026/swearing-at-passwords.md: &id001
+        content_hash: 249d083e9c6fa8d536905cd32cbf93d2f21fc758074f58315c63cf3de2a3b18f
+  password-security:
+    sources:
+      posts/2026/swearing-at-passwords.md: *id001
   people-skills:
     sources:
       posts/2026/people-skills-with-ai.md:
