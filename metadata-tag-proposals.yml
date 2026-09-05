@@ -132,11 +132,12 @@ proposals:
         content_hash: d9a57826abb15e4f5ba0a8f392aa1f758f17ac735bdd7156458faa8e31504b46
   password-management:
     sources:
-      posts/2026/swearing-at-passwords.md: &id001
+      posts/2026/swearing-at-passwords.md:
         content_hash: 249d083e9c6fa8d536905cd32cbf93d2f21fc758074f58315c63cf3de2a3b18f
   password-security:
     sources:
-      posts/2026/swearing-at-passwords.md: *id001
+      posts/2026/swearing-at-passwords.md:
+        content_hash: 249d083e9c6fa8d536905cd32cbf93d2f21fc758074f58315c63cf3de2a3b18f
   people-skills:
     sources:
       posts/2026/people-skills-with-ai.md:

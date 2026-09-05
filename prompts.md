@@ -1,5 +1,13 @@
 # Prompts
 
+## Update sitemap #TODO, 31 Aug 2026
+
+Do I need a sitemap? Do I HAVE a sitemap?
+
+## Update questions-i-am-asked, 31 Aug 2026
+
+<!-- https://chatgpt.com/c/6a9501c8-e804-83ec-ab1a-d6d1913621c5 -->
+
 ## Fix breadcrumb schema, 30 Aug 2026
 
 <!-- https://chatgpt.com/c/6a93b55f-d460-83ec-b705-79389fa344c9 -->

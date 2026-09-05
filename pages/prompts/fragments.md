@@ -446,7 +446,7 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 - Write plain & simple. No aphoristic punchlines, no slogan-like closers, no puffery or promotion, no forced threes, no synonym cycling, no generic upbeat endings, no excessive bullets, no "-ing" padding, no subjectless phrases.
 - Use only ASCII punctuation. No em-dashes, emojis. Straight quotes.
 - Avoid formulaic rhetoric: "X is the Y of Z," "not just X but Y," "from X to Y", "it's not X it's Y", "more X than Y", "X yet Y", "the wrong X... the right one is Y", ...
-- Avoid too-earnest over-reaches: exactly, every, never, genuinely, honestly, materially, ...
+- Avoid too-earnest over-reaches: unusually, genuinely, honestly, materially, exactly, every, never, ...
 - Avoid condensed verb forms (prefer conversational phrases): ships (publishes or delivers), trips (makes a mistake), surfaces (ends up exposing), lands (results in), load-bearing (critical), ...
 - Don't stack short sentences for effect.
 - Write like I speak: specific details, mixed feelings, odd phrasing, asides, some grammatical errors are OK. One-word sentences are OK - e.g. "Fair." "Really?" "Maybe."
@@ -762,13 +762,15 @@ End with the ONE highest-leverage thing to do next, and why.
 <!-- 31 Aug 2026: https://chatgpt.com/c/6a9510da-8b04-83ec-810d-d8ad4409ceef -->
 
 ```markdown
-Scan the latest ~20 messages in these WhatsApp groups:
-Agents & Harnesses
-The Generative AI Group
-VizChitra
-IIMBians in Singapore
-Hasgeek
-IITM 96
+Scan the latest messages in these WhatsApp groups on @LocalMCP ~/Documents/data/whatsapp/
+
+Generative AI [120363271326291828@g.us].jsonl
+Generative AI [120363049558306142@g.us].jsonl
+VizChitra Core Team [120363310389512044@g.us].jsonl
+IIMBians in Singapore [6583504500-1518568354@g.us].jsonl
+Hasgeek [120363206684610452@g.us].jsonl
+IIT Madras 96 Batch [19725712818-1481650167@g.us].jsonl
+... and you are welcome to scan any other groups updated in the last 24 hours.
 
 Find 0-3 messages worth replying to. Silence is better than a mediocre reply.
 
@@ -781,7 +783,7 @@ Recommend a reply only when:
 - I can add clearly differentiated value from something I've done or learnt (and can verify with strong evidence)
   OR primary-source evidence that significantly improves/corrects the discussion
 
-For promising candidates, use @LocalMCP to search my notes, transcripts, blog, code, past WhatsApp messages, ...
+For promising candidates, use @LocalMCP to search my notes, transcripts, blog, talks, code, past WhatsApp messages, emails, ...
 Use `anand-writing-style`. Verify current claims online. Strongly prefer including 1-2 useful evidence links.
 
 For each, give:
