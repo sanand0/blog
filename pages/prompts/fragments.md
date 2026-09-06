@@ -334,15 +334,25 @@ In fact, I'd love for you to think about who some of the best authors are who ac
 
 Moved to the [expert lens skill](https://github.com/sanand0/scripts/blob/main/agents/expert-lens/SKILL.md).
 
-## Fact check what I say
+## Fact check mistakes I made
 
 ```markdown
-Fact-check my statements for the last 7 days until yesterday.
+Fact-check claims I made in the last 7 days until Saturday midnight (SGT).
 
-On @LocalMCP read my transcripts, emails, and chats.
-List claims that are wrong, quoting the file (filename:line) / source with a short identifying fragment.
-Explain why with evidence.
-Prioritize by impact and extent of error.
+Use @LocalMCP to scan my transcripts, sent emails, work chats, and WhatsApp.
+Verify questionable claims against current authoritative sources.
+Read `~/Dropbox/notes/mistakes-i-made.md` and skip mistakes already logged.
+
+Return only genuine corrections, prioritized by impact.
+Skip opinions, predictions, harmless approximations, and merely debatable claims.
+
+Output prepend-ready rows in exactly this format, sorted by latest first:
+
+- DD Mon YYYY. #PUBLIC|#PRIVATE #HIGH|#MEDIUM|#LOW #FALSE|#OVERSTATED|#UNSUPPORTED I said **"short identifying claim"**. #FIX What I should say instead. <!-- source: exact filename/source:line -->
+
+Use the date I made the claim. Keep quotes short.
+`#FIX` must state the corrected claim, not just explain the error. Provide evidence links wherever possible and relevant. Prefer primary sources.
+Mark `#PUBLIC` only if the entire visible text is safe to publish. `#PRIVATE` means it reveals or strongly implies non-public information about a person, client, organization, strategy, ...
 ```
 
 ## Google Meet captions context

@@ -40,3 +40,17 @@ This week, I learned:
   **Answer**: Do the math: machine cost per hour versus useful inferences per hour and compare it with the API. Cost alone probably isn't enough; privacy is a much better reason to self-host.
 - **Question**: How do you build a QA agent that tests developers' work and reports back?\
   **Answer**: Don't build the agent first. Tell a coding harness the outcome—find requirements, create tests, run them and report—and do it manually 5–10 times; automate only after you know what you actually want.
+
+## Mistakes I made
+
+[Week ending 16 Aug 2026](https://www.s-anand.net/blog/mistakes-i-made/#week-ending-2026-08-16)
+
+- I said **"The data is secure everywhere. All of them have solid enterprise contracts"** and that choosing an AI tool for company data was not really a technical question.\
+  **Correction**: Enterprise AI offerings can have strong security, but their data handling is not interchangeable. It depends on the exact product, plan, tenant configuration, retention and training settings, connectors, geography and contract. Microsoft explicitly says Copilot controls vary by subscription; OpenAI and Anthropic make separate commitments for their business/commercial products. I should check the approved product and its actual controls rather than assume equivalence. Evidence: [Microsoft — Copilot enterprise data protection](https://learn.microsoft.com/en-us/microsoft-365/copilot/enterprise-data-protection) [OpenAI — Enterprise privacy](https://openai.com/enterprise-privacy/) [Anthropic — commercial-product training policy](https://privacy.anthropic.com/en/articles/7996868-is-my-data-used-for-model-training)\
+  **HIGH · OVERSTATED**
+- I said **GitHub is where you take version-controlled software and "save it publicly."**\
+  **Correction**: GitHub repositories can be public or private; GitHub Enterprise also supports internal repositories. Version control does not imply publishing the code. When explaining this to a beginner, I should explicitly distinguish Git from GitHub and repository visibility. Evidence: [GitHub Docs — About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)\
+  **LOW · FALSE**
+- I said **animation "started" in the 1930s with *Snow White and the Seven Dwarfs*.**\
+  **Correction**: *Snow White* was a landmark, but animated features predate it. *El Apóstol* was released in 1917, and *The Adventures of Prince Achmed* from 1926 is the earliest surviving animated feature. My visualization was a filtered view of popular IMDb titles, not a history of when animation began. Evidence: [BFI — animated features before Snow White](https://www.bfi.org.uk/features/lesser-spotted-british-animated-feature-film)\
+  **LOW · FALSE**

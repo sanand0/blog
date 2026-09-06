@@ -42,3 +42,20 @@ This week, I learned:
   **Answer**: Read the agent session logs. A small script over Claude, Codex and Copilot histories can tell you which skills were actually used and how often.
 - **Question**: How are you determining which AI spend is dumb?\
   **Answer**: Start with the highest-cost users and inspect the obvious outliers. Give the raw logs to an agent, ask why someone spent that much, tell users to make obvious optimizations, etc. before attempting sophisticated optimization.
+
+## Mistakes I made
+
+[Week ending 30 Aug 2026](https://www.s-anand.net/blog/mistakes-i-made/#week-ending-2026-08-30)
+
+- I said **Roger Federer "picked up tennis at the age of 20 or something."**\
+  **Correction**: Federer began playing tennis at age 8. The point in _Range_ is that he sampled several sports and specialized later than Tiger Woods, not that he began tennis as an adult. Evidence: [ATP Tour — Roger Federer biography](https://www.atptour.com/en/players/roger-feder/f324/bio?utm_source=chatgpt.com)\
+  **LOW · FALSE**
+- I said **a $20 ChatGPT subscriber can use Pi with GPT-4o without API-token billing, and implied OpenAI subscription usage effectively doesn't rate-limit.**\
+  **Correction**: Pi does support ChatGPT subscription OAuth, but specifically through its **ChatGPT Plus/Pro (Codex)** provider. Pi lists GPT-4o under the regular OpenAI API-key provider, and Codex subscription usage has plan limits. Evidence: [Pi — Providers](https://pi.dev/docs/latest/providers?utm_source=chatgpt.com) [Pi — GPT-4o model configuration](https://pi.dev/models/openai/gpt-4o?utm_source=chatgpt.com) [OpenAI — Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540?utm_source=chatgpt.com)\
+  **MEDIUM · FALSE**
+- I said **the IITM Web-Enabled M.Tech AI credential "is not yet accepted by PhD programs, even in India, let alone abroad."**\
+  **Correction**: I don't have evidence for that blanket statement. IIT Madras formally awards the Web-Enabled M.Tech in AI, and IITM CSE's PhD eligibility accepts M.E./M.Tech degrees in AI, ML and related engineering areas. Other universities make their own admissions decisions. I should say the program is relatively new and its research/PhD outcomes are not yet well established. Evidence: [IIT Madras WSAI — Web-Enabled M.Tech in AI](https://wsai.iitm.ac.in/admissions/web-enabled-mtech/?utm_source=chatgpt.com) [IIT Madras CSE — PhD eligibility](https://www.cse.iitm.ac.in/admissions.php?utm_source=chatgpt.com)\
+  **HIGH · UNSUPPORTED**
+- I said **Indian tax residency for NRIs comes down to whether you were in India more than 120 days.**\
+  **Correction**: The 120-day threshold is a special case, not the general rule. The normal tests include 182 days and 60+365 days; for an Indian citizen/PIO visiting India with more than ₹15 lakh of non-foreign income, 120+365 can apply. There is also a deemed-residency rule. Evidence: [Income Tax Department — Non-Resident FAQs](https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/non%20resident%20-faq?utm_source=chatgpt.com)\
+  **HIGH · OVERSTATED**

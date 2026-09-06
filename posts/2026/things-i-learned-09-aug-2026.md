@@ -59,3 +59,17 @@ This week, I learned:
   **Answer**: First ask, "Does this need governing?" Personal use: do whatever you want. Shared apps: review them. Don't say, "You cannot do X unless it is governed."
 - **Question**: Where do you stand on "code with AI, code without review"?\
   **Answer**: Usually review it, with AI helping find problems. But for throwaway code, or code agents write for themselves, or incidental to a business output you can verify, validate the outcome instead.
+
+## Mistakes I made
+
+[Week ending 09 Aug 2026](https://www.s-anand.net/blog/mistakes-i-made/#week-ending-2026-08-09)
+
+- I described the MoSPI telecom results as applying to **youth aged 14–24** and referred to **Daman and Diu** as the geography.\
+  **Correction**: The CMS: Telecom 2025 tables use the age group **15–24**, not 14–24. The official State/UT geography is **Dadra & Nagar Haveli and Daman & Diu**. When quoting striking subgroup percentages, I should preserve the source's exact denominator and geography. Evidence: [MoSPI — NSS Report No. 593: CMS Telecom, 2025](https://www.mospi.gov.in/sites/default/files/publication_reports/CMST_report_m.pdf)\
+  **LOW · FALSE**
+- I said **agents "don't hallucinate, not anymore."**\
+  **Correction**: Hallucinations have fallen substantially in newer models, especially when they can search, use tools and verify, but they have not disappeared. OpenAI still explicitly evaluates hallucination rates and warns that ChatGPT can confidently produce incorrect or misleading outputs. Evidence: [OpenAI — Does ChatGPT tell the truth?](https://help.openai.com/en/articles/8313428-accuracy-and-reliability) [OpenAI — GPT-5.6 System Card](https://deploymentsafety.openai.com/gpt-5-6)\
+  **HIGH · OVERSTATED**
+- I said **"GPT-4o-mini is both better and cheaper" than GPT-4o** and suggested simply switching.\
+  **Correction**: GPT-4o mini was much cheaper, but it was not simply a more capable GPT-4o. Model quality depends on the task. OpenAI's own evaluations, for example, showed GPT-4o substantially more accurate and less hallucinatory than GPT-4o mini on SimpleQA and PersonQA. The right advice is to switch an old expensive model only after benchmarking the cheaper candidate on the actual workload. Evidence: [OpenAI — o1 System Card, Table 3](https://cdn.openai.com/o1-system-card-20241205.pdf)\
+  **MEDIUM · OVERSTATED**

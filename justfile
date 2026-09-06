@@ -22,6 +22,8 @@ til:
   uv run scripts/til.py
 questions:
   uv run scripts/questions.py
+mistakes:
+  uv run scripts/mistakes.py
 linkedin:
   uv run scripts/linkedin_blog_map.py
 embeddings:

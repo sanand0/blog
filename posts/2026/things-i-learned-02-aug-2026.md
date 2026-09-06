@@ -72,3 +72,26 @@ This week, I learned:
   **Answer**: Log everything. Preserve raw logs to make sure you can do any analysis later.
 - **Question**: Does it matter that the newest models and agent features reach enterprise platforms late?\
   **Answer**: Usually less than it appears. Model gaps are small, manageable, and close within weeks. Access to real data, permissions, feedback and a running workflow are the bigger constraints.
+
+## Mistakes I made
+
+[Week ending 02 Aug 2026](https://www.s-anand.net/blog/mistakes-i-made/#week-ending-2026-08-02)
+
+- I said **"The organization is virtual, but the data is perfectly representative. What difference does it make whether you're running it in Company A or Company B?"**\
+  **Correction**: Synthetic data can be useful for prototypes, simulations and controlled experiments, but I cannot call it perfectly representative without validating it against the real population and workflow. It can miss distributions, correlations, edge cases and organizational context that matter in production. NIST explicitly warns that synthetic datasets cannot simply be assumed to represent real-world data. Evidence: NIST — Best Practices in the Collection and Use of Biometric and Forensic Datasets.\
+  **HIGH · OVERSTATED**
+- I called **repeatedly generating code, running tests and asking AI to try again "a reinforcement learning cycle."**\
+  **Correction**: That is an iterative generation/evaluation or search loop, not reinforcement learning by itself. Reinforcement learning trains a policy/model from reward signals; for example, OpenAI's reinforcement fine-tuning generates rollouts, grades them and applies weight updates. Re-prompting the same model after seeing a test result does not update its weights. Evidence: OpenAI — Reinforcement Fine-Tuning.\
+  **MEDIUM · FALSE**
+- I said **"any theorem that you can write in Lean, you can prove or disprove just by brute force."**\
+  **Correction**: Lean lets us formalize statements and mechanically check proofs. It has automation and decision procedures for some classes of propositions, but formalizing a theorem does not make it automatically or brute-force decidable. Lean's own documentation distinguishes decidable propositions from general theorem proving, and interactive proofs can require substantial human or automated guidance. Evidence: Lean — Decidable Propositions; Lean — proof-assistant design.\
+  **MEDIUM · FALSE**
+- I said **ChatGPT gives roughly three times as many tokens as Claude and "Nobody will be able to" exhaust its quota.**\
+  **Correction**: That extrapolated too much from my own usage. ChatGPT allowances depend on the plan, model and workload. Business explicitly has per-seat limits, and Work/Codex allowances can be exhausted; after that, additional usage needs workspace credits or a reset. I also shouldn't claim a universal 3x token advantage without comparing the actual Claude and ChatGPT plans and workloads involved. Evidence: OpenAI — ChatGPT Business models and limits; Using Codex with your ChatGPT plan.\
+  **MEDIUM · OVERSTATED**
+- I said **AI logs "will have an expiry of something like one month" and that "most providers will delete old logs automatically."**\
+  **Correction**: Log retention is provider- and configuration-specific. In the Azure environment we were discussing, Log Analytics defaults many tables to 30 days, but analytics retention can be extended to two years and total retention to 12 years. Backups may still be sensible, but I should inspect and configure the actual retention policy rather than assume a one-month expiry. Evidence: Microsoft — Manage data retention in Log Analytics.\
+  **MEDIUM · OVERSTATED**
+- I said **"If I'm in India for more than 120 days in a year, the taxation is different."**\
+  **Correction**: The 120-day threshold is only a special case, not the general NRI residency rule. For an Indian citizen/PIO visiting India, 182 days normally applies; if non-foreign income exceeds ₹15 lakh, the alternate 120-day test also requires 365+ days in India over the preceding four years. There is also a separate deemed-residency provision. Evidence: Income Tax Department — Non-Resident Individual rules.\
+  **HIGH · OVERSTATED**

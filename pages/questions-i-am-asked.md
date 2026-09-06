@@ -1,12 +1,33 @@
 ---
 title: Questions I am asked
 description: Questions people ask me, and my answers.
-tags: [ai-agents, agentic-workflows, enterprise-ai, llms]
+tags: [ai, ai-agents, enterprise-ai, fact-checking]
 ---
 
 # Questions I am asked
 
 Questions people ask me, with names, organizations, and exact dates removed.
+
+## Week ending 06 Sep 2026 {#week-ending-2026-09-06}
+
+- **Question**: Are small local language models really as good as frontier APIs?\
+  **Answer**: No. They're tolerable for narrow, single-turn work and useful when I'm offline, but for complex agent work I still use APIs. Local isn't necessarily cheaper either.
+- **Question**: Can we decide whether an AI output needs review using confidence-score thresholds like 90% and 75%?\
+  **Answer**: No. Those scores are not calibrated. Use them to rank the review queue first, record what people actually change, then map score bands to observed error/rewrite rates and set thresholds based on acceptable limits + people capacity.
+- **Question**: If the model we prefer is not available in the deployment environment, should we benchmark it against the available models and push for it if it performs better?\
+  **Answer**: Yes, but build the evals and tests first, compare them on the same data, and suggest a different model only if the gain is large enough to justify it.
+- **Question**: How do you decompose knowledge into atomic claims, and are those claims verified?\
+  **Answer**: I just used ChatGPT to extract them, fact-check them against sources, and add metadata like source, timestamp and confidence. That makes outdated facts easier to find on future scans.
+- **Question**: Is personalizing AI (for organizations) primarily about sound (recognizably) like us?\
+  **Answer**: Make it _decide_ like us. The valuable asset is the delta between what a smart base model produces and what an experienced expert corrects; log those "No, because..." moments and turn them into reusable institutional judgment.
+- **Question**: Is there a quicker, smarter way to spot delivery problems than adding a heavy operational process?\
+  **Answer**: Yes. Bring in an agent as a consultant: give it the meeting transcripts, Drive, tickets and communications and ask it to "read between the lines and tell me what we're missing." Rerun it every week for what changed and who needs a response.
+- **Question**: Long agent chats preserve context better but cost more. When is it worth changing the workflow to save tokens?\
+  **Answer**: If it costs $10-20, who cares. At around $100, think twice; at $1,000, absolutely switch. Spend human time optimizing only when that time is worth less than the token waste.
+- **Question**: Should we generate a handoff.md so the next agent knows the history of the chat?\
+  **Answer**: Sure. But prefer standard places like README.md, commit prompts or handoff files, and guide future agents to pick up from those files.
+- **Question**: Do we need governance to stop a shared AI asset library becoming trash-in, trash-out?\
+  **Answer**: Not yet. Manage it lightly for a few months and see what governance is actually needed; first let people get a taste of what reuse makes possible.
 
 ## Week ending 30 Aug 2026 {#week-ending-2026-08-30}
 

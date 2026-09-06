@@ -15,6 +15,8 @@ The aim isn't to produce a time log, activity report, exhaustive chronology, or 
 It is to find out what really changed because of this week: in the world, in my trajectory, in other people, or in my sense of myself.
 
 Use @LocalMCP bash/read. Do not run Claude, Codex, Gemini, or other AI agents.
+Use ~/code/scripts/context.py as required.
+
 I will update ~/Dropbox/notes/daily-deeds.md based on your output.
 
 ## What counts

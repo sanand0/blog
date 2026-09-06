@@ -69,3 +69,32 @@ This week, I learned:
   **Answer**: Yes. And so what? AI will take a significant number of existing jobs, and we'll create new ones because our desires and competition don't disappear; figure out which new work takes you further before your neighbor does.
 - **Question**: How did you come up with this conceptual clarity about what to do?\
   **Answer**: I didn't. Pretend to have clarity, ask AI everything and use its answers, then do it so often and fail repeatedly that you get a feel for what works. Quantity beats quality like crazy.
+
+## Mistakes I made
+
+[Week ending 23 Aug 2026](https://www.s-anand.net/blog/mistakes-i-made/#week-ending-2026-08-23)
+
+- I said **Claude Code auto mode made the risk of unintended actions "negligible," and later said "as of this month, it won't make a mistake" with a "90% chance" it would preserve undoability.**\
+  **Correction**: I was far too confident and invented a probability I could not support. Agent safeguards are probabilistic. Anthropic's own auto-mode evaluation reported a 17% false-negative rate on real "overeager" dangerous actions. For destructive local operations I should still use backups/version control, limit permissions and retain review where the blast radius matters. Evidence: [Anthropic — How we built Claude Code auto mode](https://www.anthropic.com/engineering/claude-code-auto-mode?_bhlid=bb5b0c065a6a8790a89389462f16ab1ea5010c5e&utm_source=chatgpt.com)\
+  **HIGH · OVERSTATED**
+- I said **"there is no difference between Codex and ChatGPT Work" and that Work is essentially Code with a lighter, more marketable name.**\
+  **Correction**: Work uses Codex technology, so the overlap is real, but they are distinct experiences. Work is aimed at longer multi-step research, analysis and deliverables; Codex remains specialized for software development and has separate workflows/history. Evidence: [OpenAI — Introducing ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/?_bhlid=b229619b8c31d33de07faa7f27a4a4f2202c57cd&utm_source=chatgpt.com) [OpenAI — ChatGPT Work and Codex](https://help.openai.com/en/articles/20001275/?utm_source=chatgpt.com)\
+  **MEDIUM · OVERSTATED**
+- I said **"1960s is when Studio Ghibli starts trying to catch up" with Disney.**\
+  **Correction**: Studio Ghibli was established in 1985. Evidence: [Studio Ghibli — company history](https://www.ghibli.jp/profile/?utm_source=chatgpt.com)\
+  **LOW · FALSE**
+- I said **"I'm yet to find a use case where fine-tuning is worth it ... Zero. Out of thousands of use cases ... it was never worth it" and "in neither case is fine-tuning useful."**\
+  **Correction**: "I haven't personally found an ROI-positive fine-tuning case yet" would have been defensible; "never useful" is not. Fine-tuning remains a standard adaptation technique even for open-weight models; Meta's official Llama cookbook includes fine-tuning and parameter-efficient fine-tuning recipes. Evidence: [Meta — official Llama Cookbook](https://github.com/meta-llama/llama-cookbook?utm_source=chatgpt.com) [Meta — Llama fine-tuning overview](https://github.com/meta-llama/llama-cookbook/blob/main/getting-started/finetuning/LLM_finetuning_overview.md?utm_source=chatgpt.com)\
+  **HIGH · OVERSTATED**
+- I referred to **"ChatGPT's share price" falling** if a privacy controversy were real.\
+  **Correction**: OpenAI was not publicly traded, so there was no public ChatGPT/OpenAI share price to fall. I should have referred to OpenAI's private-market valuation, tender/share price, investor appetite or commercial impact. Evidence: [Reuters — OpenAI's planned IPO](https://www.reuters.com/business/openai-expects-go-public-within-next-year-information-reports-2026-06-10/?utm_source=chatgpt.com)\
+  **MEDIUM · FALSE**
+- I said **Meta's glasses can record someone "without you getting even an inkling or a notification."**\
+  **Correction**: Meta's AI glasses have an outward-facing capture LED that blinks while photos or video are being captured; current models disable the camera if the LED is covered or disabled. The indicator may be easy to miss, but there is one. Evidence: [Meta — AI glasses privacy and capture LED](https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/amp/?utm_source=chatgpt.com)\
+  **MEDIUM · FALSE**
+- I said **Alexa sends audio to Amazon only if you say "Alexa."**\
+  **Correction**: The wake word is the normal trigger, but it is not an absolute rule. Follow-Up Mode allows requests without repeating the wake word, and Amazon says Alexa can sometimes mistake unrelated speech for a follow-up request. Evidence: [Amazon — Alexa Follow-Up Mode](https://digprjsurvey.amazon.com/csad/help/node/GX7EJ9WHEPYBV94J?utm_source=chatgpt.com) [Amazon — Alexa FAQs](https://digprjsurvey.amazon.com/csad/help/node/201602230?utm_source=chatgpt.com)\
+  **MEDIUM · OVERSTATED**
+- I said **"In India, most children are born on 1st June, which is the admission cutoff date for most schools."**\
+  **Correction**: There is a real historical June-1 anomaly in **recorded** dates of birth in parts of India: when exact birth dates were unknown, some schools/parents used June 1 for admission records. That does not mean most Indian children are actually born on June 1, and the cutoff is not universal nationwide. Evidence: [Times of India — “Admit it, June 1 isn't your real b'day”](https://timesofindia.indiatimes.com/city/ahmedabad/admit-it-june-1-isnt-your-real-bday/articleshow/711643.cms?utm_source=chatgpt.com)\
+  **LOW · OVERSTATED**

@@ -4,6 +4,37 @@
 
 Do I need a sitemap? Do I HAVE a sitemap?
 
+## Update mistakes-i-made on blog, 06 Sep 2026
+
+<!-- https://chatgpt.com/c/6a9cf7c9-c714-83ec-bde5-67d9d96b8e10 -->
+
+On @LocalMCP in ~/code/blog/ I'd like to be able to run `just mistakes` etc very similar to `just questions`. A `scripts/mistakes.py`, like the `scripts/questions.py`, take the input from `~/Dropbox/notes/mistakes-i-made.md` and update a public ~/code/blog/pages/mistakes-i-made.md and the weekly TIL posts.
+
+Think carefully about the output structures, how to handle tags, how to approach links and cross-linkages, how to format what I said vs the fix so that the difference is clear, etc. Try it on a few samples to make sure you're comfortable with the approach.
+
+IMPORTANT: Keep things simple, and aligned with the flow and structure of the blog.
+
+Write failing tests, implement, run and test.
+
+Review the output, iterate if anything's unsatisfactory from an end-user (or agent) experience perspective.
+
+---
+
+A few points:
+
+Don't change the "I said" or "I described" or whatever. Leave the text as-is - no need to remove the prefix. I would just leave it as something like:
+
+- I said **"1960s is when Studio Ghibli starts trying to catch up" with Disney.**\
+  **Correction**: Studio Ghibli was established in 1985. Evidence: [Studio Ghibli — company history](https://www.ghibli.jp/profile/?utm_source=chatgpt.com)\
+  **False · Low impact**
+- ...
+
+Minimize the amount of parsing you're doing - that way, if the structure or style changes in the future, we can still make it work. The principle is: Everything after the fix is the second correction line. Everything before that is the first line. Tags at the beginning are added at the end.
+
+---
+
+Any simplifications that will make the code smaller and more elegant and more readable? For example, I'm OK with a few simplifications, like unknown tags being reproduced as is. So "OVERSTATED", "FALSE", etc. can just be replicated as is.
+
 ## Add missing post titles, 06 Sep 2026
 
 <!--
@@ -50,7 +81,6 @@ I think there'sa bug in the calendar-graph. It shows the weekday as Monday again
 ## Improve summarization, 21 Aug 2026
 
 <!-- https://chatgpt.com/c/6a87fc22-51d0-83ee-8381-200ce9144a72 updated justfile and ~/code/scripts/summarize.py -->
-
 
 ## Fix skills URL, 18 Aug 2026
 
