@@ -1,4 +1,5 @@
 ---
+title: ChatGPT Changes My History
 date: "2024-09-19T11:00:49Z"
 categories:
   - linkedin

@@ -1,4 +1,5 @@
 ---
+title: DataViz Meeting at SUTD 2024
 date: "2024-02-06T03:21:07Z"
 categories:
   - linkedin

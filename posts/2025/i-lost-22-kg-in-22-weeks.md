@@ -1,4 +1,5 @@
 ---
+title: I Lost 22 Kg in 22 Weeks
 date: "2025-06-05T05:36:05Z"
 categories:
   - how-i-do-things

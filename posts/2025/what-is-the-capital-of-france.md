@@ -1,4 +1,5 @@
 ---
+title: What is the Capital of France
 date: "2025-05-03T16:54:04Z"
 categories:
   - linkedin

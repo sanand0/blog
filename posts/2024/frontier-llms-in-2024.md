@@ -1,4 +1,5 @@
 ---
+title: Frontier LLMs in 2024
 date: "2024-05-09T07:36:35Z"
 categories:
   - linkedin

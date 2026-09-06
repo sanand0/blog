@@ -1,4 +1,5 @@
 ---
+title: My Top ChatGPT Chat Categories
 date: "2025-08-15T00:00:00Z"
 categories:
   - visualisation

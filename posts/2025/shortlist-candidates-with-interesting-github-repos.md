@@ -1,4 +1,5 @@
 ---
+title: Shortlist Candidates with Interesting GitHub Repos
 date: "2025-06-18T10:37:40Z"
 categories:
   - linkedin

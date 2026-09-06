@@ -1,4 +1,5 @@
 ---
+title: Can Foreigners Break Into Hollywood
 date: "2021-12-21T13:39:09Z"
 categories:
   - linkedin

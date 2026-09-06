@@ -1,4 +1,5 @@
 ---
+title: Arithmetic is Inappropriate
 date: "2024-11-09T12:24:16Z"
 categories:
   - linkedin

@@ -1,4 +1,5 @@
 ---
+title: Daksh India Data Scientist Job Posting
 date: "2021-03-08T08:17:12Z"
 categories:
   - linkedin

@@ -1,4 +1,5 @@
 ---
+title: Will People Accept AI Performance Evaluations
 date: "2024-11-29T04:11:41Z"
 categories:
   - linkedin

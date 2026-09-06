@@ -1,4 +1,5 @@
 ---
+title: Persuasion Works on LLMs
 date: "2025-08-05T00:00:00Z"
 categories:
   - linkedin

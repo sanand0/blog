@@ -1,4 +1,5 @@
 ---
+title: Gemini Envelopes LLM Frontier
 date: "2025-04-18T13:10:15Z"
 categories:
   - linkedin

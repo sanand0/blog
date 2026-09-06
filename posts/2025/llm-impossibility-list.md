@@ -1,4 +1,5 @@
 ---
+title: LLM Impossibility List
 date: "2025-07-01T08:53:45Z"
 lastmod: 2026-04-16T10:27:04-07:00
 categories:

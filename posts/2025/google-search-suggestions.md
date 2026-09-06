@@ -1,4 +1,5 @@
 ---
+title: Google Search Suggestions
 date: "2025-06-17T06:53:45Z"
 categories:
   - linkedin

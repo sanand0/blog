@@ -1,4 +1,5 @@
 ---
+title: LLM Psychology Podcast
 date: "2025-12-01T05:36:05Z"
 categories:
   - llms

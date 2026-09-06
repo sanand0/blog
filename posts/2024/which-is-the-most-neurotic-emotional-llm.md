@@ -1,4 +1,5 @@
 ---
+title: Which is the Most Neurotic Emotional LLM
 date: "2024-10-06T05:48:57Z"
 categories:
   - linkedin

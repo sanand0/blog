@@ -1,4 +1,5 @@
 ---
+title: People Beginning and Ending with AI
 date: "2025-11-15T00:00:00Z"
 categories:
   - linkedin

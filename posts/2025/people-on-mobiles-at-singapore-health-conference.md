@@ -1,4 +1,5 @@
 ---
+title: People on Mobiles at Singapore Health Conference
 date: "2025-01-17T03:06:00Z"
 categories:
   - linkedin

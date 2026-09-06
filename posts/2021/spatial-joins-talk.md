@@ -1,4 +1,5 @@
 ---
+title: Spatial Joins Talk
 date: "2021-08-15T06:19:49Z"
 categories:
   - linkedin

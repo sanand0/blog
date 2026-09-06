@@ -1,4 +1,5 @@
 ---
+title: ChatGPT Everyday Uses
 date: "2025-06-22T04:40:00Z"
 categories:
   - linkedin

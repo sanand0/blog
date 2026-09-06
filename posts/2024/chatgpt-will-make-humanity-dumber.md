@@ -1,4 +1,5 @@
 ---
+title: ChatGPT Will Make Humanity Dumber
 date: "2024-03-04T12:07:15Z"
 categories:
   - linkedin

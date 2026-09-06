@@ -1,4 +1,5 @@
 ---
+title: LLM Horoscope Analysis
 date: "2025-06-16T08:12:09Z"
 categories:
   - linkedin

@@ -1,4 +1,5 @@
 ---
+title: Data Comicgen Awards
 date: "2021-10-05T06:27:54Z"
 categories:
   - linkedin

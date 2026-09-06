@@ -1,4 +1,5 @@
 ---
+title: People Still Write
 date: "2025-04-30T13:49:26Z"
 categories:
   - linkedin

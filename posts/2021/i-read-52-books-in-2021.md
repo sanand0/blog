@@ -1,4 +1,5 @@
 ---
+title: I Read 52 Books in 2021
 date: "2021-12-30T07:03:53Z"
 categories:
   - linkedin

@@ -1,4 +1,5 @@
 ---
+title: Why Old Movies Are Rated So High
 date: "2025-11-10T00:00:00Z"
 categories:
   - linkedin

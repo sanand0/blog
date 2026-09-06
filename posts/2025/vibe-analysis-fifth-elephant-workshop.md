@@ -1,4 +1,5 @@
 ---
+title: Vibe Analysis Fifth Elephant Workshop
 date: "2025-09-16T00:00:00Z"
 categories:
   - linkedin

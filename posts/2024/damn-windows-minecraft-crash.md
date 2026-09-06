@@ -1,4 +1,5 @@
 ---
+title: Damn Windows Minecraft Crash
 date: "2024-11-04T11:28:41Z"
 categories:
   - linkedin

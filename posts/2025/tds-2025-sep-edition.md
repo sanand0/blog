@@ -1,4 +1,5 @@
 ---
+title: TDS 2025 Sep Edition
 date: "2025-09-25T00:00:00Z"
 categories:
   - linkedin

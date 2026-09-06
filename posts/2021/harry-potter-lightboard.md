@@ -1,4 +1,5 @@
 ---
+title: Harry Potter Lightboard
 date: "2021-05-20T13:34:35Z"
 categories:
   - linkedin

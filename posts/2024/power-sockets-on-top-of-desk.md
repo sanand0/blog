@@ -1,4 +1,5 @@
 ---
+title: Power Sockets on Top of Desk
 date: "2024-08-16T06:52:54Z"
 categories:
   - linkedin

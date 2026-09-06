@@ -1,4 +1,5 @@
 ---
+title: Richie Lionell Demonstrates Augmented Reality Comics
 date: "2019-12-16T15:14:42Z"
 categories:
   - linkedin

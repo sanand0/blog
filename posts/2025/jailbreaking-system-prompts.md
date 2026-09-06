@@ -1,4 +1,5 @@
 ---
+title: Jailbreaking System Prompts
 date: "2025-06-09T16:29:21Z"
 categories:
   - llms

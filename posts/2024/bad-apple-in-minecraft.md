@@ -1,4 +1,5 @@
 ---
+title: Bad Apple in Minecraft
 date: "2024-10-13T02:05:52Z"
 categories:
   - linkedin

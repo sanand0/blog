@@ -1,4 +1,5 @@
 ---
+title: Qwen Coder and Code
 date: "2025-08-15T00:00:00Z"
 categories:
   - linkedin

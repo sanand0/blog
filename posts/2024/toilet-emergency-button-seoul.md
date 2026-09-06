@@ -1,4 +1,5 @@
 ---
+title: Toilet Emergency Button Seoul
 date: "2024-10-01T12:24:58Z"
 categories:
   - linkedin

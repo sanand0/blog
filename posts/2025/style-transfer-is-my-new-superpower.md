@@ -1,4 +1,5 @@
 ---
+title: Style Transfer is My New Superpower
 date: "2025-12-16T05:36:05Z"
 categories:
   - llms

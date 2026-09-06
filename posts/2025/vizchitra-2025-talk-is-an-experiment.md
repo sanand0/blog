@@ -1,4 +1,5 @@
 ---
+title: Vizchitra 2025 Talk is an Experiment
 date: "2025-05-17T07:11:21Z"
 categories:
   - linkedin

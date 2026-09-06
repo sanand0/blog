@@ -1,4 +1,5 @@
 ---
+title: Converting Black and White Photos to Color
 date: "2025-11-01T00:00:00Z"
 categories:
   - linkedin

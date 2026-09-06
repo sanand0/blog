@@ -1,4 +1,5 @@
 ---
+title: Discoveries a Product of Person or Time
 date: "2024-10-31T02:48:28Z"
 categories:
   - linkedin

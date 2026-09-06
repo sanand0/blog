@@ -1,4 +1,5 @@
 ---
+title: Vipassana Plan
 date: "2025-07-01T14:33:22Z"
 categories:
   - linkedin

@@ -1,4 +1,5 @@
 ---
+title: Vizchitra Data Design by Dialogue
 date: "2025-06-29T04:20:23Z"
 categories:
   - linkedin

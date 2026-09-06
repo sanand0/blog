@@ -1,4 +1,5 @@
 ---
+title: Fixing Tap in Seoul
 date: "2024-10-01T11:02:13Z"
 categories:
   - linkedin

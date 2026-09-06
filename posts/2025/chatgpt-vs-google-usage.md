@@ -1,4 +1,5 @@
 ---
+title: ChatGPT vs Google Usage
 date: "2025-08-10T00:00:00Z"
 categories:
   - how-i-do-things

@@ -1,4 +1,5 @@
 ---
+title: Codex Follows Instructions Too Faithfully
 date: "2025-09-16T00:00:00Z"
 categories:
   - linkedin

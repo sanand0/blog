@@ -1,4 +1,5 @@
 ---
+title: Gramener Applies Your Skills
 date: "2022-05-04T09:45:08Z"
 categories:
   - linkedin

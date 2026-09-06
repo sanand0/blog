@@ -1,4 +1,5 @@
 ---
+title: Comics, Augmented Reality, and Data Visualization
 date: "2019-12-03T14:28:18Z"
 categories:
   - linkedin

@@ -1,4 +1,5 @@
 ---
+title: Airbnb Occupancy Rates During Eclipse
 date: "2024-04-04T12:46:36Z"
 categories:
   - linkedin

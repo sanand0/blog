@@ -1,4 +1,5 @@
 ---
+title: Inferencing is the New Compiling
 date: "2025-05-21T10:46:00Z"
 categories:
   - linkedin

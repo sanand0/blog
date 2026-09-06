@@ -1,4 +1,5 @@
 ---
+title: R for Artists
 date: "2021-10-13T08:19:06Z"
 categories:
   - linkedin

@@ -1,4 +1,5 @@
 ---
+title: Shouting at LLMs
 date: "2025-06-11T02:27:07Z"
 categories:
   - linkedin

@@ -1,4 +1,5 @@
 ---
+title: Codex Jules Vibe Coding
 date: "2025-06-22T09:52:29Z"
 categories:
   - linkedin

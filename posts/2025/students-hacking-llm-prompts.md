@@ -1,4 +1,5 @@
 ---
+title: Students Hacking LLM Prompts
 date: "2025-12-15T05:36:05Z"
 categories:
   - llms

@@ -1,4 +1,5 @@
 ---
+title: Jolie No 1 LinkedIn
 date: "2021-02-26T02:52:07Z"
 categories:
   - linkedin

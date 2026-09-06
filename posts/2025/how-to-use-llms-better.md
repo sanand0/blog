@@ -1,4 +1,5 @@
 ---
+title: How to Use LLMs Better
 date: "2025-08-30T00:00:00Z"
 categories:
   - linkedin

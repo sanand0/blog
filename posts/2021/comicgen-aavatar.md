@@ -1,4 +1,5 @@
 ---
+title: Comicgen Aavatar
 date: "2021-05-02T05:35:17Z"
 categories:
   - linkedin

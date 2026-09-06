@@ -1,4 +1,5 @@
 ---
+title: Harry Potter Bar Chart Race PowerPoint
 date: "2021-06-23T14:14:05Z"
 categories:
   - linkedin

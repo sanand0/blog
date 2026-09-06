@@ -1,4 +1,5 @@
 ---
+title: Goodbye MBA, Hello AI
 date: "2025-08-05T00:00:00Z"
 categories:
   - linkedin

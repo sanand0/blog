@@ -1,4 +1,5 @@
 ---
+title: LLMs Are Smarter Than Us
 date: "2025-07-01T06:46:10Z"
 categories:
   - linkedin

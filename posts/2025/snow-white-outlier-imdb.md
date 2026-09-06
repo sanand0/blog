@@ -1,4 +1,5 @@
 ---
+title: Snow White Outlier IMDb
 date: "2025-06-02T04:49:51Z"
 categories:
   - how-i-do-things

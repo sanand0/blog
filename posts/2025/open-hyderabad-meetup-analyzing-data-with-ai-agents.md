@@ -1,4 +1,5 @@
 ---
+title: Open Hyderabad Meetup Analyzing Data with AI Agents
 date: "2025-03-10T03:35:42Z"
 categories:
   - linkedin

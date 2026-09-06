@@ -1,4 +1,5 @@
 ---
+title: Singapore People's Action Party Performance 2025
 date: "2025-04-23T00:20:15Z"
 categories:
   - linkedin

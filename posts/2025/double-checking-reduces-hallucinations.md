@@ -1,4 +1,5 @@
 ---
+title: Double-Checking Reduces Hallucinations
 date: "2025-05-10T09:35:14Z"
 categories:
   - linkedin

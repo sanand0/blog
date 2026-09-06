@@ -1,4 +1,5 @@
 ---
+title: Can AI Hear What We Feel
 date: "2025-12-25T02:54:41Z"
 categories:
   - llms

@@ -1,4 +1,5 @@
 ---
+title: Nano Banana Pro Text Generation
 date: "2025-11-22T00:00:00Z"
 categories:
   - llms

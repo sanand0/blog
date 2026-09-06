@@ -1,4 +1,5 @@
 ---
+title: Data Comicgen Event
 date: "2021-07-28T03:03:35Z"
 categories:
   - linkedin

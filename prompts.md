@@ -4,6 +4,30 @@
 
 Do I need a sitemap? Do I HAVE a sitemap?
 
+## Add missing post titles, 06 Sep 2026
+
+<!--
+cd ~/code/blog
+dev.sh -- codex --yolo --model gpt-5.6-luna --config model_reasoning_effort=medium
+-->
+
+Some of my posts, e.g. posts/2025/hyderabad-airport-ip-password.md, don't have a title in the front matter.
+Add titles for these. The title should be such that its slug matches the filename, e.g. "Hyderabad Airport IP Password" for the above post.
+
+---
+
+On second thoughts, if the title doesn't make sense, you may rename the file and title aptly.
+
+---
+
+Not too long titles!
+
+---
+
+"Hyderabad Airport Ip Password" is the actual title on the file. Find other such mistakes and fix them in the titles you updated.
+
+<!-- codex resume 01a0746d-c8a3-7782-9454-e8e306a81d69 --yolo -->
+
 ## Update questions-i-am-asked, 31 Aug 2026
 
 <!-- https://chatgpt.com/c/6a9501c8-e804-83ec-ab1a-d6d1913621c5 -->

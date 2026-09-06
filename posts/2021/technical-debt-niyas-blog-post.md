@@ -1,4 +1,5 @@
 ---
+title: Technical Debt Niyas Blog Post
 date: "2021-07-22T16:01:21Z"
 categories:
   - linkedin

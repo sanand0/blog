@@ -1,4 +1,5 @@
 ---
+title: Comicgen by Gemini
 date: "2024-11-16T13:27:37Z"
 categories:
   - linkedin

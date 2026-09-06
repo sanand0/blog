@@ -1,4 +1,5 @@
 ---
+title: Structure Prompts as XML
 date: "2024-09-20T04:07:16Z"
 categories:
   - linkedin

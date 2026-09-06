@@ -1,4 +1,5 @@
 ---
+title: Coding Agent Comparison
 date: "2025-10-25T00:00:00Z"
 categories:
   - linkedin

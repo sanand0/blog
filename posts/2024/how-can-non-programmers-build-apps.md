@@ -1,4 +1,5 @@
 ---
+title: How Can Non-Programmers Build Apps
 date: "2024-10-20T10:37:57Z"
 categories:
   - linkedin

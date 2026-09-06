@@ -1,4 +1,5 @@
 ---
+title: Mining Digital Exhaust Workshop 2025
 date: "2025-12-09T05:36:05Z"
 categories:
   - llms

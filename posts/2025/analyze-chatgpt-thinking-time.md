@@ -1,4 +1,5 @@
 ---
+title: Analyze ChatGPT Thinking Time
 date: "2025-06-29T04:10:05Z"
 categories:
   - linkedin

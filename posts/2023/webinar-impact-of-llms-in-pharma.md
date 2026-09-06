@@ -1,4 +1,5 @@
 ---
+title: Webinar Impact of LLMs in Pharma
 date: "2023-08-31T09:46:57Z"
 categories:
   - linkedin

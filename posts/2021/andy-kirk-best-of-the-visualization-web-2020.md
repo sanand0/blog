@@ -1,4 +1,5 @@
 ---
+title: Andy Kirk Best of the Visualization Web 2020
 date: "2021-01-14T04:44:20Z"
 categories:
   - linkedin

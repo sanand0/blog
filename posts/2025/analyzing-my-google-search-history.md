@@ -1,4 +1,5 @@
 ---
+title: Analyzing My Google Search History
 date: "2025-07-31T00:00:00Z"
 categories:
   - linkedin

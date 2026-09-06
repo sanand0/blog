@@ -1,4 +1,5 @@
 ---
+title: Autocorrect is Serendipitous
 date: "2022-09-16T05:16:24Z"
 categories:
   - linkedin

@@ -1,4 +1,5 @@
 ---
+title: Anyone Interested in an Internship to Create Comic Characters
 date: "2020-01-25T12:58:08Z"
 categories:
   - linkedin

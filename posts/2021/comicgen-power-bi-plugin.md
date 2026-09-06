@@ -1,4 +1,5 @@
 ---
+title: Comicgen Power BI Plugin
 date: "2021-03-19T10:42:30Z"
 categories:
   - linkedin

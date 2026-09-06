@@ -1,4 +1,5 @@
 ---
+title: AI Agents Are Messing Up Software Tool Learning
 date: "2025-12-23T05:36:05Z"
 categories:
   - llms

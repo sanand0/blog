@@ -1,4 +1,5 @@
 ---
+title: Singapore Property Price Trends
 date: "2025-05-27T05:36:15Z"
 categories:
   - linkedin

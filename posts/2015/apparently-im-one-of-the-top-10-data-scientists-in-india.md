@@ -1,4 +1,5 @@
 ---
+title: Apparently I'm One of the Top 10 Data Scientists in India
 date: "2015-11-05T12:25:36Z"
 categories:
   - linkedin

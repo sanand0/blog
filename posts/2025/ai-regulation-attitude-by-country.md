@@ -1,4 +1,5 @@
 ---
+title: AI Regulation Attitude by Country
 date: "2025-05-09T07:37:50Z"
 categories:
   - linkedin

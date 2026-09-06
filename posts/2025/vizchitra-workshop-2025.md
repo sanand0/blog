@@ -1,4 +1,5 @@
 ---
+title: Vizchitra Workshop 2025
 date: "2025-06-29T10:25:14Z"
 categories:
   - linkedin

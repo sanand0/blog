@@ -1,4 +1,5 @@
 ---
+title: I Found Just 8 Diamonds in Minecraft
 date: "2021-06-23T04:54:02Z"
 categories:
   - linkedin

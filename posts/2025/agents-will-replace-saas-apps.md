@@ -1,4 +1,5 @@
 ---
+title: Agents Will Replace SaaS Apps
 date: "2025-06-19T09:30:15Z"
 categories:
   - linkedin

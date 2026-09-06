@@ -1,4 +1,5 @@
 ---
+title: If You're a Seasoned Developer with Data and Front-End Skills
 date: "2019-04-08T10:16:58Z"
 categories:
   - linkedin

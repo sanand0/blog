@@ -5,7 +5,7 @@ lastmod: "2024-11-16T14:36:14Z"
 categories:
   - links
 wp_id: 3710
-description: "Recraft has reached the point where it can plausibly replace bespoke comic-character tooling, making mass-market comic generation practical for non-designers."
+description: "Comicgen has reached the point where it can plausibly replace bespoke comic-character tooling, making mass-market comic generation practical for non-designers."
 tags: [comicgen, character-design]
 ---
 

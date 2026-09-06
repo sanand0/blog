@@ -1,4 +1,5 @@
 ---
+title: Share COVID-19 Vaccination Cost
 date: "2021-06-01T16:18:29Z"
 categories:
   - linkedin

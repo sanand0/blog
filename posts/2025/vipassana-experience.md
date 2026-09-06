@@ -1,4 +1,5 @@
 ---
+title: Vipassana Experience
 date: "2025-07-14T00:00:00Z"
 categories:
   - linkedin

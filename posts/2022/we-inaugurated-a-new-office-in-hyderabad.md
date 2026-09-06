@@ -1,4 +1,5 @@
 ---
+title: We Inaugurated a New Office in Hyderabad
 date: "2022-03-16T09:48:22Z"
 categories:
   - linkedin
