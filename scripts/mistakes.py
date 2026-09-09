@@ -114,12 +114,10 @@ def render_page(items: list[Mistake]) -> str:
     parts = [
         "---",
         "title: Mistakes I made",
-        "description: Factual claims I got wrong, overstated, or could not support, with corrections.",
+        "description: What I got wrong, and what I should say instead. This excludes opinions, predictions, harmless approximations, and debatable claims.",
+        "tags: [fact-checks, corrections]",
         "---",
         "",
-        "# Mistakes I made",
-        "",
-        "What I got wrong, and what I should say instead. This excludes opinions, predictions, harmless approximations, and debatable claims.",
     ]
     for sunday in sorted(grouped, reverse=True):
         parts.extend(

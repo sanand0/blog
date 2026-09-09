@@ -1,12 +1,8 @@
 ---
 title: Mistakes I made
-description: Factual claims I got wrong, overstated, or could not support, with corrections.
+description: What I got wrong, and what I should say instead. This excludes opinions, predictions, harmless approximations, and debatable claims.
 tags: [fact-checking, llms, ai-agents]
 ---
-
-# Mistakes I made
-
-What I got wrong, and what I should say instead. This excludes opinions, predictions, harmless approximations, and debatable claims.
 
 ## Week ending 06 Sep 2026 {#week-ending-2026-09-06}
 

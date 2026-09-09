@@ -2,6 +2,7 @@
 title: Converting Black and White Photos to Color
 date: "2025-11-01T00:00:00Z"
 categories:
+  - llms
   - linkedin
 description: I used Google Gemini 2.5 Flash to convert my parents' 55-year-old black-and-white wedding photos into high-resolution color images. By using specific prompting, I preserved facial accuracy while adding modern digital sharpness and vivid colors.
 tags: [prompt-engineering, generative-ai]

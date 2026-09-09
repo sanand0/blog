@@ -238,7 +238,7 @@ Output only:
 ## Compare models
 
 ```markdown
-Here's another answer from ChatGPT/Gemini/Claude.
+Here's how another agent answer the same question.
 Fact-check and critically evaluate yours and theirs - only the parts that'll change the outcome and where there's disagreement.
 For major disagreements, judge with fresh evidence, calculation, or testing where possible. If both stay defensible, keep the disagreement, don't average it away.
 Take what's better, drop what's worse, explore any new thoughts this leads you to, and rewrite your response based on that.

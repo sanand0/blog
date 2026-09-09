@@ -21,7 +21,7 @@ His phone rage began. He called back and said, "Why did you wake me up and waste
 
 He called me again. I answered and left the phone on the table.
 
-## That's when the phone rage began. He called me 5 times from 9467186002 and twice from 7015580411. I answered and left the phone on the table.
+**That's when the phone rage began.** He called me 5 times from 9467186002 and twice from 7015580411. I answered and left the phone on the table.
 
 Then the SMS flood hit. Between 2:47 pm and 2:55 pm, he sent me 40 OTPs:
 
@@ -53,3 +53,75 @@ PS: The featured image was generated using the prompt: **Edit this image so that
 Here's ChatGPT's version of that. Yes, that's **vaguely** like me.
 
 ![](/blog/assets/ChatGPT-Image-Apr-29-2025-03_46_34-PM.webp)
+
+<!--
+
+---
+
+Over a year later, on 6 Sep 2026, at around 5 pm SGT, I got a call from a "MOHIT" at 8143835011. I don't pick up calls on my India mobile while in Singapore, so I let it be.
+
+I got another call from the same number. Then another. Then another. At which point, it was getting noisy, so I blocked the number.
+
+Then I got a call again from a "Mohit" at 9467186002. I thought someone desperate was dialing a wrong number.
+
+Then came a barrage of messages from the WhatsApp Business Account of +91 9467186002:
+
+- [17:59, 06/09/2026] +91 94671 86002: Aapne mera number kaisa dal rkha h google pe
+- [17:59, 06/09/2026] +91 94671 86002: Bina meri permission
+- [17:59, 06/09/2026] +91 94671 86002: Maine kab dale h aapko otp
+- [17:59, 06/09/2026] +91 94671 86002: Or itni bdi Company k otp m kaise dal skti hoon
+- [17:59, 06/09/2026] +91 94671 86002: M in company me job nhi krti
+
+At this point, I realized that the number was related to [this OTP rage blog post](https://www.s-anand.net/blog/phone-rage-and-an-otp-flood/) - which seems to be visible on the first page of the search for 7015580411 as well as 9467186002.
+
+- [18:00, 06/09/2026] +91 94671 86002: How u can blame this openlly
+- [18:04, 06/09/2026] +91 94671 86002: Plz remove this page i am also a daughter of  chief  general Rajender singh bsf so i respect you ....\
+  But if u don't delete let me know i can go with legal ..cyber and send a legal notice with defamation ....this is not warning or threating this is my legal right and i am too much hurt my life is not a joke
+- [18:07, 06/09/2026] +91 94671 86002: Hope u understand otherwise don't think that u have only money  and reputation in this country\
+  ..also send the proof where i send the otp to your number i am not doing any job in this company i have own business of Agarwal logistics transport\
+  A brand and trusted so plz understand and i am also respect you doing good job for country but it doesn't means u have free to do anything
+
+---
+
+It was later that I saw an email as well (sent at 5:52 pm SGT) from Pooja Sharma `poojasharmasept2002@gmail.com` which was worded better than the messages above, and I am convinced is LLM-assisted since the mobile numbers were hyperlinked and the mobile numbers were code spans, and the entire message was syntax highlighted!
+
+> Dear Anand,
+>
+> I hope you are doing well.
+>
+> I am writing regarding your blog post titled "Phone Rage and an OTP Flood" (URL: https://s-anand.net/blog/phone-rage-and-an-otp-flood/).
+>
+> I sincerely apologize for the misunderstanding and the frustration during our brief phone call. There was a poor mobile network connection and a communication gap, but I assure you that neither I nor anyone from my side sent any automated OTPs or SMS bombs to your phone. I am running a small transport/packing business and do not engage in such activities.
+>
+> Having my personal and business contact numbers (9467186002 and 7015580411) publicly visible on your blog is causing severe privacy issues, unwanted spam, and distress to my family and livelihood.
+>
+> I kindly and humbly request you to please remove or mask the phone numbers (e.g., 9467XXXXXX) and business name from your article.
+>
+> I would be extremely grateful for your understanding and support in this matter.
+>
+> Thank you,
+> Regards
+
+Masking numbers sounded workable. I planned to think it over.
+
+---
+
+The phone call escalations continued.
+
+- 7 Sep, 12:30 am SGT, in the middle of the night, I got three rapid calls from Aman (+91 8059457030). I kept my phone on silent to get some sleep.
+- 7 Sep, 01:15 am SGT, even later at night, I got a WhatsApp call from their business account (+91 9467186002). The phone was on silent, so I wasn't woken up.
+- 7 Sep, 11:50 am SGT, in the middle of my class at SUTD, I got four rapid calls from Kavitha (+91 7404439578). I turned my phone back to silent.
+- 8 Sep, 06:55 pm SGT, when I was relatively free, I got EIGHT consecutive calls from Mohit (+91 7015580411) followed by two calls from their WhatsApp business account (+91 94671 86002).
+
+Them a couple of messages on 8 Sep night:
+
+[22:53, 08/09/2026] +91 94671 86002: Sorry to say
+[22:53, 08/09/2026] +91 94671 86002: But complaint registered sir
+
+... and more calls:
+
+- 9 Sep, 11:28 am SGT, during my class at SUTD. My phone was already on silent.
+
+Neither of these numbers provided a hit on Google. I guess these are non-business phone numbers.
+
+-->
