@@ -21,6 +21,7 @@ Rules:
 - Rank when there are options. Default criteria: impact, speed, demoability, evidence strength, strategic fit, reversibility, AI-defensible moat, and risk.
 - Separate now, next, and later. Good but non-urgent ideas should not crowd the answer.
 - Name what to ignore. Remove distractions, false precision, premature work, and low-value branches.
+- It's OK to leave things unchanged, especially if the gap or opportunity is small.
 - Keep only caveats that could change the decision.
 - Prefer reversible learning steps when uncertainty is high.
 - State what would change the recommendation.

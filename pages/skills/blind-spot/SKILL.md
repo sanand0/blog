@@ -21,7 +21,7 @@ A blind spot is an expected observation that's missing - the evidence your own a
 - SMUGGLED ASSUMPTION. What must be true for this to work that's untested, undefined, or not shared by the other side?
 - CONSTRAINT-AS-SPEC. Is a "blocker" a requirement in disguise? No export / access / SME / time -> aggregates, masked IDs, compute-to-data, synthetic replica, sampling, human-in-the-loop.
 - ADOPTION FRICTION. Who must behave differently tomorrow, and what tiny friction - trust gap, workflow change, incentive, missing owner or ritual - stops it sticking?
-- ESCAPED ASSET. What reusable thing (prompt, checklist, eval, schema, script, rubric, dataset) is this one-off leaving behind?
+- ESCAPED ASSET. What reusable thing (prompt, checklist, eval, schema, script, rubric, dataset) from this would be repeatedly, truly useful?
 
 ## Domain calibration
 
