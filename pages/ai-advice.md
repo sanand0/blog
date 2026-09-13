@@ -24,12 +24,12 @@ Critical skills AI might never learn or be allowed to.
 
 - **Relationship skills.** Empathy, bonding, trust, etc. Humans are wired to value humans.
 - **Accountability.** Giving a commitment, standing behind it, managing the risk that involves. Regulation & social norms reduce AI encroachment.
-  - Blast radius: What's the acceptable risk we can take?
-  - Reversibility: What parts can't we undo and what's the impact?
+  - **Caution.** Sensing the blast radius of a decision _at scale_. What's the acceptable risk we can take?
+  - **Reversibility**: What parts can't we undo and what's the impact?
 - **Governance.** Values. Ethics. What _should_ we do? How do we decide? How do we make it happen? Who/what represents or decides for us?
 - **Noticing.** Spotting important stuff before anyone asks for it.
 - **Intuition.** Learn shortcuts to find mistakes and give feedback - even in unfamiliar areas. (Consultants learn this well.)
-  - Detecting false confidence, especially for new ways in which AI can fail.
+- **Scepticism.** Detecting false confidence, especially for new ways in which AI can fail.
 
 Growing skills that AI might not learn easily.
 

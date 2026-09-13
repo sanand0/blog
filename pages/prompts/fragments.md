@@ -265,6 +265,7 @@ Critique the storyline: what is confusing, doesn't flow, or has low impact? Revi
 
 Draw each storyline element (typically a sentence, but sometimes a continued phrase, or multiple sentences) as a panel's caption. (If there are 8 panels, there must be 8 storyline elements)
 Each panel's image should support and strengthen its caption - and reinforcing past panels / anticipating future panels where helpful.
+Draw Anand (if present) with a square face, white-hair, and a receding hairline.
 ```
 
 ## Comic strip
@@ -457,6 +458,7 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 - Use only ASCII punctuation. No em-dashes, emojis. Straight quotes.
 - Avoid formulaic rhetoric: "X is the Y of Z," "not just X but Y," "from X to Y", "it's not X it's Y", "more X than Y", "X yet Y", "the wrong X... the right one is Y", ...
 - Avoid too-earnest over-reaches: unusually, genuinely, honestly, materially, exactly, every, never, ...
+- Avoid comma-separated lists of 4+ items. One or two items is often enough.
 - Avoid condensed verb forms (prefer conversational phrases): ships (publishes or delivers), trips (makes a mistake), surfaces (ends up exposing), lands (results in), load-bearing (critical), ...
 - Don't stack short sentences for effect.
 - Write like I speak: specific details, mixed feelings, odd phrasing, asides, some grammatical errors are OK. One-word sentences are OK - e.g. "Fair." "Really?" "Maybe."
@@ -509,8 +511,10 @@ Write that CONTEXT note. Rules:
 6. Mention roles only when obvious and useful for diarization (e.g., who led the call).
 7. Consolidate all turns from the same speaker. Fix obvious phonetic errors when the meaning is clear, but never invent details, and avoid what's uncertain.
 8. Order speakers by how much they spoke, most first.
-9. Be concise: about 30-40 words per 30 minutes of call, expanding only for longer calls, more speakers, or fragmented discussion. Write one compact paragraph, separating speakers with semicolons.
-10. Output ONLY the context note. No headings, bullets, or explanations.
+9. Output ONLY the context note. No headings, bullets, or explanations.
+10. Write one compact paragraph, separating speakers with semicolons.
+
+Max: 100 words.
 ```
 
 ## Meeting transcript summary
