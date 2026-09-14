@@ -27,9 +27,9 @@ Critical skills AI might never learn or be allowed to.
   - **Caution.** Sensing the blast radius of a decision _at scale_. What's the acceptable risk we can take?
   - **Reversibility**: What parts can't we undo and what's the impact?
 - **Governance.** Values. Ethics. What _should_ we do? How do we decide? How do we make it happen? Who/what represents or decides for us?
-- **Noticing.** Spotting important stuff before anyone asks for it.
-- **Intuition.** Learn shortcuts to find mistakes and give feedback - even in unfamiliar areas. (Consultants learn this well.)
 - **Scepticism.** Detecting false confidence, especially for new ways in which AI can fail.
+- **Noticing.** Spotting important, interesting, risky, ... stuff before anyone asks for it.
+- **Intuition.** Learn shortcuts to find mistakes and give feedback - even in unfamiliar areas. (Consultants learn this well.)
 
 Growing skills that AI might not learn easily.
 
@@ -37,7 +37,7 @@ Growing skills that AI might not learn easily.
   - Sequencing: Evals first? Clean data first? Infra first? Reversibility first?
 - **Ownership.** Agency. Proactively seeking problems, making decisions no one asked for, getting things done, and continuously improving. AI may not be allowed to practice this freely.
 - **Problem selection.** Learn to quickly discover what's useful for yourself and others. AI can select fast but not test.
-- **Communication.** Making a live audience understand, based on what they know and how they might mis-interpret.
+- **Communication.** Making a live audience understand, based on what they know and how they might mis-interpret. AI might take time to learn how to connect with an audience.
 
 Growing skills that AI is learning.
 

@@ -53,4 +53,5 @@ It was nice to go into a podcast as a guest and come out changing their workflow
 <!--
 - Priya Diyalani Analytics Insight Podcast Prep: https://chatgpt.com/c/6a4b8ca4-72b4-83ec-8fd9-69e63f8a5397
 - Decimal Point Analytics - Analytics Insight Podcast Prep: https://chatgpt.com/c/6a4ba0cc-b614-83ec-8667-d87eb367ebb8
+- Priya Dialani Podcast Transcript Learnings Analysis for Blog - https://chatgpt.com/c/6aa5f52a-9c8c-83ec-a581-b45a9a35105a
 -->

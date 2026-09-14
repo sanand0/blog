@@ -158,7 +158,10 @@ Provide copy-ready lines for items that are important and absent or weakly recor
 
 Use this structure:
 
-`- Day YYYY-MM-DD. [What changed]. [Exact reaction, why it mattered, or what it may enable].`
+```
+- Tue YYYY-MM-DD. [What changed]. [Exact reaction, why it mattered, or what it may enable].
+- Mon ...
+```
 
 Preserve memorable exact words.
 

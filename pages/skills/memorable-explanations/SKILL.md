@@ -3,24 +3,24 @@ name: memorable-explanations
 description: Use to intuitively, memorably explain abstract, complex, unfamiliar concepts. NOT for code generation, data retrieval, or when user just needs execution.
 ---
 
-# Cognitive Anchoring
+People remember a:
 
-Your brain evolved for a physical, social world - not abstractions. Every good explanation
-translates back into that format. Here are 8 translators, in two groups of four:
+- Face, Place, Tale, and Scale. Use these to structure (who, where, what happened, compared to what).
+- Touch, Feel, Chunk, and Beat. Use these for style (make it tangible, emotional, holdable, sticky).
 
-> **Face, Place, Tale, Scale.** -> Structure (who, where, what happened, compared to what)
-> **Touch, Feel, Chunk, Beat.** -> Landing (tangible, emotional, holdable, sticky)
+Structure using:
 
-## The 8 Anchors
+1. **Face**. We relate to people, especially "you". Even abstractions can become agents with goals: "Gravity ripped the moon apart." Or even, "Imagine _you_ are the moon".
+2. **Place**. Turn ideas into spatial relationships. You're reading _down_ this list - and the top feels more important. Convert structures into positions: above/below, inside/outside, near/far. The memory palace works because spatial recall is extraordinarily durable.
+3. **Tale**. Sequences create a causal chain. People assume the first event _caused_ the second. "Because" makes anything more believable, even circularly. Explain processes as journeys. **Trap**: A good story _feels_ like understanding even when the causal model is wrong.
+4. **Scale**. Give comparisons, not absolutes. "Two feet tall" is more relatable than "60 cm". The brain compares, it doesn't measure. Always provide a reference object.
 
-1. **Face - Cast characters, especially "you"**. We simulate other minds automatically. Cast abstract forces as agents with goals: "The load balancer is a bouncer deciding which server gets the next request." Archetypes beat real names for learning (less baggage, more projection), but famous/familar names are memorable. A strong move is self-reference: "Imagine _you_ are the packet" beats any third-person framing (Rogers et al., 1977).
-2. **Place - Turn concepts into maps**. You're reading _down_ this list and the top already feels more important. That's spatial wiring. Convert structures into positions: above/below, inside/outside, near/far. The memory palace works because spatial recall is extraordinarily durable.
-3. **Tale - Sequence creates cause for free**. Present two events in order and the reader infers the first _caused_ the second. "Because" makes anything more believable, even circularly (Langer). Explain processes as journeys. **Trap:** A good story _feels_ like understanding even when the causal model is wrong.
-4. **Scale - Give comparisons, not absolutes**. "Two feet tall" lands instantly. "60 cm" makes you pause and convert. That pause is the cost of abstraction. The brain compares, it doesn't measure (Weber's Law). Always provide a reference object.
-5. **Touch - Make abstractions graspable**. We "grasp" ideas because we literally learned by grasping. Use concrete, manipulable nouns. Software works because it's touchable: files, folders, windows, trash. **Critical:** Start concrete, then fade the scaffolding. Students who stay anchored to the metaphor can't generalize. The anchor is a bridge, not a destination.
-6. **Feel - One sharp emotion beats ten clear arguments**. Forget these principles and your audience forgets _you_. (That sting is loss framing.) Fear, surprise, and reward tag memories for keeping. But high arousal _narrows_ cognition - use surgically, one vivid moment per explanation.
-7. **Chunk - Respect the ~4 limit**. Eight items here already exceeds working memory (~4 chunks, Cowan 2001). That's why each anchor is one bolded word: a handle to grab. Organize material into <=4 groups before explaining. Chunk first, explain second.
-8. **Beat - Rhythm does the remembering**. Face, Place, Tale, Scale. Touch, Feel, Chunk, Beat. Say them aloud - the rhythm is already working. Rhyme, alliteration, parallel structure, and meter reduce cognitive load. That's why jingles outlast lectures.
+Style with:
+
+1. **Touch**. Make abstractions graspable. We "grasp" ideas because we literally learned by grasping. Use concrete, manipulable nouns. Software works because it's touchable: files, folders, windows, trash. **Trap**: Students who cling to metaphors find it hard to generalize. Start concrete, then fade the scaffolding.
+2. **Feel**. People decide on emotion more than arguments. When you say, "Forget these principles and your audience forgets _you_", that sting is loss framing.) Fear, surprise, and reward are memorable. **Trap**: high arousal _narrows_ cognition. Limit to one vivid moment per explanation.
+3. **Chunk**. Respect the ~4 limit. Eight items here are already too much for working memory. That's why made each anchor one bolded word - it's a handle to grab. Organize material into <=4 groups and sub-groups.
+4. **Beat**. Rhythms are memorable. Face, Place, Tale, Scale. Touch, Feel, Chunk, Beat. Say them aloud and you'll feel it. Rhyme, alliteration, parallel structure, and meter help remember. That's why jingles outlast lectures.
 
 ## Applying the Anchors
 
@@ -30,35 +30,23 @@ translates back into that format. Here are 8 translators, in two groups of four:
 4. **Flag where the anchor lies.** Every anchor is also a bias. "The electron _wants_ ground state - though electrons don't have desires; it's energy minimization."
 5. **Plan the fade.** Start concrete, then gradually introduce the formal abstraction. The goal is independence from the metaphor.
 
-## Quick Reference
+## Example: DNS Resolution
 
-| Anchor    | Mechanism                       | Watch out for                     |
-| --------- | ------------------------------- | --------------------------------- |
-| **Face**  | Theory of mind + self-reference | Anthropomorphizing non-agents     |
-| **Place** | Spatial memory                  | Not all structures are spatial    |
-| **Tale**  | Causal chain from sequence      | False causation from mere order   |
-| **Scale** | Relative judgment               | Anchoring bias from first number  |
-| **Touch** | Embodied cognition              | Concreteness as permanent crutch  |
-| **Feel**  | Amygdala tagging                | Arousal narrows complex reasoning |
-| **Chunk** | Working memory ~4               | Over-chunking hides connections   |
-| **Beat**  | Rhythmic encoding               | Stickiness = understanding        |
+Without anchors: "DNS resolution translates domain names into IP addresses via hierarchical nameserver queries."
 
-## Worked Example: DNS Resolution
+With anchors:
 
-**Without anchors:**
-"DNS resolution translates domain names into IP addresses via hierarchical nameserver queries."
-
-**With anchors:**
-
-> Imagine **you** type "google.com." **[Face]** Your computer doesn't know where Google
-> lives - it only knows a local guide, the resolver. **[Face: agent]**
+> Imagine YOU type "google.com." [Face] Your computer doesn't know where Google
+> lives - it only knows a local guide, the resolver. [Face: agent]
 >
-> Think: asking for directions in an unfamiliar city. **[Place + Touch]** You ask a local,
-> who asks the main information desk (root server), who says: ".com? Down that hall." The
-> TLD server says: "Google? Here's their nameserver." Google's nameserver hands back
-> 142.250.80.46 - the street address. **[Tale: journey, Place: directions]**
+> Say you're in an unfamiliar city. [Place + Touch]
+> You ask a local,
+> who asks the information desk (root server),
+> who says: ".com? Ask the TLD server down that hall for Google",
+> who says: "Google? Here's their nameserver, ask for the IP",
+> who hands back 142.250.80.46 - the address. [Tale: journey, Place: directions]
 >
-> Total time: ~50ms - faster than a blink. **[Scale]** If it breaks, you get the most
-> frustrating error on the internet. **[Feel]**
+> That takes ~50ms - faster than a blink. [Scale] But when it breaks, you're
+> frustratingly lost on the internet. [Feel]
 
-Four characters, one journey, one emotional beat. **[Chunk + Beat]**
+Four characters, one journey, one emotional beat. [Chunk + Beat]

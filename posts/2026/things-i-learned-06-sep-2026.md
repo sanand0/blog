@@ -58,23 +58,23 @@ This week, I learned:
 [Week ending 06 Sep 2026](https://www.s-anand.net/blog/mistakes-i-made/#week-ending-2026-09-06)
 
 - I said **"Skills ... ultimately it is just copy-pasting prompts."**\
-  **Correction**: A simple skill can start as reusable instructions, but skills can package a workflow with instructions, examples, resources, schemas, tool access and code. Evidence: [OpenAI — Using skills](https://openai.com/academy/skills/?utm_source=chatgpt.com)\
+  **Correction**: A simple skill can start as reusable instructions, but skills can package a workflow with instructions, examples, resources, schemas, tool access and code. Evidence: [OpenAI — Using skills](https://openai.com/academy/skills/)\
   **HIGH · OVERSTATED**
 - I said **fine-tuning "involves a lot of expertise, a lot of money, and it is a total waste of time."**\
-  **Correction**: For this kind of tender/CV comparison I'd start with context engineering and evals. But "total waste" is too categorical: fine-tuning remains a supported way to adapt a model to a specific task. Evidence: [OpenAI — Fine-tuning](https://help.openai.com/en/articles/11162441?utm_source=chatgpt.com)\
+  **Correction**: For this kind of tender/CV comparison I'd start with context engineering and evals. But "total waste" is too categorical: fine-tuning remains a supported way to adapt a model to a specific task. Evidence: [OpenAI — Fine-tuning](https://help.openai.com/en/articles/11162441)\
   **HIGH · OVERSTATED**
 - I said **"there is no extra cost to using voice" in ChatGPT and "when it talks back also, there's no token consumption."**\
-  **Correction**: Voice is separately limited or metered depending on the plan. For example, Business includes limited Live usage and then charges credits per minute. I shouldn't call it free or unmetered. Evidence: [OpenAI — ChatGPT Voice](https://help.openai.com/en/articles/20001274?utm_source=chatgpt.com)\
+  **Correction**: Voice is separately limited or metered depending on the plan. For example, Business includes limited Live usage and then charges credits per minute. I shouldn't call it free or unmetered. Evidence: [OpenAI — ChatGPT Voice](https://help.openai.com/en/articles/20001274)\
   **MEDIUM · FALSE**
 - I said **"Programs are very rarely wrong."**\
-  **Correction**: Programs make calculations reproducible and easier to test; they do not make them correct. Wrong code, formulas, parsing, units or assumptions can produce reliably wrong results. Knight Capital's defective software deployment, for example, caused a $460M loss. Evidence: [SEC — Knight Capital software failure](https://www.sec.gov/newsroom/press-releases/2013-222?utm_source=chatgpt.com)\
+  **Correction**: Programs make calculations reproducible and easier to test; they do not make them correct. Wrong code, formulas, parsing, units or assumptions can produce reliably wrong results. Knight Capital's defective software deployment, for example, caused a $460M loss. Evidence: [SEC — Knight Capital software failure](https://www.sec.gov/newsroom/press-releases/2013-222)\
   **MEDIUM · OVERSTATED**
 - I called Henry Kissinger **"the American Ambassador."**\
-  **Correction**: Kissinger was US National Security Adviser and Secretary of State, not an ambassador. Evidence: [US State Department — Henry Kissinger biography](https://history.state.gov/departmenthistory/people/kissinger-henry-a/bio?utm_source=chatgpt.com)\
+  **Correction**: Kissinger was US National Security Adviser and Secretary of State, not an ambassador. Evidence: [US State Department — Henry Kissinger biography](https://history.state.gov/departmenthistory/people/kissinger-henry-a/bio)\
   **LOW · FALSE**
 - I said **about 3,000 IIT Madras BTech students graduate each year, compared with a BS intake of about 30,000.**\
-  **Correction**: I mixed populations. IITM's 2025 convocation had 3,227 graduates overall, but 820 BTech graduates, or 1,132 including Dual Degree BTech. The BS program currently has 36,000+ students studying; the 30,000 figure is closer to historical applicant/enrollment-scale numbers than annual intake. Evidence: [IIT Madras — 2025 convocation degree breakup](https://www.iitm.ac.in/happenings/press-releases-and-coverages/iit-madras-62nd-convocation-witnesses-graduation-3227?utm_source=chatgpt.com) [IIT Madras — BS Data Science program](https://study.iitm.ac.in/ds/?utm_source=chatgpt.com)\
+  **Correction**: I mixed populations. IITM's 2025 convocation had 3,227 graduates overall, but 820 BTech graduates, or 1,132 including Dual Degree BTech. The BS program currently has 36,000+ students studying; the 30,000 figure is closer to historical applicant/enrollment-scale numbers than annual intake. Evidence: [IIT Madras — 2025 convocation degree breakup](https://www.iitm.ac.in/happenings/press-releases-and-coverages/iit-madras-62nd-convocation-witnesses-graduation-3227) [IIT Madras — BS Data Science program](https://study.iitm.ac.in/ds/)\
   **HIGH · FALSE**
 - I said **the IITM BS "graduation is less than 10%, maybe."**\
-  **Correction**: I don't have a defensible cohort-based graduation rate. The program has a qualifier process, flexible pacing and multiple exit points, so I need to define the cohort and denominator before quoting a percentage. Evidence: [IIT Madras — BS admissions and qualifier process](https://study.iitm.ac.in/ds/admissions.html?utm_source=chatgpt.com)\
+  **Correction**: I don't have a defensible cohort-based graduation rate. The program has a qualifier process, flexible pacing and multiple exit points, so I need to define the cohort and denominator before quoting a percentage. Evidence: [IIT Madras — BS admissions and qualifier process](https://study.iitm.ac.in/ds/admissions.html)\
   **MEDIUM · UNSUPPORTED**

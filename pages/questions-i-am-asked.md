@@ -1,12 +1,25 @@
 ---
 title: Questions I am asked
 description: Questions people ask me, and my answers.
-tags: [ai, ai-agents, enterprise-ai, fact-checking]
+tags: [enterprise-ai, ai-agents, ai-workflows, verification]
 ---
 
 # Questions I am asked
 
 Questions people ask me, with names, organizations, and exact dates removed.
+
+## Week ending 13 Sep 2026 {#week-ending-2026-09-13}
+
+- **Question**: Why is it getting harder for graduates to get hired when AI can do a lot of the old work?\
+  **Answer**: It is true, but not because graduates can do less. We haven't figured out what we need graduates for: AI can do the old roles, the new roles and assessment criteria are still unclear, so companies wait or reduce hiring a little.
+- **Question**: Is government AI adoption driven by utility or FOMO?\
+  **Answer**: Both. FOMO is not necessarily bad if it gets people to experiment; the problem is when “we built a chatbot” becomes the achievement. Remove “AI” from the sentence and ask what got better—time, mistakes, cost, or citizen outcomes.
+- **Question**: If F1 on a small golden set is not enough, how should we set KPIs for an AI workflow at scale?\
+  **Answer**: Start with “how much money will I lose?” Put a cost on each kind of error, then compare manual versus AI-assisted work on throughput and error rate. If the human still reviews the whole thing and quality is the same, the automation is only adding cost.
+- **Question**: Any advice for selling AI when clients are at very different levels of maturity?\
+  **Answer**: The range of buyer maturity is enormous and getting stretched: some are discovering basic Copilot capabilities while a small minority are already running autonomous agents. I need a much broader pitch, from correcting spelling mistakes to replacing whole workflows, because I don't know which buyer I am walking into.
+- **Question**: Why give an agent a very general prompt instead of a specific one?\
+  **Answer**: Be specific if you know what you want. I go general when I don't know what I want, think I know but am not sure, or may not know that I don't know; it stops me locking into the wrong answer too early.
 
 ## Week ending 06 Sep 2026 {#week-ending-2026-09-06}
 
