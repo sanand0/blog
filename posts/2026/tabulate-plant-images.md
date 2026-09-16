@@ -3,6 +3,8 @@ title: Tabulate plant images
 date: 2026-09-16T13:29:17+01:00
 categories:
   - llms
+description: I asked Claude Haiku to add plant tables beneath 73 images, but it took four attempts to italicize the local names. Other frontier models completed the Word document in one shot.
+tags: [model-comparison, llms, claude-code]
 ---
 
 It was interesting to see how weak a model Claude 4.5 Haiku is, compared with other frontier models, even inside a good harness like Claude Code.
