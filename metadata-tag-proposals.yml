@@ -74,6 +74,10 @@ proposals:
     sources:
       posts/2026/ilaiyaraaja-mridangam-songs.md:
         content_hash: 989d65ba414fa32c8993c81f28164d6c43ae3517dc2700429658a127ab482750
+  immigration:
+    sources:
+      posts/2026/india-fast-track-immigration-pdfs.md:
+        content_hash: ea25aed5e0e58a820f7f7d645e30d08b1c3a8b69c39ae9b8555b52b1d3c62dc4
   indian-tv-series:
     sources:
       posts/2026/rise-of-the-indian-tv-series.md:

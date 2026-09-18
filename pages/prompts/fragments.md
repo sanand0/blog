@@ -797,6 +797,12 @@ Recommend a reply only when:
 - I can add clearly differentiated value from something I've done or learnt (and can verify with strong evidence)
   OR primary-source evidence that significantly improves/corrects the discussion
 
+I find it especially promising when:
+
+- I have a recent related experience to share (talk, blog, TIL, etc.)
+- I can run an experiment to verify it
+- I can connect someone particularly appropriate.
+
 For promising candidates, use @LocalMCP to search my notes, transcripts, blog, talks, code, past WhatsApp messages, emails, ...
 Use `anand-writing-style`. Verify current claims online. Strongly prefer including 1-2 useful evidence links.
 
