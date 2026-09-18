@@ -1,3 +1,8 @@
+---
+description: I revised this using best practices and actual data from case studies, then created versions in ChatGPT, Gemini, and Claude.
+tags: [prompt-engineering, generative-ai, data-analysis]
+---
+
 Sources:
 
 - 18 Sep 2026. Revised based on best practices and actual data generated in ~/code/case-studies/
