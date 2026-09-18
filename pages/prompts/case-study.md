@@ -21,12 +21,19 @@ First, formulate the underlying dynamics - the hidden mechanisms, reasons, proce
 Discovering some or all of these would be key to the analyst's success in the exercise. Don't state these dynamics directly anywhere the analyst can see. But they may be partly mentioned, disputed, denied, euphemised, or misunderstood by people who each see only a part of it. That is how it works in real-life.
 
 For each dynamic, plan two or more independent channels through which an analyst can detect it (a data pattern, a silence in a thread, a timeline that doesn't line up, a form field abandoned mid-year), and at least one innocent explanation that fits any single channel on its own. Also plant anomalies that mean nothing - in real-life, not everything is a clue, and we want to train for the intuition to tell the difference.
+For each dynamic, also specify where we should NOT see its effects. Otherwise it is too easy to accidentally make the entire case point at the answer.
 
 Create an instructor-only `case.yaml` that includes all of this as the primary context. Include entities, systems, timeline, people, the process (how was it designed, documented, believed to run, actually runs), the dynamics and where and how each dynamic plays a role.
 
 Record every anomaly in the pack in case.yaml, marked as: designed and critical / ambient noise / benign quirk / accidental defect. Fix the accidental defects.
 
 Generate every artifact below from `case.yaml` to avoid ACCIDENTAL contradictions.
+
+- First simulate what actually happened.
+- Then generate each dataset / document / person's view from that reality.
+- Each system only knows what it could realistically capture, when it could capture it, using the identifiers / definitions / transformations it actually uses. People only know what they could realistically know at that point in time.
+- E.g. don't independently generate a billing table and a CRM table and make them look consistent. Generate the customers / events once, then derive what Billing and CRM would each record from those events.
+- This is also where realistic gaps, stale fields, conflicting definitions, delays, duplicates, etc. should come from.
 
 Create realistic documents and datasets that an analyst will likely get when investigating a process like below. This includes:
 
@@ -39,6 +46,7 @@ Create realistic documents and datasets that an analyst will likely get when inv
     In real-life, datasets have varying quality, based on the process of collecting and processing them.
     Datasets are often sourced from multiple systems and processes.
     The nature of gaps / errors / other quality attributes typically reflect the underlying sources.
+  - Where it matters, research enough real-world numbers / processes to keep the fictional organization in the right ballpark: volumes, base rates, timings, costs, error rates, etc. Mention the important anchors in the instructor README.
   - Use a format only if this organization would likely produce it and it serves an exercise - not just for variety.
   - For large transactional data, Use a fake data generator skill when available.
     Write seeded generator scripts rather than static files.
@@ -115,6 +123,8 @@ Run these checks before you finish, and list every one in the README with its re
 
 - Write the perfect path for each exercise: the artifact-by-artifact chain from brief to finding.
   If you can't write it, it's unfair rather than hard. Rewrite the exercise.
+- Rebuild the generated data with at least 2 other seeds. Check that the important dynamics are still detectable and the benign anomalies remain benign.
+  Don't just check that the files changed. Check the mechanisms.
 - If you think a strong AI agent can solve an exercise one-shot while a human would take hours, the difficulty is either volume/effort (move it into contradiction and ambiguity) or clues that are too loud (make each channel innocent on its own). State and fix it.
 
 Generate the actual files, not descriptions of them.
@@ -131,7 +141,9 @@ This context may not be directly related to the training pack. It may contain ir
 
 <!--
 
-- 29 Jul 2026: Created. Sources:
+- 18 Sep 2026. Revised based on actual cases in ~/code/case-studies/. Sources:
+  - https://chatgpt.com/c/6aaca11c-60a4-83ec-a69b-b75bd1c09a64
+- 29 Jul 2026. Created. Sources:
   - Mainly: https://claude.ai/chat/6343dcc1-3bac-4cf8-86cb-c7873a733125
   - Supported by: https://chatgpt.com/c/6a69500d-cc78-83ec-897e-ebe039031f91
 -->
