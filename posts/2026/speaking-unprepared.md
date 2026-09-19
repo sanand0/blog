@@ -5,6 +5,7 @@ categories:
 - llms
 description: 'I explain why I sometimes speak deliberately under-prepared: ad-libbing creates room for discovery. During a Straive fireside chat, an off-script answer led me to generate a personalized jingle with ChatGPT.'
 tags: [public-speaking, generative-ai, gemini, chatgpt]
+talk_url: "https://talks.s-anand.net/2026-04-06-innovation-as-a-frontier-straive/"
 ---
 
 I deliver about [3-5 talks a month](https://talks.s-anand.net/) and usually prepare for them.

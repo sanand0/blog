@@ -4,6 +4,68 @@
 
 Do I need a sitemap? Do I HAVE a sitemap?
 
+## Add talks pages, 19 Sep 2026
+
+<!-- https://chatgpt.com/c/6aace894-3a40-83ec-ada7-56e69a353882 -->
+
+I'd like to add a blog entry to my blog posts on [LocalMCP](/plugins/plugin_asdk_app_69e6c604b4ec8191b8e14bb9e8d7cd52?plugin_detail_origin=inline_selection_pill)at ~/code/blog/ for each of my talks at ~/code/talks/config.json
+
+But first, I want to preview this. Can you create a few sample talk blog posts and show me the Markdown without creating them on[LocalMCP](/plugins/plugin_asdk_app_69e6c604b4ec8191b8e14bb9e8d7cd52?plugin_detail_origin=inline_selection_pill) - just show directly. Research my past discussions about blog posts, talks, SEO, GEO, etc. and factor in best practices and tell me WHY you're proposing the structure you're currently proposing. Pick diverse talks. Pick as many as would be required to make decisions on what to include in the blog post and how.
+
+---
+
+OK, proceed. Also create the relevant blog posts for the 5 latest talks that don't already have a blog post. That'll help me preview the results.
+
+---
+
+No, this doesn't work. Let's reject the approach where AI has to write stuff. Frankly, I'd rather we have a `just talks` that bases itself deterministically on content in ~/code/talks/config.json and then I'll edit it if required. (And if I do that, it shouldn't overwrite my content.)
+If we did that, what might these 5 posts look like? Think about what all information from config.json should be captured in the posts, how it should be formatted, etc.
+
+Update the files in ~/code/blog/ accordingly.
+
+---
+
+Let's tweak a few things. For example, in ~/code/blog/posts/2026/how-to-build-ai-products-and-prove-they-work.md we might begin a bit more naturally, like:
+
+
+```
+I delivered a talk at: [SUTD DAI Signature Master Class · Expert Industry Series](https://www.sutd.edu.sg/) - Singapore University of Technology and Design, Singapore.
+
+**Summary**: Build AI products around evidence, not ideas: prototype quickly, test with agents and real users, and iterate until the product proves its value.
+
+[Here's the link to the talk](https://talks.s-anand.net/2026-09-06-how-to-build-ai-products/)
+
+[![Day 1 Comic](https://talks.s-anand.net/2026-09-06-how-to-build-ai-products/comic-page-day-1.avif)](https://talks.s-anand.net/2026-09-06-how-to-build-ai-products/)
+
+**Links**:
+
+- [Day 1](https://talks.s-anand.net/2026-09-06-how-to-build-ai-products/day1.html)
+- [Day 2](https://talks.s-anand.net/2026-09-06-how-to-build-ai-products/day2.html)
+- ...
+```
+
+... and we can include all the links.
+
+It might even be worth including all the images - linking them to the talk page.
+
+Should we remove the talk_url frontmatter? What about the others - like event, location? I mean, does the blog use any of these? Also, maybe the talk categories aren't meaningful here? Also, I think we should only include the "latest" talks.
+
+Update, and let me see what it looks like.
+
+---
+
+Should the description be more like: "Summary of my session at $EVENT - $LOCATION on $DATE" to avoid duplicating the summary? Or, does it make more sense to leave it as-is?
+
+In any case, include the date (format: "Sat, 19 Sep 2026") in the first line. Like "I conducted a session on $DATE at $EVENT - $LOCATION". (Note that I'd now rather say session than talk - sometimes they're workshops.)
+
+BTW, how do we make sure this doesn't generate it for talks that ALREADY have a blog post? Is there a clean, elegant mechanism for that?
+
+Factor that in and generate for all sessions that don't have a blog post.
+
+---
+
+Let's make sure the date YAML frontmatter has an actual time. Check my calendar and see if you can fill out the actual times and update ~/code/talks/config.json based on that. Also update with the duration. Where it's not possible, skip it, and make sure `just talks` defaults to 12 noon IST.
+
 ## Update mistakes-i-made on blog, 06 Sep 2026
 
 <!-- https://chatgpt.com/c/6a9cf7c9-c714-83ec-bde5-67d9d96b8e10 -->

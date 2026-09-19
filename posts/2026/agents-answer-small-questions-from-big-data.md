@@ -8,6 +8,7 @@ build: {list: never, render: always}
 robotsNoIndex: true
 description: I used a ChatGPT agent to reconcile three messy customer sources in 6 minutes 32 seconds, finding that cheap, reviewable data questions can replace weeks-long projects and move the bottleneck from AI to data.
 tags: [ai-agents, data-analysis]
+talk_url: "https://talks.s-anand.net/2026-06-16-eqt-data-stack-for-agents/"
 ---
 
 **OK, so agents can analyze data crazily fast.**

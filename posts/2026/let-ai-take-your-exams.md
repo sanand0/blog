@@ -7,6 +7,7 @@ categories:
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7471031411936874496/
 description: 'I ran a workshop at IIT Madras showing Codex solve a real exam live. My takeaway: delegate what AI can do, and learn to catch what it gets wrong.'
 tags: [ai-in-education, ai-agents, learning-strategies]
+talk_url: "https://talks.s-anand.net/2026-06-12-let-ai-take-your-exams/"
 ---
 
 At 2 pm IST today (Fri 12 Jun 2026), I conducted a workshop at [Paradox, IITM](https://www.iitmparadox.org/workshops) - at [DOMS 101](https://doms.iitm.ac.in/).

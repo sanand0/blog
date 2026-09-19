@@ -7,6 +7,7 @@ categories:
 description: "AI is rapidly automating many data-science tasks, so the role survives by evolving beyond routine execution rather than by preserving old workflows."
 tags: [data-science, ai-automation, future-of-work, vibe-coding, analytics]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7364307983037579266/
+talk_url: "https://talks.s-anand.net/2025-08-21-rip-data-scientists/"
 ---
 
 Slides for my DataHack Summit talk (controversially) titled **RIP Data Scientists** are at https://talks.s-anand.net/2025-08-21-rip-data-scientists/

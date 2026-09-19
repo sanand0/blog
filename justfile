@@ -2,6 +2,8 @@ build: description
   bash setup.sh
 description:
   find posts pages -type f -name '*.md' -exec awk 'FNR==1{d="0000-00-00"} /^date:/{d=$2} /^(summary|description|tags):/{print d "\t" FILENAME ":" $0}' {} + | sort -r | cut -f2- > description.md
+talks:
+  uv run scripts/talks.py
 update:
   #!/usr/bin/env bash
   set -euo pipefail

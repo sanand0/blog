@@ -7,6 +7,7 @@ categories:
 description: "MBA students should optimize for adaptability, verification, and AI-assisted learning because entry-level knowledge work is already being restructured by LLMs."
 tags: [mba, ai-education, future-of-work, llms]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7351849463713292290/
+talk_url: "https://talks.s-anand.net/2025-07-13-goodbye-mba-hello-ai/"
 ---
 
 At the DoMS, IIT Madras 2025 commencement, I shared how MBA students might adapt to an AI world.

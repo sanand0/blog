@@ -6,6 +6,7 @@ categories:
 - llms
 description: I explored whether agents prefer different data formats, using AI to research, benchmark, and audit the claims. A corrected test found progressive disclosure used 2.5x-25x fewer tokens for the same accuracy.
 tags: [ai-agents, benchmarking, prompt-engineering]
+talk_url: "https://talks.s-anand.net/2026-07-07-when-data-is-for-agents-fifth-elephant/"
 ---
 
 Here's roughly what I said in my [When Data is for Agents](https://hasgeek.com/fifthelephant/when-data-is-for-agents-workshop/) workshop for [Fifth Elephant](https://hasgeek.com/fifthelephant/) on 7 Jul 2026.

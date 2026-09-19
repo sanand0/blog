@@ -6,6 +6,7 @@ categories:
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7474328099581513729/
 description: 'I ran an IIM Alumni workshop in Singapore on AI tools and workflows: transcribing recordings with Google AI Studio, verifying claims across models, and building reusable skills.'
 tags: [ai-workflows, ai-agents, google-ai-studio, productivity]
+talk_url: "https://talks.s-anand.net/2026-06-20-ai-unboxed-tools-workflows/"
 ---
 
 The theme of yesterday's workshop for the IIM Alumni at Singapore was **Tools and Workflows** was:

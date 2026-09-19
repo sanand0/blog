@@ -7,6 +7,7 @@ categories:
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7441306611098394624/
 description: I prepared a short Chennai Design Festival talk by listening to other speakers, then live-vibe-coded AI-generated design ideas and images from their work. The spontaneous approach made the talk faster and more engaging.
 tags: [vibe-coding, ai-creativity, idea-generation]
+talk_url: "https://talks.s-anand.net/2026-03-21-design-in-the-age-of-infinite-generativity/"
 ---
 
 I spoke today on [Design in the Age of Infinite Generativity](https://talks.s-anand.net/2026-03-21-design-in-the-age-of-infinite-generativity/) at the [Chennai Design Festival](https://www.chennaidesignfestival.com/).

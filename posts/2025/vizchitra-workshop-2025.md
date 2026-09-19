@@ -6,6 +6,7 @@ categories:
 description: "Participants can go from dataset to published visualization in a single session using only LLM tools, with no manual coding or traditional analysis required."
 tags: [vizchitra, data-visualization, education]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7345062233996988417/
+talk_url: "https://talks.s-anand.net/2025-06-28-prompt-to-plot/"
 ---
 
 We created data visualizations _just_ using LLMs at my VizChitra workshop yesterday.

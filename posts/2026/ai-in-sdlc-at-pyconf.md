@@ -7,6 +7,7 @@ categories:
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7440334290044788736/
 description: 'I share advice on using AI across the SDLC: recording client calls, building and deploying with agents, asking for reviewable output, learning from failures, and starting in new, low-risk projects while developers remain accountable.'
 tags: [ai-coding-agents, agentic-workflows, ai-adoption, software-development]
+talk_url: "https://talks.s-anand.net/2026-03-15-pyconf-ai-in-sdlc/"
 ---
 
 I was at a panel on [AI in SDLC](https://2026.pyconfhyd.org/) at PyConf. Here's the summary of my advice:

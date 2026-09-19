@@ -54,6 +54,14 @@ WIP commits are pushed to the `live` branch. The `prod` branch holds permanent c
 
 ## Keeping the site up to date
 
+Generate missing talk posts deterministically from `~/code/talks/config.json`:
+
+```bash
+just talks
+```
+
+This creates one compact post for each `latest` session and never modifies an existing post. Generated posts include `talk_url` in front matter as their canonical session ID. Their `date` uses the catalog's offset-aware `time` when available, otherwise defaults to 12:00 noon IST (`+05:30`). To associate a hand-written post with an existing session, add that session's canonical URL as `talk_url`; later runs then treat it as covered even if the title, filename, or body changes completely.
+
 Use this when adding posts/pages. It fills missing LLM-generated front matter, records proposed tags for review, rebuilds the static site, and runs the build-script tests. It assumes `GEMINI_API_KEY` is already loaded.
 
 ```bash

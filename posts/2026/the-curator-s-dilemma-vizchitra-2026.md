@@ -7,6 +7,7 @@ categories:
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7481597025130553345/
 description: I ran a VizChitra dialogue where groups judged six charts, critiqued each other's verdicts, and exposed hidden disagreement. The top-voted chart was AI-generated, underscoring how little we know about verifying charts.
 tags: [verification, data-visualization, vizchitra]
+talk_url: "https://talks.s-anand.net/2026-07-04-vizchitra-dialog-curators-dilemma/"
 ---
 
 ![](https://talks.s-anand.net/2026-07-04-vizchitra-dialog-curators-dilemma/summary.avif)

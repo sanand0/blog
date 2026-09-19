@@ -6,6 +6,7 @@ categories:
     - how-i-do-things
 description: I turned a data storytelling keynote into a survey of what stops people from using AI. Then I mined my August chat logs for my verification and delegation techniques.
 tags: [verification, ai-agents, data-analysis]
+talk_url: "https://talks.s-anand.net/2026-09-03-convergence-jio-institute/"
 ---
 
 I delivered a [15-minute keynote](https://talks.s-anand.net/2026-09-03-convergence-jio-institute/) at [Jio Institute's Convergence 2026](https://www.jioinstitute.edu.in/convergence-2026) at NTU on Thursday.

@@ -7,6 +7,7 @@ categories:
 - education
 description: I shared the video, summary, transcript, and lessons from my NPTEL Applied Vibe Coding Workshop, covering practical AI-assisted app building, personal data analysis, prompting, security, and learning by doing.
 tags: [vibe-coding, prompt-engineering, ai-education, computer-security]
+talk_url: "https://talks.s-anand.net/2026-01-11-nptel-vibe-coding-workshop/"
 ---
 
 For those who missed my [Applied Vibe Coding Workshop](https://elearn.nptel.ac.in/shop/iit-workshops/ongoing/computer-science/applied-vibe-coding-workshop/) at NPTEL, here's the video:

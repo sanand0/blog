@@ -8,6 +8,7 @@ categories:
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7470074745900802048/
 description: I conducted a practical online workshop where participants used ChatGPT and Claude to find data, analyze it, and turn insights into visual stories, with lessons on prompting, checking, coding, and feedback.
 tags: [data-storytelling, data-visualization, llms]
+talk_url: "https://talks.s-anand.net/2026-06-13-data-stories-with-ai/"
 ---
 
 On Sat 13 Jun 2026 at 3 pm, I conducted an online workshop on [Data Stories with AI](https://talks.s-anand.net/2026-06-13-data-stories-with-ai/).
