@@ -505,14 +505,12 @@ Write that CONTEXT note. Rules:
 
 1. The diarized transcript is the source of truth for who spoke and what they said. Use the attendee list only for correct name spellings. Use the AI summaries only as supporting evidence; ignore anything they add or contradict.
 2. Include every person who spoke, even briefly. A brief speaker gets one short identifying clue (e.g., "Ritesh mentioned being on PTO"). Omit only invitees with zero spoken turns.
-3. Refer to each speaker by FIRST name only — the first word of their listed name. No surnames or full names, with one exception: if two speakers share a first name, add a surname initial (e.g., "Aditya K"). Disambiguate further if needed.
+3. Refer to each speaker by FIRST name only - the first word of their listed name. No surnames or full names, with one exception: if two speakers share a first name, add a surname initial (e.g., "Aditya K"). Disambiguate further if needed.
 4. For each speaker, give the smallest set of distinctive topics, demos, questions, or decisions that would identify their turns in audio. Prefer concrete clues ("demoed a fan churn dashboard") over vague ones ("gave a presentation").
 5. If the transcript shows a speaker being addressed by a misheard or variant name (e.g., "Samir" for Saumya), ignore it. The other AI model will use this summary to avoid mis-naming.
 6. Mention roles only when obvious and useful for diarization (e.g., who led the call).
-7. Consolidate all turns from the same speaker. Fix obvious phonetic errors when the meaning is clear, but never invent details, and avoid what's uncertain.
-8. Order speakers by how much they spoke, most first.
-9. Output ONLY the context note. No headings, bullets, or explanations.
-10. Write one compact paragraph, separating speakers with semicolons.
+7. Fix obvious phonetic errors when the meaning is clear, but never invent details, and avoid what's uncertain.
+8. Output ONLY the context note as a single paragraph. No headings, bullets, or explanations.
 
 Max: 100 words.
 ```
@@ -756,7 +754,7 @@ Enrich high impact items by reading the primary source (paper, tool page, blog) 
 
 - **What it is** - 1–2 plain sentences + link. Tag [confirmed] / [preview] / [rumored].
 - **Why it matters to me** - spell out the full chain; restate my own frameworks rather than assume I recall them; note why it ranks above other items.
-- **How I'd apply it** — ONE concrete example + the reusable asset it becomes (only if applicable).
+- **How I'd apply it** - ONE concrete example + the reusable asset it becomes (only if applicable).
 - **Next step** - the smallest thing I can do (often a copy-paste) in 15 min.
 
 Prioritize based on impact (confidence-adjusted) and effort.

@@ -19,6 +19,7 @@ Here's AI advice I generally give people.
 - Delegate _blindly_ what AI does well. Use saved time to learn new skills.
 
 <!-- 28 Jul 2026: AI-era skills based on software judgement - https://claude.ai/chat/64cfb97d-1058-4379-9617-9b6de1835a0b - added blast radius, reversibility, detecting false confidence, communication > mis-interpret, sequencing -->
+<!-- 29 Sep 2026: Added ambition; updated ownership/agency to include exploring and pushing boundaries with curiosity -->
 
 Critical skills AI might never learn or be allowed to.
 
@@ -35,7 +36,8 @@ Growing skills that AI might not learn easily.
 
 - **Management.** Shift from doing the work yourself to managing "teams" of AI agents and interns to handle execution. Learn problem breakdown, team organization, etc.
   - Sequencing: Evals first? Clean data first? Infra first? Reversibility first?
-- **Ownership.** Agency. Proactively seeking problems, making decisions no one asked for, getting things done, and continuously improving. AI may not be allowed to practice this freely.
+- **Ambition.** Defining audacious, inspiring goals. Things hard for agents to execute, need humans following a leader / vision.
+- **Ownership.** Agency. Proactively seeking problems, making decisions no one asked for, exploring and pushing boundaries with curiosity, getting things done, and continuously improving. AI may not be allowed to practice this freely.
 - **Problem selection.** Learn to quickly discover what's useful for yourself and others. AI can select fast but not test.
 - **Communication.** Making a live audience understand, based on what they know and how they might mis-interpret. AI might take time to learn how to connect with an audience.
 
