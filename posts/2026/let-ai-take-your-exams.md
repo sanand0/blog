@@ -2,8 +2,9 @@
 title: Let AI take your exams
 date: 2026-06-12T08:10:56+05:30
 categories:
-- llms
+- talks
 - education
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7471031411936874496/
 description: 'I ran a workshop at IIT Madras showing Codex solve a real exam live. My takeaway: delegate what AI can do, and learn to catch what it gets wrong.'
 tags: [ai-in-education, ai-agents, learning-strategies]

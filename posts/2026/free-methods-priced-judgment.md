@@ -3,6 +3,8 @@ title: "Free Methods, Priced Judgment"
 date: "2026-07-02T14:00:00+05:30"
 categories:
 - talks
+- data
+- llms
 tags: []
 description: "AI makes sophisticated analytical methods cheap and accessible. The scarce skill becomes choosing the right analysis, questioning assumptions, and judging whether results matter."
 talk_url: "https://talks.s-anand.net/2026-07-02-iimb-mda-workshop/"

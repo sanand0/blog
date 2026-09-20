@@ -2,8 +2,9 @@
 title: Agents answer small questions from big data
 date: 2026-06-18T20:12:04+08:00
 categories:
-- llms
+- talks
 - data
+- llms
 build: {list: never, render: always}
 robotsNoIndex: true
 description: I used a ChatGPT agent to reconcile three messy customer sources in 6 minutes 32 seconds, finding that cheap, reviewable data questions can replace weeks-long projects and move the bottleneck from AI to data.

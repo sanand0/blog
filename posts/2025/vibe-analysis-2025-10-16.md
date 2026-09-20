@@ -3,6 +3,8 @@ title: "Vibe Analysis"
 date: "2025-10-16T12:00:00+05:30"
 categories:
 - talks
+- data
+- llms
 tags: []
 description: "Vibe analysis delegates the analytical process to agents and focuses humans on business outcomes. Explore broadly, verify key claims, and automate successful analyses afterward."
 talk_url: "https://talks.s-anand.net/2025-10-16-vibe-analysis/"

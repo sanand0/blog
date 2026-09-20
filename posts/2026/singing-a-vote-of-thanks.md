@@ -2,7 +2,9 @@
 title: Singing a Vote of Thanks
 date: 2026-04-09T07:56:28+05:30
 categories:
+- talks
 - llms
+- interesting-experiences
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7447869470989111296/
 description: I used Gemini's Lyria to turn an IAS workshop vote of thanks into a personalized patriotic song naming every participant. The delighted audience applauded; later, I tried songs for process narration and teacher feedback.
 tags: [generative-ai, gemini, communication]

@@ -3,6 +3,8 @@ title: "Vibe Coding"
 date: "2025-05-10T12:00:00+05:30"
 categories:
 - talks
+- coding
+- llms
 tags: []
 description: "Vibe coding lets people build software by describing what they want and iterating on results, even if they do not understand or inspect the generated code."
 talk_url: "https://youtu.be/ODXSDbY12dg"

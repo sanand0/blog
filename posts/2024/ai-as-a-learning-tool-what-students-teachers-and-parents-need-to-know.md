@@ -3,6 +3,8 @@ title: "AI as a learning tool: What students, teachers, and parents need to know
 date: "2024-10-19T12:00:00+05:30"
 categories:
 - talks
+- education
+- llms
 tags: []
 description: "AI can personalize explanation, practice, and feedback for students and teachers, but effective use depends on critical thinking, ethics, and checking what the system produces."
 talk_url: "https://talks.s-anand.net/2024-10-19-ai-in-education-webinar/"

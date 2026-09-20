@@ -3,6 +3,8 @@ title: "Cool LLM CLI Python uses"
 date: "2025-06-19T12:00:00+05:30"
 categories:
 - talks
+- coding
+- llms
 tags: []
 description: "LLM command-line tools make Python automation conversational: inspect files, transform data, call APIs, and compose workflows by describing the result you want."
 talk_url: "https://talks.s-anand.net/2025-06-pycon-sg/llm-cli.html"

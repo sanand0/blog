@@ -3,6 +3,8 @@ title: "Your Chotu Is Smarter Than You Think"
 date: "2026-02-11T12:00:00+05:30"
 categories:
 - talks
+- llms
+- business-realities
 tags: []
 description: "Modern AI is capable enough to handle surprisingly broad knowledge work. Treat it like a smart junior colleague: delegate aggressively, then review where it matters."
 talk_url: "https://talks.s-anand.net/2026-02-11-amat-dt-day/"

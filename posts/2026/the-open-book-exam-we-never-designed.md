@@ -3,6 +3,8 @@ title: "The Open-Book Exam We Never Designed"
 date: "2026-03-18T14:00:00+05:30"
 categories:
 - talks
+- education
+- llms
 tags: []
 description: "When every student has a powerful AI tutor and solver, conventional closed-book assumptions collapse. Assessments must measure judgment, verification, and application instead."
 talk_url: "https://talks.s-anand.net/2026-03-18-iitm-academic-council/"

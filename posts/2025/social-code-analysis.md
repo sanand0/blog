@@ -3,6 +3,8 @@ title: "Social Code Analysis"
 date: "2025-08-11T12:00:00+05:30"
 categories:
 - talks
+- coding
+- data
 tags: []
 description: "Code can be analyzed socially, not just technically: repository behavior, collaboration patterns, and AI-based evaluation reveal how people build software and where process breaks."
 talk_url: "https://talks.s-anand.net/2025-08-11-social-code-analysis/"

@@ -3,6 +3,7 @@ title: "What Your AI Doesn't Know About You"
 date: "2026-05-23T14:00:00+08:00"
 categories:
 - talks
+- llms
 tags: []
 description: "AI performance depends less on clever prompts than on context. Give models the right goals, examples, constraints, history, and tools so they can act effectively."
 talk_url: "https://talks.s-anand.net/2026-05-23-ai-unboxed-context-engineering/"

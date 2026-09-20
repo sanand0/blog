@@ -3,6 +3,8 @@ title: "Vibe Analytics"
 date: "2025-12-03T12:00:00+05:30"
 categories:
 - talks
+- data
+- llms
 tags: []
 description: "Vibe analysis lets AI handle code and analytical mechanics while you focus on useful questions, surprising insights, verification, and what action follows."
 talk_url: "https://talks.s-anand.net/2025-12-03-vibe-analytics-iim-alumni-sg/"

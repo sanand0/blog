@@ -3,6 +3,8 @@ title: "Why Are You Even Sitting in This Class?"
 date: "2026-08-12T12:00:00+05:30"
 categories:
 - talks
+- data-visualization
+- education
 tags: []
 description: "AI can generate charts and analysis. The enduring skill is knowing what deserves to be visualized, challenged, and communicated."
 talk_url: "https://talks.s-anand.net/2026-08-12-iitm-ed-data-visualization/"

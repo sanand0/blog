@@ -3,6 +3,8 @@ title: "How Students Learn Python"
 date: "2026-03-15T15:30:00+05:30"
 categories:
 - talks
+- education
+- coding
 tags: []
 description: "Students increasingly learn Python by asking AI, copying examples, and debugging interactively. Teaching should embrace these paths while preserving conceptual understanding and verification."
 talk_url: "https://talks.s-anand.net/2026-03-15-how-students-learn-python/"

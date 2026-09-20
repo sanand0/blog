@@ -2,8 +2,9 @@
 title: Live Vibe Coding using Others' Ideas
 date: 2026-03-21T22:51:50+05:30
 categories:
-- llms
 - talks
+- coding
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7441306611098394624/
 description: I prepared a short Chennai Design Festival talk by listening to other speakers, then live-vibe-coded AI-generated design ideas and images from their work. The spontaneous approach made the talk faster and more engaging.
 tags: [vibe-coding, ai-creativity, idea-generation]

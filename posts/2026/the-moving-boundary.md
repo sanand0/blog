@@ -3,6 +3,8 @@ title: "The Moving Boundary"
 date: "2026-06-11T10:00:00+05:30"
 categories:
 - talks
+- education
+- llms
 tags: []
 description: "AI keeps moving the boundary between disciplines and automation. Education should organize around problems and judgment rather than fixed departmental skill boxes."
 talk_url: "https://talks.s-anand.net/2026-06-11-engineering-design-iitm/"

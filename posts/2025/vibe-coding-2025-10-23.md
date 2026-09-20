@@ -3,6 +3,8 @@ title: "Vibe Coding"
 date: "2025-10-23T12:00:00+05:30"
 categories:
 - talks
+- coding
+- llms
 tags: []
 description: "Vibe coding focuses on outcomes rather than code. Give agents clear requirements and enough context, let them implement, and judge delivered behavior instead of implementation details."
 talk_url: "https://talks.s-anand.net/2025-10-23-vibe-coding/"

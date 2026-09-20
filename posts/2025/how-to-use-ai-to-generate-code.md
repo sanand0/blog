@@ -3,6 +3,8 @@ title: "How to use AI to generate code?"
 date: "2025-01-18T12:00:00+05:30"
 categories:
 - talks
+- coding
+- llms
 tags: []
 description: "AI can generate useful software from plain-language instructions. Start with small outcomes, iterate on failures, and treat generated code as something to test rather than trust."
 talk_url: "https://talks.s-anand.net/2025-01-18-how-to-use-ai-to-generate-code/"

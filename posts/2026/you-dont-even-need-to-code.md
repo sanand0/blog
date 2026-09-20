@@ -3,6 +3,8 @@ title: "You Don't Even Need to Code"
 date: "2026-08-22T14:15:00+08:00"
 categories:
 - talks
+- coding
+- llms
 tags: []
 description: "Coding is becoming specification and review: describe the outcome, let agents build it, and focus on whether the result works."
 talk_url: "https://talks.s-anand.net/2026-08-22-ai-unboxed-vibe-coding/"

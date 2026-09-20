@@ -3,6 +3,7 @@ title: When Data is for Agents - Workshop Summary
 date: 2026-07-11T21:24:39+05:30
 categories:
 - talks
+- data
 - llms
 description: I explored whether agents prefer different data formats, using AI to research, benchmark, and audit the claims. A corrected test found progressive disclosure used 2.5x-25x fewer tokens for the same accuracy.
 tags: [ai-agents, benchmarking, prompt-engineering]

@@ -3,6 +3,8 @@ title: "Invite AI to the Table"
 date: "2026-07-09T12:00:00+05:30"
 categories:
 - talks
+- education
+- llms
 tags: []
 description: "Teachers should use AI as a participant in lesson planning, explanation, assessment, and reflection—not treat it as a separate subject or shortcut."
 talk_url: "https://talks.s-anand.net/2026-07-09-ai-for-school-teachers/"

@@ -3,6 +3,8 @@ title: "Data to Decisions with AI"
 date: "2025-12-05T12:00:00+05:30"
 categories:
 - talks
+- data
+- llms
 tags: []
 description: "LLMs can automate expensive clinical-data work from protocol checks to anomaly detection and enrollment analysis, provided verification is designed into the workflow."
 talk_url: "https://talks.s-anand.net/2025-12-05-scdm-keynote/"

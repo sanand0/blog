@@ -3,6 +3,8 @@ title: "Solving Industrial Problems with Live Coding"
 date: "2025-07-23T12:00:00+05:30"
 categories:
 - talks
+- data
+- llms
 tags: []
 description: "LLMs can turn messy industrial and IoT data into working analyses live, collapsing the gap between domain question, code, model, and decision."
 talk_url: "https://talks.s-anand.net/2025-07-23-supply-chain-automl/"

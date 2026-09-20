@@ -3,6 +3,8 @@ title: "Inventing the Future of Learning"
 date: "2026-04-30T12:00:00+05:30"
 categories:
 - talks
+- education
+- llms
 tags: []
 description: "AI breaks the old link between learning, producing work, and proving competence. Education must redesign practice and assessment around what humans should still learn and demonstrate."
 talk_url: "https://talks.s-anand.net/2026-04-30-harvard-education/"

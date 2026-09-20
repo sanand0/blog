@@ -3,6 +3,8 @@ title: "Hire a Data Scientist for $100"
 date: "2026-07-25T14:30:00+08:00"
 categories:
 - talks
+- data
+- llms
 tags: []
 description: "Agentic tools can perform much of a data scientist's research and analysis cheaply. The leverage comes from framing the question and checking the result."
 talk_url: "https://talks.s-anand.net/2026-07-25-ai-unboxed-agentic-analysis/"

@@ -3,6 +3,8 @@ title: "AI Roadmap for Engineering Education"
 date: "2026-03-12T16:00:00+05:30"
 categories:
 - talks
+- education
+- llms
 tags: []
 description: "Engineering education should treat AI as infrastructure across the curriculum, not a standalone elective. Courses, assessment, and faculty workflows all need redesign."
 talk_url: "https://talks.s-anand.net/2026-03-12-nie-ai-roadmap/"

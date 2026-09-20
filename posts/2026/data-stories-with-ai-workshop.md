@@ -2,9 +2,9 @@
 title: Data Stories with AI Workshop
 date: 2026-06-08T16:26:32+05:30
 categories:
+- talks
+- data-visualization
 - llms
-- education
-- visualization
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7470074745900802048/
 description: I conducted a practical online workshop where participants used ChatGPT and Claude to find data, analyze it, and turn insights into visual stories, with lessons on prompting, checking, coding, and feedback.
 tags: [data-storytelling, data-visualization, llms]

@@ -3,6 +3,8 @@ title: "LLMs: Ask me anything"
 date: "2025-09-15T12:00:00+05:30"
 categories:
 - talks
+- llms
+- business-realities
 tags: []
 description: "AI capability is improving far faster than organizational adoption. Use it now, focus on practical outcomes, and expect culture, trust, and workflow redesign to be harder than technology."
 talk_url: "https://talks.s-anand.net/2025-09-15-llm-ama-gale/"

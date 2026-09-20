@@ -2,6 +2,8 @@
 title: LLM Psychology Podcast
 date: "2025-12-01T05:36:05Z"
 categories:
+- talks
+- llms
   - llms
   - linkedin
 description: I joined a podcast on LLM Psychology and demonstrated how to repurpose video into sketch-notes, slides, and articles. Using LLMs to transform complex documents makes information more accessible by matching my preferred consumption style.

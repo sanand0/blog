@@ -2,8 +2,9 @@
 title: AI in SDLC at PyConf
 date: 2026-03-19T14:58:26+05:30
 categories:
-- llms
+- talks
 - coding
+- llms
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7440334290044788736/
 description: 'I share advice on using AI across the SDLC: recording client calls, building and deploying with agents, asking for reviewable output, learning from failures, and starting in new, low-risk projects while developers remain accountable.'
 tags: [ai-coding-agents, agentic-workflows, ai-adoption, software-development]

@@ -3,6 +3,8 @@ title: "How to Build AI Products — and Prove They Work"
 date: "2026-09-11T10:00:00+08:00"
 categories:
 - talks
+- llms
+- business-realities
 tags: []
 description: "Build AI products around evidence, not ideas: prototype quickly, test with agents and real users, and iterate until the product proves its value."
 talk_url: "https://talks.s-anand.net/2026-09-06-how-to-build-ai-products/"

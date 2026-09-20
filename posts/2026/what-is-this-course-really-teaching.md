@@ -3,6 +3,8 @@ title: "What Is This Course Really Teaching?"
 date: "2026-08-10T16:30:00+05:30"
 categories:
 - talks
+- education
+- llms
 tags: []
 description: "Tools change faster than curricula. The course is really about learning how to learn, automate work, and judge results rather than memorizing tools."
 talk_url: "https://talks.s-anand.net/2026-08-10-tds-ama/"

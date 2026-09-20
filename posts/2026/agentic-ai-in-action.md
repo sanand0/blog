@@ -3,6 +3,7 @@ title: "Agentic AI in Action"
 date: "2026-01-20T12:00:00+05:30"
 categories:
 - talks
+- llms
 tags: []
 description: "Agents turn LLMs from answer generators into workers that use tools, execute multi-step tasks, and recover from failures. The challenge is control and verification."
 talk_url: "https://talks.s-anand.net/2026-01-20-agentic-ai-in-action-deloitte/"

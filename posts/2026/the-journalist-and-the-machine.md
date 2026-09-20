@@ -3,6 +3,7 @@ title: "The Journalist and the Machine"
 date: "2026-03-26T12:00:00+05:30"
 categories:
 - talks
+- llms
 tags: []
 description: "Journalists can use AI to turn curiosity into rapid experiments and explainers. The machine accelerates research and production; editorial judgment decides what is worth publishing."
 talk_url: "https://talks.s-anand.net/2026-03-26-hack-of-the-day-toi/"

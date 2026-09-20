@@ -2,8 +2,10 @@
 title: Rip Data Scientists
 date: "2025-09-12T00:00:00Z"
 categories:
-  - linkedin
-  - llms
+- talks
+- data
+- llms
+- linkedin
 description: "AI is rapidly automating many data-science tasks, so the role survives by evolving beyond routine execution rather than by preserving old workflows."
 tags: [data-science, ai-automation, future-of-work, vibe-coding, analytics]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7364307983037579266/

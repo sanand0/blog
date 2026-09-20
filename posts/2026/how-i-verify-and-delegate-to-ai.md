@@ -2,8 +2,9 @@
 title: How I Verify And Delegate to AI
 date: 2026-09-05T12:00:58+08:00
 categories:
-    - llms
-    - how-i-do-things
+- talks
+- llms
+- how-i-do-things
 description: I turned a data storytelling keynote into a survey of what stops people from using AI. Then I mined my August chat logs for my verification and delegation techniques.
 tags: [verification, ai-agents, data-analysis]
 talk_url: "https://talks.s-anand.net/2026-09-03-convergence-jio-institute/"

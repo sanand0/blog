@@ -2,6 +2,8 @@
 title: Speaking unprepared
 date: 2026-04-07T13:14:13+08:00
 categories:
+- talks
+- how-i-do-things
 - llms
 description: 'I explain why I sometimes speak deliberately under-prepared: ad-libbing creates room for discovery. During a Straive fireside chat, an off-script answer led me to generate a personalized jingle with ChatGPT.'
 tags: [public-speaking, generative-ai, gemini, chatgpt]

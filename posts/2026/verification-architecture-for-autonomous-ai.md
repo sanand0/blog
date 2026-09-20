@@ -3,6 +3,8 @@ title: "Verification Architecture for Autonomous AI"
 date: "2026-03-18T12:00:00+05:30"
 categories:
 - talks
+- llms
+- coding
 tags: []
 description: "Autonomous agents are useful only when their actions can be trusted. Constrain workflows, verify intermediate outputs, and design explicit checks before granting autonomy."
 talk_url: "https://talks.s-anand.net/2026-03-18-verifiable-agents/"

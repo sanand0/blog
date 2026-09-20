@@ -3,6 +3,8 @@ title: "LLM Data Visualization"
 date: "2025-10-29T12:00:00+05:30"
 categories:
 - talks
+- data-visualization
+- llms
 tags: []
 description: "LLMs can generate, interpret, and even invent visualizations. The analyst's role shifts toward asking better questions, testing novelty, and judging whether a visual is useful."
 talk_url: "https://talks.s-anand.net/2025-10-29-llm-data-visualization/"

@@ -2,8 +2,10 @@
 title: Goodbye MBA, Hello AI
 date: "2025-08-05T00:00:00Z"
 categories:
-  - linkedin
-  - llms
+- talks
+- llms
+- education
+- linkedin
 description: "MBA students should optimize for adaptability, verification, and AI-assisted learning because entry-level knowledge work is already being restructured by LLMs."
 tags: [mba, ai-education, future-of-work, llms]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7351849463713292290/

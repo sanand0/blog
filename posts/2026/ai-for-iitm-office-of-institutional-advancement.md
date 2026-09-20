@@ -3,6 +3,8 @@ title: "AI for IITM Office of Institutional Advancement"
 date: "2026-03-18T12:00:00+05:30"
 categories:
 - talks
+- llms
+- business-realities
 tags: []
 description: "AI can automate research, outreach, personalization, and analysis in institutional advancement. The largest gains come from redesigning workflows rather than adding a chatbot."
 talk_url: "https://talks.s-anand.net/2026-03-18-iitm-office-of-institutional-advancement/"

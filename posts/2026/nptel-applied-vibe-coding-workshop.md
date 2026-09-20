@@ -2,7 +2,7 @@
 title: NPTEL Applied Vibe Coding Workshop
 date: 2026-01-11T22:53:28+08:00
 categories:
-- llms
+- talks
 - coding
 - education
 description: I shared the video, summary, transcript, and lessons from my NPTEL Applied Vibe Coding Workshop, covering practical AI-assisted app building, personal data analysis, prompting, security, and learning by doing.

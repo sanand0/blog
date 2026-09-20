@@ -3,6 +3,8 @@ title: "DuckDB is the new Pandas"
 date: "2025-09-13T12:00:00+05:30"
 categories:
 - talks
+- data
+- tools
 tags: []
 description: "DuckDB offers a simpler, faster analytical default than Pandas for many workloads: SQL, low memory use, remote files, rich functions, and embedded deployment."
 talk_url: "https://talks.s-anand.net/2025-09-13-duckdb-is-the-new-pandas/"
