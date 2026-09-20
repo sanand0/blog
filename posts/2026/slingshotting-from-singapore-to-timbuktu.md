@@ -84,47 +84,59 @@ You would not land in Timbuktu so much as you would create a modest, newly named
 
 <!-- https://claude.ai/chat/8f5df60b-f5ea-41a1-9e29-2805733fee45 -->
 
-**Q. What's the easiest way to slingshot a stone from Singapore to Malaysia (or back)?** — _Anand, Singapore_
+**Q. What would it take to slingshot someone from Singapore to Timbuktu?** — *Anand, Singapore*
 
-The good news is that you've just made the problem about ten thousand times easier, and in doing so you've crossed the line from "requires a diagonal space elevator" to "a determined teenager could do this on a Saturday."
+The short answer is: about 7.4 kilometers per second, a launch rail whose far end sticks out of the atmosphere, and a cause of death that doesn't currently have a name.
 
-**How much you need**
+**The distance problem**
 
-The Causeway is 1.05 km long, but you don't have to throw across the widest part. The Johor Strait pinches down considerably at its eastern end — the gap between the north shore of Pulau Ubin and the Johor coast is closer to 500–600 m in places.
+Singapore to Timbuktu is 11,700 km around the curve of the Earth — 106 degrees of arc, or roughly a third of the way around the planet. This is the awkward middle distance for ballistics. If you want to throw something 10 km, you need a good cannon. If you want to throw something 40,000 km, you don't: you put it in orbit and wait.
 
-In a vacuum, a 45° launch travels v²/g, so:
+For 11,700 km you need almost, but not quite, orbital speed. The minimum-energy lob works out to 7.4 km/s launched at 18.6° above the horizon, which is 94% of the speed needed to just leave and never come back. You would coast up to 1,270 km — three times higher than the Space Station — and arrive 11 minutes later.
 
-| Gap                | Speed needed (vacuum) |
-| ------------------ | --------------------- |
-| 500 m              | 70 m/s                |
-| 600 m              | 77 m/s                |
-| 1,050 m (Causeway) | 101 m/s               |
+Eleven minutes is very good. Singapore Airlines cannot do this.[^1]
 
-That's 250–360 km/h. For comparison: a good fastball is 45 m/s, a slap shot is 50 m/s, and a serious hunting slingshot with heavy bands will put a light ball out at 90–100 m/s.
+**The slingshot problem**
 
-So the answer to "what would it take" is: **a very good slingshot, at the narrowest point, and not a stone.**
+A slingshot is a device that gets something up to speed over a short distance, and "short distance" is where things go wrong.
 
-**Why not a stone**
+Humans can survive sustained acceleration of maybe 10 g if they're lying down, well-strapped, and have made peace with their choices. Getting to 7.4 km/s at 10 g takes 76 seconds and 283 kilometers of runway.
 
-Here's where the actual difficulty lives. Air drag doesn't care how fast you launched — it cares about your projectile's mass divided by its frontal area. A rough, light, irregular pebble has a terrible ratio and a drag coefficient that changes depending on how it happens to be tumbling. Fire one at 77 m/s and the air will eat 30–40% of your range before you've stopped watching.
+Singapore is 50 km across.
 
-A 16 mm steel ball weighs 16 grams, is perfectly smooth, and doesn't care which way it's spinning. Same launch speed, far more of it arrives at the far end. The upgrade from "stone" to "ball bearing" is worth more than doubling your band strength.
+So your slingshot has to point out over the Strait of Malacca, and because it's angled at 18.6°, the launch end sits in Tuas and the business end sits **90 km above the Indian Ocean**, which is well above the Kármán line. Your slingshot's tip is in space. At this point you should notice that you have built a space elevator that only goes diagonally, and is a slingshot, and ask whether the original plan is still the best one.
 
-**Two free boosts**
+If you insist on a gentler 3 g, the rail is 940 km long and ends 300 km up, at which point you have not built a transport system, you have built a very long finger pointing at Mali.
 
-_Height._ Launching from 30 m up adds roughly 70 m of range at these speeds, for no extra effort at all. Woodlands has buildings. This is the single cheapest improvement available.
+**The air**
 
-_Wind._ The strait runs east–west and gets a reliable sea breeze. A 5 m/s tailwind over a 7-second flight is another 35 m. Going Johor → Singapore during the northeast monsoon is meaningfully easier than the reverse, which is a sentence I did not expect to write.
+Here is the part that ends the discussion.
 
-**The part where I ruin it**
+At 7.4 km/s at sea level, the air in front of your passenger is not really "air" anymore. The dynamic pressure is about 34 megapascals — 340 atmospheres, pressing on the front of a person. The deceleration from drag alone is on the order of 40,000 g.
 
-You have now designed a device that fires a 16-gram steel ball at 280 km/h across an international border, over one of the busiest shipping channels on Earth, into a country you cannot see the far bank of clearly enough to know what's there.
+Your passenger would come off the rail, travel a few hundred meters, and stop. Almost none of them would continue to Timbuktu, and the parts that did would arrive as a warm glow.
 
-At the far end that ball still carries something like 40 joules — comparable to a .22 short, and unambiguously enough to blind someone. Meanwhile Singapore's Arms and Explosives Act treats a slingshot capable of this as a controlled weapon, and both governments have well-staffed opinions about unannounced objects crossing the strait.
+Meteors the size of a grapefruit hit the atmosphere at these speeds all the time. They make a pretty streak and then they are gone. Your passenger is a large, damp, rule-following meteor.
 
-So the honest answer to "what's the easiest way" is: **it's easy enough that the physics stopped being the hard part several paragraphs ago.** If you want the satisfying version, set up two targets 600 m apart on the same side of the water and discover that hitting something at that range is a far more interesting problem than reaching it.[^1]
+**The tunnel**
 
-[^1]: At 600 m your flight time is about 9 seconds, during which a 1 m/s crosswind moves you 9 m sideways. Your accuracy problem is roughly a hundred times worse than your range problem, and no amount of rubber fixes it.
+The alternative is to stop fighting the air and go under it.
+
+Drill a straight tunnel from Singapore to Timbuktu. It's 10,150 km long, and because it's a chord through a sphere, its midpoint is **2,520 km below the surface**. That's the bottom of the mantle. The rock there is around 3,000 °C and under a million atmospheres of pressure, and your tunnel's deepest point is about 370 km above the outer core, which in geology is a rounding error.
+
+But the physics is lovely. Drop someone in with no engine. Gravity pulls them down the first half, they coast up the second half, and they arrive at the far end with exactly zero velocity, about 40 minutes later. Peak speed at the midpoint: **6.3 km/s**, or 22,700 km/h, achieved with no fuel whatsoever.
+
+It's the best transport system anyone has ever described and it requires a hole through the part of the Earth that is trying hardest to become lava.
+
+**One last thing: aim ahead**
+
+Whichever version you build, remember that Timbuktu is moving. During your 11-minute flight, the Earth turns 2.65°, carrying your destination about 280 km east.
+
+So you don't aim at Timbuktu. You aim at a patch of empty Saharan sand and trust the planet to slide the city under your passenger at the last moment, like a quarterback leading a receiver, if the receiver were a 12th-century trading city running east at 1,600 km/h.
+
+Miss the lead by 1%, and you arrive 3 km from where you meant to, which for most projects is fine and for this one is the difference between Timbuktu and the middle of nowhere — a distinction Timbuktu has spent 800 years trying to explain.
+
+[^1]: There is no direct flight. The realistic route is Singapore → Istanbul or Casablanca → Bamako → a small plane or a long drive, totalling somewhere north of 24 hours. The slingshot is 130 times faster and only slightly more fatal.
 
 </section>
 
