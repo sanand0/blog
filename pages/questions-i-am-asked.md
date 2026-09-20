@@ -1,12 +1,27 @@
 ---
 title: Questions I am asked
 description: Questions people ask me, and my answers.
-tags: [enterprise-ai, ai-agents, ai-workflows, verification]
+tags: [ai, ai-agents, enterprise-ai, verification]
 ---
 
 # Questions I am asked
 
 Questions people ask me, with names, organizations, and exact dates removed.
+
+## Week ending 20 Sep 2026 {#week-ending-2026-09-20}
+
+- **Question**: How can a teacher decide which AI tool will be helpful for a task?\
+  **Answer**: Ask AI which AI to use, then test the shortlist on something you know well enough to judge instantly. If you can’t judge it, ask an expert to compare the same input across models.
+- **Question**: What do you need in order to use a real workflow as part of AI training?\
+  **Answer**: Four things: what goes in, what comes out, unacceptable mistakes, and current effort. Ideally over 3+ historical cycles - so we can improve on one and test on the others.
+- **Question**: Should an agent analyzing a dataset be given a goal, or should we let it decide what to investigate?\
+  **Answer**: Try both. Without a goal, test whether it can pick worthwhile goals compared with a data scientist; with a goal, test whether it can execute yours. Failed hypotheses are useful results too.
+- **Question**: Should we expand a 250-case model benchmark to 2,500 before choosing the model?\
+  **Answer**: No, unless that can change the decision. Check if additional benchmarking can realistically change a relevant decision, first.
+- **Question**: How do logprobs compare with asking the model for its own confidence?\
+  **Answer**: In my 3K Banking77 run, logprobs were better for ranking errors; but well-prompted confidence was better calibrated. I would sort the human-review queue by logprobs, but use prompted confidence when reporting accuracy.
+- **Question**: Is TDD enough to catch ongoing production failures?\
+  **Answer**: No. Add progressive rollout: start with 1% of users, watch task-success and error logs, and stop / roll back on issues. Test what you know; analyze production logs for what you don’t.
 
 ## Week ending 13 Sep 2026 {#week-ending-2026-09-13}
 

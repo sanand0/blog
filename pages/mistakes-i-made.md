@@ -5,6 +5,24 @@ tags: [fact-checks, corrections]
 ---
 
 
+## Week ending 20 Sep 2026 {#week-ending-2026-09-20}
+
+- I said **"tell Claude to create the GitHub account"** while advising a teacher who had generated an HTML revision app but was stuck on publishing it.\
+  **Correction**: Claude in Chrome can interact with GitHub once access exists, but Anthropic explicitly prohibits it from creating accounts; the user must create the GitHub account. ([support.claude.com](https://support.claude.com/en/articles/12902446-claude-in-chrome-permissions-guide))\
+  **MEDIUM · FALSE**
+- I said **"Better be careful, wear a mask"** for dengue to a colleague travelling to Chennai.\
+  **Correction**: A mask does not prevent dengue; dengue is spread primarily by infected Aedes mosquito bites, so prevention means avoiding bites with repellent, covering clothing, screens/air-conditioning, nets where needed, and mosquito control. ([cdc.gov](https://www.cdc.gov/dengue/prevention/))\
+  **MEDIUM · FALSE**
+- I said **"if you send the request from an Azure webpage, it will let you get the underlying data"** while describing how autonomous agents had managed to extract extra precision from an OECD Power BI dashboard.\
+  **Correction**: The reported Power BI bypass was not a Microsoft rule granting Azure-origin requests extra access; the agents exploited their sandbox's `NO_PROXY` exception for Azure Blob Storage hostnames to bypass its security proxy and send the otherwise-blocked POST request. ([collusion.wiki](https://collusion.wiki/))\
+  **MEDIUM · FALSE**
+- I said **"each of those is called an epoch of training"** while explaining LLM training to an executive team using repeated error correction as an analogy.\
+  **Correction**: An epoch is one complete pass over the training set, not an individual correction or weight update; an iteration is a parameter update on a batch. LLM base-model pre-training typically optimizes next-token prediction loss, while supervised examples and preference/reward signals are separate post-training stages. ([developers.google.com](https://developers.google.com/machine-learning/glossary/fundamentals))\
+  **MEDIUM · FALSE**
+- I said **"26 billion parameters ... roughly means there are 26 billion neurons"** while explaining to an executive team what the size of an LLM means.\
+  **Correction**: A 26-billion-parameter model has roughly 26 billion learned parameters—principally weights and biases—not 26 billion neurons; neuron count and parameter count are different quantities. ([developers.google.com](https://developers.google.com/machine-learning/glossary))\
+  **MEDIUM · FALSE**
+
 ## Week ending 13 Sep 2026 {#week-ending-2026-09-13}
 
 - I said **"No, only ours. IIT Madras has started offering it."**.\

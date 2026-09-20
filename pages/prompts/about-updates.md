@@ -26,6 +26,7 @@ Inspect `~/Dropbox/notes/about/` files. Try to match each person to an existing 
 
 If no matching file exists: create only if there are 3+ meaningful interactions across days/channels, or 1 exceptionally important interaction likely to guide future dealings, or a there's repeated meaningful interaction outside the week.
 Name the file based on the Person Name and Affiliation (where guessable, else skip). For example: Khushi Kapoor BPB.
+Only for new person files, historically backfill one-time. Search historically, not just 7 days, including in `~/Documents/Mail/ archives`, for that person (aliases, spelling, affiliation, ...) and add dated sections for substantial/future-useful interactions.
 
 Add one `## YYYY-MM-DD - short topic` section for the week, newest near the top after stable profile notes, picking latest date in case of multiple conversations.
 Include: substantial interactions that change how I should understand, work with, follow up with, or remember the person. Strong signals are: decisions, advice, critique, preferences, commitments, asks, opportunities, investments/startups, intros, conflict, personal context relevant to future interaction, repeated collaboration, or a person's distinctive operating style.
@@ -41,7 +42,7 @@ Use more when the conversation materially changes how I should understand, work 
 
 Approach:
 
-- Use a retrieval ladder: candidate table first from transcript frontmatter/filenames, existing `about/*.md`, and `transcripts/description.md`; deep-read only candidates that pass triage or are borderline.
+- Use a retrieval ladder: candidate table first from transcript frontmatter/filenames, existing `about/*.md`, and `transcripts/description.md`; deep-read only candidates that pass triage or are borderline. Keep the normal scan to the 7-day window; only after deciding to create a new dossier, expand transcript retrieval across all history for that person.
 - Do not use raw mention counts to create files. Prior transcript index/title hits and meaningful cross-channel evidence matter more than full-body `rg` hits.
 - Use null-delimited file handling (`fd -0`, `xargs -0`, etc.) for all file loops because paths contain spaces.
 
@@ -79,6 +80,7 @@ Avoid transcript summaries that belong in project notes. Person notes are for re
 
 - [ ] Did not modify files.
 - [ ] Checked whether a matching person file already exists, including aliases/spelling variants.
+- [ ] For every newly created dossier, searched prior transcripts and included any substantial earlier interactions under their actual dates.
 - [ ] `# H1` matches existing (or to-be) `~/Dropbox/notes/about/H1.md`
 - [ ] Did not create files for one-off weak interactions.
 - [ ] Did not summarize projects into every attendee's person note.
