@@ -7,7 +7,7 @@ tags: [local-mcp, bash, gratitude]
 ---
 
 ```markdown
-Scan my transcripts, email/chat JSONL, and WhatsApp on @LocalMCP for the last 7 days until Saturday midnight (SGT).
+Scan my transcripts, email/chat JSONL, and WhatsApp on @LocalMCP2 for the last 7 days until Saturday midnight (SGT).
 Use ~/code/scripts/context.py as required.
 Find 5 people who deserve a specific warm WhatsApp/email/Meet message from me.
 See ~/Dropbox/notes/unreasonable-gestures.md for actual messages I've sent - to use as examples.

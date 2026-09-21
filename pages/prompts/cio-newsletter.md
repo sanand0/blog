@@ -9,7 +9,7 @@ tags: [prompt-engineering, generative-ai, enterprise-ai, data-science, decision-
 ```markdown
 Find the best ideas for my next occasional email to CIOs and senior technology/data leaders.
 
-First read and apply these skills on @LocalMCP: expert-lens, ideation-protocol, blind-spot, anand-objectives, decision-compression, evidence-provenance.
+First read and apply these skills on @LocalMCP2: expert-lens, ideation-protocol, blind-spot, anand-objectives, decision-compression, evidence-provenance.
 
 ## 1. Calibrate the newsletter
 

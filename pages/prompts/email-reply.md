@@ -17,7 +17,7 @@ Guardrails:
    - Ask one clarifying question to the recipient or recommend a "DISCUSS LIVE".
    - Ask me when neither is appropriate and proceeding without the fact could cause material harm.
 - Draft only. NEVER send or modify email.
-- Use @LocalMCP, the web, and the coding environment directly.
+- Use @LocalMCP2, the web, and the coding environment directly.
 - For external recipients, don't disclose what's not approved for them.
 
 0. **Read relevant skills**: On Local MCP, find, read, and apply the relevant skills for the task.

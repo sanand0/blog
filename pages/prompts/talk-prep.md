@@ -25,14 +25,14 @@ Research the audience beyond generic personas fail and demographics using:
 - Organizer and planning call transcripts, emails, chats, etc. Rank by who knows the audience best and weight accordingly.
 - The audience's live work: portfolio, projects (and their weight), workflows, current assumptions.
   Find and research a few real attendees' actual work: input mode, real anxieties, actual skill gaps.
-  Use online sources and @LocalMCP as required.
+  Use online sources and @LocalMCP2 as required.
 - Peer sessions at the venue: match their norms, then position AGAINST the rest of the program. Cover what no other speaker there will.
 - The named people - host, moderator, co-panelists. Research them; draft questions to feed the moderator.
 - How I actually run sessions: `~/Dropbox/notes/talks.md`, `~/code/talks/**/transcript*.md`.
 
 Research my work that will be relevant to the audience:
 
-- Read @LocalMCP for my blog, TIL, talks, workshops, transcripts, notes, email/chat, code, ...
+- Read @LocalMCP2 for my blog, TIL, talks, workshops, transcripts, notes, email/chat, code, ...
 - Run a broad pass to discover themes I've explored over the last year or so. Filter for relevance. Then deep-dive into the most relevant ones.
 - Ideate/brainstorm on what to cover. Drop weak ones, follow any new ideas that emerge, and share options.
 

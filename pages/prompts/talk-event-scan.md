@@ -11,7 +11,7 @@ Run on ChatGPT, weekly.
 ```markdown
 Run a weekly scan for events I should speak at or attend. Today's date and all action dates should use Singapore time.
 
-Read from @LocalMCP without modifying files. Give me registry changes that I can copy into:
+Read from @LocalMCP2 without modifying files. Give me registry changes that I can copy into:
 
 `~/Dropbox/notes/talk-event-list.tsv`
 

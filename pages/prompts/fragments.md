@@ -195,7 +195,7 @@ IMPORTANT: Because Claude will almost certainly stall when generating such a lar
 
 ```markdown
 Share a concise prompt I can pass to Codex / Claude Code to implement this.
-In @LocalMCP look at ~/code/scripts/prompts/ to see how I prompt.
+In @LocalMCP2 look at ~/code/scripts/prompts/ to see how I prompt.
 Also see ~/code/scripts/agents/AGENTS.md and ~/code/scripts/agents/{code,agent-friendly-cli,devtools,...}/SKILL.md to understand the overall guidelines I provide.
 Align with these. Avoid duplication.
 ```
@@ -220,7 +220,7 @@ Do not manufacture strategic alignment or infer sincerity or motives.
 
 Research:
 
-1. Check @LocalMCP for the exact person, prior interaction and relevant context.
+1. Check @LocalMCP2 for the exact person, prior interaction and relevant context.
 2. Search public sources selectively for current work, first-party artifacts and evidence of agency.
 3. Stop when further research is unlikely to change the decision. Do not provide a generic biography.
 
@@ -340,7 +340,7 @@ Moved to the [expert lens skill](https://github.com/sanand0/scripts/blob/main/ag
 ```markdown
 Fact-check claims I made in the last 7 days until Saturday midnight (SGT).
 
-Use @LocalMCP to scan my transcripts, sent emails, work chats, and WhatsApp.
+Use @LocalMCP2 to scan my transcripts, sent emails, work chats, and WhatsApp.
 Verify questionable claims against current authoritative sources.
 Read `~/Dropbox/notes/mistakes-i-made.md` and skip mistakes already logged.
 
@@ -708,7 +708,7 @@ Suggest prioritized talk topics aligned with the conference, not overlapping wit
 
 I use talks to push myself to learn something new, test ideas live, learn from the audience, give them a useful surprise, and build compounding assets before/during/after.
 
-Infer what I'm exploring from memory, chat history, then @LocalMCP - unresolved questions, emerging ambitions, changed beliefs, recurring interests, recent surprises, and connections across unrelated work. Prefer recent choices, excitements, what I keep returning to.
+Infer what I'm exploring from memory, chat history, then @LocalMCP2 - unresolved questions, emerging ambitions, changed beliefs, recurring interests, recent surprises, and connections across unrelated work. Prefer recent choices, excitements, what I keep returning to.
 
 Find questions I genuinely don’t know the answer to (I might not even know they're worth pursuing),
 that solve a REAL, frequent audience need,
@@ -727,7 +727,7 @@ Prefer what makes me think, "I don't know, this is a great place to find out."
 See `~/Dropbox/notes/trending-repos.md` for the output history.
 
 ```markdown
-On @LocalMCP, ~/code/til/trending-repos.tsv has trending GitHub repos extracted roughly weekly.
+On @LocalMCP2 ~/code/til/trending-repos.tsv has trending GitHub repos extracted roughly weekly.
 🟣 is what's un-evaluated,
 🟢 is what I already use,
 🔵 I want to evaluate later,
@@ -775,7 +775,7 @@ End with the ONE highest-leverage thing to do next, and why.
 <!-- 31 Aug 2026: https://chatgpt.com/c/6a9510da-8b04-83ec-810d-d8ad4409ceef -->
 
 ```markdown
-Scan the latest messages in these WhatsApp groups on @LocalMCP ~/Documents/data/whatsapp/
+Scan the latest messages in these WhatsApp groups on @LocalMCP2 ~/Documents/data/whatsapp/
 
 Generative AI [120363271326291828@g.us].jsonl
 Generative AI [120363049558306142@g.us].jsonl
@@ -802,7 +802,7 @@ I find it especially promising when:
 - I can run an experiment to verify it
 - I can connect someone particularly appropriate.
 
-For promising candidates, use @LocalMCP to search my notes, transcripts, blog, talks, code, past WhatsApp messages, emails, ...
+For promising candidates, use @LocalMCP2 to search my notes, transcripts, blog, talks, code, past WhatsApp messages, emails, ...
 Use `anand-writing-style`. Verify current claims online. Strongly prefer including 1-2 useful evidence links.
 
 For each, give:

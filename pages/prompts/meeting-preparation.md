@@ -30,7 +30,7 @@ For follow-up meetings, list:
 
 Rules:
 
-- Use @LocalMCP
+- Use @LocalMCP2
 - Where relevant, begin with a personal follow-up, a noteworthy trait/comment to remark upon, ... something that makes them feel understood in the first minute
 - Use the calendar invite for context. But also dig deep to discover the REAL agenda, not just the stated one from the calendar
 - Encode how I behave with them, they behave with me
