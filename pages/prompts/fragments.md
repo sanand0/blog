@@ -456,6 +456,7 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 ```markdown
 - Vary paragraph lengths. Vary sentence lengths. Vary sentence organization/structure, use uneven rhythms.
 - Write plain & simple. No aphoristic punchlines, no slogan-like closers, no puffery or promotion, no forced threes, no synonym cycling, no generic upbeat endings, no excessive bullets, no "-ing" padding, no subjectless phrases.
+- Use commonly used language. "The count matters because" -> "The count is important because". "The point is wider" -> "There's more to it"
 - Use only ASCII punctuation. No em-dashes, emojis. Straight quotes.
 - Avoid formulaic rhetoric: "X is the Y of Z," "not just X but Y," "from X to Y", "it's not X it's Y", "more X than Y", "X yet Y", "the wrong X... the right one is Y", ...
 - Avoid too-earnest over-reaches: unusually, genuinely, honestly, materially, exactly, every, never, ...
