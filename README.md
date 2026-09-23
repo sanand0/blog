@@ -236,6 +236,13 @@ Full-width embedded iframes: <!-- https://chatgpt.com/c/6a524c4f-2bb8-83e8-b014-
 </div>
 ```
 
+YouTube videos:
+
+```html
+<div class="video-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/$VIDEO-ID" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+```
+
+
 ## AI-generated content
 
 Wrap AI-generated sections in:
