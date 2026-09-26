@@ -175,7 +175,7 @@ def write_posts_index(content_dir: Path, author_login: str | None) -> None:
     path.write_text(render_front_matter(data), encoding="utf-8")
 
 
-def write_archive_index(path: Path, title: str, params: dict[str, int]) -> None:
+def write_archive_index(path: Path, title: str, params: dict[str, Any]) -> None:
     """Write archive index pages for year/month/day groupings."""
     data = {"title": title, "type": "archive", **params}
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -208,7 +208,13 @@ def write_archives(content_dir: Path, dates: list[datetime]) -> None:
         write_archive_index(
             content_dir / f"{year}" / f"{month:02d}" / f"{day:02d}" / "_index.md",
             title=title,
-            params={"year": year, "month": month, "day": day},
+            params={
+                "year": year,
+                "month": month,
+                "day": day,
+                "robotsNoIndex": True,
+                "sitemap": {"disable": True},
+            },
         )
 
 

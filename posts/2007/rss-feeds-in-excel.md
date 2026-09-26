@@ -6,6 +6,8 @@ categories:
 wp_id: 85
 description: I built an XPATH user-defined function to extract live data from RSS feeds and XML into Excel. I use it to automate movie wishlist tracking and IMDb rating lookups, treating Excel as a versatile web interface.
 tags: [excel, rss, xpath, xml, vba, automation, web-scraping]
+aliases:
+  - /RSS_feeds_in_Excel.html
 ---
 
 The technique of [Web lookups in Excel](/blog/web-lookup-using-excel/) I described yesterday is very versatile. I will be running through some of the practical uses it can be put to over the next few days

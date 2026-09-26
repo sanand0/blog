@@ -5,6 +5,8 @@ categories:
   - linkedin
 description: "A quick observation on the age profile of the author's music library turns into a two-week celebration of songs inherited from his parents' era."
 tags: [nostalgia, linkedin]
+aliases:
+  - /i-was-surprised-to-see-a-big-chunk-of-my-music-library-is-from-the-1960s-thanks/
 ---
 
 I was surprised to see a big chunk of my #music library is from the 1960s -- thanks to the songs my parents grew up with, and passed on to me.

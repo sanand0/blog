@@ -7,6 +7,8 @@ categories:
 wp_id: 238
 description: I show you how to create custom Excel functions using VBA to simplify complex tasks. I use these to handle errors gracefully, extract formula strings, and access data like cell formatting that standard formulas can't reach.
 tags: [excel, vba, user-defined-functions, error-handling, spreadsheet-automation]
+aliases:
+  - /User-defined_functions_in_Excel.html
 ---
 
 Excel lets you create your own functions. If you wanted to create a function that returned the distance between two points (x1,y1) and (x2,y2), you can create a function DIST that takes these 4 parameters, and use it as shown below.

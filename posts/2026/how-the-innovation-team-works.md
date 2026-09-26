@@ -5,6 +5,8 @@ categories:
 - how-i-do-things
 description: 'I analyzed 44 meeting recordings to understand how a small team turns client requests into fast demos: show output early, compress and reproduce working pipelines, and steer AI agents.'
 tags: [transcript-analysis, ai-agents, organizational-change, innovation]
+aliases:
+  - /innovation-team_methods/
 ---
 
 Based on 44 meeting recordings from February to late April 2026, here's how Straive's small team (3-6 people at any time, mostly freshers and interns) produce a continuous stream of client-facing demos across topics as diverse as image filtering, geospatial analysis, insurance contract verification, NFL medical scoring, OCR benchmarking, and song similarity clustering — often with a 24–48 hour turnaround from assignment to demo.

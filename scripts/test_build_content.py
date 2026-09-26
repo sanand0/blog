@@ -1,3 +1,4 @@
+from datetime import datetime
 from pathlib import Path
 import importlib.util
 import sys
@@ -26,6 +27,20 @@ def build(tmp_path: Path) -> Path:
         content_dir=content,
     )
     return content
+
+
+def test_day_archives_are_noindex_and_excluded_from_sitemap(tmp_path):
+    content = tmp_path / "content"
+    build_content.write_archives(content, [datetime(2026, 9, 26)])
+
+    year = build_content.split_front_matter((content / "2026/_index.md").read_text()).front_matter
+    month = build_content.split_front_matter((content / "2026/09/_index.md").read_text()).front_matter
+    day = build_content.split_front_matter((content / "2026/09/26/_index.md").read_text()).front_matter
+
+    assert "robotsNoIndex" not in year
+    assert "robotsNoIndex" not in month
+    assert day["robotsNoIndex"] is True
+    assert day["sitemap"]["disable"] is True
 
 
 def test_skill_readme_and_skill_become_one_section_page(tmp_path):

@@ -5,6 +5,8 @@ categories:
   - linkedin
 description: I was named one of the top 10 data scientists in India for 2015 by Analytics India Magazine. This post reflects on the recognition and links to the list celebrating leaders in the local data science community.
 tags: [data-science, india]
+aliases:
+  - /apparently-i-m-one-of-the-top-10-data-scientists-in-india-https-lnkd-in-dbecsbu/
 ---
 
 Apparently, I'm one of the top 10 data scientists in India. http://analyticsindiamag.com/top-10-data-scientists-in-india-2015/
