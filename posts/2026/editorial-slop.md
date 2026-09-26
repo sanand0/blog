@@ -27,9 +27,12 @@ Palash preferred my version and shared it.
 
 ---
 
+![](https://files.s-anand.net/images/2026-09-26-editorial-slop.avif)
+
 **24 Sep 2026**: 12 weeks later, the [article appears](https://cxotoday.com/corner-office/redesigning-the-operating-model-shifting-from-ai-tool-rollouts-to-workflow-integration/), and with a few differences - 🟢 good and 🔴 bad. They:
 
-1. 🟢 Added a title
+1. 🟢 Added a title and a [photo](https://cxotoday.com/wp-content/uploads/2026/09/Anand-S.jpg) - edited from my [speaker photo](https://www.s-anand.net/blog/assets/Anand-5a-1.webp) to remove shadows and wear a jacket in an office. (The original was at PyCon 2025 and I was wearing a T-shirt).
+   ![](https://files.s-anand.net/images/2026-09-26-editorial-slop-anand-photo.avif) ![](https://www.s-anand.net/blog/assets/Anand-5a-1.webp)
 2. 🟢 Changed `--` and `-` to em-dashes: `—`; also the double quotes `"` to smart quotes `“` and `”`; single quotes `'` to apostrophes `’` (which is interesting because I told my agent to remove those to avoid it sounding agent-y).
 3. 🔴 But failed to fix my punctuation. For example, a missing full-stop in `... fundamentally redesigned workflows In a separate workplace report...`
 4. 🔴 Also added paragraph breaks mid-sentence. This happened thrice. For example, here's one broken sentence:
@@ -48,8 +51,6 @@ Palash preferred my version and shared it.
 8. 🔴 Added poor / unsemantic HTML markup. All six interview questions are encoded as `<h6>` headings directly under the article, not H2/H3. There is also a stray final `<p>&nbsp;</p>` after the article.
 
 On the margin, this may be more damage than good. "Editorial slop", I guess.
-
-![](https://files.s-anand.net/images/2026-09-26-editorial-slop.avif)
 
 PS: I make more mistakes than any editor and hate being called out. But I don't mind. I'm a _happy_ hypocrite.
 
