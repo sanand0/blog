@@ -154,6 +154,10 @@ proposals:
     sources:
       posts/2026/time-bound-recurring-meetings.md:
         content_hash: 857df8bed926fd576db790502f87e9c2258f146b18887584091a2e6d399e12dd
+  remote-desktop:
+    sources:
+      posts/2026/remote-desktop-commander-chatgpt-plugin.md:
+        content_hash: d57f831045b88352969e94ed06537e52f8e903ed64868119ae070847c160ccb5
   restaurant-recommendations:
     sources:
       posts/2026/my-food-preferences.md:
