@@ -5,6 +5,27 @@ tags: [fact-checks, corrections]
 ---
 
 
+## Week ending 27 Sep 2026 {#week-ending-2026-09-27}
+
+- I said **"I know what factors are important and therefore I can start making changes"** while using a predictive decision tree on student grades to identify interventions.\
+  **Correction**: A predictive model can identify variables associated with grades, but that does not show that changing those variables will improve grades; interventions need causal evidence or assumptions designed to identify causal effects.\
+  **MEDIUM · OVERSTATED**
+- I said **"GPT-3.5 Turbo... only cost you 50 cents"** while describing the cost of models available in March 2023.\
+  **Correction**: GPT-3.5 Turbo launched on 1 Mar 2023 at $0.002 per 1,000 tokens, or $2 per million tokens; $0.50 per million input tokens arrived with `gpt-3.5-turbo-0125` in January 2024.\
+  **MEDIUM · FALSE**
+- I said **"a million tokens... about a million words"** while translating model pricing into document size.\
+  **Correction**: Tokens and words are not interchangeable; for English, OpenAI's rough rule is 1 token ≈ 0.75 words, so one million words is roughly 1.33 million tokens, with the exact count depending on the text and tokenizer.\
+  **LOW · FALSE**
+- I said **"if there are more objects than containers, then there will be something that's left out"** while explaining the pigeonhole principle.\
+  **Correction**: If there are more objects than containers and every object is placed in a container, at least one container must contain at least two objects; nothing needs to be left out.\
+  **LOW · FALSE**
+- I said **"logprobs—the chance that it might have made a mistake"** while explaining how to prioritize AI outputs for human review.\
+  **Correction**: Logprobs are probabilities assigned to generated tokens, not probabilities that an answer is wrong. They can be useful uncertainty signals for ranking review priority, but that relationship needs to be validated or calibrated on the task.\
+  **MEDIUM · OVERSTATED**
+- I said **"LLM doesn't care what language you're speaking in... language agnostic"** while discussing multilingual workflows in an AI workshop.\
+  **Correction**: LLMs are multilingual, not language-agnostic: capability varies by language, task and model, and lower-resource languages can perform substantially worse. Even OpenAI says its models are optimized for English. Test the actual languages required before treating a workflow as language-agnostic.\
+  **MEDIUM · OVERSTATED**
+
 ## Week ending 20 Sep 2026 {#week-ending-2026-09-20}
 
 - I said **"tell Claude to create the GitHub account"** while advising a teacher who had generated an HTML revision app but was stuck on publishing it.\
@@ -103,8 +124,8 @@ tags: [fact-checks, corrections]
 - I said **GitHub is where you take version-controlled software and "save it publicly."**\
   **Correction**: GitHub repositories can be public or private; GitHub Enterprise also supports internal repositories. Version control does not imply publishing the code. When explaining this to a beginner, I should explicitly distinguish Git from GitHub and repository visibility. Evidence: [GitHub Docs — About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)\
   **LOW · FALSE**
-- I said **animation "started" in the 1930s with *Snow White and the Seven Dwarfs*.**\
-  **Correction**: *Snow White* was a landmark, but animated features predate it. *El Apóstol* was released in 1917, and *The Adventures of Prince Achmed* from 1926 is the earliest surviving animated feature. My visualization was a filtered view of popular IMDb titles, not a history of when animation began. Evidence: [BFI — animated features before Snow White](https://www.bfi.org.uk/features/lesser-spotted-british-animated-feature-film)\
+- I said **animation "started" in the 1930s with _Snow White and the Seven Dwarfs_.**\
+  **Correction**: _Snow White_ was a landmark, but animated features predate it. _El Apóstol_ was released in 1917, and _The Adventures of Prince Achmed_ from 1926 is the earliest surviving animated feature. My visualization was a filtered view of popular IMDb titles, not a history of when animation began. Evidence: [BFI — animated features before Snow White](https://www.bfi.org.uk/features/lesser-spotted-british-animated-feature-film)\
   **LOW · FALSE**
 
 ## Week ending 09 Aug 2026 {#week-ending-2026-08-09}

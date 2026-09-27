@@ -84,6 +84,8 @@ This week, I learned:
   **Answer**: Yes. Source links are not enough. Include quotes behind the claims for fast verification.
 - **Question**: How deterministic is a financial agent for executive use?\
   **Answer**: Code is deterministic. Output and interpretations still need validation. I'd keep the UI light and focus on verification.
+- **Question**: For financial analysis and report writing, which AI tool is better - Gemini, ChatGPT, Claude, or Copilot?\
+  **Answer**: This month: Claude beats ChatGPT beats Gemini. Next month, it may change. Use paid frontier models. Compare outputs regularly.
 - **Question**: Our client says any AI use requires permission. What do we do?\
   **Answer**: Start where it's easiest: new work - with no incumbent or competition, public data, secondary research. Prove value. THEN ask for permission.
 - **Question**: If we give AI all the input, can it create a 50-60% ready sell-side or buy-side research report?\
@@ -112,3 +114,5 @@ This week, I learned:
   **Answer**: Generate a common board pack for everyone, then let individuals drill down privately. Standardize the baseline, but don't limit curiosity.
 - **Question**: After AI generates an HTML or PowerPoint answer, can users continue the conversation?\
   **Answer**: Yes. The report is not the end; it's just a by-product.
+- **Question**: Why don't we train a custom model with all our knowledge already inside it?\
+  **Answer**: Don't. Custom training is costly and slow. Save your knowledge in SKILL.md, databases, folders, custom code... that's cheaper and faster.

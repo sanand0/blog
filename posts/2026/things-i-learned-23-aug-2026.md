@@ -57,6 +57,8 @@ This week, I learned:
   **Answer**: Make backups and let it work on a copy. Try it five or ten times; once it repeatedly earns your trust, gradually remove the safety net.
 - **Question**: When should I turn an ad-hoc agent workflow into automation?\
   **Answer**: If I run it once every two months, I don't mind the agent writing the code again. If it's every two weeks or two days, save the script and automate it.
+- **Question**: When should I turn an ad-hoc agent workflow into automation?\
+  **Answer**: If I run it once every two months, I don't mind the agent writing the code again. If it's every two weeks or two days, save the script and automate it.
 - **Question**: How do we decide which agents to train when client problems keep changing?\
   **Answer**: Decouple the agent from the skill. Keep the skill intelligence agnostic - it's not about correcting agent errors but about transferring context it won't have. Keep a central folder of skills with one-line descriptions; whichever agent people use can scan it and pick the relevant skills.
 - **Question**: Which part of the current agentic AI narrative is overhyped?\

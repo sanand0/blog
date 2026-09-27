@@ -1,12 +1,20 @@
 ---
 title: Questions I am asked
 description: Questions people ask me, and my answers.
-tags: [ai, ai-agents, enterprise-ai, verification]
 ---
 
 # Questions I am asked
 
 Questions people ask me, with names, organizations, and exact dates removed.
+
+## Week ending 27 Sep 2026 {#week-ending-2026-09-27}
+
+- **Question**: How do we calibrate an AI app that hallucinates information not present in the source? Asked while testing a recruiting app that was inventing details not present in candidate CVs.\
+  **Answer**: Log the inputs, outputs, and human corrections. Build up that history, then use it to test prompt or model changes and whether a second-pass check catches the same mistakes.
+- **Question**: If AI automates part of the work but people still check everything, how do we get real productivity? Asked while discussing automation that improved output but still required full QC because the team did not trust it enough to let work pass unchecked.\
+  **Answer**: Don't automate everything a little. Pull out even one 10% slice where you can get to full confidence, stop checking it, and redesign the workflow so that 10% becomes an actual capacity saving.
+- **Question**: Should we replace mature rule-based automation with AI-native workflows? Asked while discussing how new AI workflows were taking time just to recover productivity already achieved through deterministic automation.\
+  **Answer**: No. Keep the rules that already work and use agents to find missing rules and improve existing ones from correction logs. Deterministic checks give you confidence and can bring the LLM cost down to zero.
 
 ## Week ending 20 Sep 2026 {#week-ending-2026-09-20}
 
@@ -72,6 +80,8 @@ Questions people ask me, with names, organizations, and exact dates removed.
 
 - **Question**: How do I safely let an agent modify my files when it could get things wrong?\
   **Answer**: Make backups and let it work on a copy. Try it five or ten times; once it repeatedly earns your trust, gradually remove the safety net.
+- **Question**: When should I turn an ad-hoc agent workflow into automation?\
+  **Answer**: If I run it once every two months, I don't mind the agent writing the code again. If it's every two weeks or two days, save the script and automate it.
 - **Question**: When should I turn an ad-hoc agent workflow into automation?\
   **Answer**: If I run it once every two months, I don't mind the agent writing the code again. If it's every two weeks or two days, save the script and automate it.
 - **Question**: How do we decide which agents to train when client problems keep changing?\
@@ -762,6 +772,8 @@ Questions people ask me, with names, organizations, and exact dates removed.
   **Answer**: Yes. Source links are not enough. Include quotes behind the claims for fast verification.
 - **Question**: How deterministic is a financial agent for executive use?\
   **Answer**: Code is deterministic. Output and interpretations still need validation. I'd keep the UI light and focus on verification.
+- **Question**: For financial analysis and report writing, which AI tool is better - Gemini, ChatGPT, Claude, or Copilot?\
+  **Answer**: This month: Claude beats ChatGPT beats Gemini. Next month, it may change. Use paid frontier models. Compare outputs regularly.
 - **Question**: Our client says any AI use requires permission. What do we do?\
   **Answer**: Start where it's easiest: new work - with no incumbent or competition, public data, secondary research. Prove value. THEN ask for permission.
 - **Question**: If we give AI all the input, can it create a 50-60% ready sell-side or buy-side research report?\
@@ -790,6 +802,8 @@ Questions people ask me, with names, organizations, and exact dates removed.
   **Answer**: Generate a common board pack for everyone, then let individuals drill down privately. Standardize the baseline, but don't limit curiosity.
 - **Question**: After AI generates an HTML or PowerPoint answer, can users continue the conversation?\
   **Answer**: Yes. The report is not the end; it's just a by-product.
+- **Question**: Why don't we train a custom model with all our knowledge already inside it?\
+  **Answer**: Don't. Custom training is costly and slow. Save your knowledge in SKILL.md, databases, folders, custom code... that's cheaper and faster.
 
 ## Week ending 10 May 2026 {#week-ending-2026-05-10}
 

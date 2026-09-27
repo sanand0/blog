@@ -51,6 +51,6 @@ This week, I learned:
 - I said **GitHub is where you take version-controlled software and "save it publicly."**\
   **Correction**: GitHub repositories can be public or private; GitHub Enterprise also supports internal repositories. Version control does not imply publishing the code. When explaining this to a beginner, I should explicitly distinguish Git from GitHub and repository visibility. Evidence: [GitHub Docs — About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)\
   **LOW · FALSE**
-- I said **animation "started" in the 1930s with *Snow White and the Seven Dwarfs*.**\
-  **Correction**: *Snow White* was a landmark, but animated features predate it. *El Apóstol* was released in 1917, and *The Adventures of Prince Achmed* from 1926 is the earliest surviving animated feature. My visualization was a filtered view of popular IMDb titles, not a history of when animation began. Evidence: [BFI — animated features before Snow White](https://www.bfi.org.uk/features/lesser-spotted-british-animated-feature-film)\
+- I said **animation "started" in the 1930s with _Snow White and the Seven Dwarfs_.**\
+  **Correction**: _Snow White_ was a landmark, but animated features predate it. _El Apóstol_ was released in 1917, and _The Adventures of Prince Achmed_ from 1926 is the earliest surviving animated feature. My visualization was a filtered view of popular IMDb titles, not a history of when animation began. Evidence: [BFI — animated features before Snow White](https://www.bfi.org.uk/features/lesser-spotted-british-animated-feature-film)\
   **LOW · FALSE**
