@@ -19,7 +19,7 @@ def test_related_json_has_neighbors_for_all_posts():
         if "/posts/" in record["source_markdown_url"]
     ]
 
-    assert len(related) >= len(posts) - 1
+    assert set(related) == set(posts)
     for slug in random.Random(42).sample(posts, 50):
         items = related[slug]
         assert 3 <= len(items) <= 5

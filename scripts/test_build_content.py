@@ -29,6 +29,19 @@ def build(tmp_path: Path) -> Path:
     return content
 
 
+def test_post_without_date_is_skipped_with_warning(tmp_path, capsys):
+    write(tmp_path / "posts/dated.md", "---\ntitle: Dated\ndate: 2026-09-27\n---\n")
+    write(tmp_path / "posts/undated.md", "---\ntitle: Undated\n---\n")
+
+    content = build(tmp_path)
+    captured = capsys.readouterr()
+
+    assert (content / "posts/dated.md").is_file()
+    assert not (content / "posts/undated.md").exists()
+    assert "warning: skipping post without a valid date: posts/undated.md" in captured.err
+    assert "posts\t1" in captured.out
+
+
 def test_day_archives_are_noindex_and_excluded_from_sitemap(tmp_path):
     content = tmp_path / "content"
     build_content.write_archives(content, [datetime(2026, 9, 26)])

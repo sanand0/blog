@@ -1,8 +1,78 @@
 # Prompts
 
-## Update sitemap #TODO, 31 Aug 2026
+## Calvin and Blog Redirection, 27 Sep 2026
 
-Do I need a sitemap? Do I HAVE a sitemap?
+<!-- Calvin Blog Redirection: https://chatgpt.com/c/6ab8a5ef-3718-83ec-976a-079dfcb748d9 (2026-09-27T14:38:05+08:00) -->
+
+My site* [https://www.s-anand.net/](https://www.s-anand.net/)
+is hosted on* [LocalMCP2](/plugins/plugin_asdk_app_6ab0b6c561508191882e58b23665db3e)
+at ~/code/blog/ and I'd like* [https://www.s-anand.net/calvinandhobbes.html](https://www.s-anand.net/calvinandhobbes.html)
+to redirect to* [https://www.s-anand.net/calvin/](https://www.s-anand.net/calvin/)
+
+What's the cleanest, minimal way of doing this? I'd rather not have to create a Cloudflare redirect for this and I'd like to continue ensuring no search engine indexing for either page.
+
+---
+
+I'm likely to add other HTML pages that will go directly under [https://www.s-anand.net/](https://www.s-anand.net/) - is there a clean mechanism for this that'll align with my current repo structure and thought process? Go through the repo to explore the different ways I've been adding non-blog content. I don't want a proliferation of mechanisms - I in fact want a consolidation of mechanisms, so this certainly shouldn't add a new one. Review and suggest.
+
+---
+
+OK, make these changes, update the README.md to SIMPLY (in my existing style) explain this, run just build etc. but don't commit or push. I'll take a look.
+
+---
+
+I ran a just build. Take a look at the output - carefully and comprehensively. Are there any clear errors or improvements we could fix? Prioritize and share.
+
+---
+
+Implement the following:
+
+#1 I'd like to skip posts without a date with a warning.
+Apply your fix for #2 and #3 and #4 and #5 (ensuring noindex pages are skipped) and #6 (upgrade)
+
+Would you recommend adding any test cases? No need to bloat unnecessarily. Add what's likely to be robust and future change proof.
+
+---
+
+Did this complete? If not, continue and complete.
+
+---
+
+I updated prompts.md and posts/2025/llm-psychology-podcast.md and perhaps other files. Commit all the changes.
+
+## Search Console Fixes, 26 Sep 2026
+
+<!-- Search Console Fixes: https://chatgpt.com/c/6ab7a84b-eac0-83ec-be86-f2a890480229 (2026-09-27T13:39:36+08:00) -->
+
+I get the following Google Search console errors on my site. Open the Google Search console on my browser - feel free to use LocalMCP2 and use agent-browser - CDP localhost:9222 without closing existing tabs - to explore. Most of these are published via ~/code/blog/ though the rest of ~/code/ has other repos that are likely on sanand0.github.io and other domains. Give me a list of what to fix, prioritized by importance and ease (basically, the quick wins first).
+
+<!--
+
+1. Fix HTTP -> HTTPS + apex -> www redirects
+2. Submit sitemap
+3. Stop feeding Google day-level archive pages
+4. Mark 5xx errors from old site as fixed
+5. Fix 404s that are current-site regressions
+
+-->
+
+---
+
+I have Cloudflare open in my browser - as well as the search console. Would you be able to implement #1 and #2 and #3 using agent-browser on CDP localhost:9222 on LocalMCP2
+
+---
+
+Implement #4. Research #5 and see what's needed to fix - and fix if required.
+
+---
+
+Is this done? If not, complete it. Then, take a look at the Agent Readiness tab I have open on Cloudflare. Which of the Quick Wins and Technical Groundwork would you recommend for my blog at s-anand.net? How about for tds.s-anand.net - which is more popular?
+
+---
+
+Implement: robots.txt, content signals (allowing everything for TDS and www.s-anand.net which is CC0 anyway).
+
+Commit the files you updated in the blog and TDS repos.
 
 ## Add talks pages, 19 Sep 2026
 
@@ -26,7 +96,6 @@ Update the files in ~/code/blog/ accordingly.
 ---
 
 Let's tweak a few things. For example, in ~/code/blog/posts/2026/how-to-build-ai-products-and-prove-they-work.md we might begin a bit more naturally, like:
-
 
 ```
 I delivered a talk at: [SUTD DAI Signature Master Class · Expert Industry Series](https://www.sutd.edu.sg/) - Singapore University of Technology and Design, Singapore.

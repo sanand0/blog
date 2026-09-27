@@ -6,6 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Title }} moved | {{ site.Title }}</title>
   <link rel="canonical" href="{{ .Params.redirect }}">
+  {{- if .Params.robotsNoIndex }}
+  <meta name="robots" content="noindex, nofollow">
+  {{- end }}
   {{- with .Params.sourcePath }}
   <link rel="alternate" type="text/markdown" href="{{ printf "%s/%s" (strings.TrimSuffix "/" site.Params.github.rawMarkdownBase) . }}">
   {{- end }}

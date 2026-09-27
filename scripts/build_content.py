@@ -253,22 +253,29 @@ def build(
     )
 
     post_dates: list[datetime] = []
+    post_count = 0
     post_files = sorted(path for path in posts_dir.rglob("*.md") if path.is_file())
     for path in post_files:
         rel_path = path.relative_to(posts_dir)
         slug = derive_slug(rel_path)
         doc = split_front_matter(path.read_text(encoding="utf-8"))
         source_path = (Path("posts") / rel_path).as_posix()
-        write_markdown(content_dir / "posts" / rel_path, doc, slug, source_path)
         date_value = doc.front_matter.get("date") or ""
+        dt = None
         if isinstance(date_value, datetime):
-            post_dates.append(date_value)
+            dt = date_value
         elif isinstance(date_value, date):
-            post_dates.append(datetime.combine(date_value, datetime.min.time()))
+            dt = datetime.combine(date_value, datetime.min.time())
         elif isinstance(date_value, str):
             dt = parse_date(date_value)
-            if dt:
-                post_dates.append(dt)
+        if dt is None:
+            typer.echo(
+                f"warning: skipping post without a valid date: {source_path}", err=True
+            )
+            continue
+        write_markdown(content_dir / "posts" / rel_path, doc, slug, source_path)
+        post_dates.append(dt)
+        post_count += 1
 
     page_files = sorted(path for path in pages_dir.rglob("*.md") if path.is_file())
     for path in page_files:
@@ -301,7 +308,7 @@ def build(
 
     write_archives(content_dir, post_dates)
 
-    typer.echo(f"posts\t{len(post_files)}")
+    typer.echo(f"posts\t{post_count}")
     typer.echo(f"pages\t{len(page_files)}")
     typer.echo(f"content\t{content_dir}")
 

@@ -9,6 +9,7 @@ Content:
 - `pages/`: Standalone pages as Markdown (`pages/slug.md`).
   - [Home page](pages/s-anand.md)
   - Pages can be nested: `pages/lists/slug.md`
+  - Add `root: /path/` to also publish a page directly under `https://www.s-anand.net/`
 - `posts/`: Blog posts as Markdown (`posts/yyyy/slug.md`).
 - `assets/`: Converted media files used by posts (WebP/OPUS). Served at `/blog/assets/`.
 
@@ -46,7 +47,7 @@ This runs:
 4. `pagefind` - builds the static search index
 5. Post-processing scripts for comments and feed normalization
 6. `scripts/export_corpus.py` and `scripts/build_agent_exports.py` - generate `corpus.jsonl`, `tags.json`, and `llms.txt`
-7. Copies special pages to `public/` root
+7. Promotes pages with `root:` to `public/` root
 
 [GitHub](.github/workflows/deploy.yml) automatically runs `setup.sh` on push to `main` and deploys `public/` to GitHub Pages.
 
@@ -197,10 +198,11 @@ uv run analysis/embeddings/embeddings.py --force           # re-embed all, ignor
 Required:
 
 - `title: ...` is used for the post/page title.
+- Posts need `date: ...` (ISO 8601). Undated posts are skipped with a warning.
 
 Optional but recommended:
 
-- `date: ...` (ISO 8601 format) is used for sorting posts and displaying the date on the post page.
+- Pages may use `date: ...` when the date is meaningful.
 - `description: ...` has [meta description](https://gohugo.io/methods/page/description/).
 - `tags: [x, y, ...]` uses canonical tags from `metadata-tags.yml`. Prefer one-line flow style.
 
@@ -210,9 +212,10 @@ Optional:
 
 - `classes: wrap-code` adds the `wrap-code` class to the post's main `<article>` element, which applies CSS to wrap long code blocks.
 - `build: { list: never, render: always }` ensures that posts/pages are not listed _anywhere_ blog index but are still rendered.
-- `robotsNoIndex: true` adds a `<meta name="robots" content="noindex">` tag to the page header to prevent indexing by search engines.
-- `aliases: ["old-path"]` adds redirects from old-path to the current page using [Hugo Aliases](https://gohugo.io/content-management/urls/#aliases).
-- For an external move, use `layout: redirect`, `redirect: https://...`, and `build: { list: never, render: always }`. This emits a canonical + JS/meta-refresh fallback and excludes the stub from agent exports; use an edge 301/308 in production when available.
+- `robotsNoIndex: true` prevents search engine indexing.
+- `root: /path/` also publishes the page at `https://www.s-anand.net/path/`. Use `root: /file.html` for a root HTML file.
+- `aliases: ["old-path"]` adds redirects within the Hugo `/blog/` site using [Hugo Aliases](https://gohugo.io/content-management/urls/#aliases).
+- For other redirects, use `layout: redirect`, `redirect: /target/`, and `build: { list: never, render: always }`. Add `robotsNoIndex: true` when the redirect should not be indexed.
 
 ## Media elements
 

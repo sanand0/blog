@@ -1,5 +1,6 @@
 ---
 title: Calvin & Hobbes Quote Search
+root: /calvin/
 build: { list: never, render: always }
 robotsNoIndex: true
 description: An interactive search tool for Calvin & Hobbes quotes.

@@ -1,6 +1,6 @@
-from pathlib import Path
 import json
-
+import re
+from pathlib import Path
 
 PUBLIC = Path("public/blog")
 
@@ -31,6 +31,28 @@ def test_single_page_has_tags_and_matching_permalink():
 
     assert 'class="post-meta-tags"' in html
     assert f'<a href="{canonical}">Permalink</a>' in html
+
+
+def test_date_links_only_target_post_publication_archives():
+    post = (PUBLIC / "english-movie-dialogues-quiz/index.html").read_text(encoding="utf-8")
+    published = re.search(r'<span class="post-meta-date">(.*?)</span>', post, re.DOTALL).group(1)
+    updated = re.search(r'<span class="post-meta-updated">(.*?)</span>', post, re.DOTALL).group(1)
+    page = (PUBLIC / "time/index.html").read_text(encoding="utf-8")
+    page_date = re.search(r'<span class="post-meta-date">(.*?)</span>', page, re.DOTALL).group(1)
+
+    assert 'href="/blog/2006/11/27/"' in published
+    assert "<a " not in updated
+    assert "<a " not in page_date
+
+
+def test_paginated_pages_have_self_canonical_metadata():
+    for path, expected in [
+        ("page/2/index.html", "/blog/page/2/"),
+        ("author/sanand/page/2/index.html", "/blog/author/sanand/page/2/"),
+    ]:
+        html = (PUBLIC / path).read_text(encoding="utf-8")
+        assert f'<link rel="canonical" href="{expected}">' in html
+        assert f'<meta property="og:url" content="{expected}">' in html
 
 
 def test_footer_links_render_without_javascript():

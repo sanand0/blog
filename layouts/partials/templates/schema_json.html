@@ -59,7 +59,7 @@
       "@type": "ListItem",
       "position": {{len $bc_list}},
       "name": {{ .Name | default (.Params.slug | humanize) }},
-      "item": {{ .Permalink | safeHTML }}
+      "item": {{ with .Params.root }}{{ . | safeHTML }}{{ else }}{{ .Permalink | safeHTML }}{{ end }}
     }
   ]
 }
@@ -118,7 +118,7 @@
   {{- end }}
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": {{ partial "rel_link.html" (dict "from" . "to" .RelPermalink) | safeHTML }}
+    "@id": {{ partial "page_link.html" . | safeHTML }}
   },
   "publisher": {
     "@type": "{{- ( site.Params.schema.publisherType | default "Organization") | title -}}",

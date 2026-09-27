@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/vscode/**)",
+      "Bash(rtk ls *)",
+      "Bash(xargs -0 ls -lt --time-style=+%Y-%m-%d)",
+      "Bash(awk '{print $6, $5, $7}')"
+    ]
+  }
+}

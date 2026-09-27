@@ -69,7 +69,7 @@ def source_posts(posts_dir: Path = Path("posts")) -> list[Post]:
         if not isinstance(data, dict) or data.get("draft") is True:
             continue
         published = parse_date(data.get("date"))
-        if published and published > date.today():
+        if published is None or published > date.today():
             continue
         slug = str(data.get("slug") or (path.parent.name if path.stem.lower() in {"index", "readme"} else path.stem))
         if slug in slug_paths:

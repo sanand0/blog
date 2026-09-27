@@ -1,5 +1,5 @@
 {{- $base_path := (urls.Parse site.BaseURL).Path | strings.TrimSuffix "/" -}}
-<meta property="og:url" content="{{ partial "rel_link.html" (dict "from" . "to" .RelPermalink) }}">
+<meta property="og:url" content="{{ partial "page_link.html" . }}">
 
 {{- with or site.Title site.Params.title | plainify }}
   <meta property="og:site_name" content="{{ . }}">

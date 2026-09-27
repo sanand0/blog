@@ -1,5 +1,6 @@
 ---
 title: S Anand
+root: /
 build: { list: never, render: always }
 wp_id: 2992
 description: LLM Psychologist at Straive, TDS faculty at IIT Madras, Gramener Co-founder. AI & Data Viz.

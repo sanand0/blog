@@ -24,7 +24,7 @@
 <meta name="description" content="{{ if $desc }}{{ $desc }}{{ else }}{{ site.Params.description }}{{ end }}">
 <meta name="author" content="{{ (partial "author.html" . ) }}">
 {{- if ne .Kind `404` }}
-<link rel="canonical" href="{{ partial "rel_link.html" (dict "from" . "to" .RelPermalink) }}">
+<link rel="canonical" href="{{ partial "page_link.html" . }}">
 {{- end }}
 {{- $rawMarkdownBase := site.Params.github.rawMarkdownBase | default "" -}}
 {{- $sourcePath := .Params.sourcePath | default "" -}}

@@ -1,0 +1,6 @@
+{{- $page := . -}}
+{{- $to := $page.RelPermalink -}}
+{{- with $page.Params.root -}}
+  {{- $to = . -}}
+{{- end -}}
+{{- partial "rel_link.html" (dict "from" $page "to" $to) -}}
