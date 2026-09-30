@@ -122,6 +122,10 @@ proposals:
     sources:
       posts/2026/ilaiyaraaja-mridangam-songs.md:
         content_hash: 989d65ba414fa32c8993c81f28164d6c43ae3517dc2700429658a127ab482750
+  music:
+    sources:
+      posts/2026/song-recommendations-from-metadata.md:
+        content_hash: b69ce241783df3f9c6b77886cfb8a18ca036f545cde9391428105d0633b6e936
   music-generation:
     sources:
       posts/2026/singing-a-vote-of-thanks.md:

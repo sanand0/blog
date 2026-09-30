@@ -3,6 +3,8 @@ title: Qwen 3.6 vs Gemma 4 vs Luna
 date: 2026-09-27T21:30:30+08:00
 categories:
 - llms
+description: I benchmarked Gemma 4 E4B and Qwen 3.6 against GPT-6 Luna on three coding tasks using an 8 GB GPU. GPT-6 won; Qwen was the better local choice.
+tags: [llms, model-comparison, benchmarking, ai-coding]
 ---
 
 Open weights models are nudging up the frontier.

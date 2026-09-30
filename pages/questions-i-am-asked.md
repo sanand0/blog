@@ -1,6 +1,7 @@
 ---
 title: Questions I am asked
 description: Questions people ask me, and my answers.
+tags: [agentic-workflows, enterprise-ai, llms]
 ---
 
 # Questions I am asked

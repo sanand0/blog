@@ -238,7 +238,7 @@ Output only:
 ## Compare models
 
 ```markdown
-Here's how another agent answer the same question.
+Here's how another agent answered the same question.
 Fact-check and critically evaluate yours and theirs - only the parts that'll change the outcome and where there's disagreement.
 For major disagreements, judge with fresh evidence, calculation, or testing where possible. If both stay defensible, keep the disagreement, don't average it away.
 Take what's better, drop what's worse, explore any new thoughts this leads you to, and rewrite your response based on that.
@@ -514,7 +514,7 @@ Write that CONTEXT note. Rules:
 7. Fix obvious phonetic errors when the meaning is clear, but never invent details, and avoid what's uncertain.
 8. Output ONLY the context note as a single paragraph. No headings, bullets, or explanations.
 
-Max: 100 words.
+Max: 150 words.
 ```
 
 ## Meeting transcript summary
