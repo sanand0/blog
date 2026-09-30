@@ -200,6 +200,10 @@ proposals:
     sources:
       posts/2026/things-i-learned-19-apr-2026.md:
         content_hash: ec545ec1c262245780be83b39a438cbc4a0dcc0369ac7936069412c503401061
+  yoga:
+    sources:
+      posts/2026/how-i-count-12-surya-namaskars.md:
+        content_hash: 58fb9dc0dda0e44d8862ff0cff2679d58736195587f42d47a49a9671c3093201
   z3:
     sources:
       posts/2026/proving-code-works-with-z3.md:

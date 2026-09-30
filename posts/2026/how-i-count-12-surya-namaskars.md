@@ -3,6 +3,8 @@ title: How I count 12 Surya Namaskars
 date: 2026-09-30T08:51:17+08:00
 categories:
 - funny
+description: I count 12 Surya Namaskars by marking fractions of the way through, from a quarter to “just one more.” Twelve’s many factors make the count oddly satisfying.
+tags: [humor]
 ---
 
 1. One
