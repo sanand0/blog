@@ -514,7 +514,7 @@ Write that CONTEXT note. Rules:
 7. Fix obvious phonetic errors when the meaning is clear, but never invent details, and avoid what's uncertain.
 8. Output ONLY the context note as a single paragraph. No headings, bullets, or explanations.
 
-Max: 150 words.
+Max: 250 words.
 ```
 
 ## Meeting transcript summary

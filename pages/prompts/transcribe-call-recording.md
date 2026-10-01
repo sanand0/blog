@@ -3,11 +3,11 @@ title: Transcribe call recording
 date: "2025-09-10T07:05:28Z"
 lastmod: "2025-12-14T12:55:14Z"
 classes: wrap-code
-description: I transcribe call recordings using Gemini Pro on Google AI Studio with a prompt that guesses speaker names, includes timestamps, translates non-English speech, and bolds key takeaways while cleaning up verbal tics.
+description: Transcribe call recordings guessing speaker names, including timestamps, translation, bolds key phrases, cleans up verbal tics.
 tags: [google-ai-studio, transcription, prompt-engineering, audio-analysis]
 ---
 
-Transcribe call recordings guessing speaker names using the latest Gemini Pro model on [Google AI Studio](https://aistudio.google.com/prompts/new_chat).
+
 Append all speakers, and who spoke when, for context.
 
 ```markdown
