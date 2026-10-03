@@ -54,6 +54,9 @@ Start with:
 - WhatsApp messages via `~/Documents/data/whatsapp`
 - Dated completed and open entries in `~/Dropbox/notes/@todo.md`
 - Overlapping `~/Dropbox/notes/about/week-*.md` files, using them as leads rather than trusting their ranking
+- AI Agent work on ChatGPT, Claude etc. via:
+  - Browser history `via ~/Documents/data/browsing-history.db` - and use `agent-browser` to review chat details where required
+  - Agent sessions via `~/code/scripts/agentlog.py` or directly at `~/.codex`, `~/.claude`, etc.
 - `~/code/talks/README.md`
 - `~/code/datastories/config.json`
 - `~/code/til/README.md`

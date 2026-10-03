@@ -644,7 +644,7 @@ Which of these would you suggest I implement and why?
 Implement and test.
 ```
 
-## Revision artifacts
+## Revision artifacts first-time viewer no history
 
 <!-- https://chatgpt.com/c/6a5ef5e3-f384-83ee-b2a3-99dc74efaa8f + https://claude.ai/chat/d7f7230b-8fbf-4d48-bde8-164566b82c7a -->
 
