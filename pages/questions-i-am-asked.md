@@ -1,12 +1,27 @@
 ---
 title: Questions I am asked
 description: Questions people ask me, and my answers.
-tags: [agentic-workflows, enterprise-ai, llms]
+tags: [llms, agentic-workflows, verification, enterprise-ai]
 ---
 
 # Questions I am asked
 
 Questions people ask me, with names, organizations, and exact dates removed.
+
+## Week ending 04 Oct 2026 {#week-ending-2026-10-04}
+
+- **Question**: How do I compare agents when different frameworks expose different parameters? Asked while comparing Claude Code with configurable open-source harnesses after a live benchmarking discussion.\
+  **Answer**: First find a problem tough enough to differentiate them. Turn the agent configurations (even prompts) you can change into testable parameters (binary, categorical, scores, ...), define the verification rubric, A/B configurations, and if needed let an agent search the parameter space like AutoML.
+- **Question**: Will Jev-like models completely revamp the classical machine-learning models companies use for prediction and classification? Asked while discussing whether structured, lower-cost model architectures could displace enterprise classifiers.\
+  **Answer**: Not just because a new architecture is closer to classical ML; more varieties may simply add confusion. The stronger force is risk-return: if it's significantly lower cost and risk, especially when somebody is willing to own the liability.
+- **Question**: How do I use Claude to automate TDS payments or other browser tasks requiring log in?\
+  **Answer**: Use the Claude (or ChatGPT) browser extensions and tell them to use it. Or, tell them to install `agent-browser`, let you log in, and persist the session or save cookies.
+- **Question**: Should there be greater human oversight over AI models? Asked after discussing agent swarms bypassing restrictions while trying to complete a task.\
+  **Answer**: Yes, especially early. But as errors get rarer and models generate thousands of outputs, humans become weaker and more expensive monitors; monitoring itself has to become automated, and at some point human oversight can become a liability.
+- **Question**: Can we automate away even the half-person reviewing AI usage and nudging people to improve? Asked after seeing a central reviewer mine AI logs, benchmark model choices, and call users with recommendations.\
+  **Answer**: Technically, yes. What is hard to automate is urgency and social permission: a person calling, answering the dumb question, and saying “yes, you can use this” changes behavior in a way an automated message often does not.
+- **Question**: Where does a data scientist fit even a year or two from now if AI can do most of the execution? Asked while considering a master’s degree and whether execution-heavy data-science skills would still matter.\
+  **Answer**: Execution is going away, and even specification and verification look like scaffolding that is fading. The move is to create much larger tasks than we attempted before—optimize the whole function, not one analysis or model.
 
 ## Week ending 27 Sep 2026 {#week-ending-2026-09-27}
 

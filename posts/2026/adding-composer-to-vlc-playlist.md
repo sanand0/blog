@@ -4,6 +4,8 @@ date: 2026-10-03T16:37:14+08:00
 categories:
 - coding
 - llms
+description: I used ChatGPT to add a Composer column to VLC 3.0.24's playlist, so I can sort and filter my collection of about 1,200 Tamil, Hindi, and Telugu songs.
+tags: [ai-coding, chatgpt]
 ---
 
 [VLC 3.0](https://images.videolan.org/vlc/releases/3.0.24.html), there's a Playlist view that can show the title, album, etc.

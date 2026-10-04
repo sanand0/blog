@@ -5,6 +5,27 @@ tags: [fact-checks, corrections]
 ---
 
 
+## Week ending 04 Oct 2026 {#week-ending-2026-10-04}
+
+- I said **"Until 2015, Python sorting had a midpoint integer-overflow bug ... Z3 identified it"** while explaining why formal verification matters.\
+  **Correction**: I conflated two different stories: the `(low + high) / 2` overflow was the Java `Arrays.binarySearch` bug publicized in 2006; Python integers have unlimited precision. The 2015 story was a different TimSort invariant/stack bug found through formal verification with KeY; related faulty logic existed in Python's TimSort implementation, but was not practically triggerable there because no machine could hold a large enough list. [Google Research](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/?hl=bn\)\
+  **HIGH · FALSE**
+- I said **"PageIndex's cost was half of giving the entire data dump"** while describing our FinanceBench benchmark.\
+  **Correction**: In the 30-question pilot, PageIndex was about the same cost as whole-file input overall: averaging the five reported settings gives about $0.047 vs $0.050 per question; the roughly-half-cost result held only for `gpt-6-luna@none`. Agentic search averaged about $0.011, roughly 4.4× cheaper than PageIndex, with similar accuracy. [benchmark README](https://github.com/Jivraj-18/benchmark-finance-pageindex)\
+  **MEDIUM · OVERSTATED**
+- I said **"Z3 can check if your Python code meets conditions ... that error will absolutely not occur"** while explaining formal verification.\
+  **Correction**: Z3 is an SMT solver/theorem prover, not a Python verifier or a programming language. Z3Py lets programs encode logical constraints; verification systems can use Z3 to prove a specified property under a formal model and assumptions, but that does not certify arbitrary Python code against all runtime errors, and Z3 can return `unknown`. [Microsoft](https://www.microsoft.com/en-us/research/?p=825739)\
+  **MEDIUM · OVERSTATED**
+- I said **"RoBERTa ... borderline deep learning"** while discussing alternatives for fast classification.\
+  **Correction**: RoBERTa is unequivocally a deep-learning model: it is an optimized BERT-style Transformer, and BERT is explicitly a deep bidirectional Transformer architecture. Whether inference is deterministic is a separate property. [Meta AI](https://ai.meta.com/blog/roberta-an-optimized-method-for-pretraining-self-supervised-nlp-systems/)\
+  **LOW · FALSE**
+- I said **"Open weights is where a model is made available for free"** while explaining model tiers.\
+  **Correction**: “Open weights” means the trained model weights/parameters are made available under some license; it does not by itself mean unrestricted use, open-source AI, or zero-cost inference. Free download is common but is not the definition. [Open Source Initiative](https://opensource.org/ai/open-weights)\
+  **MEDIUM · OVERSTATED**
+- I said **"Microsoft Copilot does not natively use skills"** while planning a Copilot workshop.\
+  **Correction**: Microsoft 365 Copilot Agent Builder now natively supports `SKILL.md`-based custom skills for declarative agents, though the feature is still preview-only and requires the organization's tenant to be enrolled in Microsoft's Frontier Program; availability therefore needs to be checked per tenant. [Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/agent-builder-add-skills)\
+  **MEDIUM · FALSE**
+
 ## Week ending 27 Sep 2026 {#week-ending-2026-09-27}
 
 - I said **"I know what factors are important and therefore I can start making changes"** while using a predictive decision tree on student grades to identify interventions.\
@@ -92,10 +113,10 @@ tags: [fact-checks, corrections]
 ## Week ending 23 Aug 2026 {#week-ending-2026-08-23}
 
 - I said **Claude Code auto mode made the risk of unintended actions "negligible," and later said "as of this month, it won't make a mistake" with a "90% chance" it would preserve undoability.**\
-  **Correction**: I was far too confident and invented a probability I could not support. Agent safeguards are probabilistic. Anthropic's own auto-mode evaluation reported a 17% false-negative rate on real "overeager" dangerous actions. For destructive local operations I should still use backups/version control, limit permissions and retain review where the blast radius matters. Evidence: [Anthropic — How we built Claude Code auto mode](https://www.anthropic.com/engineering/claude-code-auto-mode?_bhlid=bb5b0c065a6a8790a89389462f16ab1ea5010c5e&utm_source=chatgpt.com)\
+  **Correction**: I was far too confident and invented a probability I could not support. Agent safeguards are probabilistic. Anthropic's own auto-mode evaluation reported a 17% false-negative rate on real "overeager" dangerous actions. For destructive local operations I should still use backups/version control, limit permissions and retain review where the blast radius matters. Evidence: [Anthropic — How we built Claude Code auto mode](https://www.anthropic.com/engineering/claude-code-auto-mode?_bhlid=bb5b0c065a6a8790a89389462f16ab1ea5010c5e)\
   **HIGH · OVERSTATED**
 - I said **"there is no difference between Codex and ChatGPT Work" and that Work is essentially Code with a lighter, more marketable name.**\
-  **Correction**: Work uses Codex technology, so the overlap is real, but they are distinct experiences. Work is aimed at longer multi-step research, analysis and deliverables; Codex remains specialized for software development and has separate workflows/history. Evidence: [OpenAI — Introducing ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/?_bhlid=b229619b8c31d33de07faa7f27a4a4f2202c57cd&utm_source=chatgpt.com) [OpenAI — ChatGPT Work and Codex](https://help.openai.com/en/articles/20001275/)\
+  **Correction**: Work uses Codex technology, so the overlap is real, but they are distinct experiences. Work is aimed at longer multi-step research, analysis and deliverables; Codex remains specialized for software development and has separate workflows/history. Evidence: [OpenAI — Introducing ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/?_bhlid=b229619b8c31d33de07faa7f27a4a4f2202c57cd) [OpenAI — ChatGPT Work and Codex](https://help.openai.com/en/articles/20001275/)\
   **MEDIUM · OVERSTATED**
 - I said **"1960s is when Studio Ghibli starts trying to catch up" with Disney.**\
   **Correction**: Studio Ghibli was established in 1985. Evidence: [Studio Ghibli — company history](https://www.ghibli.jp/profile/)\

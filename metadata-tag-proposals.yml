@@ -192,6 +192,10 @@ proposals:
         content_hash: 32862c74edc7c9968455f3493695e33be907ca014be83ef949116a484c8e7eef
       posts/2026/watching-videos-with-a-plastic-cover.md:
         content_hash: cfe16e95e63c3c71133d7cb19989e0c9e6a886e2c2f9ef1f041acda6a52ca698
+  vlc:
+    sources:
+      posts/2026/adding-composer-to-vlc-playlist.md:
+        content_hash: a4248bff9940e9e1b48cc991971da88f2283d9d9958ead69ff8af35d246c32f1
   weather:
     sources:
       posts/2026/rainy-seasons-on-schedule.md:

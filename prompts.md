@@ -1,5 +1,17 @@
 # Prompts
 
+## Fix mistakes.py, 04 Oct 2026
+
+<!--
+cd ~/code/blog
+dev.sh -p ~/Dropbox/notes -- codex --yolo --model gpt-6.1-sol --config model_reasoning_effort=medium
+-->
+
+Why is `just mistakes` failing? Is it a problem with the code or the ~/Dropbox/notes/mistakes-i-made.md file?
+Fix whichever has the error.
+
+<!-- codex resume 01a1051b-43ae-7cd0-becd-6ec907b92f27 --yolo -->
+
 ## Calvin and Blog Redirection, 27 Sep 2026
 
 <!-- Calvin Blog Redirection: https://chatgpt.com/c/6ab8a5ef-3718-83ec-976a-079dfcb748d9 (2026-09-27T14:38:05+08:00) -->
