@@ -112,14 +112,25 @@ def build_related_posts(
         similarity = (vectors @ vectors.T).toarray()
         np.fill_diagonal(similarity, -np.inf)
 
-        tag_counts = {tag: sum(tag in post.tags for post in posts) for post in posts for tag in post.tags}
-        tag_idf = {tag: math.log((1 + len(posts)) / (1 + count)) + 1 for tag, count in tag_counts.items()}
+        # Only posts sharing a tag can have a nonzero weighted Jaccard score.
+        # Index those neighbors once rather than testing every pair of posts.
+        tag_posts: dict[str, set[int]] = {}
+        for index, post in enumerate(posts):
+            for tag in post.tags:
+                tag_posts.setdefault(tag, set()).add(index)
+        tag_idf = {
+            tag: math.log((1 + len(posts)) / (1 + len(indices))) + 1
+            for tag, indices in tag_posts.items()
+        }
         related = {}
         for source_index, source in enumerate(posts):
             scores = similarity[source_index].copy()
-            for target_index, target in enumerate(posts):
-                if source_index != target_index:
-                    scores[target_index] += 0.03 * weighted_tag_jaccard(source.tags, target.tags, tag_idf)
+            tag_neighbors = set().union(*(tag_posts[tag] for tag in source.tags)) if source.tags else set()
+            tag_neighbors.discard(source_index)
+            for target_index in tag_neighbors:
+                scores[target_index] += 0.03 * weighted_tag_jaccard(
+                    source.tags, posts[target_index].tags, tag_idf
+                )
             order = sorted(range(len(posts)), key=lambda index: (-scores[index], posts[index].slug))
             related[source.slug] = [posts[index].slug for index in order[: min(top_k, len(posts) - 1)]]
 

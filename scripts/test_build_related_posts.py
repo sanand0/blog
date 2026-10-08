@@ -86,3 +86,43 @@ def test_slug_collision_fails(tmp_path):
 
     with pytest.raises(ValueError, match="Slug collision.*duplicate"):
         build(tmp_path)
+
+
+def test_sparse_tag_ranking_matches_exhaustive_scoring(tmp_path):
+    """Keep the original all-pairs ranking as a small-corpus parity oracle."""
+    from random import Random
+
+    rng = Random(1234)
+    available_tags = ["ai", "python", "india", "rare", "common", "math"]
+    for index in range(30):
+        write_post(
+            tmp_path / f"posts/2026/post-{index:02}.md",
+            f"Topic {index % 4}",
+            description=f"Summary {index % 3}",
+            body=f"Words for topic {index % 7}",
+            tags=rng.sample(available_tags, rng.randrange(4)),
+        )
+
+    posts = build_related_posts.source_posts(tmp_path / "posts")
+    documents = [" ".join([post.title] * 3 + [post.description] * 2 + [post.body]) for post in posts]
+    vectors = build_related_posts.TfidfVectorizer(strip_accents="unicode").fit_transform(documents)
+    similarity = (vectors @ vectors.T).toarray()
+    build_related_posts.np.fill_diagonal(similarity, -build_related_posts.np.inf)
+    tag_counts = {tag: sum(tag in post.tags for post in posts) for post in posts for tag in post.tags}
+    tag_idf = {
+        tag: build_related_posts.math.log((1 + len(posts)) / (1 + count)) + 1
+        for tag, count in tag_counts.items()
+    }
+    expected = {}
+    for source_index, source in enumerate(posts):
+        scores = similarity[source_index].copy()
+        for target_index, target in enumerate(posts):
+            if source_index != target_index:
+                scores[target_index] += 0.03 * build_related_posts.weighted_tag_jaccard(
+                    source.tags, target.tags, tag_idf
+                )
+        order = sorted(range(len(posts)), key=lambda index: (-scores[index], posts[index].slug))
+        expected[source.slug] = [posts[index].slug for index in order[:8]]
+
+    actual, _ = build(tmp_path, top_k=8)
+    assert actual == expected
