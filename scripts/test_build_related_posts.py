@@ -88,6 +88,32 @@ def test_slug_collision_fails(tmp_path):
         build(tmp_path)
 
 
+def test_python_and_c_safe_yaml_loaders_match(tmp_path, monkeypatch):
+    """Both safe YAML parsers must generate identical posts and recommendations."""
+    if not hasattr(build_related_posts.yaml, "CSafeLoader"):
+        pytest.skip("PyYAML was built without LibYAML")
+
+    for index in range(8):
+        write_post(
+            tmp_path / f"posts/2026/post-{index}.md",
+            f"Topic {index % 3}",
+            description=f"Example {index % 2}",
+            body=f"A post about topic {index % 3}",
+            tags=["shared", "odd" if index % 2 else "even"],
+        )
+
+    monkeypatch.setattr(build_related_posts, "YAML_LOADER", build_related_posts.yaml.SafeLoader)
+    python_posts = build_related_posts.source_posts(tmp_path / "posts")
+    python_related, output = build(tmp_path)
+    python_bytes = output.read_bytes()
+
+    monkeypatch.setattr(build_related_posts, "YAML_LOADER", build_related_posts.yaml.CSafeLoader)
+    assert build_related_posts.source_posts(tmp_path / "posts") == python_posts
+    c_related, output = build(tmp_path)
+    assert c_related == python_related
+    assert output.read_bytes() == python_bytes
+
+
 def test_sparse_tag_ranking_matches_exhaustive_scoring(tmp_path):
     """Keep the original all-pairs ranking as a small-corpus parity oracle."""
     from random import Random

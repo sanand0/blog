@@ -25,6 +25,7 @@ app = typer.Typer(add_completion=False)
 FRONTMATTER_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n", re.DOTALL)
 MARKDOWN_LINK_RE = re.compile(r"!?\[([^]]*)\]\([^)]*\)")
 MARKUP_RE = re.compile(r"<[^>]+>|[`*_>#~|{}\[\]]")
+YAML_LOADER = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
 
 
 @dataclass(frozen=True)
@@ -65,7 +66,7 @@ def source_posts(posts_dir: Path = Path("posts")) -> list[Post]:
         match = FRONTMATTER_RE.match(text)
         if not match:
             continue
-        data = yaml.safe_load(match.group(1)) or {}
+        data = yaml.load(match.group(1), Loader=YAML_LOADER) or {}
         if not isinstance(data, dict) or data.get("draft") is True:
             continue
         published = parse_date(data.get("date"))
