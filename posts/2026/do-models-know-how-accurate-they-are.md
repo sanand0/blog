@@ -9,7 +9,9 @@ tags: [llm-evaluation, prompt-engineering, probability]
 
 A colleague was using an agent to classify paragraphs as titles, sections, figure captions, etc. He also asked it "How confident are you of your answer?". Interestingly, the confidence was consistently high, typically ~95%. That got me curious. (Actually, no that didn't get me curious - I saw [Germayne](https://www.linkedin.com/in/germayneng/) and [Joshua](https://www.linkedin.com/in/joshua-choo-0940b912a/) from Gojek doing this in a fantastic [session at Lorong AI](https://luma.com/1u8b2cml?tk=IRlVtR), but this is _my_ story and I'll tell it _my_ way.):
 
-> How well does AI know its own abilities? Does it really assess confidence well?
+### How well does AI know its own abilities?
+
+Is its confidence in its own results accurate?
 
 If we can get good confidence scores, it's a _big_ deal. We can pull out the bad responses and just review those.
 
