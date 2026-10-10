@@ -259,7 +259,8 @@ Draw this as a full-color explainer comic page (portrait) - sequential explanati
 Style: expressive characters, comic-style ALL CAPS, vibrant modern colors, clear visual hierarchy.
 Prefer pictures over words. Use recurring visual metaphors so the reader understands the idea even while skimming.
 
-First, write a memorable storyline that captures the most important points to convey - as a single cohesive story.
+Research relevant content as required.
+Then, write a memorable storyline that captures the most important points to convey - as a single cohesive story.
 Just reading the storyline should communicate the entire message unambiguously.
 Critique the storyline: what is confusing, doesn't flow, or has low impact? Revise. Repeat until the storyline is GOOD!
 

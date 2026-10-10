@@ -32,6 +32,10 @@ proposals:
     sources:
       posts/2026/analaizing-cloud-costs.md:
         content_hash: c6e1473e8618fd7f624976014adb92a66a20986da46bb2d0fa26938b4ef26e19
+  confidence-calibration:
+    sources:
+      posts/2026/do-models-know-how-accurate-they-are.md:
+        content_hash: 3294c51c0521a3420bf4216dfafe654aac95cfccebfd57ae32705bdc935f4df3
   dance:
     sources:
       posts/2026/dancing-with-eyes-closed.md:
