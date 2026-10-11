@@ -4,6 +4,8 @@ date: 2026-10-11T17:44:38+08:00
 categories:
 - llms
 - funny
+description: Claude recreates Calvin and Hobbes's Scrabble game, descending from standard play into Calvinball to score "ZQFMGB" exactly 957 points. It also repeats "honest" twenty-four times.
+tags: [calvin-and-hobbes, claude, humor]
 ---
 
 On 28 Feb 1990, Calvin and Hobbes played Scrabble.
@@ -12,7 +14,7 @@ On 28 Feb 1990, Calvin and Hobbes played Scrabble.
 
 **Calvin**: Ha! I've got a great word and it's on a "double word score" box!\
 **Hobbes**: "ZQFMGB" isn't a word! It doesn't even have a vowel!\
-**Calvin**: It is SO a word! It's worm found in new guinea! Everyone knows that!\
+**Calvin**: It is SO a word! It's worm found in New Guinea! Everyone knows that!\
 **Hobbes**: I'm looking it up.\
 **Calvin**: You do, and I'll look up that 12-letter word YOU played with all the Xs and Js!\
 **Hobbes**: What's your score for ZQFMGB?\

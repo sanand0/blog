@@ -174,6 +174,10 @@ proposals:
     sources:
       posts/2026/rofi-vs-kanata.md:
         content_hash: fc32a877ddaa3ca53614517ed0d27bee3297422748f0e590b1761fd843a71de6
+  scrabble:
+    sources:
+      posts/2026/calvin-957-in-scrabble.md:
+        content_hash: f5e94ff61b42c08bd7a51691f310f562b492829a1bee7b1eb88d1b9a5bf5c282
   startup-postmortems:
     sources:
       posts/2026/learnings-from-building-babbage-insight.md:
