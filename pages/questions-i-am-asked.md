@@ -1,12 +1,37 @@
 ---
 title: Questions I am asked
 description: Questions people ask me, and my answers.
-tags: [llms, agentic-workflows, verification, enterprise-ai]
+tags: [ai-agents, ai-workflows, llms, prompt-engineering]
 ---
 
 # Questions I am asked
 
 Questions people ask me, with names, organizations, and exact dates removed.
+
+## Week ending 11 Oct 2026 {#week-ending-2026-10-11}
+
+- **Question**: Is the age of custom software for individual needs here? Asked after seeing my personal music player with customized recommendations, tags, and keyboard shortcuts.\
+  **Answer**: Yes, but the notion of software has expanded. Small personal optimizations are now tools I build on the fly, not software projects.
+- **Question**: Which parts of the employee lifecycle are Indian companies using AI agents for? Asked for an article on agentic AI in hiring, employee management, and workplace decisions.\
+  **Answer**: Sourcing, screening, interview preparation, scheduling, onboarding, training, and internal matching are practical opportunities. I've seen AI rank candidates differently and even invent names. I'd use it to prepare evidence for a hiring decision, not silently reject someone without checking that evidence.
+- **Question**: Are Indian companies experimenting with AI managers, and what decisions should they delegate? Asked for a story about AI taking over hiring, firing, and management responsibilities.\
+  **Answer**: Yes, but algorithmic management has existed for years. I'd delegate work plans, task matching, routine follow-ups, checking well-specified deliverables, and preparing performance-review evidence. I'd be much more cautious about ratings, promotions, or firing. If an employee disputes a decision, a human must be able to explain, check, and reverse it.
+- **Question**: Has AI changed the definition of seniority, from knowing how to solve problems to knowing which problems are worth solving? Asked during campus onboarding after observing juniors using AI to outperform experienced engineers.\
+  **Answer**: What I value now is getting things done fast and knowing what needs to be done. Domain judgment, intuition, storytelling, relationships, and access to people are valuable even if you cannot use AI yourself. I'm not sure these correlate with seniority anymore.
+- **Question**: Should we shift from preventing agent failures to building systems that recover from failures we couldn't anticipate? Asked after contrasting unpredictable AI mistakes with deterministic software bugs.\
+  **Answer**: Think of agents less as software and more as fallible people. We've spent centuries getting reliable outcomes from unreliable humans: maker-checker systems, double-entry bookkeeping, audits, opposing arguments, and checklists. Human governance may be a better starting point than deterministic software engineering.
+- **Question**: If agents can pass skill assessments, what exactly should we test in humans? Is the human-agent pair the new unit of productivity? Asked after reading my experiments with agents completing proctored recruitment assessments.\
+  **Answer**: Take agents for granted, just as we take Excel and Google for granted. Don't ask someone to write Fibonacci code; ask them to build a music player. Test whether they can specify what matters, build something bigger and useful, verify it across devices, and deploy it.
+- **Question**: What do you mean when you say benchmark creation is now one-shottable? Asked after seeing an agent update a banking classification benchmark with newly available models.\
+  **Answer**: Creating a benchmark used to mean finding questions, writing correct answers, and coding an evaluator. Now I can ask an agent to find an existing benchmark or create one, verify the answers, execute it, and show the results as a picture. These benchmarks are assets that accumulate and yield repeated dividends.
+- **Question**: How can I trust the correctness of AI-generated visualizations and interpretations? Asked after seeing LLMs both create charts and draw conclusions from them.\
+  **Answer**: Don't trust the model's own tests. I had Codex build a CAD model that passed all its tests but was visibly missing an entire section. Use independent benchmarks and detailed correctness criteria—dimensions, volumes, shapes, or other measurable properties—to catch mistakes neither the model nor I may notice.
+- **Question**: Do we need to know the entire problem definition before starting a visualization? Asked while discussing how to choose visualizations from many kinds of available data.\
+  **Answer**: No. In practice, many dashboards are created by people who don't know what question they're answering, which is part of why they're often poor. Ideally, know what you want or work closely with someone who does. To discover what works, taste lots of visualizations and create a few—like learning to cook.
+- **Question**: Do we need frontier LLMs, or can we use small language models with fewer than ten billion parameters? Asked during an AI-assisted data transformation demonstration and discussion of running models on AWS.\
+  **Answer**: Use frontier models by default. They're good and increasingly cheap. Use smaller models when you're processing massive volumes and the cost difference really matters, or when security or data-residency rules prevent using hosted frontier models. Benchmark the trade-off for the actual task.
+- **Question**: I've solved the assignment with LLMs after many failed attempts, but I can't explain what I learned. Am I actually learning? Asked during TDS orientation after repeatedly attempting difficult agent-assisted questions.\
+  **Answer**: Yes. You couldn't do it before, and now you can. Maybe you've learned how to orchestrate agents, find help, recover from failures, or compose tools. You may not know how to name the skill yet, but the repeated attempts and eventual success are evidence that you've learned something useful.
 
 ## Week ending 04 Oct 2026 {#week-ending-2026-10-04}
 

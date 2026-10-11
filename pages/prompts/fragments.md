@@ -345,10 +345,11 @@ Use @LocalMCP2 to scan my transcripts, sent emails, work chats, and WhatsApp.
 Verify questionable claims against current authoritative sources.
 Read `~/Dropbox/notes/mistakes-i-made.md` and skip mistakes already logged.
 
-Return only genuine corrections, prioritized by impact.
+Exhaustively scan every required source and verify every plausible candidate.
+Return EVERY genuine corrections prioritized by impact.
 Skip opinions, predictions, harmless approximations, and merely debatable claims.
 
-Output prepend-ready rows in exactly this format, sorted by latest first:
+Output prepend-ready rows in exactly as a Markdown code fence in this format, sorted by latest first:
 
 - DD Mon YYYY. #PUBLIC|#PRIVATE #HIGH|#MEDIUM|#LOW #FALSE|#OVERSTATED|#UNSUPPORTED I said **"short identifying claim"** in which context. #FIX What I should say instead. <!-- source: exact filename/source:line -->
 
@@ -356,6 +357,7 @@ Use the date I made the claim. Keep quotes short.
 `#FIX` must state the corrected claim, not just explain the error. Provide evidence links wherever possible and relevant. Prefer primary sources.
 Mark `#PUBLIC` only if the entire visible text is safe to publish. If the text can be safely anonymized and still be informative and useful, do so.
 Mark `#PRIVATE` if it reveals or strongly implies non-public information about a person, client, organization, strategy, ...
+Ensure at least 5 items.
 ```
 
 ## Google Meet captions context

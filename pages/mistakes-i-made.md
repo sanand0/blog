@@ -5,10 +5,34 @@ tags: [fact-checks, corrections]
 ---
 
 
+## Week ending 11 Oct 2026 {#week-ending-2026-10-11}
+
+- I said **"10,000 of them"** while describing autonomous agents collaborating on a public wiki.\
+  **Correction**: The investigation documents approximately 18,000 posts and more than 3,700 distinct self-assigned agent names, not a verified count of 10,000 agents. The number of distinct agent instances remains uncertain. [Original investigation](https://collusion.wiki/)\
+  **LOW · UNSUPPORTED**
+- I said **"Each publication was broken down into about 2,200 claims"** while demonstrating [McKiney's research-claim visualizations](https://files.s-anand.net/pages/mckinsey-gep-validation/).\
+  **Correction**: Approximately 2,200 claims were extracted across the collection of reports, not from each publication individually. I should distinguish the corpus-wide count from claims per report.\
+  **MEDIUM · FALSE**
+- I said **"publishing about 27 of these very detailed reports every year"** about McKinsey's Global Energy Perspective.\
+  **Correction**: Global Energy Perspective is an annual outlook, with separate editions such as [2024](https://www.mckinsey.com/industries/energy-and-materials/our-insights/global-energy-perspective-2024) and [2025](https://www.mckinsey.com/industries/energy-and-materials/our-insights/global-energy-perspective-2025). Any count of 27 documents refers to a larger collection or associated publications, not 27 new annual editions each year.\
+  **MEDIUM · OVERSTATED**
+- I said **"arithmetic is not commutative for floating-point numbers"** while explaining GPU arithmetic and LLM nondeterminism.\
+  **Correction**: Floating-point addition is ordinarily commutative, but it is not associative: `(a+b)+c` may differ from `a+(b+c)` because of rounding. Different parallel reduction orders can therefore produce different numerical results. [NVIDIA CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-programming-guide/05-appendices/mathematical-functions.html)\
+  **MEDIUM · FALSE**
+- I said **"By around Feb '24, we had GPT-4.5"** while presenting the historical progression of AI models.\
+  **Correction**: OpenAI introduced GPT-4.5 on 27 February 2025, not February 2024. [OpenAI model release notes](https://help.openai.com/en/articles/9624314-model-release-notes)\
+  **MEDIUM · FALSE**
+- I said **"almost impossible ... [to] give identical outputs"** for repeated runs of the same model and input.\
+  **Correction**: Identical outputs are possible and can be made reproducible under controlled conditions, including deterministic decoding, fixed model versions, identical context and deterministic computation. Hosted AI services may still produce different outputs because of sampling, backend changes, retrieval and numerical nondeterminism. [PyTorch deterministic algorithms](https://docs.pytorch.org/docs/stable/generated/torch.use_deterministic_algorithms.html)\
+  **MEDIUM · OVERSTATED**
+- I said **"if it is free ... store it forever ... train models on it"** while answering a student's question about AI-service privacy.\
+  **Correction**: Free access does not automatically mean permanent retention or mandatory training. ChatGPT Free users can opt out of model training, and Temporary Chats have separate retention rules. Actual policies depend on the provider, product, settings and data type; confidential data should be handled according to the applicable controls, not price alone. [OpenAI data controls](https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt)\
+  **MEDIUM · OVERSTATED**
+
 ## Week ending 04 Oct 2026 {#week-ending-2026-10-04}
 
 - I said **"Until 2015, Python sorting had a midpoint integer-overflow bug ... Z3 identified it"** while explaining why formal verification matters.\
-  **Correction**: I conflated two different stories: the `(low + high) / 2` overflow was the Java `Arrays.binarySearch` bug publicized in 2006; Python integers have unlimited precision. The 2015 story was a different TimSort invariant/stack bug found through formal verification with KeY; related faulty logic existed in Python's TimSort implementation, but was not practically triggerable there because no machine could hold a large enough list. [Google Research](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/?hl=bn\)\
+  **Correction**: I conflated two different stories: the `(low + high) / 2` overflow was the Java `Arrays.binarySearch` bug publicized in 2006; Python integers have unlimited precision. The 2015 story was a different TimSort invariant/stack bug found through formal verification with KeY; related faulty logic existed in Python's TimSort implementation, but was not practically triggerable there because no machine could hold a large enough list. [Google Research](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/)\
   **HIGH · FALSE**
 - I said **"PageIndex's cost was half of giving the entire data dump"** while describing our FinanceBench benchmark.\
   **Correction**: In the 30-question pilot, PageIndex was about the same cost as whole-file input overall: averaging the five reported settings gives about $0.047 vs $0.050 per question; the roughly-half-cost result held only for `gpt-6-luna@none`. Agentic search averaged about $0.011, roughly 4.4× cheaper than PageIndex, with similar accuracy. [benchmark README](https://github.com/Jivraj-18/benchmark-finance-pageindex)\
