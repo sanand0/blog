@@ -38,14 +38,11 @@ In steps 14-16, we’ll configure the browser to use the Putty as the SOCKS serv
    [![](/blog/assets/ec2launch.webp)](/blog/assets/ec2launch.webp)
 6. Continue until you get to **Advanced Instance Options**. Here, copy and paste the following under **User Data**. **Do not make a mistake here!**
    ```bash
+   #!/bin/bash
+   mv /etc/ssh/sshd_config /etc/ssh/x
+   sed "s/^#\?Port.*/Port 443/" /etc/ssh/x > /etc/ssh/sshd_config
+   /etc/init.d/ssh restart
    ```
-
-#!/bin/bash
-mv /etc/ssh/sshd_config /etc/ssh/x
-sed "s/^#\?Port.*/Port 443/" /etc/ssh/x > /etc/ssh/sshd_config
-/etc/init.d/ssh restart
-
-```
    [![](/blog/assets/ec2userdata.webp)](/blog/assets/ec2userdata.webp)
 7. Keep pressing **Continue** and **Launch** the instance. Once launched, click on “Instances” on the left, and keep refreshing the page until the status turns green (running). Now, copy the **Public DNS** of the instance.
    [![](/blog/assets/ec2instancerunning.webp)](/blog/assets/ec2instancerunning.webp)
@@ -68,17 +65,21 @@ sed "s/^#\?Port.*/Port 443/" /etc/ssh/x > /etc/ssh/sshd_config
 
 That’s it. You should now be able to check [most blocked sites](http://www.moon-blog.com/2009/02/top-ten-most-blocked-websites.html) like [Facebook](http://www.facebook.com/) and [YouTube](http://www.youtube.com/).
 Those who favour the command line may want to automate Steps 1-7 by downloading Amazon’s [EC2 API tools](http://developer.amazonwebservices.com/connect/entry.jspa?externalID=351). [EC2 API tools work from behind a proxy too](http://developer.amazonwebservices.com/connect/message.jspa?messageID=52178). The commands you’ll need to use to setup are:
-`set EC2_HOME=your-ec2-home-directory
+
+```bash
+set EC2_HOME=your-ec2-home-directory
 set EC2_CERT=your-ec2-certificate
 set EC2_PRIVATE_KEY=your-ec2-private-key
 ec2-add-keypair mykeypair
 ec2-authorize default -p 443
 set EC2_JVM_ARGS=-DproxySet=true -DproxyHost=yourproxy \
--DproxyPort=yourport -Dhttps.proxySet=true \
--Dhttps.proxyHost=yourproxy -Dhttps.proxyPort=yourport \
--Dhttp.proxyUser=yourusername -Dhttps.proxyUser=yourusername \
--Dhttp.proxyPass=yourpassword -Dhttps.proxyPass=yourpassword
+  -DproxyPort=yourport -Dhttps.proxySet=true \
+  -Dhttps.proxyHost=yourproxy -Dhttps.proxyPort=yourport \
+  -Dhttp.proxyUser=yourusername -Dhttps.proxyUser=yourusername \
+  -Dhttp.proxyPass=yourpassword -Dhttps.proxyPass=yourpassword
 ec2-run-instances ami-ccf615a5 --key mykeypair --user-data-file your-startup-file-containing-lines-in-step-6`
+```
+
 You can go further and use any software (such as Skype) if you install [FreeCap](http://www.freecap.ru/eng/). More details are in this article on [Secure Firefox and IM with Putty](http://thinkhole.org/wp/2006/05/10/howto-secure-firefox-and-im-with-putty/).
 Linux users may want to check out [ProxyTunnel](http://proxytunnel.sourceforge.net/) and this article on [Tunneling SSH over HTTP(S)](http://dag.wieers.com/howto/ssh-http-tunneling/).
 **Update**: Follow-ups on [hacker news comments](http://news.ycombinator.com/item?id=1043413), [twitter](http://tweetmeme.com/story/427812352/ssh-tunneling-through-web-filters-s-anandnet), [delicious](http://delicious.com/url/0a6b39e211f481515ae02cab92cec1e7) and [digg](http://digg.com/security/SSH_Tunneling_through_web_filters_s_anand_net).
