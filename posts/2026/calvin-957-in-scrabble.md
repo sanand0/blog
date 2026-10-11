@@ -10,13 +10,13 @@ On 28 Feb 1990, Calvin and Hobbes played Scrabble.
 
 ![](https://picayune.uclick.com/comics/ch/1990/ch900228.gif)
 
-Calvin: Ha! I've got a great word and it's on a "double word score" box!
-Hobbes: "ZQFMGB" isn't a word! It doesn't even have a vowel!
-Calvin: It is SO a word! It's worm found in new guinea! Everyone knows that!
-Hobbes: I'm looking it up.
-Calvin: You do, and I'll look up that 12-letter word YOU played with all the Xs and Js!
-Hobbes: What's your score for ZQFMGB?
-Calvin: 957.
+**Calvin**: Ha! I've got a great word and it's on a "double word score" box!\
+**Hobbes**: "ZQFMGB" isn't a word! It doesn't even have a vowel!\
+**Calvin**: It is SO a word! It's worm found in new guinea! Everyone knows that!\
+**Hobbes**: I'm looking it up.\
+**Calvin**: You do, and I'll look up that 12-letter word YOU played with all the Xs and Js!\
+**Hobbes**: What's your score for ZQFMGB?\
+**Calvin**: 957.
 
 Question is, how do you score 957 on a double-word score? It isn't even _even_!
 
@@ -31,6 +31,7 @@ Claude recreated the game these two would have played, descending from a perfect
 
 Source:
 
+- [Interactive step-by-step replay](https://files.s-anand.net/blog/2026-01-11-calvin-957-in-scrabble/how-calvin-got-957.html) - with dialogues.
 - [Claude Chat](https://claude.ai/share/d89b2cb5-4a56-48ee-9f9c-3c8316dc8be9) <!-- https://claude.ai/chat/5c7f058a-1139-46cf-95e4-b8eb3be88c2f -->
 - [Code repo](https://github.com/sanand0/research/tree/aa203b711fa22830ae93650754cdf37910745b93/calvin-957)
 
