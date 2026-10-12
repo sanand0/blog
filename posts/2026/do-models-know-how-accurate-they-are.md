@@ -41,7 +41,7 @@ But this is useful! We can use this in two ways:
 
 **First, we can back-calculate the likely accuracy**. Since we have the curve, we know that _for this task_, when it says 50-69% accurate, it typically is only 25% accurate.
 
-**Second, we can just review the lease accurate**. Though the numbers may be wrong, when it says it's less confident, it tends to be less accurate. So we can just review the low-confidence answers - without worrying about the numbers.
+**Second, we can just review the least accurate**. Though the numbers may be wrong, when it says it's less confident, it tends to be less accurate. So we can just review the low-confidence answers - without worrying about the numbers.
 
 ### Prompts improve confidence accuracy
 
