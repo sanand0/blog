@@ -16,15 +16,21 @@ Here's my summary of the session:
 
 1. **Pick what to teach**. My [AI Advice](https://www.s-anand.net/blog/ai-advice/) page lists AI-era skills. Yours may vary.
 2. **Evaluate questions against six tests**:
-   1. **Learning test**. Is the step the student must do themselves the skill we want - and not just pointless difficulty?
-   2. **Forward test**. Does one student's submission score for another?
-   3. **Solver test**. Would one shared tool score for everyone?
-   4. **Agent test**. Could Codex solve the question with the student's logged-in browser / terminal?
-   5. **Faking test**. Is faking costlier than doing it honestly, and does faking still teach?
-   6. **Oracle test**. Is grading server‑side, robust (behavior, not text-matching), and rate‑limited or revealed after the test?
+   1. **Learning test**. Will they learn something by solving the question?
+   2. **Forward test**. Does copying the answer work for everyone?
+   3. **Solver test**. Can one person build a solver and share with everyone?
+   4. **Agent test**. Can Codex solve it if they're logged in?
+   5. **Cheating test**. Is cheating costlier than doing it honestly? Or, will they learn something even when they cheat?
+   6. **Evaluation test**. Is it easy and robust to evaluate automatically?
 3. **Measure learning transfer**. How do we know the actually learnt the skill?
 
-(Interestingly, just passing these principles to Claude / ChatGPT gives me pretty good AI and collaboration proof questions on many topics.)
+Interestingly, just passing these principles to Claude / ChatGPT gives me pretty good AI and collaboration proof questions on many topics.
+
+Here are some questions that passed most of these tests:
+
+1. **Prediction markets**. Can you predict (and trade shares for) how many tokens the course will consume?
+2. **Barter**. Each person gets different parts of a dataset. Can you barter and get your full dataset?
+3. **Pointless**. Can you create a prompt to win on Pointless with a unique prompt - most different from your peers?
 
 And a couple of meta principles:
 
