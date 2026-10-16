@@ -14,12 +14,13 @@ Here's AI advice I generally give people.
 
 [AI _will_ erode skills](https://link.springer.com/article/10.1007/s00146-025-02422-7) — but that's OK for some skills.
 
-- Learn what AI _won't_ do well even in the future. AI is slow at learning hard to practice and vague to verify tasks.
+- Learn what AI _won't_ do well for a while. AI is slow at learning hard to practice and vague to verify tasks. It's learns fast as soon as someone builds a practice environment with clear feedback.
 - If it's easy, anyone can do it. _Struggle_ differentiates, creating value. AI SHIFTS where that struggle is.
-- Delegate _blindly_ what AI does well. Use saved time to learn required skills.
+- Delegate _blindly_ what AI does well (if it doesn't hurt others). Use saved time to learn required skills.
 
 <!-- 28 Jul 2026: AI-era skills based on software judgement - https://claude.ai/chat/64cfb97d-1058-4379-9617-9b6de1835a0b - added blast radius, reversibility, detecting false confidence, communication > mis-interpret, sequencing -->
 <!-- 29 Sep 2026: Added ambition; updated ownership/agency to include exploring and pushing boundaries with curiosity -->
+<!-- 15 Oct 2026: Karpathy's AI-gap HN thread - added gyms, who pays when skills erode, reputation, physical-world skills - https://claude.ai/chat/ec4d1185-b285-41f6-b1c3-8eb44448c52a +  -->
 
 Critical skills AI might never learn or be allowed to.
 
@@ -31,7 +32,7 @@ Critical skills AI might never learn or be allowed to.
 - **Scepticism.** Detecting false confidence, especially for new ways in which AI can fail.
 - **Noticing.** Spotting important, interesting, risky, ... stuff before anyone asks for it.
 - **Intuition.** Learn shortcuts to find mistakes and give feedback - even in unfamiliar areas. (Consultants learn this well.)
-- Charisma? Character? Kindness?
+- **Reputation.** Everyone has / uses AI. People open (and trust) stuff from a reputed few. Character, kindness, charisma help.
 
 Growing skills that AI might not learn easily.
 
@@ -39,12 +40,13 @@ Growing skills that AI might not learn easily.
   - Sequencing: Evals first? Clean data first? Infra first? Reversibility first?
 - **Ambition.** Defining audacious, inspiring goals. Things hard for agents to execute, need humans following a leader / vision.
 - **Initiative.** Agency. Proactively seeking problems, making decisions no one asked for, exploring and pushing boundaries with curiosity, getting things done, and continuously improving. AI may not be allowed to practice this freely.
-- **Problem selection.** Learn to quickly discover what's useful for yourself and others. AI can select fast but not test.
+- **Problem selection.** Learn to quickly discover what's useful for yourself and others. AI can select and test fast, but can't tell _who_ cares.
 - **Communication.** Interpretation. Understanding. Making a live audience understand, based on what they know and how they might mis-interpret. AI might take time to learn how to connect with an audience.
+- **Physical skills.** Easy to check (it worked or it didn't) but slow and costly to practice. AI will learn these as simulators improve.
 
 Growing skills that AI is learning.
 
-- **Verification assets.** Design golden sets, test cases, and audit workflows that reliably catch AI errors at scale.
+- **Verification assets.** Design golden sets, test cases, and audit workflows that reliably catch AI errors at scale. (Deciding _what's_ correct in messy domains is the slow part.)
 - **Asking questions.** Learn to ask _lots_ of _good_ questions that nudge AI and humans to better results, new horizons. Curiosity helps.
 - **Learning fast.** Learn how to learn faster. You'll need to learn many subjects quickly (especially to judge AI output). But AI can learn faster.
 - **Taste.** The ability to recognize and guide AI toward high-quality, distinctive output (art, style, design, creativity).
@@ -77,6 +79,8 @@ Here's how some industries have dealt with skill erosion:
 - **Spreadsheets** eroded calculation skills. We **leveled up** from sums to strategy. Same for CAD, electronic trading, spell-check.
 - **Photography** eroded painting skills. We **switched** value to impressionism, cubism, etc. Same for vinyl records, luxury watches, craft coffee.
 - **GPS** eroded navigation skills. We **accepted** this and don't care much. Same for phone numbers, spelling, mental math.
+
+Maybe we _enforce_ skills when losing them hurts others (passengers, patients), and _accept_ the loss when it hurts only us.
 
 ## How do I use AI better personally?
 
