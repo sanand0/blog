@@ -1,12 +1,37 @@
 ---
 title: Questions I am asked
 description: Questions people ask me, and my answers.
-tags: [ai-agents, ai-workflows, llms, prompt-engineering]
+tags: [ai-agents, agentic-workflows, llms]
 ---
 
 # Questions I am asked
 
 Questions people ask me, with names, organizations, and exact dates removed.
+
+## Week ending 18 Oct 2026 {#week-ending-2026-10-18}
+
+- **Question**: If agents can solve the hard assignments, what happens to the other 95% of students? Asked while I explained my agent-resistant IIT Madras exams and token prediction market.\
+  **Answer**: Intelligence is not that important anymore. Cooperation, negotiation, dealing with uncertainty and risk matter. An agent can predict token consumption, but students can talk to classmates, gather information and influence what happens.
+- **Question**: From an employee's perspective, what does responsible AI look like in daily work? Asked during cybersecurity audience questions about accountability for AI-generated work.\
+  **Answer**: Imagine a new employee reporting to you who totally goofs up. Responsible AI is saying, "My mistake," and making sure it doesn't happen again—not saying, "AI goofed up."
+- **Question**: How should business, AI risk and security leaders work together on responsible adoption? Asked after discussing how AI increases both delivery speed and exposure to cyberattacks.\
+  **Answer**: Tier decisions by risk and reversibility. Delegate low-risk decisions and tolerate mistakes. Turn absolute prohibitions, like sending client data to the wrong person, into automated blocks. Use AI and human judgment together for the middle.
+- **Question**: How should we protect ourselves against AI-powered social engineering and deepfakes? Asked after examples of impersonated executives requesting payments and malicious instructions targeting agents.\
+  **Answer**: The old rules remain: be more careful when someone approaches you, and be suspicious if something looks too good to be true. Two newer practices: switch communication channels to verify identity, and set spending limits on cards, API keys and anything else that can be drawn down.
+- **Question**: What does responsible AI adoption mean for our business, and how should we judge success? Asked while opening a cybersecurity panel on balancing AI-driven productivity with reliability.\
+  **Answer**: If AI doubles output from 100 to 200, mistakes must not double from five to ten. Ideally, even the absolute number of mistakes should fall. Put more effort into verification, red-teaming and defenses, and know when something is only a prototype.
+- **Question**: Why not use a Codex plugin in Blender to generate engineering drawings? Asked after seeing an agent produce a visually convincing CAD model with structural errors.\
+  **Answer**: Blender is right for generating 3D visuals, not necessarily production CAD drawings. Manufacturing needs information about materials, weight and structure that goes beyond appearance.
+- **Question**: Should I let the agent choose how to solve a task, or specify the programming language and method? Asked after a data-lineage agent proposed Python while examining files containing only table-level lineage.\
+  **Answer**: Who knows better? If you know something the agent doesn't—like which language IT will allow you to deploy—tell it. Otherwise, let it decide. Even with 35 years of programming experience, I'm increasingly letting agents choose.
+- **Question**: Why tell an agent to use Python instead of letting it do the calculation itself? Asked during a live Copilot experiment involving multiplication of large numbers.\
+  **Answer**: Write code when you want repeated reliable work; use the model's intelligence for higher-level reasoning. It may calculate a big multiplication correctly once, but a program can repeat the calculation a thousand times without introducing new arithmetic errors.
+- **Question**: Why do Copilot agents give different answers to the same question? Is it randomness or personal history? Asked after participants noticed inconsistent outputs while repeating agent tasks.\
+  **Answer**: Both. The base model can produce different answers to identical prompts. Copilot also supplies its own instructions and selected personal context, so your Copilot may respond differently from mine.
+- **Question**: How should we grade an agent-assisted project where students gather invoices distributed across other students? Asked while designing assessment criteria for a collaborative information-sourcing assignment.\
+  **Answer**: Grade like an auditor. Consider the value of missing invoices, the number of missing entries and the consequences of the errors, rather than prescribing one solution strategy.
+- **Question**: What learning outcomes are these unusual, agent-permitted projects meant to achieve? Asked after I proposed invoice trading, a token prediction market and a game rewarding unusual correct answers.\
+  **Answer**: Three things: strategize how to source information when you don't know where it resides; make and revise predictions as evidence changes; and push an agent away from the average answer while retaining correctness.
 
 ## Week ending 11 Oct 2026 {#week-ending-2026-10-11}
 

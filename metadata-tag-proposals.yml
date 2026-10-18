@@ -4,6 +4,10 @@ proposals:
     sources:
       posts/2026/beating-ai-detectors-by-reading-aloud.md:
         content_hash: 3be5cd416ba060ae55e677d415e759831383aa8d93f9bdb75f84db0c3a6d7877
+  ai-evaluation:
+    sources:
+      pages/questions-i-am-asked.md:
+        content_hash: e001954e252c35496b1a7412a70c52a1564c87917963e0c9f1eaba613597e2e3
   ai-governance:
     sources:
       posts/2026/where-enterprise-ai-is-headed.md:

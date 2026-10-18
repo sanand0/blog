@@ -5,6 +5,42 @@ tags: [fact-checks, corrections]
 ---
 
 
+## Week ending 18 Oct 2026 {#week-ending-2026-10-18}
+
+- I said **"483 millimeter cube... 4.3 centimeter cube"** while recommending human-readable units for engineering benchmarks.\
+  **Correction**: 483 cubic millimetres equals 0.483 cubic centimetres, not 4.3 cubic centimetres. Cubic units require cubing the linear conversion factor: 1 cm³ = 1,000 mm³.\
+  **LOW · FALSE**
+- I said **"a full-fledged Photoshop clone"** while describing AI-built Rust replacements for Adobe applications.\
+  **Correction**: PhotoCraft is an open-source, clean-room Photoshop-style editor written in Rust, but it remains early-alpha software, not a full professional Photoshop replacement. Its maintainers identify missing generative features, approximately 20 tools, advanced typography workflows, and plug-in compatibility. The wider ArtCraft suite likewise does not establish feature parity with every Adobe application. [PhotoCraft project](https://github.com/storytold/photocraft)\
+  **MEDIUM · OVERSTATED**
+- I said **"Poor man's RoBERTa"** to describe BM25 while explaining retrieval algorithms.\
+  **Correction**: BM25 is a lexical information-retrieval ranking function based on term frequency, inverse document frequency, and document-length normalization. RoBERTa is a pretrained Transformer language model that can be fine-tuned for classification and other tasks. They are not cheaper and more expensive versions of the same algorithm; a better comparison is BM25 versus vector or neural retrieval, with RoBERTa treated as a separate modeling component. [Elastic BM25 documentation](https://www.elastic.co/docs/reference/elasticsearch/index-settings/similarity)\
+  **MEDIUM · FALSE**
+- I said **"have an application running in the background ... it can still control [my phone]"** while describing mobile agents and sensor-based applications.\
+  **Correction**: Android supports considerable automation, but background applications cannot freely access every capability. On Android 9 and later, ordinary background apps cannot receive accelerometer and gyroscope events or access the camera and microphone. Supported approaches require appropriate permissions, foreground services, or other authorized mechanisms, and capabilities vary by device and Android version. [Android background sensor restrictions](https://developer.android.com/about/versions/pie/android-9.0-changes-all)\
+  **MEDIUM · OVERSTATED**
+- I said **"80% more bugs"** while illustrating the cybersecurity implications of doubling code production and reducing the bug rate from 5% to 4%.\
+  **Correction**: With 100 units of code at a 5% bug rate, there are five bugs. Doubling output to 200 units at a 4% bug rate produces eight bugs: 60% more, not 80% more. To avoid conflating output growth with security risk, I should also distinguish the count of bugs from the number and severity of exploitable vulnerabilities.\
+  **MEDIUM · FALSE**
+- I described LMSR as **"Bayesian revision of probabilities"** while explaining a prediction-market exercise.\
+  **Correction**: The Logarithmic Market Scoring Rule is an automated market-making mechanism. Trades change outstanding share quantities, and the market maker mechanically recalculates prices using a logarithmic cost function and its derivatives. The resulting prices can be interpreted as market-implied probabilities, but this is not itself Bayesian posterior updating from a specified prior and likelihood. [LMSR mathematics](https://mechanisms.microprediction.org/mechanisms/lmsr.html)\
+  **MEDIUM · FALSE**
+- I said **"When _you_ approach others, you don't have to [be careful]"** while explaining social-engineering defenses at a cybersecurity session.\
+  **Correction**: Initiating contact reduces some unsolicited-contact risks, but it does not establish authenticity or eliminate the need for caution. Scammers place fake support numbers and websites in search results, causing victims to initiate contact themselves. I should verify destinations through known official websites, applications, or trusted contact details, regardless of who initiates the interaction. [FTC: fraudulent search results](https://consumer.ftc.gov/consumer-alerts/2025/04/online-search-results-good-bad-scammy)\
+  **HIGH · OVERSTATED**
+- I said **"Now I just tell the agent to fix the bug. It becomes easy"** while discussing responses to cybersecurity vulnerabilities, including replacing dependencies or building a unikernel.\
+  **Correction**: Coding agents can accelerate investigating and proposing security patches, but a generated patch must still be checked for correctness, regressions, and security weaknesses. A unikernel is a specialized operating-system image, not an automatic replacement for any vulnerable operating system. Security-sensitive fixes require appropriate independent validation before deployment. [OWASP secure coding with AI](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Coding_with_AI_Cheat_Sheet.html) [Unikernels](https://unikernel.org/)\
+  **HIGH · OVERSTATED**
+- I said **"agents are actually a fancy term for a pre-created prompt"** while teaching people to build Microsoft 365 Copilot agents.\
+  **Correction**: A simple declarative agent can begin with reusable instructions, but Microsoft 365 Copilot agents also define knowledge sources, actions, connectors, skills, permissions, and other capabilities. A saved prompt is one possible component of an agent, not an adequate definition of agents generally. [Microsoft: declarative agents](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/overview-declarative-agent)\
+  **MEDIUM · OVERSTATED**
+- I said **"your identity is an agent-proof skill"** while discussing recorded-voice and family-interaction educational exercises.\
+  **Correction**: Requiring personal participation and real-world interaction can make assignments harder to outsource to agents, but a recorded voice alone does not prove authentic human participation. Modern voice-cloning systems can imitate a person's speech from short recordings. Assessments requiring identity assurance need additional safeguards or supervised interaction rather than assuming voice is agent-proof. [FTC voice-cloning warning](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money)\
+  **MEDIUM · OVERSTATED**
+- I said **"The Fed ... finally cut [rates] on 16th September"** while demonstrating a scorecard comparing financial institutions' interest-rate forecasts.\
+  **Correction**: On 16 September 2026, the US Federal Reserve raised its target federal funds rate by 25 basis points, to a range of 3.75%–4.00%; it did not cut rates. Any forecast scorecard treating a September rate cut as the realized outcome must be corrected and its forecast-accuracy conclusions recalculated. [Federal Reserve FOMC statement, 16 September 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)\
+  **HIGH · FALSE**
+
 ## Week ending 11 Oct 2026 {#week-ending-2026-10-11}
 
 - I said **"10,000 of them"** while describing autonomous agents collaborating on a public wiki.\

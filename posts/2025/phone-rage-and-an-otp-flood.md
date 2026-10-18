@@ -124,4 +124,8 @@ Them a couple of messages on 8 Sep night:
 
 Neither of these numbers provided a hit on Google. I guess these are non-business phone numbers.
 
+A month later, they were still on.
+
+- 17 Oct, 10:09 am SGT, when I was preparing for a talk. I got TWO consecutive WhatsApp calls from Agarwal Logistics Packers and Movers (+91 8307850400).
+
 -->
