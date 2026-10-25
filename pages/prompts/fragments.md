@@ -348,6 +348,7 @@ Read `~/Dropbox/notes/mistakes-i-made.md` and skip mistakes already logged.
 Exhaustively scan every required source and verify every plausible candidate.
 Return EVERY genuine corrections prioritized by impact.
 Skip opinions, predictions, harmless approximations, and merely debatable claims.
+Ignore claims from bots in my name - e.g. "Daily Gen AI News Update to Chat" chat.
 
 Output prepend-ready rows in exactly as a Markdown code fence in this format, sorted by latest first:
 

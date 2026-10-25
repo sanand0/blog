@@ -1,12 +1,31 @@
 ---
 title: Questions I am asked
 description: Questions people ask me, and my answers.
-tags: [ai-agents, agentic-workflows, llms]
+tags: [ai-agents, llms, ai-workflows]
 ---
 
 # Questions I am asked
 
 Questions people ask me, with names, organizations, and exact dates removed.
+
+## Week ending 25 Oct 2026 {#week-ending-2026-10-25}
+
+- **Question**: How should we think about AI agent swarms becoming more intelligent? Asked while comparing self-organizing swarms with multithreaded programs and shared message boards.\
+  **Answer**: Think civilizations, not process threads. A model is an interaction; an agent is more like a long-lived person; a swarm can create and shut down its own agents, branch, and evolve. We may see centuries of civilization-like change compressed into days. That makes specifying what we want and preventing things going overboard much harder.
+- **Question**: What's your biggest finding about using different LLMs effectively? Asked after discussing LLM psychology and how to change his own prompting and coding practices.\
+  **Answer**: Treat every model as a completely new species. Maintain a few personal benchmarks for things you care about and can judge immediately. Mine include colorizing an old family photograph, where I can spot the smallest facial change. Test new models on those instead of trusting generic rankings.
+- **Question**: Why do you call yourself an LLM Psychologist? Asked after demonstrating his Claude-and-Gemini coding workflow and seeking a useful insight from the interview.\
+  **Answer**: I run human psychology tests on models. Does telling them to write simply make them think less effectively? Does threatening them improve their answers? Usually it makes them worse. Different models behave differently, so I study their behavior rather than treating them as ordinary deterministic software.
+- **Question**: How should I share our innovation demos with prospective clients? Asked after drafting an outreach email containing a long, categorized list of AI demonstrations.\
+  **Answer**: One demo is more powerful than five. If you send me lots of links, I'll open none; one interesting image might make me click. Add one sentence explaining how it helps that particular client. Ask Gemini or another model to personalize the message rather than forwarding a catalog.
+- **Question**: Apart from prompt engineering, how can we influence the decisions an LLM makes? Asked after discussing behavioral experiments and why models sometimes make unexpected choices.\
+  **Answer**: We increasingly work with systems using models, not models directly. Change the tools available, permissions, inputs, data sources, outputs, and the loop in which the model runs. Changing what the agent can touch changes what it can do and how it decides.
+- **Question**: When should we start using sub-agents? Asked after a participant described independently validating agent outputs but lacked permission to create orchestration agents.\
+  **Answer**: Rarely. Use them when work benefits from independent parallel execution or preserving context—especially brainstorming and verification. Parallel brainstorming avoids later ideas being influenced by earlier ones; an independent verifier is less contaminated by the expected answer. If you can't create sub-agents, ask for their prompts, execute those manually, and return the results.
+- **Question**: How should we structure the final session of a hands-on AI agent workshop? Asked after two Copilot sessions where participants had built agents but were reluctant to share their difficulties openly.\
+  **Answer**: Optimize what people have actually built. Ask just two questions beforehand: what agent have you built, and what isn't working? Even three or four responses are enough to spot patterns and create live exercises. No need to predesign everything. Then show more advanced possibilities, including agents creating other agents.
+- **Question**: When should I stop trying to make AI complete a task and switch to doing it manually? Asked after describing research sessions that kept wandering without producing the required answer.\
+  **Answer**: I don't have a universal stopping rule. Every time you feel like stopping an agent, log it—whether you stopped or carried on. Collect ten such cases and review whether each decision was right. Use your own evidence to discover your stopping rule, rather than borrowing somebody else's.
 
 ## Week ending 18 Oct 2026 {#week-ending-2026-10-18}
 

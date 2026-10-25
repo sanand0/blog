@@ -5,6 +5,42 @@ tags: [fact-checks, corrections]
 ---
 
 
+## Week ending 25 Oct 2026 {#week-ending-2026-10-25}
+
+- I said **"prospectively, there is only one thing ... set caps for each person"** while explaining how enterprises can control LLM spending.\
+  **Correction**: User spending caps are one preventive cost control, not the only one. Organizations can proactively reduce spending using model selection and routing, prompt caching, shorter context, output-token limits, request budgets, rate limits, and lower-cost batch processing. Several of these controls reduce costs before requests execute, rather than merely identifying overspending afterward. [OpenAI: Cost optimization](https://developers.openai.com/api/docs/guides/cost-optimization) · [OpenAI: Prompt caching](https://developers.openai.com/api/docs/guides/prompt-caching)\
+  **MEDIUM · FALSE**
+- I said **"after founding Gramener in 2012"** while recounting the company's history.\
+  **Correction**: Gramener identifies 2010 as its founding year, not 2012. Its official company profile and an article reproduced on its own blog in August 2012 both give 2010. 2012 is when I joined Gramener full-time. [Gramener company profile](https://www.linkedin.com/company/gramener) · [Gramener blog, August 2012](https://blog.gramener.com/gramener-lets-you-see-the-big-picture-from-the-big-data/)\
+  **LOW · FALSE**
+- I said **"co-founded in 2011"** while introducing my previous company.\
+  **Correction**: Gramener dates its founding to 2010. I should consistently use 2010 when describing the company's founding, distinguishing that date from subsequent product development or business milestones. [Gramener company profile](https://www.linkedin.com/company/gramener) · [Contemporaneous article on Gramener's blog](https://blog.gramener.com/gramener-lets-you-see-the-big-picture-from-the-big-data/)\
+  **LOW · FALSE**
+- I said **"one-quarter of incoming pull requests now dismissed as useless AI slop"** in an AI-news digest about open-source development.\
+  **Correction**: In a Linux Foundation survey published on 20 October 2026, maintainers estimated that approximately 25% of incoming pull requests were low-quality AI-generated contributions. The study did not establish that 25% were actually rejected or dismissed, nor was the percentage measured directly across all open-source repositories. [Linux Foundation research announcement](https://www.linuxfoundation.org/press/new-lf-research-survey-shows-generative-ai-cuts-open-source-coding-time-in-half-but-25-of-incoming-pull-requests-are-considered-ai-slop)\
+  **MEDIUM · OVERSTATED**
+- I said **"72 percent reduction in cost at 99 percent quality"** while explaining a five-model verification workflow.\
+  **Correction**: The pilot reported 28% of items requiring human review and 0.7% error among automatically accepted, unanimous model predictions. This corresponds to a 72% reduction in the number of items requiring manual review, not an established 72% reduction in total operating cost. Actual savings also depend on model inference, human-review time, integration, exceptions and rework. The 99.3% accuracy figure applies to automatically accepted predictions in the evaluated sample, not automatically to all future cases or the entire end-to-end workflow.\
+  **HIGH · OVERSTATED**
+- I said **"the sub-agent does not get to see the entire picture"** while explaining why Copilot subagents make better independent reviewers.\
+  **Correction**: Microsoft Copilot Studio child agents always receive their parent's conversation context. Connected agents have a setting called "Pass conversation history to this agent", which is enabled by default and must be disabled when context isolation is required. Creating a subagent does not automatically provide an independent or blinded review. I should configure context boundaries explicitly and check whether the reviewer has been exposed to the expected answer. [Microsoft: Design subagents that avoid duplicate messages](https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/generative-orchestration-subagents)\
+  **MEDIUM · FALSE**
+- I said **"967 papers had authors who said they were not paid, but actually were"** while circulating results from an automated research-disclosure screening demonstration.\
+  **Correction**: The system flagged 967 potential discrepancies between publication disclosures and external payment records. These are candidates for investigation, not 967 verified cases of undisclosed payments. Establishing a genuine discrepancy requires confirming author identity, payment dates, disclosure scope and reporting requirements through human review. CMS explicitly warns that its payment database does not itself determine conflicts of interest. [CMS Open Payments](https://www.cms.gov/priorities/key-initiatives/open-payments) · [ICMJE disclosure requirements](https://icmje.org/recommendations/browse/roles-and-responsibilities/author-responsibilities--conflicts-of-interest.html)\
+  **HIGH · OVERSTATED**
+- I said **"every chat will be able to see past chats"** while explaining Microsoft Copilot's Chat history and work insights setting in a training workshop.\
+  **Correction**: With this setting enabled, Microsoft Copilot can use selected memories and inferred information from prior conversations and, where licensed, work content. It does not provide every new conversation with complete access to every previous chat. Microsoft explicitly states that Copilot remembers useful details rather than every detail. Temporary chat is an additional option for conducting isolated experiments. [Microsoft: How Copilot Chat history works](https://support.microsoft.com/en-us/microsoft-365-copilot/how-microsoft-365-copilot-chat-history-works) · [Microsoft: Copilot personalization](https://support.microsoft.com/en-us/microsoft-365-copilot/personalize-what-microsoft-365-copilot-remembers)\
+  **MEDIUM · OVERSTATED**
+- I said **"the GPT models just don't make any [spelling] mistakes"** while recommending how to assess image-generation quality.\
+  **Correction**: GPT image-generation models have improved substantially at rendering text, but spelling, precise text placement, typography and visual clarity can still fail. Text accuracy is one useful evaluation dimension, not proof that an image model is generally reliable. I should evaluate text rendering separately from composition, instruction following, consistency and visual quality. [OpenAI: Image generation limitations](https://developers.openai.com/api/docs/guides/image-generation)\
+  **MEDIUM · OVERSTATED**
+- I said **"the server could identify me correctly even in Incognito mode"** while discussing browser fingerprinting and an unusually distinctive result from EFF's Cover Your Tracks.\
+  **Correction**: Cover Your Tracks measures how distinctive a browser configuration is relative to configurations previously observed. A unique fingerprint can make cross-session tracking possible, including in private browsing, but uniqueness alone does not prove that a server recognized my identity or linked two particular sessions. That requires a separate re-identification experiment. [EFF: How Cover Your Tracks works](https://coveryourtracks.eff.org/about)\
+  **MEDIUM · UNSUPPORTED**
+- I said **"where the AI itself has found a flaw ... you can safely reject"** while demonstrating automated policy verification for regulated business processes.\
+  **Correction**: An AI-identified policy violation is a reason to flag or investigate an item, not automatically sufficient grounds for rejecting it. AI-generated rules may omit exceptions, misinterpret obligations or incorrectly classify evidence. Automatic rejection is appropriate only where the applicable policy has been correctly formalized, the required facts are independently validated, and the decision process has been tested to an acceptable error threshold with suitable oversight. Otherwise, potential violations require authorized human review. [FCA: AI in financial services, good practice and areas for improvement](https://www.fca.org.uk/publications/good-poor-practice/ai-financial-services)\
+  **HIGH · OVERSTATED**
+
 ## Week ending 18 Oct 2026 {#week-ending-2026-10-18}
 
 - I said **"483 millimeter cube... 4.3 centimeter cube"** while recommending human-readable units for engineering benchmarks.\

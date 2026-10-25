@@ -7,7 +7,7 @@ proposals:
   ai-evaluation:
     sources:
       pages/questions-i-am-asked.md:
-        content_hash: e001954e252c35496b1a7412a70c52a1564c87917963e0c9f1eaba613597e2e3
+        content_hash: 76d5326c65f8b971e30fe28f11e7eebd6aa9cd54e94a7851b33c50c34f009a76
   ai-governance:
     sources:
       posts/2026/where-enterprise-ai-is-headed.md:

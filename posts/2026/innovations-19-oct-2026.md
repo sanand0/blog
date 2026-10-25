@@ -3,6 +3,8 @@ title: Innovations 19 Oct 2026
 date: 2026-10-19T16:41:49+08:00
 categories:
 - llms
+description: 'I share new team demos: turning photos into walkable 3D worlds, spotting events in live sports video, and improving a small payment model from 55% to 79% with rules and checks.'
+tags: [llms, ai-agents, video-processing]
 ---
 
 The Innovation team built a few more demos last week. Three interesting learnings:
