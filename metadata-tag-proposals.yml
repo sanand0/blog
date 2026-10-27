@@ -178,6 +178,10 @@ proposals:
     sources:
       posts/2026/rofi-vs-kanata.md:
         content_hash: fc32a877ddaa3ca53614517ed0d27bee3297422748f0e590b1761fd843a71de6
+  scientific-reproducibility:
+    sources:
+      posts/2026/innovations-26-oct-2026.md:
+        content_hash: 5e8b3d704d9d27dec9cc137dc4d86cc09e770d3347fb67cb802b74cc8bf79290
   scrabble:
     sources:
       posts/2026/calvin-957-in-scrabble.md:

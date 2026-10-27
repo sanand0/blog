@@ -127,5 +127,6 @@ Neither of these numbers provided a hit on Google. I guess these are non-busines
 A month later, they were still on.
 
 - 17 Oct, 10:09 am SGT, when I was preparing for a talk. I got TWO consecutive WhatsApp calls from Agarwal Logistics Packers and Movers (+91 8307850400).
+- 27 Oct, 11:00 am CET, when I was preparing for a talk. I got TWO consecutive mobile call from a possible spam number (+91 7286032314). Not sure if it was someone else.
 
 -->

@@ -6,7 +6,7 @@ description: Brainstorm creative, novel, non-obvious ideas or options for an ope
 Use all three phases: FRAME, DIVERGE, and CONVERGE.
 Keep candidates to one line and spend words on finalists.
 
-- FRAME. Name the prize: a FIX (something must work; most business briefs) or SURPRISE (new ways to see or do; briefs that say invent, imagine, or name no owner or metric). Weight every later choice by the prize. Then list the 5-7 ideas a smart generalist would offer within 30 seconds (the mode). Ban them and their thin disguises. No later idea may reuse their core mechanism.
+- FRAME. Name the prize: a FIX (something observable must work; most business briefs) or SURPRISE (new ways to see or do; briefs that say invent, imagine, or name no owner or metric). Weight every later choice by the prize. Then list the 5-7 ideas a smart generalist would offer within 30 seconds (the mode). Ban them and their thin disguises. No later idea may reuse their core mechanism.
 - DIVERGE prioritizing novelty over feasibility. Do not filter yet.
   - Name 4-6 independent dimensions a solution could vary on (e.g. mechanism, actor, who pays, timing, what is removed or inverted). Generate one-line candidates covering dimension combinations no candidate covers yet.
   - Pick 2 UNRELATED domains. Extract 3 proven mechanics from each. Create candidates that depend on a borrowed mechanic to work; drop any where the borrowing is decoration.
