@@ -1,0 +1,2 @@
+{{- /* Emit the page body verbatim. For self-contained HTML apps (e.g. pages/calvin.md) that bring their own <head>, styles and scripts, and must not be wrapped in the blog theme. */ -}}
+{{ .RawContent | safeHTML }}
