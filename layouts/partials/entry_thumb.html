@@ -5,9 +5,9 @@
   {{- with $page.Params.cover.image -}}
     {{- $src = . -}}
   {{- else -}}
-    {{- $matches := findRE "<img[^>]+src=\"[^\"]+\"" $page.Content 1 -}}
+    {{- $matches := findRE "<(?:img[^>]+src|video[^>]+poster)=\"[^\"]+\"" $page.Content 1 -}}
     {{- if gt (len $matches) 0 -}}
-      {{- $src = replaceRE "^.*src=\"([^\"]+)\".*$" "$1" (index $matches 0) -}}
+      {{- $src = replaceRE "^.*(?:src|poster)=\"([^\"]+)\".*$" "$1" (index $matches 0) -}}
     {{- end -}}
   {{- end -}}
   {{- if $src -}}

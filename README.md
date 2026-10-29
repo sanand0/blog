@@ -225,10 +225,22 @@ Optional:
   <a href="https://example.com/audio.opus">Audio</a>
 </audio>
 
-<video controls autoplay loop? muted? playsinline preload="metadata" width="1600" height="1200" style="max-width: 100%; height: auto;">
+<video controls autoplay loop muted playsinline preload="metadata" poster="https://example.com/video-thumb.avif" width="1600" height="1200" style="max-width: 100%; height: auto;">
   <source src="https://example.com/video.webm" type="video/webm">
   <a href="https://example.com/video.webm">Video</a>
 </video>
+```
+
+Video thumbnails: add a `poster` image to every `<video>`. `loop` and `muted` are optional, but browsers only autoplay muted videos.
+
+- Listing pages (`layouts/partials/entry_thumb.html`) use the first `<img src>` or `<video poster>` in the post as the thumbnail.
+- `~/code/scripts/htmlemail.py` replaces the video with the poster image, linked to the video.
+- For social previews (OpenGraph / Twitter), also set the poster as the cover. `hiddenInSingle` avoids showing it above the video in the post:
+
+```yaml
+cover:
+  image: https://example.com/video-thumb.avif
+  hiddenInSingle: true
 ```
 
 Full-width embedded iframes: <!-- https://chatgpt.com/c/6a524c4f-2bb8-83e8-b014-39e1960f6b4b -->

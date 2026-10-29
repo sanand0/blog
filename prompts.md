@@ -1,5 +1,38 @@
 # Prompts
 
+## Image thumbnails with video, 29 Oct 2026
+
+<!--
+cd ~/code/blog/
+claude --model opus --effort medium
+-->
+
+I embed videos in my blog posts like this:
+
+```markdown
+<video controls autoplay loop? muted? playsinline preload="metadata" width="1600" height="1200" style="max-width: 100%; height: auto;">
+  <source src="https://example.com/video.webm" type="video/webm">
+  <a href="https://example.com/video.webm">Video</a>
+</video>
+```
+
+But this has 2 problems.
+
+1. The thumbnail mechanism - i.e. what's displayed on listings pages like `/2026/03/page/2/` does not show videos, only images I include, like `![](...)`.
+1. I email posts via ~/code/scripts/htmlemail.py and videos don't play well in email clients and there isn't a mechanism to include an image thumbnail instead.
+
+What's the cleanest way I can include a thumbnail (which I'll create) for these videos - ideally in a way that's HTML standard compliant or recommended?
+What's the minimal way to modify the blog setup and ~/code/scripts/htmlemail.py (or ideally, leave them unchanged) so that the image thumbnail will appear on the blog and HTML emails? (The email thumbnail should be clickable and take the user to the video.)
+
+---
+
+Apply this pattern on posts/2026/a-mobile-voice-choir.md.
+Add the poster at https://files.s-anand.net/images/2026-10-26-a-mobile-voice-choir.avif to the video.
+Also set cover.image in the frontmatter.
+Update README.md to document the usage of this pattern.
+
+<!-- claude --resume 6077d5e8-901a-46f6-8007-7476a559192a -->
+
 ## Fix mistakes.py, 04 Oct 2026
 
 <!--
