@@ -81,7 +81,7 @@ def write_tags_json(
     return tags
 
 
-def build_llms_txt(tags: list[dict], output_path: Path) -> str:
+def build_llms_txt(records: list[dict], corpus_path: Path, output_path: Path) -> str:
     """Write the llms.txt entrypoint."""
     lines = [
         "# S Anand",
@@ -91,16 +91,18 @@ def build_llms_txt(tags: list[dict], output_path: Path) -> str:
         "## Core Resources",
         "",
         f"- [About S Anand]({BLOG_ROOT}/s-anand/): short profile, contact links, recent posts, and update options.",
-        f"- [Corpus JSONL]({BLOG_ROOT}/corpus.jsonl): one JSON record per public post or page, including plain text and raw Markdown source URL.",
+        f"- [Corpus JSONL]({BLOG_ROOT}/corpus.jsonl) (~{corpus_path.stat().st_size / 1_000_000:.0f} MB): one JSON record per public post or page, including plain text and raw Markdown source URL.",
+        "- [Source on GitHub](https://github.com/sanand0/blog): source code and Markdown for this site.",
         f"- [Corpus Schema]({BLOG_ROOT}/corpus.schema.json): field definitions for the corpus export.",
         f"- [Canonical Tags]({BLOG_ROOT}/tags.json): topic vocabulary with counts and descriptions.",
         f"- [Main RSS Feed]({BLOG_ROOT}/index.xml): latest posts feed.",
         "",
-        "## Top Tags",
+        "## Top Categories",
         "",
     ]
-    for tag in tags[:15]:
-        lines.append(f"- [{tag['slug']}]({tag['url']}): {tag['description']}")
+    categories = Counter(category for record in records for category in record.get("categories") or [])
+    for category, count in sorted(categories.items(), key=lambda item: (-item[1], item[0]))[:15]:
+        lines.append(f"- {category}: {count}")
     lines.extend(
         [
             "",
@@ -150,7 +152,7 @@ def build_agent_exports(
     records = load_corpus(corpus_path)
     descriptions = load_tag_descriptions(metadata_tags_path)
     tags = write_tags_json(records, descriptions, public_root, public_root / "blog/tags.json")
-    text = build_llms_txt(tags, public_root / "llms.txt")
+    text = build_llms_txt(records, corpus_path, public_root / "llms.txt")
     validate_llms_links(text, public_root)
     return tags, text
 

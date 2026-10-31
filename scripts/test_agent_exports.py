@@ -32,6 +32,7 @@ def test_build_agent_exports_writes_tags_json_and_llms_txt(tmp_path):
                         "url": "https://www.s-anand.net/blog/llm-eval/",
                         "date": "2026-01-01",
                         "tags": ["llm-evaluation", "llms"],
+                        "categories": ["technology", "education"],
                     }
                 ),
                 json.dumps(
@@ -40,6 +41,7 @@ def test_build_agent_exports_writes_tags_json_and_llms_txt(tmp_path):
                         "url": "https://www.s-anand.net/blog/data/",
                         "date": "2026-01-02",
                         "tags": ["data"],
+                        "categories": ["technology"],
                     }
                 ),
             ]
@@ -72,6 +74,10 @@ def test_build_agent_exports_writes_tags_json_and_llms_txt(tmp_path):
     assert (public / "blog/tags.json").is_file()
     assert {tag["slug"] for tag in tags} == {"llm-evaluation", "llms", "data"}
     assert "[Corpus JSONL](https://www.s-anand.net/blog/corpus.jsonl)" in llms
+    assert "## Top Categories" in llms and "## Top Tags" not in llms
+    assert llms.index("- technology: 2") < llms.index("- education: 1")
+    assert "https://github.com/sanand0/blog" in llms
+    assert re.search(r"corpus\.jsonl\) \(~\d+ MB\)", llms)
 
 
 def ensure_public_exports() -> None:
