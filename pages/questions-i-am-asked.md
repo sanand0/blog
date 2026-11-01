@@ -1,12 +1,27 @@
 ---
 title: Questions I am asked
 description: Questions people ask me, and my answers.
-tags: [ai-agents, llms, ai-workflows]
+tags: [agentic-workflows, llms, enterprise-ai, data-visualization]
 ---
 
 # Questions I am asked
 
 Questions people ask me, with names, organizations, and exact dates removed.
+
+## Week ending 01 Nov 2026 {#week-ending-2026-11-01}
+
+- **Question**: Why are mobile phones particularly interesting for AI-built applications? Asked after I described how much more ambitious my experiments had become by connecting agents to Android phones.\
+  **Answer**: Accelerometers and gyroscopes are remarkably good. Phones also have touchscreens, cameras that are much easier to point anywhere than laptop cameras, microphones, and a huge installed base. With a cable and USB debugging, agents can now access all of this remarkably easily.
+- **Question**: What will the commercial model be for software companies when their applications become plugins inside AI platforms? Asked while discussing Figma inside ChatGPT and how AI threatens conventional software businesses.\
+  **Answer**: My guess is something like the iOS App Store. Software companies get distribution to a much larger audience and can eventually charge subscriptions or extra for AI-enabled features. But people can also build the software themselves with AI, so the plugin ecosystem is questionable. Enterprises may still pay for someone they can trust.
+- **Question**: Isn't Responsible AI becoming a clichéd theme? Can we still show innovative demos under it? Asked after considering Responsible AI as the unifying story for a managerial CIO audience.\
+  **Answer**: Yes, we can show demos under Responsible AI. At a managerial level, people will probably prefer safety as a topic over possibility. A developer audience would be different.
+- **Question**: How can we grade a data visualization project without spending hours manually evaluating subjective answers? Asked after a 40-student chart-analysis quiz had taken weeks to grade and while replacing part of the final examination with a project.\
+  **Answer**: Give students small, testable challenges. For example, create a chart that humans and AI both interpret correctly, then one that fools humans but not AI. Use fixed questions, five-second human interpretation tests, and AI evaluation to measure the results. Students should use agents to do the work; our grading effort should be negligible.
+- **Question**: Should we let students choose their own applications when inventing new visualization formats? Asked while designing a project that tests creativity rather than routine chart generation.\
+  **Answer**: Yes. Ask them to invent a chart format nobody has seen and explain the specific situation where it's useful. Use AI deep research to judge whether it's genuinely novel, then test its usefulness: can someone understand it in 30 seconds? Novelty alone isn't enough.
+- **Question**: How should we evaluate whether a lightweight open-source video generation framework can replace an existing one? Asked after reproducing one HyperFrames benchmark task and comparing its output with Remotion and a golden reference.\
+  **Answer**: Try three to five more, quite different tasks. Compare quality with blind judgments, how reliably an agent produces working videos without fixes, and cost and speed including setup overhead. Don't rely entirely on HeyGen's judge when the benchmark comes from HeyGen. Show where each approach wins and fails, then recommend when to use which. No need to run all 50 tasks.
 
 ## Week ending 25 Oct 2026 {#week-ending-2026-10-25}
 

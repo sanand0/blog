@@ -4,10 +4,6 @@ proposals:
     sources:
       posts/2026/beating-ai-detectors-by-reading-aloud.md:
         content_hash: 3be5cd416ba060ae55e677d415e759831383aa8d93f9bdb75f84db0c3a6d7877
-  ai-evaluation:
-    sources:
-      pages/questions-i-am-asked.md:
-        content_hash: 76d5326c65f8b971e30fe28f11e7eebd6aa9cd54e94a7851b33c50c34f009a76
   ai-governance:
     sources:
       posts/2026/where-enterprise-ai-is-headed.md:
@@ -32,6 +28,10 @@ proposals:
     sources:
       posts/2026/aws-partyrock.md:
         content_hash: 8a4b8c13c1bd42197a5c1e5cb491956ce7408567038d8dc31d4877870e6f6dbb
+  captchas:
+    sources:
+      posts/2026/drawing-humans-only-captchas.md:
+        content_hash: 3eb0b5db9b328be03d1120ad16069fd8a69b5e2d6bc634c04d2a861871c93458
   cloud-finops:
     sources:
       posts/2026/analaizing-cloud-costs.md:
