@@ -3,6 +3,7 @@ title: Pending Actions Audit
 date: 2026-11-02T16:10:52+05:30
 description: What actions are pending on me
 classes: wrap-code
+tags: [chatgpt, email, whatsapp]
 ---
 
 <!-- 02 Nov 2026: Source prompt - https://chatgpt.com/c/6ae80192-ef34-83ec-bfbc-b33a81cb645a -->

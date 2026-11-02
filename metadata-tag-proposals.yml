@@ -198,6 +198,10 @@ proposals:
     sources:
       pages/talks.md:
         content_hash: 3d321093f9261d05ef93bff03970b614ba94c96bc0d4f0e29337b7383b4e94b0
+  task-management:
+    sources:
+      pages/prompts/pending-tasks.md:
+        content_hash: ec00ee5f74b9d22528a6c244ad48e733cce49bcbb5f6beb0414fd0c0bf6953d1
   taxation:
     sources:
       posts/2026/ai-tax-returns-2026.md:
