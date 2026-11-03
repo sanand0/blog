@@ -10,6 +10,8 @@ tags: [verification, ai-agents, data-analysis]
 talk_url: "https://talks.s-anand.net/2026-09-03-convergence-jio-institute/"
 ---
 
+**Update (Nov 2026):** I've expanded this into [52 Ways I Specify and Verify Agents](https://www.s-anand.net/blog/52-ways-i-specify-and-verify-agents/), based on over 11,000 prompts. [Explore the interactive page](https://files.s-anand.net/pages/verification-techniques/) with 30 specification and 22 verification techniques and real examples.
+
 I delivered a [15-minute keynote](https://talks.s-anand.net/2026-09-03-convergence-jio-institute/) at [Jio Institute's Convergence 2026](https://www.jioinstitute.edu.in/convergence-2026) at NTU on Thursday.
 
 The topic was "Data Storytelling" - a bit jarring in the middle of an AI event. [Shailesh](https://www.linkedin.com/in/shaileshk/) picked it and I just rolled with it. A spent several days worrying, "How the heck do I say about data storytelling, when most of my [recent](https://talks.s-anand.net/2026-08-12-iitm-ed-data-visualization/) [workshops](https://talks.s-anand.net/2026-07-04-vizchitra-dialog-curators-dilemma/) and [talks](https://talks.s-anand.net/2025-08-21-rip-data-scientists/) are about the death of my data storytelling approaches?"
