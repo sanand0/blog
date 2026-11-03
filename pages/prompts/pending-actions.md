@@ -1,7 +1,7 @@
 ---
 title: Pending Actions Audit
 date: 2026-11-02T16:10:52+05:30
-description: What actions are pending on me
+description: What actions / tasks are pending on me
 classes: wrap-code
 tags: [chatgpt, email, whatsapp]
 ---
