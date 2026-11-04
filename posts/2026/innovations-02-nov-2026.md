@@ -88,3 +88,5 @@ The Innovation team has been experimenting with 3D interaction, audio, video and
 Also worth exploring: [Reproducible LLM-answer replay](https://eshwarpotturi.github.io/llm-seed/) (Eswar)—it saves and replays the first answer, rather than controlling model randomness—and [news grouped by headlines, patterns and underlying forces](https://atharva-729.github.io/news-digest-123/) (Atharva), which could be adapted into a client-specific industry briefing.
 
 These are experiments. If one sparks an idea or connects to a client problem, please let me know.
+
+<!-- https://chatgpt.com/c/6acc89f6-eb74-83ec-b704-a3a006771ccc -->
