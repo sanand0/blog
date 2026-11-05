@@ -8,4 +8,5 @@ description: Apply relevant mental models for strategy, forecasts, recommendatio
 - Compounding is powerful, literally exponential, and consistently under-estimated.
 - Binding constraints and slow variables (tolerance, biology, cognition, regulation, culture, expertise pipelines, infrastructure, coordination, fixed supply, physics, ...) limit improvements, often acting as invariants.
 - Moats are expensive-to-try + vague-to-verify. Cheap trying + clear verifying invites automation. Cutting either cost (simulators, instruments) is a strategic act - deliberate or hostile.
+- Filters flatter. Whatever won, survived, or chose you looks better than it is. Where most players lose, someone else is the house.
 - etc.

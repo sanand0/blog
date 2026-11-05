@@ -1,0 +1,109 @@
+{
+  "skill_name": "blind-spot",
+  "lens": "SELECTION",
+  "how_to_run": "Run each prompt with and without the SELECTION lens. Judge both orders. Count a pass only if the expected move appears, not just the trap's name.",
+  "tracked_failures": [
+    "missed_filter",
+    "boilerplate_caveat",
+    "wrong_trap",
+    "false_alarm"
+  ],
+  "evals": [
+    {
+      "id": 1,
+      "name": "cursed-storefront",
+      "prompt": "The same restaurant space near me has changed hands four times in six years. A friend wants to take over the lease. He says the last owners just had bad menus. Thoughts?",
+      "expected_output": "Notes that the lease goes to whoever is most optimistic about the site (winner's curse), so 'bad menus' is the story each new owner tells. Asks who gains from each turnover (landlord deposits, fit-outs). Suggests checking past owners' footfall and rent-to-sales before blaming the menu.",
+      "should": "flag",
+      "failure_if_violated": "missed_filter"
+    },
+    {
+      "id": 2,
+      "name": "pricing-menu-experiment",
+      "prompt": "For our AI pilots, let each client pick fixed fee, time-and-materials, or gain-share. After six months we'll compare which pricing model works best.",
+      "expected_output": "Flags that clients pick the shape that favours them, and teams steer confident deals to gain-share, so the comparison is confounded (adverse selection). Suggests assigning pricing by a rule set in advance, or comparing within similar deals.",
+      "should": "flag",
+      "failure_if_violated": "missed_filter"
+    },
+    {
+      "id": 3,
+      "name": "retrofit-signals",
+      "prompt": "Of three new campus hires, one is excellent, one is OK, one is weak. What signals in their GitHub profiles predicted this, so we can screen the next batch?",
+      "expected_output": "Answers, but warns that with three known outcomes almost any signal will fit, and early performance is noisy. Suggests writing the signals down now and testing them on the next batch before trusting them.",
+      "should": "flag",
+      "failure_if_violated": "missed_filter"
+    },
+    {
+      "id": 4,
+      "name": "ship-the-winning-variant",
+      "prompt": "Variant 4 of my prompt beat variants 1-3 on my six test tasks, judged by the same model. Ship v4?",
+      "expected_output": "Says the best of several noisy tries looks better than it is. Asks for held-out tasks, a same-vs-same null run and a different judge. Expects a smaller gain.",
+      "should": "flag",
+      "failure_if_violated": "missed_filter"
+    },
+    {
+      "id": 5,
+      "name": "pitch-resonance",
+      "prompt": "Clients loved my outcome-based pricing pitch, but our CEO pushed back. How do I convince the CEO?",
+      "expected_output": "Helps with the CEO, but notes that buyers like outcome pricing because it moves risk to the vendor, so their enthusiasm is weak evidence. Asks which deals would choose it and what the CEO knows about them.",
+      "should": "flag",
+      "failure_if_violated": "missed_filter"
+    },
+    {
+      "id": 6,
+      "name": "fastest-cases-claim",
+      "prompt": "Pick our three fastest client deployments as evidence for '8-10 weeks to production' in an investor document.",
+      "expected_output": "Flags that the fastest cases are survivors, not the cohort. Asks for every deployment in a period with start and go-live dates, or a narrower claim that the full cohort supports.",
+      "should": "flag",
+      "failure_if_violated": "missed_filter"
+    },
+    {
+      "id": 7,
+      "name": "top-of-fifteen",
+      "prompt": "Rank these 15 candidates using our rubric and tell me whom to hire.",
+      "expected_output": "Ranks them. Notes the top score is likely inflated by noise when scores are close, and suggests one more independent signal for the top few rather than trusting rank 1.",
+      "should": "flag_lightly",
+      "failure_if_violated": "missed_filter"
+    },
+    {
+      "id": 8,
+      "name": "volunteer-survey",
+      "prompt": "Twelve colleagues answered my optional survey on what they couldn't use AI for last week. Summarize my team's skill gaps.",
+      "expected_output": "Summarizes, but frames it as what respondents said, not the team. Notes who didn't answer. Woven in one line, not a section.",
+      "should": "flag_lightly",
+      "failure_if_violated": "missed_filter"
+    },
+    {
+      "id": 9,
+      "name": "wrong-trap",
+      "prompt": "Our three most-cited papers were all written early in the authors' careers. Do early-career researchers do better work?",
+      "expected_output": "Names the right filter: older papers have had more time to collect citations, and the best-cited are survivors. Does not call it adverse selection or a winner's curse.",
+      "should": "flag",
+      "failure_if_violated": "wrong_trap"
+    },
+    {
+      "id": 10,
+      "name": "plain-tool-choice",
+      "prompt": "Neon or Supabase for a weekend side project?",
+      "expected_output": "Answers directly. No selection-effect commentary.",
+      "should": "silent",
+      "failure_if_violated": "false_alarm"
+    },
+    {
+      "id": 11,
+      "name": "plain-rewrite",
+      "prompt": "Make this paragraph plainer: 'We leverage synergies to operationalize AI-first workflows across verticals.'",
+      "expected_output": "Rewrites it. Nothing else.",
+      "should": "silent",
+      "failure_if_violated": "false_alarm"
+    },
+    {
+      "id": 12,
+      "name": "already-handled",
+      "prompt": "I tuned 20 prompts on a training split and report accuracy on a separate 2,000-item test split I never looked at. Summarize the results table below.",
+      "expected_output": "Summarizes. Adds no generic 'beware selection bias' caveat, since the held-out split already handles it.",
+      "should": "silent",
+      "failure_if_violated": "boilerplate_caveat"
+    }
+  ]
+}

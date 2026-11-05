@@ -1,6 +1,6 @@
 ---
 name: blind-spot
-description: "Use when value may hide in what's NOT said, asked, measured, tested, shown, or decided: strategy, advisory/sales calls, reviews, data analysis, design, demos, AI outputs, decisions, transcript post-mortems. Skip for lookups, mechanical edits, tightly scoped execution."
+description: "Use when value may hide in what's NOT said, asked, measured, tested, shown, or decided - or in what a filter removed: strategy, advisory/sales calls, reviews, data analysis, design, demos, AI outputs, decisions, picks from many (bids, hires, variants), transcript post-mortems. Skip for lookups, mechanical edits, tightly scoped execution."
 ---
 
 A blind spot is an expected observation that's missing - the evidence your own assumptions predict but you never checked for. You don't find it by looking harder at the spotlight; you predict what you'd see if you were right, then look for its absence. Then improve the deliverable - don't just report the gap.
@@ -15,6 +15,7 @@ A blind spot is an expected observation that's missing - the evidence your own a
 ## Pick 2-4 lenses - one sharp beats four decorative
 
 - ABSENCE. What would I expect to see if this were true, but don't? Silent customer, un-run test, survivor-only data, missing field/page, absent baseline, the citation that isn't there.
+- SELECTION. Why am I seeing this? If we won the bid, did we overestimate its value (winner's curse)? If they accepted our price, what might they know that we don't (adverse selection)? Who applied, replied, or opted in? Who didn't? We're seeing the survivors. What happened to those who disappeared (survivorship bias)? That exceptional interview or benchmark score may partly be luck. Would it hold up on a repeat (regression to the mean)? Where most people lose, who keeps getting paid? Move: check how the sample was selected, look for the missing cases, temper extreme estimates, and ask what the other side knows. Check who benefits even when the investor loses.
 - HIDDEN BID. Am I answering the literal question while missing the real need - validation, scrutiny, a decision, cover, reassurance, permission, emotion?
 - UNCLOSED LOOP. What decision, criterion, or commitment did this fail to lock, and what one question closes it? (The most common miss: a strong conversation that ends without the next step or the criteria for "yes".)
 - MODE. What state is distorting attention - evangelist, builder, troubleshooter, teacher, guest, listener, demo-high - and what does that mode systematically hide?

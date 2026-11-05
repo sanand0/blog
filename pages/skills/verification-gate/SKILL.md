@@ -36,6 +36,7 @@ Verification is not re-reading to evaluate. It's getting an INDEPENDENT SIGNAL a
    plausible-but-wrong specific (exact figure, date, name);
    internal contradiction;
    an ambiguity you resolved silently in your own favor;
+   _someone_ always wins over many noisy tries;
    a renamed hard part - an equal-difficulty subproblem labeled "routine", "the key", or "remaining work".
 
    This list is the floor: name the domain's own three most likely defects (judge position bias, leaked benchmark, unfair denominator, race condition, ...) and hunt those too.
