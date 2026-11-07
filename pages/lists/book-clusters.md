@@ -92,7 +92,8 @@ Rather than read individual books, why not read clusters on related topics? Usin
 - [x] 21 Lessons for the 21st Century (Yuval Noah Harari). https://claude.ai/chat/4888e581-0f99-47c9-8d7d-7dc8ad7c9118 #ACTION Fact-check talks and important transcripts. Also, where do I change my message based on audience? Run predictions on my blog archive - what I got wrong.
 - [x] The Next Conversation (Jefferson Fischer). https://claude.ai/chat/6d221a3e-5935-45f5-8c53-cbed48ba3a40 #ACTION Predict how conversatios will go before the conversation.
 - [x] Hidden Potential (Adam Grant). https://claude.ai/chat/e3a265e5-73f4-4b10-8ee0-971ca559496c #LEARNING Find gold in trash - what got filtered out? Build benchmarks for more skills. Analyze TDS.
-- Explanations, progress, and the Popperian worldview (1963–2018) [#](https://claude.ai/chat/4b1ec426-1070-4419-ad66-5a0fd4a11cfe)
+- [x] Teaching as a Subversive Activity.
+- Explanations, progress, and the Popperian worldview (1963–2018) [#](https://claude.ai/chat/4b1ec426-1070-4419-ad66-5a0fd4a11cfe) #ACTION Make falsifiable claims and measure impact. Phrase EVERY claim falsifiably. Propose SMALL experiments when TRIGGERed. Publish "Prediction results" in weekly TIL. Measure impact: TDS learning transfer, Innovation demos diffusion, ...
   - The Beginning of Infinity: Explanations That Transform the World (David Deutsch, 2011). #TODO Read this chapter-by-chapter
   - Conjectures and Refutations (Karl Popper, 1963)
   - The Logic of Scientific Discovery (Karl Popper, 1934; English 1959)

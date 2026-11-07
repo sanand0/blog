@@ -60,6 +60,10 @@ proposals:
     sources:
       posts/2026/creating-a-favicon-from-svg.md:
         content_hash: 60078d47222f38a2c59be0a7d4aad56e1f5dc379efd65e87266583de6eb8bb70
+  focus:
+    sources:
+      posts/2026/why-are-flights-productive.md:
+        content_hash: 905d49813367ac43827cbc615a5d7ab625d8a474e8ca453ff559fd9ab592762c
   formal-verification:
     sources:
       posts/2026/proving-code-works-with-z3.md:
