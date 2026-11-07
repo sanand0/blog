@@ -214,6 +214,10 @@ proposals:
     sources:
       posts/2026/a-tea-perspective.md:
         content_hash: c0f04fa4147ba74004e33957cff7ec116e31959bc9e9dd14447e5860866d21bc
+  toenails:
+    sources:
+      posts/2026/toenails.md:
+        content_hash: 0026016d4ad58885d6769ec8a95ea81cd61426cf0bc135ce98abad1f0df924f8
   travel-hacks:
     sources:
       posts/2026/watching-videos-with-a-phone-case.md:

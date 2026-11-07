@@ -4,6 +4,8 @@ date: 2026-11-07T18:25:35+08:00
 categories:
 - funny
 - how-i-do-things
+description: I explain why good toenails are rarer and more valuable to me than my phone or laptops, how I fiddle with them, and why housekeepers threaten my secret stash.
+tags: [humor, habits]
 ---
 
 Note: This continues my nasty habits series: [licking](https://www.s-anand.net/blog/licking/), [scraping](https://www.s-anand.net/blog/scraping/), and [nibbling](https://www.s-anand.net/blog/nibbling/) - in which I mentioned fiddling with nails.
