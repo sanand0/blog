@@ -133,7 +133,7 @@ This was a clever step by Claude. It told me to create a photo style guide in fo
 ![](https://files.s-anand.net/blog/2026-11-07-convergence-comic-story/ref-01-cat-output.avif)
 
 <details>
-<summary><strong>1. Create a reference comic sheet</strong></summary>
+<summary><strong>2. Create a reference comic sheet</strong></summary>
 
 ![](https://files.s-anand.net/blog/2026-11-07-convergence-comic-story/ref-02-style-input.avif)
 

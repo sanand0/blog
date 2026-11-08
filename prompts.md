@@ -1,5 +1,58 @@
 # Prompts
 
+## Improve Calvin swiping, 08 Nov 2026
+
+<!--
+cd ~/code/blog
+claude --model opus --effort medium
+-->
+
+/calvin/ doesn't work well when I swipe on desktop. The URL and text change fine, but the comic doesn't move smoothly to the next or previous - it fades and hangs there.
+
+<!-- claude --resume 6ee77606-47f9-4e27-aa56-537b0ce16c02 -->
+
+## Calvin and Hobbes mobile redesign, 29 Oct 2026
+
+<!-- Calvin and Hobbes mobile redesign: https://claude.ai/chat/1971e9e6-31f7-4e5a-9711-ec22de2213df (2026-10-29T15:04:00+08:00) -->
+
+So one of the problems that I have in my Calvin and Hobbes strip page is that it isn't particularly mobile friendly. It's also not particularly well designed. So let me talk through how I'd like this redesigned. I want to be able to view this on mobile both in portrait and in landscape mode, but more often so in portrait mode. It should be easy enough to pinch to zoom and see any portion of a strip and slide. And it should also be possible to swipe maybe outside the strip to get to the next and the previous. The search functionality is not as good as I would have liked. I want better fuzzy search, like how a Visual Studio Code does it, meaning ideally get me the same words, the same order, meaning a phrase match. And if that doesn't work, then match the individual words, preferably in order. And if not, just match the words in any order. And provide that kind of a list. Keep in mind that the typical search purpose is to find a specific strip. So while the search is run, the first strip that appears should be the best match. Yeah, but having said that, preserving the sequence or the timeline is less important when the search is active. It's okay for them to be sorted by quality of match. But then when I cancel the search, I should be able to browse along the timeline. The canceling of the search should be easy on mobile as well. It should also be easy enough to read the strip that is the quotes, the text, the annotation that we currently have on the screen. It should be a small button that I can use to copy the link to the image to be able to paste it elsewhere, as well as copy the image itself to paste it elsewhere and to copy the text. We don't want to make these too prominent, at least the copy the text could simply be a tiny copy icon at the right place. These are some of the ways in which this will be used. I'd like you to reimagine this and create a standalone page in the same repository. And push it into a separate branch that will actually publish it. So make sure that the GitHub Pages is modified so that this page does get published. Test it out and see if it works on my website. And let me know the link
+
+Use Remote Desktop Commander on Plutonium. Code is in ~/code/blog. Deployed at [https://www.s-anand.net/calvin/](https://www.s-anand.net/calvin/)
+
+---
+
+Right now, when I expand the comic, I am only able to see the expanded portion within the constraints of the box inside which the comic was there. I prefer being able to see a larger canvas. Meaning, when I expand the comic, I would rather no portion of it gets cut off except by the phone viewport - or only with a thin margin. The left and right margins of clipping were fine. I would have appreciated being able to see more of the comic, top and bottom.
+
+When I search for something, the size of the comic is dramatically smaller. I can barely see it in portrait mode, especially the Sunday color comics which are larger. Make sure that in search mode the size of the comic does not get reduced.
+
+One more that might work is when I expand or zoom in into a comic strip, we retain that zoom level across all the comic strips. So I might for instance zoom in, see the first panel, swipe a little to the right, see more of the second panel and so on. And then I get to the end. Now at this point, when I swipe, I wouldn't mind seeing the next comic come in almost as if it were a smooth scrolling continuous strip of comics from left to right. Now, obviously there should be a bit of a gap between the comic panels. You'll have to think about how to handle the Sunday strips appropriately. But that could be a nice effect. Obviously, the annotations and other things would also have to change at the appropriate time. And in an intuitive way, maybe when the second comic is more than midway into the page, we switch annotations, links, etc.
+
+The magnification or zoom level indicator is useful, but right now it's overlaid on top of the comic, which prevents me from reading parts of the comic strip. So move that somewhere outside.
+
+In landscape mode, so much of the height is taken up by the header, the footer, etc. that I barely have any space to see the strip. In landscape mode in particular, I should be able to take up the bulk or ideally even all of the viewport for the comic itself.
+
+If this can be done with incremental changes, that's what you think is the best way to do it, fine. If it requires significant redesign, that's perfectly fine too. Think about the best way of achieving the intent that I have conveyed here. And implement it. Give this to me as a new version so I can compare. Commit into the same new branch and push and deploy.
+
+---
+
+Increase the horizontal gap between successive comics so that it's much clearer where one comic ends and the next one begins.
+
+The Zoom-in interface kind of works fine, but what I would have preferred is that when I drag the panel or the comic down. The search should appear on the top as if just scrolling down. And then I should be able to change the search keyword, and that should dynamically update the screen, and I should be able to continue scrolling through the comics at the same zoom level. So it's like I'm browsing through a comic. I have zoomed in and I'm able to see the comic on most of the screen. I drag the comic down and the search appears on the top. I type a search keyword. It filters but the comics are at the same zoom level that I had. I scroll across the search filtered results, find something. The scroll is still visible on top. I cancel the search and then I drag the comic up. Now the scroll is no longer visible and I continue browsing. There may be other interface elements or interaction elements that you might think appropriate. So factor those in as well. Also, it wasn't very easy for me to just click on the box below when zoomed in to expand it. I had to very carefully position myself to just click or drag on the top edge of the bar. Maybe just clicking on the annotation itself should expand it or some such thing. Think about what would be the right interaction and implement it, please.
+
+Update the same page.
+
+---
+
+When the comic is slightly zoomed in, or zoomed in at any level, and I have the bottom panel open, I can't see the comic. That's because the comic is, I think, vertically centered on the page or some such thing. And I'm not able to just pan it so that I can take it close enough to the search bar. I don't ever, I think, need much of a gap between the top edge of the comic and the bottom of the search bar at the top. So just make sure that that problem is fixed and deploy.
+
+---
+
+For the desktop site, I would prefer an interface where the comic is a bit more vertically centered and the annotations don't move as much as they do right now. The existing page that I had previously created has an interface that's reasonably close to what I was thinking of for desktop mode. If it's possible to build this page in a responsive way so that that's handled as well, that would be ideal
+
+---
+
+Replace /calvin/ with this latest design. Remove everything else that's not required, making this a minimal commit directly on the main branch, and push. Check if it is live.
+
 ## Image thumbnails with video, 29 Oct 2026
 
 <!--

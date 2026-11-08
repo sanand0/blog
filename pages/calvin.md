@@ -997,14 +997,16 @@ tags: [calvin-and-hobbes, comic-strips, bill-watterson]
   stage.addEventListener("wheel", (e) => {
     e.preventDefault();
     if (!cells.has(pos)) return;
-    cancelAnim();
     const mouseWheel = e.deltaMode === 1 || (Math.abs(e.deltaY) >= 50 && !e.deltaX && !e.ctrlKey);
-    if (e.ctrlKey) return zoomTo(e.clientX, e.clientY, k * Math.exp(-e.deltaY * 0.01), false);
-    if (mouseWheel) return zoomTo(e.clientX, e.clientY, k * Math.exp(-Math.sign(e.deltaY) * 0.18), false);
-    if (zoomed) { tx -= e.deltaX; ty -= e.deltaY; clampView(); return requestRender(); }
+    if (e.ctrlKey) { cancelAnim(); return zoomTo(e.clientX, e.clientY, k * Math.exp(-e.deltaY * 0.01), false); }
+    if (mouseWheel) { cancelAnim(); return zoomTo(e.clientX, e.clientY, k * Math.exp(-Math.sign(e.deltaY) * 0.18), false); }
+    if (zoomed) { cancelAnim(); tx -= e.deltaX; ty -= e.deltaY; clampView(); return requestRender(); }
+    // Sideways flick: one strip per gesture. Don't cancel the slide that's playing — a trackpad keeps
+    // firing (inertia) events long after the flick, so stay locked until that stream goes quiet.
+    if (e.timeStamp < wheelLock) { wheelLock = Math.max(wheelLock, e.timeStamp + 150); return; }
     if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) {
       wheelAcc += e.deltaX;
-      if (Math.abs(wheelAcc) > 80 && e.timeStamp > wheelLock) { step(wheelAcc > 0 ? 1 : -1); wheelAcc = 0; wheelLock = e.timeStamp + 450; }
+      if (Math.abs(wheelAcc) > 80) { step(wheelAcc > 0 ? 1 : -1); wheelAcc = 0; wheelLock = e.timeStamp + 400; }
     }
   }, { passive: false });
 
