@@ -5,6 +5,33 @@ tags: [fact-checks, corrections]
 ---
 
 
+## Week ending 08 Nov 2026 {#week-ending-2026-11-08}
+
+- I said **"If they do it better, then TDS has taught them that skill"** while proposing to measure learning by comparing students' performance on successive questions.\
+  **Correction**: Better performance on a later question is evidence of improvement, not proof that the course caused it. Differences in question difficulty, prior knowledge, independent practice, agent assistance, and other factors may explain the change. Establish comparable assessments and use a suitable comparison group or research design before attributing improvement to teaching. [Institute of Education Sciences: Research Design Standards](https://ies.ed.gov/ncee/wwc/glossary).\
+  **HIGH · OVERSTATED**
+- I said **"the accelerometer tells me how much the phone is moved"** while explaining why measuring distances and reconstructing scenes with a phone should be simple.\
+  **Correction**: An accelerometer measures acceleration, not displacement or distance. Estimating motion by integrating acceleration accumulates errors. Reliable mobile augmented reality combines camera observations with inertial measurements and may use depth sensors; distance estimates require suitable visual geometry and calibration. [Android: Motion sensors](https://developer.android.com/develop/sensors-and-location/sensors/sensors_motion); [Google ARCore: Fundamental concepts](https://developers.google.com/ar/develop/fundamentals).\
+  **MEDIUM · FALSE**
+- I said **"map the approximate meaning of individual neurons"** and **"change the weightage"** of a feature using Gemma Scope while discussing research on controlling LLM behavior.\
+  **Correction**: Mechanistic interpretability tools such as Gemma Scope use sparse autoencoders to identify features represented across model activations, not necessarily individual neurons. Individual neurons can encode multiple unrelated features. Feature steering can intervene on activations during inference without changing the model's trained weights. Such interventions can influence behavior, but identifying a feature does not establish a simple, reliable control mechanism. [Google DeepMind: Gemma Scope](https://deepmind.google/blog/gemma-scope-helping-the-safety-community-shed-light-on-the-inner-workings-of-language-models/) · [Neuronpedia: Feature steering](https://docs.neuronpedia.org/sparse-autoencoders/feature-dashboards)\
+  **MEDIUM · OVERSTATED**
+- I said **"Rambler ... [is] not available via GBoard"** in a weekly learning digest about Android voice typing.\
+  **Correction**: Google's Gemini-powered Rambler voice input is built into Gboard on supported Pixel 11-series devices. It requires an updated Gboard and supports limited offline functionality. A separate keyboard application is not required to access Rambler on supported devices. [Google: Rambler voice input on Gboard](https://support.google.com/pixelphone/answer/17468539).\
+  **MEDIUM · FALSE**
+- I described Clairic as **"a Decision model (or System One model)"** in a technical learning digest.\
+  **Correction**: Cloudflare classifies Clairic as a System One extraction model, distinct from decision models such as Clef. Decision models select among predefined choices; Clairic extracts, computes, estimates, or predicts typed values from inputs. Both belong to the broader System One model family. [Cloudflare: Introducing Clairic](https://developers.cloudflare.com/changelog/post/2026-10-19-clairic-workers-ai/).\
+  **LOW · FALSE**
+- I included **"1923: White chocolate"** in an AI-assisted timeline of chocolate innovations.\
+  **Correction**: White chocolate emerged commercially in the 1930s, not 1923. Nestlé dates the launch of Milkybar to 1936 and records the introduction of Galak white chocolate in approximately the same period. [Nestlé: Milkybar history](https://www.nestle.com/brands/food-snacks/milkybar); [Nestlé company history](https://www.nestle.com/about/history/nestle-company-history).\
+  **LOW · FALSE**
+- I included **"1923: Filled chocolate bars"** in an AI-assisted chronology of confectionery inventions.\
+  **Correction**: Filled chocolate confectionery existed decades before 1923. Fry's produced chocolate-coated Cream Sticks in 1853 and launched its mass-produced, fondant-filled Chocolate Cream bar in 1866. [The Chocolate Museum: Fry's history](https://www.thechocolatemuseum.co.uk/week10); [Oxford Companion to Sugar and Sweets: Filled chocolates](https://app.ckbk.com/reference/swee13396c03s001e054/chocolates-filled).\
+  **LOW · FALSE**
+- I included **"1971: Chocolate eggs (Cadbury Creme Egg)"** in a chronology of chocolate innovations.\
+  **Correction**: Chocolate Easter eggs predate 1971: Fry's produced hollow chocolate eggs in 1873, and Cadbury introduced its first chocolate Easter egg in 1875. The year 1971 marks the launch of the specific Cadbury Creme Egg product, not the invention of chocolate eggs. [UK Companies House: History of chocolate eggs](https://companieshouse.blog.gov.uk/2017/04/13/what-uk-company-made-the-first-chocolate-egg/); [Cadbury: Company timeline](https://www.cadbury.co.uk/about/history/timeline/).\
+  **LOW · OVERSTATED**
+
 ## Week ending 01 Nov 2026 {#week-ending-2026-11-01}
 
 - I said **"LLMs can probably remember 20, 30 things. If you give them 1,000 things, they will almost certainly forget"** while discussing spreadsheet classification.\

@@ -1,12 +1,47 @@
 ---
 title: Questions I am asked
 description: Questions people ask me, and my answers.
-tags: [agentic-workflows, llms, enterprise-ai, data-visualization]
+tags: [ai-agents, llms, education, data-visualization]
 ---
 
 # Questions I am asked
 
 Questions people ask me, with names, organizations, and exact dates removed.
+
+## Week ending 08 Nov 2026 {#week-ending-2026-11-08}
+
+- **Question**: How do I get useful feedback on a visualization when the decision-maker has no time? Asked while discussing how to test dashboards intended for busy managers rather than fellow students.\
+  **Answer**: People refuse feedback because it takes too long or they don't see the point. Make the task tiny: show two visualizations for 10 seconds, ask which communicates better, then ask why.
+- **Question**: How will collaboration work when an adaptive exam gives every student different questions? Asked while designing an exam whose difficulty and next question depend on individual performance.\
+  **Answer**: Weaken collaboration, but don't destroy it. Add real-time challenges where several students enter a virtual room and must accomplish something together. They can bring agents, but coordinating with other humans becomes essential.
+- **Question**: Are we measuring what the student learned or merely what AI helped the student accomplish? Asked while planning to compare students' performance on repeated skills across assignments.\
+  **Answer**: Be precise about what learning we claim. The unit of learning may be the student plus their agent, context files, tools, and social network. If someone builds resources that make them consistently more capable, that may be a valid learning outcome even when the knowledge isn't entirely in their head.
+- **Question**: How do we measure whether students have learned to combine skills, rather than merely solve individual questions? Asked while reviewing longitudinal exam results for Docker, APIs, and other technical skills.\
+  **Answer**: Mine existing assignments for questions combining three or four earlier skills, then compare the same students' performance. Better still, deliberately design later questions to measure transfer. Don't just test whether they learned Docker; test whether they can use Docker, APIs, and other skills together.
+- **Question**: How do we explain what students are learning when an AI-native course has no fixed syllabus? Asked after students complained that they couldn't predict the questions or describe what they'd learn.\
+  **Answer**: If I can structurally, deterministically train you in something, why wouldn't I train a model instead? Most courses teach known skills that agents may eat up. This course explores where you can create value that agents cannot yet replace.
+- **Question**: Can we use AI instead of humans to evaluate whether a visualization communicates correctly? Asked while comparing ways to test visualizations, including simulated audiences and adversarial interpretation.\
+  **Answer**: No, not as a complete substitute. Agents perceive things differently. Humans unanimously recognized a drawing as a donkey while models guessed cow, sheep, or horse; the reverse happened with an owl. Use AI to generate failure cases, independently recalculate data, and suggest alternative designs. Still test with humans.
+- **Question**: How do we teach communication skills when the person who builds something is often not the person who presents it? Asked while discussing students who produce excellent projects but struggle to explain or sell them.\
+  **Answer**: I'm experimenting with letting students publish services and sell them to each other for credits—anything from data cleaning to helping with an exam. They must find customers and negotiate. The design needs work: some students trade credits without actually delivering anything.
+- **Question**: How do you preserve human interaction when AI makes you increasingly self-sufficient? Asked after observing that working extensively with Claude had made him more isolated from colleagues.\
+  **Answer**: I have the same problem. Conversation is an agent-era-proof skill, so I use agents to strengthen it. Every week, I ask one to review my conversations, identify people I should thank and why, and then I send those messages.
+- **Question**: How can multiple agents work together on the same task? Asked after seeing an AI-agent swarm collaborate and comparing it with his single Claude assistant.\
+  **Answer**: Start with one agent running hourly: read pending.txt, finish whatever it can, add new work, and mark anything blocked. Put another agent on a different machine and give them a shared folder or request queue with clear boundaries. Let them exchange work directly. Remove the human relay and you've got a swarm.
+- **Question**: How do people build agents that book flights and do things without being prompted each time? Asked after demonstrating several AI-built internal applications and hearing about personal agents.\
+  **Answer**: Telling Claude to book a flight is just using Claude. The interesting part is what it does unprompted. Schedule it to scan your context daily: what have I promised but not delivered? What commitments from others are pending? What possibilities am I missing? That's a way of expanding ambition, not merely automating tasks.
+- **Question**: Can AI reliably follow our existing presentation design, or should we let it create its own? Asked while reviewing AI-generated investment-banking presentations that still needed manual design work.\
+  **Answer**: Separate instruction-following from design. I'd trust ChatGPT more to preserve a supplied template while changing only the words, and Claude more to invent a good chart without a sample. Don't insist on one agent: have one produce the deck and another interrogate it for mistakes.
+- **Question**: How can I trust a RAG benchmark when the LLM itself generates the test questions? Asked while comparing reranking, agentic RAG, and knowledge graphs on financial filings.\
+  **Answer**: Start with the audience and the decision they need to make. An IT director should immediately recognize the questions as representative. Classify them by what the infrastructure must do—lookup, comparison, searching across documents, inference—and test roughly six questions per pattern. Keep the questions short enough to understand at a glance.
+- **Question**: How do we design an AI-permitted exam question that a shared solver won't make trivial for everyone? Asked while proposing questions that interrupt an agent's reasoning or alter instructions embedded in attached files.\
+  **Answer**: Changing just a number or phrase won't work; one student can build a solver and share it. Personalize the actual reasoning problem, not merely its parameters. I want many students to learn how to use agents cleverly—not one student solving everything, and not a question so hard that almost nobody learns.
+- **Question**: If agents can build software so cheaply, what does a product manager do? Asked after discussing a custom drawing app built in minutes and a conventional product pilot that took nine months.\
+  **Answer**: Maybe there's only one software now: agents. The product manager discovers users' needs and workflows, gives agents the right context and tools, and sets up the feedback system. Log everything, read the logs, decide what to change, and optimize. Building that data-driven decision system may be more valuable than building the application.
+- **Question**: What can programmers learn from managers about the constant context switching caused by running many agents? Asked after describing how checking idle agents and parallel tasks was destroying his flow state.\
+  **Answer**: Management is a useful analogy. Learn how to specify, verify, delegate, and manage an intelligence that may know more than you. Also study patent clerks, judges, auditors, and detectives: they've developed ways to make decisions despite incomplete information and experts knowing more than they do.
+- **Question**: Who will pay for software when anyone can build their own with AI? Asked while discussing inexpensive personal software, liquid software, and the declining scarcity of programming.\
+  **Answer**: Software may become liquid: people modify and fork applications for their own needs. Things consumed by agents can increasingly be packaged and optimized as products. Services may tilt towards the performing arts—not literally, but towards human performance sold to a human audience. The commercial models are still unclear.
 
 ## Week ending 01 Nov 2026 {#week-ending-2026-11-01}
 
