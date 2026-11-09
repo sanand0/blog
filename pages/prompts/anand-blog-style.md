@@ -6,7 +6,7 @@ description: I codified my personal blogging style and keep it up to date
 tags: [technical-writing, blogging, style-guide, minimalism]
 ---
 
-**ARCHIVED**: From 30 May 2026 onwards, I track this on [GitHub](https://github.com/sanand0/scripts/blob/main/agents/anand-writing-style/SKILL.md).
+**ARCHIVED**: From 30 May 2026 onwards, I track this on [GitHub](https://github.com/sanand0/skills/blob/main/anand-writing-style/SKILL.md).
 
 ## Version 2, 16 May 2026 + 25 May 2026 + 30 May 2026
 

@@ -60,4 +60,4 @@ So, what should we do for now? My thoughts:
 2. Continue conversations by deleting/editing the simplification.
 3. Or, _don't_ read it. Tell it to do what you would do after understanding.
 
-For me: I shouldn't invoke my [writing](https://github.com/sanand0/blog/blob/main/pages/skills/anand-writing-style/SKILL.md) and [speaking](https://github.com/sanand0/blog/blob/main/pages/skills/meeting-response-style/SKILL.md) skills along with other [thinking](https://github.com/sanand0/blog/tree/main/pages/skills) skills.
+For me: I shouldn't invoke my [writing](https://github.com/sanand0/skills/blob/main/anand-writing-style/SKILL.md) and [speaking](https://github.com/sanand0/skills/blob/main/meeting-response-style/SKILL.md) skills along with other [thinking](https://github.com/sanand0/skills) skills.

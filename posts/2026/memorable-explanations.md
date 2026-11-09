@@ -44,4 +44,4 @@ PS: The [Claude conversation](https://claude.ai/share/ba3af627-d327-4867-8f6c-83
    - "rename them to rhyme better"
    - "Re-apply the principles and suggest an improved version.
 
-I also converted this into a [SKILL.md](https://github.com/sanand0/scripts/blob/main/agents/memorable-explanations/SKILL.md)
+I also converted this into a [SKILL.md](https://github.com/sanand0/skills/blob/main/memorable-explanations/SKILL.md)

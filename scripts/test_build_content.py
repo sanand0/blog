@@ -56,73 +56,24 @@ def test_day_archives_are_noindex_and_excluded_from_sitemap(tmp_path):
     assert day["sitemap"]["disable"] is True
 
 
-def test_skill_readme_and_skill_become_one_section_page(tmp_path):
-    pages = tmp_path / "pages"
-    write(
-        pages / "skills/example/README.md",
-        """---
-description: Readme description
-tags: [one, two]
----
-
-README body.
-""",
-    )
-    write(
-        pages / "skills/example/SKILL.md",
-        """---
-name: example
-description: Skill description
----
-
-SKILL body.
-""",
-    )
-    write(pages / "skills/example/notes.md", "# Notes\n")
-
+def test_historical_skill_paths_redirect_to_canonical_repository(tmp_path):
     content = build(tmp_path)
+    root = build_content.split_front_matter(
+        (content / "skills/_index.md").read_text()
+    ).front_matter
+    assert root["redirect"] == "https://github.com/sanand0/skills"
+    assert root["layout"] == "skill-redirect"
+    assert root["robotsNoIndex"] is True
+    assert (content / "skills/skills/_index.md").is_file()
 
-    skill_page = content / "skills/example/_index.md"
-    text = skill_page.read_text(encoding="utf-8")
-    assert skill_page.exists()
-    assert not (content / "skills/example/README.md").exists()
-    assert not (content / "skills/example/SKILL.md").exists()
-    assert (content / "skills/example/notes.md").exists()
-    assert "title: example" in text
-    assert "summary: Skill description" in text
-    assert "description: Skill description" in text
-    assert "Readme description" not in text
-    assert "sourcePath: pages/skills/example/SKILL.md" in text
-    assert "- /skills/example/skill/" in text
-    assert "- /skills/example/example/" in text
-    assert "SKILL body.\n\nREADME body." in text
-    skills_index = (content / "skills/_index.md").read_text(encoding="utf-8")
-    assert "title: Skills" in skills_index
-    assert "Reusable AI agent skills" in skills_index
+    for name in build_content.SKILL_REDIRECTS:
+        destination = f"https://github.com/sanand0/skills/blob/main/{name}/SKILL.md"
+        for suffix in ("", "/skill", f"/{name}"):
+            path = content / "skills" / name / suffix.lstrip("/") / "_index.md"
+            assert path.is_file(), path
+            data = build_content.split_front_matter(path.read_text()).front_matter
+            assert data["redirect"] == destination
+            assert data["layout"] == "skill-redirect"
+            assert data["sitemap"]["disable"] is True
 
-
-def test_skill_without_readme_still_gets_directory_page(tmp_path):
-    skill = tmp_path / "pages/skills/skill-only/SKILL.md"
-    write(
-        skill,
-        """---
-name: skill-only
-description: Skill-only description
----
-
-Only skill body.
-""",
-    )
-
-    content = build(tmp_path)
-
-    skill_page = content / "skills/skill-only/_index.md"
-    text = skill_page.read_text(encoding="utf-8")
-    assert skill_page.exists()
-    assert not (content / "skills/skill-only/SKILL.md").exists()
-    assert "title: skill-only" in text
-    assert "summary: Skill-only description" in text
-    assert "description: Skill-only description" in text
-    assert "slug: skill-only" in text
-    assert "sourcePath: pages/skills/skill-only/SKILL.md" in text
-    assert "Only skill body." in text
+    assert len(build_content.SKILL_REDIRECTS) == 16

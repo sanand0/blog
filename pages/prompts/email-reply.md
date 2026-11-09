@@ -21,8 +21,7 @@ Guardrails:
 - For external recipients, don't disclose what's not approved for them.
 
 0. **Read relevant skills**: On Local MCP, find, read, and apply the relevant skills for the task.
-   `~/code/scripts/agents/*/SKILL.md` - coding + thinking skills
-   `~/code/blog/pages/skills/*/SKILL.md` - thinking skills
+   `~/code/skills/*/SKILL.md` - coding + thinking skills
 
 1. **Fetch and understand**: Use `gws` on Local MCP. Find the thread by subject + sender, read all of it (format=full, decode base64url bodies). Determine:
    - Have I already replied? Has the request changed? Did someone else answer?

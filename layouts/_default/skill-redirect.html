@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, follow">
+  <title>{{ .Title }} moved</title>
+  <!-- Give GoatCounter a moment to record the source URL before navigating. -->
+  <script data-goatcounter="https://sanand0.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <meta http-equiv="refresh" content="1; url={{ .Params.redirect }}">
+</head>
+<body data-pagefind-ignore="all">
+  <p>This skill moved to <a href="{{ .Params.redirect }}">{{ .Params.redirect }}</a>.</p>
+</body>
+</html>

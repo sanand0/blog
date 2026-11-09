@@ -21,6 +21,16 @@ app = typer.Typer(add_completion=False)
 INDEX_FILENAMES = {"index", "readme"}
 
 
+# Historical blog URLs, retained as redirects after skills moved to sanand0/skills.
+SKILL_REDIRECTS = (
+    "anand-objectives", "anand-writing-style", "blind-spot", "decision-compression",
+    "evidence-provenance", "expert-lens", "failure-redteam", "generate-fake-data",
+    "ideation-protocol", "meeting-response-style", "memorable-explanations",
+    "mental-models", "possibility-scan", "reframe-question", "stability-check",
+    "verification-gate",
+)
+
+
 @dataclass
 class MarkdownDoc:
     front_matter: dict[str, Any]
@@ -141,6 +151,29 @@ def write_index(path: Path, title: str, params: dict[str, Any] | None = None) ->
     path.write_text(render_front_matter(data), encoding="utf-8")
 
 
+def write_skill_redirects(content_dir: Path) -> None:
+    """Keep historical blog skills URLs alive for link compatibility and analytics."""
+    base = "https://github.com/sanand0/skills"
+    common = {
+        "layout": "skill-redirect",
+        "robotsNoIndex": True,
+        "sitemap": {"disable": True},
+    }
+    write_index(content_dir / "skills/_index.md", "Skills", {**common, "redirect": base})
+    # Earlier versions rendered pages/skills/README.md at /skills/skills/.
+    write_index(
+        content_dir / "skills/skills/_index.md", "Skills", {**common, "redirect": base}
+    )
+    for name in SKILL_REDIRECTS:
+        target = f"{base}/blob/main/{name}/SKILL.md"
+        for suffix in ("", "/skill", f"/{name}"):
+            write_index(
+                content_dir / "skills" / name / suffix.lstrip("/") / "_index.md",
+                name,
+                {**common, "redirect": target},
+            )
+
+
 def write_term_pages(
     content_dir: Path,
     section: str,
@@ -246,11 +279,7 @@ def build(
     if authors and isinstance(authors, list):
         author_login = (authors[0].get("login") or "").strip()
     write_posts_index(content_dir, author_login or None)
-    write_index(
-        content_dir / "skills" / "_index.md",
-        "Skills",
-        {"description": "Reusable AI agent skills for reasoning, verification, writing, ideation, and workflows."},
-    )
+    write_skill_redirects(content_dir)
 
     post_dates: list[datetime] = []
     post_count = 0
@@ -281,28 +310,8 @@ def build(
     for path in page_files:
         source_rel_path = path.relative_to(pages_dir)
         rel_path = source_rel_path
-        is_skill = len(rel_path.parts) >= 3 and rel_path.parts[0] == "skills"
-        if is_skill and path.name == "SKILL.md" and path.with_name("README.md").exists():
-            continue
         slug = derive_slug(rel_path)
         doc = split_front_matter(path.read_text(encoding="utf-8"))
-        if is_skill and path.name in {"README.md", "SKILL.md"}:
-            skill = split_front_matter(path.with_name("SKILL.md").read_text(encoding="utf-8"))
-            skill_name = skill.front_matter["name"]
-            slug = skill_name
-            doc.front_matter["title"] = skill_name
-            doc.front_matter["description"] = skill.front_matter["description"]
-            doc.front_matter["summary"] = skill.front_matter["description"]
-            doc.front_matter["aliases"] = [
-                f"/skills/{skill_name}/skill/",
-                f"/skills/{skill_name}/{skill_name}/",
-            ]
-            doc.front_matter["description"] = skill.front_matter["description"]
-            doc.front_matter["summary"] = skill.front_matter["description"]
-            if path.name == "README.md":
-                doc.body = skill.body.rstrip() + "\n\n" + doc.body.lstrip()
-                source_rel_path = source_rel_path.with_name("SKILL.md")
-            rel_path = rel_path.with_name("_index.md")
         source_path = (Path("pages") / source_rel_path).as_posix()
         write_markdown(content_dir / rel_path, doc, slug, source_path)
 

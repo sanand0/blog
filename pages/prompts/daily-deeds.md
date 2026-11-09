@@ -47,7 +47,7 @@ Search efficiently in two passes.
 Start with:
 
 - `~/Dropbox/notes/daily-deeds.md` -  see what I record/skip/miss and how I write.
-- The current goals and status in `~/Dropbox/notes/goals-bucket-list.md` and `~/Dropbox/notes/@todo.md` and `~/code/blog/pages/skills/anand-objectives/SKILL.md`
+- The current goals and status in `~/Dropbox/notes/goals-bucket-list.md` and `~/Dropbox/notes/@todo.md` and `~/code/skills/anand-objectives/SKILL.md`
 - Transcript filenames within the date window under `~/Dropbox/notes/transcripts/`
 - Emails via `gws` - both work (s.anand@straive.com) and personal (root.node@gmail.com)
 - WhatsApp messages via `~/Documents/data/whatsapp`

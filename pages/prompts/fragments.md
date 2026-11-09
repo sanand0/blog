@@ -334,7 +334,7 @@ In fact, I'd love for you to think about who some of the best authors are who ac
 
 ## Expert Lens
 
-Moved to the [expert lens skill](https://github.com/sanand0/scripts/blob/main/agents/expert-lens/SKILL.md).
+Moved to the [expert lens skill](https://github.com/sanand0/skills/blob/main/expert-lens/SKILL.md).
 
 ## Fact check mistakes I made
 
@@ -417,7 +417,7 @@ Include clear explanation of each step with visual cues to highlight relevant pa
 
 <!-- https://claude.ai/chat/038c0bea-8d76-4ea4-85ff-b0be231c2457 -->
 
-https://github.com/sanand0/scripts/blob/main/agents/interactions/SKILL.md
+https://github.com/sanand0/skills/blob/main/interactions/SKILL.md
 
 ## Interview me
 

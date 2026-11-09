@@ -16,7 +16,7 @@ I see a future where coding agents are the wrapper around _all_ software. (Lots 
 
 If that's so, then:
 
-1. **Agents are the new users** of software. We need [agent-friendly CLI](https://github.com/sanand0/scripts/blob/main/agents/agent-friendly-cli/SKILL.md), agentic web accessibility, and stuff like that.
+1. **Agents are the new users** of software. We need [agent-friendly CLI](https://github.com/sanand0/skills/blob/main/agent-friendly-cli/SKILL.md), agentic web accessibility, and stuff like that.
 2. **Agents _ARE_ the new software**. I mean, _all_ sofware is just one coding agent. "Tell the agent to do it". It'll find & install what's required or write it - to get the job done.
 
 If agents are a genie we can't push back into the bottle, I guess we'll see more (naive) usage, meaning:
