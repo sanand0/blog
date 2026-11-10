@@ -3,6 +3,8 @@ title: Linkedin List Feeds
 date: 2026-11-10T13:17:24+08:00
 categories:
 - top-10-lists
+description: I found a practical way to build and share LinkedIn list feeds using the posts search page and member filters. My lists cover AI, FOSS, education, and data visualization.
+tags: [linkedin, content-discovery]
 ---
 
 X has [lists](https://help.x.com/en/using-x/x-lists). You can follow posts by any list of people - and share the list.
@@ -32,7 +34,7 @@ Then I asked ChatGPT to recommend people to follow. Here's my current list:
 - [LinkedIn Feed Suggestions](https://chatgpt.com/c/6af27299-b658-83ec-a2d7-b0d150eb5a8d)
 - [LinkedIn Feed URLs](https://chatgpt.com/c/6af296eb-291c-83ee-9a24-92246384dad8)
 
-LinkedIn command:
+LinkedIn people:
 
 begin
   linkedin activity \
@@ -45,5 +47,9 @@ begin
     # Data Viz
     currankelleher rasagy nbremer dansaffer albertocairo abmakulec moebio georgios-karamanis-a54926153 jburnmurdoch
 end
+
+LinkedIn orgs:
+
+linkedin activity ourworldindata data-for-india datawrapper pudding-viz
 
 -->
