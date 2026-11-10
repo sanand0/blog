@@ -678,6 +678,14 @@ Which of these would you suggest I implement and why?
 Implement and test.
 ```
 
+## Review Project
+
+Via [Alex Albert](https://x.com/alexalbert__/status/2119884951550386671).
+
+```markdown
+Read this entire project and find everything that’s broken, inconsistent, inefficient, or no longer needed. Fix what you’re sure about and list the rest for me to review.
+```
+
 ## Revision artifacts first-time viewer no history
 
 <!-- https://chatgpt.com/c/6a5ef5e3-f384-83ee-b2a3-99dc74efaa8f + https://claude.ai/chat/d7f7230b-8fbf-4d48-bde8-164566b82c7a -->

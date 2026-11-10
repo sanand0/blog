@@ -44,6 +44,10 @@ proposals:
     sources:
       posts/2026/dancing-with-eyes-closed.md:
         content_hash: 62e06d4b49f6ecdfb0e8fc1347f8ac2b05ebc73ad68f59bf8d3132945051637b
+  data-conversion:
+    sources:
+      posts/2026/converting-tus-nesstar-files.md:
+        content_hash: 294a17e805ae8ae30988a8a99cdb0e6f592b71ee4440de176b518926af08b54c
   data-quality:
     sources:
       posts/2026/agents-answer-small-questions-from-big-data.md:

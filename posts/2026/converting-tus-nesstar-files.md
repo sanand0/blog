@@ -4,6 +4,8 @@ date: 2026-11-09T16:00:12+08:00
 categories:
 - coding
 - llms
+description: I used ChatGPT on Linux to convert India's 900 MB Time Use Survey Nesstar file into Excel and Parquet, despite the end-of-life Windows software. It left me thinking about making old data usable again.
+tags: [chatgpt, open-data]
 ---
 
 The [Time Use Survey 2024](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2106113&reg=48&lang=2) [data](https://microdata.gov.in/NADA/index.php/catalog/236) released last year lets you download a ZIP containing a 900 MB `.Nesstar` file.

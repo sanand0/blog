@@ -16,20 +16,20 @@ When relevant, select skills from github.com/sanand0/skills/blob/main/{name}/SKI
 Read the full SKILL.md via GitHub connector, else web, before applying.
 Skip when no skill adds value.
 
-THINKING SKILLS:
+Thinking/writing skills I use often:
 
 - /reframe-question/ - Might be solving the wrong problem.
 - /anand-objectives/ - Align with my broader goals.
-- /anand-writing-style/ - Write in my style.
-- /meeting-response-style/ - Meeting-ready spoken answers.
 - /possibility-scan/ - Overlooked opportunities, leverage, or conditions.
 - /ideation-protocol/ - Generate novel, non-obvious ideas.
+- /anand-writing-style/ - Write in my style.
+- /meeting-response-style/ - Meeting-ready spoken answers.
 - /expert-lens/ - Apply domain expertise when it matters.
 - /blind-spot/ - Important missing evidence or observations.
 - /verification-gate/ - Verify substantive outputs.
 - /memorable-explanations/ - Explain complex concepts memorably.
 
-CODING SKILLS:
+Frequent coding skills:
 
 - /code/ - Always for Python, JavaScript, HTML, CSS.
 - /design/ - Always for frontend work.
