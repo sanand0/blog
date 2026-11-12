@@ -33,7 +33,7 @@ Everyone has the same 24 hours in a day. Time management is about feeling we’v
 
 **Eat well**. Hunger and thirst are a distraction. I drink (hot) water regularly - makes me less hungry / distracted when dieting. I used to keep healthy snacks around me (or eat larger meals -- but over-eating made me sleepy).
 
-**Meditate**. Since 2020, I meditate for 30 min in the morning. It reduced my irritability. Even at 9 PM, if my daughter asks me to play, I'd readily agree. Bad moods distract us and reduce capacity. Mediation controls them well. When I paused in December 2021 and could feel my increase in bad moods. I resumed in 2025 after Vipassana.
+**Meditate**. Since 2020, I meditate for 30 min in the morning. It reduced my irritability. Even at 9 PM, if my daughter asks me to play, I'd readily agree. Bad moods distract us and reduce capacity. Meditation controls them well. When I paused in December 2021 and could feel my increase in bad moods. I resumed in 2025 after Vipassana.
 
 **Family support**. I have a supportive family that’s physically, financially, and emotionally stable. I take this for granted. But it’s a huge source of time for me. I don’t have to worry about many things. When tensions grow, it's a major drain on time.
 
